@@ -4,7 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "copy-corpus": "node scripts/copy-corpus.mjs",
+    "predev": "node scripts/copy-corpus.mjs",
     "dev": "vite",
+    "prebuild": "node scripts/copy-corpus.mjs",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "lint": "eslint .",
@@ -14,11 +17,15 @@
     "validate:summa": "tsx scripts/import-summa/validate.ts"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.3"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/react": "^16.3.3",
     "@types/node": "^24.13.3",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.4",
@@ -28,6 +35,7 @@
     "eslint-plugin-react-refresh": "^0.5.5",
     "fast-xml-parser": "^5.11.1",
     "globals": "^17.11.0",
+    "jsdom": "^30.0.1",
     "tsx": "^4.23.12",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.68.0",

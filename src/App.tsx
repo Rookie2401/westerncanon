@@ -1,122 +1,52 @@
-import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import './App.css'
+import { useEffect } from 'react';
+import { HashRouter, Route, Routes } from 'react-router-dom';
+import { applyPrefs } from './state/applyPrefs.ts';
+import { getPrefs, usePrefs } from './state/storage.ts';
+import { Home } from './screens/Home.tsx';
+import { PartScreen } from './screens/Part.tsx';
+import { QuestionScreen } from './screens/Question.tsx';
+import { Reader } from './screens/Reader.tsx';
+import { SearchScreen } from './screens/Search.tsx';
+import { BookmarksScreen } from './screens/Bookmarks.tsx';
+import { SettingsScreen } from './screens/Settings.tsx';
+import { AboutScreen } from './screens/About.tsx';
+import { ProoemiumScreen } from './screens/Prooemium.tsx';
 
-function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
-
-      <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
+/** Keeps <html> in sync with stored prefs and the OS theme (when theme=system). */
+function PrefsEffect() {
+  const prefs = usePrefs();
+  useEffect(() => {
+    applyPrefs(prefs);
+  }, [prefs]);
+  useEffect(() => {
+    const mq = window.matchMedia('(prefers-color-scheme: dark)');
+    const onChange = () => {
+      if (getPrefs().theme === 'system') applyPrefs();
+    };
+    mq.addEventListener('change', onChange);
+    return () => mq.removeEventListener('change', onChange);
+  }, []);
+  return null;
 }
 
-export default App
+export default function App() {
+  return (
+    <HashRouter>
+      <PrefsEffect />
+      <div className="shell">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/prooemium" element={<ProoemiumScreen />} />
+          <Route path="/part/:partId" element={<PartScreen />} />
+          <Route path="/part/:partId/q/:qNum" element={<QuestionScreen />} />
+          <Route path="/read/:partId/:qNum/:aParam" element={<Reader />} />
+          <Route path="/search" element={<SearchScreen />} />
+          <Route path="/bookmarks" element={<BookmarksScreen />} />
+          <Route path="/settings" element={<SettingsScreen />} />
+          <Route path="/about" element={<AboutScreen />} />
+          <Route path="*" element={<Home />} />
+        </Routes>
+      </div>
+    </HashRouter>
+  );
+}
