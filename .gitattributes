@@ -1,0 +1,8 @@
+# Keep generated + source data byte-stable across platforms so re-running
+# `npm run import:summa` produces no spurious diff.
+*.json text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.md text eol=lf
+scripts/import-summa/raw/xml_latin_nl.xml -text
