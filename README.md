@@ -4,11 +4,23 @@ Mobile-first PWA (React + TypeScript + Vite) for reading the Latin *Summa
 Theologiae* of Thomas Aquinas fully offline. All text is bundled from
 `data/summa/*.json`; **the app never fetches anything at runtime**.
 
+## Run it
+
+```
+npm install
+npm run dev
+```
+
+Then open the printed `http://localhost:5173/` URL. For an offline / installable
+(PWA) check: `npm run build && npm run preview`, load the page once, then it works
+with the network disconnected.
+
 ## Scripts
 
 | script | what it does |
 |--------|--------------|
-| `npm run dev` | Vite dev server |
+| `npm run dev` | Vite dev server (runs `copy-corpus` first) |
+| `npm run copy-corpus` | copy `data/summa/*.json` → `public/summa/` (auto-run by `dev`/`build`) |
 | `npm run build` | typecheck + production build |
 | `npm run preview` | preview the production build |
 | `npm run lint` | ESLint (flat config, `eslint.config.js`) |
@@ -62,5 +74,11 @@ scripts/import-summa/   run-once dev tooling (fetch → parse → normalize → 
   validate.ts           corpus validation → VALIDATION_REPORT.md
   raw/xml_latin_nl.xml  the single bundled source copy (committed)
 data/summa/             clean JSON, committed, bundled with the app
-src/                    app UI — Builder 2 owns this (currently the Vite template)
+  gaps.json             machine-readable list of citations absent from the source
+public/summa/           corpus copied here at dev/build time (gitignored)
+src/                    app UI (React + HashRouter)
+  corpus/               lazy corpus loader, fold, reference parser, search, traversal
+  screens/              Home, Part, Question, Reader, Search, Bookmarks, Settings, About, Prooemium
+  state/                localStorage: prefs, bookmarks, last position
+  components/, ui/       TopBar, JumpNavigator, icons, formatting helpers
 ```
