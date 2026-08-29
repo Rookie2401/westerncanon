@@ -261,7 +261,7 @@ export function Reader() {
       </div>
 
       <div className="reader__scroll" onClick={onBodyClick} role="presentation">
-        <article className="reader__prose">
+        <article key={key} className="reader__prose reader__prose--in">
           {body}
         </article>
       </div>

@@ -154,6 +154,63 @@ p {
   }
 }
 
+/* --- motion ----------------------------------------------------------------- */
+/* Restrained, opacity-led transitions. The reduced-motion block above zeroes
+   every duration, so each of these degrades cleanly to an instant cut. */
+@keyframes screen-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes prose-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes backdrop-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes sheet-in {
+  from {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Per-screen fade on route entry (keyed in App.tsx). Opacity only: a transform
+   here would reparent the reader's position:fixed chrome. */
+.route-fade {
+  animation: screen-in 0.22s ease-out both;
+}
+/* The article body fades + lifts slightly on every prev/next (keyed in Reader).
+   Safe to transform — no fixed descendants live inside .reader__prose. */
+.reader__prose--in {
+  animation: prose-in 0.22s ease-out both;
+}
+
+/* Smooth the light/dark swap on the main surface (no transition on first
+   paint — the pre-paint script sets the theme before this sheet loads). */
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
 /* --- layout shell ----------------------------------------------------------- */
 /* iOS notch / Dynamic Island / home-indicator handling: the viewport is
    `viewport-fit=cover`, so every edge-anchored surface pads itself back inside
@@ -213,11 +270,14 @@ p {
   height: 2.25rem;
   border-radius: 999px;
   color: var(--ink-soft);
-  transition: background-color 0.15s, color 0.15s;
+  transition: background-color 0.15s, color 0.15s, transform 0.12s ease;
 }
 .iconbtn:hover {
   background: color-mix(in srgb, var(--ink) 8%, transparent);
   color: var(--ink);
+}
+.iconbtn:active {
+  transform: scale(0.9);
 }
 .iconbtn--active {
   color: var(--accent);
@@ -275,6 +335,9 @@ p {
   text-decoration: none;
   padding-left: 1rem;
   background: color-mix(in srgb, var(--ink) 3.5%, transparent);
+}
+.home__entry:active {
+  background: color-mix(in srgb, var(--ink) 7%, transparent);
 }
 .home__entry-name {
   font-size: 1.25rem;
@@ -373,6 +436,9 @@ p {
   text-decoration: none;
   padding-left: 0.9rem;
   background: color-mix(in srgb, var(--ink) 3.5%, transparent);
+}
+.entry:active {
+  background: color-mix(in srgb, var(--ink) 7%, transparent);
 }
 .entry__num {
   flex: none;
@@ -564,6 +630,7 @@ p {
   padding: calc(4rem + env(safe-area-inset-top, 0px)) 1rem
     calc(1rem + env(safe-area-inset-bottom, 0px));
   overflow-y: auto;
+  animation: backdrop-in 0.16s ease-out both;
 }
 .sheet {
   width: 100%;
@@ -573,6 +640,7 @@ p {
   border-radius: 10px;
   box-shadow: var(--shadow-raised);
   padding: 1.25rem;
+  animation: sheet-in 0.2s cubic-bezier(0.2, 0.7, 0.2, 1) both;
 }
 .sheet__title {
   font-size: 0.75rem;
@@ -673,6 +741,9 @@ p {
 .result:hover {
   text-decoration: none;
   background: color-mix(in srgb, var(--ink) 3.5%, transparent);
+}
+.result:active {
+  background: color-mix(in srgb, var(--ink) 7%, transparent);
 }
 .result__cite {
   font-size: 0.78rem;
