@@ -209,7 +209,7 @@ export function SearchScreen() {
                       {r.articleTitle ? (
                         <div className="result__title">{r.articleTitle}</div>
                       ) : null}
-                      <div className="result__snippet" lang="la">
+                      <div className="result__snippet">
                         {snip && snip.found ? (
                           <>
                             {snip.before}

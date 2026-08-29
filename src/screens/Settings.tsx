@@ -67,7 +67,7 @@ export function SettingsScreen() {
           </div>
         </div>
 
-        <div className="setting__preview" lang="la">
+        <div className="setting__preview">
           Respondeo dicendum quod Deum esse quinque viis probari potest. Prima
           autem et manifestior via est, quae sumitur ex parte motus.
         </div>

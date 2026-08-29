@@ -12,8 +12,8 @@ export function ProoemiumScreen() {
         {loading ? (
           <p className="loading">Loading…</p>
         ) : data ? (
-          <article className="prose prose--latin" lang="la">
-            <p className="crumb" lang="en">
+          <article className="prose prose--latin">
+            <p className="crumb">
               {data.citation}
             </p>
             {data.text

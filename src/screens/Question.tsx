@@ -35,7 +35,7 @@ export function QuestionScreen() {
                 {info.header.toUpperCase()} · QUAESTIO {roman(question.number)}
               </p>
               {question.prooemium ? (
-                <p className="screen-head__prooemium" lang="la">
+                <p className="screen-head__prooemium">
                   {question.prooemium}
                 </p>
               ) : null}

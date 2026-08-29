@@ -66,6 +66,13 @@ describe('Reader', () => {
     expect(
       screen.getByText(/Respondeo dicendum quod Deum esse quinque viis/),
     ).toBeTruthy();
+
+    // regression guard: no `lang="la"` anywhere in the reader, so EB Garamond's
+    // `locl` feature (u->v / j->i) can never be triggered on iOS Safari.
+    expect(document.querySelector('[lang="la"]')).toBeNull();
+    expect(document.querySelector('.reader__prose')?.hasAttribute('lang')).toBe(
+      false,
+    );
   });
 
   it('shows an honest gap note for a missing article (I q.2 a.1)', async () => {

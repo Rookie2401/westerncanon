@@ -103,10 +103,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  /* EB Garamond ships a Latin (`locl`) feature that swaps u->v / j->i for the
-     `lang="la"` prose. Authentic to inscriptions but not what a reader wants
-     here, so force the default forms everywhere. */
+  /* EB Garamond ships a Latin (`locl`) feature that swaps u->v / j->i for
+     text runs tagged `lang="la"`. Authentic to inscriptions but not what a
+     reader wants here. The primary fix is removing the `lang="la"` triggers
+     from the markup (iOS Safari ignores the properties below); these remain
+     as defense-in-depth for other engines. */
   font-feature-settings: 'kern' 1, 'liga' 1, 'locl' 0;
+  font-variant-alternates: normal;
   font-language-override: 'ENG';
 }
 ::selection {
