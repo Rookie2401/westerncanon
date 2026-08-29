@@ -2,9 +2,41 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>summa-app</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#f7f2e8" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#16130f" media="(prefers-color-scheme: dark)" />
+    <meta
+      name="description"
+      content="Offline reader for the Latin Summa Theologiae of Thomas Aquinas."
+    />
+    <title>Summa Theologiae</title>
+    <script>
+      // Pre-paint: apply stored reading prefs + theme before first paint so
+      // there is no flash. Arrays MUST match src/state/storage.ts
+      // (FONT_SIZES / LINE_HEIGHTS).
+      (function () {
+        var FONT_SIZES = ['0.98rem', '1.06rem', '1.19rem', '1.32rem', '1.46rem'];
+        var LINE_HEIGHTS = ['1.5', '1.62', '1.78'];
+        var p = {};
+        try {
+          p = JSON.parse(localStorage.getItem('summa:prefs') || '{}') || {};
+        } catch (e) {
+          p = {};
+        }
+        var fi = Number.isInteger(p.fontSize) && p.fontSize >= 0 && p.fontSize < FONT_SIZES.length ? p.fontSize : 2;
+        var li = Number.isInteger(p.lineSpacing) && p.lineSpacing >= 0 && p.lineSpacing < LINE_HEIGHTS.length ? p.lineSpacing : 1;
+        var theme = p.theme === 'light' || p.theme === 'dark' ? p.theme : 'system';
+        var resolved =
+          theme === 'system'
+            ? (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+            : theme;
+        var root = document.documentElement;
+        root.setAttribute('data-theme', resolved);
+        root.style.setProperty('--reading-font-size', FONT_SIZES[fi]);
+        root.style.setProperty('--reading-line-height', LINE_HEIGHTS[li]);
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>
