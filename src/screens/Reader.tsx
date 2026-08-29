@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useLayoutEffect, useMemo, useState } from 'react';
-import { Link, useNavigate, useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import clsx from 'clsx';
 import {
   citationOf,
@@ -21,7 +21,7 @@ import {
   toggleBookmark,
   useIsBookmarked,
 } from '../state/storage.ts';
-import { BookmarkIcon } from '../components/icons.tsx';
+import { BackIcon, BookmarkIcon } from '../components/icons.tsx';
 import { JumpNavigator } from '../components/JumpNavigator.tsx';
 
 function scrollRatio(): number {
@@ -33,7 +33,6 @@ export function Reader() {
   const { partId = '', qNum = '', aParam = '' } = useParams();
   const info = partById(partId);
   const qn = Number(qNum);
-  const navigate = useNavigate();
   const key = `${partId}/${qNum}/${aParam}`;
 
   const { data: part, loading } = useResource(
@@ -196,13 +195,13 @@ export function Reader() {
     return (
       <>
         <header className="topbar">
-          <button
+          <Link
+            to={`/part/${partId}/q/${qNum}`}
             className="iconbtn"
-            aria-label="Back"
-            onClick={() => navigate(-1)}
+            aria-label="Back to question"
           >
-            ‹
-          </button>
+            <BackIcon />
+          </Link>
           <span className="topbar__title">{crumb}</span>
         </header>
         <main className="page page--narrow">
@@ -230,6 +229,13 @@ export function Reader() {
     <div className={clsx('reader', immersive && 'reader--immersive')}>
       <div className="reader__chrome reader__header">
         <div className="reader__header-inner">
+          <Link
+            to={`/part/${partId}/q/${qNum}`}
+            className="iconbtn"
+            aria-label="Back to question"
+          >
+            <BackIcon />
+          </Link>
           <button
             className="reader__headbtn"
             onClick={() => setJump(true)}
