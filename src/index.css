@@ -152,6 +152,10 @@ p {
 }
 
 /* --- layout shell ----------------------------------------------------------- */
+/* iOS notch / Dynamic Island / home-indicator handling: the viewport is
+   `viewport-fit=cover`, so every edge-anchored surface pads itself back inside
+   the safe area with env(safe-area-inset-*). Fallbacks keep calc() valid where
+   the vars are unsupported. */
 .shell {
   min-height: 100svh;
   min-height: 100dvh;
@@ -163,6 +167,9 @@ p {
   max-width: 44rem;
   margin: 0 auto;
   padding: 1.5rem 1.25rem 5rem;
+  padding-left: max(1.25rem, env(safe-area-inset-left, 0px));
+  padding-right: max(1.25rem, env(safe-area-inset-right, 0px));
+  padding-bottom: calc(5rem + env(safe-area-inset-bottom, 0px));
 }
 .page--narrow {
   max-width: 34rem;
@@ -177,6 +184,9 @@ p {
   align-items: center;
   gap: 0.5rem;
   padding: 0.55rem 0.9rem;
+  padding-top: calc(0.55rem + env(safe-area-inset-top, 0px));
+  padding-left: calc(0.9rem + env(safe-area-inset-left, 0px));
+  padding-right: calc(0.9rem + env(safe-area-inset-right, 0px));
   background: color-mix(in srgb, var(--paper) 88%, transparent);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--rule);
@@ -217,9 +227,12 @@ p {
 /* --- home -------------------------------------------------------------- */
 .home {
   text-align: center;
-  padding-top: 3.5rem;
+  /* The transparent icon row above already carries the safe-area inset; only a
+     little extra breathing room is needed before the title. */
+  padding-top: 0.5rem;
 }
 .home__title {
+  margin-top: 1.75rem;
   font-size: clamp(1.9rem, 6vw, 2.7rem);
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -411,7 +424,9 @@ p {
 .reader__header-inner {
   max-width: 44rem;
   margin: 0 auto;
-  padding: 0.5rem 1rem 0.6rem;
+  padding: calc(0.5rem + env(safe-area-inset-top, 0px))
+    calc(1rem + env(safe-area-inset-right, 0px)) 0.6rem
+    calc(1rem + env(safe-area-inset-left, 0px));
   display: flex;
   align-items: flex-start;
   gap: 0.5rem;
@@ -445,7 +460,10 @@ p {
 .reader__prose {
   max-width: var(--measure);
   margin: 0 auto;
-  padding: 5rem 1.35rem 6rem;
+  padding: calc(5rem + env(safe-area-inset-top, 0px))
+    calc(1.35rem + env(safe-area-inset-right, 0px))
+    calc(6rem + env(safe-area-inset-bottom, 0px))
+    calc(1.35rem + env(safe-area-inset-left, 0px));
   font-size: var(--reading-font-size);
   line-height: var(--reading-line-height);
   hyphens: auto;
@@ -493,7 +511,9 @@ p {
 .reader__nav-inner {
   max-width: 44rem;
   margin: 0 auto;
-  padding: 0.6rem 1rem;
+  padding: 0.6rem calc(1rem + env(safe-area-inset-right, 0px))
+    calc(0.6rem + env(safe-area-inset-bottom, 0px))
+    calc(1rem + env(safe-area-inset-left, 0px));
   display: flex;
   align-items: center;
   gap: 0.75rem;
@@ -538,7 +558,9 @@ p {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  padding: 4rem 1rem;
+  padding: calc(4rem + env(safe-area-inset-top, 0px)) 1rem
+    calc(1rem + env(safe-area-inset-bottom, 0px));
+  overflow-y: auto;
 }
 .sheet {
   width: 100%;
