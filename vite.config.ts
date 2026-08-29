@@ -15,6 +15,11 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
+      includeAssets: [
+        'favicon.svg',
+        'favicon-32.png',
+        'apple-touch-icon.png',
+      ],
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,woff2,json}'],
         // The bundled corpus is ~25 MB total; search-index.json alone is ~12 MB.
@@ -36,6 +41,16 @@ export default defineConfig({
         display: 'standalone',
         background_color: '#f7f2e8',
         theme_color: '#6b4f2a',
+        icons: [
+          { src: './pwa-192.png', sizes: '192x192', type: 'image/png' },
+          { src: './pwa-512.png', sizes: '512x512', type: 'image/png' },
+          {
+            src: './pwa-512.png',
+            sizes: '512x512',
+            type: 'image/png',
+            purpose: 'any maskable',
+          },
+        ],
       },
     }),
   ],
