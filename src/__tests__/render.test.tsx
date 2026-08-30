@@ -75,6 +75,23 @@ describe('Reader', () => {
     );
   });
 
+  it('exposes a back control that targets the parent Quaestio', async () => {
+    render(
+      <MemoryRouter initialEntries={['/read/prima-pars/2/3']}>
+        <Routes>
+          <Route path="/read/:partId/:qNum/:aParam" element={<Reader />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+    const back = await screen.findByRole('link', {
+      name: /back to the quaestio/i,
+    });
+    // Up-target is the Quaestio route, a safe destination however the article
+    // was reached. Not inside .reader__chrome, so immersive mode can't hide it.
+    expect(back.getAttribute('href')).toMatch(/\/part\/prima-pars\/q\/2$/);
+    expect(back.closest('.reader__chrome')).toBeNull();
+  });
+
   it('shows an honest gap note for a missing article (I q.2 a.1)', async () => {
     render(
       <MemoryRouter initialEntries={['/read/prima-pars/2/1']}>

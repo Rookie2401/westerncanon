@@ -227,15 +227,22 @@ export function Reader() {
 
   return (
     <div className={clsx('reader', immersive && 'reader--immersive')}>
+      {/* Escape hatch to the parent Quaestio. Deliberately a sibling of
+          .reader__chrome, NOT a child: immersive mode fades .reader__chrome to
+          opacity 0, and a standalone (Add to Home Screen) PWA shows no browser
+          back button, so a back control living inside the chrome leaves the
+          reader with no way out after a single stray tap. This pill stays put
+          in every state. */}
+      <Link
+        to={`/part/${partId}/q/${qNum}`}
+        className="reader__back"
+        aria-label="Back to the Quaestio"
+      >
+        <BackIcon />
+        <span>Quaestio</span>
+      </Link>
       <div className="reader__chrome reader__header">
         <div className="reader__header-inner">
-          <Link
-            to={`/part/${partId}/q/${qNum}`}
-            className="iconbtn"
-            aria-label="Back to question"
-          >
-            <BackIcon />
-          </Link>
           <button
             className="reader__headbtn"
             onClick={() => setJump(true)}

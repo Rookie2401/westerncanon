@@ -484,6 +484,39 @@ body {
 .reader--immersive {
   --chrome-opacity: 0;
 }
+/* Persistent back-to-Quaestio control. Sits above .reader__chrome and is not a
+   descendant of it, so immersive mode (which zeroes --chrome-opacity) can never
+   hide it. Always visible, always tappable, in both themes. */
+.reader__back {
+  position: fixed;
+  z-index: 16;
+  top: calc(0.5rem + env(safe-area-inset-top, 0px));
+  left: calc(0.75rem + env(safe-area-inset-left, 0px));
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  min-height: 2.75rem;
+  padding: 0 0.85rem 0 0.55rem;
+  border-radius: 999px;
+  background: var(--paper-raised);
+  border: 1px solid var(--rule-strong);
+  box-shadow: var(--shadow-raised);
+  color: var(--ink);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  transition: border-color 0.15s, color 0.15s, transform 0.12s ease;
+}
+.reader__back:hover {
+  text-decoration: none;
+  border-color: var(--accent-soft);
+  color: var(--accent);
+}
+.reader__back:active {
+  transform: scale(0.96);
+}
 .reader__header {
   top: 0;
   background: color-mix(in srgb, var(--paper) 90%, transparent);
@@ -493,9 +526,11 @@ body {
 .reader__header-inner {
   max-width: 44rem;
   margin: 0 auto;
+  /* Left padding reserves the width of the fixed .reader__back pill so the crumb
+     never sits under it. */
   padding: calc(0.5rem + env(safe-area-inset-top, 0px))
     calc(1rem + env(safe-area-inset-right, 0px)) 0.6rem
-    calc(1rem + env(safe-area-inset-left, 0px));
+    calc(9rem + env(safe-area-inset-left, 0px));
   display: flex;
   align-items: flex-start;
   gap: 0.5rem;
@@ -512,6 +547,9 @@ body {
   text-transform: uppercase;
   color: var(--ink-faint);
   font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .reader__utrum-mini {
   display: block;
