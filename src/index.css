@@ -204,15 +204,23 @@ p {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  * {
-    animation-duration: 0.001ms !important;
-    transition-duration: 0.001ms !important;
+  /* This app's motion is all short (<=0.3s) and opacity/height-led — no
+     parallax, spin, zoom, or large travel — so it stays on under Reduce
+     Motion, minus the few pixels of slide/scale that could read as movement. */
+  .reader__prose--in {
+    animation-name: screen-in; /* opacity-only variant, no translateY */
+  }
+  .sheet {
+    animation-name: backdrop-in; /* fade in place, no rise/scale */
+  }
+  .collapsible__inner {
+    transform: none;
   }
 }
 
 /* --- motion ----------------------------------------------------------------- */
-/* Restrained, opacity-led transitions. The reduced-motion block above zeroes
-   every duration, so each of these degrades cleanly to an instant cut. */
+/* Restrained, opacity-led transitions. Under prefers-reduced-motion (block
+   above) they keep playing but movement-free — fades and height only. */
 @keyframes screen-in {
   from {
     opacity: 0;
