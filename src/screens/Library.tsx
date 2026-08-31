@@ -1,4 +1,6 @@
+import type { ReactNode } from 'react';
 import { Link } from 'react-router-dom';
+import clsx from 'clsx';
 import {
   authorsSorted,
   groupedWorksByAuthor,
@@ -28,6 +30,22 @@ function WorkLink({ work }: { work: Work }) {
       <span className="home__entry-name">{work.title}</span>
       <span className="library__work-meta">{work.meta}</span>
     </Link>
+  );
+}
+
+/**
+ * Height-animated disclosure. Content stays mounted so it can animate shut; the
+ * grid `0fr <-> 1fr` row is the one reliable way to transition to auto height.
+ * `inert` keeps a collapsed panel out of tab/AT reach. Under
+ * prefers-reduced-motion the global duration override makes it an instant cut.
+ */
+function Collapsible({ open, children }: { open: boolean; children: ReactNode }) {
+  return (
+    <div className="collapsible" data-open={open ? 'true' : 'false'}>
+      <div className="collapsible__inner" inert={!open}>
+        {children}
+      </div>
+    </div>
   );
 }
 
@@ -102,14 +120,17 @@ export function Library() {
                 onClick={() => toggle(a.id)}
               >
                 <ChevronIcon
-                  className={open ? 'library__chev library__chev--open' : 'library__chev'}
+                  className={clsx(
+                    'library__chev',
+                    open && 'library__chev--open',
+                  )}
                 />
                 <span className="library__author-name">{a.displayName}</span>
                 {a.datesLabel ? (
                   <span className="library__author-dates">{a.datesLabel}</span>
                 ) : null}
               </button>
-              {open ? (
+              <Collapsible open={open}>
                 <nav className="home__list library__works">
                   {entries.map((e) =>
                     e.kind === 'single' ? (
@@ -123,26 +144,25 @@ export function Library() {
                           onClick={() => toggleExpandedGroup(e.key)}
                         >
                           <ChevronIcon
-                            className={
-                              isGroupOpen(e.key)
-                                ? 'library__chev library__chev--open'
-                                : 'library__chev'
-                            }
+                            className={clsx(
+                              'library__chev',
+                              isGroupOpen(e.key) && 'library__chev--open',
+                            )}
                           />
                           <span className="library__group-name">{e.family}</span>
                         </button>
-                        {isGroupOpen(e.key) ? (
+                        <Collapsible open={isGroupOpen(e.key)}>
                           <div className="library__group-works">
                             {e.works.map((w) => (
                               <WorkLink key={w.id} work={w} />
                             ))}
                           </div>
-                        ) : null}
+                        </Collapsible>
                       </div>
                     ),
                   )}
                 </nav>
-              ) : null}
+              </Collapsible>
             </section>
           );
         })}

@@ -54,7 +54,10 @@ function GenericAbout({ workId }: { workId: string }) {
         ) : !about ? (
           <p className="empty">
             The text-source note for this work is not in this build.{' '}
-            <Link to={`/work/${workId}`}>Back to the contents</Link>.
+            <Link to={`/work/${workId}`} replace>
+              Back to the contents
+            </Link>
+            .
           </p>
         ) : (
           <div className="prose">

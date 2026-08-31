@@ -242,6 +242,7 @@ export function Reader() {
           in every state. */}
       <Link
         to={`/part/${partId}/q/${qNum}`}
+        replace
         className="reader__back"
         aria-label="Back to the Quaestio"
       >
@@ -290,6 +291,7 @@ export function Reader() {
           {nb.prev ? (
             <Link
               to={`/read/${nb.prev.partId}/${nb.prev.qNum}/${nb.prev.aParam}`}
+              replace
               className="reader__nav-btn"
             >
               <span className="reader__nav-dir">‹ Prev</span>
@@ -303,6 +305,7 @@ export function Reader() {
           {nb.next ? (
             <Link
               to={`/read/${nb.next.partId}/${nb.next.qNum}/${nb.next.aParam}`}
+              replace
               className="reader__nav-btn reader__nav-btn--next"
             >
               <span className="reader__nav-dir">Next ›</span>

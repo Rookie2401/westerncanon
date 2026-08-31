@@ -14,7 +14,7 @@ export function TopBar({ back, title, right }: TopBarProps) {
   return (
     <header className="topbar">
       {back !== undefined ? (
-        <Link to={back} className="iconbtn" aria-label="Back">
+        <Link to={back} replace className="iconbtn" aria-label="Back">
           <BackIcon />
         </Link>
       ) : (

@@ -60,15 +60,20 @@ describe('Library', () => {
     ).toBeTruthy();
 
     // Authors expand by default; multi-edition texts collapse under a family
-    // row labelled with the conventional English name.
-    expect(screen.getByText('Categories')).toBeTruthy();
-    expect(screen.getByText('De Interpretatione')).toBeTruthy();
-    expect(screen.getByText('Isagoge')).toBeTruthy();
+    // row (a button) labelled with the conventional English name.
+    for (const family of ['Categories', 'De Interpretatione', 'Isagoge']) {
+      expect(screen.getByRole('button', { name: family })).toBeTruthy();
+    }
 
-    // Collapsed families hide their editions and the per-edition meta lines.
-    expect(screen.queryByText('Greek · Bekker')).toBeNull();
-    expect(screen.queryByText('Greek · Busse')).toBeNull();
-    expect(screen.queryAllByText('Latin · trans. Boethius').length).toBe(0);
+    // Collapsed families keep their editions mounted (for the height animation)
+    // but inside a closed .collapsible and marked inert.
+    for (const el of [
+      ...screen.queryAllByText('Greek · Bekker'),
+      ...screen.queryAllByText('Greek · Busse'),
+      ...screen.queryAllByText('Latin · trans. Boethius'),
+    ]) {
+      expect(el.closest('.collapsible')?.getAttribute('data-open')).toBe('false');
+    }
 
     // The Summa is the sole Aquinas edition -> a direct link, not a dropdown.
     const summa = screen.getByRole('link', { name: /Summa Theologiae/ });
@@ -117,17 +122,24 @@ describe('Library — per-text families', () => {
 
     const cat = screen.getByRole('button', { name: 'Categories' });
     expect(cat.getAttribute('aria-expanded')).toBe('false');
-    expect(screen.queryByText('Κατηγορίαι')).toBeNull();
-    expect(screen.queryByText('Categoriae')).toBeNull();
+    // Editions stay mounted (for the animation) but inside a closed panel.
+    const grcPanel = screen.getByText('Κατηγορίαι').closest('.collapsible');
+    expect(grcPanel?.getAttribute('data-open')).toBe('false');
+    expect(
+      grcPanel?.querySelector('.collapsible__inner')?.hasAttribute('inert'),
+    ).toBe(true);
 
     fireEvent.click(cat);
     expect(cat.getAttribute('aria-expanded')).toBe('true');
+    expect(grcPanel?.getAttribute('data-open')).toBe('true');
     const grc = screen.getByRole('link', { name: /Κατηγορίαι/ });
     const la = screen.getByRole('link', { name: /Categoriae/ });
     expect(grc.getAttribute('href')).toBe('/work/categoriae-grc');
     expect(la.getAttribute('href')).toBe('/work/categoriae-la');
-    expect(screen.getByText('Greek · Bekker')).toBeTruthy();
-    expect(screen.getByText('Latin · trans. Boethius')).toBeTruthy();
+    // meta lines shown within this (now open) family panel
+    const panel = grcPanel as HTMLElement;
+    expect(panel.textContent).toContain('Greek · Bekker');
+    expect(panel.textContent).toContain('Latin · trans. Boethius');
   });
 
   it('renders a single-edition work as a direct link with no dropdown', () => {
@@ -162,7 +174,15 @@ describe('Library — per-text families', () => {
         <Library />
       </MemoryRouter>,
     );
-    expect(screen.getByRole('link', { name: /Εἰσαγωγή/ })).toBeTruthy();
+    expect(
+      screen.getByRole('button', { name: 'Isagoge' }).getAttribute('aria-expanded'),
+    ).toBe('true');
+    expect(
+      screen
+        .getByRole('link', { name: /Εἰσαγωγή/ })
+        .closest('.collapsible')
+        ?.getAttribute('data-open'),
+    ).toBe('true');
   });
 });
 
@@ -809,11 +829,17 @@ describe('Library accordion', () => {
         <Library />
       </MemoryRouter>,
     );
-    // Default: Porphyry expanded, so its "Isagoge" family row is visible.
-    expect(screen.getByText('Isagoge')).toBeTruthy();
+    // Default: Porphyry expanded, so the panel holding its "Isagoge" family
+    // row is open.
+    const isagogeRow = screen.getByRole('button', { name: 'Isagoge' });
+    expect(isagogeRow.closest('.collapsible')?.getAttribute('data-open')).toBe(
+      'true',
+    );
     const porphyryToggle = screen.getByRole('button', { name: /Porphyry/i });
     fireEvent.click(porphyryToggle);
-    expect(screen.queryByText('Isagoge')).toBeNull();
+    expect(isagogeRow.closest('.collapsible')?.getAttribute('data-open')).toBe(
+      'false',
+    );
     // Thomas is unaffected.
     expect(screen.getByText('Latin')).toBeTruthy();
   });

@@ -157,14 +157,21 @@ export function GenericReader() {
   if (!division) {
     return (
       <div className="reader">
-        <Link to={`/work/${workId}`} className="reader__back" aria-label={`Back to ${work.title}`}>
+        <Link
+          to={`/work/${workId}`}
+          replace
+          className="reader__back"
+          aria-label={`Back to ${work.title}`}
+        >
           <BackIcon />
           <span>{backLabel}</span>
         </Link>
         <main className="page page--narrow">
           <p className="reader__gap">
             This section is not in the bundled text.{' '}
-            <Link to={`/work/${workId}`}>Contents</Link>
+            <Link to={`/work/${workId}`} replace>
+              Contents
+            </Link>
           </p>
         </main>
       </div>
@@ -179,6 +186,7 @@ export function GenericReader() {
           immersive mode can never hide it. */}
       <Link
         to={`/work/${workId}`}
+        replace
         className="reader__back"
         aria-label={`Back to ${work.title}`}
       >
@@ -267,6 +275,7 @@ export function GenericReader() {
           {nb.prev ? (
             <Link
               to={`/read/${workId}/${nb.prev.id}`}
+              replace
               className="reader__nav-btn"
             >
               <span className="reader__nav-dir">‹ Prev</span>
@@ -282,6 +291,7 @@ export function GenericReader() {
           {nb.next ? (
             <Link
               to={`/read/${workId}/${nb.next.id}`}
+              replace
               className="reader__nav-btn reader__nav-btn--next"
             >
               <span className="reader__nav-dir">Next ›</span>

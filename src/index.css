@@ -267,6 +267,27 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+/* Height-animated disclosure (Library author + work-family dropdowns).
+   grid-template-rows 0fr<->1fr is the reliable "transition to auto height"
+   technique; the inner element clips and fades. */
+.collapsible {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.26s ease;
+}
+.collapsible[data-open='true'] {
+  grid-template-rows: 1fr;
+}
+.collapsible__inner {
+  overflow: hidden;
+  min-height: 0;
+  opacity: 0;
+  transition: opacity 0.18s ease;
+}
+.collapsible[data-open='true'] > .collapsible__inner {
+  opacity: 1;
+}
+
 /* --- layout shell ----------------------------------------------------------- */
 /* iOS notch / Dynamic Island / home-indicator handling: the viewport is
    `viewport-fit=cover`, so every edge-anchored surface pads itself back inside
