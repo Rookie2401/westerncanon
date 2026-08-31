@@ -146,7 +146,6 @@ export function GenericReader() {
     );
   }
 
-  const backLabel = work.title.toUpperCase();
   const crumb = [author?.displayName, work.title, shortLabel]
     .filter(Boolean)
     .join(' › ')
@@ -164,7 +163,6 @@ export function GenericReader() {
           aria-label={`Back to ${work.title}`}
         >
           <BackIcon />
-          <span>{backLabel}</span>
         </Link>
         <main className="page page--narrow">
           <p className="reader__gap">
@@ -191,7 +189,6 @@ export function GenericReader() {
         aria-label={`Back to ${work.title}`}
       >
         <BackIcon />
-        <span>{backLabel}</span>
       </Link>
 
       <div className="reader__chrome reader__header">

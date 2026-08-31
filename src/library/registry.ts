@@ -35,7 +35,7 @@ export const WORKS: Work[] = [
     language: 'la',
     citationScheme: 'summa',
     profile: 'summa',
-    meta: 'Latin · complete',
+    meta: 'Latin · various sources',
     source: {
       edition:
         'Parts I–III: transcription aggregated from github.com/vicmortelmans/summa (Leonine text). ' +

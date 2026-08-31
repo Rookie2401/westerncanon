@@ -122,7 +122,7 @@ function GenericWorkBody({ workId }: { workId: string }) {
             className="entry"
           >
             <span className="entry__num">{sectionNumber(d)}</span>
-            <span className="entry__preview">
+            <span className="work__preview">
               {d.ref ? <span className="work__ref">{d.ref}</span> : null}
               {d.editorialTitle ? (
                 <span className="work__edtitle">

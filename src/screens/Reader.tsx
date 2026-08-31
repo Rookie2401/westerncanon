@@ -255,7 +255,6 @@ export function Reader() {
         aria-label="Back to the Quaestio"
       >
         <BackIcon />
-        <span>Quaestio</span>
       </Link>
       <div className="reader__chrome reader__header">
         <div className="reader__header-inner">

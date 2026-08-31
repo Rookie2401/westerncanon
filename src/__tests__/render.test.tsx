@@ -78,7 +78,7 @@ describe('Library', () => {
     // The Summa is the sole Aquinas edition -> a direct link, not a dropdown.
     const summa = screen.getByRole('link', { name: /Summa Theologiae/ });
     expect(summa.getAttribute('href')).toBe('/work/summa-theologiae');
-    expect(screen.getByText('Latin · complete')).toBeTruthy();
+    expect(screen.getByText('Latin · various sources')).toBeTruthy();
   });
 
   it('orders Aristotle’s families Categories then De Interpretatione, each Greek edition before Latin', () => {
@@ -349,13 +349,14 @@ describe('GenericReader (Isagoge / Greek)', () => {
     expect(document.querySelector('.gr-passage__ref')).toBeNull();
   });
 
-  it('back pill targets the Work, is labelled with the native work title, and is not inside .reader__chrome', async () => {
+  it('back pill targets the Work, is an arrow-only control labelled with the native work title, and is not inside .reader__chrome', async () => {
     renderAt('de-genere');
     const back = await screen.findByRole('link', { name: /back to Εἰσαγωγή/i });
     expect(back.getAttribute('href')).toMatch(/\/work\/isagoge-grc$/);
-    // Back pill shows the native title (upper-cased), not the English name.
-    expect(back.textContent).toContain('Εἰσαγωγή'.toUpperCase());
-    expect(back.textContent).not.toMatch(/ISAGOGE/);
+    // Arrow only — the accessible name carries the native title, not the English
+    // name, and there is no visible label text.
+    expect(back.getAttribute('aria-label')).toBe('Back to Εἰσαγωγή');
+    expect(back.textContent?.trim()).toBe('');
     expect(back.closest('.reader__chrome')).toBeNull();
   });
 
@@ -846,7 +847,7 @@ describe('Library accordion', () => {
       'false',
     );
     // Thomas is unaffected.
-    expect(screen.getByText('Latin · complete')).toBeTruthy();
+    expect(screen.getByText('Latin · various sources')).toBeTruthy();
   });
 });
 

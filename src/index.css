@@ -578,6 +578,16 @@ body {
   color: var(--ink-faint);
   margin-bottom: 1rem;
 }
+/* Division rows stack their ref over their editorial title — no line-clamp, so
+   short titles like "Preface" / "On Genus" are never truncated on a phone (this
+   only bit the Isagoge, the one generic work that carries a `ref`). */
+.work__preview {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  min-width: 0;
+}
 .work__ref {
   display: block;
   font-style: normal;
@@ -738,19 +748,14 @@ body {
   left: calc(0.75rem + env(safe-area-inset-left, 0px));
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
-  min-height: 2.75rem;
-  padding: 0 0.85rem 0 0.55rem;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
   border-radius: 999px;
   background: var(--paper-raised);
   border: 1px solid var(--rule-strong);
   box-shadow: var(--shadow-raised);
   color: var(--ink);
-  font-size: 0.78rem;
-  font-weight: 600;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
-  white-space: nowrap;
   transition: border-color 0.15s, color 0.15s, transform 0.12s ease;
 }
 .reader__back:hover {
@@ -770,11 +775,11 @@ body {
 .reader__header-inner {
   max-width: 44rem;
   margin: 0 auto;
-  /* Left padding reserves the width of the fixed .reader__back pill so the crumb
-     never sits under it. */
-  padding: calc(0.5rem + env(safe-area-inset-top, 0px))
-    calc(1rem + env(safe-area-inset-right, 0px)) 0.6rem
-    calc(9rem + env(safe-area-inset-left, 0px));
+  /* Left padding clears the fixed .reader__back button (now arrow-only) so the
+     crumb never sits under it. */
+  padding: calc(0.45rem + env(safe-area-inset-top, 0px))
+    calc(0.9rem + env(safe-area-inset-right, 0px)) 0.5rem
+    calc(3.9rem + env(safe-area-inset-left, 0px));
   display: flex;
   align-items: flex-start;
   gap: 0.5rem;
