@@ -245,13 +245,12 @@ export function GenericReader() {
             </p>
           </header>
 
+          {/* Passages render as plain paragraphs. The per-passage marker
+              (Greek canonical page label / Latin "¶ n" pilcrow) was removed at
+              the user's request; `p.n` / `p.ref` are still carried in the JSON
+              so a marker could return later (e.g. as an optional margin note). */}
           {division.passages.map((p, i) => (
             <section key={i} className="gr-passage">
-              {p.n || p.ref ? (
-                <p className="gr-passage__ref" lang="en">
-                  {[p.n && `¶ ${p.n}`, p.ref].filter(Boolean).join(' · ')}
-                </p>
-              ) : null}
               <p>{p.text}</p>
               {p.anomaly ? (
                 <p className="gr-passage__anomaly" lang="en">

@@ -1,0 +1,54 @@
+{
+  "workId": "de-interpretatione-grc",
+  "title": "De Interpretatione",
+  "author": "Aristotle",
+  "language": "grc",
+  "edition": "Bekker 1837",
+  "editor": "Immanuel Bekker",
+  "provenance": "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0086.tlg017, edition .1st1K-grc1), which digitises the text of Aristotle’s De Interpretatione as printed in Immanuel Bekker’s Aristotelis Opera, Volume 1 (Oxford: Oxford University Press, 1837, pp. 39–60); imported by scripts/import-aristotle-deint-grc.",
+  "license": "The Greek text of Bekker’s 1837 edition is in the public domain. The digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Aristotle’s De Interpretatione",
+      "paragraphs": [
+        "This is the Greek text of Aristotle’s Περὶ ἑρμηνείας (De Interpretatione), one of the treatises of the Organon and, with Porphyry’s Isagoge, the foundation of the medieval logic curriculum.",
+        "The text here is the original Greek, verbatim. Nothing is translated, modernised, normalised or silently corrected. Where the source is irregular, the irregularity is preserved and noted below. The first word of the work is printed in full capitals in the source and is kept exactly so."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Immanuel Bekker, ed., Aristotelis Opera, Volume 1 (Oxford: Oxford University Press, 1837). This edition is in the public domain. Bekker’s page/column/line numbers (e.g. \"1a1\") are the standard way of citing Aristotle.",
+        "In the standard pagination this work occupies Bekker 16a1–24b9. Those page/column/line milestones are NOT present in the digital source used here (see \"Reference scheme\" below), so citation in this reader is by chapter."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0086.tlg017.1st1K-grc1.xml (CTS urn:cts:greekLit:tlg0086.tlg017.1st1K-grc1) from the OpenGreekAndLatin / First1KGreek repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer slices the single <div type=\"edition\"> body into its 14 chapter <div>s, then takes the <p> paragraphs inside each chapter as the passages. XML transport scaffolding only is removed: the <milestone unit=\"section\"> markers, the <pb> page-image breaks, and the chapter-1 <head> (which carries the work title \"ΠΕΡΙ ΕΡΜΗΝΕΙΑΣ.\", not a chapter heading). Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched.",
+        "Each chapter also carries an English chapter title. These titles are editorial: they are not part of the source text and are marked \"ed.\" wherever they appear."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by chapter (plus the editorial English chapter title). The First1KGreek TEI carries chapter divisions only: it has no Bekker page/column/line milestones and no <lb> line markers, and its <pb> markers are the 1837 Oxford Opera page images, not Bekker pages. Per-chapter and per-line Bekker references are therefore not derivable from the digital source and are not fabricated: every Division.ref and Passage.ref is null and every Passage.n is the empty string."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Reference downgrade. The work spans Bekker 16a1–24b9 in the standard pagination, but the digital source marks chapter divisions only; all page/column/line reference fields are left null and citation is by chapter.",
+        "Work title in chapter 1. The <head> element inside chapter 1 (\"ΠΕΡΙ ΕΡΜΗΝΕΙΑΣ.\") is the title of the whole work, not a chapter heading; it is recorded here but is not stored as a chapter sourceHeading (every Greek chapter sourceHeading is null).",
+        "Page-image breaks and section milestones. The <pb> markers (1837 Oxford Opera page images) and the per-chapter <milestone unit=\"section\"> markers were dropped from the reading text as transport scaffolding.",
+        "Capitalised incipit. The opening word of the work is set in full capitals in the source transcription and is preserved verbatim."
+      ]
+    }
+  ]
+}

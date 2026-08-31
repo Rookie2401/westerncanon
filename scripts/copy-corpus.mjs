@@ -31,7 +31,12 @@ const SUMMA_FILES = [
 
 // Generic works: soft. A parallel task may not have landed these yet, so a
 // missing file is a WARNING, not a failure.
-const GENERIC_DIRS = ['isagoge-grc', 'isagoge-la'];
+const GENERIC_DIRS = [
+  'isagoge-grc',
+  'isagoge-la',
+  'categoriae-grc',
+  'de-interpretatione-grc',
+];
 const GENERIC_FILES = ['work.json', 'about.json'];
 
 let hardFailures = 0;

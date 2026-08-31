@@ -36,7 +36,7 @@ afterEach(() => cleanup());
 afterAll(() => vi.unstubAllGlobals());
 
 describe('Library', () => {
-  it('renders the LIBRARY heading, both authors in chronological order, and work meta', () => {
+  it('renders the LIBRARY heading, all authors in chronological order, and work meta', () => {
     render(
       <MemoryRouter>
         <Library />
@@ -45,11 +45,17 @@ describe('Library', () => {
 
     expect(screen.getByText('LIBRARY')).toBeTruthy();
 
+    const aristotle = screen.getByText('Aristotle');
     const porphyry = screen.getByText('Porphyry');
     const thomas = screen.getByText('Thomas Aquinas');
+    expect(aristotle).toBeTruthy();
     expect(porphyry).toBeTruthy();
     expect(thomas).toBeTruthy();
-    // Porphyry (sortYear 234) precedes Thomas Aquinas (1225) in the DOM.
+    // Aristotle (sortYear -384) precedes Porphyry (234) precedes Thomas (1225).
+    expect(
+      aristotle.compareDocumentPosition(porphyry) &
+        Node.DOCUMENT_POSITION_FOLLOWING,
+    ).toBeTruthy();
     expect(
       porphyry.compareDocumentPosition(thomas) &
         Node.DOCUMENT_POSITION_FOLLOWING,
@@ -58,6 +64,10 @@ describe('Library', () => {
     expect(screen.getByText('Greek · Busse')).toBeTruthy();
     expect(screen.getByText('Latin · trans. Boethius')).toBeTruthy();
     expect(screen.getByText('Latin')).toBeTruthy();
+    // Aristotle's two Greek-only works.
+    expect(screen.getAllByText('Greek · Bekker').length).toBe(2);
+    expect(screen.getByText('Categories')).toBeTruthy();
+    expect(screen.getByText('De Interpretatione')).toBeTruthy();
   });
 });
 
@@ -209,6 +219,16 @@ describe('GenericReader (Isagoge / Greek)', () => {
     expect(screen.getAllByText('ed.').length).toBeGreaterThan(0);
   });
 
+  it('does not render a per-passage marker (Greek canonical page label)', async () => {
+    renderAt('de-genere');
+    await screen.findByText('Περὶ γένους.');
+    // The passage carries `ref: "Busse p. 1"` in the JSON, but the reader no
+    // longer prints it inline. Only the division-level ref ("Busse pp. 1–3")
+    // survives, in the section header.
+    expect(screen.queryByText('Busse p. 1')).toBeNull();
+    expect(document.querySelector('.gr-passage__ref')).toBeNull();
+  });
+
   it('back pill targets the Work, is labelled with the work title, and is not inside .reader__chrome', async () => {
     renderAt('de-genere');
     const back = await screen.findByRole('link', { name: /back to isagoge/i });
@@ -272,6 +292,190 @@ describe('WorkAbout (generic)', () => {
   });
 });
 
+describe('Aristotle — Categories (Greek) Work screen', () => {
+  const CAT_WORK: GenericWork = {
+    workId: 'categoriae-grc',
+    language: 'grc',
+    divisions: [
+      {
+        id: 'ch-1',
+        number: '1',
+        ref: null,
+        sourceHeading: null,
+        editorialTitle: 'Homonyms, Synonyms, and Paronyms',
+        children: [],
+        passages: [{ n: '', text: 'ὉΜΩΝΥΜΑ λέγεται ὧν ὄνομα μόνον κοινόν.', ref: null }],
+      },
+      {
+        id: 'ch-5',
+        number: '5',
+        ref: null,
+        sourceHeading: null,
+        editorialTitle: 'Substance',
+        children: [],
+        passages: [{ n: '', text: 'Οὐσία δέ ἐστιν ἡ κυριώτατα λεγομένη.', ref: null }],
+      },
+    ],
+  };
+
+  beforeEach(() => {
+    vi.stubGlobal('fetch', async (input: unknown) => {
+      const url = String(input);
+      if (url.includes('categoriae-grc/work.json')) {
+        return {
+          ok: true,
+          status: 200,
+          json: async () => CAT_WORK,
+          text: async () => JSON.stringify(CAT_WORK),
+        } as Response;
+      }
+      throw new Error(`unexpected fetch in test: ${url}`);
+    });
+  });
+  afterEach(() => installCorpusFetch());
+
+  it('lists the chapters with their editorial titles, each flagged "ed.", and no Bekker ref chip', async () => {
+    render(
+      <MemoryRouter initialEntries={['/work/categoriae-grc']}>
+        <Routes>
+          <Route path="/work/:workId" element={<WorkScreen />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+    expect(await screen.findByText('Homonyms, Synonyms, and Paronyms')).toBeTruthy();
+    expect(screen.getByText('Substance')).toBeTruthy();
+    // chapter numbers shown as "§ N"
+    expect(screen.getByText('§ 1')).toBeTruthy();
+    expect(screen.getByText('§ 5')).toBeTruthy();
+    // editorial titles are flagged; the legend + one "ed." tag per chapter
+    expect(screen.getByText('English section titles are editorial.')).toBeTruthy();
+    expect(screen.getAllByText('ed.').length).toBe(2);
+    // the digital Greek source has no Bekker refs, so no ref chip renders
+    expect(document.querySelector('.work__ref')).toBeNull();
+  });
+});
+
+describe('Aristotle — De Interpretatione (Greek) reader', () => {
+  const DEINT_WORK: GenericWork = {
+    workId: 'de-interpretatione-grc',
+    language: 'grc',
+    divisions: [
+      {
+        id: 'ch-1',
+        number: '1',
+        ref: null,
+        sourceHeading: null,
+        editorialTitle: 'Spoken and Written Signs; Truth and Falsity in Combination',
+        children: [],
+        passages: [{ n: '', text: 'ΠΡΩΤΟΝ δεῖ θέσθαι τί ὄνομα καὶ τί ῥῆμα.', ref: null }],
+      },
+      {
+        id: 'ch-2',
+        number: '2',
+        ref: null,
+        sourceHeading: null,
+        editorialTitle: 'The Noun',
+        children: [],
+        passages: [
+          { n: '', text: 'Ὄνομα μὲν οὖν ἐστὶ φωνὴ σημαντικὴ κατὰ συνθήκην ἄνευ χρόνου.', ref: null },
+          { n: '', text: 'Τὸ δ᾿ οὐκ ἄνθρωπος οὐκ ὄνομα.', ref: null },
+        ],
+      },
+    ],
+  };
+
+  beforeEach(() => {
+    vi.stubGlobal('fetch', async (input: unknown) => {
+      const url = String(input);
+      if (url.includes('de-interpretatione-grc/work.json')) {
+        return {
+          ok: true,
+          status: 200,
+          json: async () => DEINT_WORK,
+          text: async () => JSON.stringify(DEINT_WORK),
+        } as Response;
+      }
+      throw new Error(`unexpected fetch in test: ${url}`);
+    });
+  });
+  afterEach(() => installCorpusFetch());
+
+  it('renders polytonic Greek in a grc-tagged prose block with no per-passage marker', async () => {
+    render(
+      <MemoryRouter initialEntries={['/read/de-interpretatione-grc/ch-2']}>
+        <Routes>
+          <Route path="/read/:workId/:divId" element={<GenericReader />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+    expect(
+      await screen.findByText(
+        'Ὄνομα μὲν οὖν ἐστὶ φωνὴ σημαντικὴ κατὰ συνθήκην ἄνευ χρόνου.',
+      ),
+    ).toBeTruthy();
+    expect(screen.getByText('Τὸ δ᾿ οὐκ ἄνθρωπος οὐκ ὄνομα.')).toBeTruthy();
+    // language-tagged so Gentium Plus polytonic applies
+    expect(document.querySelector('.reader__prose--grc[lang="grc"]')).toBeTruthy();
+    // editorial section title marked "ed."
+    expect(screen.getAllByText('ed.').length).toBeGreaterThan(0);
+    // no per-passage marker markup, and no "¶" / Bekker label leaked into the flow
+    expect(document.querySelector('.gr-passage__ref')).toBeNull();
+    expect(screen.queryByText(/¶/)).toBeNull();
+    // prev/next across chapters
+    const prev = screen.getByRole('link', { name: /§ 1/i });
+    expect(prev.getAttribute('href')).toMatch(/\/read\/de-interpretatione-grc\/ch-1$/);
+  });
+});
+
+describe('Aristotle — Categories About page', () => {
+  const ABOUT: WorkAbout = {
+    workId: 'categoriae-grc',
+    title: 'Categories',
+    author: 'Aristotle',
+    language: 'grc',
+    edition: 'Bekker 1837',
+    editor: 'Immanuel Bekker',
+    provenance: 'TEI XML from First1KGreek (tlg0086.tlg006).',
+    license: 'CC BY-SA 4.0 (First1KGreek).',
+    sections: [
+      { heading: 'The edition', paragraphs: ['Immanuel Bekker, ed., Aristotelis Opera, Volume 1 (Oxford, 1837).'] },
+      { heading: 'Reference scheme', paragraphs: ['Citation here is by chapter; the digital source carries no Bekker line markers.'] },
+    ],
+  };
+
+  beforeEach(() => {
+    vi.stubGlobal('fetch', async (input: unknown) => {
+      const url = String(input);
+      if (url.includes('categoriae-grc/about.json')) {
+        return {
+          ok: true,
+          status: 200,
+          json: async () => ABOUT,
+          text: async () => JSON.stringify(ABOUT),
+        } as Response;
+      }
+      throw new Error(`unexpected fetch in test: ${url}`);
+    });
+  });
+  afterEach(() => installCorpusFetch());
+
+  it('renders the prose sections, the by-chapter reference note and the licence', async () => {
+    render(
+      <MemoryRouter initialEntries={['/work/categoriae-grc/about']}>
+        <Routes>
+          <Route path="/work/:workId/about" element={<WorkAboutScreen />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+    expect(await screen.findByText('The edition')).toBeTruthy();
+    expect(screen.getByText('Reference scheme')).toBeTruthy();
+    expect(
+      screen.getByText('Citation here is by chapter; the digital source carries no Bekker line markers.'),
+    ).toBeTruthy();
+    expect(screen.getByText('CC BY-SA 4.0 (First1KGreek).')).toBeTruthy();
+  });
+});
+
 describe('Library accordion', () => {
   it('collapses an author on toggle and hides that author’s works', () => {
     localStorage.clear();
@@ -296,12 +500,11 @@ describe('registry', () => {
     expect(ids.indexOf('porphyry')).toBeLessThan(ids.indexOf('thomas-aquinas'));
   });
 
-  it('a hypothetical sortYear -384 author slots first', () => {
-    const withAristotle = [
-      ...AUTHORS,
-      { id: 'aristotle', displayName: 'Aristotle', sortYear: -384 },
-    ].sort((a, b) => a.sortYear - b.sortYear);
-    expect(withAristotle[0]?.id).toBe('aristotle');
+  it('Aristotle (sortYear -384) sorts first, ahead of Porphyry', () => {
+    const ids = authorsSorted().map((a) => a.id);
+    expect(ids[0]).toBe('aristotle');
+    expect(ids.indexOf('aristotle')).toBeLessThan(ids.indexOf('porphyry'));
+    expect(AUTHORS.find((a) => a.id === 'aristotle')?.sortYear).toBe(-384);
   });
 });
 

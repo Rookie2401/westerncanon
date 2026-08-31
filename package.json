@@ -17,7 +17,10 @@
     "validate:summa": "tsx scripts/import-summa/validate.ts",
     "import:isagoge-grc": "tsx scripts/import-isagoge-grc/index.ts",
     "import:isagoge-la": "tsx scripts/import-isagoge-la/index.ts",
-    "validate:isagoge": "tsx scripts/import-isagoge-shared/validate.ts"
+    "validate:isagoge": "tsx scripts/import-isagoge-shared/validate.ts",
+    "import:aristotle-categoriae-grc": "tsx scripts/import-aristotle-categoriae-grc/index.ts",
+    "import:aristotle-deint-grc": "tsx scripts/import-aristotle-deint-grc/index.ts",
+    "validate:aristotle": "tsx scripts/import-aristotle-shared/validate.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",

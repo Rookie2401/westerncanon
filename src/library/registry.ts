@@ -8,6 +8,12 @@ import type { Author, Work } from './types.ts';
 
 export const AUTHORS: Author[] = [
   {
+    id: 'aristotle',
+    displayName: 'Aristotle',
+    sortYear: -384,
+    datesLabel: '384 – 322 BC',
+  },
+  {
     id: 'porphyry',
     displayName: 'Porphyry',
     sortYear: 234,
@@ -36,6 +42,42 @@ export const WORKS: Work[] = [
         'Latin text public domain; aggregated transcription (Dutch stripped on import).',
       license:
         'Latin text public domain; transcription license unverified — treat as personal use.',
+    },
+  },
+  {
+    id: 'categoriae-grc',
+    authorId: 'aristotle',
+    title: 'Categories',
+    originalScriptTitle: 'Κατηγορίαι',
+    language: 'grc',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'Greek · Bekker',
+    source: {
+      edition: 'Bekker 1837',
+      editor: 'Immanuel Bekker',
+      provenance:
+        'TEI from OpenGreekAndLatin/First1KGreek (tlg0086.tlg006).',
+      license:
+        'Bekker 1837 public domain; digital text CC BY-SA 4.0 (First1KGreek).',
+    },
+  },
+  {
+    id: 'de-interpretatione-grc',
+    authorId: 'aristotle',
+    title: 'De Interpretatione',
+    originalScriptTitle: 'Περὶ ἑρμηνείας',
+    language: 'grc',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'Greek · Bekker',
+    source: {
+      edition: 'Bekker 1837',
+      editor: 'Immanuel Bekker',
+      provenance:
+        'TEI from OpenGreekAndLatin/First1KGreek (tlg0086.tlg017).',
+      license:
+        'Bekker 1837 public domain; digital text CC BY-SA 4.0 (First1KGreek).',
     },
   },
   {

@@ -13,12 +13,14 @@ export function AboutScreen() {
           <h2>The Library</h2>
           <p>
             An offline reader for classical philosophical and theological texts
-            in their original languages. This build carries Porphyry's{' '}
-            <em>Isagoge</em> — in Greek (ed. Busse 1887) and in the Latin
-            translation of Boethius — and the <em>Summa Theologiae</em> of
-            Thomas Aquinas. Each work has its own “About the text” page with its
-            edition, provenance and licensing; open a work and follow the link
-            at the foot of its contents.
+            in their original languages. This build carries Aristotle's{' '}
+            <em>Categories</em> and <em>De Interpretatione</em> in Greek (the
+            Bekker text), Porphyry's <em>Isagoge</em> — in Greek (ed. Busse
+            1887) and in the Latin translation of Boethius — and the{' '}
+            <em>Summa Theologiae</em> of Thomas Aquinas. Aristotle, as the
+            earliest author, sorts first in the Library. Each work has its own
+            “About the text” page with its edition, provenance and licensing;
+            open a work and follow the link at the foot of its contents.
           </p>
           <p>
             Nothing is fetched at runtime, and no text is translated,

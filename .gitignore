@@ -23,6 +23,8 @@ workbox-*.js
 public/summa/
 public/isagoge-grc/
 public/isagoge-la/
+public/categoriae-grc/
+public/de-interpretatione-grc/
 
 # The source XML IS committed (scripts/import-summa/raw/xml_latin_nl.xml) as the
 # single bundled copy. If it ever needs to be removed, re-download with:

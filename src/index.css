@@ -1100,6 +1100,19 @@ body {
    lang tricks are needed here; Greek runs just pick up Gentium Plus. */
 .reader__prose--grc {
   font-family: var(--serif-grc);
+  /* Polytonic Greek stacks two diacritics high (breathing + accent, iota
+     subscript below); it needs more leading than the Latin body to stay
+     legible on a phone. */
+  line-height: 1.8;
+}
+.reader__prose--grc p {
+  /* No Greek hyphenation dictionary ships, so justified Greek on a narrow
+     measure opens rivers of white space. Set ragged-right instead, and turn
+     hyphenation off explicitly. */
+  text-align: left;
+  text-align-last: left;
+  hyphens: none;
+  -webkit-hyphens: none;
 }
 .reader__prose--grc .gr-head__source {
   font-style: normal;
@@ -1129,20 +1142,14 @@ body {
   font-size: 0.92rem;
   color: var(--ink-soft);
 }
+/* Per-passage markers were removed from the reader; each passage is a plain
+   paragraph. This bottom margin preserves the inter-passage spacing that the
+   old marker line used to contribute, so the reading rhythm is unchanged. */
 .gr-passage {
-  margin: 0 0 0.4rem;
+  margin: 0 0 1.5rem;
 }
-.gr-passage__ref {
-  font-family: var(--serif);
-  font-size: 0.68rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--accent);
-  font-weight: 600;
-  margin: 1.5rem 0 0.4rem;
-}
-.gr-passage__ref:first-child {
-  margin-top: 0;
+.gr-passage:last-child {
+  margin-bottom: 0;
 }
 .gr-passage__anomaly {
   font-family: var(--serif);
