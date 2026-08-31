@@ -9,9 +9,11 @@ export interface SummaTopEntry {
   label: string;
   code?: string;
   to: string;
+  /** Set on the Supplementum: it is a posthumous compilation, shown set apart. */
+  compilation?: boolean;
 }
 
-/** The Prooemium entry + the 4 Partes, as uniform rows for the Work screen. */
+/** The Prooemium entry + the 4 Partes + the Supplementum, as rows for the Work screen. */
 export function summaTopLevel(): SummaTopEntry[] {
   return [
     { id: 'prooemium', label: 'Proœmium', to: '/prooemium' },
@@ -20,6 +22,7 @@ export function summaTopLevel(): SummaTopEntry[] {
       label: p.label,
       code: p.code,
       to: `/part/${p.id}`,
+      ...(p.compilation ? { compilation: true } : {}),
     })),
   ];
 }

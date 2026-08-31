@@ -27,6 +27,8 @@ const SUMMA_FILES = [
   'part-I-II.json',
   'part-II-II.json',
   'part-III.json',
+  'part-suppl.json',
+  'suppl-anomalies.json',
 ];
 
 // Generic works: soft. A parallel task may not have landed these yet, so a

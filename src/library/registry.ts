@@ -35,13 +35,16 @@ export const WORKS: Work[] = [
     language: 'la',
     citationScheme: 'summa',
     profile: 'summa',
-    meta: 'Latin',
+    meta: 'Latin · complete',
     source: {
-      edition: 'ed. aggregated from github.com/vicmortelmans/summa',
+      edition:
+        'Parts I–III: transcription aggregated from github.com/vicmortelmans/summa (Leonine text). ' +
+        '13 lacunae filled from Latin Wikisource and corpusthomisticum.org. ' +
+        'Supplementum + Appendices: Marietti ed. (Turin 1926/1931) cross-checked against the Editio altera Romana vol. V (Rome, Forzani, 1894).',
       provenance:
-        'Latin text public domain; aggregated transcription (Dutch stripped on import).',
+        'Latin text public domain throughout; secondary witnesses are public-domain editions or CC-licensed transcriptions of them. See the work’s About page.',
       license:
-        'Latin text public domain; transcription license unverified — treat as personal use.',
+        'Latin text public domain. Transcriptions: CC BY-SA 4.0 (Wikisource) / CC0 (Marietti transcription) / public-domain scans; base aggregation license unverified — treat this build as personal use.',
     },
   },
   {

@@ -2,7 +2,7 @@ import { Link, useParams } from 'react-router-dom';
 import { aParamOf, findQuestion, loadPart, partById } from '../corpus/corpus.ts';
 import { authorById, workById } from '../library/registry.ts';
 import { useResource } from '../ui/useResource.ts';
-import { articulusLabel } from '../ui/format.ts';
+import { articulusLabel, roman } from '../ui/format.ts';
 import { TopBar } from '../components/TopBar.tsx';
 
 const SUMMA_AUTHOR = authorById('thomas-aquinas')?.displayName ?? 'Thomas Aquinas';
@@ -36,8 +36,17 @@ export function QuestionScreen() {
           <>
             <div className="screen-head">
               <p className="crumb">
-                {`${SUMMA_AUTHOR} › ${SUMMA_TITLE} › ${info.header} › Q. ${question.number}`.toUpperCase()}
+                {`${SUMMA_AUTHOR} › ${SUMMA_TITLE} › ${info.header} › ${
+                  question.appendix != null
+                    ? `App. ${question.appendix} q. ${question.appendixNumber ?? 1}`
+                    : `Q. ${question.number}`
+                }`.toUpperCase()}
               </p>
+              {question.appendix != null ? (
+                <p className="screen-head__label">
+                  Appendix {question.appendix} · Quaestio {roman(question.appendixNumber ?? 1)}
+                </p>
+              ) : null}
               {question.prooemium ? (
                 <p className="screen-head__prooemium">
                   {question.prooemium}

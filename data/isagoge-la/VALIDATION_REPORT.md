@@ -1,6 +1,6 @@
 # Isagoge validation report - isagoge-la
 
-Generated: 2026-08-31T05:18:34.452Z
+Generated: 2026-08-31T19:59:17.989Z
 
 **Result: PASS** - 0 error(s), 1 warning(s).
 
@@ -60,7 +60,7 @@ Sibling work `isagoge-grc` has 27 divisions / 43 passages; division id sets MATC
 - **isagoge-la / sec-xiii (XIII)** - 1 paragraph(s) in this section carry no printed number in the source; Passage.n set to '' for those
 - **isagoge-la / sec-xxiii (XXIII)** - 1 paragraph(s) in this section carry no printed number in the source; Passage.n set to '' for those
 - **isagoge-la / all refs** - This source carries no Busse pagination or line numbering. Division.ref and Passage.ref are null throughout; the citation scheme for this work is 'section' (division number + paragraph number).
-- **isagoge-la / division scheme** - Divided as praefatio + 26 capitula. The reference edition for the Latin division is Aristoteles Latinus I.6-7 (ed. Minio-Paluello & Dod, 1966, pp. 5-31), which was NOT available to re-collate for this build. Two witnesses that were checked - Busse's Greek capitula (CAG IV.1) and a Busse-paginated text of Boethius' translation - both use the same praefatio+26 scheme, so it is retained. A "24-section" division was queried but is not corroborated by the available witnesses.
+- **isagoge-la / division scheme** - Divided as praefatio + 26 capitula. Confirmed against Aristoteles Latinus I.6-7 (ed. Minio-Paluello & Dod, 1966, pp. 5-31) as reproduced in the DigilibLT digital corpus (digiliblt.uniupo.it): that edition divides Boethius' translation into exactly this praefatio+26 structure. It is also matched by Busse's Greek capitula (CAG IV.1) and a Busse-paginated text of the translation. A queried "24-section" division is not corroborated by any of these witnesses.
 - **isagoge-la / capitula wording** - The Latin capitula follow this recension's wording (e.g. "De communitatibus generis et differentiae", "De differentiis generis et differentiae", "De communibus proprii et inseparabilis accidentis"). Busse's parallel Latin prints "De communibus ..."/"De propriis ..." without "inseparabilis". These are editorial headings in every edition; wording kept verbatim as transmitted.
 - **isagoge-la / orthography** - No u/v or i/j regularisation. "De genere" para 3 reads "uniuscujusque" (j) where the rest of the text has "uniuscuiusque"; the source inconsistency is preserved verbatim.
 

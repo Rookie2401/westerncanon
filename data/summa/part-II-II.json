@@ -13359,6 +13359,47 @@
           ]
         },
         {
+          "number": 3,
+          "citation": "II-II q. 57 a. 3",
+          "title": "utrum ius gentium sit ius naturale",
+          "objections": [
+            {
+              "number": 1,
+              "text": "Ad tertium sic proceditur. Videtur quod ius gentium sit idem cum iure naturali. Non enim omnes homines conveniunt nisi in eo quod est eis naturale. Sed in iure gentium omnes homines conveniunt, dicit enim iurisconsultus quod ius gentium est quo gentes humanae utuntur. Ergo ius gentium est ius naturale."
+            },
+            {
+              "number": 2,
+              "text": "Praeterea, servitus inter homines est naturalis, quidam enim sunt naturaliter servi, ut philosophus probat, in I Polit. Sed servitutes pertinent ad ius gentium, ut Isidorus dicit. Ergo ius gentium est ius naturale."
+            },
+            {
+              "number": 3,
+              "text": "Praeterea, ius, ut dictum est, dividitur per ius naturale et positivum. Sed ius gentium non est ius positivum, non enim omnes gentes unquam convenerunt ut ex communi condicto aliquid statuerent. Ergo ius gentium est ius naturale."
+            }
+          ],
+          "sedContra": [
+            {
+              "number": 1,
+              "text": "Sed contra est quod Isidorus dicit, quod ius aut naturale est, aut civile, aut gentium. Et ita ius gentium distinguitur a iure naturali."
+            }
+          ],
+          "respondeo": "Respondeo dicendum quod, sicut dictum est, ius sive iustum naturale est quod ex sui natura est adaequatum vel commensuratum alteri. Hoc autem potest contingere dupliciter. Uno modo, secundum absolutam sui considerationem, sicut masculus ex sui ratione habet commensurationem ad feminam ut ex ea generet, et parens ad filium ut eum nutriat. Alio modo aliquid est naturaliter alteri commensuratum non secundum absolutam sui rationem, sed secundum aliquid quod ex ipso consequitur, puta proprietas possessionum. Si enim consideretur iste ager absolute, non habet unde magis sit huius quam illius, sed si consideretur quantum ad opportunitatem colendi et ad pacificum usum agri, secundum hoc habet quandam commensurationem ad hoc quod sit unius et non alterius, ut patet per philosophum, in II Polit. Absolute autem apprehendere aliquid non solum convenit homini, sed etiam aliis animalibus. Et ideo ius quod dicitur naturale secundum primum modum, commune est nobis et aliis animalibus. A iure autem naturali sic dicto recedit ius gentium, ut iurisconsultus dicit, quia illud omnibus animalibus, hoc solum hominibus inter se commune est. Considerare autem aliquid comparando ad id quod ex ipso sequitur, est proprium rationis. Et ideo hoc quidem est naturale homini secundum rationem naturalem, quae hoc dictat. Et ideo dicit Gaius iurisconsultus, quod naturalis ratio inter omnes homines constituit, id apud omnes gentes custoditur, vocaturque ius gentium.",
+          "replies": [
+            {
+              "objectionNumber": 1,
+              "text": "Et per hoc patet responsio ad primum."
+            },
+            {
+              "objectionNumber": 2,
+              "text": "Ad secundum dicendum quod hunc hominem esse servum, absolute considerando, magis quam alium, non habet rationem naturalem, sed solum secundum aliquam utilitatem consequentem, inquantum utile est huic quod regatur a sapientiori, et illi quod ab hoc iuvetur, ut dicitur in I Polit. Et ideo servitus pertinens ad ius gentium est naturalis secundo modo, sed non primo."
+            },
+            {
+              "objectionNumber": 3,
+              "text": "Ad tertium dicendum quod quia ea quae sunt iuris gentium naturalis ratio dictat, puta ex propinquo habentia aequitatem; inde est quod non indigent aliqua speciali institutione, sed ipsa naturalis ratio ea instituit, ut dictum est in auctoritate inducta."
+            }
+          ],
+          "witness": "corpusthomisticum"
+        },
+        {
           "number": 4,
           "citation": "II-II q. 57 a. 4",
           "title": "utrum ius dominativum et paternum debeat specialiter distingui",
@@ -29048,6 +29089,47 @@
           ]
         },
         {
+          "number": 2,
+          "citation": "II-II q. 137 a. 2",
+          "title": "utrum sit pars fortitudinis",
+          "objections": [
+            {
+              "number": 1,
+              "text": "Ad secundum sic proceditur. Videtur quod perseverantia non sit pars fortitudinis. Quia, ut philosophus dicit, in VII Ethic., perseverantia est circa tristitias tactus. Sed huiusmodi pertinent ad temperantiam. Ergo perseverantia magis est pars temperantiae quam fortitudinis."
+            },
+            {
+              "number": 2,
+              "text": "Praeterea, omnis pars virtutis moralis est circa aliquas passiones, quas virtus moralis moderatur. Sed perseverantia non importat moderantiam passionum, quia quanto vehementiores fuerint passiones, tanto aliquis secundum rationem perseverans laudabilior videtur. Ergo videtur quod perseverantia non sit pars alicuius virtutis moralis, sed magis prudentiae, quae perficit rationem."
+            },
+            {
+              "number": 3,
+              "text": "Praeterea, Augustinus dicit, in libro de perseverantia, quod perseverantiam nullus potest amittere. Alias autem virtutes potest homo amittere. Ergo perseverantia est potior omnibus aliis virtutibus. Sed virtus principalis est potior quam pars eius. Ergo perseverantia non est pars alicuius virtutis, sed magis ipsa est virtus principalis."
+            }
+          ],
+          "sedContra": [
+            {
+              "number": 1,
+              "text": "Sed contra est quod Tullius ponit perseverantiam partem fortitudinis."
+            }
+          ],
+          "respondeo": "Respondeo dicendum quod, sicut supra dictum est, virtus principalis est cui principaliter adscribitur aliquid quod pertinet ad laudem virtutis, inquantum scilicet exercet illud circa propriam materiam in qua difficillimum et optimum est illud observare. Et secundum hoc dictum est quod fortitudo est principalis virtus, quia firmitatem servat in his in quibus difficillimum est firmiter persistere, scilicet in periculis mortis. Et ideo necesse est quod fortitudini adiungatur sicut secundaria virtus principali, omnis virtus cuius laus consistit in sustinendo firmiter aliquod difficile. Sustinere autem difficultatem quae provenit ex diuturnitate boni operis, dat laudem perseverantiae, nec hoc est ita difficile sicut sustinere pericula mortis. Et ideo perseverantia adiungitur fortitudini sicut virtus secundaria principali.",
+          "replies": [
+            {
+              "objectionNumber": 1,
+              "text": "Ad primum ergo dicendum quod annexio secundariae virtutis ad principalem non solum attenditur secundum materiam, sed magis secundum modum, quia forma in unoquoque potior est quam materia. Unde licet perseverantia magis videatur convenire in materia cum temperantia quam cum fortitudine, tamen in modo magis convenit cum fortitudine, inquantum firmitatem servat contra difficultatem diuturnitatis."
+            },
+            {
+              "objectionNumber": 2,
+              "text": "Ad secundum dicendum quod illa perseverantia de qua philosophus loquitur, non moderatur aliquas passiones, sed consistit solum in quadam firmitate rationis et voluntatis. Sed perseverantia secundum quod ponitur virtus, moderatur aliquas passiones, scilicet timorem fatigationis aut defectus propter diuturnitatem. Unde haec virtus est in irascibili, sicut et fortitudo."
+            },
+            {
+              "objectionNumber": 3,
+              "text": "Ad tertium dicendum quod Augustinus ibi loquitur de perseverantia non secundum quod nominat habitum virtutis, sed secundum quod nominat actum virtutis continuatum usque in finem, secundum illud Matth. XXIV qui perseveraverit usque in finem, hic salvus erit. Et ideo contra rationem perseverantiae sic acceptae esset quod amitteretur, quia iam non duraret usque in finem."
+            }
+          ],
+          "witness": "corpusthomisticum"
+        },
+        {
           "number": 3,
           "citation": "II-II q. 137 a. 3",
           "title": "quomodo se habet ad constantiam",
@@ -29904,6 +29986,59 @@
           ]
         }
       ]
+    },
+    {
+      "number": 143,
+      "citation": "II-II q. 143",
+      "title": null,
+      "prooemium": "Deinde considerandum est de partibus temperantiae. Et primo, de ipsis partibus in generali; secundo, de singulis earum in speciali.",
+      "articles": [
+        {
+          "number": null,
+          "citation": "II-II q. 143",
+          "title": null,
+          "objections": [
+            {
+              "number": 1,
+              "text": "Ad primum sic proceditur. Videtur quod Tullius, in sua rhetorica, inconvenienter assignet partes temperantiae, quas dicit esse continentiam, clementiam, modestiam. Continentia enim contra virtutem dividitur, in VII Ethic. Sed temperantia continetur sub virtute. Ergo continentia non est pars temperantiae."
+            },
+            {
+              "number": 2,
+              "text": "Praeterea, clementia videtur esse mitigativa odii vel irae. Temperantia autem non est circa huiusmodi, sed circa delectationes tactus, ut dictum est. Ergo clementia non est pars temperantiae."
+            },
+            {
+              "number": 3,
+              "text": "Praeterea, modestia consistit in exterioribus actibus, unde et apostolus dicit, Philipp. IV, modestia vestra nota sit omnibus hominibus. Sed actus exteriores sunt materia iustitiae, ut supra habitum est. Ergo modestia magis est pars iustitiae quam temperantiae."
+            },
+            {
+              "number": 4,
+              "text": "Praeterea, Macrobius, super somnium Scipionis, ponit multo plures temperantiae partes, dicit enim quod temperantiam sequitur modestia, verecundia, abstinentia, castitas, honestas, moderatio, parcitas, sobrietas, pudicitia. Andronicus etiam dicit quod familiares temperantiae sunt austeritas, continentia, humilitas, simplicitas, ornatus, bona ordinatio, per se sufficientia. Videtur igitur insufficienter Tullius enumerasse temperantiae partes."
+            }
+          ],
+          "sedContra": [],
+          "respondeo": "Respondeo dicendum quod, sicut supra dictum est, alicuius virtutis cardinalis triplices partes esse possunt, scilicet integrales, subiectivae et potentiales. Et dicuntur partes integrales alicuius virtutis conditiones quas necesse est concurrere ad virtutem. Et secundum hoc, sunt duae partes integrales temperantiae, scilicet verecundia, per quam aliquis refugit turpitudinem temperantiae contrariam; et honestas, per quam scilicet aliquis amat pulchritudinem temperantiae. Nam sicut ex dictis patet, praecipue temperantia inter virtutes vindicat sibi quendam decorem, et vitia intemperantiae maxime turpitudinem habent. Partes autem subiectivae alicuius virtutis dicuntur species eius. Oportet autem diversificare species virtutum secundum diversitatem materiae vel obiecti. Est autem temperantia circa delectationes tactus, quae dividuntur in duo genera. Nam quaedam ordinantur ad nutrimentum. Et in his, quantum ad cibum, est abstinentia; quantum autem ad potum, proprie sobrietas. Quaedam vero ordinantur ad vim generativam. Et in his, quantum ad delectationem principalem ipsius coitus, est castitas; quantum autem ad delectationes circumstantes, puta quae sunt in osculis, tactibus et amplexibus, attenditur pudicitia. Partes autem potentiales alicuius virtutis principalis dicuntur virtutes secundariae, quae modum quem principalis virtus observat circa aliquam principalem materiam, eundem observant in quibusdam aliis materiis, in quibus non est ita difficile. Pertinet autem ad temperantiam moderari delectationes tactus, quas difficillimum est moderari. Unde quaecumque virtus moderationem quandam operatur in aliqua materia et refrenationem appetitus in aliquid tendentis, poni potest pars temperantiae sicut virtus ei adiuncta. Quod quidem contingit tripliciter, uno modo, in interioribus motibus animi; alio modo, in exterioribus motibus et actibus corporis; tertio modo, in exterioribus rebus. Praeter motum autem concupiscentiae, quem moderatur et refrenat temperantia, tres motus inveniuntur in anima tendentes in aliquid. Primus quidem est motus voluntatis commotae ex impetu passionis, et hunc motum refrenat continentia, ex qua fit ut, licet homo immoderatas concupiscentias patiatur, voluntas tamen non vincitur. Alius autem motus interior in aliquid tendens est motus spei, et audaciae, quae ipsam consequitur, et hunc motum moderatur sive refrenat humilitas. Tertius autem motus est irae tendentis in vindictam, quem refrenat mansuetudo sive clementia. Circa motus autem et actus corporales moderationem et refrenationem facit modestia. Quam Andronicus in tria dividit. Ad quorum primum pertinet discernere quid sit faciendum et quid dimittendum, et quid quo ordine sit agendum, et in hoc firmum persistere, et quantum ad hoc ponit bonam ordinationem. Aliud autem est quod homo in eo quod agit decentiam observet, et quantum ad hoc ponit ornatum. Tertium autem est in colloquiis amicorum, vel quibuscumque aliis, et quantum ad hoc ponitur austeritas. Circa exteriora vero duplex moderatio est adhibenda. Primo quidem, ut superflua non requirantur, et quantum ad hoc ponitur a Macrobio parcitas, et ab Andronico per se sufficientia. Secundo vero, ut homo non nimis exquisita requirat, et quantum ad hoc ponit Macrobius moderationem, Andronicus vero simplicitatem.",
+          "replies": [
+            {
+              "objectionNumber": 1,
+              "text": "Ad primum ergo dicendum quod continentia differt quidem a virtute sicut imperfectum a perfecto, ut infra dicetur, et hoc modo condividitur virtuti. Convenit tamen cum temperantia et in materia, quia est circa delectationes tactus; et in modo, quia in quadam refrenatione consistit. Et ideo convenienter ponitur pars temperantiae."
+            },
+            {
+              "objectionNumber": 2,
+              "text": "Ad secundum dicendum quod clementia, sive mansuetudo, non ponitur pars temperantiae propter convenientiam materiae, sed quia convenit cum ea in modo refrenandi et moderandi, ut dictum est."
+            },
+            {
+              "objectionNumber": 3,
+              "text": "Ad tertium dicendum quod circa actus exteriores iustitia attendit id quod est debitum alteri. Hoc autem modestia non attendit, sed solum moderationem quandam. Et ideo non ponitur pars iustitiae, sed temperantiae."
+            },
+            {
+              "objectionNumber": 4,
+              "text": "Ad quartum dicendum quod Tullius sub modestia comprehendit omnia illa quae pertinent ad moderationem corporalium motuum et exteriorum rerum; et etiam moderationem spei, quam diximus ad humilitatem pertinere."
+            }
+          ],
+          "witness": "corpusthomisticum"
+        }
+      ],
+      "witness": "corpusthomisticum"
     },
     {
       "number": 144,

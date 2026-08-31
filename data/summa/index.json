@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T14:19:18.866Z",
+  "generatedAt": "2026-08-31T19:57:30.455Z",
   "sourceUrl": "https://raw.githubusercontent.com/vicmortelmans/summa/master/build/xml_latin_nl/xml_latin_nl.xml",
   "sourceCommit": null,
   "license": "Latin text of the Summa Theologiae is in the public domain. Source aggregation: github.com/vicmortelmans/summa (Dutch translation stripped during import). No Supplementum in this source: Proœmium + Prima Pars, Prima Secundae, Secunda Secundae, Tertia Pars only.",
@@ -9,8 +9,8 @@
       "code": "I",
       "latinTitle": "Prima Pars",
       "shortTitle": "Prima Pars",
-      "questionCount": 118,
-      "articleCount": 579
+      "questionCount": 119,
+      "articleCount": 583
     },
     {
       "id": "prima-secundae",
@@ -18,15 +18,15 @@
       "latinTitle": "Prima Secundae",
       "shortTitle": "Prima Secundae",
       "questionCount": 114,
-      "articleCount": 616
+      "articleCount": 618
     },
     {
       "id": "secunda-secundae",
       "code": "II-II",
       "latinTitle": "Secunda Secundae",
       "shortTitle": "Secunda Secundae",
-      "questionCount": 188,
-      "articleCount": 913
+      "questionCount": 189,
+      "articleCount": 916
     },
     {
       "id": "tertia-pars",
@@ -34,7 +34,77 @@
       "latinTitle": "Tertia Pars",
       "shortTitle": "Tertia Pars",
       "questionCount": 90,
-      "articleCount": 544
+      "articleCount": 548
+    },
+    {
+      "id": "supplementum",
+      "code": "Suppl.",
+      "latinTitle": "Supplementum Tertiae Partis",
+      "shortTitle": "Supplementum",
+      "questionCount": 102,
+      "articleCount": 456,
+      "kind": "posthumous-compilation"
     }
-  ]
+  ],
+  "filledLacunae": {
+    "note": "These citations are absent from the base transcription (github.com/vicmortelmans/summa) and were supplied verbatim from the public-domain original-language witnesses below. Nothing is translated, normalised or conjecturally corrected.",
+    "witnesses": {
+      "wikisource-la": "Latin Wikisource, \"Summa Theologiae / Prima pars\" (Leonine text; CC BY-SA 4.0), retrieved via the MediaWiki action=parse API",
+      "corpusthomisticum": "corpusthomisticum.org — Textum Leoninum (Romae 1888 / 1899) recognovit E. Alarcón (public-domain Leonine text)"
+    },
+    "items": [
+      {
+        "citation": "I q. 2 a. 1",
+        "witness": "wikisource-la"
+      },
+      {
+        "citation": "I q. 57 a. 4",
+        "witness": "wikisource-la"
+      },
+      {
+        "citation": "I q. 72",
+        "witness": "wikisource-la"
+      },
+      {
+        "citation": "I q. 84 a. 2",
+        "witness": "wikisource-la"
+      },
+      {
+        "citation": "I-II q. 104 a. 2",
+        "witness": "corpusthomisticum"
+      },
+      {
+        "citation": "I-II q. 42 a. 2",
+        "witness": "corpusthomisticum"
+      },
+      {
+        "citation": "II-II q. 137 a. 2",
+        "witness": "corpusthomisticum"
+      },
+      {
+        "citation": "II-II q. 143",
+        "witness": "corpusthomisticum"
+      },
+      {
+        "citation": "II-II q. 57 a. 3",
+        "witness": "corpusthomisticum"
+      },
+      {
+        "citation": "III q. 15 a. 9",
+        "witness": "corpusthomisticum"
+      },
+      {
+        "citation": "III q. 2 a. 6",
+        "witness": "corpusthomisticum"
+      },
+      {
+        "citation": "III q. 56 a. 1",
+        "witness": "corpusthomisticum"
+      },
+      {
+        "citation": "III q. 7 a. 9",
+        "witness": "corpusthomisticum"
+      }
+    ]
+  }
 }

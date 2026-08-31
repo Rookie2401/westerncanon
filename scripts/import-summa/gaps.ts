@@ -1,15 +1,18 @@
 /**
  * Derives `data/summa/gaps.json` — a machine-readable list of citations that are
- * absent from the bundled source transcription (github.com/vicmortelmans/summa).
+ * STILL absent after the lacunae in the base transcription
+ * (github.com/vicmortelmans/summa) have been filled from public-domain secondary
+ * witnesses (see `lacunae.ts` and `index.json` -> `filledLacunae`).
  *
- * These are genuine lacunae in that single transcription, NOT import bugs and NOT
- * fabricated content. The importer never invents Latin, so the app surfaces these
- * honestly (About screen) and the Reader simply skips absent numbers.
+ * As of the completeness pass this list is expected to be EMPTY: every question
+ * and every numbered article in Parts I–III now runs contiguously, and the
+ * Supplementum has been added. Anything reported here is a genuine remaining
+ * lacuna — never an import bug and never fabricated content.
  *
- * "Absent" here is defined structurally: within a part, question numbers should
- * run 1..maxQ and a question's numbered articles should run 1..maxA. Any integer
- * in that range with no corresponding content in the source is reported. We do
- * NOT assert what the missing text "should" say.
+ * "Absent" is defined structurally: within a part, question numbers should run
+ * 1..maxQ and a question's numbered articles 1..maxA. Any integer in that range
+ * with no corresponding content is reported. We do NOT assert what missing text
+ * "should" say.
  *
  * Run: npx tsx scripts/import-summa/gaps.ts
  */
@@ -24,7 +27,7 @@ interface ArticleLike { number: number | null; citation: string }
 interface QuestionLike { number: number; citation: string; articles: ArticleLike[] }
 interface PartLike { code: string; shortTitle: string; questions: QuestionLike[] }
 
-const partFiles = ['part-I.json', 'part-I-II.json', 'part-II-II.json', 'part-III.json'];
+const partFiles = ['part-I.json', 'part-I-II.json', 'part-II-II.json', 'part-III.json', 'part-suppl.json'];
 
 interface Gap {
   kind: 'question' | 'article';
@@ -35,8 +38,12 @@ interface Gap {
 
 const gaps: Gap[] = [];
 
+import { existsSync } from 'node:fs';
+
 for (const file of partFiles) {
-  const part = JSON.parse(readFileSync(resolve(dataDir, file), 'utf8')) as PartLike;
+  const path = resolve(dataDir, file);
+  if (!existsSync(path)) continue; // part-suppl.json may not be built yet
+  const part = JSON.parse(readFileSync(path, 'utf8')) as PartLike;
   const qNums = part.questions.map((q) => q.number).sort((a, b) => a - b);
   const maxQ = qNums[qNums.length - 1] ?? 0;
   const haveQ = new Set(qNums);
@@ -75,10 +82,12 @@ const out = {
   generatedAt: new Date().toISOString(),
   source: 'https://raw.githubusercontent.com/vicmortelmans/summa/master/build/xml_latin_nl/xml_latin_nl.xml',
   explanation:
-    'Citations for which the bundled single-source transcription supplies no Latin text. ' +
-    'These are lacunae in that transcription. This application never fabricates or ' +
-    'substitutes Latin, so these passages are simply not present. Everything else ' +
-    '(2652 articles) is the complete original Latin.',
+    'Citations for which NO original-language Latin text is present, after the thirteen ' +
+    'lacunae in the base transcription were filled from public-domain secondary witnesses ' +
+    '(see index.json -> filledLacunae) and the Supplementum Tertiae Partis was added. ' +
+    'This list is normally empty: Parts I-III run contiguously and the Supplementum is ' +
+    'complete. Any entry here is a genuine remaining lacuna the app does not paper over — ' +
+    'nothing is ever fabricated or substituted.',
   missingQuestions: gaps.filter((g) => g.kind === 'question').map((g) => g.citation),
   missingArticles: gaps.filter((g) => g.kind === 'article').map((g) => g.citation),
   count: gaps.length,

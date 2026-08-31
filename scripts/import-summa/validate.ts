@@ -98,6 +98,18 @@ function main(): void {
   let oeCount = (prooemium.text.match(/œ/g) ?? []).length;
   const titleRejectionsByReason = new Map<string, string[]>();
 
+  // Lemmas supplied from a secondary public-domain witness (see gaps.ts /
+  // lacunae.ts). These are NOT in the base XML, so they must be subtracted from
+  // the output side before the XML lemma-accounting cross-check, and are then
+  // accounted separately against index.json's `filledLacunae` ledger.
+  let secObjections = 0;
+  let secSedContra = 0;
+  let secReplies = 0;
+  let secRespondeo = 0;
+  let secQuestionProoemia = 0;
+  const filledArticleCitations = new Set<string>();
+  const filledQuestionCitations = new Set<string>();
+
   for (const part of parts) {
     let anomalies = 0;
     let pObj = 0;
@@ -133,8 +145,11 @@ function main(): void {
 
     for (const q of part.questions) {
       allQuestionCitations.push(q.citation);
+      const qSecondary = q.witness != null;
+      if (qSecondary) filledQuestionCitations.add(q.citation);
       if (q.prooemium) {
         outQuestionProoemia += 1;
+        if (qSecondary) secQuestionProoemia += 1;
         oeCount += (q.prooemium.match(/œ/g) ?? []).length;
       }
       if (q.title !== null) warn('question-title', `${q.citation}: unexpected non-null question title`);
@@ -200,6 +215,14 @@ function main(): void {
           totalNullTitles += 1;
         }
 
+        if (qSecondary || a.witness != null) {
+          filledArticleCitations.add(a.citation);
+          secObjections += a.objections.length;
+          secSedContra += a.sedContra.length;
+          secReplies += a.replies.length;
+          if (a.respondeo != null) secRespondeo += 1;
+        }
+
         for (const s of [a.respondeo ?? '', ...a.objections.map((o) => o.text), ...a.sedContra.map((x) => x.text), ...a.replies.map((r) => r.text)]) {
           oeCount += (s.match(/œ/g) ?? []).length;
         }
@@ -229,22 +252,59 @@ function main(): void {
   dupCheck('article-citation-unique', allArticleCitations);
   dupCheck('question-citation-unique', allQuestionCitations);
 
-  // ---- lemma accounting -------------------------------------------------
+  // ---- lemma accounting (base transcription only) -----------------------
+  // The XML is the base source; secondary-witness lemmas (filled lacunae) are
+  // subtracted here and checked against the `filledLacunae` ledger below.
   const outPr = 1 /* work */ + outPartProoemia + outQuestionProoemia;
-  accountingRow('pr (prooemia)', tc['pr'] ?? 0, outPr);
-  accountingRow('arg (objections)', tc['arg'] ?? 0, outObjections);
-  accountingRow('sc (sed contra)', tc['sc'] ?? 0, outSedContra);
-  accountingRow('co (respondeo)', tc['co'] ?? 0, outRespondeo);
-  accountingRow('ad (replies)', tc['ad'] ?? 0, outReplies);
+  const basePr = outPr - secQuestionProoemia;
+  const baseObj = outObjections - secObjections;
+  const baseSc = outSedContra - secSedContra;
+  const baseResp = outRespondeo - secRespondeo;
+  const baseRep = outReplies - secReplies;
+  accountingRow('pr (prooemia)', tc['pr'] ?? 0, basePr);
+  accountingRow('arg (objections)', tc['arg'] ?? 0, baseObj);
+  accountingRow('sc (sed contra)', tc['sc'] ?? 0, baseSc);
+  accountingRow('co (respondeo)', tc['co'] ?? 0, baseResp);
+  accountingRow('ad (replies)', tc['ad'] ?? 0, baseRep);
   const inTotal = source.totalLemmas;
-  const outTotal = outPr + outObjections + outSedContra + outRespondeo + outReplies;
-  if (inTotal !== outTotal) {
-    err('lemma-accounting', `total lemmas: input ${inTotal} != consumed ${outTotal} (delta ${inTotal - outTotal})`);
+  const baseTotal = basePr + baseObj + baseSc + baseResp + baseRep;
+  if (inTotal !== baseTotal) {
+    err(
+      'lemma-accounting',
+      `base-source lemmas: XML input ${inTotal} != output ${baseTotal} (delta ${inTotal - baseTotal}); ` +
+        `secondary-witness lemmas excluded: ${secQuestionProoemia}pr ${secObjections}arg ${secSedContra}sc ${secRespondeo}co ${secReplies}ad`,
+    );
   }
 
-  // ---- respondeo vs co ---------------------------------------------------
-  if ((tc['co'] ?? 0) !== outRespondeo) {
-    err('respondeo-vs-co', `co lemmas ${tc['co']} != articles with respondeo ${outRespondeo}`);
+  // ---- respondeo vs co (base only) ------------------------------------
+  if ((tc['co'] ?? 0) !== baseResp) {
+    err('respondeo-vs-co', `co lemmas ${tc['co']} != base articles with respondeo ${baseResp}`);
+  }
+
+  // ---- filled-lacunae ledger ----------------------------------------------
+  // Every witness-tagged citation must be declared in index.json, and vice
+  // versa; every filled article must carry real text.
+  const declared = new Set((index.filledLacunae?.items ?? []).map((i) => i.citation));
+  const filledAll = new Set<string>([...filledArticleCitations, ...filledQuestionCitations]);
+  // whole-question fills (I q. 72, II-II q. 143) are declared by their question
+  // citation; their single article shares that citation, so collapse both forms.
+  for (const c of filledAll) {
+    if (!declared.has(c)) err('filled-lacunae', `${c} carries a witness tag but is not declared in index.json filledLacunae`);
+  }
+  for (const c of declared) {
+    if (!filledAll.has(c)) err('filled-lacunae', `index.json declares ${c} filled, but no question/article with that citation carries a witness tag`);
+  }
+  const EXPECTED_FILLS = [
+    'I q. 2 a. 1', 'I q. 57 a. 4', 'I q. 72', 'I q. 84 a. 2',
+    'I-II q. 42 a. 2', 'I-II q. 104 a. 2',
+    'II-II q. 57 a. 3', 'II-II q. 137 a. 2', 'II-II q. 143',
+    'III q. 2 a. 6', 'III q. 7 a. 9', 'III q. 15 a. 9', 'III q. 56 a. 1',
+  ];
+  for (const c of EXPECTED_FILLS) {
+    if (!declared.has(c)) err('filled-lacunae', `expected lacuna ${c} is not present / not filled`);
+  }
+  if (declared.size !== EXPECTED_FILLS.length) {
+    warn('filled-lacunae', `filledLacunae has ${declared.size} items; the known lacuna list has ${EXPECTED_FILLS.length}`);
   }
 
   // ---- leaked markup / Dutch -----------------------------------------------
@@ -294,10 +354,25 @@ function main(): void {
   }
 
   // ---- search index sanity ------------------------------------------------
-  if (searchIndex.length !== totalArticles) {
-    err('search-index', `search-index has ${searchIndex.length} records, expected ${totalArticles} (one per article)`);
+  // The Supplementum (part-suppl.json) is assembled by scripts/import-summa/
+  // supplement.ts from committed OCR, not from the base transcription; when it is
+  // present its articles are also in the search index, so count them here.
+  let supplArticleCount = 0;
+  const supplCitations: string[] = [];
+  if (existsSync(join(OUT_DIR, 'part-suppl.json'))) {
+    const suppl = readJson<Part>('part-suppl.json');
+    for (const q of suppl.questions) {
+      for (const a of q.articles) {
+        supplArticleCount += 1;
+        supplCitations.push(a.citation);
+      }
+    }
   }
-  const artCitSet = new Set(allArticleCitations);
+  const expectedSearch = totalArticles + supplArticleCount;
+  if (searchIndex.length !== expectedSearch) {
+    err('search-index', `search-index has ${searchIndex.length} records, expected ${expectedSearch} (one per article)`);
+  }
+  const artCitSet = new Set([...allArticleCitations, ...supplCitations]);
   const missingInSearch = searchIndex.filter((r) => !artCitSet.has(r.citation)).length;
   if (missingInSearch) err('search-index', `${missingInSearch} search records have a citation not present in the parts`);
 
@@ -317,18 +392,73 @@ function main(): void {
     }
   }
 
+  // ---- COMPLETENESS: the four base parts must now be whole ---------------
+  // Expected question count per the standard scholarly edition (Leonine).
+  const EXPECTED_Q: Record<string, number> = { I: 119, 'I-II': 114, 'II-II': 189, III: 90 };
+  // The only questions the Leonine prints with a single, un-numbered article.
+  const EXPECTED_UNICUS = new Set(['I q. 71', 'I q. 72', 'II-II q. 128', 'II-II q. 143']);
+  const seenUnicus = new Set<string>();
+  for (const part of parts) {
+    const want = EXPECTED_Q[part.code];
+    const nums = part.questions.map((q) => q.number).sort((a, b) => a - b);
+    if (want != null && part.questions.length !== want) {
+      err('completeness', `${part.code}: expected ${want} questions, found ${part.questions.length}`);
+    }
+    // full contiguity 1..N — no missing numbers permitted any more
+    for (let n = 1; n <= (nums[nums.length - 1] ?? 0); n++) {
+      if (!nums.includes(n)) err('completeness', `${part.code}: question ${n} is missing (corpus must be contiguous)`);
+    }
+    if (nums[0] !== 1) err('completeness', `${part.code}: first question is ${nums[0]}, not 1`);
+    for (const q of part.questions) {
+      const numbered = q.articles.filter((a) => a.number != null).map((a) => a.number as number).sort((a, b) => a - b);
+      const unnumbered = q.articles.filter((a) => a.number == null);
+      if (unnumbered.length === 1 && numbered.length === 0) {
+        seenUnicus.add(q.citation);
+        if (!EXPECTED_UNICUS.has(q.citation)) {
+          err('completeness', `${q.citation}: unexpected single-unnumbered-article question (not in the known set)`);
+        }
+        continue;
+      }
+      if (unnumbered.length > 0) {
+        err('completeness', `${q.citation}: has ${unnumbered.length} unnumbered article(s) alongside ${numbered.length} numbered`);
+      }
+      for (let n = 1; n <= (numbered[numbered.length - 1] ?? 0); n++) {
+        if (!numbered.includes(n)) {
+          err('completeness', `${q.citation}: article ${n} is missing (articles must be contiguous 1..N)`);
+        }
+      }
+    }
+  }
+  for (const c of EXPECTED_UNICUS) {
+    if (!seenUnicus.has(c)) err('completeness', `${c} was expected to be a single-unnumbered-article question but is not`);
+  }
+
+  // ---- Supplementum Tertiae Partis (5th top-level section) --------------
+  const suppl = validateSupplement(index);
+
   writeReport(index, stats, source.typeCounts, source.totalLemmas, {
-    outPr,
-    outObjections,
-    outSedContra,
-    outRespondeo,
-    outReplies,
+    outPr: basePr,
+    outObjections: baseObj,
+    outSedContra: baseSc,
+    outRespondeo: baseResp,
+    outReplies: baseRep,
     coverage,
     totalArticles,
     totalNullTitles,
     oeCount,
     titleRejectionsByReason,
     searchRecords: searchIndex.length,
+    filled: {
+      questions: filledQuestionCitations.size,
+      articles: filledArticleCitations.size,
+      pr: secQuestionProoemia,
+      arg: secObjections,
+      sc: secSedContra,
+      co: secRespondeo,
+      ad: secReplies,
+      items: (index.filledLacunae?.items ?? []).map((i) => `${i.citation} (${i.witness})`),
+    },
+    suppl,
   });
   finish();
 
@@ -349,6 +479,134 @@ function main(): void {
   }
 }
 
+interface SupplReport {
+  questions: number;
+  coreQuestions: number;
+  appendixQuestions: number;
+  articles: number;
+  withAnomaly: number;
+  nullTitle: number;
+  nullRespondeo: number;
+  anomalyEntries: number;
+}
+
+/**
+ * Full inventory + integrity check for the Supplementum Tertiae Partis, the
+ * fifth top-level section. It is assembled from OCR of two public-domain printed
+ * editions (Marietti 1926/1931, cross-checked against the 1894 Editio altera
+ * Romana), so OCR-level uncertainty is expected and is recorded per article in
+ * suppl-anomalies.json; that is reported, not failed. What IS failed: a missing
+ * or non-contiguous question/article, an empty body, leaked markup, a wrong
+ * appendix label, or a manifest disagreement.
+ */
+function validateSupplement(index: SummaIndex): SupplReport {
+  const r: SupplReport = {
+    questions: 0, coreQuestions: 0, appendixQuestions: 0, articles: 0,
+    withAnomaly: 0, nullTitle: 0, nullRespondeo: 0, anomalyEntries: 0,
+  };
+  const path = join(OUT_DIR, 'part-suppl.json');
+  if (!existsSync(path)) {
+    err('supplement', 'part-suppl.json is missing - run `npm run import:summa`');
+    return r;
+  }
+  const part = JSON.parse(readFileSync(path, 'utf8')) as Part;
+  if (part.code !== 'Suppl.' || part.id !== 'supplementum') {
+    err('supplement', `part-suppl.json has code/id ${part.code}/${part.id}, expected Suppl./supplementum`);
+  }
+  if (!part.compilationNote || !/posthumous|Reginald|Rainaldus|Piperno|Sententiar/i.test(part.compilationNote)) {
+    err('supplement', 'part-suppl.json is missing a compilationNote naming it a posthumous compilation');
+  }
+
+  const core = part.questions.filter((q) => !q.appendix);
+  const appendix = part.questions.filter((q) => q.appendix);
+  r.questions = part.questions.length;
+  r.coreQuestions = core.length;
+  r.appendixQuestions = appendix.length;
+
+  // core: exactly 99, contiguous 1..99
+  if (core.length !== 99) err('supplement', `expected 99 core Supplementum questions, found ${core.length}`);
+  const coreNums = core.map((q) => q.number).sort((a, b) => a - b);
+  for (let n = 1; n <= 99; n++) {
+    if (!coreNums.includes(n)) err('supplement', `Supplementum question ${n} is missing (must be contiguous 1..99)`);
+  }
+  // appendix: exactly App. I q.1, App. I q.2, App. II q.1
+  const EXPECTED_APPX = [
+    { number: 100, appendix: 'I', appendixNumber: 1, citation: 'Suppl. App. I q. 1' },
+    { number: 101, appendix: 'I', appendixNumber: 2, citation: 'Suppl. App. I q. 2' },
+    { number: 102, appendix: 'II', appendixNumber: 1, citation: 'Suppl. App. II q. 1' },
+  ];
+  if (appendix.length !== 3) err('supplement', `expected 3 appendix questions, found ${appendix.length}`);
+  for (const want of EXPECTED_APPX) {
+    const got = part.questions.find((q) => q.number === want.number);
+    if (!got) { err('supplement', `appendix question ${want.citation} (number ${want.number}) is missing`); continue; }
+    if (got.appendix !== want.appendix || got.appendixNumber !== want.appendixNumber || got.citation !== want.citation) {
+      err('supplement', `appendix question ${want.number} mislabelled: got appendix=${got.appendix} n=${got.appendixNumber} cite="${got.citation}", expected ${want.citation}`);
+    }
+  }
+
+  // per-question article contiguity + non-empty body + no leaked markup
+  for (const q of part.questions) {
+    const numbered = q.articles.filter((a) => a.number != null).map((a) => a.number as number).sort((a, b) => a - b);
+    const unnumbered = q.articles.filter((a) => a.number == null);
+    if (unnumbered.length > 1) err('supplement', `${q.citation}: ${unnumbered.length} unnumbered articles`);
+    for (let n = 1; n <= (numbered[numbered.length - 1] ?? 0); n++) {
+      if (!numbered.includes(n)) err('supplement', `${q.citation}: article ${n} missing (articles must be contiguous)`);
+    }
+    if (q.witness !== 'marietti-1931') {
+      warn('supplement', `${q.citation}: witness is ${q.witness ?? 'unset'} (expected marietti-1931)`);
+    }
+    for (const a of q.articles) {
+      r.articles += 1;
+      if (a.anomaly) r.withAnomaly += 1;
+      if (a.title == null) r.nullTitle += 1;
+      if (a.respondeo == null) r.nullRespondeo += 1;
+      const emptyBody =
+        a.objections.length === 0 && a.sedContra.length === 0 && a.respondeo == null && a.replies.length === 0;
+      if (emptyBody) err('supplement', `${a.citation}: article has no objections, sed contra, respondeo or replies`);
+      for (const s of [
+        a.title ?? '', a.respondeo ?? '',
+        ...a.objections.map((o) => o.text), ...a.sedContra.map((x) => x.text), ...a.replies.map((x) => x.text),
+      ]) {
+        const hits = findForbidden(s);
+        if (hits.length) err('supplement', `${a.citation}: leaked markup ${hits.join(',')} :: ${s.slice(0, 80)}`);
+      }
+    }
+  }
+
+  // anomalies file present + non-trivial
+  const anomPath = join(OUT_DIR, 'suppl-anomalies.json');
+  if (!existsSync(anomPath)) {
+    err('supplement', 'suppl-anomalies.json is missing');
+  } else {
+    const anom = JSON.parse(readFileSync(anomPath, 'utf8')) as Array<{ where: string; note: string }>;
+    r.anomalyEntries = anom.length;
+    if (!Array.isArray(anom) || anom.length === 0) err('supplement', 'suppl-anomalies.json is empty');
+    for (const e of anom) {
+      if (!e || typeof e.where !== 'string' || typeof e.note !== 'string') {
+        err('supplement', `suppl-anomalies.json entry is malformed: ${JSON.stringify(e).slice(0, 80)}`);
+        break;
+      }
+    }
+  }
+
+  // manifest cross-check (index.parts must carry the Supplementum with kind set)
+  const m = index.parts.find((p) => p.code === 'Suppl.');
+  if (!m) {
+    err('supplement', 'index.json parts[] has no Suppl. entry');
+  } else {
+    const artCount = part.questions.reduce((n, q) => n + q.articles.length, 0);
+    if (m.questionCount !== part.questions.length || m.articleCount !== artCount) {
+      err('supplement', `index.json Suppl. manifest (${m.questionCount}q/${m.articleCount}a) disagrees with part-suppl.json (${part.questions.length}q/${artCount}a)`);
+    }
+    if (m.kind !== 'posthumous-compilation') {
+      err('supplement', `index.json Suppl. manifest kind is ${m.kind ?? 'unset'}, expected posthumous-compilation`);
+    }
+  }
+  if (index.parts.length !== 5) err('supplement', `index.json should list 5 top-level sections, lists ${index.parts.length}`);
+
+  return r;
+}
+
 interface ReportExtra {
   outPr: number;
   outObjections: number;
@@ -361,6 +619,17 @@ interface ReportExtra {
   oeCount: number;
   titleRejectionsByReason: Map<string, string[]>;
   searchRecords: number;
+  filled: {
+    questions: number;
+    articles: number;
+    pr: number;
+    arg: number;
+    sc: number;
+    co: number;
+    ad: number;
+    items: string[];
+  };
+  suppl: SupplReport;
 }
 
 function writeReport(
@@ -413,8 +682,10 @@ function writeReport(
 
   L.push('## Lemma accounting');
   L.push('');
-  L.push('| Lemma type | Input (XML) | Consumed (output) | OK |');
-  L.push('|------------|-------------|-------------------|----|');
+  L.push('_Base transcription only; secondary-witness lemmas (filled lacunae) are listed separately below._');
+  L.push('');
+  L.push('| Lemma type | Input (XML) | Base output | OK |');
+  L.push('|------------|-------------|-------------|----|');
   L.push(`| pr | ${typeCounts['pr'] ?? 0} | ${x.outPr} | ${(typeCounts['pr'] ?? 0) === x.outPr ? 'yes' : 'NO'} |`);
   L.push(`| arg | ${typeCounts['arg'] ?? 0} | ${x.outObjections} | ${(typeCounts['arg'] ?? 0) === x.outObjections ? 'yes' : 'NO'} |`);
   L.push(`| sc | ${typeCounts['sc'] ?? 0} | ${x.outSedContra} | ${(typeCounts['sc'] ?? 0) === x.outSedContra ? 'yes' : 'NO'} |`);
@@ -422,6 +693,31 @@ function writeReport(
   L.push(`| ad | ${typeCounts['ad'] ?? 0} | ${x.outReplies} | ${(typeCounts['ad'] ?? 0) === x.outReplies ? 'yes' : 'NO'} |`);
   const consumed = x.outPr + x.outObjections + x.outSedContra + x.outRespondeo + x.outReplies;
   L.push(`| **total** | ${totalLemmas} | ${consumed} | ${totalLemmas === consumed ? 'yes' : 'NO'} |`);
+  L.push('');
+
+  L.push('## Filled lacunae (secondary public-domain witnesses)');
+  L.push('');
+  L.push(
+    `${x.filled.questions} whole question(s) + ${x.filled.articles} article citation(s) supplied from outside the base transcription ` +
+      `(${x.filled.pr} pr, ${x.filled.arg} arg, ${x.filled.sc} sc, ${x.filled.co} co, ${x.filled.ad} ad).`,
+  );
+  for (const it of x.filled.items) L.push(`- ${it}`);
+  L.push('');
+
+  L.push('## Supplementum Tertiae Partis (5th top-level section)');
+  L.push('');
+  L.push(
+    `Assembled from OCR of two public-domain printed editions (Marietti 1926/1931, cross-checked against the 1894 ` +
+      `Editio altera Romana). ${x.suppl.questions} questions (${x.suppl.coreQuestions} core + ${x.suppl.appendixQuestions} ` +
+      `Appendix de Purgatorio) / ${x.suppl.articles} articles.`,
+  );
+  L.push('');
+  L.push(
+    `- articles carrying an OCR/uncertainty note: **${x.suppl.withAnomaly}** ` +
+      `(detail in \`suppl-anomalies.json\`, ${x.suppl.anomalyEntries} entries)`,
+  );
+  L.push(`- articles with no parsed title: ${x.suppl.nullTitle}`);
+  L.push(`- articles with no respondeo: ${x.suppl.nullRespondeo}`);
   L.push('');
 
   L.push('## Article title coverage');

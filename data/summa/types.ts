@@ -10,10 +10,26 @@
  */
 
 /** Canonical part code as used in citations. */
-export type PartCode = 'I' | 'I-II' | 'II-II' | 'III';
+export type PartCode = 'I' | 'I-II' | 'II-II' | 'III' | 'Suppl.';
 
 /** Canonical part id (slug). */
-export type PartId = 'prima-pars' | 'prima-secundae' | 'secunda-secundae' | 'tertia-pars';
+export type PartId =
+  | 'prima-pars'
+  | 'prima-secundae'
+  | 'secunda-secundae'
+  | 'tertia-pars'
+  | 'supplementum';
+
+/**
+ * Identifier of a public-domain secondary witness used to supply Latin that is
+ * absent from the base transcription (github.com/vicmortelmans/summa). Present
+ * on a Question/Article only when its text did NOT come from the base source.
+ */
+export type WitnessId =
+  | 'wikisource-la' // Latin Wikisource, "Summa Theologiae / Prima pars" (Leonine text)
+  | 'corpusthomisticum' // corpusthomisticum.org, Textum Leoninum (public-domain text)
+  | 'marietti-1931' // Summa Theologica, Marietti ed. (Turin, 1926/1931) — Supplementum base text
+  | 'roman-1894'; // Summa Theologica, Editio altera Romana, vol. V (Rome, Forzani, 1894)
 
 /** A single objection (`<type>arg</type>` lemma). */
 export interface Objection {
@@ -56,6 +72,17 @@ export interface Article {
   /** The "respondeo" body (`<type>co</type>`), or `null` when the source has none. */
   respondeo: string | null;
   replies: Reply[];
+  /**
+   * Set only when this article's Latin was supplied from a secondary
+   * public-domain witness to fill a lacuna in the base transcription.
+   */
+  witness?: WitnessId;
+  /**
+   * A short note about a preserved irregularity or an uncertain reading in this
+   * article (parallels `Passage.anomaly` in the generic works). Used for the
+   * Supplementum, whose only witnesses are OCR of printed editions.
+   */
+  anomaly?: string;
 }
 
 export interface Question {
@@ -68,6 +95,14 @@ export interface Question {
   /** The question-level prooemium Latin (full), or `null`. */
   prooemium: string | null;
   articles: Article[];
+  /**
+   * Set only when the whole question is absent from the base transcription and
+   * was supplied verbatim from the named secondary public-domain witness.
+   */
+  witness?: WitnessId;
+  /** Supplementum appendices only. */
+  appendix?: 'I' | 'II';
+  appendixNumber?: number;
 }
 
 export interface Part {
@@ -80,6 +115,11 @@ export interface Part {
   /** Part-level prooemium (only Tertia Pars has one in this source), else `null`. */
   prooemium: string | null;
   questions: Question[];
+  /**
+   * Present on the Supplementum only: a short provenance note flagged in the UI
+   * (a posthumous compilation, not written by Aquinas as part of the Summa).
+   */
+  compilationNote?: string;
 }
 
 /** Work-level prooemium, emitted as `data/summa/prooemium.json`. */
@@ -95,6 +135,22 @@ export interface PartManifest {
   shortTitle: string;
   questionCount: number;
   articleCount: number;
+  /** Supplementum only: marks a top-level section that is a posthumous compilation. */
+  kind?: 'posthumous-compilation';
+}
+
+/** One filled citation and the witness it came from. */
+export interface FilledCitation {
+  citation: string;
+  witness: WitnessId;
+}
+
+/** Record of every passage supplied from outside the base transcription. */
+export interface FilledLacunae {
+  note: string;
+  /** witness id -> human-readable edition / URL string */
+  witnesses: Partial<Record<WitnessId, string>>;
+  items: FilledCitation[];
 }
 
 /** Light manifest, emitted as `data/summa/index.json`. */
@@ -104,6 +160,8 @@ export interface SummaIndex {
   sourceCommit: string | null;
   license: string;
   parts: PartManifest[];
+  /** Present once any lacuna has been filled from a secondary witness. */
+  filledLacunae?: FilledLacunae;
 }
 
 /**

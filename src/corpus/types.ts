@@ -3,6 +3,8 @@
 // `npm run validate:summa`. App code imports from here.
 export type {
   Article,
+  FilledCitation,
+  FilledLacunae,
   Objection,
   Part,
   PartCode,
@@ -14,4 +16,5 @@ export type {
   SedContra,
   SummaIndex,
   SearchRecord,
+  WitnessId,
 } from '../../data/summa/types.ts';

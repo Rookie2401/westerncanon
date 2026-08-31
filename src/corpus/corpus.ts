@@ -33,6 +33,12 @@ export interface PartInfo {
   label: string;
   /** Latin display header, e.g. "PRIMA PARS" */
   header: string;
+  /**
+   * Set on the Supplementum: a one-line note (shown under its heading and in
+   * breadcrumbs context) that it is a posthumous compilation, not written by
+   * Aquinas as part of the Summa.
+   */
+  compilation?: string;
 }
 
 /** Canonical ordering, used for prev/next traversal and menus. */
@@ -41,6 +47,14 @@ export const PARTS: readonly PartInfo[] = [
   { id: 'prima-secundae', code: 'I-II', label: 'Prima Secundae', header: 'Prima Secundae' },
   { id: 'secunda-secundae', code: 'II-II', label: 'Secunda Secundae', header: 'Secunda Secundae' },
   { id: 'tertia-pars', code: 'III', label: 'Tertia Pars', header: 'Tertia Pars' },
+  {
+    id: 'supplementum',
+    code: 'Suppl.',
+    label: 'Supplementum',
+    header: 'Supplementum Tertiae Partis',
+    compilation:
+      'A posthumous compilation: assembled after Aquinas’ death (c. 1274) by Reginald of Piperno from Aquinas’ earlier Scriptum super libros Sententiarum (Book IV). Not written by Aquinas as part of the Summa.',
+  },
 ];
 
 export function partById(id: string): PartInfo | undefined {
@@ -73,6 +87,7 @@ const PART_FILE: Record<PartId, string> = {
   'prima-secundae': 'part-I-II.json',
   'secunda-secundae': 'part-II-II.json',
   'tertia-pars': 'part-III.json',
+  supplementum: 'part-suppl.json',
 };
 
 export const loadIndex = () => loadJson<SummaIndex>('index.json');

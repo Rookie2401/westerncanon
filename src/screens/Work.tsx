@@ -66,13 +66,27 @@ export function WorkScreen() {
 /** The Prooemium link + 4 Partes, EXACTLY as the old Home rendered them, then
  *  this work's own "About the text" entry at the very bottom. */
 function SummaWorkBody() {
+  const entries = summaTopLevel();
   return (
     <nav className="home__list">
-      {summaTopLevel().map((e) => (
-        <Link key={e.id} to={e.to} className="home__entry">
-          <span className="home__entry-name">{e.label}</span>
-          {e.code ? <span className="home__entry-index">{e.code}</span> : null}
-        </Link>
+      {entries.map((e) => (
+        <div key={e.id}>
+          {e.compilation ? (
+            <p className="home__list-divider">Appended after Tertia Pars</p>
+          ) : null}
+          <Link
+            to={e.to}
+            className={e.compilation ? 'home__entry home__entry--compilation' : 'home__entry'}
+          >
+            <span className="home__entry-name">
+              {e.label}
+              {e.compilation ? (
+                <span className="home__entry-sub">posthumous compilation</span>
+              ) : null}
+            </span>
+            {e.code ? <span className="home__entry-index">{e.code}</span> : null}
+          </Link>
+        </div>
       ))}
       <Link to="/work/summa-theologiae/about" className="home__entry work__about-entry">
         <span className="home__entry-name">About this text</span>

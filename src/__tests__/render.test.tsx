@@ -78,7 +78,7 @@ describe('Library', () => {
     // The Summa is the sole Aquinas edition -> a direct link, not a dropdown.
     const summa = screen.getByRole('link', { name: /Summa Theologiae/ });
     expect(summa.getAttribute('href')).toBe('/work/summa-theologiae');
-    expect(screen.getByText('Latin')).toBeTruthy();
+    expect(screen.getByText('Latin · complete')).toBeTruthy();
   });
 
   it('orders Aristotle’s families Categories then De Interpretatione, each Greek edition before Latin', () => {
@@ -187,7 +187,7 @@ describe('Library — per-text families', () => {
 });
 
 describe('Work (Summa)', () => {
-  it('renders the four parts + Proœmium', () => {
+  it('renders the four parts + Proœmium + the Supplementum, set apart', () => {
     render(
       <MemoryRouter initialEntries={['/work/summa-theologiae']}>
         <Routes>
@@ -204,6 +204,11 @@ describe('Work (Summa)', () => {
     ]) {
       expect(screen.getByText(label)).toBeTruthy();
     }
+    // The Supplementum is present as its own row, flagged and linked to /part/supplementum.
+    const suppl = screen.getByRole('link', { name: /Supplementum/ });
+    expect(suppl.getAttribute('href')).toBe('/part/supplementum');
+    expect(suppl.className).toContain('home__entry--compilation');
+    expect(screen.getByText(/posthumous compilation/i)).toBeTruthy();
   });
 });
 
@@ -841,7 +846,7 @@ describe('Library accordion', () => {
       'false',
     );
     // Thomas is unaffected.
-    expect(screen.getByText('Latin')).toBeTruthy();
+    expect(screen.getByText('Latin · complete')).toBeTruthy();
   });
 });
 
@@ -910,7 +915,7 @@ describe('Reader', () => {
     expect(back.closest('.reader__chrome')).toBeNull();
   });
 
-  it('shows an honest gap note for a missing article (I q.2 a.1)', async () => {
+  it('renders I q.2 a.1 (a former lacuna) with its secondary-witness source note', async () => {
     render(
       <MemoryRouter initialEntries={['/read/prima-pars/2/1']}>
         <Routes>
@@ -918,8 +923,32 @@ describe('Reader', () => {
         </Routes>
       </MemoryRouter>,
     );
+    // The article body is present …
     expect(
-      await screen.findByText(/not present in the bundled source transcription/i),
+      (await screen.findAllByText(/omnibus cognitio existendi Deum naturaliter est inserta/i, {
+        exact: false,
+      })).length,
+    ).toBeGreaterThan(0);
+    // … and it is flagged as supplied from a public-domain secondary witness.
+    expect(
+      await screen.findByText(/absent from the base/i, { exact: false }),
+    ).toBeTruthy();
+  });
+
+  it('renders a Supplementum article with the posthumous-compilation note', async () => {
+    render(
+      <MemoryRouter initialEntries={['/read/supplementum/1/1']}>
+        <Routes>
+          <Route path="/read/:partId/:qNum/:aParam" element={<Reader />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+    expect(
+      (await screen.findAllByText(/Supplementum Tertiae Partis/i, { exact: false }))
+        .length,
+    ).toBeGreaterThan(0);
+    expect(
+      await screen.findByText(/assembled after Aquinas.* death/i, { exact: false }),
     ).toBeTruthy();
   });
 });

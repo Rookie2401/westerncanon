@@ -428,6 +428,25 @@ body {
   color: var(--ink-faint);
   margin-left: auto;
 }
+.home__list-divider {
+  margin: 1.3rem 0 0.1rem;
+  padding: 0 0.6rem;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  font-size: 0.82rem;
+  color: var(--ink-faint);
+}
+.home__entry--compilation {
+  border-left: 6px double var(--accent-soft);
+}
+.home__entry-sub {
+  display: block;
+  font-size: 0.72rem;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  margin-top: 0.1rem;
+}
 .home__continue {
   display: block;
   margin: 0 auto 1.75rem;
@@ -601,6 +620,30 @@ body {
   line-height: 1.6;
   border-left: 2px solid var(--rule-strong);
   padding-left: 1rem;
+}
+.screen-head__compilation {
+  margin-top: 0.9rem;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  line-height: 1.55;
+  border-left: 6px double var(--accent-soft);
+  padding-left: 1rem;
+  font-style: italic;
+}
+.screen-head__label {
+  margin-top: 0.6rem;
+  color: var(--accent);
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+}
+.entrylist__divider {
+  margin: 1.4rem 0 0.3rem;
+  padding: 0 0.5rem;
+  color: var(--accent);
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  font-size: 0.92rem;
+  border-bottom: 1px solid var(--rule-strong);
 }
 
 /* --- list of entries (questions / articles) --------------------------- */
@@ -800,6 +843,27 @@ body {
   padding: 0 1.35rem;
   text-align: center;
   color: var(--ink-soft);
+  font-style: italic;
+}
+
+/* Provenance / editorial notes shown above an article's text. */
+.reader__source-note {
+  margin: 0 0 1.4rem;
+  padding: 0.7rem 0.95rem;
+  border-left: 3px solid var(--accent-soft);
+  background: color-mix(in srgb, var(--accent) 6%, transparent);
+  font-size: 0.86em;
+  line-height: 1.5;
+  color: var(--ink-soft);
+}
+.reader__source-note strong {
+  color: var(--accent);
+}
+.reader__source-note--compilation {
+  border-left-style: double;
+  border-left-width: 6px;
+}
+.reader__source-note--anomaly {
   font-style: italic;
 }
 .reader__nav {

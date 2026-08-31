@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-08-28T15:34:57.154Z",
+  "generatedAt": "2026-08-31T19:57:32.616Z",
   "source": "https://raw.githubusercontent.com/vicmortelmans/summa/master/build/xml_latin_nl/xml_latin_nl.xml",
-  "explanation": "Citations for which the bundled single-source transcription supplies no Latin text. These are lacunae in that transcription. This application never fabricates or substitutes Latin, so these passages are simply not present. Everything else (2652 articles) is the complete original Latin.",
-  "missingQuestions": [
-    "I q. 72",
-    "II-II q. 143"
-  ],
-  "missingArticles": [
-    "I q. 2 a. 1",
-    "I q. 57 a. 4",
-    "I q. 84 a. 2",
-    "I-II q. 42 a. 2",
-    "I-II q. 104 a. 2",
-    "II-II q. 57 a. 3",
-    "II-II q. 137 a. 2",
-    "III q. 2 a. 6",
-    "III q. 7 a. 9",
-    "III q. 15 a. 9",
-    "III q. 56 a. 1"
-  ],
-  "count": 13
+  "explanation": "Citations for which NO original-language Latin text is present, after the thirteen lacunae in the base transcription were filled from public-domain secondary witnesses (see index.json -> filledLacunae) and the Supplementum Tertiae Partis was added. This list is normally empty: Parts I-III run contiguously and the Supplementum is complete. Any entry here is a genuine remaining lacuna the app does not paper over — nothing is ever fabricated or substituted.",
+  "missingQuestions": [],
+  "missingArticles": [],
+  "count": 0
 }

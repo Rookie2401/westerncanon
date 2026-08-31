@@ -1,0 +1,1410 @@
+[
+  {
+    "where": "Suppl. / prooemium",
+    "note": "part-level prooemium is the treatise prologue opening Suppl. q. 1 in the 1894 Roman edition, verbatim up to \"Circa primum quaeruntur\"; line-break hyphens rejoined and three OCR-letter slips corrected (\"teriio\" to \"tertio\", \"poeniientiae\" to \"poenitentiae\", \"qguinto\" to \"quinto\")."
+  },
+  {
+    "where": "Suppl. q. 1 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod, ut dicitur Eccli. x, 15, initium omnis peccati est superbia, per quam ...\""
+  },
+  {
+    "where": "Suppl. q. 1 a. 3",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, materia recipit perfectionem, remota privatione. Sed dolor se habet ad gratiam, sicut materia ad ...\""
+  },
+  {
+    "where": "Suppl. q. 2 a. 3 / sed contra",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 2 a. 3",
+    "note": "objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, per voluntariam contritionem delentur illa, quae per voluntatem committuntur. Sed ignorantia voluntarium tollit, ut ...\""
+  },
+  {
+    "where": "Suppl. q. 2 a. 5",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod homo debeat conteri de peccato alieno. Non enim petit aliquis indulgentiam nisi de ...\""
+  },
+  {
+    "where": "Suppl. q. 3 a. 1",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"SIT MAJOR DOLOR QUI ESSE POSSIT IN NATURA 2. dolor contritio.laesio vulneris. Ergo non est\")"
+  },
+  {
+    "where": "Suppl. q. 3 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod, sicut supra dictum est (qu. 1, art. 2 ad 1), in contritione ...\""
+  },
+  {
+    "where": "Suppl. q. 3 a. 2",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod ratio illa procedit de dolore qui est inratione. Tertia autem procedit ...\""
+  },
+  {
+    "where": "Suppl. q. 3 a. 3 / respondeo",
+    "note": "corpus has no \"Respondeo dicendum\" marker; the whole Marietti `co` field is kept verbatim (may retain the editorial CONCLUSIO synopsis). Marietti reads: \"CONCLUSIO. Cum Deus peccato majori magis offendatur quam minori: majorem de majori quam de minori ...\""
+  },
+  {
+    "where": "Suppl. q. 4 a. 1",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod e- 295 284 SUPPL. PARTIS TERTIE rubescentia respicit peccatum, solum ...\""
+  },
+  {
+    "where": "Suppl. q. 4 a. 2",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"CONTINUE DE PECCATO DOLERE\")"
+  },
+  {
+    "where": "Suppl. q. 4 a. 3",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod animae in purgatorio dolent de peccatis; sed ille sent; 4º quando ...\""
+  },
+  {
+    "where": "Suppl. q. 5 a. 3",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, supra dictum est (qu. III, art. 3), quod oportet de majoribus peccatis magis conteri. ...\""
+  },
+  {
+    "where": "Suppl. q. 6 a. 1 / respondeo",
+    "note": "corpus has no \"Respondeo dicendum\" marker; the whole Marietti `co` field is kept verbatim (may retain the editorial CONCLUSIO synopsis). Marietti reads: \"CONCLUSIO. Cum non possit poenitentiae sacramentum alicui in remedium adhiberi, nisi peccatum cognoscatur, eo quod ...\""
+  },
+  {
+    "where": "Suppl. q. 6 a. 1",
+    "note": "reply to objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad quartum dicendum, quod satisfactio non sufficeret ad expiandam poenam peccati ex quantitate poenae quae ...\""
+  },
+  {
+    "where": "Suppl. q. 6 a. 4",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"LICITE POSSIT CONFITERI PECCATUM QUOD NON HABET\")"
+  },
+  {
+    "where": "Suppl. q. 6 a. 4",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod aliquis licite possit confiteri peccatum quod non habet; quia, ut dicitGregorius, bonarum mentium ...\""
+  },
+  {
+    "where": "Suppl. q. 6 a. 5",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod cum propositum confitendi sit annexum contritioni 4, tunc tenetur aliquis ad hoc ...\""
+  },
+  {
+    "where": "Suppl. q. 7 a. 1",
+    "note": "respondeo: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Respondeo dicendum quod in actu 307 296 SUPPL. PARTIS TERTIAE confessionis plura consideranda occurrunt: primo ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 7 a. 3 / respondeo",
+    "note": "rejoined \"naturalis\" (decorative-scan tokens \"t Po vee\" excised)"
+  },
+  {
+    "where": "Suppl. q. 7 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod hoc in virtutibus considerandum est, quod quando supra objectum virtutis additur specialis ...\""
+  },
+  {
+    "where": "Suppl. q. 8 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod sicut baptismus est sacramentum necessitatis, ita et poenitentia. Baptismus autem, quia est ...\""
+  },
+  {
+    "where": "Suppl. q. 8 a. 4",
+    "note": "respondeo: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Respondeo dicendum quod alia sabates in suis monasteriis, parochi in suis parochris, episcopi in suis ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 8 a. 5",
+    "note": "reply to objection 1: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad primum ergo dicendum, quod praejudicium non fitalicui, nisi eisubtrahatur quod est in favorem ejus ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 8 a. 7",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod poena temporalis, cujus reatus post poenitentiam manet, non taxetur secundum quantitatem culpae. Taxatur ...\""
+  },
+  {
+    "where": "Suppl. q. 9 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod confessio est actus virtutis, et est pars sacramenti. Secundum autem quod est ...\""
+  },
+  {
+    "where": "Suppl. q. 9 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod confessio non solum est actus virtutis, sed etiam pars sacramenti. Quamvis autem ...\""
+  },
+  {
+    "where": "Suppl. q. 10 a. 1",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, sicut mortale est culpa, ita etiam veniale. Sed per confessionem fit veniale quod prius ...\""
+  },
+  {
+    "where": "Suppl. q. 10 a. 2",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 10 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti `co` field was empty)"
+  },
+  {
+    "where": "Suppl. q. 10 a. 4",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod spes remissionis peccatorum non est nobis nisi per Christum. Et quia homo ...\""
+  },
+  {
+    "where": "Suppl. q. 11 a. 1",
+    "note": "objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, magis debet homo servare conscientiam suam quam famam alterius, quia charitas ordinata est. Sed ...\""
+  },
+  {
+    "where": "Suppl. q. 11 a. 3",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod solus sacerdos minister est hujus sacramenti. Sed sigillum confessionis est annexum ...\""
+  },
+  {
+    "where": "Suppl. q. 11 a. 5",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod circa hoc est triplex opinio: quidam enim dicunt quod illud quod in ...\""
+  },
+  {
+    "where": "Suppl. q. 12 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod, secundum Philosophum 6, medium justitiae accipitur secundum adaequationem rei ad rem in ...\""
+  },
+  {
+    "where": "Suppl. q. 12 a. 3",
+    "note": "reply to objection 4: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad quartum dicendum, quod Augustinus & definit satisfactionem, secundum quod fit Deo, cui secundum rei ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 13 a. 2",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, satisfactio contra contritionem et confessionem dividitur. Sed unus pro alio non potest conteri, nec ...\""
+  },
+  {
+    "where": "Suppl. q. 14 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod quidam dixerunt quod potest de uno peccato satisfieri sine alio, ut Magister ...\""
+  },
+  {
+    "where": "Suppl. q. 14 a. 3",
+    "note": "reply to objection 1: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad primum ergo dicendum, quod non debet intelligi quod fructus computentur a tempore quo primo ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 14 a. 5",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod idem Augustinus dicit 7: Quibus prosunt, aut ad hoc prosunt ut ...\""
+  },
+  {
+    "where": "Suppl. q. 15 a. 2",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod dicitur Rom. v, 3: Tribulatio patientiam operatur, patientia autem probationem, id ...\""
+  },
+  {
+    "where": "Suppl. q. 16 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod poenitentia in nobis dupliciter accipitur: uno modo nistis qui docuerunt diabolum, daemones ...\""
+  },
+  {
+    "where": "Suppl. q. 17 a. 2",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quód clavis non sit potestas ligandi et solvendi, qua ecclesiasticus judex dignos recipere, indignos ...\""
+  },
+  {
+    "where": "Suppl. q. 17 a. 3",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod ad unam seram aperiendam una clavis immediate ordinatur; sed non ...\""
+  },
+  {
+    "where": "Suppl. q. 18 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod sacramenta, secundum Hugonem 4, ex sanctificatione invisibilem gratiam continent. Sed hujusmodi sanctificatio ...\""
+  },
+  {
+    "where": "Suppl. q. 18 a. 2",
+    "note": "reply to objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad quartum dicendum, quod quidam dicunt quod in prima absolutione tantum dimittitur viclavium, quantum dimitti ...\""
+  },
+  {
+    "where": "Suppl. q. 18 a. 4",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod sacerdos operatur in usu clavium sicut instrumentum et minister Dei. Nullum autem ...\""
+  },
+  {
+    "where": "Suppl. q. 19 a. 3",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"UTRUM SOLI SACERDOTES CLAVES HABEANT 5. 0-\")"
+  },
+  {
+    "where": "Suppl. q. 19 a. 3",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod Ambrosius dicit 8: Hoc jus, scilicet ligandi etsolvendi, solis sacerdotibus est ...\""
+  },
+  {
+    "where": "Suppl. q. 19 a. 5",
+    "note": "objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, intercessio mali sacerdocato sunt, potestatem ligandi et solvendi non habere, anathema sit (sess. xiv, ...\""
+  },
+  {
+    "where": "Suppl. q. 20 a. 1",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod dicitur 16, qu. 18: sed quantum ad aliquid propter suspensos qui ...\""
+  },
+  {
+    "where": "Suppl. q. 20 a. 2",
+    "note": "reply to objection 2: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad secundum dicendum, quod poenitentia ab omnibus defectibus culpae liberat, non autem ab omnibus defectibus ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 21 a. 1",
+    "note": "reply to objection 1: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad primum ergo dicendum, quod pro infidelibus oratur, sed ipsi orationis fructum non percipiunt, nisi ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 21 a. 3",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"UTRUM ALIQUIS PRO ALIQUO TEMPORALI DAMNO DEBEAT EXCOMMUNICARI 3. Ad primum ergo dicendum, quod maledictio\")"
+  },
+  {
+    "where": "Suppl. q. 21 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod per excommunicationem judex ecclesiasticus excommunicatos excludit aregno quodammodo. Unde cum non debeat ...\""
+  },
+  {
+    "where": "Suppl. q. 22 a. 2",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod non sacerdotes excommuniolim hanc potestatem in certis casibus habuerint, eam contraria consuetudine amiserunt. ...\""
+  },
+  {
+    "where": "Suppl. q. 22 a. 5",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod in aliquam universitatem sententia excommunicationis ferri possit. Contingit enim quod aliqua universitas sibi ...\""
+  },
+  {
+    "where": "Suppl. q. 23 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod duplex est 377 366 SUPPL. PARTIS TERTIE ...\""
+  },
+  {
+    "where": "Suppl. q. 23 a. 3",
+    "note": "reply to objection 3: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad tertium dicendum, quod aliquis etiam sine aliqua culpa quandoque ab 379 368 SUPPL. PARTIS ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 24 a. 1 / respondeo",
+    "note": "corpus has no \"Respondeo dicendum\" marker; the whole Marietti `co` field is kept verbatim (may retain the editorial CONCLUSIO synopsis). Marietti reads: \"CONCLUSIO. Sicut a minori excommunicatione, sic et a majori, si modo a jure inflicta sit, ...\""
+  },
+  {
+    "where": "Suppl. q. 24 a. 3",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra, excommunicatio quaedam poena est. Sed ab una paena aliquis liberatur, alia remanente. Ergo ...\""
+  },
+  {
+    "where": "Suppl. q. 25 a. 1",
+    "note": "reply to objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad quartum dicendum, quod majus remedium praebetur contra peccata vitanda ex gratia quam ex assuetudine ...\""
+  },
+  {
+    "where": "Suppl. q. 25 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod circa hoc est multiplex opinio. Quidam enim dicunt quod hujusmodi indulgentiae non ...\""
+  },
+  {
+    "where": "Suppl. q. 26 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod indulgentiae effectum habent, secundum quod opera satisfactoria unius alteri computantur, non solum ...\""
+  },
+  {
+    "where": "Suppl. q. 26 a. 2",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 27 a. 1",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur 389 378 SUPPL. PARTIS TERTIAE quod indulgentia valeat existentibus in peccato mortali, quia aliquis ...\""
+  },
+  {
+    "where": "Suppl. q. 27 a. 2",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 27 a. 4",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 27 a. 4",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod indulgentia debet ex aliqua causa dari, ad hoc quod aliquis per indulgentiam ...\""
+  },
+  {
+    "where": "Suppl. q. 28 a. 3",
+    "note": "objection 2: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Item, videtur quod clericis sit imponenda, quia imponitur propter gravitatem delicti; sed idem peccatum gravius ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 29 a. 1",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod Dionysius non facit aliquam mentionem de extrema unctione, sicut nec de ...\""
+  },
+  {
+    "where": "Suppl. q. 29 a. 3",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum quod Christus non exhibuit aliquod sacramentum, nisi quod ipse accepit in exemplum. ...\""
+  },
+  {
+    "where": "Suppl. q. 29 a. 6",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod minister sacramenti non inducit effectum sacramenti propria virtute, ut principale agens, sed ...\""
+  },
+  {
+    "where": "Suppl. q. 29 a. 8",
+    "note": "respondeo: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Respondeo dicendum quod forma hujus sacramenti est oratio deprecativa, ut patet per verba Jacobi 5, ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 30 a. 1 / respondeo",
+    "note": "rejoined \"corporalem\" (decorative-scan run excised)"
+  },
+  {
+    "where": "Suppl. q. 30 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod quodlibet sacramentum est institutum principaliter ad unum effectum, quamvis etiam alios ex ...\""
+  },
+  {
+    "where": "Suppl. q. 30 a. 2",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"UTRUM SANITAS CORPORALIS SIT EFFECTUS HUJUS SACRAMENTI S hoc non videtur verum 1, quia poeniten-\")"
+  },
+  {
+    "where": "Suppl. q. 30 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti `co` field was empty)"
+  },
+  {
+    "where": "Suppl. q. 31 a. 2",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 32 a. 1",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod quamvis spiritualis sanitas sit principalis effectus hujus sacramenti; tamen oportet ...\""
+  },
+  {
+    "where": "Suppl. q. 33 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod nullum sacramentale, nec sacramentum, quod habet effactum perpetuum, debet iterari, quia ostenderetur ...\""
+  },
+  {
+    "where": "Suppl. q. 34 a. 1 / objection 3",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 34 a. 4",
+    "note": "reply to objection 3: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad tertium dicendum, quod usus potestatis est effectus potestatis in genere causae efficientis, et sic ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 35 a. 1",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod ordo datur non in remedium unius personae, sed totius Ecclesiae. ...\""
+  },
+  {
+    "where": "Suppl. q. 35 a. 4",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"UTRUM CHARACTER ORDINIS PRAESUPPONAT DE NECESSITATE CHARACTE- REM CONFIRMATIONIS 3. 2. Praeterea,potest contingere quod aliquis\")"
+  },
+  {
+    "where": "Suppl. q. 35 a. 4",
+    "note": "reply to objection 2: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad secundum dicendum, quod talis, si ad sacerdotium promoveatur, non est sacerdos; nec conficere potest, ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 35 a. 4",
+    "note": "replies are sub-quaestiuncula (\"Ad primum quaestionis primae ...\") — kept in printed order with objectionNumber set to the running index"
+  },
+  {
+    "where": "Suppl. q. 36 a. 1 / reply 3",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 36 a. 1",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum quod aliquae medicinae sunt quae exigunt robur naturae, alias cum periculo mortis ...\""
+  },
+  {
+    "where": "Suppl. q. 36 a. 4",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra, pejus est promovere malos ad sacra ministeria, quam jam promotos non corrigere. Sed ...\""
+  },
+  {
+    "where": "Suppl. q. 37 a. 1",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, si dividitur, aut est divisio totius in partes integrales, aut in partes subjectivas. Non ...\""
+  },
+  {
+    "where": "Suppl. q. 37 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod quidam sufficientiam ordinum assumunt per quamdam adaptationem ad gratias gratis datas, de ...\""
+  },
+  {
+    "where": "Suppl. q. 37 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod ordo sacer dicitur dupliciter: uno modo secundum se, et sic quilibet ordo ...\""
+  },
+  {
+    "where": "Suppl. q. 37 a. 4",
+    "note": "reply to objection 8: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad octavum dicendum, quod actus acolythorum se habet propinquius ad actus principales superiorum ministrorum, quam ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 38 a. 1",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, tunc unicuique datur potestas ordinis, quando id ei exhibetur quod ad actum sui ordinis ...\""
+  },
+  {
+    "where": "Suppl. q. 38 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod circa hoc ponuntur in littera 3 quatuor opiniones. Quidam enim dixerunt quod ...\""
+  },
+  {
+    "where": "Suppl. q. 39 a. 1 / objection 1",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 39 a. 1 / objection 2",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 39 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod per pueritiam et alios defectus quibus tollitur usus rationis, praestatur impedimentum actui. ...\""
+  },
+  {
+    "where": "Suppl. q. 39 a. 4",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod nullus facit nisi illud cujus est causa, quod est voluntarium in ...\""
+  },
+  {
+    "where": "Suppl. q. 39 a. 5",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti `co` field was empty)"
+  },
+  {
+    "where": "Suppl. q. 40 a. 2",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod corona sit ordo, quia in actibus Ecclesiae spiritualia corporalibus respondent. Sed corona est ...\""
+  },
+  {
+    "where": "Suppl. q. 40 a. 4",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod de dotali, juxta illud quod definitum est concil. Trident. sess. ...\""
+  },
+  {
+    "where": "Suppl. q. 40 a. 6",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod ubicumque sunt multa regimina ordinata in unum, oportet esse aliquod universale regimen ...\""
+  },
+  {
+    "where": "Suppl. q. 40 a. 7",
+    "note": "reply to objection 3: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad tertium dicendum, quod potestas ministrorum est in episcopo sicut in origine, non autem in ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 41 a. 2",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod matrimonium adhuc maneat sub praecepto, quia praeceptum obligat, quamdiu non rovocatur. Sed prima ...\""
+  },
+  {
+    "where": "Suppl. q. 41 a. 3",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod turpitudo illa concupiscentiae, quae actum matrimonialem semper concomitatur, non est turpitudo ...\""
+  },
+  {
+    "where": "Suppl. q. 42 a. 1",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod sacramentum matrimonii perficitur per actum ejus qui sacramento illo utitur, sicut ...\""
+  },
+  {
+    "where": "Suppl. q. 43 a. 1",
+    "note": "objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, matrimonia debent esse libera et absoluta. Sed sponsalia quandoque fiunt sub aliqua conditione etiam ...\""
+  },
+  {
+    "where": "Suppl. q. 43 a. 2",
+    "note": "respondeo: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Respondeo dicendum quod septennium est tempus determinatum a jure sponsalibus contrahendis satis rationabiliter, quia cum ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 43 a. 3",
+    "note": "reply to objection 4: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad quartum dicendum, quod si sponsus cognovit consanguineam sponsae, vel e contra, tunc dirimi debent ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 44 a. 2",
+    "note": "reply to objection 1: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad primum ergo dicendum, quod quam- 463 452 SUPPL. PARTIS TERTIA vis pater sit dignior ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 45 a. 1 / respondeo",
+    "note": "stray scan bracket removed"
+  },
+  {
+    "where": "Suppl. q. 45 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod in omnibus sacramentis est aliqua spiritualis operatio, mediante materiali operatione, quae eam ...\""
+  },
+  {
+    "where": "Suppl. q. 45 a. 4",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, consensus mentalis alterius non potest esse alicui notus, nisi quatenus per verba exprimitur. Si ...\""
+  },
+  {
+    "where": "Suppl. q. 46 a. 1",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod juramentum adjunctum consensui per verba de futuro expresso faciat matrimonium. Nullus enim potest ...\""
+  },
+  {
+    "where": "Suppl. q. 47 a. 1",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod nullus consensus possit esse codit. Cum enim tunc valerent clandestina matrimonia, sidesponsati sese ...\""
+  },
+  {
+    "where": "Suppl. q. 47 a. 2",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 47 a. 3",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod consensus coactus non tollat matrimonium, quia sicut ad matrimonium requiritur consensus, ita ad ...\""
+  },
+  {
+    "where": "Suppl. q. 47 a. 6",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 48 a. 1 / objection 1",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 48 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod causa fitestatem illam inqua talis copula continetur implicite, sicut actus continetur inpotentia. ...\""
+  },
+  {
+    "where": "Suppl. q. 49 a. 2",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod insufficienter bona matrimonii assignentur a Magistro Sententiarum 5, scilicet fides, proles et sacramentum, ...\""
+  },
+  {
+    "where": "Suppl. q. 49 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod aliquid dicitur in re aliqua principalius altero duobus modis: aut quia est ...\""
+  },
+  {
+    "where": "Suppl. q. 49 a. 4",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod superabundantia passionis, quae facit vitium, non attenditur secundum quantitativam ipsius intensionem, ...\""
+  },
+  {
+    "where": "Suppl. q. 49 a. 6",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod quidam dicunt quod quandocumque ad actum conjugalem libido principaliter movet, est peccatum ...\""
+  },
+  {
+    "where": "Suppl. q. 50 / reply 5",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 50",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod in matrimonio sunt quaedam quae sunt de essentia matrimonii, et quaedam quae ...\""
+  },
+  {
+    "where": "Suppl. q. 51 a. 1",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod ignorantia differt, simpliciter loquendo, ab errore, quia ignorantia de sui ...\""
+  },
+  {
+    "where": "Suppl. q. 51 a. 2",
+    "note": "reply to objection 9 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad nonum dicendum, quod siante non consenserat in fratrem ejus, potest eum quem per errorem ...\""
+  },
+  {
+    "where": "Suppl. q. 52 a. 1 / reply 3",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 52 a. 1 / reply 4",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 52 a. 1",
+    "note": "reply to objection 6 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad sextum dicendum, quod lepra non impedit matrimonium quantum ad primum actum suum, quia leprosi ...\""
+  },
+  {
+    "where": "Suppl. q. 52 a. 3",
+    "note": "reply to objection 3: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad tertium dicendum, quod quamvis in actu matrimoniali et in his quae ad naturam spectant, ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 53 a. 1",
+    "note": "respondeo: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Respondeo dicendum quod per hoc res aliqua desinit esse in potestate alicujus per quod transit ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 53 a. 3",
+    "note": "objection 5: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Praeterea, omnes ordinati possunt ecclesiastica beneficia habere, et privi- 499 488 SUPPL. PARTIS TERTIE legio ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 53 a. 4",
+    "note": "reply to objection 5 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad quintum dicendum, quod matrimonium habet pro causa nostrum consensum, non autem ordo, sed habet. ...\""
+  },
+  {
+    "where": "Suppl. q. 54 a. 2",
+    "note": "objection 5 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, si consanguinitas per gradus distinguitur et cognoscitur, oportet quod illi qui sunt in eodem ...\""
+  },
+  {
+    "where": "Suppl. q. 54 a. 2",
+    "note": "reply to objection 6: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad sextum dicendum, quod quamvis pater et patruus sint in eodem gradu respectu radicis consanguinitatis, ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 54 a. 4",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod consanguinitatis gradus matrimonium impedientes non potuerint taxari ab Ecclesia usque ad quartum gradum, ...\""
+  },
+  {
+    "where": "Suppl. q. 54 a. 4",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod quamvis consanguinitatis vinculum sit naturale, tamen non est naturale quod consanguinitas ...\""
+  },
+  {
+    "where": "Suppl. q. 55 a. 1 / reply 3",
+    "note": "5 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 55 a. 2",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, consanguinitas causat affinitatem. Sed consanguinitas viri ces- 511 500 SUPPL, PARTIS TERTIE sat per ...\""
+  },
+  {
+    "where": "Suppl. q. 55 a. 4 / respondeo",
+    "note": "4 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 55 a. 4",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod sponstitiae publicae honestatis impedimentum, ubi sponsalia quacumque ratione valida non ...\""
+  },
+  {
+    "where": "Suppl. q. 55 a. 5",
+    "note": "reply to objection 6: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad sextum dicendum, quod mediante una persona non conjungitur mihi alia, nisi ex hoc quod ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 55 a. 9",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, favorabilius est vinculum matrimonii quam dominii. Sed homo per longi temporis praescriptionem acquirit dominium ...\""
+  },
+  {
+    "where": "Suppl. q. 55 a. 11",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, testes suspecti de privato odio vel amore, a testimonio repellun. 519 508 SUPPL. PARTIS ...\""
+  },
+  {
+    "where": "Suppl. q. 56 a. 1",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 56 a. 2 / sed contra",
+    "note": "5 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 56 a. 2",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra, I. Cor. iv, 15dicitur: In 521 510 SUPPL. PARTIS TERTIA tentiam tollitur actuale. ...\""
+  },
+  {
+    "where": "Suppl. q. 56 a. 3 / reply",
+    "note": "trailing decorative-scan block removed (reply ends at \"nascitur.\")"
+  },
+  {
+    "where": "Suppl. q. 56 a. 3",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod non baptizatus non potest aliquem levare de 523 512 SUPPL. PARTIS ...\""
+  },
+  {
+    "where": "Suppl. q. 57 a. 1",
+    "note": "objection 3: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Praeterea, adoptio, per quam aliquis in filium assumitur, assimilatur generationi naturali, per quam naturaliter producitur ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 57 a. 2 / objection 3",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 57 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod lex divina illas praecipue personas amatrimonio excludit quas necesse erat cohabitare; ne, ...\""
+  },
+  {
+    "where": "Suppl. q. 57 a. 3 / respondeo",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 58 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod in matrimonio est contractus quidam, quo unus alteri obligatur ad debitum carnale ...\""
+  },
+  {
+    "where": "Suppl. q. 58 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod quidam dixerunt quod maleficium nihil aliud erat in mundo, nisi in aestimatione ...\""
+  },
+  {
+    "where": "Suppl. q. 58 a. 5",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod defectus aetatis non impediat ma- 533 522 SUPPL. PARTIS TERTIE trimonium. Secundum enim ...\""
+  },
+  {
+    "where": "Suppl. q. 59 a. 1",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod in veteri lege de aliquibus infidelibus erat permissum quod cum ...\""
+  },
+  {
+    "where": "Suppl. q. 59 a. 3 / reply 2",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 59 a. 3",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, 28, quaest.13 dicitur: Non potest infidelis in ejus conjunctione commanere quejam in christianam translata ...\""
+  },
+  {
+    "where": "Suppl. q. 59 a. 4",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod homini secundum aliam et aliam vitam diversa competunt et expediunt. Et ideo ...\""
+  },
+  {
+    "where": "Suppl. q. 59 a. 5",
+    "note": "title could not be established from either witness (Marietti `t`: \"DISCEDENS AB UXORE INFIDELI POSSIT ALIAM DUCERE\"); left null"
+  },
+  {
+    "where": "Suppl. q. 59 a. 6",
+    "note": "objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, Matth. v. 30 dicitur: Si condo matrimonio. Ma questa opinione è contraria all insegnamento ...\""
+  },
+  {
+    "where": "Suppl. q. 60 a. 1",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod lex civilis non commisit viro occisionem uxoris, quasi praecipiens, quia sic ...\""
+  },
+  {
+    "where": "Suppl. q. 61 a. 1",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod in qualibet religione contrahitur matrimonium ad unam personam, scilicet ad Christum; ...\""
+  },
+  {
+    "where": "Suppl. q. 62 a. 3",
+    "note": "objection 6 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, plus tenetur homo uxori quam extraneo. Sed homo crimen alterius etiam extranei, non debet ...\""
+  },
+  {
+    "where": "Suppl. q. 62 a. 4",
+    "note": "reply to objection 6 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad sextum dicendum, quod quamvis regimen quod datur viro in mulierem, 551 540 SUPPL. PARTIS ...\""
+  },
+  {
+    "where": "Suppl. q. 64 a. 1",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod alter conjugum non teneatur alteri ad redditionem debiti ex necessitate praecepti. Nullus enim ...\""
+  },
+  {
+    "where": "Suppl. q. 64 a. 3",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, major infirmitas est lepra quam passio menstruorum, etmajorem ut videtur corruptionem causat inprole. nibus ...\""
+  },
+  {
+    "where": "Suppl. q. 64 a. 5",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod duplex est aequalitas, scilicet quantitatis et proportionis. AEqualitas quidem quantitatis est quae ...\""
+  },
+  {
+    "where": "Suppl. q. 64 a. 8",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra, nulla circumstantia aggravat ininfinitum. Sed indebitum tempus est circumstantia quaedam. Ergo 561 550 ...\""
+  },
+  {
+    "where": "Suppl. q. 65 a. 1",
+    "note": "objection 5 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, secundum Philosophum 8, in generatione prolis mas se habet ad foeminam sicut agens ad ...\""
+  },
+  {
+    "where": "Suppl. q. 65 a. 1",
+    "note": "reply to objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad quartum dicendum quod jus naturale multipliciter accipitur. Primo enim aliquod jus dicitur naturale ex ...\""
+  },
+  {
+    "where": "Suppl. q. 65 a. 2",
+    "note": "respondeo: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Respondeo dicendum quod, sicut ex dictis patet (art. praec. ad 7 et 8), pluralitas uxorum ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 65 a. 3",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod in aliquibus sicut nullum inconveniens sequitur, si rem aliquam quam quis ...\""
+  },
+  {
+    "where": "Suppl. q. 65 a. 5",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod Rabbi Moyses dicit 4, quod ante tempus legis fornicatio non erat peccatum; ...\""
+  },
+  {
+    "where": "Suppl. q. 66 a. 2",
+    "note": "respondeo: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Respondeo dicendum quod in duobus secundis modis bigamise contrahitur irregularitas; quia quamvis in altero non ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 66 a. 4",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 66 a. 4",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod Augustinus dicit 5: Acutius intelligunt qui nec eum qui catechumenus aut ...\""
+  },
+  {
+    "where": "Suppl. q. 67 a. 1",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod sola lex Christi humanum genus ad perfectum adduxit 6, reducens ...\""
+  },
+  {
+    "where": "Suppl. q. 67 a. 4",
+    "note": "reply to objection 4: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad quartum dicendum, quod verbum Domini intelligitur quantum ad tempus novae legis, in quo dicta ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 67 a. 7",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod causae repudii inspeciali non scribebantur inlibello, sed in generali, ut ostenderetur justum ...\""
+  },
+  {
+    "where": "Suppl. q. 68 a. 3",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod alicui potest sine injustitia gratia fieri; sed non potest aliquis ...\""
+  },
+  {
+    "where": "Suppl. q. 69 a. 1",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"7. U- UTRUM ASSIGNENTUR RECEPTACULA ANIMABUS POST MORTEM\")"
+  },
+  {
+    "where": "Suppl. q. 69 a. 2",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod dicitur II. Cor. v, 1: Si terrena nostra habitatio dissolvatur, 587 ...\""
+  },
+  {
+    "where": "Suppl. q. 69 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod aliquem exire de inferno, vel de paradiso, potest intelligi dupliciter: uno modo, ...\""
+  },
+  {
+    "where": "Suppl. q. 69 a. 3",
+    "note": "replies are sub-quaestiuncula (\"Ad primum quaestionis primae ...\") — kept in printed order with objectionNumber set to the running index"
+  },
+  {
+    "where": "Suppl. q. 69 a. 5",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod limbus inferni sit idem quod in- 591 580 SUPPL. PARTIS TERTIE fernus damnatorum. ...\""
+  },
+  {
+    "where": "Suppl. q. 69 a. 7",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra, videtur quod debeant esse multo plura quam assignentur. Aer enim iste caliginosus est ...\""
+  },
+  {
+    "where": "Suppl. q. 70 a. 1 / objection 1",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 70 a. 1",
+    "note": "objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, non est totum integrum cui aliqua partium deest. Sed potentiae animae dicuntur partes ipsius. ...\""
+  },
+  {
+    "where": "Suppl. q. 70 a. 1",
+    "note": "reply to objection 6 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad sextum dicendum, quod potentiae animae sensitivae non dicuntur esse actus organorum, quasi formae essentialos ...\""
+  },
+  {
+    "where": "Suppl. q. 70 a. 2",
+    "note": "reply to objection 5 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad quintum dicendum, quod amor, et 599 588 SUPPL. PARTIS TERTIM gaudium, et tristitia, et ...\""
+  },
+  {
+    "where": "Suppl. q. 70 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod supposito quod ignis inferni non sit metaphorice dictus, nec ignis imaginarius, sed ...\""
+  },
+  {
+    "where": "Suppl. q. 71 a. 1",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod suffragia per unum facta aliis prodesse non possint. Dicitur enim Gal. VI, marum ...\""
+  },
+  {
+    "where": "Suppl. q. 71 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod charitas, quae est vinculum Ecclesiae membra uniens, non solum ad vivos se ...\""
+  },
+  {
+    "where": "Suppl. q. 71 a. 4",
+    "note": "objection 2: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Praeterea, unusquisque quod facit, facere debet meliori modo quo potest. Sed melius est juvare duos ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 71 a. 5",
+    "note": "title could not be established from either witness (Marietti `t`: empty); left null"
+  },
+  {
+    "where": "Suppl. q. 71 a. 5",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod circa damnatos fuit triplex opinio: quidam enim dixerunt, in hoc distinguendum esse ...\""
+  },
+  {
+    "where": "Suppl. q. 71 a. 6",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod dicitur in littera 4, ex verbis Augustini 5: Suffragia prosunt his ...\""
+  },
+  {
+    "where": "Suppl. q. 71 a. 8",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod quamvis sacramenta efficiant quod figurant, non tamen illum effectum suum ponunt ...\""
+  },
+  {
+    "where": "Suppl. q. 71 a. 10",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, meritum totius Ecclesiae permittunt, quibus omissis, Ecclesiae ordinem invertere ob alterius devotionem non convenit); ...\""
+  },
+  {
+    "where": "Suppl. q. 71 a. 11",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod ideo sancti patres de suis corporibus tumulandis curaverunt, ut ostenderent corpora ...\""
+  },
+  {
+    "where": "Suppl. q. 71 a. 13",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra, melius est plures juvare quam unum. Siergo suffragium pro multis factum valet singulis ...\""
+  },
+  {
+    "where": "Suppl. q. 72 a. 1 / objection 3",
+    "note": "5 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 72 a. 1",
+    "note": "objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, sicut sancti post mortem vident Verbum, ita etangeli. de quibus 621 610 SUPPL. PARTIS ...\""
+  },
+  {
+    "where": "Suppl. q. 72 a. 2",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod dicitur Job v, 1: Voca, siest qui tibi respondeat, etad aliquem ...\""
+  },
+  {
+    "where": "Suppl. q. 72 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod sancti dicuntur dupliciter orare pro nobis: uno modo oratione expressa, dum votis ...\""
+  },
+  {
+    "where": "Suppl. q. 73 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod Christus ad judicandum veniens in forma gloriosa apparebit, propter auctoritatem quae judici ...\""
+  },
+  {
+    "where": "Suppl. q. 73 a. 3",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod mutatio illa non variat aliquid quod ad eo- 629 618 ...\""
+  },
+  {
+    "where": "Suppl. q. 74 a. 1",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"3. Praeterea, unumquodque dicitur purgari, quando separatur id quod est extraneum ab ipso, inducens in\")"
+  },
+  {
+    "where": "Suppl. q. 74 a. 2",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod Psal. XLIX, 3 dicitur: Ignis in conspectu ejus exardebit, et in ...\""
+  },
+  {
+    "where": "Suppl. q. 74 a. 3",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod sicut operatio quae procedit a virtute rei, est virtutis indicium, ita ...\""
+  },
+  {
+    "where": "Suppl. q. 74 a. 5",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod circa hanc quaestionem est multiplex opinio. Quidam enim dicunt quod omnia elementa. ...\""
+  },
+  {
+    "where": "Suppl. q. 74 a. 6",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod illa purgatio praecipue ad hoc erit ut quidquid est imperfectionis, a ...\""
+  },
+  {
+    "where": "Suppl. q. 74 a. 8",
+    "note": "reply to objection 2: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad secundum dicendum, quod bono- 639 628 SUPPL. PARTIS TERTIAE rum corpora, quamvis in cinerem ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 75 a. 1 / objection 5",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 75 a. 1",
+    "note": "objection 5 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, mors corporalis inpoenam homini est inducta pro prima praevaricatione, ut patet Gen. 6, sicut ...\""
+  },
+  {
+    "where": "Suppl. q. 75 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod ea quorum ratio sumitur ex natura speciei, oportet similiter inveniri in omnibus ...\""
+  },
+  {
+    "where": "Suppl. q. 75 a. 3",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod Damascenus loquitur de illis quae inveniuntur in omnibus individuis ex ...\""
+  },
+  {
+    "where": "Suppl. q. 76 a. 1",
+    "note": "reply to objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad quartum dicendum, quod resurrectic omnium hominum habebit aliquid 647 636 SUPPL. PARTIS TERTIAE de ...\""
+  },
+  {
+    "where": "Suppl. q. 76 a. 3 / reply",
+    "note": "trailing block (leaked next-question heading + scan rule) removed (reply ends at \"angelorum.\")"
+  },
+  {
+    "where": "Suppl. q. 76 a. 3",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod ministerium istud erit principaliter unius archangeli, scilicet Michaelis, qui est princeps ...\""
+  },
+  {
+    "where": "Suppl. q. 77 a. 1 / reply 4",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 77 a. 1",
+    "note": "reply to objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad quartum dicendum, quod occasione illorum verborum, ut Augustinus narrat &, quidam haeretici posuerunt primam ...\""
+  },
+  {
+    "where": "Suppl. q. 77 a. 2 / sed contra",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 77 a. 3",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 77 a. 3",
+    "note": "objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, qualitas temporis debet respondere his quae geruntur in tempore: unde Joan. xii fit mentio ...\""
+  },
+  {
+    "where": "Suppl. q. 77 a. 4 / objection 1",
+    "note": "4 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 78 a. 1",
+    "note": "objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, via compendiosior est semper sapienti magis eligenda. Sed compendiosior via est quod homines qui ...\""
+  },
+  {
+    "where": "Suppl. q. 78 a. 2",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod resurrectio Christi est exemplar nostrae vidis dictum erat, Act. 11probat ...\""
+  },
+  {
+    "where": "Suppl. q. 79 a. 1",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 79 a. 1",
+    "note": "objection 4: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Praeterea, impossibile est esse idem numero illud cujus partes essentiales sunt aliae numero. Sed forma ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 79 a. 2 / reply 1",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 79 a. 2",
+    "note": "objection 2: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Praeterea, ubi est alia et alia humanitas, ron est idem homo numero: unde Socrates et ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 79 a. 2",
+    "note": "reply to objection 4: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad quartum dicendum, quod statua dupliciter potest considerari: vel secundum quod est substantia quaedam, vel ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 80 a. 1",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod membra possunt dupliciter considerari in comparatione ad animam, vel secundum ...\""
+  },
+  {
+    "where": "Suppl. q. 80 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod quicquid pertinet ad integritatem humanae naturae in resurgente, hoc totum resurget, ratione ...\""
+  },
+  {
+    "where": "Suppl. q. 80 a. 4 / respondeo",
+    "note": "7 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 80 a. 4",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod quodque sic se habet ad veritatem, sicut se habet ad esse, ut ...\""
+  },
+  {
+    "where": "Suppl. q. 80 a. 4",
+    "note": "reply to objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad quartum dicendum, quod secundum primam opinionem facile est solvere, quia ponit quod semen non ...\""
+  },
+  {
+    "where": "Suppl. q. 81 a. 1",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur responsio quam hic praemittit, et non aliae quae sequuntur. (3) De gener. lib. 1, ...\""
+  },
+  {
+    "where": "Suppl. q. 81 a. 2",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod quantitas resurgentis non proportionatur virtuti reparanti, quia illa non est de ...\""
+  },
+  {
+    "where": "Suppl. q. 81 a. 3",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"UTRUM\")"
+  },
+  {
+    "where": "Suppl. q. 81 a. 4",
+    "note": "reply to objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad quartum dicendum, quod delectationes corporales, sicut dicit Philosophus 5, sunt medicinales, quia adhibentur homini ...\""
+  },
+  {
+    "where": "Suppl. q. 82 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod passio dupliciter dicitur: uno modo communiter, et sic omnis receptio passio dicitur; ...\""
+  },
+  {
+    "where": "Suppl. q. 82 a. 3",
+    "note": "objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, quando anima est in actu intenso unius potentiae, remittitur actus alterius potentiae. Sed anima ...\""
+  },
+  {
+    "where": "Suppl. q. 82 a. 4",
+    "note": "objection 6 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, secundum Perspectivos, omne quod videtur, sub angulo videtur. 683 672 SUPPL. PARTIS TERTIAE Sed ...\""
+  },
+  {
+    "where": "Suppl. q. 83 a. 1",
+    "note": "objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, sicut caliditas et frigiditas sunt quaedam qualitates simplicium corporum, scilicet elementorum; ita et subtilitas. ...\""
+  },
+  {
+    "where": "Suppl. q. 83 a. 2",
+    "note": "objection 5 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, sicut se habet punctum ad punctum, ita linea ad lineam, et superficies ad superficiem, ...\""
+  },
+  {
+    "where": "Suppl. q. 83 a. 3",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod nec etiam per miraculum fieri possit quod duo corpora sint in eodem loco. ...\""
+  },
+  {
+    "where": "Suppl. q. 83 a. 3",
+    "note": "reply to objection 4: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad quartum dicendum, quod unum corpus esse simul localiter induobus locis, non potest fieri per ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 83 a. 5",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod corpus non comparatur ad locum nisi mediantibus dimensionibus propriis, secundum quas corpus ...\""
+  },
+  {
+    "where": "Suppl. q. 84 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod corpus gloriosum erit omnino subjectum animae glorificatae, non solum ut nihil in ...\""
+  },
+  {
+    "where": "Suppl. q. 84 a. 2",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 84 a. 3",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod sancti moveantur in instanti. Aureum sit et unde dictum, iam ostensum est (part. ...\""
+  },
+  {
+    "where": "Suppl. q. 84 a. 3",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod quidam contradixerunt illi propositioni quam Philosophus inducit in parte illa, ut ...\""
+  },
+  {
+    "where": "Suppl. q. 85 a. 1",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod corporibus gloriosis claritas non conveniet; quia, sicut dicit Avicenna 4, 701 690 SUPPL, ...\""
+  },
+  {
+    "where": "Suppl. q. 85 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod quidam dixerunt quod claritas corporis gloriosi non poterit videri ab oculo non ...\""
+  },
+  {
+    "where": "Suppl. q. 86 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod incorpore humano potest esse deformitas dupliciter: uno modo ex defectu alicujus membri, ...\""
+  },
+  {
+    "where": "Suppl. q. 86 a. 2",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod quamvis mors sit simpliciter maxima poenarum, secundum quid tamen nihil prohibet ...\""
+  },
+  {
+    "where": "Suppl. q. 87 a. 1",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quodpost resurrectionem non cognoscet quilibet omnia peccata quae fecit. Omne enim quod cognoscimus, vel ...\""
+  },
+  {
+    "where": "Suppl. q. 87 a. 2",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra, super illud I. Cor. IV: Illuminabit abscondita tenebrarum, dicit Glossa 5: Gesta et ...\""
+  },
+  {
+    "where": "Suppl. q. 88 a. 1",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"UTRUM GENERALE JUDICIUM SIT FUTURUM 5. non\")"
+  },
+  {
+    "where": "Suppl. q. 88 a. 1",
+    "note": "objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, propter hoc aliqua injudicium oportet adduci, quia dubium est surget injudicio cum generationeista (Matth. ...\""
+  },
+  {
+    "where": "Suppl. q. 88 a. 2 / sed contra",
+    "note": "6 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 88 a. 2 / respondeo",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 88 a. 2",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod etiamsi judicium fiat mentaliter tantum, verbum Gregorii salvari poterit, quia etsi ...\""
+  },
+  {
+    "where": "Suppl. q. 88 a. 4",
+    "note": "objection 3: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Praeterea, nubes fiunt ex resolutione vaporum. Sed tunc nulla erit evaporatio, vel resolutio. Ergo non ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 89 a. 1",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was unusable: \"UTRUM ALIQUI HOMIN78 JUDICABUNT CUM CHRISTO\")"
+  },
+  {
+    "where": "Suppl. q. 89 a. 2",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod judiciaria potestas non correspondeat voluntariae paupertati. Haec enim solum duodecim apostolis est promissa ...\""
+  },
+  {
+    "where": "Suppl. q. 89 a. 3",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 89 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod assessores judicis debent judici esse conformes. Judicium autem Filio hominis attribuitur, quia ...\""
+  },
+  {
+    "where": "Suppl. q. 89 a. 5",
+    "note": "reply to objection 2: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad secundum dicendum, quod hoc quod dicitur: Non resurgent impii in judicio, si referatur ad ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 89 a. 8",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra, Deus non judicabit bis in idipsum 6. Sed mali angeli jam judicati 725 ...\""
+  },
+  {
+    "where": "Suppl. q. 90 a. 1 / respondeo",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 90 a. 1",
+    "note": "reply to objection 4: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad quartum dicendum, quod in illa visione Danielis manifeste totus exprimitur ordo judiciariae potestatis; quae ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 90 a. 2 / objection 2",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 90 a. 3",
+    "note": "objection 5: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Praeterea, sicut se habet sensus ad sensibile, ita se habet intellectus ad intelligibile. Sed ita ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 91 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod omnia corporalia propter hominem facta esse creduntur, unde et omnia dicuntur ei ...\""
+  },
+  {
+    "where": "Suppl. q. 91 a. 2 / objection 1",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 91 a. 2 / objection 2",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 91 a. 2 / objection 3",
+    "note": "5 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 91 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod circa istam quaestionem est triplex positio. Prima est philosophorum qui dicunt quod ...\""
+  },
+  {
+    "where": "Suppl. q. 91 a. 3 / reply 3",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 91 a. 3",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur 735 724 SUPPL. PARTIS TERTIA quod in corporibus coelestibus claritas non augebitur in illa ...\""
+  },
+  {
+    "where": "Suppl. q. 91 a. 3",
+    "note": "reply to objection 6 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad sextum dicendum, quod ratio illa est Rabbi Moysis, qui 3omnino improbare nititur mundum propter ...\""
+  },
+  {
+    "where": "Suppl. q. 91 a. 5",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra, si plantae et animalia remanebunt, aut omnia, aut quaedam. Si omnia, oportebit etiam ...\""
+  },
+  {
+    "where": "Suppl. q. 92 a. 1 / sed contra",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 92 a. 1",
+    "note": "objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, Dionysius ostendit quod perfectissimus modus quo intellectus noster Deo conjungi potest, est inquantum conjungitur ...\""
+  },
+  {
+    "where": "Suppl. q. 92 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod sicut secundum fidem ponimus finem ultimum humanae vitae esse visionem Dei, ita ...\""
+  },
+  {
+    "where": "Suppl. q. 92 a. 1",
+    "note": "reply to objection 8: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad octavum dicendum, quod in vi sione qua Deus per essentiam videbitur, cessive, ad modum ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 92 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod sensu corporali aliquid sentitur dupliciter: uno 749 738 SUPPL. PARTIS TERTIE modo ...\""
+  },
+  {
+    "where": "Suppl. q. 92 a. 3",
+    "note": "objection 8 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, ignorantia est quaedam poenalitas praesentis vitae. Sed omnis 751 740 SUPPL. PARTIS TERTIE poenalitas ...\""
+  },
+  {
+    "where": "Suppl. q. 92 a. 3",
+    "note": "reply to objection 6 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad sextum dicendum, quod speculum illud est voluntarium, et sicut ostendet se cui vult, ita ...\""
+  },
+  {
+    "where": "Suppl. q. 93 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod beatitudinem sanctorum post resurrectionem augeri quidem extensive manifestum est, quia beatitudo tunc ...\""
+  },
+  {
+    "where": "Suppl. q. 93 a. 3",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 93 a. 3",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod principium distinctivum mansionum sive graduum beatitudinis est duplex, scilicet propinquum et remotum. ...\""
+  },
+  {
+    "where": "Suppl. q. 94 a. 3",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod Psal. LVII,11 diciest, unde incharitatem reducitur velut in primam causam compassio. ...\""
+  },
+  {
+    "where": "Suppl. q. 95 a. 1 / respondeo",
+    "note": "6 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 95 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod absque dubio beatis, quando in gloriam transferuntur, aliqua dona divinitus dantur ad ...\""
+  },
+  {
+    "where": "Suppl. q. 95 a. 3",
+    "note": "objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, omnibus membris Eccle.. siae debetur dos, cum Ecclesia sit sponsa, titudine realiter differat dos ...\""
+  },
+  {
+    "where": "Suppl. q. 95 a. 4",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod ea quae ad dotes animae pertinent, non est dubium angelis, sicut et ...\""
+  },
+  {
+    "where": "Suppl. q. 95 a. 5",
+    "note": "reply to objection 2: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad secundum dicendum, quod fruitio respondet spei, inquantum includit comprehensionem, quae spei succedet; quod enim ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 96 a. 1",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod praemium essentiale hominis, quod est ejus beatitudo, consistit in perfecta conjunétione animae ...\""
+  },
+  {
+    "where": "Suppl. q. 96 a. 2",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod ea quae metaphorice dicuntur, possunt varie accipi, secundum adaptationes ad diversas proprietates ...\""
+  },
+  {
+    "where": "Suppl. q. 96 a. 4",
+    "note": "objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, sicut viduitas excedit continentiam conjugalem, ita virginitas vidualem. Sed non similiter excedit sexagenarius tricenarium, ...\""
+  },
+  {
+    "where": "Suppl. q. 96 a. 5",
+    "note": "objection 6 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, sicut se habet viduitas ad fructum sexagesimum, ita virginitas ad fructum centesimum et ad ...\""
+  },
+  {
+    "where": "Suppl. q. 96 a. 5",
+    "note": "reply to objection 7 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad septimum dicendum, quod si frigidi et eunuchi voluntatem habeant perpetuam incorruptionem servandi, etiamsi facultas ...\""
+  },
+  {
+    "where": "Suppl. q. 96 a. 6",
+    "note": "reply to objection 3: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad tertium dicendum, quod quidam actus sunt qui in ipso actu habent quamdam vehementiam delectationis ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 96 a. 7",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra, Ephes. I, sup. illud: Ut sciatis quae sit supereminens, etc. dicit Glossa 6: ...\""
+  },
+  {
+    "where": "Suppl. q. 96 a. 9",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod perpetua incorruptio spiritus in angelis praemium essentiale meretur; est enim de ...\""
+  },
+  {
+    "where": "Suppl. q. 96 a. 12",
+    "note": "objection 3: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Item, videtur quod potissima sit aureola martyrum, quia dicit Haymo super ram Pontio Pilato bonam ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 96 a. 13 / respondeo",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 97 a. 1",
+    "note": "reply to objection 3: Marietti OCR column-scrambled and no clean 1894 reconstruction available; the least-bad Marietti reading is kept with the leaked running head removed. Marietti: \"Ad tertium dicendum, quod damnati transibunt ex vehementissimo calore ad vehementissimum frigus, sine hoc quod ...\" | 1894: (no aligned reading)"
+  },
+  {
+    "where": "Suppl. q. 97 a. 5",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur lummodo velut probabile supponat: quod plenius paulo post (art. vn)expendetur. 789 778 SUPPL. PARTIS ...\""
+  },
+  {
+    "where": "Suppl. q. 97 a. 6 / objection 2",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 97 a. 6",
+    "note": "objection 4 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Praeterea, de natura hujus ignis nostri est ut luceat. Sed ignis inferni non lucet; unde ...\""
+  },
+  {
+    "where": "Suppl. q. 97 a. 7",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod sicut Augustinus dicit 5 et habetur in littera 6, in qua parte ...\""
+  },
+  {
+    "where": "Suppl. q. 98 a. 2",
+    "note": "reply to objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad primum ergo dicendum, quod dam- 795 784 SUPPL. PARTIS TERTIE nati iniquitatem volunt, sed ...\""
+  },
+  {
+    "where": "Suppl. q. 98 a. 5",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod affectus movetur ex bono vel malo apprehenso. Deus autem apprehenditur dupliciter, scilicet ...\""
+  },
+  {
+    "where": "Suppl. q. 98 a. 6 / respondeo",
+    "note": "4 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. q. 98 a. 7",
+    "note": "reply to objection 2 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad secundum dicendum, quod in hoc mundo anima conjungitur corruptibili corpori, unde per hoc quod ...\""
+  },
+  {
+    "where": "Suppl. q. 98 a. 9",
+    "note": "title taken from the 1894 Roman edition (Marietti `t` was empty)"
+  },
+  {
+    "where": "Suppl. q. 99 a. 1",
+    "note": "sed contra reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Sed contra est quod dicitur Matth. xxv, vers. 46: Ibunt hi, scilicet peccatores, in supplicium ...\""
+  },
+  {
+    "where": "Suppl. q. 99 a. 2",
+    "note": "objection 1 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Videtur quod per divinam misericordiam omnis poena terminetur tam hominum quam etiam daemonum. Sap. XI, ...\""
+  },
+  {
+    "where": "Suppl. q. 99 a. 3",
+    "note": "reply to objection 3 reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Ad tertium dicendum, quod prophetia comminatoria poenae tunc solum immutatur quando variantur merita ejus in ...\""
+  },
+  {
+    "where": "Suppl. q. 99 a. 5",
+    "note": "respondeo reconstructed from the 1894 Roman edition (Marietti OCR was column-scrambled here). Marietti fragment: \"Respondeo dicendum quod, sicut Augustinus dicit in lib. praedicto, quidam posuerunt non omnes qui catholicam ...\""
+  },
+  {
+    "where": "Suppl. App. I q. 1 a. 1",
+    "note": "title uses the 1894 Roman-edition reading; the Marietti appendix `t` (\"UTRUM PURGATORIUM SIT POST HANC VITAM\") has ae-for-e OCR loss / hyphen breaks"
+  },
+  {
+    "where": "Suppl. App. I q. 1 a. 1",
+    "note": "objection 1 completed / de-scrambled from the 1894 Roman edition (Marietti appendix OCR was truncated here). Marietti: \"Videtur quod purgatorium non sit post hanc vi- ...\""
+  },
+  {
+    "where": "Suppl. App. I q. 1 a. 2",
+    "note": "title uses the 1894 Roman-edition reading; the Marietti appendix `t` (\"UTRUM SIT IDEM LOCUS QUO ANIME PURGANTUR, ET QUO DAMNATI PUNIUNTUR\") has ae-for-e OCR loss / hyphen breaks"
+  },
+  {
+    "where": "Suppl. App. I q. 1",
+    "note": "appendix question assembled from marietti-1931-app2.json (q 1); Marietti is the primary witness for every member. The 1894 Roman edition supplies the article titles and the question prooemium, and is used to complete any Marietti member that is truncated or column-scrambled (each such member is flagged individually). A full word-by-word 1894 collation of the clean Marietti members was not performed."
+  },
+  {
+    "where": "Suppl. App. I q. 2 a. 1",
+    "note": "title uses the 1894 Roman-edition reading; the Marietti appendix `t` (\"UTRUM PENA PURGATORII EXCEDAT OMNEM PENAM TEMPORALEM HUJUS VITE\") has ae-for-e OCR loss / hyphen breaks"
+  },
+  {
+    "where": "Suppl. App. I q. 2 a. 1",
+    "note": "reply to objection 1 completed / de-scrambled from the 1894 Roman edition (Marietti appendix OCR was truncated here). Marietti: \"Ad primum ergo dicendum, quod quamvis anima sit minus passiva quam corpus, tamen est magis ...\""
+  },
+  {
+    "where": "Suppl. App. I q. 2 a. 2",
+    "note": "title uses the 1894 Roman-edition reading; the Marietti appendix `t` (\"UTRUM ILLA PENA SIT VOLUNTARIA\") has ae-for-e OCR loss / hyphen breaks"
+  },
+  {
+    "where": "Suppl. App. I q. 2 a. 3",
+    "note": "title uses the 1894 Roman-edition reading; the Marietti appendix `t` (\"UTRUM ANIME IN PURGATORIO PER DAEMONES PUNIANTUR\") has ae-for-e OCR loss / hyphen breaks"
+  },
+  {
+    "where": "Suppl. App. I q. 2 a. 4",
+    "note": "title uses the 1894 Roman-edition reading; the Marietti appendix `t` (\"UTRUM PER PENAM PURGA- TORII EXPIETUR PECCATUM VENIALE QUOAD CULPAM\") has ae-for-e OCR loss / hyphen breaks"
+  },
+  {
+    "where": "Suppl. App. I q. 2 a. 5",
+    "note": "title uses the 1894 Roman-edition reading; the Marietti appendix `t` (\"UTRUM IGNIS PURGATORIUS LIBERET A REATU PENE\") has ae-for-e OCR loss / hyphen breaks"
+  },
+  {
+    "where": "Suppl. App. I q. 2 a. 5",
+    "note": "sed contra completed / de-scrambled from the 1894 Roman edition (Marietti appendix OCR was truncated here). Marietti: \"Sed contra est quod poena purgatorii est gravior quam poena quaelibet hujus mundi, ut supra ...\""
+  },
+  {
+    "where": "Suppl. App. I q. 2 a. 6 / reply 2",
+    "note": "3 residual word-internal concatenations left verbatim (Marietti OCR \"missing space\" defect not in the curated split map)"
+  },
+  {
+    "where": "Suppl. App. I q. 2 a. 6",
+    "note": "title uses the 1894 Roman-edition reading; the Marietti appendix `t` (\"UTRUM AB ILLA PENA UNUS LIBERETUR ALIO CITIUS\") has ae-for-e OCR loss / hyphen breaks"
+  },
+  {
+    "where": "Suppl. App. I q. 2",
+    "note": "appendix question assembled from marietti-1931-app1.json (q 2); Marietti is the primary witness for every member. The 1894 Roman edition supplies the article titles and the question prooemium, and is used to complete any Marietti member that is truncated or column-scrambled (each such member is flagged individually). A full word-by-word 1894 collation of the clean Marietti members was not performed."
+  },
+  {
+    "where": "Suppl. App. II q. 1 a. 1",
+    "note": "title uses the 1894 Roman-edition reading; the Marietti appendix `t` (\"UTRUM ANIME CUM SOLA ORI- GINALI CULPA DECEDENTES ACORPOREO IGNE PATIANTUR, VEL AFFLIGANTUR PENA IGNIS\") has ae-for-e OCR loss / hyphen breaks"
+  },
+  {
+    "where": "Suppl. App. II q. 1 a. 2",
+    "note": "title uses the 1894 Roman-edition reading; the Marietti appendix `t` is empty"
+  },
+  {
+    "where": "Suppl. App. II q. 1",
+    "note": "appendix question assembled from marietti-1931-app1.json (q 1); Marietti is the primary witness for every member. The 1894 Roman edition supplies the article titles and the question prooemium, and is used to complete any Marietti member that is truncated or column-scrambled (each such member is flagged individually). A full word-by-word 1894 collation of the clean Marietti members was not performed."
+  },
+  {
+    "where": "Suppl. (whole part)",
+    "note": "METHOD: structural grid + primary text from the Marietti 1931 OCR (raw/marietti-1931-suppl.json); deterministic artefact cleanup only (CONCLUSIO synopsis strip, glued-punctuation spacing, curated concatenation splits, running-head / scan-mark removal, line-break de-hyphenation). Column-scrambled members reconstructed from the 1894 Roman edition OCR (raw/roman-1894-suppl-vol5_djvu.txt) when it reads cleanly, else kept least-bad and flagged. Approx. 2598 automatic \"space after punctuation\" fixes and 267 curated concatenation splits applied; 37 article(s) retain >=3 unmapped concatenations verbatim. Nothing translated, modernised or conjecturally emended."
+  },
+  {
+    "where": "Suppl. (orthography)",
+    "note": "The Supplementum text (both witnesses) uses consonantal `j` (ejus, objecto, cujus) and the `ae` digraph. This is KEPT VERBATIM and deliberately NOT regularised to the `i` / classical spelling used in the Prima–Tertia Pars JSON of this corpus."
+  },
+  {
+    "where": "Suppl. (editorial apparatus)",
+    "note": "The Marietti `ap` field (\"De his etiam S. Th. Sent. iv, dist. ...\") is an editorial parallel-place note, not text of Aquinas; it is dropped from every article (not stored as an anomaly per-article)."
+  }
+]

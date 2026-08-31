@@ -82,7 +82,9 @@ export function JumpNavigator({ partId, qNum, aParam, onClose }: Props) {
           >
             {questions.map((q) => (
               <option key={q.number} value={q.number}>
-                {roman(q.number)} — {q.number}
+                {q.appendix != null
+                  ? `App. ${q.appendix} — q. ${q.appendixNumber ?? 1}`
+                  : `${roman(q.number)} — ${q.number}`}
               </option>
             ))}
           </select>

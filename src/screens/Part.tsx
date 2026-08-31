@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { Fragment, useMemo, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { loadPart, partById } from '../corpus/corpus.ts';
 import type { Question } from '../corpus/types.ts';
@@ -51,6 +51,9 @@ export function PartScreen() {
           <p className="crumb">
             {`${SUMMA_AUTHOR} › ${SUMMA_TITLE} › ${info.header}`.toUpperCase()}
           </p>
+          {info.compilation ? (
+            <p className="screen-head__compilation">{info.compilation}</p>
+          ) : null}
         </div>
 
         <input
@@ -66,19 +69,29 @@ export function PartScreen() {
           <p className="loading">Loading…</p>
         ) : (
           <div className="entrylist">
-            {questions.map((q) => {
+            {questions.map((q, i) => {
               const utrum = firstUtrum(q);
+              const prev = questions[i - 1];
+              const startsAppendix =
+                q.appendix != null && (i === 0 || prev?.appendix !== q.appendix);
+              const num =
+                q.appendix != null
+                  ? `Appendix ${q.appendix} · Quaestio ${roman(q.appendixNumber ?? 1)}`
+                  : `Quaestio ${roman(q.number)}`;
               return (
-                <Link
-                  key={q.number}
-                  to={`/part/${info.id}/q/${q.number}`}
-                  className="entry"
-                >
-                  <span className="entry__num">Quaestio {roman(q.number)}</span>
-                  <span className="entry__preview">
-                    {utrum ?? <span className="muted">—</span>}
-                  </span>
-                </Link>
+                <Fragment key={q.number}>
+                  {startsAppendix ? (
+                    <p className="entrylist__divider">
+                      Appendix {q.appendix} — de Purgatorio
+                    </p>
+                  ) : null}
+                  <Link to={`/part/${info.id}/q/${q.number}`} className="entry">
+                    <span className="entry__num">{num}</span>
+                    <span className="entry__preview">
+                      {utrum ?? <span className="muted">—</span>}
+                    </span>
+                  </Link>
+                </Fragment>
               );
             })}
             {questions.length === 0 ? (

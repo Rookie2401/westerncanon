@@ -360,6 +360,47 @@
       "prooemium": "Quia igitur principalis intentio huius sacrae doctrinae est Dei cognitionem tradere, et non solum secundum quod in se est, sed etiam secundum quod est principium rerum et finis earum, et specialiter rationalis creaturae, ut ex dictis est manifestum; ad huius doctrinae expositionem intendentes, primo tractabimus de Deo; secundo, de motu rationalis creaturae in Deum; tertio, de Christo, qui, secundum quod homo, via est nobis tendendi in Deum. Consideratio autem de Deo tripartita erit. Primo namque considerabimus ea quae ad essentiam divinam pertinent; secundo, ea quae pertinent ad distinctionem personarum; tertio, ea quae pertinent ad processum creaturarum ab ipso. Circa essentiam vero divinam, primo considerandum est an Deus sit; secundo, quomodo sit, vel potius quomodo non sit; tertio considerandum erit de his quae ad operationem ipsius pertinent, scilicet de scientia et de voluntate et potentia. Circa primum quaeruntur tria. Primo, utrum Deum esse sit per se notum. Secundo, utrum sit demonstrabile. Tertio, an Deus sit.",
       "articles": [
         {
+          "number": 1,
+          "citation": "I q. 2 a. 1",
+          "title": "utrum Deum esse sit per se notum",
+          "objections": [
+            {
+              "number": 1,
+              "text": "Ad primum sic proceditur. Videtur quod Deum esse sit per se notum. Illa enim nobis dicuntur per se nota, quorum cognitio nobis naturaliter inest, sicut patet de primis principiis. Sed, sicut dicit Damascenus in principio libri sui, omnibus cognitio existendi Deum naturaliter est inserta. Ergo Deum esse est per se notum."
+            },
+            {
+              "number": 2,
+              "text": "Praeterea, illa dicuntur esse per se nota, quae statim, cognitis terminis, cognoscuntur, quod philosophus attribuit primis demonstrationis principiis, in I Poster., scito enim quid est totum et quid pars, statim scitur quod omne totum maius est sua parte. Sed intellecto quid significet hoc nomen Deus, statim habetur quod Deus est. Significatur enim hoc nomine id quo maius significari non potest, maius autem est quod est in re et intellectu, quam quod est in intellectu tantum, unde cum, intellecto hoc nomine Deus, statim sit in intellectu, sequitur etiam quod sit in re. Ergo Deum esse est per se notum."
+            },
+            {
+              "number": 3,
+              "text": "Praeterea, veritatem esse est per se notum, quia qui negat veritatem esse, concedit veritatem esse, si enim veritas non est, verum est veritatem non esse. Si autem est aliquid verum, oportet quod veritas sit. Deus autem est ipsa veritas, Ioann. XIV, ego sum via, veritas et vita. Ergo Deum esse est per se notum."
+            }
+          ],
+          "sedContra": [
+            {
+              "number": 1,
+              "text": "Sed contra, nullus potest cogitare oppositum eius quod est per se notum ut patet per philosophum, in IV Metaphys. et I Poster., circa prima demonstrationis principia. Cogitari autem potest oppositum eius quod est Deum esse, secundum illud Psalmi LII, dixit insipiens in corde suo, non est Deus. Ergo Deum esse non est per se notum."
+            }
+          ],
+          "respondeo": "Respondeo dicendum quod contingit aliquid esse per se notum dupliciter, uno modo, secundum se et non quoad nos; alio modo, secundum se et quoad nos. Ex hoc enim aliqua propositio est per se nota, quod praedicatum includitur in ratione subiecti, ut homo est animal, nam animal est de ratione hominis. Si igitur notum sit omnibus de praedicato et de subiecto quid sit, propositio illa erit omnibus per se nota, sicut patet in primis demonstrationum principiis, quorum termini sunt quaedam communia quae nullus ignorat, ut ens et non ens, totum et pars, et similia. Si autem apud aliquos notum non sit de praedicato et subiecto quid sit, propositio quidem quantum in se est, erit per se nota, non tamen apud illos qui praedicatum et subiectum propositionis ignorant. Et ideo contingit, ut dicit Boetius in libro de hebdomadibus, quod quaedam sunt communes animi conceptiones et per se notae, apud sapientes tantum, ut incorporalia in loco non esse. Dico ergo quod haec propositio, Deus est, quantum in se est, per se nota est, quia praedicatum est idem cum subiecto; Deus enim est suum esse, ut infra patebit. Sed quia nos non scimus de Deo quid est, non est nobis per se nota, sed indiget demonstrari per ea quae sunt magis nota quoad nos, et minus nota quoad naturam, scilicet per effectus.",
+          "replies": [
+            {
+              "objectionNumber": 1,
+              "text": "Ad primum ergo dicendum quod cognoscere Deum esse in aliquo communi, sub quadam confusione, est nobis naturaliter insertum, inquantum scilicet Deus est hominis beatitudo, homo enim naturaliter desiderat beatitudinem, et quod naturaliter desideratur ab homine, naturaliter cognoscitur ab eodem. Sed hoc non est simpliciter cognoscere Deum esse; sicut cognoscere venientem, non est cognoscere Petrum, quamvis sit Petrus veniens, multi enim perfectum hominis bonum, quod est beatitudo, existimant divitias; quidam vero voluptates; quidam autem aliquid aliud."
+            },
+            {
+              "objectionNumber": 2,
+              "text": "Ad secundum dicendum quod forte ille qui audit hoc nomen Deus, non intelligit significari aliquid quo maius cogitari non possit, cum quidam crediderint Deum esse corpus. Dato etiam quod quilibet intelligat hoc nomine Deus significari hoc quod dicitur, scilicet illud quo maius cogitari non potest; non tamen propter hoc sequitur quod intelligat id quod significatur per nomen, esse in rerum natura; sed in apprehensione intellectus tantum. Nec potest argui quod sit in re, nisi daretur quod sit in re aliquid quo maius cogitari non potest, quod non est datum a ponentibus Deum non esse."
+            },
+            {
+              "objectionNumber": 3,
+              "text": "Ad tertium dicendum quod veritatem esse in communi, est per se notum, sed primam veritatem esse, hoc non est per se notum quoad nos."
+            }
+          ],
+          "witness": "wikisource-la"
+        },
+        {
           "number": 2,
           "citation": "I q. 2 a. 2",
           "title": "utrum sit demonstrabile",
@@ -12676,6 +12717,47 @@
           ]
         },
         {
+          "number": 4,
+          "citation": "I q. 57 a. 4",
+          "title": "utrum cognoscant cogitationes cordium",
+          "objections": [
+            {
+              "number": 1,
+              "text": "Ad quartum sic proceditur. Videtur quod Angeli cognoscant cogitationes cordium. Dicit enim Gregorius, in moralibus, super illud Iob XXVIII, non aequabitur ei aurum vel vitrum, quod tunc, scilicet in beatitudine resurgentium, unus erit perspicabilis alteri sicut ipse sibi, et cum uniuscuiusque intellectus attenditur, simul conscientia penetratur. Sed resurgentes erunt similes Angelis, sicut habetur Matth. XXII. Ergo unus Angelus potest videre id quod est in conscientia alterius."
+            },
+            {
+              "number": 2,
+              "text": "Praeterea, sicut se habent figurae ad corpora, ita se habent species intelligibiles ad intellectum. Sed viso corpore, videtur eius figura. Ergo visa substantia intellectuali, videtur species intelligibilis quae est in ipsa. Ergo, cum Angelus videat alium Angelum, et etiam animam, videtur quod possit videre cogitationem utriusque."
+            },
+            {
+              "number": 3,
+              "text": "Praeterea, ea quae sunt in intellectu nostro, sunt similiora Angelo quam ea quae sunt in phantasia, cum haec sint intellecta in actu, illa vero in potentia tantum. Sed ea quae sunt in phantasia, possunt cognosci ab Angelo sicut corporalia, cum phantasia sit virtus corporis. Ergo videtur quod Angelus possit cognoscere cogitationes intellectus."
+            }
+          ],
+          "sedContra": [
+            {
+              "number": 1,
+              "text": "Sed contra, quod est proprium Dei, non convenit Angelis. Sed cognoscere cogitationes cordium est proprium Dei, secundum illud Ierem. XVII, pravum est cor hominis et inscrutabile, quis cognoscet illud? Ego, dominus, scrutans corda. Ergo Angeli non cognoscunt secreta cordium."
+            }
+          ],
+          "respondeo": "Respondeo dicendum quod cogitatio cordis dupliciter potest cognosci. Uno modo, in suo effectu. Et sic non solum ab Angelo, sed etiam ab homine cognosci potest; et tanto subtilius, quanto effectus huiusmodi fuerit magis occultus. Cognoscitur enim cogitatio interdum non solum per actum exteriorem, sed etiam per immutationem vultus, et etiam medici aliquas affectiones animi per pulsum cognoscere possunt. Et multo magis Angeli, vel etiam Daemones, quanto subtilius huiusmodi immutationes occultas corporales perpendunt. Unde Augustinus dicit, in libro de divinatione Daemonum, quod aliquando hominum dispositiones, non solum voce prolatas, verum etiam cogitatione conceptas, cum signa quaedam in corpore exprimuntur ex animo, tota facilitate perdiscunt, quamvis in libro Retract. hoc dicat non esse asserendum quomodo fiat. Alio modo possunt cognosci cogitationes, prout sunt in intellectu; et affectiones, prout sunt in voluntate. Et sic solus Deus cogitationes cordium et affectiones voluntatum cognoscere potest. Cuius ratio est, quia voluntas rationalis creaturae soli Deo subiacet; et ipse solus in eam operari potest, qui est principale eius obiectum, ut ultimus finis; et hoc magis infra patebit. Et ideo ea quae in voluntate sunt, vel quae ex voluntate sola dependent, soli Deo sunt nota. Manifestum est autem quod ex sola voluntate dependet quod aliquis actu aliqua consideret, quia cum aliquis habet habitum scientiae, vel species intelligibiles in eo existentes, utitur eis cum vult. Et ideo dicit apostolus, I Cor. II, quod quae sunt hominis, nemo novit nisi spiritus hominis, qui in ipso est.",
+          "replies": [
+            {
+              "objectionNumber": 1,
+              "text": "Ad primum ergo dicendum quod modo cogitatio unius hominis non cognoscitur ab alio, propter duplex impedimentum, scilicet propter grossitiem corporis, et propter voluntatem claudentem sua secreta. Primum autem obstaculum tolletur in resurrectione, nec est in Angelis. Sed secundum impedimentum manebit post resurrectionem, et est modo in Angelis. Et tamen qualitatem mentis, quantum ad quantitatem gratiae et gloriae, repraesentabit claritas corporis. Et sic unus mentem alterius videre poterit."
+            },
+            {
+              "objectionNumber": 2,
+              "text": "Ad secundum dicendum quod, etsi unus Angelus, species intelligibiles alterius videat, per hoc quod modus intelligibilium specierum, secundum maiorem et minorem universalitatem, proportionatur nobilitati substantiarum; non tamen sequitur quod unus cognoscat quomodo alius illis intelligibilibus speciebus utitur actualiter considerando."
+            },
+            {
+              "objectionNumber": 3,
+              "text": "Ad tertium dicendum quod appetitus brutalis non est dominus sui actus, sed sequitur impressionem alterius causae corporalis vel spiritualis. Quia igitur Angeli cognoscunt res corporales et dispositiones earum, possunt per haec cognoscere quod est in appetitu et in apprehensione phantastica brutorum animalium; et etiam hominum, secundum quod in eis quandoque appetitus sensitivus procedit in actum, sequens aliquam impressionem corporalem, sicut in brutis semper est. Non tamen oportet quod Angeli cognoscant motum appetitus sensitivi et apprehensionem phantasticam hominis, secundum quod moventur a voluntate et ratione, quia etiam inferior pars animae participat aliqualiter rationem, sicut obediens imperanti, ut dicitur in I Ethic. Nec tamen sequitur quod, si Angelus cognoscit quod est in appetitu sensitivo vel phantasia hominis, quod cognoscat id quod est in cogitatione vel voluntate, quia intellectus vel voluntas non subiacet appetitui sensitivo et phantasiae, sed potest eis diversimode uti."
+            }
+          ],
+          "witness": "wikisource-la"
+        },
+        {
           "number": 5,
           "citation": "I q. 57 a. 5",
           "title": "utrum cognoscant omnia mysteria gratiae",
@@ -15558,6 +15640,80 @@
       ]
     },
     {
+      "number": 72,
+      "citation": "I q. 72",
+      "title": null,
+      "prooemium": null,
+      "articles": [
+        {
+          "number": null,
+          "citation": "I q. 72",
+          "title": null,
+          "objections": [
+            {
+              "number": 1,
+              "text": "Deinde quaeritur de opere sextae diei. Et videtur quod inconvenienter describatur. Sicut enim aves et pisces habent viventem animam, ita etiam et animalia terrestria; non autem terrestria animalia sunt ipsa anima vivens. Ergo inconvenienter dicitur, producat terra animam viventem; sed debuit dici, producat terra quadrupedia animae viventis."
+            },
+            {
+              "number": 2,
+              "text": "Praeterea, genus non debet dividi contra speciem. Sed iumenta et bestiae sub quadrupedibus computantur. Inconvenienter ergo quadrupedia connumerantur iumentis et bestiis."
+            },
+            {
+              "number": 3,
+              "text": "Praeterea, sicut alia animalia sunt in determinato genere et specie, ita et homo. Sed in factione hominis non fit mentio de suo genere vel specie. Ergo nec in productione aliorum animalium debuit fieri mentio de genere vel specie, cum dicitur, in genere suo, vel specie sua."
+            },
+            {
+              "number": 4,
+              "text": "Praeterea, animalia terrestria magis sunt similia homini, qui a Deo dicitur benedici, quam aves et pisces. Cum igitur aves et pisces dicantur benedici, multo fortius hoc dici debuit de aliis animalibus."
+            },
+            {
+              "number": 5,
+              "text": "Praeterea, quaedam animalia generantur ex putrefactione, quae est corruptio quaedam. Corruptio autem non convenit primae institutioni rerum. Non ergo animalia debuerunt in prima rerum institutione produci."
+            },
+            {
+              "number": 6,
+              "text": "Praeterea, quaedam animalia sunt venenosa et homini noxia. Nihil autem debuit esse homini nocivum ante peccatum. Ergo huiusmodi animalia vel omnino fieri a Deo non debuerunt, qui est bonorum auctor, vel non debuerunt fieri ante peccatum."
+            }
+          ],
+          "sedContra": [
+            {
+              "number": 1,
+              "text": "In contrarium sufficit auctoritas Scripturae."
+            }
+          ],
+          "respondeo": "Respondeo dicendum quod, sicut in die quinto ornatur medium corpus, et respondet secundae diei ita in sexto die ornatur ultimum corpus, scilicet terra, per productionem animalium terrestrium, et respondet tertiae diei. Unde utrobique fit mentio de terra. Et hic etiam, secundum Augustinum animalia terrestria producuntur potentialiter, secundum vero alios sanctos, in actu.",
+          "replies": [
+            {
+              "objectionNumber": 1,
+              "text": "Ad primum ergo dicendum quod, sicut Basilius dicit, diversus gradus vitae qui in diversis viventibus invenitur, ex modo loquendi Scripturae colligi potest. Plantae enim habent imperfectissimam vitam et occultam. Unde in earum productione nulla mentio fit de vita, sed solum de generatione, quia secundum hanc solum invenitur actus vitae in eis; nutritiva enim et augmentativa generativae deserviunt, ut infra dicetur. Inter animalia vero, perfectiora sunt, communiter loquendo, terrestria avibus et piscibus, non quod pisces memoria careant, ut Basilius dicit, et Augustinus improbat; sed propter distinctionem membrorum, et perfectionem generationis (quantum autem ad aliquas sagacitates, etiam aliqua animalia imperfecta magis vigent, ut apes et formicae). Et ideo pisces vocat, non animam viventem, sed reptile animae viventis, sed terrena animalia vocat animam viventem, propter perfectionem vitae in eis, ac si pisces sint corpora habentia aliquid animae, terrestria vero animalia, propter perfectionem vitae, sint quasi animae dominantes corporibus. Perfectissimus autem gradus vitae est in homine. Et ideo vitam hominis non dicit produci a terra vel aqua, sicut ceterorum animalium, sed a Deo."
+            },
+            {
+              "objectionNumber": 2,
+              "text": "Ad secundum dicendum quod per iumenta, vel pecora, intelliguntur animalia domestica, quae homini serviunt qualitercumque. Per bestias autem intelliguntur animalia saeva, ut ursi et leones. Per reptilia vero, animalia quae vel non habent pedes quibus eleventur a terra, ut serpentes; vel habent breves, quibus parum elevantur, ut lacertae et tortucae et huiusmodi. Sed quia sunt quaedam animalia quae sub nullo horum comprehenduntur, ut cervi et capreae, ut etiam ista comprehenderentur, addidit quadrupedia. Vel quadrupedia praemisit quasi genus, et alia subiunxit quasi species, sunt enim etiam quaedam reptilia quadrupedia, ut lacertae et tortucae."
+            },
+            {
+              "objectionNumber": 3,
+              "text": "Ad tertium dicendum quod in aliis animalibus et plantis mentionem fecit de genere et specie, ut designaret generationes similium ex similibus. In homine autem non fuit necessarium ut hoc diceretur, quia quod praemissum fuit de aliis, etiam de homine intelligi potest. Vel quia animalia et plantae producuntur secundum genus et speciem suam, quasi longe a similitudine divina remota, homo autem dicitur formatus ad imaginem et similitudinem Dei."
+            },
+            {
+              "objectionNumber": 4,
+              "text": "Ad quartum dicendum quod benedictio Dei dat virtutem multiplicandi per generationem. Et ideo quod positum est in avibus et piscibus, quae primo occurrunt, non fuit necessarium repeti in terrenis animalibus, sed intelligitur. In hominibus autem iteratur benedictio, quia in eis est quaedam specialis multiplicationis ratio, propter complendum numerum electorum, et ne quisquam diceret in officio gignendi filios ullum esse peccatum. Plantae vero nullum habent propagandae prolis affectum, ac sine ullo sensu generant, unde indignae iudicatae sunt benedictionis verbis."
+            },
+            {
+              "objectionNumber": 5,
+              "text": "Ad quintum dicendum quod, cum generatio unius sit corruptio alterius, quod ex corruptione ignobiliorum generentur nobiliora, non repugnat primae rerum institutioni. Unde animalia quae generantur ex corruptione rerum inanimatarum vel plantarum, potuerunt tunc generari. Non autem quae generantur ex corruptione animalium, tunc potuerunt produci, nisi potentialiter tantum."
+            },
+            {
+              "objectionNumber": 6,
+              "text": "Ad sextum dicendum quod, sicut Augustinus dicit in I super Gen. contra Manichaeos, si in alicuius opificis officinam imperitus intraverit, videt ibi multa instrumenta quorum causas ignorat, et si multum est insipiens, superflua putat. Iam vero si in fornacem incautus ceciderit, aut ferramento aliquo acuto se vulneraverit, noxia existimat ibi esse multa, quorum usum quia novit artifex, insipientiam eius irridet. Sic in hoc mundo quidam audent multa reprehendere, quorum causas non vident, multa enim, etsi domui nostrae non sunt necessaria, eis tamen completur universitatis integritas. Homo autem ante peccatum ordinate fuisset usus rebus mundi. Unde animalia venenosa ei noxia non fuissent."
+            }
+          ],
+          "witness": "wikisource-la"
+        }
+      ],
+      "witness": "wikisource-la"
+    },
+    {
       "number": 73,
       "citation": "I q. 73",
       "title": null,
@@ -18381,6 +18537,47 @@
               "text": "Ad tertium dicendum quod omnis motus supponit aliquid immobile, cum enim transmutatio fit secundum qualitatem, remanet substantia immobilis; et cum transmutatur forma substantialis, remanet materia immobilis. Rerum etiam mutabilium sunt immobiles habitudines, sicut Socrates etsi non semper sedeat, tamen immobiliter est verum quod, quandocumque sedet, in uno loco manet. Et propter hoc nihil prohibet de rebus mobilibus immobilem scientiam habere."
             }
           ]
+        },
+        {
+          "number": 2,
+          "citation": "I q. 84 a. 2",
+          "title": "utrum intelligat ea per essentiam suam, vel per aliquas species",
+          "objections": [
+            {
+              "number": 1,
+              "text": "Ad secundum sic proceditur. Videtur quod anima per essentiam suam corporalia intelligat. Dicit enim Augustinus, X de Trin., quod anima imagines corporum convolvit et rapit factas in semetipsa de semetipsa, dat enim eis formandis quiddam substantiae suae. Sed per similitudines corporum corpora intelligit. Ergo per essentiam suam, quam dat formandis talibus similitudinibus, et de qua eas format, cognoscit corporalia."
+            },
+            {
+              "number": 2,
+              "text": "Praeterea, philosophus dicit, in III de anima, quod anima quodammodo est omnia. Cum ergo simile simili cognoscatur, videtur quod anima per seipsam corporalia cognoscat."
+            },
+            {
+              "number": 3,
+              "text": "Praeterea, anima est superior corporalibus creaturis. Inferiora autem sunt in superioribus eminentiori modo quam in seipsis, ut Dionysius dicit. Ergo omnes creaturae corporeae nobiliori modo existunt in ipsa substantia animae quam in seipsis. Per suam ergo substantiam potest creaturas corporeas cognoscere."
+            }
+          ],
+          "sedContra": [
+            {
+              "number": 1,
+              "text": "Sed contra est quod Augustinus dicit, IX de Trin., quod mens corporearum rerum notitias per sensus corporis colligit. Ipsa autem anima non est cognoscibilis per corporis sensus. Non ergo cognoscit corporea per suam substantiam."
+            }
+          ],
+          "respondeo": "Respondeo dicendum quod antiqui philosophi posuerunt quod anima per suam essentiam cognoscit corpora. Hoc enim animis omnium communiter inditum fuit, quod simile simili cognoscitur. Existimabant autem quod forma cogniti sit in cognoscente eo modo quo est in re cognita. E contrario tamen Platonici posuerunt. Plato enim, quia perspexit intellectualem animam immaterialem esse et immaterialiter cognoscere, posuit formas rerum cognitarum immaterialiter subsistere. Priores vero naturales, quia considerabant res cognitas esse corporeas et materiales, posuerunt oportere res cognitas etiam in anima cognoscente materialiter esse. Et ideo, ut animae attribuerent omnium cognitionem, posuerunt eam habere naturam communem cum omnibus. Et quia natura principiatorum ex principiis constituitur, attribuerunt animae naturam principii, ita quod qui dixit principium omnium esse ignem, posuit animam esse de natura ignis; et similiter de aere et aqua. Empedocles autem, qui posuit quatuor elementa materialia et duo moventia, ex his etiam dixit animam esse constitutam. Et ita, cum res materialiter in anima ponerent, posuerunt omnem cognitionem animae materialem esse, non discernentes inter intellectum et sensum. Sed haec opinio improbatur. Primo quidem, quia in materiali principio, de quo loquebantur, non existunt principiata nisi in potentia. Non autem cognoscitur aliquid secundum quod est in potentia, sed solum secundum quod est actu, ut patet in IX Metaphys., unde nec ipsa potentia cognoscitur nisi per actum. Sic igitur non sufficeret attribuere animae principiorum naturam ad hoc quod omnia cognosceret, nisi inessent ei naturae et formae singulorum effectuum, puta ossis et carnis et aliorum huiusmodi; ut Aristoteles contra Empedoclem argumentatur in I de anima. Secundo quia, si oporteret rem cognitam materialiter in cognoscente existere, nulla ratio esset quare res quae materialiter extra animam subsistunt, cognitione carerent, puta, si anima igne cognoscit ignem, et ignis etiam qui est extra animam, ignem cognosceret. Relinquitur ergo quod oportet materialia cognita in cognoscente existere non materialiter, sed magis immaterialiter. Et huius ratio est, quia actus cognitionis se extendit ad ea quae sunt extra cognoscentem, cognoscimus enim etiam ea quae extra nos sunt. Per materiam autem determinatur forma rei ad aliquid unum. Unde manifestum est quod ratio cognitionis ex opposito se habet ad rationem materialitatis. Et ideo quae non recipiunt formas nisi materialiter, nullo modo sunt cognoscitiva, sicut plantae; ut dicitur in II libro de anima. Quanto autem aliquid immaterialius habet formam rei cognitae, tanto perfectius cognoscit. Unde et intellectus, qui abstrahit speciem non solum a materia, sed etiam a materialibus conditionibus individuantibus, perfectius cognoscit quam sensus, qui accipit formam rei cognitae sine materia quidem, sed cum materialibus conditionibus. Et inter ipsos sensus, visus est magis cognoscitivus, quia est minus materialis, ut supra dictum est. Et inter ipsos intellectus, tanto quilibet est perfectior, quanto immaterialior. Ex his ergo patet quod, si aliquis intellectus est qui per essentiam suam cognoscit omnia, oportet quod essentia eius habeat in se immaterialiter omnia; sicut antiqui posuerunt essentiam animae actu componi ex principiis omnium materialium, ut cognosceret omnia. Hoc autem est proprium Dei, ut sua essentia sit immaterialiter comprehensiva omnium, prout effectus virtute praeexistunt in causa. Solus igitur Deus per essentiam suam omnia intelligit; non autem anima humana, neque etiam Angelus.",
+          "replies": [
+            {
+              "objectionNumber": 1,
+              "text": "Ad primum ergo dicendum quod Augustinus ibi loquitur de visione imaginaria, quae fit per imagines corporum. Quibus imaginibus formandis dat anima aliquid suae substantiae, sicut subiectum datur ut informetur per aliquam formam. Et sic de seipsa facit huiusmodi imagines, non quod anima vel aliquid animae convertatur, ut sit haec vel illa imago; sed sicut dicitur de corpore fieri aliquid coloratum, prout informatur colore. Et hic sensus apparet ex his quae sequuntur. Dicit enim quod servat aliquid, scilicet non formatum tali imagine, quod libere de specie talium imaginum iudicet, et hoc dicit esse mentem vel intellectum. Partem autem quae informatur huiusmodi imaginibus scilicet imaginativam, dicit esse communem nobis et bestiis."
+            },
+            {
+              "objectionNumber": 2,
+              "text": "Ad secundum dicendum quod Aristoteles non posuit animam esse actu compositam ex omnibus, sicut antiqui naturales; sed dixit quodammodo animam esse omnia, inquantum est in potentia ad omnia; per sensum quidem ad sensibilia, per intellectum vero ad intelligibilia."
+            },
+            {
+              "objectionNumber": 3,
+              "text": "Ad tertium dicendum quod quaelibet creatura habet esse finitum et determinatum. Unde essentia superioris creaturae, etsi habeat quandam similitudinem inferioris creaturae prout communicant in aliquo genere, non tamen complete habet similitudinem illius, quia determinatur ad aliquam speciem, praeter quam est species inferioris creaturae. Sed essentia Dei est perfecta similitudo omnium quantum ad omnia quae in rebus inveniuntur, sicut universale principium omnium."
+            }
+          ],
+          "witness": "wikisource-la"
         },
         {
           "number": 3,

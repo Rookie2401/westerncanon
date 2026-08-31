@@ -18,8 +18,16 @@ import {
   questionCitation,
 } from './citations.ts';
 import { assignArticleTitles } from './enumerations.ts';
+import {
+  buildLacunae,
+  WITNESS_LABEL,
+  type FilledArticle,
+  type LacunaePatch,
+  type WitnessId,
+} from './lacunae.ts';
 import { foldForSearch } from './normalize.ts';
 import { parseSource, type RawLemma } from './parse.ts';
+import { buildSupplement, collectSupplementAnomalies } from './supplement.ts';
 import type {
   Article,
   Part,
@@ -78,11 +86,54 @@ function emptyArticle(): ArticleAccum {
   return { arg: [], sc: [], co: [], ad: [] };
 }
 
-function buildParts(lemmas: RawLemma[]): {
+/**
+ * Turn a filled (secondary-witness) article into synthetic RawLemmas so it flows
+ * through exactly the same accumulation / title-assignment / search-index path as
+ * the base transcription. `reference` is shaped so the combined-reply detector
+ * (`\bad arg.$`) still fires for a null objection number.
+ */
+function synthLemmas(code: string, qn: number, a: FilledArticle): RawLemma[] {
+  const cite = a.a == null ? `${code} q. ${qn}` : `${code} q. ${qn} a. ${a.a}`;
+  const base = { liber: null, quaestio: qn, articulus: a.a, liberIndex: null, liberTitle: '' };
+  const out: RawLemma[] = [];
+  for (const o of a.objections)
+    out.push({ ...base, type: 'arg', index: o.number, latin: o.text, reference: `${cite} arg. ${o.number}` });
+  for (const s of a.sedContra)
+    out.push({ ...base, type: 'sc', index: s.number, latin: s.text, reference: `${cite} s. c.` });
+  if (a.respondeo != null)
+    out.push({ ...base, type: 'co', index: 1, latin: a.respondeo, reference: `${cite} co.` });
+  for (const r of a.replies)
+    out.push({
+      ...base,
+      type: 'ad',
+      index: r.objectionNumber ?? 99,
+      latin: r.text,
+      reference: r.objectionNumber == null ? `${cite} ad arg.` : `${cite} ad ${r.objectionNumber}`,
+    });
+  return out;
+}
+
+function buildParts(
+  lemmas: RawLemma[],
+  patch: LacunaePatch,
+): {
   parts: Part[];
   workProoemium: Prooemium | null;
   titleRejections: string[];
+  /** citation -> witness id, for everything filled from a secondary source */
+  secondaryCites: Map<string, WitnessId>;
 } {
+  // citation (article or whole-question) -> witness id
+  const secondaryCites = new Map<string, WitnessId>();
+  for (const q of patch.newQuestions) {
+    secondaryCites.set(`${q.code} q. ${q.q}`, q.witness);
+    for (const a of q.articles) {
+      const c = a.a == null ? `${q.code} q. ${q.q}` : `${q.code} q. ${q.q} a. ${a.a}`;
+      secondaryCites.set(c, a.witness);
+    }
+  }
+  for (const a of patch.newArticles) secondaryCites.set(`${a.code} q. ${a.q} a. ${a.a}`, a.witness);
+
   const workPrLemma = lemmas.find((l) => l.reference === 'Summa theologiae, pr.');
   const workProoemium: Prooemium | null = workPrLemma
     ? { citation: 'Summa theologiae, pr.', text: workPrLemma.latin }
@@ -140,6 +191,38 @@ function buildParts(lemmas: RawLemma[]): {
       acc[l.type].push(l);
     }
 
+    // ---- inject the secondary-witness lacunae for this part -----------------
+    const addArticleAccum = (qn: number, aKey: number, ls: RawLemma[]): void => {
+      const qa = getQ(qn);
+      if (qa.articles.has(aKey)) {
+        throw new Error(`lacuna clash: ${meta.code} q. ${qn} a. ${aKey} already present in the base source`);
+      }
+      const acc = emptyArticle();
+      for (const l of ls) {
+        if (l.type === 'pr') throw new Error('synthLemmas must not emit a prooemium lemma');
+        acc[l.type].push(l);
+      }
+      qa.articles.set(aKey, acc);
+    };
+    for (const fq of patch.newQuestions) {
+      if (fq.code !== meta.code) continue;
+      if (questions.has(fq.q)) {
+        throw new Error(`lacuna clash: ${meta.code} q. ${fq.q} already present in the base source`);
+      }
+      const qa = getQ(fq.q);
+      qa.prooemium = fq.prooemium;
+      for (const fa of fq.articles) {
+        addArticleAccum(fq.q, fa.a ?? UNNUMBERED_KEY, synthLemmas(meta.code, fq.q, fa));
+      }
+    }
+    for (const fa of patch.newArticles) {
+      if (fa.code !== meta.code) continue;
+      if (!questions.has(fa.q)) {
+        throw new Error(`lacuna target ${meta.code} q. ${fa.q} not found for a. ${fa.a}`);
+      }
+      addArticleAccum(fa.q, fa.a ?? UNNUMBERED_KEY, synthLemmas(meta.code, fa.q, fa));
+    }
+
     const questionList: Question[] = [...questions.values()]
       .sort((a, b) => a.number - b.number)
       .map((qa) => {
@@ -184,24 +267,30 @@ function buildParts(lemmas: RawLemma[]): {
             }));
 
           const title = number != null ? assignment.byNumber.get(number) ?? null : null;
+          const citation = articleCitation(meta.code, qa.number, number);
+          const witness = secondaryCites.get(citation);
 
           return {
             number,
-            citation: articleCitation(meta.code, qa.number, number),
+            citation,
             title,
             objections,
             sedContra,
             respondeo,
             replies,
+            ...(witness ? { witness } : {}),
           } satisfies Article;
         });
 
+        const qCitation = questionCitation(meta.code, qa.number);
+        const qWitness = secondaryCites.get(qCitation);
         return {
           number: qa.number,
-          citation: questionCitation(meta.code, qa.number),
+          citation: qCitation,
           title: null,
           prooemium: qa.prooemium,
           articles,
+          ...(qWitness ? { witness: qWitness } : {}),
         } satisfies Question;
       });
 
@@ -215,7 +304,7 @@ function buildParts(lemmas: RawLemma[]): {
     });
   }
 
-  return { parts, workProoemium, titleRejections };
+  return { parts, workProoemium, titleRejections, secondaryCites };
 }
 
 function buildSearchIndex(parts: Part[]): SearchRecord[] {
@@ -261,8 +350,21 @@ async function main(): Promise<void> {
     `  ${source.totalLemmas} lemmas  ${JSON.stringify(source.typeCounts)}\n`,
   );
 
-  const { parts, workProoemium, titleRejections } = buildParts(source.lemmas);
+  const lacunae = buildLacunae();
+  process.stdout.write(
+    `  lacunae patch: ${lacunae.newQuestions.length} question(s) + ${lacunae.newArticles.length} article(s) from secondary witnesses\n`,
+  );
+
+  const { parts, workProoemium, titleRejections, secondaryCites } = buildParts(
+    source.lemmas,
+    lacunae,
+  );
   if (!workProoemium) throw new Error('work-level prooemium ("Summa theologiae, pr.") not found');
+
+  // The Supplementum is not in the base transcription; it is assembled from
+  // committed public-domain OCR by ./supplement.ts.
+  const supplPart = buildSupplement();
+  const supplAnomalies = collectSupplementAnomalies();
 
   const manifest: PartManifest[] = parts.map((p) => ({
     id: p.id,
@@ -272,6 +374,20 @@ async function main(): Promise<void> {
     questionCount: p.questions.length,
     articleCount: p.questions.reduce((n, q) => n + q.articles.length, 0),
   }));
+  manifest.push({
+    id: supplPart.id,
+    code: supplPart.code,
+    latinTitle: supplPart.latinTitle,
+    shortTitle: supplPart.shortTitle,
+    questionCount: supplPart.questions.length,
+    articleCount: supplPart.questions.reduce((n, q) => n + q.articles.length, 0),
+    kind: 'posthumous-compilation',
+  });
+
+  // Machine-readable record of every passage NOT from the base transcription.
+  const filled = [...secondaryCites.entries()]
+    .map(([citation, witness]) => ({ citation, witness }))
+    .sort((a, b) => a.citation.localeCompare(b.citation, 'en'));
 
   const index: SummaIndex = {
     generatedAt: new Date().toISOString(),
@@ -279,13 +395,27 @@ async function main(): Promise<void> {
     sourceCommit: null,
     license: LICENSE_NOTE,
     parts: manifest,
+    filledLacunae: {
+      note:
+        'These citations are absent from the base transcription (github.com/vicmortelmans/summa) ' +
+        'and were supplied verbatim from the public-domain original-language witnesses below. ' +
+        'Nothing is translated, normalised or conjecturally corrected.',
+      witnesses: Object.fromEntries(
+        [...new Set(filled.map((f) => f.witness))].map((w) => [w, WITNESS_LABEL[w]]),
+      ),
+      items: filled,
+    },
   };
 
   process.stdout.write('writing data/summa/ ...\n');
   writeJson('index.json', index);
   writeJson('prooemium.json', workProoemium);
   for (const part of parts) writeJson(`part-${part.code}.json`, part);
-  const searchIndex = buildSearchIndex(parts);
+  // The Supplementum is written explicitly (never via the code-keyed loop above,
+  // which would name it `part-Suppl..json`).
+  writeJson('part-suppl.json', supplPart);
+  writeJson('suppl-anomalies.json', supplAnomalies);
+  const searchIndex = buildSearchIndex([...parts, supplPart]);
   writeJson('search-index.json', searchIndex);
 
   // Console summary
@@ -307,6 +437,28 @@ async function main(): Promise<void> {
   if (titleRejections.length) {
     process.stdout.write(`  ${titleRejections.length} question(s) with no/rejected enumeration:\n`);
     for (const r of titleRejections) process.stdout.write(`    - ${r}\n`);
+  }
+
+  // Supplementum (assembled from OCR witnesses, not the base transcription)
+  {
+    const sQ = supplPart.questions.length;
+    const sA = supplPart.questions.reduce((n, q) => n + q.articles.length, 0);
+    let sAnom = 0;
+    let sNullTitle = 0;
+    let sNullResp = 0;
+    for (const q of supplPart.questions) {
+      for (const a of q.articles) {
+        if (a.anomaly) sAnom += 1;
+        if (a.title == null) sNullTitle += 1;
+        if (a.respondeo == null) sNullResp += 1;
+      }
+    }
+    process.stdout.write(
+      `\n  Suppl. questions=${sQ} (99 + 3 appendix)  articles=${sA}  ` +
+        `articles-with-anomaly=${sAnom}  null-title=${sNullTitle}  null-respondeo=${sNullResp}\n` +
+        `  suppl-anomalies.json: ${supplAnomalies.length} entries  ` +
+        `(part-suppl.json + search index include the Supplementum)\n`,
+    );
   }
   process.stdout.write('\nDone. Run `npm run validate:summa` next.\n');
 }

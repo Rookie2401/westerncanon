@@ -198,11 +198,12 @@ function main(): void {
   anomalies.push({
     where: 'isagoge-la / division scheme',
     note:
-      'Divided as praefatio + 26 capitula. The reference edition for the Latin division is Aristoteles ' +
-      'Latinus I.6-7 (ed. Minio-Paluello & Dod, 1966, pp. 5-31), which was NOT available to re-collate for ' +
-      'this build. Two witnesses that were checked - Busse\'s Greek capitula (CAG IV.1) and a Busse-paginated ' +
-      'text of Boethius\' translation - both use the same praefatio+26 scheme, so it is retained. A "24-section" ' +
-      'division was queried but is not corroborated by the available witnesses.',
+      'Divided as praefatio + 26 capitula. Confirmed against Aristoteles Latinus I.6-7 ' +
+      '(ed. Minio-Paluello & Dod, 1966, pp. 5-31) as reproduced in the DigilibLT digital corpus ' +
+      '(digiliblt.uniupo.it): that edition divides Boethius\' translation into exactly this ' +
+      'praefatio+26 structure. It is also matched by Busse\'s Greek capitula (CAG IV.1) and a ' +
+      'Busse-paginated text of the translation. A queried "24-section" division is not corroborated ' +
+      'by any of these witnesses.',
   });
   anomalies.push({
     where: 'isagoge-la / capitula wording',

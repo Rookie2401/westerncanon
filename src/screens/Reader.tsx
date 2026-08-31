@@ -4,6 +4,7 @@ import clsx from 'clsx';
 import {
   citationOf,
   findArticle,
+  findQuestion,
   loadGaps,
   loadPart,
   partById,
@@ -43,9 +44,16 @@ export function Reader() {
   );
   const { data: gaps } = useResource<Gaps>(loadGaps, 'gaps');
 
+  const question = part && Number.isFinite(qn) ? findQuestion(part, qn) : undefined;
   const article: Article | undefined =
     part && Number.isFinite(qn) ? findArticle(part, qn, aParam) : undefined;
-  const citation = info ? citationOf(info.code, qn, aParam) : key;
+  const appx =
+    question?.appendix != null
+      ? { appendix: question.appendix, appendixNumber: question.appendixNumber ?? 1 }
+      : null;
+  // The stored citation is always correct (e.g. "Suppl. App. I q. 1 a. 2");
+  // fall back to a synthesised one only before the part has loaded.
+  const citation = article?.citation ?? (info ? citationOf(info.code, qn, aParam) : key);
 
   const [nb, setNb] = useState<Neighbors>({ prev: null, next: null });
   const [immersive, setImmersive] = useState(false);
@@ -140,7 +148,7 @@ export function Reader() {
     setImmersive((v) => !v);
   }, []);
 
-  const crumb = info ? readerCrumb(info.header, qn, aParam) : citation;
+  const crumb = info ? readerCrumb(info.header, qn, aParam, appx) : citation;
 
   const body = useMemo(() => {
     if (!article) return null;
@@ -153,7 +161,7 @@ export function Reader() {
           <h1 className="reader__utrum">{article.title}</h1>
         ) : (
           <h1 className="reader__utrum">
-            Articulus {aParam === 'u' ? '' : roman(Number(aParam))}
+            {aParam === 'u' ? 'Articulus unicus' : `Articulus ${roman(Number(aParam))}`}
           </h1>
         )}
 
@@ -282,6 +290,23 @@ export function Reader() {
 
       <div className="reader__scroll" onClick={onBodyClick} role="presentation">
         <article key={key} className="reader__prose reader__prose--in">
+          {part?.compilationNote ? (
+            <p className="reader__source-note reader__source-note--compilation">
+              <strong>Supplementum Tertiae Partis.</strong> {part.compilationNote}
+            </p>
+          ) : null}
+          {article.witness && !part?.compilationNote ? (
+            <p className="reader__source-note">
+              This {aParam === 'u' ? 'question' : 'article'} is absent from the base
+              transcription; its Latin is supplied verbatim from a public-domain
+              secondary witness. See <Link to="/about">About</Link>.
+            </p>
+          ) : null}
+          {article.anomaly ? (
+            <p className="reader__source-note reader__source-note--anomaly">
+              <strong>Editorial note.</strong> {article.anomaly}
+            </p>
+          ) : null}
           {body}
         </article>
       </div>

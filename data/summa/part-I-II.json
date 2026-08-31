@@ -9744,6 +9744,47 @@
           ]
         },
         {
+          "number": 2,
+          "citation": "I-II q. 42 a. 2",
+          "title": "utrum malum naturae sit obiectum timoris",
+          "objections": [
+            {
+              "number": 1,
+              "text": "Ad secundum sic proceditur. Videtur quod timor non sit de malo naturae. Dicit enim philosophus, in II Rhetoric., quod timor consiliativos facit. Non autem consiliamur de his quae a natura eveniunt, ut dicitur in III Ethic. Ergo timor non est de malo naturae."
+            },
+            {
+              "number": 2,
+              "text": "Praeterea, defectus naturales semper homini imminent, ut mors et alia huiusmodi. Si igitur de huiusmodi malis esset timor, oporteret quod homo semper esset in timore."
+            },
+            {
+              "number": 3,
+              "text": "Praeterea, natura non movet ad contraria. Sed malum naturae provenit ex natura. Ergo quod timendo aliquis refugiat huiusmodi malum, non est a natura. Timor ergo naturalis non est de malo naturae; ad quem tamen hoc malum pertinere videtur."
+            }
+          ],
+          "sedContra": [
+            {
+              "number": 1,
+              "text": "Sed contra est quod philosophus dicit, in III Ethic., quod inter omnia terribilissimum est mors, quae est malum naturae."
+            }
+          ],
+          "respondeo": "Respondeo dicendum quod, sicut philosophus dicit in II Rhetoric., timor provenit ex phantasia futuri mali corruptivi vel contristativi. Sicut autem contristativum malum est quod contrariatur voluntati; ita corruptivum malum est quod contrariatur naturae. Et hoc est malum naturae. Unde de malo naturae potest esse timor. Sed considerandum est quod malum naturae quandoque est a causa naturali, et tunc dicitur malum naturae, non solum quia privat naturae bonum, sed etiam quia est effectus naturae; sicut mors naturalis, et alii huiusmodi defectus. Aliquando vero malum naturae provenit ex causa non naturali, sicut mors quae violenter infertur a persecutore. Et utroque modo malum naturae quodammodo timetur, et quodammodo non timetur. Cum enim timor proveniat ex phantasia futuri mali, ut dicit philosophus; illud quod removet futuri mali phantasiam, excludit etiam timorem. Quod autem non appareat aliquod malum ut futurum, potest ex duobus contingere. Uno quidem modo, ex hoc quod est remotum et distans, hoc enim, propter distantiam, imaginamur ut non futurum. Et ideo vel non timemus, vel parum timemus. Ut enim philosophus dicit, in II Rhetoric., quae valde longe sunt non timentur, sciunt enim omnes, quod morientur; sed quia non prope est, nihil curant. Alio modo aestimatur aliquod malum quod est futurum, ut non futurum, propter necessitatem, quae facit ipsum aestimare ut praesens. Unde philosophus dicit, in II Rhetoric., quod illi qui iam decapitantur non timent, videntes sibi necessitatem mortis imminere; sed ad hoc quod aliquis timeat, oportet adesse aliquam spem salutis. Sic igitur malum naturae non timetur, quia non apprehenditur ut futurum. Si vero malum naturae, quod est corruptivum, apprehendatur ut propinquum, et tamen cum aliqua spe evasionis, tunc timebitur.",
+          "replies": [
+            {
+              "objectionNumber": 1,
+              "text": "Ad primum ergo dicendum quod malum naturae quandoque non provenit a natura, ut dictum est. Secundum tamen quod a natura provenit, etsi non ex toto vitari possit, potest tamen differri. Et sub hac spe, potest esse consilium de vitatione ipsius."
+            },
+            {
+              "objectionNumber": 2,
+              "text": "Ad secundum dicendum quod malum naturae, etsi semper immineat, non tamen semper imminet de propinquo. Et ideo non semper timetur."
+            },
+            {
+              "objectionNumber": 3,
+              "text": "Ad tertium dicendum quod mors et alii defectus naturae proveniunt a natura universali, quibus tamen repugnat natura particularis quantum potest. Et sic ex inclinatione particularis naturae, est dolor et tristitia de huiusmodi malis, cum sunt praesentia; et timor, si immineant in futurum."
+            }
+          ],
+          "witness": "corpusthomisticum"
+        },
+        {
           "number": 3,
           "citation": "I-II q. 42 a. 3",
           "title": "utrum timor sit de malo culpae",
@@ -23778,6 +23819,47 @@
               "text": "Ad tertium dicendum quod etiam in his quae ordinant ad Deum, quaedam sunt moralia, quae ipsa ratio fide informata dictat, sicut Deum esse amandum et colendum. Quaedam vero sunt caeremonialia, quae non habent vim obligationis nisi ex institutione divina. Ad Deum autem pertinent non solum sacrificia oblata Deo, sed etiam quaecumque pertinent ad idoneitatem offerentium et Deum colentium. Homines enim ordinantur in Deum sicut in finem, et ideo ad cultum Dei pertinet, et per consequens ad caeremonialia praecepta, quod homo habeat quandam idoneitatem respectu cultus divini. Sed homo non ordinatur ad proximum sicut in finem, ut oporteat eum disponi in seipso in ordine ad proximum, haec enim est comparatio servorum ad dominos, qui id quod sunt, dominorum sunt, secundum philosophum, in I Polit. Et ideo non sunt aliqua praecepta iudicialia ordinantia hominem in seipso, sed omnia talia sunt moralia, quia ratio, quae est principium moralium, se habet in homine respectu eorum quae ad ipsum pertinent, sicut princeps vel iudex in civitate. Sciendum tamen quod, quia ordo hominis ad proximum magis subiacet rationi quam ordo hominis ad Deum, plura praecepta moralia inveniuntur per quae ordinatur homo ad proximum, quam per quae ordinatur ad Deum. Et propter hoc etiam oportuit plura esse caeremonialia in lege quam iudicialia."
             }
           ]
+        },
+        {
+          "number": 2,
+          "citation": "I-II q. 104 a. 2",
+          "title": "utrum sint figuralia",
+          "objections": [
+            {
+              "number": 1,
+              "text": "Ad secundum sic proceditur. Videtur quod praecepta iudicialia non figurent aliquid. Hoc enim videtur esse proprium caeremonialium praeceptorum, quod sint in figuram alicuius rei instituta. Si igitur etiam praecepta iudicialia aliquid figurent, non erit differentia inter iudicialia et caeremonialia praecepta."
+            },
+            {
+              "number": 2,
+              "text": "Praeterea, sicuti illi populo Iudaeorum data sunt quaedam iudicialia praecepta, ita etiam aliis populis gentilium. Sed iudicialia praecepta aliorum populorum non figurant aliquid, sed ordinant quid fieri debeat. Ergo videtur quod neque praecepta iudicialia veteris legis aliquid figurarent."
+            },
+            {
+              "number": 3,
+              "text": "Praeterea, ea quae ad cultum divinum pertinent, figuris quibusdam tradi oportuit, quia ea quae Dei sunt, supra nostram rationem sunt, ut supra dictum est. Sed ea quae sunt proximorum, non excedunt nostram rationem. Ergo per iudicialia, quae ad proximum nos ordinant, non oportuit aliquid figurari."
+            }
+          ],
+          "sedContra": [
+            {
+              "number": 1,
+              "text": "Sed contra est quod Exod. XXI iudicialia praecepta allegorice et moraliter exponuntur."
+            }
+          ],
+          "respondeo": "Respondeo dicendum quod dupliciter contingit aliquod praeceptum esse figurale. Uno modo, primo et per se, quia scilicet principaliter est institutum ad aliquid figurandum. Et hoc modo praecepta caeremonialia sunt figuralia, ad hoc enim sunt instituta, ut aliquid figurent pertinens ad cultum Dei et ad mysterium Christi. Quaedam vero praecepta sunt figuralia non primo et per se, sed ex consequenti. Et hoc modo praecepta iudicialia veteris legis sunt figuralia. Non enim sunt instituta ad aliquid figurandum; sed ad ordinandum statum illius populi secundum iustitiam et aequitatem. Sed ex consequenti aliquid figurabant, inquantum scilicet totus status illius populi, qui per huiusmodi praecepta disponebatur, figuralis erat; secundum illud I ad Cor. X, omnia in figuram contingebant illis.",
+          "replies": [
+            {
+              "objectionNumber": 1,
+              "text": "Ad primum ergo dicendum quod praecepta caeremonialia alio modo sunt figuralia quam iudicialia, ut dictum est."
+            },
+            {
+              "objectionNumber": 2,
+              "text": "Ad secundum dicendum quod populus Iudaeorum ad hoc electus erat a Deo, quod ex eo Christus nasceretur. Et ideo oportuit totum illius populi statum esse propheticum et figuralem, ut Augustinus dicit, contra Faustum. Et propter hoc etiam iudicialia illi populo tradita, magis sunt figuralia quam iudicialia aliis populis tradita. Sicut etiam bella et gesta illius populi exponuntur mystice; non autem bella vel gesta Assyriorum vel Romanorum, quamvis longe clariora secundum homines."
+            },
+            {
+              "objectionNumber": 3,
+              "text": "Ad tertium dicendum quod ordo ad proximum in populo illo, secundum se consideratus, pervius erat rationi. Sed secundum quod referebatur ad cultum Dei, superabat rationem. Et ex hac parte erat figuralis."
+            }
+          ],
+          "witness": "corpusthomisticum"
         },
         {
           "number": 3,
