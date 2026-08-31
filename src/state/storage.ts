@@ -18,6 +18,7 @@ export const KEYS = {
   bookmarks: 'library:bookmarks',
   last: 'library:last',
   expandedAuthors: 'library:expandedAuthors',
+  expandedGroups: 'library:expandedGroups',
   legacyBookmarks: 'summa:bookmarks',
   legacyLast: 'summa:last',
 } as const;
@@ -347,4 +348,41 @@ export function toggleExpandedAuthor(authorId: string): void {
 
 export function useExpandedAuthors(): string[] {
   return useSyncExternalStore(subscribe, getExpandedAuthors, () => []);
+}
+
+// --- Library screen: expanded work-family (per-text dropdown) state ---------
+// Parallel to the expanded-author accordion above, keyed by `authorId/family`.
+// Families default COLLAPSED, so the computed default is simply the empty set
+// and no seeding is required for first paint.
+export function getExpandedGroups(): string[] {
+  return readCached(KEYS.expandedGroups, (raw) => {
+    const list = parseJson<string[]>(raw, []);
+    return Array.isArray(list) ? list.filter((s) => typeof s === 'string') : [];
+  });
+}
+
+/** Whether the user has ever toggled a family (vs. the all-collapsed default). */
+export function expandedGroupsInitialized(): boolean {
+  return rawItem(KEYS.expandedGroups) != null;
+}
+
+/** Persist an explicit set only if the key has never been written. */
+export function seedExpandedGroups(keys: string[]): void {
+  if (rawItem(KEYS.expandedGroups) == null) {
+    write(KEYS.expandedGroups, keys);
+    emit();
+  }
+}
+
+export function toggleExpandedGroup(key: string): void {
+  const cur = getExpandedGroups();
+  const next = cur.includes(key)
+    ? cur.filter((k) => k !== key)
+    : [...cur, key];
+  write(KEYS.expandedGroups, next);
+  emit();
+}
+
+export function useExpandedGroups(): string[] {
+  return useSyncExternalStore(subscribe, getExpandedGroups, () => []);
 }

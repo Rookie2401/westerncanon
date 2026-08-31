@@ -47,8 +47,9 @@ export const WORKS: Work[] = [
   {
     id: 'categoriae-grc',
     authorId: 'aristotle',
-    title: 'Categories',
-    originalScriptTitle: 'Κατηγορίαι',
+    title: 'Κατηγορίαι',
+    commonTitle: 'Categories',
+    group: 'Categories',
     language: 'grc',
     citationScheme: 'bekker-chapter',
     profile: 'generic',
@@ -65,7 +66,9 @@ export const WORKS: Work[] = [
   {
     id: 'categoriae-la',
     authorId: 'aristotle',
-    title: 'Categories',
+    title: 'Categoriae',
+    commonTitle: 'Categories',
+    group: 'Categories',
     language: 'la',
     citationScheme: 'chapter',
     profile: 'generic',
@@ -80,8 +83,9 @@ export const WORKS: Work[] = [
   {
     id: 'de-interpretatione-grc',
     authorId: 'aristotle',
-    title: 'De Interpretatione',
-    originalScriptTitle: 'Περὶ ἑρμηνείας',
+    title: 'Περὶ ἑρμηνείας',
+    commonTitle: 'On Interpretation',
+    group: 'De Interpretatione',
     language: 'grc',
     citationScheme: 'bekker-chapter',
     profile: 'generic',
@@ -99,6 +103,7 @@ export const WORKS: Work[] = [
     id: 'de-interpretatione-la',
     authorId: 'aristotle',
     title: 'De Interpretatione',
+    group: 'De Interpretatione',
     language: 'la',
     citationScheme: 'chapter',
     profile: 'generic',
@@ -113,8 +118,9 @@ export const WORKS: Work[] = [
   {
     id: 'isagoge-grc',
     authorId: 'porphyry',
-    title: 'Isagoge',
-    originalScriptTitle: 'Εἰσαγωγή',
+    title: 'Εἰσαγωγή',
+    commonTitle: 'Isagoge',
+    group: 'Isagoge',
     language: 'grc',
     citationScheme: 'busse',
     profile: 'generic',
@@ -132,6 +138,7 @@ export const WORKS: Work[] = [
     id: 'isagoge-la',
     authorId: 'porphyry',
     title: 'Isagoge',
+    group: 'Isagoge',
     language: 'la',
     citationScheme: 'section',
     profile: 'generic',
@@ -156,6 +163,65 @@ export function workById(id: string): Work | undefined {
 
 export function worksByAuthor(authorId: string): Work[] {
   return WORKS.filter((w) => w.authorId === authorId);
+}
+
+/**
+ * A single edition that stands alone in the Library list (no `group`, or the
+ * only member of its group under this author).
+ */
+export interface SingleWorkEntry {
+  kind: 'single';
+  work: Work;
+}
+
+/**
+ * A work-family: two or more of an author's editions of the same text,
+ * collapsed under one dropdown row in the Library.
+ */
+export interface WorkFamilyEntry {
+  kind: 'family';
+  /** Conventional English family name, e.g. "Categories". */
+  family: string;
+  /** Persistence key for the family's open/closed state: `authorId/family`. */
+  key: string;
+  works: Work[];
+}
+
+export type WorkListEntry = SingleWorkEntry | WorkFamilyEntry;
+
+/**
+ * An author's works with same-text editions collapsed into families.
+ * Registry array order is preserved: a family appears at the position of its
+ * first member. A group with only one member renders as a plain `single`.
+ */
+export function groupedWorksByAuthor(authorId: string): WorkListEntry[] {
+  const works = worksByAuthor(authorId);
+  const groupSize = new Map<string, number>();
+  for (const w of works) {
+    if (w.group) groupSize.set(w.group, (groupSize.get(w.group) ?? 0) + 1);
+  }
+
+  const out: WorkListEntry[] = [];
+  const families = new Map<string, WorkFamilyEntry>();
+  for (const w of works) {
+    if (!w.group || (groupSize.get(w.group) ?? 0) < 2) {
+      out.push({ kind: 'single', work: w });
+      continue;
+    }
+    let fam = families.get(w.group);
+    if (!fam) {
+      fam = {
+        kind: 'family',
+        family: w.group,
+        key: `${authorId}/${w.group}`,
+        works: [],
+      };
+      families.set(w.group, fam);
+      out.push(fam);
+    }
+    fam.works.push(w);
+  }
+  return out;
 }
 
 /**

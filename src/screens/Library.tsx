@@ -1,15 +1,18 @@
 import { Link } from 'react-router-dom';
 import {
   authorsSorted,
+  groupedWorksByAuthor,
   workById,
-  worksByAuthor,
 } from '../library/registry.ts';
+import type { Work } from '../library/types.ts';
 import {
   expandedAuthorsInitialized,
   refHref,
   seedExpandedAuthors,
   toggleExpandedAuthor,
+  toggleExpandedGroup,
   useExpandedAuthors,
+  useExpandedGroups,
   useLast,
 } from '../state/storage.ts';
 import {
@@ -18,6 +21,15 @@ import {
   BookmarkIcon,
   ChevronIcon,
 } from '../components/icons.tsx';
+
+function WorkLink({ work }: { work: Work }) {
+  return (
+    <Link to={`/work/${work.id}`} className="home__entry">
+      <span className="home__entry-name">{work.title}</span>
+      <span className="library__work-meta">{work.meta}</span>
+    </Link>
+  );
+}
 
 export function Library() {
   const last = useLast();
@@ -38,6 +50,11 @@ export function Library() {
     if (!initialized) seedExpandedAuthors(effective);
     toggleExpandedAuthor(id);
   };
+
+  // Work-family dropdowns: default collapsed, so the open set is just whatever
+  // the user has explicitly opened.
+  const openGroups = useExpandedGroups();
+  const isGroupOpen = (key: string) => openGroups.includes(key);
 
   return (
     <main className="page home library">
@@ -75,7 +92,7 @@ export function Library() {
       <div className="library__authors">
         {authors.map((a) => {
           const open = isOpen(a.id);
-          const works = worksByAuthor(a.id);
+          const entries = groupedWorksByAuthor(a.id);
           return (
             <section key={a.id} className="library__author">
               <button
@@ -94,16 +111,36 @@ export function Library() {
               </button>
               {open ? (
                 <nav className="home__list library__works">
-                  {works.map((w) => (
-                    <Link
-                      key={w.id}
-                      to={`/work/${w.id}`}
-                      className="home__entry"
-                    >
-                      <span className="home__entry-name">{w.title}</span>
-                      <span className="library__work-meta">{w.meta}</span>
-                    </Link>
-                  ))}
+                  {entries.map((e) =>
+                    e.kind === 'single' ? (
+                      <WorkLink key={e.work.id} work={e.work} />
+                    ) : (
+                      <div key={e.key} className="library__group">
+                        <button
+                          type="button"
+                          className="library__group-head"
+                          aria-expanded={isGroupOpen(e.key)}
+                          onClick={() => toggleExpandedGroup(e.key)}
+                        >
+                          <ChevronIcon
+                            className={
+                              isGroupOpen(e.key)
+                                ? 'library__chev library__chev--open'
+                                : 'library__chev'
+                            }
+                          />
+                          <span className="library__group-name">{e.family}</span>
+                        </button>
+                        {isGroupOpen(e.key) ? (
+                          <div className="library__group-works">
+                            {e.works.map((w) => (
+                              <WorkLink key={w.id} work={w} />
+                            ))}
+                          </div>
+                        ) : null}
+                      </div>
+                    ),
+                  )}
                 </nav>
               ) : null}
             </section>

@@ -30,8 +30,21 @@ export interface WorkSource {
 export interface Work {
   id: string;
   authorId: string;
+  /** Displayed title, in the work's own language, e.g. "Κατηγορίαι". */
   title: string;
-  originalScriptTitle?: string;
+  /**
+   * Conventional English name, shown as a subtitle wherever `title` is not
+   * English (Work screen `<h1>` sub-line). Omitted when `title` is already the
+   * conventional English name.
+   */
+  commonTitle?: string;
+  /**
+   * Work-family name (conventional English), used by the Library to collapse an
+   * author's multiple editions of the same text under one dropdown. Editions
+   * that share a `group` under the same author are grouped; a lone member
+   * renders as a plain link.
+   */
+  group?: string;
   language: Lang;
   citationScheme: string;
   profile: WorkProfile;

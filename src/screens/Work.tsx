@@ -45,9 +45,9 @@ export function WorkScreen() {
         <Breadcrumbs items={crumbs} />
         <div className="screen-head">
           <h1 className="screen-head__title">{work.title}</h1>
-          {work.originalScriptTitle ? (
+          {work.commonTitle ? (
             <p className="home__subtitle" style={{ marginTop: '0.2rem' }}>
-              {work.originalScriptTitle}
+              {work.commonTitle}
             </p>
           ) : null}
           <p className="crumb" style={{ marginTop: '0.4rem' }}>

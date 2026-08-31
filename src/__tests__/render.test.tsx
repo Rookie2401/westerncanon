@@ -36,7 +36,8 @@ afterEach(() => cleanup());
 afterAll(() => vi.unstubAllGlobals());
 
 describe('Library', () => {
-  it('renders the LIBRARY heading, all authors in chronological order, and work meta', () => {
+  it('renders the LIBRARY heading, all authors in chronological order, and collapsed work-families', () => {
+    localStorage.clear();
     render(
       <MemoryRouter>
         <Library />
@@ -48,9 +49,6 @@ describe('Library', () => {
     const aristotle = screen.getByText('Aristotle');
     const porphyry = screen.getByText('Porphyry');
     const thomas = screen.getByText('Thomas Aquinas');
-    expect(aristotle).toBeTruthy();
-    expect(porphyry).toBeTruthy();
-    expect(thomas).toBeTruthy();
     // Aristotle (sortYear -384) precedes Porphyry (234) precedes Thomas (1225).
     expect(
       aristotle.compareDocumentPosition(porphyry) &
@@ -61,23 +59,38 @@ describe('Library', () => {
         Node.DOCUMENT_POSITION_FOLLOWING,
     ).toBeTruthy();
 
-    expect(screen.getByText('Greek · Busse')).toBeTruthy();
-    // Isagoge (la) + Categories (la) + De Interpretatione (la).
-    expect(screen.getAllByText('Latin · trans. Boethius').length).toBe(3);
+    // Authors expand by default; multi-edition texts collapse under a family
+    // row labelled with the conventional English name.
+    expect(screen.getByText('Categories')).toBeTruthy();
+    expect(screen.getByText('De Interpretatione')).toBeTruthy();
+    expect(screen.getByText('Isagoge')).toBeTruthy();
+
+    // Collapsed families hide their editions and the per-edition meta lines.
+    expect(screen.queryByText('Greek · Bekker')).toBeNull();
+    expect(screen.queryByText('Greek · Busse')).toBeNull();
+    expect(screen.queryAllByText('Latin · trans. Boethius').length).toBe(0);
+
+    // The Summa is the sole Aquinas edition -> a direct link, not a dropdown.
+    const summa = screen.getByRole('link', { name: /Summa Theologiae/ });
+    expect(summa.getAttribute('href')).toBe('/work/summa-theologiae');
     expect(screen.getByText('Latin')).toBeTruthy();
-    // Aristotle's two Greek works.
-    expect(screen.getAllByText('Greek · Bekker').length).toBe(2);
-    // Each Aristotle title now appears twice (Greek + Latin).
-    expect(screen.getAllByText('Categories').length).toBe(2);
-    expect(screen.getAllByText('De Interpretatione').length).toBe(2);
   });
 
-  it('orders Aristotle’s works Categories (grc, la) then De Interpretatione (grc, la)', () => {
+  it('orders Aristotle’s families Categories then De Interpretatione, each Greek edition before Latin', () => {
+    localStorage.clear();
     render(
       <MemoryRouter>
         <Library />
       </MemoryRouter>,
     );
+    const cat = screen.getByRole('button', { name: 'Categories' });
+    const deint = screen.getByRole('button', { name: 'De Interpretatione' });
+    expect(
+      cat.compareDocumentPosition(deint) & Node.DOCUMENT_POSITION_FOLLOWING,
+    ).toBeTruthy();
+
+    fireEvent.click(cat);
+    fireEvent.click(deint);
     const hrefs = Array.from(
       document.querySelectorAll('a.home__entry'),
     ).map((a) => a.getAttribute('href'));
@@ -90,6 +103,66 @@ describe('Library', () => {
     expect(idx('/work/de-interpretatione-grc')).toBeLessThan(
       idx('/work/de-interpretatione-la'),
     );
+  });
+});
+
+describe('Library — per-text families', () => {
+  it('keeps a family collapsed by default, then expands it to both editions with their native titles', () => {
+    localStorage.clear();
+    render(
+      <MemoryRouter>
+        <Library />
+      </MemoryRouter>,
+    );
+
+    const cat = screen.getByRole('button', { name: 'Categories' });
+    expect(cat.getAttribute('aria-expanded')).toBe('false');
+    expect(screen.queryByText('Κατηγορίαι')).toBeNull();
+    expect(screen.queryByText('Categoriae')).toBeNull();
+
+    fireEvent.click(cat);
+    expect(cat.getAttribute('aria-expanded')).toBe('true');
+    const grc = screen.getByRole('link', { name: /Κατηγορίαι/ });
+    const la = screen.getByRole('link', { name: /Categoriae/ });
+    expect(grc.getAttribute('href')).toBe('/work/categoriae-grc');
+    expect(la.getAttribute('href')).toBe('/work/categoriae-la');
+    expect(screen.getByText('Greek · Bekker')).toBeTruthy();
+    expect(screen.getByText('Latin · trans. Boethius')).toBeTruthy();
+  });
+
+  it('renders a single-edition work as a direct link with no dropdown', () => {
+    localStorage.clear();
+    render(
+      <MemoryRouter>
+        <Library />
+      </MemoryRouter>,
+    );
+    expect(
+      screen.queryByRole('button', { name: 'Summa Theologiae' }),
+    ).toBeNull();
+    const summa = screen.getByRole('link', { name: /Summa Theologiae/ });
+    expect(summa.getAttribute('href')).toBe('/work/summa-theologiae');
+  });
+
+  it('persists an open family across a remount via library:expandedGroups', () => {
+    localStorage.clear();
+    const { unmount } = render(
+      <MemoryRouter>
+        <Library />
+      </MemoryRouter>,
+    );
+    fireEvent.click(screen.getByRole('button', { name: 'Isagoge' }));
+    expect(
+      JSON.parse(localStorage.getItem('library:expandedGroups') ?? '[]'),
+    ).toContain('porphyry/Isagoge');
+
+    unmount();
+    render(
+      <MemoryRouter>
+        <Library />
+      </MemoryRouter>,
+    );
+    expect(screen.getByRole('link', { name: /Εἰσαγωγή/ })).toBeTruthy();
   });
 });
 
@@ -251,11 +324,13 @@ describe('GenericReader (Isagoge / Greek)', () => {
     expect(document.querySelector('.gr-passage__ref')).toBeNull();
   });
 
-  it('back pill targets the Work, is labelled with the work title, and is not inside .reader__chrome', async () => {
+  it('back pill targets the Work, is labelled with the native work title, and is not inside .reader__chrome', async () => {
     renderAt('de-genere');
-    const back = await screen.findByRole('link', { name: /back to isagoge/i });
+    const back = await screen.findByRole('link', { name: /back to Εἰσαγωγή/i });
     expect(back.getAttribute('href')).toMatch(/\/work\/isagoge-grc$/);
-    expect(back.textContent).toContain('ISAGOGE');
+    // Back pill shows the native title (upper-cased), not the English name.
+    expect(back.textContent).toContain('Εἰσαγωγή'.toUpperCase());
+    expect(back.textContent).not.toMatch(/ISAGOGE/);
     expect(back.closest('.reader__chrome')).toBeNull();
   });
 
@@ -374,6 +449,21 @@ describe('Aristotle — Categories (Greek) Work screen', () => {
     expect(screen.getAllByText('ed.').length).toBe(2);
     // the digital Greek source has no Bekker refs, so no ref chip renders
     expect(document.querySelector('.work__ref')).toBeNull();
+  });
+
+  it('shows the native title as the <h1> with the English common title beneath', async () => {
+    render(
+      <MemoryRouter initialEntries={['/work/categoriae-grc']}>
+        <Routes>
+          <Route path="/work/:workId" element={<WorkScreen />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+    const h1 = await screen.findByRole('heading', { level: 1 });
+    expect(h1.textContent).toBe('Κατηγορίαι');
+    // English "common" name is the small sub-line, not the heading.
+    const common = screen.getByText('Categories');
+    expect(common.tagName).not.toBe('H1');
   });
 });
 
@@ -719,11 +809,11 @@ describe('Library accordion', () => {
         <Library />
       </MemoryRouter>,
     );
-    // Default: expanded, so a Porphyry work is visible.
-    expect(screen.getByText('Greek · Busse')).toBeTruthy();
+    // Default: Porphyry expanded, so its "Isagoge" family row is visible.
+    expect(screen.getByText('Isagoge')).toBeTruthy();
     const porphyryToggle = screen.getByRole('button', { name: /Porphyry/i });
     fireEvent.click(porphyryToggle);
-    expect(screen.queryByText('Greek · Busse')).toBeNull();
+    expect(screen.queryByText('Isagoge')).toBeNull();
     // Thomas is unaffected.
     expect(screen.getByText('Latin')).toBeTruthy();
   });

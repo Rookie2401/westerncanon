@@ -1065,6 +1065,34 @@ body {
   transform: rotate(90deg);
 }
 
+/* work-family dropdown — one indent level below the author, same quiet chrome */
+.library__group {
+  border-bottom: 1px solid var(--rule);
+}
+.library__group-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  width: 100%;
+  text-align: left;
+  padding: 0.85rem 0.6rem 0.85rem 1.5rem;
+  color: var(--ink);
+  transition: color 0.15s;
+}
+.library__group-head:hover {
+  text-decoration: none;
+  color: var(--accent);
+}
+.library__group-name {
+  font-size: 1.1rem;
+}
+.library__group-works {
+  padding-left: 1.5rem;
+}
+.library__group-works .home__entry:last-child {
+  border-bottom: none;
+}
+
 /* "About this text" — the per-work colophon entry, set apart at the list foot. */
 .work__about-entry {
   margin-top: 0.4rem;
