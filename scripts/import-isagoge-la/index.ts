@@ -195,6 +195,29 @@ function main(): void {
       "Passage.ref are null throughout; the citation scheme for this work is 'section' " +
       '(division number + paragraph number).',
   });
+  anomalies.push({
+    where: 'isagoge-la / division scheme',
+    note:
+      'Divided as praefatio + 26 capitula. The reference edition for the Latin division is Aristoteles ' +
+      'Latinus I.6-7 (ed. Minio-Paluello & Dod, 1966, pp. 5-31), which was NOT available to re-collate for ' +
+      'this build. Two witnesses that were checked - Busse\'s Greek capitula (CAG IV.1) and a Busse-paginated ' +
+      'text of Boethius\' translation - both use the same praefatio+26 scheme, so it is retained. A "24-section" ' +
+      'division was queried but is not corroborated by the available witnesses.',
+  });
+  anomalies.push({
+    where: 'isagoge-la / capitula wording',
+    note:
+      'The Latin capitula follow this recension\'s wording (e.g. "De communitatibus generis et differentiae", ' +
+      '"De differentiis generis et differentiae", "De communibus proprii et inseparabilis accidentis"). Busse\'s ' +
+      'parallel Latin prints "De communibus ..."/"De propriis ..." without "inseparabilis". These are editorial ' +
+      'headings in every edition; wording kept verbatim as transmitted.',
+  });
+  anomalies.push({
+    where: 'isagoge-la / orthography',
+    note:
+      'No u/v or i/j regularisation. "De genere" para 3 reads "uniuscujusque" (j) where the rest of the text ' +
+      'has "uniuscuiusque"; the source inconsistency is preserved verbatim.',
+  });
 
   // --- write outputs -----------------------------------------------------
   const work: GenericWork = {

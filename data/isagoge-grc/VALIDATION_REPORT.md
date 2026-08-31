@@ -1,6 +1,6 @@
 # Isagoge validation report - isagoge-grc
 
-Generated: 2026-08-31T00:55:51.420Z
+Generated: 2026-08-31T04:56:29.749Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -51,6 +51,8 @@ Sibling work `isagoge-la` has 27 divisions / 120 passages; division id sets MATC
 
 - OK - praefatio passage 1 starts "Ὄντος ἀναγκαίου, Χρυσαόριε,"
   - got: `Ὄντος ἀναγκαίου, Χρυσαόριε, καὶ εἰς τὴν τῶν παρὰ Ἀριστοτέλει`
+- OK - final division (sec-xxvi) ends "ἀλλ᾿ ἐξαρκοῦσι καὶ αὗται εἰς διάκρισίν τε αὐτῶν καὶ τῆς κοινωνίας παράστασιν."
+  - got: `ὶ αὗται εἰς διάκρισίν τε αὐτῶν καὶ τῆς κοινωνίας παράστασιν.`
 
 ## Anomalies (preserved, not corrected)
 
@@ -59,6 +61,7 @@ Sibling work `isagoge-la` has 27 divisions / 120 passages; division id sets MATC
 - **isagoge-grc / reading text** - 22 <note type="footnote"> apparatus-criticus notes were dropped from the reading text.
 - **isagoge-grc / reading text** - 31 <note type="marginal"> notes carrying Brandis pagination (older standard, e.g. 1a Brand., 1a, 1b, 1b, 1b, 2a ...) were stripped from the reading text. Busse pagination is canonical here and the two are not conflated.
 - **isagoge-grc / reading text** - The First1KGreek transcription of Busse's text contains uncorrected OCR-level irregularities (e.g. stray vertical bars "|", stray capitals, misspellings such as 'ἐπναβεβηκὸς', 'Κοτνὸν', 'κινεὶσθαι'). All are preserved verbatim; none were corrected.
+- **isagoge-grc / character encoding** - The source uses the precomposed "oxia" polytonic code points (U+1F71/1F73/1F75/1F77/1F79/1F7B/1F7D) rather than the canonically-equivalent monotonic "tonos" code points (U+03AC etc.). Bytes are kept verbatim: no combining-mark sequences, no accent/breathing loss, canonically equivalent to NFC. No normalisation applied.
 
 ## Errors
 

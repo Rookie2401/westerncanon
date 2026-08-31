@@ -34,6 +34,9 @@ interface Anomaly {
 /** substrings that indicate leaked transport markup (never legitimate reading text) */
 const LEAK_MARKERS = ['&amp;', '&lt;', '&gt;', '{{', '}}', '[[', ']]', '<ref', '</ref', 'http://', 'https://', 'xmlns', '</p>', '<div', '<note', '<lb ', '<pb '];
 
+/** apparatus-criticus / editorial-metadata tokens that must never reach the reading flow */
+const APPARATUS_MARKERS = ['Brand.', 'superscr', 'in ras.', ' codd.', 'colloc.', 'TextQuality', '{{titulus'];
+
 function walkTexts(divisions: Division[], visit: (s: string, where: string) => void): void {
   for (const d of divisions) {
     if (d.sourceHeading != null) visit(d.sourceHeading, `${d.id}/sourceHeading`);
@@ -62,6 +65,10 @@ function validateWork(opts: {
   expectLang: 'grc' | 'la';
   refExpectation: 'busse-page' | 'null';
   spotStart: string;
+  /** verbatim tail of the final division's last passage — guards against truncation */
+  spotEnd: string;
+  /** exact division count expected (praefatio + numbered capitula) */
+  expectDivisions: number;
 }): WorkReport {
   const findings: Finding[] = [];
   const err = (check: string, m: string) => findings.push({ level: 'ERROR', check, message: m });
@@ -102,6 +109,11 @@ function validateWork(opts: {
 
   const divisions = work.divisions ?? [];
   report.divisionCount = divisions.length;
+
+  // ---- division count (praefatio + 26 numbered capitula) ----
+  if (divisions.length !== opts.expectDivisions) {
+    err('division-count', `expected exactly ${opts.expectDivisions} divisions, got ${divisions.length}`);
+  }
 
   // ---- division id set + order ----
   const ids = divisions.map((d) => d.id);
@@ -171,11 +183,30 @@ function validateWork(opts: {
   // ---- leaked markup ----
   const leaks: string[] = [];
   walkTexts(divisions, (s, where) => {
-    for (const marker of LEAK_MARKERS) {
+    for (const marker of [...LEAK_MARKERS, ...APPARATUS_MARKERS]) {
       if (s.includes(marker)) leaks.push(`${where}: contains ${JSON.stringify(marker)}`);
     }
   });
   if (leaks.length) err('no-leaked-markup', `${leaks.length} string(s) contain transport markup:\n    ${leaks.slice(0, 10).join('\n    ')}`);
+
+  // ---- Unicode form: polytonic Greek must stay precomposed (no NFD) ----
+  let combiningHits = 0;
+  const isCombiningCp = (cp: number): boolean =>
+    (cp >= 0x0300 && cp <= 0x036f) ||
+    (cp >= 0x1ab0 && cp <= 0x1aff) ||
+    (cp >= 0x1dc0 && cp <= 0x1dff) ||
+    (cp >= 0x20d0 && cp <= 0x20ff) ||
+    (cp >= 0xfe20 && cp <= 0xfe2f);
+  const hasCombining = (s: string): boolean => {
+    for (const ch of s) if (isCombiningCp(ch.codePointAt(0) ?? 0)) return true;
+    return false;
+  };
+  walkTexts(divisions, (s) => {
+    if (hasCombining(s)) combiningHits += 1;
+  });
+  if (combiningHits > 0) {
+    err('no-combining-marks', `${combiningHits} string(s) contain standalone combining diacritics (expected precomposed characters, no NFD)`);
+  }
 
   // ---- editorial angle-bracket supplements (WARN, must have an anomaly) ----
   const angleHits: string[] = [];
@@ -198,6 +229,15 @@ function validateWork(opts: {
   const ok = p1.normalize('NFC').startsWith(opts.spotStart.normalize('NFC'));
   report.spotCheck.push({ label: `praefatio passage 1 starts "${opts.spotStart}"`, ok, got: p1.slice(0, 60) });
   if (!ok) err('spot-check', `praefatio passage 1 does not start with ${JSON.stringify(opts.spotStart)} (got: ${JSON.stringify(p1.slice(0, 60))})`);
+
+  // ---- explicit / no truncation: final division's last passage tail ----
+  const lastDiv = divisions[divisions.length - 1];
+  const lastP = lastDiv?.passages[lastDiv.passages.length - 1]?.text ?? '';
+  const endOk = lastP.normalize('NFC').endsWith(opts.spotEnd.normalize('NFC'));
+  report.spotCheck.push({ label: `final division (${lastDiv?.id}) ends "${opts.spotEnd}"`, ok: endOk, got: lastP.slice(-60) });
+  if (!endOk) {
+    err('spot-end', `final division last passage does not end with ${JSON.stringify(opts.spotEnd)} — possible truncation (got tail: ${JSON.stringify(lastP.slice(-60))})`);
+  }
 
   // ---- ref scheme note + grc-specific accounting ----
   if (opts.refExpectation === 'null') {
@@ -274,6 +314,9 @@ function main(): void {
     expectLang: 'grc',
     refExpectation: 'busse-page',
     spotStart: 'Ὄντος ἀναγκαίου, Χρυσαόριε,',
+    // Isagoge, closing sentence (Busse p. 22).
+    spotEnd: 'ἀλλ᾿ ἐξαρκοῦσι καὶ αὗται εἰς διάκρισίν τε αὐτῶν καὶ τῆς κοινωνίας παράστασιν.',
+    expectDivisions: 27,
   });
   const la = validateWork({
     workId: 'isagoge-la',
@@ -281,14 +324,20 @@ function main(): void {
     expectLang: 'la',
     refExpectation: 'null',
     spotStart: 'Cum sit necessarium, Chrysaori,',
+    // Boethius' translation, closing sentence.
+    spotEnd: 'sed sufficiunt etiam, haec ad discretionem eorum communitatisque traditionem.',
+    expectDivisions: 27,
   });
 
-  // cross-work: identical division id sets
+  // cross-work: the grc and la division id sequences currently align 1:1 (both
+  // follow praefatio + 26 capitula). This is a convenience, not a requirement —
+  // the reader handles independent division trees — so a mismatch is a WARNING.
   const grcIds = grc.perDivision.map((d) => d.id);
   const laIds = la.perDivision.map((d) => d.id);
   if (JSON.stringify(grcIds) !== JSON.stringify(laIds)) {
-    grc.findings.push({ level: 'ERROR', check: 'cross-work-ids', message: 'grc and la division id sequences differ' });
-    la.findings.push({ level: 'ERROR', check: 'cross-work-ids', message: 'grc and la division id sequences differ' });
+    const msg = 'grc and la division id sequences differ (allowed: the two editions may divide independently)';
+    grc.findings.push({ level: 'WARN', check: 'cross-work-ids', message: msg });
+    la.findings.push({ level: 'WARN', check: 'cross-work-ids', message: msg });
   }
 
   writeReport(grc, la);

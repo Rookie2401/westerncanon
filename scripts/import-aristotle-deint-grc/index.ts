@@ -171,6 +171,19 @@ function main(): void {
     where: `${WORK_ID} / empty <p>`,
     note: `${totalEmptyP} <p> element(s) were empty after stripping transport markup and were skipped (no reading text dropped).`,
   });
+  anomalies.push({
+    where: `${WORK_ID} / character encoding`,
+    note:
+      'The source uses the precomposed "oxia" polytonic code points (U+1F71 etc.) rather than the ' +
+      'canonically-equivalent monotonic "tonos" code points (U+03AC etc.). Bytes are kept verbatim: no ' +
+      'combining-mark sequences, no accent/breathing loss, canonically equivalent to NFC. No normalisation applied.',
+  });
+  anomalies.push({
+    where: `${WORK_ID} / completeness`,
+    note:
+      `All ${EXPECTED_CHAPTERS} chapters present and in order; reading text is byte-for-byte identical to the ` +
+      `First1KGreek <p> paragraphs (transport scaffolding removed). Final chapter ends "…ὑπάρχειν τῷ αὐτῷ." (Bekker ${BEKKER_SPAN}).`,
+  });
 
   // --- write outputs -----------------------------------------------------
   const work: GenericWork = { workId: WORK_ID, language: 'grc', divisions };

@@ -70,6 +70,8 @@ interface WorkSpec {
   chapters: readonly ChapterMeta[];
   bekkerSpan: string;
   spotStart: string;
+  /** Verbatim tail of the final chapter's last passage — guards against truncation. */
+  spotEnd: string;
 }
 
 const WORKS: WorkSpec[] = [
@@ -78,12 +80,16 @@ const WORKS: WorkSpec[] = [
     chapters: CATEGORIES_CHAPTERS,
     bekkerSpan: '1a1–15b33',
     spotStart: 'ὉΜΩΝΥΜΑ λέγεται ὧν ὄνομα μόνον κοινόν',
+    // Categories, end of ch. 15 (Bekker 15b32–33).
+    spotEnd: 'οἱ δὲ εἰωθότες λέγεσθαι σχεδὸν ἅπαντες κατηρίθμηνται.',
   },
   {
     workId: 'de-interpretatione-grc',
     chapters: DE_INTERPRETATIONE_CHAPTERS,
     bekkerSpan: '16a1–24b9',
     spotStart: 'ΠΡΩΤΟΝ δεῖ θέσθαι τί ὄνομα καὶ τί ῥῆμα',
+    // De Interpretatione, end of ch. 14 (Bekker 24b8–9).
+    spotEnd: 'ἅμα δὲ οὐκ ἐνδέχεται τὰ ἐναντία ὑπάρχειν τῷ αὐτῷ.',
   },
 ];
 
@@ -195,11 +201,50 @@ function validateWork(spec: WorkSpec): WorkReport {
     err('ref-downgrade-note', 'anomalies.json must record the by-chapter reference downgrade (no Bekker milestones in the digital source)');
   }
 
-  // ---- spot check (NFC-insensitive) ----
+  // ---- spot check: incipit (NFC-insensitive) ----
   const p1 = divisions[0]?.passages[0]?.text ?? '';
   const ok = p1.normalize('NFC').startsWith(spec.spotStart.normalize('NFC'));
   report.spotCheck.push({ label: `ch-1 passage[0] starts "${spec.spotStart}"`, ok, got: p1.slice(0, 60) });
   if (!ok) err('spot-check', `ch-1 passage[0] does not start with ${JSON.stringify(spec.spotStart)} (got: ${JSON.stringify(p1.slice(0, 60))})`);
+
+  // ---- spot check: explicit / no truncation (NFC-insensitive) ----
+  const lastDiv = divisions[divisions.length - 1];
+  const lastP = lastDiv?.passages[lastDiv.passages.length - 1]?.text ?? '';
+  const endOk = lastP.normalize('NFC').endsWith(spec.spotEnd.normalize('NFC'));
+  report.spotCheck.push({ label: `final chapter (${lastDiv?.id}) ends "${spec.spotEnd}"`, ok: endOk, got: lastP.slice(-60) });
+  if (!endOk) {
+    err(
+      'spot-end',
+      `final chapter last passage does not end with ${JSON.stringify(spec.spotEnd)} — possible truncation (got tail: ${JSON.stringify(lastP.slice(-60))})`,
+    );
+  }
+
+  // ---- Unicode form: no decomposed combining marks; every char stays a single
+  //      code point under NFC (rules out NFD creeping in). The source's use of
+  //      precomposed "oxia" code points instead of canonical "tonos" is allowed:
+  //      that is a 1:1 canonical-equivalent swap and loses no diacritic. ----
+  let combiningHits = 0;
+  // Combining Diacritical Marks and its extension/supplement blocks. Written as
+  // \u escapes so the class contains no attached combining glyphs of its own.
+  const isCombiningCp = (cp: number): boolean =>
+    (cp >= 0x0300 && cp <= 0x036f) ||
+    (cp >= 0x1ab0 && cp <= 0x1aff) ||
+    (cp >= 0x1dc0 && cp <= 0x1dff) ||
+    (cp >= 0x20d0 && cp <= 0x20ff) ||
+    (cp >= 0xfe20 && cp <= 0xfe2f);
+  const hasCombining = (s: string): boolean => {
+    for (const ch of s) if (isCombiningCp(ch.codePointAt(0) ?? 0)) return true;
+    return false;
+  };
+  walkTexts(divisions, (s) => {
+    if (hasCombining(s)) combiningHits += 1;
+  });
+  if (combiningHits > 0) {
+    err(
+      'no-combining-marks',
+      `${combiningHits} string(s) contain standalone combining diacritics — polytonic Greek must stay precomposed (no NFD)`,
+    );
+  }
 
   return report;
 }

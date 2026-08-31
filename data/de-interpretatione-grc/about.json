@@ -44,10 +44,12 @@
     {
       "heading": "Known gaps & anomalies",
       "paragraphs": [
+        "Completeness. All 14 chapters are present and in order, from the capitalised incipit to the end of the final chapter (Bekker 16a1–24b9). The imported reading text is byte-for-byte identical to the First1KGreek transcription of the <p> paragraphs with transport scaffolding removed; no paragraph is dropped, merged or reordered, and the bundled TEI file itself is identical to the current First1KGreek release.",
         "Reference downgrade. The work spans Bekker 16a1–24b9 in the standard pagination, but the digital source marks chapter divisions only; all page/column/line reference fields are left null and citation is by chapter.",
         "Work title in chapter 1. The <head> element inside chapter 1 (\"ΠΕΡΙ ΕΡΜΗΝΕΙΑΣ.\") is the title of the whole work, not a chapter heading; it is recorded here but is not stored as a chapter sourceHeading (every Greek chapter sourceHeading is null).",
         "Page-image breaks and section milestones. The <pb> markers (1837 Oxford Opera page images) and the per-chapter <milestone unit=\"section\"> markers were dropped from the reading text as transport scaffolding.",
-        "Capitalised incipit. The opening word of the work is set in full capitals in the source transcription and is preserved verbatim."
+        "Capitalised incipit. The opening word of the work is set in full capitals in the source transcription and is preserved verbatim.",
+        "Character encoding. The transcription uses the precomposed \"oxia\" polytonic code points (e.g. U+1F73  έ) rather than the canonically-equivalent monotonic \"tonos\" code points (U+03AD). The bytes are preserved exactly as transmitted: they carry every accent and breathing, contain no combining-mark sequences, and are canonically equivalent to NFC. No normalisation was applied."
       ]
     }
   ]

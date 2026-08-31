@@ -1,6 +1,6 @@
 # Aristotle validation report - categoriae-grc
 
-Generated: 2026-08-31T01:54:26.635Z
+Generated: 2026-08-31T04:56:30.849Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -37,6 +37,8 @@ Companion Greek work `de-interpretatione-grc`: 14 divisions / 40 passages.
 
 - OK - ch-1 passage[0] starts "ὉΜΩΝΥΜΑ λέγεται ὧν ὄνομα μόνον κοινόν"
   - got: `ὉΜΩΝΥΜΑ λέγεται ὧν ὄνομα μόνον κοινόν, ὁ δὲ κατὰ τοὔνομα λόγ`
+- OK - final chapter (ch-15) ends "οἱ δὲ εἰωθότες λέγεσθαι σχεδὸν ἅπαντες κατηρίθμηνται."
+  - got: `ρόποι· οἱ δὲ εἰωθότες λέγεσθαι σχεδὸν ἅπαντες κατηρίθμηνται.`
 
 ## Anomalies (preserved, not corrected)
 
@@ -44,6 +46,8 @@ Companion Greek work `de-interpretatione-grc`: 14 divisions / 40 passages.
 - **categoriae-grc / ch-1 head** - the <head> in chapter 1 ("ΚΑΤΗΓΟΡΙΑΙ.") is the work title, not a chapter heading; it is not stored as sourceHeading (every Greek chapter sourceHeading is null).
 - **categoriae-grc / ch-1 incipit** - chapter 1 opens with the all-caps word "ὉΜΩΝΥΜΑ" in the source transcription; preserved verbatim.
 - **categoriae-grc / empty <p>** - 0 <p> element(s) were empty after stripping transport markup and were skipped (no reading text dropped).
+- **categoriae-grc / character encoding** - The source uses the precomposed "oxia" polytonic code points (U+1F71 etc.) rather than the canonically-equivalent monotonic "tonos" code points (U+03AC etc.). Bytes are kept verbatim: no combining-mark sequences, no accent/breathing loss, canonically equivalent to NFC. No normalisation applied.
+- **categoriae-grc / completeness** - All 15 chapters present and in order; reading text is byte-for-byte identical to the First1KGreek <p> paragraphs (transport scaffolding removed). Final chapter ends "…κατηρίθμηνται." (Bekker 1a1–15b33).
 
 ## Errors
 

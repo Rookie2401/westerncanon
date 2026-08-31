@@ -274,6 +274,13 @@ function main(): void {
       `irregularities (e.g. stray vertical bars "|", stray capitals, misspellings such as ` +
       `'ἐπναβεβηκὸς', 'Κοτνὸν', 'κινεὶσθαι'). All are preserved verbatim; none were corrected.`,
   });
+  anomalies.push({
+    where: 'isagoge-grc / character encoding',
+    note:
+      `The source uses the precomposed "oxia" polytonic code points (U+1F71/1F73/1F75/1F77/1F79/1F7B/1F7D) ` +
+      `rather than the canonically-equivalent monotonic "tonos" code points (U+03AC etc.). Bytes are kept ` +
+      `verbatim: no combining-mark sequences, no accent/breathing loss, canonically equivalent to NFC. No normalisation applied.`,
+  });
 
   // --- write outputs -----------------------------------------------------
   const work: GenericWork = {

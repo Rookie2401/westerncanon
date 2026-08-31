@@ -46,15 +46,18 @@ export const GRC_ABOUT_SECTIONS: AboutSection[] = [
   {
     heading: 'Reference scheme',
     paragraphs: [
+      'Division scheme: the work is divided exactly as in Busse’s edition — a praefatio followed by twenty-six numbered capitula (I–XXVI), each introduced by its verbatim Περὶ-heading (Περὶ γένους … Περὶ τῆς διαφορᾶς τῶν αὐτῶν). This is the same praefatio-plus-26 scheme used for the companion Latin translation; the two division trees are aligned for convenience but each edition follows its own source.',
       'References are given at Busse page level ("Busse p. N", or a range "Busse pp. A–B" for a division). Line-level references were attempted but abandoned: the digital source’s embedded line markers are duplicated (each line number appears twice) and run non-monotonically around the section headings, which makes per-line citation unreliable.',
     ],
   },
   {
     heading: 'Known gaps & anomalies',
     paragraphs: [
+      'Completeness. All 27 divisions are present; the text runs verbatim from the praefatio incipit ("Ὄντος ἀναγκαίου, Χρυσαόριε …") to Busse’s closing sentence on p. 22 ("… καὶ τῆς κοινωνίας παράστασιν."). The imported reading text is byte-for-byte identical to the First1KGreek transcription with only apparatus and marginal notes removed; nothing is dropped, merged or reordered.',
       'Section XII. The printed heading reads "Περὶ τῆς διαφορᾶς τοῦ γένους καὶ τοῦ ἰδίιου." The form ἰδίιου (for ἰδίου) is a misprint in the source; it is kept exactly as printed.',
       'Apparatus. Twenty-two apparatus-criticus footnotes carried in the TEI were removed from the reading text.',
       'Older pagination. Thirty-one marginal notes carrying Brandis pagination (the reference standard that preceded Busse, e.g. "1a Brand.") were removed from the reading text. Busse pagination is canonical here and the two systems are never mixed.',
+      'Character encoding. The transcription uses the precomposed "oxia" polytonic code points (e.g. U+1F73  έ) rather than the canonically-equivalent monotonic "tonos" code points (U+03AD). The bytes are preserved exactly as transmitted: they carry every accent and breathing, contain no combining-mark sequences, and are canonically equivalent to NFC. No normalisation was applied.',
       'Transcription quality. The First1KGreek transcription of Busse’s text contains uncorrected OCR-level irregularities — stray vertical bars, stray capitals, and occasional misspellings such as ἐπναβεβηκὸς, Κοτνὸν and κινεὶσθαι. Every one of these is preserved verbatim; none has been corrected or conjecturally emended.',
     ],
   },
@@ -78,7 +81,14 @@ export const LA_ABOUT_SECTIONS: AboutSection[] = [
   {
     heading: 'The edition',
     paragraphs: [
-      'The paragraph text and its numbering follow M. Dal Pra’s edition of the Boethian translation (1969). This work carries no Busse pagination and no line numbers; its citation scheme is section plus paragraph — for example "§ I ¶ 4".',
+      'The paragraph text and its numbering follow M. Dal Pra’s edition of the Boethian translation (1969), as transcribed on Latin Wikisource. This work carries no Busse pagination and no line numbers; its citation scheme is section plus paragraph — for example "§ I ¶ 4".',
+      'Division scheme: a preface followed by twenty-six capitula — the five predicables (genus, species, differentia, proprium, accidens), the chapter on features common to all five, and twenty paired "common / distinctive" comparison chapters. The standing reference edition for the Latin division is Aristoteles Latinus I.6–7, ed. L. Minio-Paluello with B. G. Dod (Bruges–Paris, 1966), pp. 5–31. That volume was not available to re-collate against for this build; two independent witnesses that were consulted — Busse’s Greek capitula (CAG IV.1, 1887) and a Busse-paginated text of Boethius’ translation — both divide into the same preface-plus-26 scheme, so that scheme is used here. If Aristoteles Latinus is later collated and divides the translation differently (for example into fewer chapters), this is the division that would be revised.',
+    ],
+  },
+  {
+    heading: 'Reference scheme',
+    paragraphs: [
+      'Citation is by section and paragraph (e.g. "§ I ¶ 4"). This witness carries no Busse page numbers and no line numbers, so every page/line reference field is null. The division ids are shared with the Greek text for convenient side-by-side reading, but the two editions are treated as independent and may divide differently.',
     ],
   },
   {
@@ -97,7 +107,11 @@ export const LA_ABOUT_SECTIONS: AboutSection[] = [
   {
     heading: 'Known gaps & anomalies',
     paragraphs: [
+      'Completeness. All 27 divisions are present; the text runs verbatim from "Cum sit necessarium, Chrysaori …" to the closing "… communitatisque traditionem." The imported reading text is identical to the Wikisource transcription with only wiki scaffolding ({{titulus2}} template, the leading <center> block, and the printed paragraph numbers) removed; nothing is dropped, merged or reordered.',
+      'Chapter rubrics. The Latin capitula follow the wording of this recension — for example "De communitatibus generis et differentiae", "De differentiis generis et differentiae", "De communibus proprii et inseparabilis accidentis". Busse’s parallel Latin prints slightly different rubrics ("De communibus …", "De propriis …", without "inseparabilis"). In every edition these capitula are editorial headings, not part of Boethius’ running translation; the wording is kept exactly as transmitted by the source.',
+      'Section count. An earlier query asked whether the Latin should carry 24 sections rather than 26. The witnesses available for this build do not support a 24-section division; the preface-plus-26 scheme (which also matches the Greek) is used. See "The edition" above.',
       'Section II, paragraph 2 contains the angle-bracket supplement <quod>. This is an editorial addition printed in the edition, not stray markup, and it is kept verbatim.',
+      'Orthography. Spelling is left exactly as transmitted, with no u/v or i/j regularisation. In "De genere" paragraph 3 the source reads "uniuscujusque" with a j where the rest of the text has "uniuscuiusque"; this inconsistency is preserved.',
       'A few paragraphs carry no printed number in the source — one each in sections III, IV, XIII and XXIII. Those passages are stored with an empty paragraph number.',
       'This source has no Busse or line numbering, so every page/line reference field is empty; cite by section and paragraph.',
     ],
