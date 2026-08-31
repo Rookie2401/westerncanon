@@ -1,6 +1,6 @@
 # Aristotle validation report - de-interpretatione-grc
 
-Generated: 2026-08-31T04:56:30.850Z
+Generated: 2026-08-31T05:18:35.458Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -30,7 +30,9 @@ Generated: 2026-08-31T04:56:30.850Z
 | 12 | ch-13 | 13 | - | 12 | 5030 |
 | 13 | ch-14 | 14 | - | 1 | 4202 |
 
-Companion Greek work `categoriae-grc`: 15 divisions / 66 passages.
+Companion work `categoriae-grc`: 15 divisions / 66 passages; division id sets DIFFER.
+Companion work `categoriae-la`: 15 divisions / 99 passages; division id sets DIFFER.
+Companion work `de-interpretatione-la`: 14 divisions / 50 passages; division id sets MATCH 1:1.
 
 ## Verbatim spot-check
 

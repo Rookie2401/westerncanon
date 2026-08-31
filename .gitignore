@@ -24,7 +24,9 @@ public/summa/
 public/isagoge-grc/
 public/isagoge-la/
 public/categoriae-grc/
+public/categoriae-la/
 public/de-interpretatione-grc/
+public/de-interpretatione-la/
 
 # The source XML IS committed (scripts/import-summa/raw/xml_latin_nl.xml) as the
 # single bundled copy. If it ever needs to be removed, re-download with:

@@ -62,12 +62,34 @@ describe('Library', () => {
     ).toBeTruthy();
 
     expect(screen.getByText('Greek · Busse')).toBeTruthy();
-    expect(screen.getByText('Latin · trans. Boethius')).toBeTruthy();
+    // Isagoge (la) + Categories (la) + De Interpretatione (la).
+    expect(screen.getAllByText('Latin · trans. Boethius').length).toBe(3);
     expect(screen.getByText('Latin')).toBeTruthy();
-    // Aristotle's two Greek-only works.
+    // Aristotle's two Greek works.
     expect(screen.getAllByText('Greek · Bekker').length).toBe(2);
-    expect(screen.getByText('Categories')).toBeTruthy();
-    expect(screen.getByText('De Interpretatione')).toBeTruthy();
+    // Each Aristotle title now appears twice (Greek + Latin).
+    expect(screen.getAllByText('Categories').length).toBe(2);
+    expect(screen.getAllByText('De Interpretatione').length).toBe(2);
+  });
+
+  it('orders Aristotle’s works Categories (grc, la) then De Interpretatione (grc, la)', () => {
+    render(
+      <MemoryRouter>
+        <Library />
+      </MemoryRouter>,
+    );
+    const hrefs = Array.from(
+      document.querySelectorAll('a.home__entry'),
+    ).map((a) => a.getAttribute('href'));
+    const idx = (h: string) => hrefs.indexOf(h);
+    expect(idx('/work/categoriae-grc')).toBeGreaterThanOrEqual(0);
+    expect(idx('/work/categoriae-grc')).toBeLessThan(idx('/work/categoriae-la'));
+    expect(idx('/work/categoriae-la')).toBeLessThan(
+      idx('/work/de-interpretatione-grc'),
+    );
+    expect(idx('/work/de-interpretatione-grc')).toBeLessThan(
+      idx('/work/de-interpretatione-la'),
+    );
   });
 });
 
@@ -473,6 +495,219 @@ describe('Aristotle — Categories About page', () => {
       screen.getByText('Citation here is by chapter; the digital source carries no Bekker line markers.'),
     ).toBeTruthy();
     expect(screen.getByText('CC BY-SA 4.0 (First1KGreek).')).toBeTruthy();
+  });
+});
+
+describe('Aristotle — Categories (Latin, trans. Boethius) Work screen', () => {
+  const CAT_LA_WORK: GenericWork = {
+    workId: 'categoriae-la',
+    language: 'la',
+    divisions: [
+      {
+        id: 'ch-1',
+        number: '1',
+        ref: null,
+        sourceHeading: null,
+        editorialTitle: 'Homonyms, Synonyms, and Paronyms',
+        children: [],
+        passages: [
+          { n: '', text: 'Aequiuoca dicuntur quorum nomen solum commune est.', ref: null },
+        ],
+      },
+      {
+        id: 'ch-5',
+        number: '5',
+        ref: null,
+        sourceHeading: 'DE SUBSTANTIA',
+        editorialTitle: 'Substance',
+        children: [],
+        passages: [{ n: '', text: 'Substantia autem est quae proprie dicitur.', ref: null }],
+      },
+    ],
+  };
+
+  beforeEach(() => {
+    vi.stubGlobal('fetch', async (input: unknown) => {
+      const url = String(input);
+      if (url.includes('categoriae-la/work.json')) {
+        return {
+          ok: true,
+          status: 200,
+          json: async () => CAT_LA_WORK,
+          text: async () => JSON.stringify(CAT_LA_WORK),
+        } as Response;
+      }
+      throw new Error(`unexpected fetch in test: ${url}`);
+    });
+  });
+  afterEach(() => installCorpusFetch());
+
+  it('lists the chapters with editorial titles (flagged "ed."), the verbatim Latin rubric, and no ref chip', async () => {
+    render(
+      <MemoryRouter initialEntries={['/work/categoriae-la']}>
+        <Routes>
+          <Route path="/work/:workId" element={<WorkScreen />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+    expect(await screen.findByText('Homonyms, Synonyms, and Paronyms')).toBeTruthy();
+    expect(screen.getByText('Substance')).toBeTruthy();
+    expect(screen.getByText('§ 1')).toBeTruthy();
+    expect(screen.getByText('§ 5')).toBeTruthy();
+    expect(screen.getByText('English section titles are editorial.')).toBeTruthy();
+    expect(screen.getAllByText('ed.').length).toBe(2);
+    // Latin Wikisource source carries no Bekker refs -> no ref chip
+    expect(document.querySelector('.work__ref')).toBeNull();
+  });
+});
+
+describe('Aristotle — De Interpretatione (Latin, trans. Boethius) reader', () => {
+  const DEINT_LA_WORK: GenericWork = {
+    workId: 'de-interpretatione-la',
+    language: 'la',
+    divisions: [
+      {
+        id: 'ch-1',
+        number: '1',
+        ref: null,
+        sourceHeading: null,
+        editorialTitle: 'Spoken and Written Signs; Truth and Falsity in Combination',
+        children: [],
+        passages: [
+          { n: '', text: 'Primum oportet constituere quid sit nomen et quid uerbum.', ref: null },
+        ],
+      },
+      {
+        id: 'ch-2',
+        number: '2',
+        ref: null,
+        sourceHeading: 'DE NOMINE',
+        editorialTitle: 'The Noun',
+        children: [],
+        passages: [
+          { n: '', text: 'Nomen ergo est uox significatiua secundum placitum sine tempore.', ref: null },
+          {
+            n: '',
+            text: "in 'equiferus' <'ferus'>. \"Secundum placitum\" uero.",
+            ref: null,
+            anomaly:
+              "editorial angle-bracket supplement <'ferus'> printed in the edition, kept verbatim (not markup)",
+          },
+        ],
+      },
+    ],
+  };
+
+  beforeEach(() => {
+    vi.stubGlobal('fetch', async (input: unknown) => {
+      const url = String(input);
+      if (url.includes('de-interpretatione-la/work.json')) {
+        return {
+          ok: true,
+          status: 200,
+          json: async () => DEINT_LA_WORK,
+          text: async () => JSON.stringify(DEINT_LA_WORK),
+        } as Response;
+      }
+      throw new Error(`unexpected fetch in test: ${url}`);
+    });
+  });
+  afterEach(() => installCorpusFetch());
+
+  it('renders verbatim Latin with no lang tag, no grc prose class, no per-passage marker, and working prev/next', async () => {
+    render(
+      <MemoryRouter initialEntries={['/read/de-interpretatione-la/ch-2']}>
+        <Routes>
+          <Route path="/read/:workId/:divId" element={<GenericReader />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+    expect(
+      await screen.findByText(
+        'Nomen ergo est uox significatiua secundum placitum sine tempore.',
+      ),
+    ).toBeTruthy();
+    // verbatim Latin rubric as the section heading
+    expect(screen.getByText('DE NOMINE')).toBeTruthy();
+    // editorial supplement kept verbatim in the reading text + shown as an anomaly note
+    expect(
+      screen.getByText("in 'equiferus' <'ferus'>. \"Secundum placitum\" uero."),
+    ).toBeTruthy();
+    expect(
+      screen.getByText(/editorial angle-bracket supplement <'ferus'>/),
+    ).toBeTruthy();
+    // Latin must NOT be language-tagged (EB Garamond locl u->v / j->i guard) and
+    // must not get the Greek prose class.
+    expect(document.querySelector('.reader__prose--grc')).toBeNull();
+    expect(document.querySelector('[lang="la"]')).toBeNull();
+    expect(document.querySelector('.reader__prose')?.hasAttribute('lang')).toBe(
+      false,
+    );
+    // no per-passage marker markup
+    expect(document.querySelector('.gr-passage__ref')).toBeNull();
+    // prev goes to ch-1
+    const prev = screen.getByRole('link', { name: /§ 1/i });
+    expect(prev.getAttribute('href')).toMatch(
+      /\/read\/de-interpretatione-la\/ch-1$/,
+    );
+  });
+});
+
+describe('Aristotle — Categories (Latin) About page', () => {
+  const ABOUT: WorkAbout = {
+    workId: 'categoriae-la',
+    title: 'Categories',
+    author: 'Aristotle',
+    language: 'la',
+    translator: 'Boethius',
+    provenance: 'Latin Wikisource, page "Categoriae" (pageid 1453).',
+    license: 'Boethius’s translation public domain; transcription CC BY-SA 4.0 (Wikisource).',
+    sections: [
+      {
+        heading: 'Aristotle’s Categories — Latin, trans. Boethius',
+        paragraphs: ['This is Aristotle’s Categories in the sixth-century Boethian version.'],
+      },
+      {
+        heading: 'Known gaps & anomalies',
+        paragraphs: ['Chapter 10 prints the editorial lacuna mark "<...>" at three points.'],
+      },
+    ],
+  };
+
+  beforeEach(() => {
+    vi.stubGlobal('fetch', async (input: unknown) => {
+      const url = String(input);
+      if (url.includes('categoriae-la/about.json')) {
+        return {
+          ok: true,
+          status: 200,
+          json: async () => ABOUT,
+          text: async () => JSON.stringify(ABOUT),
+        } as Response;
+      }
+      throw new Error(`unexpected fetch in test: ${url}`);
+    });
+  });
+  afterEach(() => installCorpusFetch());
+
+  it('renders the "in the Latin translation of Boethius" line and the prose sections', async () => {
+    render(
+      <MemoryRouter initialEntries={['/work/categoriae-la/about']}>
+        <Routes>
+          <Route path="/work/:workId/about" element={<WorkAboutScreen />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+    expect(
+      await screen.findByText('Aristotle’s Categories — Latin, trans. Boethius'),
+    ).toBeTruthy();
+    expect(
+      screen.getByText(/in the Latin translation of Boethius/),
+    ).toBeTruthy();
+    expect(screen.getByText('Known gaps & anomalies')).toBeTruthy();
+    expect(
+      screen.getByText('Chapter 10 prints the editorial lacuna mark "<...>" at three points.'),
+    ).toBeTruthy();
   });
 });
 

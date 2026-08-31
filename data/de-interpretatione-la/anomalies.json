@@ -1,0 +1,42 @@
+[
+  {
+    "where": "de-interpretatione-la / ch-2 / passage 0",
+    "note": "contains editorial angle-bracket supplement <'ferus'> from the edition; kept verbatim (not markup). Mirrors the <quod> supplement in isagoge-la."
+  },
+  {
+    "where": "de-interpretatione-la / ch-10 / passage 12",
+    "note": "contains editorial angle-bracket supplement <'est aliquod animal iustum'> from the edition; kept verbatim (not markup). Mirrors the <quod> supplement in isagoge-la."
+  },
+  {
+    "where": "de-interpretatione-la / ch-11 / passage 1",
+    "note": "contains editorial angle-bracket supplement <albus, et> from the edition; kept verbatim (not markup). Mirrors the <quod> supplement in isagoge-la."
+  },
+  {
+    "where": "de-interpretatione-la / ch-13 / passage 2",
+    "note": "contains editorial angle-bracket supplement <im> from the edition; kept verbatim (not markup). Mirrors the <quod> supplement in isagoge-la."
+  },
+  {
+    "where": "de-interpretatione-la / refs",
+    "note": "This source carries no Bekker page/column/line numbers and no line numbering. Division.ref and Passage.ref are null throughout and Passage.n is \"\" throughout; citation is by chapter (plus the editorial English chapter title). In the standard pagination the De Interpretatione occupies Bekker 16a1–24b9."
+  },
+  {
+    "where": "de-interpretatione-la / orthography",
+    "note": "Classical Latin orthography as transmitted: consonantal u is written u, not v (uerbum, uox, uero, diuisione). Single quotation marks around cited terms ('homo', 'album', 'hircoceruus') and the double-hyphen dashes (\"--\") are the edition's punctuation. Kept verbatim — no u/v or i/j regularisation and no spelling normalisation."
+  },
+  {
+    "where": "de-interpretatione-la / wiki transport",
+    "note": "Removed as wiki-transport scaffolding (no reading text touched): {{Textquality|25%}}, {{titulus2 …}}, </div> + trailing interwiki links."
+  },
+  {
+    "where": "de-interpretatione-la / editorial supplements",
+    "note": "The edition prints editorial angle-bracket supplements, kept verbatim (not markup): ch-2 (<'ferus'>); ch-10 (<'est aliquod animal iustum'>); ch-11 (<albus, et>); ch-13 (<im>). Each supplies words the editor judged implied; this mirrors the <quod> supplement in isagoge-la."
+  },
+  {
+    "where": "de-interpretatione-la / ch-14 transcription slips",
+    "note": "Chapter 14 contains apparent single-letter transcription slips, preserved verbatim and NOT corrected: \"contraria ent\" (evidently for \"contraria erit\"); \"bonum est nel quoniam\" (evidently for \"… uel quoniam\"). No conjectural emendation is applied."
+  },
+  {
+    "where": "de-interpretatione-la / chapter rubrics",
+    "note": "Chapters 2, 3, 4 print a verbatim Latin rubric (DE NOMINE, DE VERBO, DE ORATIONE), stored verbatim as Division.sourceHeading. Chapters 1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 print no rubric (sourceHeading null). These capitula are editorial in the tradition, not part of Boethius' running translation."
+  }
+]

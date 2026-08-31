@@ -1,0 +1,54 @@
+{
+  "workId": "de-interpretatione-la",
+  "title": "De Interpretatione",
+  "author": "Aristotle",
+  "language": "la",
+  "translator": "Boethius",
+  "provenance": "Latin Wikisource, page \"De interpretatione\" (pageid 1454), fetched once via the MediaWiki action=parse&prop=wikitext API; imported by scripts/import-aristotle-deint-la. The raw dump is committed at scripts/import-aristotle-deint-la/raw/deinterpretatione-wikisource.json.",
+  "license": "Boethius’s Latin translation is itself in the public domain (early 6th century). The digital transcription is taken from Latin Wikisource and is available under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Aristotle’s De Interpretatione — Latin, trans. Boethius",
+      "paragraphs": [
+        "This is Aristotle’s De Interpretatione (\"Perihermenias\") in the Latin translation made by Anicius Manlius Severinus Boethius in the early sixth century. It was through this version — not the Greek — that the treatise was read, taught and commented on across the Latin Middle Ages, alongside Porphyry’s Isagoge in the same translator’s Latin.",
+        "The text here is the Latin, verbatim. Nothing is translated further, modernised, normalised or silently corrected. Where the source is irregular the irregularity is preserved and noted below. It is Boethius — not \"Boetheus\"."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Latin Wikisource does not record which printed edition its transcription of the \"De interpretatione\" page follows. The wording is that of the vulgate Boethian translation — the text edited by L. Minio-Paluello in the Aristoteles Latinus series (Categoriae: AL I.1–5, 1961; De interpretatione: AL II.1–2, 1965) — but that critical edition was not available to collate against for this build, so no editor or edition is asserted in the metadata.",
+        "The work is divided into its 14 traditional chapters, the same division as the companion Greek text; 3 of the 14 chapters additionally carry a short Latin rubric (for example \"DE SUBSTANTIA\"), which is kept verbatim as the chapter’s source heading. In the standard pagination the work occupies Bekker 16a1–24b9; those page/column/line numbers are not present in this source (see \"Reference scheme\")."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the wikitext of the Latin Wikisource page \"De interpretatione\", retrieved once through the MediaWiki action=parse&prop=wikitext API and committed under the importer’s raw/ directory. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer strips the wiki-transport scaffolding only — the {{TextQuality}} banner, the {{titulus2}} metadata template, {{finis}}, the <div class=\"text\"> wrapper and the trailing interwiki links — then splits the body at the \"== [NN] ==\" chapter headings (asserting exactly 14) and takes the blank-line-separated blocks inside each chapter as its passages. Entities are decoded and runs of whitespace collapsed; the words, spelling and punctuation are otherwise untouched. There is no preface division: chapter 1 is the first thing after the scaffolding.",
+        "Each chapter also carries an English chapter title. These titles are editorial: they are not part of the source text and are marked \"ed.\" wherever they appear. They are shared with the Greek sibling so the two line up 1:1."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by chapter (plus the editorial English chapter title, and the verbatim Latin rubric where the source prints one). This source carries no Bekker page/column/line milestones and no line numbers, so every Division.ref and Passage.ref is null and every Passage.n is the empty string. Per-chapter and per-line Bekker references are not derivable from it and are not fabricated."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 14 chapters are present and in order, verbatim from the incipit (\"Primum oportet constituere quid sit nomen et quid uerbum…\") to the explicit (\"… simul autem eidem non contingit inesse contraria.\"). No paragraph is dropped, merged or reordered; the bundled raw dump is identical to the Latin Wikisource page as retrieved.",
+        "Editorial supplements. The edition prints four editorial angle-bracket supplements, kept verbatim (not markup) and shown in the reader as anomaly notes: <'ferus'> in chapter 2, <'est aliquod animal iustum'> in chapter 10, <albus, et> in chapter 11, and <im> in chapter 13 (in \"'<im>possibile esse'\"). Each supplies words the editor judged implied; this mirrors the <quod> supplement in the Latin Isagoge.",
+        "Chapter 14 transcription slips. Chapter 14 contains two apparent single-letter transcription slips — \"contraria ent\" (for \"contraria erit\") and \"bonum est nel quoniam\" (for \"… uel quoniam\"). Both are preserved verbatim and flagged; no conjectural emendation is applied.",
+        "Page-quality tag. The trailing Wikisource {{Textquality|25%}} tag was stripped as transport scaffolding.",
+        "Orthography. Spelling is left exactly as transmitted: classical consonantal u is written u, not v (Aequiuoca, uerbum, uero); there is no u/v or i/j regularisation. Single quotation marks around cited terms and the double-hyphen dashes are the edition’s punctuation, kept verbatim."
+      ]
+    }
+  ]
+}

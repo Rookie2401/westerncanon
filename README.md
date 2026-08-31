@@ -16,7 +16,9 @@ declares a `profile`:
 | Author | Work | Profile | Source |
 |--------|------|---------|--------|
 | Aristotle (384–322 BC) | *Categories* — Greek | generic | Bekker 1837, via First1KGreek TEI |
+| Aristotle | *Categories* — Latin, trans. Boethius | generic | Latin Wikisource ("Categoriae") |
 | Aristotle | *De Interpretatione* — Greek | generic | Bekker 1837, via First1KGreek TEI |
+| Aristotle | *De Interpretatione* — Latin, trans. Boethius | generic | Latin Wikisource ("De interpretatione") |
 | Porphyry (c. 234–305) | *Isagoge* — Greek | generic | Busse 1887, via First1KGreek TEI |
 | Porphyry | *Isagoge* — Latin, trans. Boethius | generic | ed. Dal Pra 1969, via Latin Wikisource |
 | Thomas Aquinas (1225–1274) | *Summa Theologiae* | summa | aggregated transcription (see below) |
@@ -55,8 +57,10 @@ with the network disconnected.
 | `npm run import:isagoge-la` | regenerate `data/isagoge-la/*` from the bundled Wikisource dump (dev-only) |
 | `npm run validate:isagoge` | validate both Isagoge works, write their `VALIDATION_REPORT.md` |
 | `npm run import:aristotle-categoriae-grc` | regenerate `data/categoriae-grc/*` from the bundled TEI (dev-only) |
+| `npm run import:aristotle-categoriae-la` | regenerate `data/categoriae-la/*` from the bundled Wikisource dump (dev-only) |
 | `npm run import:aristotle-deint-grc` | regenerate `data/de-interpretatione-grc/*` from the bundled TEI (dev-only) |
-| `npm run validate:aristotle` | validate both Aristotle works, write their `VALIDATION_REPORT.md` |
+| `npm run import:aristotle-deint-la` | regenerate `data/de-interpretatione-la/*` from the bundled Wikisource dump (dev-only) |
+| `npm run validate:aristotle` | validate all four Aristotle works, write their `VALIDATION_REPORT.md` |
 
 ## Isagoge data (`data/isagoge-grc/`, `data/isagoge-la/`)
 
@@ -79,14 +83,24 @@ works), the prose "About the text" bodies, and the cross-validator.
   (page level — the digital source's line markers proved unreliable); the Latin
   has no Busse numbers and cites by section + paragraph.
 
-Aristotle's *Categories* and *De Interpretatione* (Greek only) follow the same
-pattern: importers under `scripts/import-aristotle-categoriae-grc/` and
-`scripts/import-aristotle-deint-grc/` (raw First1KGreek TEI committed under
-each), a shared `scripts/import-aristotle-shared/` (chapter table, About prose,
-validator), and output under `data/categoriae-grc/` and
-`data/de-interpretatione-grc/`. The digital Greek source marks chapter
-divisions only — no Bekker page/line numbers — so those works are cited by
-chapter (plus an editorial English chapter title marked "ed.").
+Aristotle's *Categories* and *De Interpretatione* follow the same pattern, each
+in two independent Works: Greek importers under
+`scripts/import-aristotle-categoriae-grc/` and `scripts/import-aristotle-deint-grc/`
+(raw First1KGreek TEI committed under each), and Latin importers under
+`scripts/import-aristotle-categoriae-la/` and `scripts/import-aristotle-deint-la/`
+(raw Latin Wikisource `action=parse` dump committed under each). A shared
+`scripts/import-aristotle-shared/` holds the 15- / 14-entry chapter tables
+(identical ids across each grc/la pair), the Latin-Wikisource parser, the About
+prose, and the four-work validator; output lands under `data/categoriae-grc/`,
+`data/categoriae-la/`, `data/de-interpretatione-grc/`,
+`data/de-interpretatione-la/`. Neither the Greek TEI nor the Latin Wikisource
+source carries Bekker page/line numbers, so all four works are cited by chapter
+(plus an editorial English chapter title marked "ed."; the Latin also keeps the
+verbatim Latin rubric — e.g. "DE SUBSTANTIA" — where the source prints one).
+The Latin is verbatim: consonantal *u* is not changed to *v*, editorial
+angle-bracket supplements (`<'ferus'>`) and lacuna marks (`<...>`) are kept and
+flagged, and the two U+FFFD line-wrap artefacts in the Latin *Categoriae* ch. 10
+are the only characters repaired.
 
 ## Summa data (`data/summa/`)
 
@@ -130,11 +144,12 @@ scripts/import-isagoge-grc/ Greek Isagoge importer + raw/ TEI (committed)
 scripts/import-isagoge-la/  Latin Isagoge importer + raw/ Wikisource dump (committed)
 scripts/import-isagoge-shared/  section table, About prose, cross-validator
 scripts/import-aristotle-categoriae-grc/, -deint-grc/   Aristotle Greek importers + raw/ TEI (committed)
-scripts/import-aristotle-shared/  chapter table, About prose, validator
+scripts/import-aristotle-categoriae-la/, -deint-la/     Aristotle Latin importers + raw/ Wikisource dump (committed)
+scripts/import-aristotle-shared/  chapter tables, Latin-Wikisource parser, About prose, validator
 data/summa/                clean JSON, committed, bundled with the app
 data/isagoge-grc/, data/isagoge-la/   work.json + about.json + reports, committed
-data/categoriae-grc/, data/de-interpretatione-grc/   same, committed
-public/summa/, public/isagoge-*/      copied here at dev/build time (gitignored)
+data/categoriae-grc/, -la/, data/de-interpretatione-grc/, -la/   same, committed
+public/summa/, public/isagoge-*/, public/categoriae-*/, public/de-interpretatione-*/   copied here at dev/build time (gitignored)
 src/                        app UI (React + HashRouter)
   library/                 universal model: types, registry (Author/Work), generic
                            corpus loader + division traversal, Summa adapter, generic search

@@ -1,9 +1,10 @@
 # Putting the Library on your iPhone (PWA — no App Store, no Xcode)
 
 The app is a fully offline Progressive Web App — a small classical-text
-**Library** (currently Aristotle's *Categories* and *De Interpretatione* in
-Greek; Porphyry's *Isagoge* in Greek and in Boethius's Latin; and the *Summa
-Theologiae*). Once it has loaded once over HTTPS, the whole
+**Library** (currently Aristotle's *Categories* and *De Interpretatione*, each
+in Greek and in Boethius's Latin; Porphyry's *Isagoge* in Greek and in
+Boethius's Latin; and the *Summa Theologiae*). Once it has loaded once over
+HTTPS, the whole
 corpus (~25 MB) and the app are cached on the phone and it runs with no
 network — launched from a home‑screen icon, full screen, no Safari chrome.
 
@@ -69,11 +70,17 @@ A or B for the actual home‑screen install.
 
 Turn on **Airplane Mode**, open the app from the home screen, then:
 
-- Library → **Aristotle** (the first row, above Porphyry) → **Categories** → a
-  chapter → the reader shows polytonic Greek, with no per-passage marker; the
-  section header and prev/next stay intact.
-- Repeat for **De Interpretatione** — both are Greek only, and Aristotle
-  appears **above** Porphyry in the Library list.
+- Library → **Aristotle** (the first row, above Porphyry) → **Categories**
+  (Greek) → a chapter → the reader shows polytonic Greek, with no per-passage
+  marker; the section header and prev/next stay intact.
+- Library → **Aristotle → Categories** (Latin · trans. Boethius) → a chapter →
+  the reader shows the Latin (with the verbatim rubric, e.g. DE SUBSTANTIA,
+  where the source prints one, and an "ed." English title); no per-passage
+  marker; prev/next moves between chapters. Chapter 10 shows the flagged
+  `<...>` lacuna notes.
+- Repeat both for **De Interpretatione**. Under Aristotle the order is
+  Categories (Greek, Latin) then De Interpretatione (Greek, Latin), and
+  Aristotle appears **above** Porphyry in the Library list.
 - Library → **Porphyry → Isagoge (Greek)** → a section → the reader shows the
   Greek text in the bundled polytonic serif; the back pill (‹ ISAGOGE) stays
   visible after a tap into immersive mode; prev/next moves between sections.

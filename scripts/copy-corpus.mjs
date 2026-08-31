@@ -35,7 +35,9 @@ const GENERIC_DIRS = [
   'isagoge-grc',
   'isagoge-la',
   'categoriae-grc',
+  'categoriae-la',
   'de-interpretatione-grc',
+  'de-interpretatione-la',
 ];
 const GENERIC_FILES = ['work.json', 'about.json'];
 

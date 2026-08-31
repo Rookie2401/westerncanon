@@ -24,6 +24,8 @@
     "scripts/**/*.ts",
     "data/summa/**/*.ts",
     "data/isagoge-grc/**/*.ts",
-    "data/isagoge-la/**/*.ts"
+    "data/isagoge-la/**/*.ts",
+    "data/categoriae-la/**/*.ts",
+    "data/de-interpretatione-la/**/*.ts"
   ]
 }

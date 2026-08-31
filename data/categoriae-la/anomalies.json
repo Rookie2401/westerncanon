@@ -1,0 +1,42 @@
+[
+  {
+    "where": "categoriae-la / ch-10 / passage 10",
+    "note": "the edition prints the editorial lacuna mark \"<...>\" here (1×); it marks text that is defective/omitted in this witness. Kept verbatim; nothing is supplied (no fabrication)."
+  },
+  {
+    "where": "categoriae-la / ch-10 / passage 12",
+    "note": "the edition prints the editorial lacuna mark \"<...>\" here (1×); it marks text that is defective/omitted in this witness. Kept verbatim; nothing is supplied (no fabrication)."
+  },
+  {
+    "where": "categoriae-la / ch-10 / passage 14",
+    "note": "the edition prints the editorial lacuna mark \"<...>\" here (1×); it marks text that is defective/omitted in this witness. Kept verbatim; nothing is supplied (no fabrication)."
+  },
+  {
+    "where": "categoriae-la / refs",
+    "note": "This source carries no Bekker page/column/line numbers and no line numbering. Division.ref and Passage.ref are null throughout and Passage.n is \"\" throughout; citation is by chapter (plus the editorial English chapter title). In the standard pagination the Categoriae occupies Bekker 1a1–15b33."
+  },
+  {
+    "where": "categoriae-la / orthography",
+    "note": "Classical Latin orthography as transmitted: consonantal u is written u, not v (Aequiuoca, uero, diuersa, uniuoca, denominatiua). Single quotation marks around cited terms ('homo', 'album') are the edition's punctuation. Kept verbatim — no u/v or i/j regularisation and no spelling normalisation."
+  },
+  {
+    "where": "categoriae-la / chapter-9 heading token",
+    "note": "The chapter-9 heading is printed \"[9]\" where every other chapter token is zero-padded (\"[01]\"…\"[08]\", \"[10]\"…\"[15]\"). Normalised to number \"9\"; no reading text affected."
+  },
+  {
+    "where": "categoriae-la / wiki transport",
+    "note": "Removed as wiki-transport scaffolding (no reading text touched): {{TextQuality|50%}}, {{titulus2 …}}, {{finis}}, <div class=text>, </div> + trailing interwiki links."
+  },
+  {
+    "where": "categoriae-la / ch-10 replacement character",
+    "note": "The source transcription carried the Unicode REPLACEMENT CHARACTER (U+FFFD) at 2 mid-word line-wrap points in chapter 10 (in<U+FFFD>uicem., opponun<U+FFFD>tur). This is a transcription encoding artefact, not a textual variant; the stray character was removed and the word halves joined to restore \"inuicem\" and \"opponuntur\". No other change."
+  },
+  {
+    "where": "categoriae-la / ch-10 lacunae",
+    "note": "Chapter 10 (DE OPPOSITIS) prints the editorial lacuna mark \"<...>\" at three points (after \"idem enim modus est oppositionis;\", after \"priuatio uisus caecitas dicitur\", and before \"habens uisum dicitur\"). These mark places where the Latin is defective/omitted in this witness. The mark is preserved verbatim; the missing words are NOT supplied. Compare the Greek Categoriae, chapter 10, for the sense."
+  },
+  {
+    "where": "categoriae-la / chapter rubrics",
+    "note": "Chapters 5, 6, 7, 8, 9, 10, 12, 13, 14, 15 print a verbatim Latin rubric (DE SUBSTANTIA, DE QUANTITATE, DE RELATIVIS VEL AD ALIQUID, DE QUALI ET QUALITATE, DE FACERE ET PATI, DE OPPOSITIS, DE PRIORE, DE HIS QUAE SIMUL SUNT, DE MOTU, DE HABERE), stored verbatim as Division.sourceHeading. Chapters 1, 2, 3, 4, 11 print no rubric (sourceHeading null). These capitula are editorial in the tradition, not part of Boethius' running translation."
+  }
+]

@@ -63,6 +63,21 @@ export const WORKS: Work[] = [
     },
   },
   {
+    id: 'categoriae-la',
+    authorId: 'aristotle',
+    title: 'Categories',
+    language: 'la',
+    citationScheme: 'chapter',
+    profile: 'generic',
+    meta: 'Latin · trans. Boethius',
+    source: {
+      translator: 'Boethius',
+      provenance: 'Latin Wikisource, “Categoriae”.',
+      license:
+        'Boethius’s translation public domain; transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
     id: 'de-interpretatione-grc',
     authorId: 'aristotle',
     title: 'De Interpretatione',
@@ -78,6 +93,21 @@ export const WORKS: Work[] = [
         'TEI from OpenGreekAndLatin/First1KGreek (tlg0086.tlg017).',
       license:
         'Bekker 1837 public domain; digital text CC BY-SA 4.0 (First1KGreek).',
+    },
+  },
+  {
+    id: 'de-interpretatione-la',
+    authorId: 'aristotle',
+    title: 'De Interpretatione',
+    language: 'la',
+    citationScheme: 'chapter',
+    profile: 'generic',
+    meta: 'Latin · trans. Boethius',
+    source: {
+      translator: 'Boethius',
+      provenance: 'Latin Wikisource, “De interpretatione”.',
+      license:
+        'Boethius’s translation public domain; transcription CC BY-SA 4.0 (Wikisource).',
     },
   },
   {
