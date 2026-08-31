@@ -34,10 +34,12 @@ function WorkLink({ work }: { work: Work }) {
 }
 
 /**
- * Height-animated disclosure. Content stays mounted so it can animate shut; the
- * grid `0fr <-> 1fr` row is the one reliable way to transition to auto height.
- * `inert` keeps a collapsed panel out of tab/AT reach. Under
- * prefers-reduced-motion the global duration override makes it an instant cut.
+ * Height-animated disclosure. Content stays mounted so it can animate both
+ * ways; the `grid-template-rows: 0fr <-> 1fr` transition is the reliable
+ * declarative way to animate to/from auto height (Chrome 107+, Safari 16+,
+ * Firefox 66+) and composes cleanly when nested. `inert` keeps a collapsed
+ * panel out of tab/AT reach. Under prefers-reduced-motion the global duration
+ * override collapses it to an instant cut.
  */
 function Collapsible({ open, children }: { open: boolean; children: ReactNode }) {
   return (

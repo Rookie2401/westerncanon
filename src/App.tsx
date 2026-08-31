@@ -3,7 +3,6 @@ import { HashRouter, Route, Routes, useLocation } from 'react-router-dom';
 import { applyPrefs } from './state/applyPrefs.ts';
 import { getPrefs, usePrefs } from './state/storage.ts';
 import { Library } from './screens/Library.tsx';
-import { AuthorScreen } from './screens/Author.tsx';
 import { WorkScreen } from './screens/Work.tsx';
 import { PartScreen } from './screens/Part.tsx';
 import { QuestionScreen } from './screens/Question.tsx';
@@ -49,7 +48,6 @@ function AnimatedRoutes() {
     <div className="route-fade" key={screenKey}>
       <Routes location={location}>
         <Route path="/" element={<Library />} />
-        <Route path="/author/:authorId" element={<AuthorScreen />} />
         <Route path="/work/:workId" element={<WorkScreen />} />
         <Route path="/work/:workId/about" element={<WorkAboutScreen />} />
         <Route path="/prooemium" element={<ProoemiumScreen />} />

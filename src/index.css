@@ -268,12 +268,12 @@ body {
 }
 
 /* Height-animated disclosure (Library author + work-family dropdowns).
-   grid-template-rows 0fr<->1fr is the reliable "transition to auto height"
-   technique; the inner element clips and fades. */
+   grid-template-rows 0fr<->1fr animates to/from auto height; the inner element
+   clips and fades. */
 .collapsible {
   display: grid;
   grid-template-rows: 0fr;
-  transition: grid-template-rows 0.26s ease;
+  transition: grid-template-rows 0.28s ease;
 }
 .collapsible[data-open='true'] {
   grid-template-rows: 1fr;
@@ -282,10 +282,12 @@ body {
   overflow: hidden;
   min-height: 0;
   opacity: 0;
-  transition: opacity 0.18s ease;
+  transform: translateY(-0.3rem);
+  transition: opacity 0.22s ease, transform 0.22s ease;
 }
 .collapsible[data-open='true'] > .collapsible__inner {
   opacity: 1;
+  transform: none;
 }
 
 /* --- layout shell ----------------------------------------------------------- */

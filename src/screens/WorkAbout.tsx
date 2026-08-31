@@ -41,9 +41,7 @@ function GenericAbout({ workId }: { workId: string }) {
       <main className="page page--narrow">
         <Breadcrumbs
           items={[
-            ...(author
-              ? [{ label: author.displayName, to: `/author/${author.id}` }]
-              : []),
+            ...(author ? [{ label: author.displayName }] : []),
             { label: work.title, to: `/work/${workId}` },
             { label: 'About the text' },
           ]}

@@ -28,19 +28,17 @@ export function WorkScreen() {
     );
   }
 
+  // Back always goes straight to the Library — the Author screen is not part of
+  // the drill-down path (nothing links into it), so it must not sit on the way
+  // out. The author still shows in the breadcrumb, as plain text.
   const crumbs = [
-    ...(author
-      ? [{ label: author.displayName, to: `/author/${author.id}` }]
-      : []),
+    ...(author ? [{ label: author.displayName }] : []),
     { label: work.title },
   ];
 
   return (
     <>
-      <TopBar
-        back={author ? `/author/${author.id}` : '/'}
-        title={author?.displayName ?? 'Library'}
-      />
+      <TopBar back="/" title="Library" />
       <main className="page">
         <Breadcrumbs items={crumbs} />
         <div className="screen-head">
