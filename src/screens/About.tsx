@@ -10,12 +10,27 @@ export function AboutScreen() {
       <TopBar back="/" title="About & text source" />
       <main className="page page--narrow">
         <div className="prose">
-          <h2>The text</h2>
+          <h2>The Library</h2>
           <p>
-            This is an offline reader for the <em>Latin</em> text of the{' '}
-            <em>Summa Theologiae</em> of Thomas Aquinas — the Proœmium and all
-            four extant parts (Prima Pars, Prima Secundae, Secunda Secundae,
-            Tertia Pars).
+            An offline reader for classical philosophical and theological texts
+            in their original languages. This build carries Porphyry's{' '}
+            <em>Isagoge</em> — in Greek (ed. Busse 1887) and in the Latin
+            translation of Boethius — and the <em>Summa Theologiae</em> of
+            Thomas Aquinas. Each work has its own “About the text” page with its
+            edition, provenance and licensing; open a work and follow the link
+            at the foot of its contents.
+          </p>
+          <p>
+            Nothing is fetched at runtime, and no text is translated,
+            modernised, reconstructed or silently corrected — a source gap or
+            irregularity is preserved and noted, never papered over.
+          </p>
+
+          <h2>The Summa text</h2>
+          <p>
+            The Latin <em>Summa Theologiae</em> — the Proœmium and all four
+            extant parts (Prima Pars, Prima Secundae, Secunda Secundae, Tertia
+            Pars).
           </p>
           <p>
             The Latin text of the Summa Theologiae is in the public domain. The
@@ -72,9 +87,11 @@ export function AboutScreen() {
 
           <h2>Typeface</h2>
           <p>
-            Set in <strong>EB Garamond</strong> (Georg Duffner &amp; Octavio
-            Pardo), used under the SIL Open Font License 1.1. A Latin subset is
-            bundled with the app; see <code>FONTS.md</code> in the source tree.
+            Latin is set in <strong>EB Garamond</strong> (Georg Duffner &amp;
+            Octavio Pardo); Greek in <strong>Gentium Plus</strong> (SIL), which
+            covers polytonic Greek in full. Both are used under the SIL Open
+            Font License 1.1 and bundled (subset) with the app; see{' '}
+            <code>FONTS.md</code> in the source tree.
           </p>
         </div>
       </main>

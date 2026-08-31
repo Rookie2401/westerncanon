@@ -1,10 +1,10 @@
-// Copy the generated, committed corpus JSON from data/summa/ into public/summa/
-// so Vite serves it at ${BASE_URL}summa/*.json and Workbox precaches it into
-// dist/ for full offline use. The app fetches these at runtime (same-origin);
-// it never hits the network for anything else.
+// Copy the generated, committed corpus JSON from data/ into public/ so Vite
+// serves it at ${BASE_URL}<dir>/*.json and Workbox precaches it into dist/ for
+// full offline use. The app fetches these at runtime (same-origin); it never
+// hits the network for anything else.
 //
-// This is build glue only. It does not read or modify the import pipeline and
-// never regenerates the corpus — data/summa/*.json is treated as read-only input.
+// This is build glue only. It does not read or modify any import pipeline and
+// never regenerates a corpus — data/**/*.json is treated as read-only input.
 // Wired as `predev` + `prebuild` (and runnable directly via `npm run copy-corpus`).
 
 import { cpSync, mkdirSync, readdirSync, statSync } from 'node:fs';
@@ -13,10 +13,12 @@ import { fileURLToPath } from 'node:url';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const root = join(here, '..');
-const srcDir = join(root, 'data', 'summa');
-const outDir = join(root, 'public', 'summa');
+const dataRoot = join(root, 'data');
+const publicRoot = join(root, 'public');
 
-const WANTED = [
+// The Summa: hard-required. A missing file here fails the build.
+const SUMMA_DIR = 'summa';
+const SUMMA_FILES = [
   'index.json',
   'prooemium.json',
   'gaps.json',
@@ -27,29 +29,50 @@ const WANTED = [
   'part-III.json',
 ];
 
-mkdirSync(outDir, { recursive: true });
+// Generic works: soft. A parallel task may not have landed these yet, so a
+// missing file is a WARNING, not a failure.
+const GENERIC_DIRS = ['isagoge-grc', 'isagoge-la'];
+const GENERIC_FILES = ['work.json', 'about.json'];
 
+let hardFailures = 0;
 let copied = 0;
 let bytes = 0;
-for (const name of WANTED) {
-  const from = join(srcDir, name);
-  const to = join(outDir, name);
+
+/** @param {string} dir @param {string} name @param {boolean} required */
+function copyOne(dir, name, required) {
+  const from = join(dataRoot, dir, name);
+  const to = join(publicRoot, dir, name);
   try {
+    mkdirSync(dirname(to), { recursive: true });
     cpSync(from, to);
     bytes += statSync(to).size;
     copied += 1;
   } catch (err) {
-    console.error(`[copy-corpus] FAILED to copy ${name}: ${err.message}`);
-    process.exitCode = 1;
+    if (required) {
+      console.error(`[copy-corpus] FAILED to copy ${dir}/${name}: ${err.message}`);
+      hardFailures += 1;
+      process.exitCode = 1;
+    } else {
+      console.warn(
+        `[copy-corpus] skipped ${dir}/${name} (not present yet): ${err.message}`,
+      );
+    }
   }
 }
 
-const present = readdirSync(outDir).filter((f) => f.endsWith('.json'));
+mkdirSync(join(publicRoot, SUMMA_DIR), { recursive: true });
+for (const name of SUMMA_FILES) copyOne(SUMMA_DIR, name, true);
+for (const dir of GENERIC_DIRS) {
+  for (const name of GENERIC_FILES) copyOne(dir, name, false);
+}
+
+const summaPresent = readdirSync(join(publicRoot, SUMMA_DIR)).filter((f) =>
+  f.endsWith('.json'),
+);
 console.log(
-  `[copy-corpus] ${copied}/${WANTED.length} files -> public/summa/ ` +
-    `(${(bytes / 1024 / 1024).toFixed(1)} MB). Present: ${present.join(', ')}`,
+  `[copy-corpus] ${copied} files copied into public/ ` +
+    `(${(bytes / 1024 / 1024).toFixed(1)} MB). ` +
+    `Summa present: ${summaPresent.join(', ')}`,
 );
 
-if (copied !== WANTED.length) {
-  process.exit(1);
-}
+if (hardFailures > 0) process.exit(1);

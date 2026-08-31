@@ -6,3 +6,5 @@
 *.js text eol=lf
 *.md text eol=lf
 scripts/import-summa/raw/xml_latin_nl.xml -text
+scripts/import-isagoge-grc/raw/*.xml -text
+*.woff2 binary

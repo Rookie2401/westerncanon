@@ -17,7 +17,9 @@ import { readerCrumb, roman } from '../ui/format.ts';
 import { replyLabel } from '../ui/ordinals.ts';
 import {
   getLast,
+  refKey,
   setLast,
+  SUMMA_WORK_ID,
   toggleBookmark,
   useIsBookmarked,
 } from '../state/storage.ts';
@@ -49,7 +51,10 @@ export function Reader() {
   const [immersive, setImmersive] = useState(false);
   const [jump, setJump] = useState(false);
 
-  const bookmarked = useIsBookmarked(citation);
+  // Work-agnostic location for storage (bookmarks / last position).
+  const libPath = useMemo(() => [partId, qNum, aParam], [partId, qNum, aParam]);
+  const bmKey = refKey({ workId: SUMMA_WORK_ID, path: libPath });
+  const bookmarked = useIsBookmarked(bmKey);
 
   // Reset chrome + fetch neighbors whenever the article changes.
   useEffect(() => {
@@ -74,7 +79,7 @@ export function Reader() {
     if (!article || !info) return;
     const prev = getLast();
     const isReturn =
-      prev?.partId === info.id && prev.qNum === qn && prev.aParam === aParam;
+      prev?.workId === SUMMA_WORK_ID && prev.path.join('/') === libPath.join('/');
     const ratio = isReturn ? prev!.scrollRatio : 0;
 
     requestAnimationFrame(() => {
@@ -83,12 +88,11 @@ export function Reader() {
     });
 
     setLast({
-      partId: info.id,
-      qNum: qn,
-      aParam,
+      workId: SUMMA_WORK_ID,
+      path: libPath,
       scrollRatio: ratio,
       title: article.title ?? null,
-      citation,
+      label: citation,
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [article, key]);
@@ -102,7 +106,10 @@ export function Reader() {
       raf = 0;
       last = Date.now();
       const cur = getLast();
-      if (cur?.partId === info.id && cur.qNum === qn && cur.aParam === aParam) {
+      if (
+        cur?.workId === SUMMA_WORK_ID &&
+        cur.path.join('/') === libPath.join('/')
+      ) {
         setLast({ ...cur, scrollRatio: scrollRatio() });
       }
     };
@@ -260,10 +267,9 @@ export function Reader() {
             onClick={() =>
               info &&
               toggleBookmark({
-                citation,
-                partId: info.id,
-                qNum: qn,
-                aParam,
+                workId: SUMMA_WORK_ID,
+                path: libPath,
+                label: citation,
                 title: article.title ?? null,
               })
             }

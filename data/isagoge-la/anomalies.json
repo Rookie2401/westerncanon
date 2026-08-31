@@ -1,0 +1,26 @@
+[
+  {
+    "where": "isagoge-la / de-specie (II) / passage 2",
+    "note": "contains editorial angle-bracket supplement <quod> from the edition; kept verbatim (not markup)"
+  },
+  {
+    "where": "isagoge-la / de-differentia (III)",
+    "note": "1 paragraph(s) in this section carry no printed number in the source; Passage.n set to '' for those"
+  },
+  {
+    "where": "isagoge-la / de-proprio (IV)",
+    "note": "1 paragraph(s) in this section carry no printed number in the source; Passage.n set to '' for those"
+  },
+  {
+    "where": "isagoge-la / sec-xiii (XIII)",
+    "note": "1 paragraph(s) in this section carry no printed number in the source; Passage.n set to '' for those"
+  },
+  {
+    "where": "isagoge-la / sec-xxiii (XXIII)",
+    "note": "1 paragraph(s) in this section carry no printed number in the source; Passage.n set to '' for those"
+  },
+  {
+    "where": "isagoge-la / all refs",
+    "note": "This source carries no Busse pagination or line numbering. Division.ref and Passage.ref are null throughout; the citation scheme for this work is 'section' (division number + paragraph number)."
+  }
+]

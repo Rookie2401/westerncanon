@@ -1,9 +1,10 @@
-# Putting Summa on your iPhone (PWA — no App Store, no Xcode)
+# Putting the Library on your iPhone (PWA — no App Store, no Xcode)
 
-The app is a fully offline Progressive Web App. Once it has loaded once over
-HTTPS, the whole Latin corpus (~25 MB) and the app are cached on the phone and
-it runs with no network — launched from a home‑screen icon, full screen, no
-Safari chrome.
+The app is a fully offline Progressive Web App — a small classical-text
+**Library** (currently Porphyry's *Isagoge* in Greek and in Boethius's Latin,
+and the *Summa Theologiae*). Once it has loaded once over HTTPS, the whole
+corpus (~25 MB) and the app are cached on the phone and it runs with no
+network — launched from a home‑screen icon, full screen, no Safari chrome.
 
 You need to (1) put the built site on an HTTPS URL, then (2) add it to the
 home screen from Safari.
@@ -65,8 +66,27 @@ A or B for the actual home‑screen install.
 
 ### Verify it's really offline
 
-Turn on **Airplane Mode**, open Summa from the home screen, then browse
-Parts → Questions → Articles and run a search. Nothing should fail to load.
+Turn on **Airplane Mode**, open the app from the home screen, then:
+
+- Library → **Porphyry → Isagoge (Greek)** → a section → the reader shows the
+  Greek text in the bundled polytonic serif; the back pill (‹ ISAGOGE) stays
+  visible after a tap into immersive mode; prev/next moves between sections.
+- Repeat for **Isagoge (Latin, trans. Boethius)**.
+- Library → **Thomas Aquinas → Summa Theologiae** → a Part → Question →
+  Article — must look exactly as it did before.
+- Run a search for a Greek word (accent-insensitive) and a Latin word; both the
+  Summa and the Isagoge should return hits.
+- Check a bookmark and the Continue card survive a full app restart.
+
+Do this at iPhone width in **both light and dark**. Nothing should fail to load.
+
+### If content looks stale after a redeploy
+
+Re‑deploy a fresh `dist/` to the same URL, then on the phone open the app once
+**with a connection** and wait a few seconds — the service worker fetches the
+new build and swaps it in on the next launch. If it still looks old: Settings →
+Safari → Advanced → Website Data → remove the site, or delete and re‑add the
+home‑screen icon, then load once online.
 
 ---
 

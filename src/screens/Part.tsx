@@ -2,9 +2,13 @@ import { useMemo, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { loadPart, partById } from '../corpus/corpus.ts';
 import type { Question } from '../corpus/types.ts';
+import { authorById, workById } from '../library/registry.ts';
 import { useResource } from '../ui/useResource.ts';
 import { roman } from '../ui/format.ts';
 import { TopBar } from '../components/TopBar.tsx';
+
+const SUMMA_AUTHOR = authorById('thomas-aquinas')?.displayName ?? 'Thomas Aquinas';
+const SUMMA_TITLE = workById('summa-theologiae')?.title ?? 'Summa Theologiae';
 
 function firstUtrum(q: Question): string | null {
   const arts = [...q.articles].sort((a, b) => (a.number ?? 0) - (b.number ?? 0));
@@ -41,10 +45,12 @@ export function PartScreen() {
 
   return (
     <>
-      <TopBar back="/" title="Summa Theologiae" />
+      <TopBar back="/work/summa-theologiae" title="Summa Theologiae" />
       <main className="page">
         <div className="screen-head">
-          <p className="crumb">{info.header.toUpperCase()}</p>
+          <p className="crumb">
+            {`${SUMMA_AUTHOR} › ${SUMMA_TITLE} › ${info.header}`.toUpperCase()}
+          </p>
         </div>
 
         <input

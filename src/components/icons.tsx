@@ -64,6 +64,17 @@ export function CloseIcon({ size = 20 }: IconProps) {
   );
 }
 
+export function ChevronIcon({
+  size = 18,
+  className,
+}: IconProps & { className?: string }) {
+  return (
+    <svg {...base(size)} className={className}>
+      <path d="M9 6l6 6-6 6" />
+    </svg>
+  );
+}
+
 export function ArrowLeft({ size = 18 }: IconProps) {
   return (
     <svg {...base(size)}>

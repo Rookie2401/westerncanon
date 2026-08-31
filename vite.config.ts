@@ -31,11 +31,11 @@ export default defineConfig({
         navigateFallback: 'index.html',
       },
       manifest: {
-        name: 'Summa Theologiae',
-        short_name: 'Summa',
+        name: 'Classical Library',
+        short_name: 'Library',
         description:
-          'Offline reader for the Latin Summa Theologiae of Thomas Aquinas (Proœmium and all four parts).',
-        lang: 'la',
+          'Offline reader for classical texts in their original languages — Porphyry’s Isagoge (Greek and Boethius’s Latin) and the Summa Theologiae.',
+        lang: 'en',
         start_url: './',
         scope: './',
         display: 'standalone',

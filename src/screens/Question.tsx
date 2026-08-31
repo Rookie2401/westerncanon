@@ -1,8 +1,12 @@
 import { Link, useParams } from 'react-router-dom';
 import { aParamOf, findQuestion, loadPart, partById } from '../corpus/corpus.ts';
+import { authorById, workById } from '../library/registry.ts';
 import { useResource } from '../ui/useResource.ts';
-import { articulusLabel, roman } from '../ui/format.ts';
+import { articulusLabel } from '../ui/format.ts';
 import { TopBar } from '../components/TopBar.tsx';
+
+const SUMMA_AUTHOR = authorById('thomas-aquinas')?.displayName ?? 'Thomas Aquinas';
+const SUMMA_TITLE = workById('summa-theologiae')?.title ?? 'Summa Theologiae';
 
 export function QuestionScreen() {
   const { partId = '', qNum = '' } = useParams();
@@ -32,7 +36,7 @@ export function QuestionScreen() {
           <>
             <div className="screen-head">
               <p className="crumb">
-                {info.header.toUpperCase()} · QUAESTIO {roman(question.number)}
+                {`${SUMMA_AUTHOR} › ${SUMMA_TITLE} › ${info.header} › Q. ${question.number}`.toUpperCase()}
               </p>
               {question.prooemium ? (
                 <p className="screen-head__prooemium">

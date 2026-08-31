@@ -18,9 +18,11 @@ coverage
 sw.js
 workbox-*.js
 
-# Corpus copied from data/summa/ by scripts/copy-corpus.mjs (predev/prebuild).
-# Source of truth is data/summa/*.json (committed).
+# Corpus copied from data/ by scripts/copy-corpus.mjs (predev/prebuild).
+# Source of truth is data/**/*.json (committed).
 public/summa/
+public/isagoge-grc/
+public/isagoge-la/
 
 # The source XML IS committed (scripts/import-summa/raw/xml_latin_nl.xml) as the
 # single bundled copy. If it ever needs to be removed, re-download with:

@@ -1,0 +1,54 @@
+{
+  "workId": "isagoge-grc",
+  "title": "Isagoge",
+  "author": "Porphyry",
+  "language": "grc",
+  "edition": "Busse 1887",
+  "editor": "Adolf Busse",
+  "provenance": "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg2034.tlg006, witness opp-grc1), which digitises Adolf Busse’s 1887 edition; imported by scripts/import-isagoge-grc.",
+  "license": "The Greek text of Busse’s 1887 edition is in the public domain. The digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Porphyry’s Isagoge",
+      "paragraphs": [
+        "This is the Greek text of Porphyry’s Εἰσαγωγή (\"Introduction\"), written in the third century as a primer to Aristotle’s Categories. It defines and compares the five \"predicables\" — genus, species, differentia, property and accident — and became the standard entry point to logic for late antiquity and the Middle Ages.",
+        "The text here is the original Greek, verbatim. Nothing is translated, modernised, normalised or silently corrected. Where the source is irregular, the irregularity is preserved and noted below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Adolf Busse, ed., Porphyrii Isagoge et in Aristotelis Categorias commentarium, Commentaria in Aristotelem Graeca IV.1 (Berlin: Reimer, 1887). This edition is in the public domain.",
+        "Busse’s page numbers are kept as the canonical reference and are shown in the reader as \"Busse p. N\"."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg2034.tlg006.opp-grc1 from the OpenGreekAndLatin / First1KGreek repository, which in turn underlies the Perseus/Scaife structured text of the Isagoge. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer segments the text into 27 divisions — a preface followed by the traditional twenty-six numbered sections (I–XXVI) — using the verbatim section headings printed in the edition (Περὶ γένους, Περὶ εἴδους, and so on). Passages are the paragraph units of the TEI.",
+        "Each division also carries an English section title. These titles are editorial: they are not part of the source text and are marked \"ed.\" wherever they appear. The section numbers and page references come from Busse’s edition."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "References are given at Busse page level (\"Busse p. N\", or a range \"Busse pp. A–B\" for a division). Line-level references were attempted but abandoned: the digital source’s embedded line markers are duplicated (each line number appears twice) and run non-monotonically around the section headings, which makes per-line citation unreliable."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Section XII. The printed heading reads \"Περὶ τῆς διαφορᾶς τοῦ γένους καὶ τοῦ ἰδίιου.\" The form ἰδίιου (for ἰδίου) is a misprint in the source; it is kept exactly as printed.",
+        "Apparatus. Twenty-two apparatus-criticus footnotes carried in the TEI were removed from the reading text.",
+        "Older pagination. Thirty-one marginal notes carrying Brandis pagination (the reference standard that preceded Busse, e.g. \"1a Brand.\") were removed from the reading text. Busse pagination is canonical here and the two systems are never mixed.",
+        "Transcription quality. The First1KGreek transcription of Busse’s text contains uncorrected OCR-level irregularities — stray vertical bars, stray capitals, and occasional misspellings such as ἐπναβεβηκὸς, Κοτνὸν and κινεὶσθαι. Every one of these is preserved verbatim; none has been corrected or conjecturally emended."
+      ]
+    }
+  ]
+}

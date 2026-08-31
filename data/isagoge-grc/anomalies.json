@@ -1,0 +1,22 @@
+[
+  {
+    "where": "isagoge-grc / division sec-xii (XII) / sourceHeading",
+    "note": "printed heading reads \"Περὶ τῆς διαφορᾶς τοῦ γένους καὶ τοῦ ἰδίιου.\" - the form 'ἰδίιου' (for ἰδίου) is a source misspelling, preserved verbatim"
+  },
+  {
+    "where": "isagoge-grc / passage & division refs",
+    "note": "ref is Busse PAGE level only. The source <lb n> line markers are duplicated (each line number is emitted twice) and non-monotonic around headings, which makes per-line refs unreliable; downgraded to \"Busse p. N\" / \"Busse pp. A–B\" per the importer spec fallback."
+  },
+  {
+    "where": "isagoge-grc / reading text",
+    "note": "22 <note type=\"footnote\"> apparatus-criticus notes were dropped from the reading text."
+  },
+  {
+    "where": "isagoge-grc / reading text",
+    "note": "31 <note type=\"marginal\"> notes carrying Brandis pagination (older standard, e.g. 1a Brand., 1a, 1b, 1b, 1b, 2a ...) were stripped from the reading text. Busse pagination is canonical here and the two are not conflated."
+  },
+  {
+    "where": "isagoge-grc / reading text",
+    "note": "The First1KGreek transcription of Busse's text contains uncorrected OCR-level irregularities (e.g. stray vertical bars \"|\", stray capitals, misspellings such as 'ἐπναβεβηκὸς', 'Κοτνὸν', 'κινεὶσθαι'). All are preserved verbatim; none were corrected."
+  }
+]

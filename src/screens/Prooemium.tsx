@@ -7,7 +7,7 @@ export function ProoemiumScreen() {
 
   return (
     <>
-      <TopBar back="/" title="Proœmium" />
+      <TopBar back="/work/summa-theologiae" title="Proœmium" />
       <main className="page page--narrow">
         {loading ? (
           <p className="loading">Loading…</p>

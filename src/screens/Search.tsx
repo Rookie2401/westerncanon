@@ -12,6 +12,8 @@ import { parseReference } from '../corpus/reference.ts';
 import type { ParsedRef } from '../corpus/reference.ts';
 import { articleText, buildSnippet, runSearch } from '../corpus/search.ts';
 import type { Snippet } from '../corpus/search.ts';
+import { searchGenericWorks } from '../library/genericSearch.ts';
+import type { GenericHit } from '../library/genericSearch.ts';
 import { useDebounced } from '../ui/useDebounced.ts';
 import { TopBar } from '../components/TopBar.tsx';
 
@@ -108,6 +110,23 @@ export function SearchScreen() {
     [records, debounced],
   );
 
+  // Generic works (the Isagoge, Greek + Latin) — tiny corpora, searched live.
+  const [genericHits, setGenericHits] = useState<GenericHit[]>([]);
+  useEffect(() => {
+    let alive = true;
+    if (!debounced) {
+      setGenericHits([]);
+      return;
+    }
+    searchGenericWorks(debounced).then(
+      (h) => alive && setGenericHits(h),
+      () => alive && setGenericHits([]),
+    );
+    return () => {
+      alive = false;
+    };
+  }, [debounced]);
+
   // Build real original-case Latin snippets for the top results.
   const [snips, setSnips] = useState<Map<string, Snippet>>(new Map());
   useEffect(() => {
@@ -168,8 +187,10 @@ export function SearchScreen() {
           aria-label="Search"
         />
         <p className="search__hint">
-          Searches the Latin text only. Diacritics and œ/æ are folded. A citation
-          like <em>II-II q. 23 a. 1</em> jumps straight to the article.
+          Searches the Summa (Latin) and the Isagoge (Greek and Latin). Latin
+          diacritics and œ/æ are folded; Greek matching is accent-insensitive
+          (substring only — no morphological search). A citation like{' '}
+          <em>II-II q. 23 a. 1</em> jumps straight to the article.
         </p>
 
         {jump ? (
@@ -187,6 +208,38 @@ export function SearchScreen() {
               ) : null}
             </Link>
           )
+        ) : null}
+
+        {genericHits.length ? (
+          <div className="search__group">
+            <p className="search__count">
+              {genericHits.length} passage{genericHits.length === 1 ? '' : 's'} in
+              the Isagoge
+            </p>
+            <div className="entrylist">
+              {genericHits.map((h, i) => (
+                <Link
+                  key={`${h.workId}/${h.divId}/${i}`}
+                  to={`/read/${h.workId}/${h.divId}`}
+                  className="result"
+                >
+                  <div className="result__cite">
+                    {h.workTitle} · {h.workMeta} · {h.divLabel}
+                    {h.ref ? ` · ${h.ref}` : ''}
+                  </div>
+                  {h.editorialTitle ? (
+                    <div className="result__title">
+                      <span className="ed-tag">ed.</span>
+                      {h.editorialTitle}
+                    </div>
+                  ) : null}
+                  <div className="result__snippet" lang={h.workId === 'isagoge-grc' ? 'grc' : undefined}>
+                    {h.snippet}
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
         ) : null}
 
         {debounced && (indexLoading || (!records && !hits.length)) ? (
@@ -225,7 +278,7 @@ export function SearchScreen() {
                 })}
               </div>
             </>
-          ) : !parsed ? (
+          ) : !parsed && !genericHits.length ? (
             <p className="empty">No matches for “{debounced}”.</p>
           ) : null
         ) : null}

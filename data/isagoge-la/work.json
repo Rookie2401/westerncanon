@@ -1,0 +1,877 @@
+{
+  "workId": "isagoge-la",
+  "language": "la",
+  "divisions": [
+    {
+      "id": "praefatio",
+      "number": null,
+      "ref": null,
+      "sourceHeading": null,
+      "editorialTitle": "Preface",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Cum sit necessarium, Chrysaori, et ad eam quae est apud Aristotelem praedicamentorum doctrinam, nosse quid genus sit et quid differentia quidque species et quid proprium et quid accidens, et ad definitionum assignationem et omnino ad ea quae in divisione vel demonstratione sunt, utili hac istarum rerum speculatione, compendiosam tibi traditionem faciens tentabo breviter velut introductionis modo ea quae ab antiquis dicta sunt aggredi, altioribus quidem quaestionibus abstinens, simpliciores vero mediocriter coniectans.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Mox de generibus ac speciebus illud quidem, sive subsistunt sive in solis nudis purisque intellectibus posita sunt sive subsistentia corporalia sunt an incorporalia, et utrum separata an in sensibilibus et circa ea constantia, dicere recusabo. Altissimum enim est huiusmodi negotium. et maioris egens inquisitionis. Illud vero quemadmodum de his ac de propositis probabiliter antiqui tractaverint et horum maxime Peripatetici, tibi nunc tentabo monstrare.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "de-genere",
+      "number": "I",
+      "ref": null,
+      "sourceHeading": "De genere",
+      "editorialTitle": "On Genus",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Videtur autem neque genus neque species simpliciter dici. Genus enim dicitur et aliquorum quodammodo se habentium ad unum aliquid et ad se invicem collectio, secundum quam significationem Romanorum dicitur genus ab unius scilicet habitudine, dico autem Romuli, et multitudinis habentium aliquo modo ad invicem eam quae ab illo est cognationem secundum divisionem ab aliis generibus dictam.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Dicitur autem et aliter rursus genus, quod est uniuscuiusque generationis principium vel ab eo qui genuit vel a loco in quo quis genitus est. Sic enim Oresten quidem dicimus a Tantalo habere genus, Hyllum autem ab Hercule, et rursus Pindarum quidem Thebanum esse genere, Platonem vero Atheniensem ; etenim, patria principium est uniuscuiusque generationis, quemadmodum et pater.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Haec autem videtur promptissima esse significatio ; Romani enim qui ex genere descendunt Romuli, et Cecropidae, qui ex genere descendunt Cecropis et horum proximi. Et prius quidem appellatum est genus uniuscujusque generationis principium, dehinc etiam multitudo eorum qui sunt ab uno principio, ut a Romulo ; dividentes et ab aliis separantes dicebamus omnem illam collectionem esse Romanorum genus.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Aliter autem, rursus genus dicitur cui supponitur species, ad horum fortasse similitudinem dictum. Etenim principium. quoddam est huiusmodi genus earum quae sub ipso sunt specierum, videtur etiam multitudinem continere omnem quae sub eo est.",
+          "ref": null
+        },
+        {
+          "n": "5",
+          "text": "Tripliciter igitur cum genus dicatur, de tertio apud philosophos sermo est ; quod etiam describentes assignaverunt genus esse dicentes ; quod de pluribus et differentibus specie in eo quod quid sit praedicatur, ut animal.",
+          "ref": null
+        },
+        {
+          "n": "6",
+          "text": "Eorum enim quae praedicantur, alia quidem de uno dicuntur solo, sicut individua sicut Socrates et hic et hoc, alia vero de pluribus, quemadmodum genera et species et differentiae et propria et accidentia communiter, sed non proprie alicui. (Est autem genus quidem ut animal, species vero ut homo, differentia autem ut rationale, proprium ut risibile, accidens ut album, nigrum, sedere.)",
+          "ref": null
+        },
+        {
+          "n": "7",
+          "text": "Ab his ergo quae de uno solo praedicantur, differunt genera eo quod de pluribus assignata praedicantur.",
+          "ref": null
+        },
+        {
+          "n": "8",
+          "text": "Ab his autem quae de pluribus, a speciebus quidem, quoniam species etsi de pluribus praedicantur, sed non de differentibus specie, sed numero ; homo enim cum sit species, de Socrate et Platone praedicatur, qui non specie differunt a se invicem, sed numero, animal vero cum genus sit, de homine et bove et equo praedicatur, qui differunt a se invicem et specie quoque, non numero solo.",
+          "ref": null
+        },
+        {
+          "n": "9",
+          "text": "A proprio vero differt genus, quoniam proprium quidem de una sola specie, cuius est proprium, praedicatur et de his quae sub una specie sunt individuis, quemadmodum risibile de homine solum et de particularibus hominibus, genus autem non de una specie praedicatur, sed de pluribus et differentibus specie.",
+          "ref": null
+        },
+        {
+          "n": "10",
+          "text": "A differentia vero et ab his quae communiter sunt accidentibus differt genus quoniam, etsi de pluribus et differentibus specie praedicantur differentiae et communiter accidentia, sed non in eo quod quid sit praedicantur, sed in eo quod quale quid sit. Interrogantibus enim nobis illud de quo praedicantur haec, non in eo quod quid sit dicimus praedicari, sed magis in eo quod quale sit. Interrogati enim qualis est homo, dicimus rationalis, et in eo quod qualis est corvus, dicitur quoniam niger. Est autem rationale quidem differentia, nigrum vero accidens. Quando autem quid est homo interrogamur, animal respondemus ; erat autem hominis genus animal.",
+          "ref": null
+        },
+        {
+          "n": "11",
+          "text": "Quare de pluribus praedicari dividit genus ab his quae de uno solo eorum quae sunt individua praedicantur, differentibus vero specie separat ab his quae sicut species praedicantur vel sicut propria ; in eo autem quod quid sit praedicari dividit a differentiis et communiter accidentibus, quae non in eo quod quid sit, sed in eo quod quale sit vel quodammodo se habens praedicantur de quibus praedicantur.",
+          "ref": null
+        },
+        {
+          "n": "12",
+          "text": "Nihil igitur superfluum neque minus continet generis dicta descriptio.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "de-specie",
+      "number": "II",
+      "ref": null,
+      "sourceHeading": "De specie",
+      "editorialTitle": "On Species",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Species autem dicitur quidem et de uniuscuiusque forma, secundum quam dictum est: « Priami quidem species digna imperio. »",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Dicitur autem species et ea quae est sub assignato genere, secundum quam solemus dicere hominem quidem speciem animalis, cum sit genus animal, album autem coloris speciem, triangulum veto figurae speciem. Quodsi etiam genus assignantes speciei meminimus dicentes quod de pluribus et differentibus specie in eo quod quid sit praedicatur, et speciem dicimus id quod sub genere est. Nosse autem oportet <quod>, quoniam et genus alicuius est genus et species alicuius est species, idcirco necesse est et in utrorumque rationibus utrisque uti.",
+          "ref": null,
+          "anomaly": "editorial angle-bracket supplement <quod> preserved verbatim"
+        },
+        {
+          "n": "3",
+          "text": "Assignant ergo et sic speciem : species est quod ponitur sub genere et de qua genus in eo quod quid sit praedicatur.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Amplius autem sic quoque : species est quod de pluribus et differentibus numero in eo quod quid sit praedicatur. Sed haec quidem assignatio specialissimae est et quae solum species est, aliae vero erunt etiam non specialissimarum.",
+          "ref": null
+        },
+        {
+          "n": "5",
+          "text": "Planum autem erit quod dicitur hoc modo. In unoquoque praedicamento sunt quaedam generalissima et rursus alia specialissima et inter generalissima et specialissima alia. Est autem generalissimum quidem super quod nullum ultra aliud sit superveniens genus, specialissimum autem, post quod non erit alia inferior species ; inter generalissimum autem et specialissimum et genera et species sunt eadem, ad aliud quidem et ad aliud sumpta.",
+          "ref": null
+        },
+        {
+          "n": "6",
+          "text": "Sit autem in uno praedicamento manifestum quod dicitur. Substantia est quidem et ipsa genus, sub hac autem est corpus, sub corpore vero animatum corpus, sub quo animal, sub animali vero rationale animal, sub quo homo, sub homine vero Socrates et Plato et qui sunt particulares homines. Sed horum substantia quidem generalissimum est et quod genus sit solum, homo vero specialissimum et quod species solum sit ; corpus veto species quidem est substantiae, genus vero corporis animati ; et animatum corpus species quidem est corporis, genus vero animalis. Animal autem species quidem est corporis animati, genus vero animalis rationalis, sed rationale animal species quidem est animalis, genus autem hominis ; homo vero species quidem est rationalis animalis, non autem etiam genus particularium hominum, sed solum species. Et omne quod ante individua proximum est, species erit solum, non etiam genus.",
+          "ref": null
+        },
+        {
+          "n": "7",
+          "text": "Quemadmodum igitur substantia quae, cum suprema sit, eo quod nihil sit supra eam, genus erat generalissimum, sic et homo, cum sit species post quam non sit alia species neque aliquid eorum quae possunt dividi, sed solum individuorum – individuum enim est Socrates et Plato – species erit sola, et ultima species et, ut dictum est, specialissima. Quae vero sunt in medio, eorum quidem quae supra ipsa sunt, erunt species, eorum vero quae post ipsa sunt, genera. Quare haec quidem habent duas habitudines, eam quae est ad superiora, secundum quam species ipsorum esse dicuntur, et eam quae est ad posteriora, secundum quam genera ipsorum esse dicuntur. Extrema vero unam habent habitudinem. Nam et generalissimum ad ea quidem quae posteriora sunt, habet habitudinem, cum genus sit omnium id quod est supremum, eam vero quae est ad superiora, non habet, cum sit supremum et primum principium, specialissimum autem unam habet habitudinem, eam quae est ad superiora, quorum est species, eam vero quae est ad posteriora, non diversam habet, sed etiam individuorum species dicitur, sed species quidem individuorum velut ea continens, species autem superiorum, velut quae ab eis continetur.",
+          "ref": null
+        },
+        {
+          "n": "8",
+          "text": "Determinant ergo generalissimum ita, quod cum genus sit, non est species, et rursus, supra quod non est aliud superveniens genus, specialissimum vero, quod cum sit species, non est genus et quod cum sit species, numquam dividitur in species et quod de pluribus et differentibus numero in eo quod quid sit praedicatur. Ea vero quae in medio sunt extremorum, subalterna vocant genera et species, et unumquodque ipsorum species esse et genus ponunt, ad aliud quidem et ad aliud sumpta.",
+          "ref": null
+        },
+        {
+          "n": "9",
+          "text": "Ea vero quae sunt ante specialissima usque ad generalissimum ascendentia, et genera dicuntur et species et subalterna genera, ut Agamemnon Atrides et Pelopides et Tantalides et ultimuni Iovis.",
+          "ref": null
+        },
+        {
+          "n": "10",
+          "text": "Sed in familiis quidem plerumque ad unum reducuntur principium, verbi gratia Iovem, in generibus autem et speciebus non se sic habet. Neque enim est commune unum genus omnium ens nec omnia eiusdem generis sunt secundum unum supremum genus, quemadmodum dicit Aristoteles. Sed sint posita, quemadmodum in Praedicamentis, prima decem genera quasi prima decem principia ; vel si omnia quis entia vocet, aequivoce, inquit, nuncupabit, non univoce. Si enim unum esset commune omnium genus ens, univoce entia dicerentur ; cum vero decem sint prima, communio secundum nomen est solum, non etiam secundum definitionis rationem, quae secundum nomen est.",
+          "ref": null
+        },
+        {
+          "n": "11",
+          "text": "Decem quidem generalissima sunt, specialissima vero in numero quidem quodam sunt, non tamen infinito, individua autem quae sunt post specialissima, infinita sunt. Quapropter usque ad specialissima a generalissimis descendentem iubet Plato quiescere, descendere autem per media dividentem specificis differentiis ; infinita, inquit, relinquenda sunt ; neque enim horum posse fieri disciplinam.",
+          "ref": null
+        },
+        {
+          "n": "12",
+          "text": "Descendentibus igitur ad specialissima necesse est dividentem per multitudinem ire, ascendentibus vero ad generalissima necesse est colligere multitudinem. Collectivum enim multorum in unam naturam species est et magis id quod genus est, particularia vero et singularia e contrario in multitudinem semper dividunt quod unum est ; participatione enim speciei plures homines unus, particularibus autem unus et communis plures ; divisivum est enim semper quod singulare est, collectivum autem et adunativum quod commune est.",
+          "ref": null
+        },
+        {
+          "n": "13",
+          "text": "Assignato autem genere et specie, quid est utrumque, cumque sit genus unum, species vero plurimae – semper enim in plures species divisio generis est genus quidem semper de specie praedicatur et omnia superiora de inferioribus, species autem neque de proximo sibi genere neque de superioribus ; neque enim convertitur. Oportet autem aequa de aequis praedicari, ut hinnibile de equo, aut maiora de minoribus, ut animal de homine, minora vero de maioribus minime ; neque enim animal dicis esse hominem, quemadmodum hominem dicis esse animal.",
+          "ref": null
+        },
+        {
+          "n": "14",
+          "text": "De quibus autem species praedicatur, de his necessario et speciei genus praedicabitur et generis genus usque ad generalissimum ; si enim verum est Socratem hominem dicere, hominem autem animal, animal vero substantiam, verum est et Socratem animal dicere atque substantiam. Semper igitur superioribus de inferioribus praedicatis, species quidem de individuis praedicabitur, genus autem et de specie et de individuo, generalissimum autem et de genere et de generibus, si plura sint media et subalterna, et de specie et de individuo. Dicitur enim generalissimum quidem de omnibus sub se generibus speciebusque et de individuis, genus autem quod ante specialissimum est, de omnibus specialissimis et de individuis, solum autem species de omnibus individuis, individuum autem de uno solo particulari.",
+          "ref": null
+        },
+        {
+          "n": "15",
+          "text": "Individuum autem dicitur Socrates et hoc album et hic veniens, ut Sophronisci filius, si solus ei sit Socrates filius. Individua ergo dicuntur huiusmodi, quoniam ex proprietatibus consistit unumquodque eorum, quorum collectio numquam in alio eadem erit. Socratis enim proprietates numquam in alio quolibet erunt particularium, hae vero quae sunt hominis, dico autem eius qui est communis, proprietates erunt eaedem in pluribus, magis autem in omnibus particularibus hominibus in eo quod homines sunt.",
+          "ref": null
+        },
+        {
+          "n": "16",
+          "text": "Continetur igitur individuum quidem sub specie, species autem sub genere. Totum enim quiddam est genus, individuum autem pars, species vero et totul et pars, sed pars quidem alterius, totum autem non alterius, sed aliis ; partibus enim totum est.",
+          "ref": null
+        },
+        {
+          "n": "17",
+          "text": "De genere quidem et specie et quid generalissimum et quid specialissimum et quae genera eadem et species sunt, quae etiam individua, et quot modis genus et species dicatur, sufficienter dictum est.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "de-differentia",
+      "number": "III",
+      "ref": null,
+      "sourceHeading": "De differentia",
+      "editorialTitle": "On Differentia",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Differentia vero communiter et proprie et magis proprie dicitur. Communiter quidem differre alterum altero dicitur, quod alteritate quadam differt quocumque modo vel a se ipso vel ab alio. Differt enim Socrates Platone alteritate, et ipse a se vel puero vel iam viro vel faciente aliquid vel quiescente et semper in aliquo modo habendi alteritatibus. Proprie autem differre alterum altero dicitur, quando inseparabili accidenti altero differt. Inseparabile vero accidens est ut nasi curvitas, caecitas oculorum, cicatrix, cum ex vulnere obcaluerit. Magis proprie differre alterum altero dicitur, quando specifica differentia distiterit, quemadmodum homo ab equo specifica differentia differt rationali qualitate.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Universaliter ergo omnis differentia alteratum facit cuilibet adveniens, sed ea quae est communiter et proprie, alteratum facit, illa autem quae est magis proprie, aliud.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Differentiarum enim aliae quidem alteratum faciunt, aliae vero aliud. Illae quidem quae faciunt aliud, specificae vocantur, illae vero quae alteratum, simpliciter differentiae. Animali enim differentia adveniens rationalis aliud fecit et speciem animalis fecit, illa vero quae est movendi, alteratum solum a quiescente fecit ; quare haec quidem aliud, illa vero alteratum solum fecit.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Secundum igitur aliud facientes divisiones fiunt a generibus in species et definitiones assignantur, quae sunt ex genere et huiusmodi differentiis, secundum autem eas quae solum alteratum faciunt, alteratio sola consistit et aliquo modo se habendi permutationes.",
+          "ref": null
+        },
+        {
+          "n": "5",
+          "text": "A superioribus ergo rursus inchoanti dicendum est differentiarum alias quidem esse separabiles, alias vero inseparabiles. Moveri enim et quiescere et sanum esse et aegrum, et quaecumque his proxima sunt, separabilia sunt, at vero aquilum esse vel simum vel rationale vel irrationale inseparabilia. Inseparabilium autem aliae quidem sunt per se, aliae vero per accidens ; nam rationale per se inest homini et mortale et disciplinae esse perceptibile, at vero aquilum esse vel simum secundum accidens et non per se.",
+          "ref": null
+        },
+        {
+          "n": "6",
+          "text": "Illae igitur quae per se sunt, in substantiae ratione accipiuntur et faciunt aliud, illae vero quae secundum accidens, nec in substantiae ratione dicuntur nec faciunt aliud, sed alteratum.",
+          "ref": null
+        },
+        {
+          "n": "7",
+          "text": "Et illae quidem quae per se sunt, non suscipiunt magis et minus, illae vero quae per accidens, vel si inseparabiles sint, intentionem recipiunt et remissionem ; nam neque genus magis aut minus praedicatur cuius fuerit genus, neque generis differentiae, secundum quas dividitur, ipsae enim sunt quae uniuscuiusque rationem complent, esse autem unicuique unum et idem neque intentionem neque remissionem suscipiens est, aquilum autem esse vel simum vel coloratum aliquo modo et intenditur et remittitur.",
+          "ref": null
+        },
+        {
+          "n": "8",
+          "text": "Cum igitur tres species differentiae considerentur et cum hae quidem sint separabiles, illae vero inseparabiles, et rursus inseparabilium cum hae quidem sint per se, illae vero per accidens, rursus earum quae sunt per se differentiarum aliae quidem sunt secundum quas dividimus genera in species, aliae vero secundum quas haec quae divisa sunt specificantur, ut cum per se differentiae omnes huiusmodi sint animalis, animati et inanimati, sensibilis et insensibilis, rationalis et irrationalis, mortalis et immortalis, ea quidem quae est animati et sensibilis differentia, constitutiva est substantiae animalis – est enim animal substantia animata sensibilis – ea vero quae est mortalis et immortalis differentia et rationalis et irrationalis, divisivae sunt animalis differentiae ; per eas enim genera in species dividimus. Sed hae quidem quae divisivae sunt differentiae generum, completivae fiunt et constitutivae specierum ; dividitur enim animal rationali et irrationali differentia et rursus mortali et immortali differentia. Sed ea quae est rationalis differentia et mortalis, constitutivae fiunt hominis, rationalis vero et immortalis dei, illae vero quae sunt irrationalis et mortalis, irrationabilium animalium. Sic etiam et supremae substantiae cum divisiva sit animati et inanimati differentia et sensibilis et insensibilis, animata et sensibilis congregatae ad substantiam animal perfecerunt. Quoniam ergo eaedem aliquo modo quidem acceptae fiunt constitutivae, aliquo modo autem divisivae, specificae omnes vocantur. Et his maxime opus est ad divisiones generum et definitiones, sed non his quae secundum accidens inseparabiles sunt, nec magis his quae sunt separabiles.",
+          "ref": null
+        },
+        {
+          "n": "9",
+          "text": "Quas etiam determinantes dicunt : differentia est qua abundat species a genere. Homo enim ab animali plus habet rationale et mortale : animal enim neque ipsum nihil horum est – nam unde habebunt species differentias ? Neque autem omnes oppositas habent – nam in eodem simul habebunt opposita. Sed, quemadmodum probant, potestate quidem omnes habent sub se differentias, actu vero nullam. Ac sic neque ex his quae non sunt, aliquid fit neque opposita circa idem sunt.",
+          "ref": null
+        },
+        {
+          "n": "10",
+          "text": "Definiunt autem eam et hoc modo: differentia est quod de pluribus et differentibus specie in eo quod quale sit praedicatur ; rationale enim et mortale de homine praedicatum in eo quod quale quiddam est homo dicitur, sed non in eo quod quid est. Quid est enim homo interrogatis nobis conveniens est dicere animal, quale autem animal inquisiti, quoniam rationale et mortale est, convenienter assignabimus. Rebus enim ex materia et forma constantibus vel ad similitudinem materiae specieique constitutionem habentibus, quemadmodum statua ex materia est aeris, forma autem figura, sic et homo communis et specialis ex materia quidem similiter consistit genere, ex forma autem differentia, totum autem hoc animal rationale mortale homo est, quemadmodum illic statua.",
+          "ref": null
+        },
+        {
+          "n": "11",
+          "text": "Describunt autem huiusmodi differentias et hoc modo : differentia est quod aptum natum est dividere quae sub eodem sunt genere ; rationale enim et irrationale hominem et equum, quae sub eodem sunt genere, quod est animal, dividunt.",
+          "ref": null
+        },
+        {
+          "n": "12",
+          "text": "Assignant autem etiam hoc modo : differentia est qua differunt a se singula ; nam secundum genus non differunt. Sumus enim mortalia animalia et nos et irrationabilia, sed additum rationabile separavit nos ab illis, rationabiles sumus et nos et dii, sed mortale appositum disiunxit nos ab illis.",
+          "ref": null
+        },
+        {
+          "n": "13",
+          "text": "Interius autem perscrutantes de differentia, dicunt non quodlibet eorum quae sub eodem sunt genere dividentium esse differentiam, sed quod ad esse conducit et quod eius quod est esse rei pars est ; neque enim quod aptum natum est navigare erit hominis differentia, etsi proprium sit hominis. Dicimus enim ‘animalium haec quidem apta nata sunt ad navigandum, illa vero minime’, dividentes ab aliis, sed aptum natum esse ad navigandum non erat completivum substantiae nec eius pars, sed aptitudo quaedam eius est, idcirco, quoniam non est alis quales sunt quae specificae dicuntur differentiae. Erunt igitur specificae differentiae quaecumque alteram faciunt speciem et quaecumque in eo quod quale est accipiuntur.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Et de differentiis quidem ista sufficiunt.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "de-proprio",
+      "number": "IV",
+      "ref": null,
+      "sourceHeading": "De proprio",
+      "editorialTitle": "On Property",
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "Proprium vero quadrifariam dividunt. Nam et id quod soli alicui speciei accidit, etsi non omni, ut homini medicum esse vel geometrem, et quod omni accidit, etsi non soli, quemadmodum homini esse bipedem. Et quod soli et omni et aliquando, ut homini in senectute canescere, quartum vero, in quo concurrit et soli et omni et semper, quemadmodum homini esse risibile. Nam etsi non ridet, tamen risible dicitur, non quod iam rideat, sed quod aptus natus sit ; hoc autem ei semper est naturale et equo hinnibile. Haec autem proprie [dominanter] propria perhibent, quoniam etiam convertuntur. Quidquid enim equus, hinnibile, et quidquid hinnibile, equus.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "de-accidente",
+      "number": "V",
+      "ref": null,
+      "sourceHeading": "De accidente",
+      "editorialTitle": "On Accident",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Accidens vero est quod adest et abest praeter subiecti corruptionem.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Dividitur autem in duo, in separabile et in inseparabile. Namque dormire est separabile accidens, nigrum vero esse inseparabiliter corvo et Aethiopi accidit.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Potest autem subintelligi et corvus albus et Aethiops amittens colorem praeter subiecti corruptionem.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Definitur autem sic quoque : accidens est quod contingit eidem esse et non esse, vel quod neque genus neque differentia neque species neque proprium, semper autem est in subiecto subsistens.",
+          "ref": null
+        },
+        {
+          "n": "5",
+          "text": "Omnibus igitur determinatis quae proposita sunt, dico autem genere, specie, differentia, proprio, accidenti, dicendum est quae eis communia adsunt et quae propria.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-vi",
+      "number": "VI",
+      "ref": null,
+      "sourceHeading": "De his communibus quae assunt generi et speciei et differentiae et proprio et accidenti",
+      "editorialTitle": "Features Common to All Five",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Commune quidem omnibus est de pluribus praedicari, sed genus quidem de speciebus et de individuis, et differentia similiter, species autem de his quae sub ipsa sunt individuis, at vero proprium et de specie et cuius est proprium et de his quae sub specie sunt individuis, accidens autem et de speciebus et de individuis.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Namque animal de equis et bubus et canibus praedicatur, quae sunt species, et de hoc equo et de hoc bove, quae sunt individua, irrationale vero et de equis et de bobus praedicatur et de his qui sunt particulares, species autem, ut homo, solum de his qui sunt particulares praedicatur, proprium autem, quod est risibile, de homine et de his qui sunt particulares, nigrum autem et de specie corvorum et de his qui sunt particulares, quod est accidens inseparabile, et moveri de homine et de equo, quod est accidens separabile, sed principaliter quidem de individuis, secundum posteriorem vero rationem de his quae continent individua.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-vii",
+      "number": "VII",
+      "ref": null,
+      "sourceHeading": "De communitatibus generis et differentiae",
+      "editorialTitle": "Genus and Differentia: Common Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Commune est autem generi et differentiae continentia specierum. Continet enim et differentia species, etsi non omnes quot genera. Rationale enim etiamsi non continet ea quae sunt irrationabilia ut genus quemadmodum animal, sed continet hominem et deum, quae sunt species.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Et quaecumque praedicantur de genere ut genus, et de his quae sub ipso sunt speciebus praedicantur, et quaecumque de differentia praedicantur ut differentiae, et de ea quae ex ipsa est specie praedicabuntur. Nam cum sit genus animal, non solum de eo praedicantur ut genus substantia et animatum, sed etiam, de his quae sunt sub animali speciebus omnibus praedicantur haec usque ad individua. Cumque sit differentia rationalis, praedicatur de ea ut differentia id quod est ratione uti, non solum de eo quod est rationale, sed etiam de his quae sunt sub rationali speciebus praedicabitur ratione uti.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Commune autem est et perempto genere vel differentia simul perimi quae sub ipsis sunt ; quemadmodum si non sit animal, non est equus neque homo, sic si non sit rationale, nullum erit animal quod utatur ratione.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-viii",
+      "number": "VIII",
+      "ref": null,
+      "sourceHeading": "De differentiis generis et differentiae",
+      "editorialTitle": "Genus and Differentia: Differences",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Proprium autem generis est de pluribus praedicari quam differentia et species et proprium et accidens ; animal enim de homine et equo et ave et serpente, quadrupes vero de solis quattuor pedes habentibus, homo vero videtur de solis individuis et hinnibile de equo et de his qui sunt particulares, et accidens similiter de paucioribus.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Oportet autem differentias accipere quibus dividitur genus, non eas quae complent substantiam generis.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Amplius genus continet differentiam potestate ; animalis enim hoc quidem rationale est, illud vero irrationale.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Amplius genera quidem priora sunt his quae sunt sub se positis differentiis, propter quod simul quidem eas aufert, non autem simul aufertur ; sublato enim animali aufertur rationale et irrationale. Differentiae vero non auferunt genus ; nam si omnes interimantur, tamen substanti a animata sensibilis subintelligi potest, quae est animal.",
+          "ref": null
+        },
+        {
+          "n": "5",
+          "text": "Amplius genus quidem in eo quod quid est, differentia vero in eo quod quale quiddam est, quemadmodum dictum est, praedicatur.",
+          "ref": null
+        },
+        {
+          "n": "6",
+          "text": "Amplius genus quidem unum est secundum unamquamque speciem, ut hominis id quod est animal, differentiae vero plurimae, ut rationale, mortale, mentis et disciplinae perceptibile, quibus ab aliis differt.",
+          "ref": null
+        },
+        {
+          "n": "7",
+          "text": "Et genus quidem consimile est materiae, formae vero differentia.",
+          "ref": null
+        },
+        {
+          "n": "8",
+          "text": "Cum autem sint et alia communia et propria generis et differentiae, nunc ista sufficiant.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-ix",
+      "number": "IX",
+      "ref": null,
+      "sourceHeading": "De communitatibus generis et speciei",
+      "editorialTitle": "Genus and Species: Common Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Genus autem et species commune quidem habent de pluribus, quemadmodum dictum est, praedicari. Sumatur autem species ut species et non etiam ut genus, si fuerit idem species et genus.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Commune autem his est et priora esse eorum de quibus praedicantur.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Et totum quiddam esse utrumque.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-x",
+      "number": "X",
+      "ref": null,
+      "sourceHeading": "De propriis generis et speciei",
+      "editorialTitle": "Genus and Species: Distinctive Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Differt autem eo quod genus quidem continet species sub se, species vero continentur et non continent genera ; in pluribus enim genus quam species est. Genera enim praeiacere oportet et formata specificis differentiis perficere species.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Unde et priora sunt naturaliter genera et simul interimentia, sed quae non simul interimantur.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Et species quidem cum sit, est et genus, genus vero cum sit, non omnino erit et species.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Et genera quidem univoce de speciebus praedicantur, species vero de generibus minime.",
+          "ref": null
+        },
+        {
+          "n": "5",
+          "text": "Amplius genera quidem abundant earum quae sub ipsis sunt specierum continentia, species vero generibus abundant propriis differentiis.",
+          "ref": null
+        },
+        {
+          "n": "6",
+          "text": "Amplius neque species fiet umquam generalissimum neque genus specialissimum.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xi",
+      "number": "XI",
+      "ref": null,
+      "sourceHeading": "De communitatibus generis et proprii",
+      "editorialTitle": "Genus and Property: Common Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Generis autem et proprii commune quidem est sequi species – nam si homo est, animal est, et si homo est, risibile est.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Et aequaliter praedicari genus de speciebus et proprium de his quae illo participant ; aequaliter enim et homo et bos animal et Cato et Cicero risibile.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Commune autem et univoce praedicari genus de propriis speciebus et proprium quorum est proprium.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xii",
+      "number": "XII",
+      "ref": null,
+      "sourceHeading": "De propriis generis et proprii",
+      "editorialTitle": "Genus and Property: Distinctive Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Differt autem, quoniam genus quidem prius est, posterius veto proprium ; oportet enim esse animal, dehinc dividi differentiis et propriis.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Et genus quidem de pluribus speciebus praedicatur, proprium vero de una sola specie cuius est proprium.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Et proprium quidem conversim praedicatur cuius est proprium, genus vero de nullo conversim praedicatur. Nam neque si animal est, homo est, neque si animal est, risibile est ; sin vero homo, et risibile est, et e converso.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Amplius proprium omni speciei inest cuius est proprium, et soli et semper, genus vero omni quidem speciei cuius fuerit genus, et semper, non autem soli.",
+          "ref": null
+        },
+        {
+          "n": "5",
+          "text": "Amplius species quidem interemptae non simul interimunt genera, propria vero interempta simul interimunt ea quorum sunt propria. Et his quorum sunt propria interemptis et ipsa simul interimuntur.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xiii",
+      "number": "XIII",
+      "ref": null,
+      "sourceHeading": "De communitate generis et accidentis",
+      "editorialTitle": "Genus and Accident: Common Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "Generis vero et accidentis commune est de pluribus, quemadmodum dictum est, praedicari, sive separabilium sit sive inseparabilium ; etenim moveri de pluribus et nigrum de corvis et de hominibus Aethiopibus et aliquibus inanimatis.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xiv",
+      "number": "XIV",
+      "ref": null,
+      "sourceHeading": "De propriis generis et accidentis",
+      "editorialTitle": "Genus and Accident: Distinctive Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Differt autem genus accidente, quoniam genus ante species est, accidentia vero speciebus posteriora sunt ; nam si etiam inseparabile sumatur accidens, sed tamen prius est illud cui accidit quam accidens.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Et genere quidem quae participant, aequaliter participant, accidente vero non aequaliter ; intentionem enim et remissionem suscipit accidentium participatio, generum vero minime.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Et accidentia quidem in individuis principaliter subsistunt, genera vero et species naturaliter priora sunt individuis substantiis.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Et genera quidem in eo quod quid sit praedicantur de his quae sub ipsis sunt, accidentia vero in eo quod quale aliquid sit vel quomodo se habeat unumquodque ; qualis est enim Aethiops interrogatus dicis ‘niger’, et quemadmodum se Socrates habeat, dicis quoniam sedet vel ambulat.",
+          "ref": null
+        },
+        {
+          "n": "5",
+          "text": "Genus vero quo ab aliis quattuor differat, dictum est. Contingit autem etiam unumquodque aliorum differre ab aliis quattuor, ut cum quinque quidem sint, unumquodque autem ab aliis quattuor differat, quater quinque, viginti fiant omnes differentiae, sed semper posterioribus enumeratis et secundis quidem una differentia superatis, propterea quia iam sumpta est, tertiis vero duabus, quartis vero tribus, quintis vero quattuor, decem omnes fiunt, quattuor, tres, duae, una. Genus enim differt differentia et specie et proprio et accidenti ; quattuor igitur sunt omnes differentiae. Differentia vero quo differt genere dictum est, quando quo differret genus ab ea dicebatur ; relinquitur igitur quo differat specie et proprio et accidente dicere, et fiunt tres. Rursus species quo quidem differat a differentia dictum est, quando quo differret differentia specie, dicebatur ; quo autem differt species genere, dictum est, quando quo differret genus specie, dicebatur ; reliquum est igitur, ut quo differat proprio et accidente dicatur. Duae igitur etiam istae sunt differentiae. Proprium autem quo differat accidente relinquitur ; nam quo specie et differentia et genere differt, praedictum est in illorum ad ipsum differentia. Quattuor igitur sumptis generis ad alia differentiis, tribus vero differentiae, duabus autem speciei, una autem proprii ad accidens, decem erunt omnes, quarum quattuor, quae erant generis ad reliqua, superius demonstravimus.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xv",
+      "number": "XV",
+      "ref": null,
+      "sourceHeading": "De communitatibus differentiae et speciei",
+      "editorialTitle": "Differentia and Species: Common Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Commune ergo differentiae et speciei est aequaliter participari ; homine enim aequaliter participant particulares homines et rationali differentia.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Commune vero est et semper adesse his quae participant ; semper enim Socrates rationalis et semper Socrates homo.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xvi",
+      "number": "XVI",
+      "ref": null,
+      "sourceHeading": "De differentiis speciei et differentiae",
+      "editorialTitle": "Species and Differentia: Differences",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Proprium autem differentiae quidem est in eo quod quale sit praedicari, speciei vero in eo quod quid est ; nam etsi homo velut qualitas accipiatur, non simpliciter erit qualitas, sed secundum id quod generi advenientes differentiae eam constituerunt.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Amplius differentia quidem in pluribus saepe speciebus consideratur, quemadmodum quadrupes in pluribus animalibus specie differentibus, species vero in solis his quae sub specie sunt individuis est.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Amplius differentia prima est ab ea specie quae est secundum ipsam ; simul enim ablatum rationale interimit hominem, homo vero interemptus non aufert rationale, cum sit Deus.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Amplius differentia quidem componitur cum alia differentia – rationale enim et mortale compositum est in substantia hominis – species vero speciei non componitur, ut gignat aliam aliquam speciem ; quidam enim equus cuidam asino permiscetur ad muli generationem, equus autem simpliciter asino numquam conveniens perficiet mulum.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xvii",
+      "number": "XVII",
+      "ref": null,
+      "sourceHeading": "De communibus differentiae et proprii",
+      "editorialTitle": "Differentia and Property: Common Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Differentia vero et proprium commune quidem habent aequaliter participari ab his quae eorum participant ; aequaliter enim rationalia rationalia sunt et risibilia risibilia sunt.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Et semper et omni adesse commune utriusque est. Si enim curtetur qui est bipes, non substantiam perimit, sed ad quod natum est semper dicitur ; nam et risibile eo quod natum est habet id quod est semper, sed non eo quod semper rideat.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xviii",
+      "number": "XVIII",
+      "ref": null,
+      "sourceHeading": "De differentiis proprii et differentiae",
+      "editorialTitle": "Property and Differentia: Differences",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Proprium autem differentiae est quoniam haec quidem de pluribus speciebus dicitur saepe, ut rationale de homine et de deo, proprium vero de una sola specie, cuius est proprium.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Et differentia quidem illis est consequens quorum est differentia, sed non convertitur, propria vero conversim praedicantur quorum sunt propria, idcirco quoniam convertuntur.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xix",
+      "number": "XIX",
+      "ref": null,
+      "sourceHeading": "De communibus differentiae et accidentis",
+      "editorialTitle": "Differentia and Accident: Common Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Differentiae autem et accidenti commune quidem est de pluribus dici.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Commune vero ad ea quae sunt inseparabilia accidentia, semper et omnibus adesse ; bipes enim semper adest omnibus corvis et nigrum esse similiter.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xx",
+      "number": "XX",
+      "ref": null,
+      "sourceHeading": "De propriis differentiae et accidentis",
+      "editorialTitle": "Differentia and Accident: Distinctive Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Differunt autem quoniam differentia quidem continet et non continetur – continet enim rationabilitas hominem – accidentia vero quodam quidem modo continent eo quod in pluribus sint, quodam vero modo continentur eo quod non unius accidentis susceptibilia sunt subiecta, sed plurimorum.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Et differentia quidem inintendibilis est et irremissibilis, accidentia vero magis et minus recipiunt.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Et impermixtae quidem sunt contrariae differentiae, mixta vero contraria accidentia.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Huiusmodi quidem communiones et proprietates differentiae et ceterorum sunt, species vero quo quidem differat a genere et differentia, dictum est in eo quod dicebamus, quo genus differt ceteris et quo differentia differret ceteris.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xxi",
+      "number": "XXI",
+      "ref": null,
+      "sourceHeading": "De communibus speciei et proprii",
+      "editorialTitle": "Species and Property: Common Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Speciei autem et proprii commune est de se invicem praedicari ; nam si homo, risibile est, et si risibile, homo est – risibile vero quoniam secundum id quod natum est sumi oportet, saepe iam dictum est.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Aequaliter enim sunt species his quae eorum participant et propria quorum sunt propria.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xxii",
+      "number": "XXII",
+      "ref": null,
+      "sourceHeading": "De propriis speciei et proprii",
+      "editorialTitle": "Species and Property: Distinctive Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Differt autem species a proprio, quoniam species quidem potest et aliis genus esse, proprium vero et aliarum, specierum esse impossibile est.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Et species quidem ante subsistit quam proprium, proprium vero postea fit in specie ; oportet enim hominem esse, ut sit risibile.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Amplius species quidem semper actu adest subiecto, proprium veto aliquando potestate ; homo enim semper actu est Socrates, non vero semper ridet, quamvis sit natus semper risibilis.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Amplius quorum termini differentes, et ipsa sunt differentia ; est autem speciei quidem sub genere esse et de pluribus et differentibus numero in eo quod quid est praedicari et cetera huiusmodi, proprii vero quod est soli et semper et omni adesse.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xxiii",
+      "number": "XXIII",
+      "ref": null,
+      "sourceHeading": "De communibus speciei et accidentis",
+      "editorialTitle": "Species and Accident: Common Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "Speciei vero et accidentis commune quidem est de pluribus praedicari ; rarae vero aliae sunt communitates propterea, quoniam quam plurimum a se distant accidens et id cui accidit.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xxiv",
+      "number": "XXIV",
+      "ref": null,
+      "sourceHeading": "De propriis speciei et accidentis",
+      "editorialTitle": "Species and Accident: Distinctive Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Propria vero utriusque sunt, speciei quidem, in eo quod quid est praedicari de his quorum est species, accidentis autem in eo quod quale quiddam est vel aliquo modo se habens.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Et unamquamque substantiam una quidem specie participare, pluribus autem accidentibus et separabilibus et inseparabilibus.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Et species quidem ante subintelligi quam accidentia, vel si sint inseparabilia – oportet enim esse subiectum, ut illi aliquid accidat – accidentia vero posterioris generis sunt et adventitiae naturae.",
+          "ref": null
+        },
+        {
+          "n": "4",
+          "text": "Et speciei quidem participatio aequaliter est, accidentis vero, vel si inseparabile sit, non aequaliter ; Aethiops enim alio Aethiope habebit colorem vel intentum amplius vel remissum secundum nigritudinem.",
+          "ref": null
+        },
+        {
+          "n": "5",
+          "text": "Restat igitur de proprio et accidenti dicere ; quo enim proprium specie et differentia et genere differt, dictum est.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xxv",
+      "number": "XXV",
+      "ref": null,
+      "sourceHeading": "De communibus proprii et inseparabilis accidentis",
+      "editorialTitle": "Property and Inseparable Accident: Common Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Commune autem proprii et inseparabilis accidentis est quod praeter ea numquam constant illa in quibus considerantur ; quemadmodum enim praeter risibile non subsistit homo, ita nec praeter nigredinem subsistit Aethiops.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Et quemadmodum semper et omni adest proprium, sic et inseparabile accidens.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "sec-xxvi",
+      "number": "XXVI",
+      "ref": null,
+      "sourceHeading": "De propriis proprii et inseparabilis accidentis",
+      "editorialTitle": "Property and Inseparable Accident: Distinctive Features",
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Differunt autem, quoniam proprium uni soli speciei adest, quemadmodum risibile homini, inseparabile vero accidens, ut nigrum, non solum Aethiopi, sed etiam, corvo adest et carboni et ebeno et quibusdam aliis.",
+          "ref": null
+        },
+        {
+          "n": "2",
+          "text": "Quare proprium conversim praedicatur de eo cuius est proprium et est aequaliter, inseparabile vero accidens conversim non praedicatur. Et propriorum quidem aequalis est participatio, accidentium vero haec quidem magis, illa vero minus.",
+          "ref": null
+        },
+        {
+          "n": "3",
+          "text": "Sunt quidem etiam aliae communitates vel proprietates eorum quae dicta sunt, sed sufficiunt etiam, haec ad discretionem eorum communitatisque traditionem.",
+          "ref": null
+        }
+      ]
+    }
+  ]
+}

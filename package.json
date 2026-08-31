@@ -14,7 +14,10 @@
     "typecheck": "tsc -b && tsc --noEmit -p tsconfig.scripts.json",
     "test": "vitest run",
     "import:summa": "tsx scripts/import-summa/index.ts",
-    "validate:summa": "tsx scripts/import-summa/validate.ts"
+    "validate:summa": "tsx scripts/import-summa/validate.ts",
+    "import:isagoge-grc": "tsx scripts/import-isagoge-grc/index.ts",
+    "import:isagoge-la": "tsx scripts/import-isagoge-la/index.ts",
+    "validate:isagoge": "tsx scripts/import-isagoge-shared/validate.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",

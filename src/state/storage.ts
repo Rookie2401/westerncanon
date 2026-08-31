@@ -1,15 +1,29 @@
 /**
- * localStorage-backed state: reading preferences, bookmarks, last position.
- * All keys are namespaced `summa:*`. Everything degrades gracefully if storage
- * is unavailable or corrupt (private mode, cleared data, hand-edited JSON).
+ * localStorage-backed state: reading preferences, bookmarks, last position,
+ * and the Library screen's expanded-author set.
+ *
+ * Preferences stay under `summa:prefs` (unchanged; the pre-paint script in
+ * index.html reads that key). Bookmarks and last-position moved to a
+ * library-wide, work-agnostic model under `library:*`. A one-time migration
+ * lifts any pre-existing `summa:bookmarks` / `summa:last` into the new shape on
+ * first read and LEAVES THE OLD KEYS IN PLACE as a backup — a user's Summa
+ * bookmarks and reading position are never wiped.
+ *
+ * Everything degrades gracefully if storage is unavailable or corrupt.
  */
 import { useSyncExternalStore } from 'react';
 
 export const KEYS = {
   prefs: 'summa:prefs',
-  bookmarks: 'summa:bookmarks',
-  last: 'summa:last',
+  bookmarks: 'library:bookmarks',
+  last: 'library:last',
+  expandedAuthors: 'library:expandedAuthors',
+  legacyBookmarks: 'summa:bookmarks',
+  legacyLast: 'summa:last',
 } as const;
+
+/** Canonical work id for the Summa (kept in sync with src/library/registry.ts). */
+export const SUMMA_WORK_ID = 'summa-theologiae';
 
 function rawItem(key: string): string | null {
   try {
@@ -34,6 +48,17 @@ function readCached<T>(key: string, parse: (raw: string | null) => T): T {
   const value = parse(raw);
   snapCache.set(key, { raw, value });
   return value;
+}
+
+/**
+ * Test-only: drop the in-memory snapshot cache. The cache keys parsed values on
+ * the raw stored string; a test that mutates `localStorage` directly (e.g.
+ * `localStorage.clear()`) can otherwise leave a stale `{raw: null}` entry that
+ * collides with a genuinely-absent key. The running app never clears keys out
+ * from under the cache, so this is not needed in production.
+ */
+export function __clearSnapshotCache(): void {
+  snapCache.clear();
 }
 
 function parseJson<T>(raw: string | null, fallback: T): T {
@@ -62,7 +87,7 @@ function emit(): void {
 function subscribe(cb: () => void): () => void {
   listeners.add(cb);
   const onStorage = (e: StorageEvent) => {
-    if (!e.key || e.key.startsWith('summa:')) cb();
+    if (!e.key || e.key.startsWith('summa:') || e.key.startsWith('library:')) cb();
   };
   window.addEventListener('storage', onStorage);
   return () => {
@@ -115,47 +140,101 @@ export function usePrefs(): Prefs {
   return useSyncExternalStore(subscribe, getPrefs, () => DEFAULT_PREFS);
 }
 
+// --- shared position model -------------------------------------------------
+
+/**
+ * A location anywhere in the Library. `path` is work-relative:
+ *   Summa   -> [partId, String(qNum), aParam]   e.g. ['prima-pars', '2', '3']
+ *   generic -> [divisionId]                      e.g. ['de-genere']
+ */
+export interface LibraryRef {
+  workId: string;
+  path: string[];
+}
+
+/** Stable identity string for a LibraryRef (bookmark key, equality checks). */
+export function refKey(r: LibraryRef): string {
+  return `${r.workId}::${r.path.join('/')}`;
+}
+
+/** The in-app route for a LibraryRef. */
+export function refHref(r: LibraryRef): string {
+  return r.workId === SUMMA_WORK_ID
+    ? `/read/${r.path.join('/')}`
+    : `/read/${r.workId}/${r.path[0] ?? ''}`;
+}
+
 // --- bookmarks ------------------------------------------------------------------
-export interface Bookmark {
-  citation: string;
-  partId: string;
-  qNum: number;
-  aParam: string;
+export interface Bookmark extends LibraryRef {
+  /** Human label, e.g. "I q. 2 a. 3" or "Isagoge · § I". */
+  label: string;
+  /** Secondary line (utrum / editorial section title), or null. */
   title: string | null;
   added: number;
 }
 
+interface LegacyBookmark {
+  citation?: string;
+  partId?: string;
+  qNum?: number;
+  aParam?: string;
+  title?: string | null;
+  added?: number;
+}
+
+function migrateBookmark(b: LegacyBookmark): Bookmark | null {
+  if (!b || typeof b.partId !== 'string' || typeof b.aParam !== 'string') return null;
+  return {
+    workId: SUMMA_WORK_ID,
+    path: [b.partId, String(b.qNum ?? ''), b.aParam],
+    label: b.citation ?? `${b.partId} ${b.qNum ?? ''} ${b.aParam}`.trim(),
+    title: b.title ?? null,
+    added: typeof b.added === 'number' ? b.added : Date.now(),
+  };
+}
+
+function isBookmark(v: unknown): v is Bookmark {
+  return (
+    !!v &&
+    typeof v === 'object' &&
+    typeof (v as Bookmark).workId === 'string' &&
+    Array.isArray((v as Bookmark).path)
+  );
+}
+
 export function getBookmarks(): Bookmark[] {
   return readCached(KEYS.bookmarks, (raw) => {
-    const list = parseJson<Bookmark[]>(raw, []);
-    return Array.isArray(list)
-      ? list.filter((b) => b && typeof b.citation === 'string')
+    if (raw != null) {
+      const list = parseJson<unknown[]>(raw, []);
+      return Array.isArray(list) ? list.filter(isBookmark) : [];
+    }
+    // No new-key data — migrate from the legacy Summa key (kept intact).
+    const legacy = parseJson<LegacyBookmark[]>(rawItem(KEYS.legacyBookmarks), []);
+    const migrated = Array.isArray(legacy)
+      ? legacy.map(migrateBookmark).filter((b): b is Bookmark => b !== null)
       : [];
+    if (migrated.length) write(KEYS.bookmarks, migrated);
+    return migrated;
   });
 }
 
-export function isBookmarked(citation: string): boolean {
-  return getBookmarks().some((b) => b.citation === citation);
+export function isBookmarked(key: string): boolean {
+  return getBookmarks().some((b) => refKey(b) === key);
 }
 
 export function toggleBookmark(bm: Omit<Bookmark, 'added'>): boolean {
-  const list = getBookmarks();
-  const i = list.findIndex((b) => b.citation === bm.citation);
-  let nowOn: boolean;
-  if (i >= 0) {
-    list.splice(i, 1);
-    nowOn = false;
-  } else {
-    list.push({ ...bm, added: Date.now() });
-    nowOn = true;
-  }
-  write(KEYS.bookmarks, list);
+  const key = refKey(bm);
+  const current = getBookmarks();
+  const without = current.filter((b) => refKey(b) !== key);
+  const nowOn = without.length === current.length;
+  if (nowOn) without.push({ ...bm, added: Date.now() });
+  write(KEYS.bookmarks, without);
   emit();
   return nowOn;
 }
 
-export function removeBookmark(citation: string): void {
-  write(KEYS.bookmarks, getBookmarks().filter((b) => b.citation !== citation));
+export function removeBookmark(key: string): void {
+  write(KEYS.bookmarks, getBookmarks().filter((b) => refKey(b) !== key));
   emit();
 }
 
@@ -163,36 +242,67 @@ export function useBookmarks(): Bookmark[] {
   return useSyncExternalStore(subscribe, getBookmarks, () => []);
 }
 
-export function useIsBookmarked(citation: string): boolean {
+export function useIsBookmarked(key: string): boolean {
   return useSyncExternalStore(
     subscribe,
-    () => isBookmarked(citation),
+    () => isBookmarked(key),
     () => false,
   );
 }
 
 // --- last position -----------------------------------------------------------
-export interface LastPosition {
-  partId: string;
-  qNum: number;
-  aParam: string;
+export interface LastPosition extends LibraryRef {
   scrollRatio: number;
+  /** Human label for the Continue card, e.g. "I q. 2 a. 3" or "Isagoge · § I". */
+  label?: string;
+  /** Secondary line (utrum / editorial section title). */
+  title?: string | null;
+}
+
+interface LegacyLast {
+  partId?: string;
+  qNum?: number;
+  aParam?: string;
+  scrollRatio?: number;
   title?: string | null;
   citation?: string;
 }
 
 export function getLast(): LastPosition | null {
   return readCached(KEYS.last, (raw) => {
-    const v = parseJson<LastPosition | null>(raw, null);
-    if (
-      !v ||
-      typeof v.partId !== 'string' ||
-      typeof v.qNum !== 'number' ||
-      typeof v.aParam !== 'string'
-    ) {
+    const parse = (v: unknown): LastPosition | null => {
+      if (
+        !v ||
+        typeof v !== 'object' ||
+        typeof (v as LastPosition).workId !== 'string' ||
+        !Array.isArray((v as LastPosition).path)
+      ) {
+        return null;
+      }
+      const p = v as LastPosition;
+      return {
+        workId: p.workId,
+        path: p.path.map(String),
+        scrollRatio: typeof p.scrollRatio === 'number' ? p.scrollRatio : 0,
+        label: p.label,
+        title: p.title ?? null,
+      };
+    };
+    if (raw != null) return parse(parseJson<unknown>(raw, null));
+    // Migrate from the legacy Summa key (kept intact).
+    const legacy = parseJson<LegacyLast | null>(rawItem(KEYS.legacyLast), null);
+    if (!legacy || typeof legacy.partId !== 'string' || typeof legacy.aParam !== 'string') {
       return null;
     }
-    return v;
+    const migrated: LastPosition = {
+      workId: SUMMA_WORK_ID,
+      path: [legacy.partId, String(legacy.qNum ?? ''), legacy.aParam],
+      scrollRatio: typeof legacy.scrollRatio === 'number' ? legacy.scrollRatio : 0,
+      label: legacy.citation,
+      title: legacy.title ?? null,
+    };
+    write(KEYS.last, migrated);
+    return migrated;
   });
 }
 
@@ -203,4 +313,38 @@ export function setLast(v: LastPosition): void {
 
 export function useLast(): LastPosition | null {
   return useSyncExternalStore(subscribe, getLast, () => null);
+}
+
+// --- Library screen: expanded-author accordion state -----------------------
+export function getExpandedAuthors(): string[] {
+  return readCached(KEYS.expandedAuthors, (raw) => {
+    const list = parseJson<string[]>(raw, []);
+    return Array.isArray(list) ? list.filter((s) => typeof s === 'string') : [];
+  });
+}
+
+/** Whether the user has ever toggled the accordion (vs. the computed default). */
+export function expandedAuthorsInitialized(): boolean {
+  return rawItem(KEYS.expandedAuthors) != null;
+}
+
+/** Persist an explicit set only if the key has never been written. */
+export function seedExpandedAuthors(ids: string[]): void {
+  if (rawItem(KEYS.expandedAuthors) == null) {
+    write(KEYS.expandedAuthors, ids);
+    emit();
+  }
+}
+
+export function toggleExpandedAuthor(authorId: string): void {
+  const cur = getExpandedAuthors();
+  const next = cur.includes(authorId)
+    ? cur.filter((a) => a !== authorId)
+    : [...cur, authorId];
+  write(KEYS.expandedAuthors, next);
+  emit();
+}
+
+export function useExpandedAuthors(): string[] {
+  return useSyncExternalStore(subscribe, getExpandedAuthors, () => []);
 }

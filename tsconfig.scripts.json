@@ -20,5 +20,10 @@
     "noUncheckedIndexedAccess": false,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["scripts/**/*.ts", "data/summa/**/*.ts"]
+  "include": [
+    "scripts/**/*.ts",
+    "data/summa/**/*.ts",
+    "data/isagoge-grc/**/*.ts",
+    "data/isagoge-la/**/*.ts"
+  ]
 }

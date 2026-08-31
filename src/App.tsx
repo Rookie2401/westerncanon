@@ -2,10 +2,14 @@ import { useEffect } from 'react';
 import { HashRouter, Route, Routes, useLocation } from 'react-router-dom';
 import { applyPrefs } from './state/applyPrefs.ts';
 import { getPrefs, usePrefs } from './state/storage.ts';
-import { Home } from './screens/Home.tsx';
+import { Library } from './screens/Library.tsx';
+import { AuthorScreen } from './screens/Author.tsx';
+import { WorkScreen } from './screens/Work.tsx';
 import { PartScreen } from './screens/Part.tsx';
 import { QuestionScreen } from './screens/Question.tsx';
 import { Reader } from './screens/Reader.tsx';
+import { GenericReader } from './screens/GenericReader.tsx';
+import { WorkAboutScreen } from './screens/WorkAbout.tsx';
 import { SearchScreen } from './screens/Search.tsx';
 import { BookmarksScreen } from './screens/Bookmarks.tsx';
 import { SettingsScreen } from './screens/Settings.tsx';
@@ -44,16 +48,22 @@ function AnimatedRoutes() {
   return (
     <div className="route-fade" key={screenKey}>
       <Routes location={location}>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Library />} />
+        <Route path="/author/:authorId" element={<AuthorScreen />} />
+        <Route path="/work/:workId" element={<WorkScreen />} />
+        <Route path="/work/:workId/about" element={<WorkAboutScreen />} />
         <Route path="/prooemium" element={<ProoemiumScreen />} />
         <Route path="/part/:partId" element={<PartScreen />} />
         <Route path="/part/:partId/q/:qNum" element={<QuestionScreen />} />
+        {/* 3-segment Summa reader; ranks ahead of the 2-segment generic route
+            for a 3-segment path, so Summa deep links still resolve. */}
         <Route path="/read/:partId/:qNum/:aParam" element={<Reader />} />
+        <Route path="/read/:workId/:divId" element={<GenericReader />} />
         <Route path="/search" element={<SearchScreen />} />
         <Route path="/bookmarks" element={<BookmarksScreen />} />
         <Route path="/settings" element={<SettingsScreen />} />
         <Route path="/about" element={<AboutScreen />} />
-        <Route path="*" element={<Home />} />
+        <Route path="*" element={<Library />} />
       </Routes>
     </div>
   );

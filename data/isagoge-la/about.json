@@ -1,0 +1,47 @@
+{
+  "workId": "isagoge-la",
+  "title": "Isagoge",
+  "author": "Porphyry",
+  "language": "la",
+  "edition": "ed. M. Dal Pra, 1969",
+  "translator": "Boethius",
+  "provenance": "Latin Wikisource, page \"Isagoge\" (transcribed there from the edition-text posted by P. King, individual.utoronto.ca); imported by scripts/import-isagoge-la.",
+  "license": "Boethius’s translation is itself in the public domain (early 6th century). The digital transcription is taken from Latin Wikisource and is available under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "The translation",
+      "paragraphs": [
+        "This is Porphyry’s Isagoge in the Latin translation made by Boethius in the early sixth century. It was through this version that the Isagoge shaped the whole medieval tradition of logic and the debate over universals.",
+        "The text here is the Latin, verbatim. Nothing is translated further, modernised, normalised or silently corrected.",
+        "It is Boethius — not \"Boetheus\"."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The paragraph text and its numbering follow M. Dal Pra’s edition of the Boethian translation (1969). This work carries no Busse pagination and no line numbers; its citation scheme is section plus paragraph — for example \"§ I ¶ 4\"."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the Latin Wikisource page \"Isagoge\", which transcribes the edition-text circulated by Peter King (individual.utoronto.ca). It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer splits the text into the same 27 divisions as the Greek — a preface followed by sections I–XXVI — keyed to the verbatim Latin rubrics (\"De genere\", \"De specie\", and so on). Wiki markup was stripped; the words and the printed paragraph numbers are otherwise untouched.",
+        "Each division also carries an English section title. These titles are editorial: they are not source text and are marked \"ed.\" wherever they appear. The Latin rubrics and the section and paragraph numbers come from the edition."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Section II, paragraph 2 contains the angle-bracket supplement <quod>. This is an editorial addition printed in the edition, not stray markup, and it is kept verbatim.",
+        "A few paragraphs carry no printed number in the source — one each in sections III, IV, XIII and XXIII. Those passages are stored with an empty paragraph number.",
+        "This source has no Busse or line numbering, so every page/line reference field is empty; cite by section and paragraph."
+      ]
+    }
+  ]
+}
