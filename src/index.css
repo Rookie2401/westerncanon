@@ -530,12 +530,20 @@ body {
   padding-left: 1.1rem;
 }
 /* Level 1: a standalone work (no editions) — align its label with a
-   work-family label, past the chevron gutter. */
+   work-family label, past the chevron gutter, and stack title over the
+   source line the same way the family editions do (consistency). */
 .library__works > .home__entry {
   padding-left: 2.2rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.15rem;
 }
 .library__works > .home__entry:hover {
   padding-left: 2.5rem;
+}
+.library__works > .home__entry .library__work-meta {
+  margin-left: 0;
+  padding-left: 0;
 }
 .library__work-meta {
   margin-left: auto;
