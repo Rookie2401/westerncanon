@@ -25,6 +25,18 @@ export const AUTHORS: Author[] = [
     sortYear: 1225,
     datesLabel: '1225–1274',
   },
+  {
+    id: 'euclid',
+    displayName: 'Euclid',
+    sortYear: -300,
+    datesLabel: 'fl. c. 300 BC',
+  },
+  {
+    id: 'archimedes',
+    displayName: 'Archimedes',
+    sortYear: -250,
+    datesLabel: 'c. 287–212 BC',
+  },
 ];
 
 export const WORKS: Work[] = [
@@ -152,6 +164,258 @@ export const WORKS: Work[] = [
       provenance: 'Latin Wikisource, “Isagoge”.',
       license:
         'Boethius’s translation public domain; transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
+    id: 'euclid-elements',
+    authorId: 'euclid',
+    title: 'Στοιχεῖα',
+    commonTitle: 'Elements',
+    language: 'grc',
+    citationScheme: 'heiberg-book-number',
+    profile: 'generic',
+    meta: 'Greek · Heiberg',
+    source: {
+      edition: 'Heiberg 1883-88',
+      editor: 'Johan Ludvig Heiberg',
+      provenance:
+        'TEI from PerseusDL/canonical-greekLit (CTS urn:cts:greekLit:tlg1799.tlg001, witness perseus-grc2).',
+      license:
+        'Heiberg 1883-88 public domain; digital text CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).',
+    },
+  },
+  {
+    id: 'archimedes-sphere-cylinder',
+    authorId: 'archimedes',
+    title: 'De sphaera et cylindro',
+    commonTitle: 'On the Sphere and Cylinder',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 1',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1970 (vol. 1)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg001), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 1, 1970); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-measurement-circle',
+    authorId: 'archimedes',
+    title: 'Dimensio circuli',
+    commonTitle: 'Measurement of a Circle',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 1',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1970 (vol. 1)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg002), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 1, 1970); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-conoids-spheroids',
+    authorId: 'archimedes',
+    title: 'De conoidibus et sphaeroidibus',
+    commonTitle: 'On Conoids and Spheroids',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 1',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1970 (vol. 1)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg003), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 1, 1970); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-spirals',
+    authorId: 'archimedes',
+    title: 'De lineis spiralibus',
+    commonTitle: 'On Spirals',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 2',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1971 (vol. 2)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg004), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 2, 1971); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-plane-equilibrium',
+    authorId: 'archimedes',
+    title: 'De planorum aequilibriis',
+    commonTitle: 'On the Equilibrium of Planes',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 2',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1971 (vol. 2)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg005), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 2, 1971); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-sand-reckoner',
+    authorId: 'archimedes',
+    title: 'Arenarius',
+    commonTitle: 'The Sand-Reckoner',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 2',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1971 (vol. 2)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg006), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 2, 1971); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-quadrature-parabola',
+    authorId: 'archimedes',
+    title: 'Quadratura parabolae',
+    commonTitle: 'Quadrature of the Parabola',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 2',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1971 (vol. 2)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg007), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 2, 1971); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-floating-bodies',
+    authorId: 'archimedes',
+    title: 'De corporibus fluitantibus',
+    commonTitle: 'On Floating Bodies',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 3',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1971 (vol. 3)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg008), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 3, 1971); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-stomachion',
+    authorId: 'archimedes',
+    title: 'Stomachion',
+    commonTitle: 'Stomachion',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 3',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1971 (vol. 3)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg009), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 3, 1971); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-method',
+    authorId: 'archimedes',
+    title: 'Ad Eratosthenem methodus',
+    commonTitle: 'The Method',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 3',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1971 (vol. 3)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg010), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 3, 1971); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-liber-assumptorum',
+    authorId: 'archimedes',
+    title: 'Liber assumptorum',
+    commonTitle: 'Book of Lemmas',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 3',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1971 (vol. 3)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg011), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 3, 1971); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-cattle-problem',
+    authorId: 'archimedes',
+    title: 'Problema bovinum',
+    commonTitle: 'The Cattle Problem',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 3',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1971 (vol. 3)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg012), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 3, 1971); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+    },
+  },
+  {
+    id: 'archimedes-fragments',
+    authorId: 'archimedes',
+    title: 'Fragmenta',
+    commonTitle: 'Fragments',
+    language: 'grc',
+    citationScheme: 'mugler-vol-page',
+    profile: 'generic',
+    meta: 'Greek · Mugler vol. 4',
+    source: {
+      editor: 'Charles Mugler',
+      edition: 'Mugler 1972 (vol. 4)',
+      provenance:
+        "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg013), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 4, 1972); imported by scripts/import-archimedes.",
+      license:
+        "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
     },
   },
 ];

@@ -717,6 +717,52 @@ body {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
 }
+
+/* --- nested Division group (Work screen; e.g. Euclid Book -> section-type
+   -> proposition) — same closed-by-default disclosure as the Library's
+   work-family dropdown, indented one rung per nesting level. ------------- */
+.entrygroup {
+  border-bottom: 1px solid var(--rule);
+}
+.entrygroup__head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  width: 100%;
+  text-align: left;
+  padding: 0.8rem 0.6rem 0.8rem 0.5rem;
+  color: var(--ink);
+  transition: color 0.15s;
+}
+.entrygroup__head:hover {
+  text-decoration: none;
+  color: var(--accent);
+}
+.entrygroup__chev {
+  flex: none;
+  width: 0.8rem;
+  height: 0.8rem;
+  color: var(--ink-faint);
+  transform: rotate(0deg);
+  transition: transform 0.18s ease;
+  align-self: center;
+}
+.entrygroup__chev--open {
+  transform: rotate(90deg);
+}
+.entrygroup__label {
+  font-size: 0.92rem;
+  font-style: italic;
+  color: var(--ink);
+}
+.entrygroup__children {
+  margin-left: 0.5rem;
+  padding-left: 1.1rem;
+  border-left: 1px solid var(--rule-strong);
+}
+.entrygroup__children .entry:last-child {
+  border-bottom: none;
+}
 .muted {
   color: var(--ink-faint);
 }
@@ -1330,6 +1376,36 @@ body {
   border-left: 2px solid var(--rule-strong);
   padding-left: 0.75rem;
   margin: 0.5rem 0 0;
+}
+/* --- inline proposition diagram (optional, additive; e.g. Euclid) -------- */
+.gr-figure {
+  margin: 1rem 0 0;
+  text-align: center;
+}
+.gr-figure__img {
+  max-width: 100%;
+  height: auto;
+}
+/* Honest placeholder shown when the source records a figure here but no
+   legitimately-sourced image is bundled (see PassageFigure.note). Same quiet
+   treatment as .gr-passage__anomaly — a flagged gap, never hidden. */
+.gr-figure__note {
+  font-family: var(--serif);
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--ink-faint);
+  border: 1px solid var(--rule-strong);
+  border-radius: 4px;
+  padding: 0.6rem 0.85rem;
+  margin: 0;
+  text-align: left;
+}
+.gr-figure__source {
+  font-family: var(--serif);
+  font-size: 0.72rem;
+  font-style: italic;
+  color: var(--ink-faint);
+  margin-top: 0.35rem;
 }
 
 /* --- search: generic-work result group -------------------------------- */

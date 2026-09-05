@@ -17,8 +17,8 @@ import { Library } from '../screens/Library.tsx';
 import { WorkScreen } from '../screens/Work.tsx';
 import { GenericReader } from '../screens/GenericReader.tsx';
 import { WorkAboutScreen } from '../screens/WorkAbout.tsx';
-import { AUTHORS, authorsSorted } from '../library/registry.ts';
-import type { GenericWork, WorkAbout } from '../library/types.ts';
+import { AUTHORS, WORKS, authorsSorted } from '../library/registry.ts';
+import type { GenericWork, Work, WorkAbout } from '../library/types.ts';
 import { Reader } from '../screens/Reader.tsx';
 
 beforeAll(() => {
@@ -766,6 +766,113 @@ describe('Aristotle — De Interpretatione (Latin, trans. Boethius) reader', () 
     expect(prev.getAttribute('href')).toMatch(
       /\/read\/de-interpretatione-la\/ch-1$/,
     );
+  });
+});
+
+describe('Work (generic) — nested Division groups', () => {
+  // A fresh, never-fetched workId: src/library/genericCorpus.ts caches
+  // fetched work.json Promises for the life of the module, so reusing any of
+  // the six real generic workIds here would silently hit another test's
+  // cached (real) data instead of this fixture. A throwaway Work is spliced
+  // into the registry for the duration of this block and removed after.
+  const TEST_WORK_ID = 'test-nested-groups-work';
+  const TEST_WORK: Work = {
+    id: TEST_WORK_ID,
+    authorId: 'porphyry',
+    title: 'Test Nested Work',
+    language: 'grc',
+    citationScheme: 'test',
+    profile: 'generic',
+    meta: 'Test fixture',
+    source: { provenance: 'test fixture', license: 'n/a' },
+  };
+
+  // Synthetic 2-level tree (Book -> section-type -> leaf), the shape the
+  // Euclid importer produces. Existing works keep children: [] throughout and
+  // are unaffected (covered by the earlier "Work (generic)" describe block).
+  const NESTED_WORK: GenericWork = {
+    workId: TEST_WORK_ID,
+    language: 'grc',
+    divisions: [
+      {
+        id: 'book-1',
+        number: 'I',
+        ref: null,
+        sourceHeading: null,
+        editorialTitle: 'Fundamentals of Plane Geometry',
+        children: [
+          {
+            id: 'book-1-definitions',
+            number: null,
+            ref: null,
+            sourceHeading: 'Definitions',
+            editorialTitle: null,
+            children: [
+              {
+                id: 'book-1-def-1',
+                number: '1',
+                ref: null,
+                sourceHeading: null,
+                editorialTitle: null,
+                children: [],
+                passages: [{ n: '', text: 'Σημεῖόν ἐστιν, οὗ μέρος οὐθέν.', ref: null }],
+              },
+            ],
+            passages: [],
+          },
+        ],
+        passages: [],
+      },
+    ],
+  };
+
+  beforeEach(() => {
+    WORKS.push(TEST_WORK);
+    vi.stubGlobal('fetch', async (input: unknown) => {
+      const url = String(input);
+      if (url.includes(`${TEST_WORK_ID}/work.json`)) {
+        return {
+          ok: true,
+          status: 200,
+          json: async () => NESTED_WORK,
+          text: async () => JSON.stringify(NESTED_WORK),
+        } as Response;
+      }
+      throw new Error(`unexpected fetch in test: ${url}`);
+    });
+  });
+  afterEach(() => {
+    installCorpusFetch();
+    const i = WORKS.indexOf(TEST_WORK);
+    if (i >= 0) WORKS.splice(i, 1);
+  });
+
+  it('renders a container division as a closed disclosure, never as a link, and reveals its leaf on expand', async () => {
+    render(
+      <MemoryRouter initialEntries={[`/work/${TEST_WORK_ID}`]}>
+        <Routes>
+          <Route path="/work/:workId" element={<WorkScreen />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+
+    const bookHead = await screen.findByRole('button', {
+      name: /Fundamentals of Plane Geometry/,
+    });
+    expect(bookHead.getAttribute('aria-expanded')).toBe('false');
+    expect(bookHead.closest('.collapsible')).toBeNull();
+    // The leaf is present in the DOM (mounted for the height animation) but
+    // its panel is closed and inert until expanded.
+    const defsHead = screen.getByRole('button', { name: /Definitions/ });
+    expect(defsHead.closest('.entrygroup')?.querySelector('.collapsible')?.getAttribute('data-open')).toBe(
+      'false',
+    );
+
+    fireEvent.click(bookHead);
+    fireEvent.click(defsHead);
+    const leaf = screen.getByRole('link', { name: /§ 1/ });
+    expect(leaf.getAttribute('href')).toBe(`/read/${TEST_WORK_ID}/book-1-def-1`);
+    expect(leaf.closest('.collapsible')?.getAttribute('data-open')).toBe('true');
   });
 });
 

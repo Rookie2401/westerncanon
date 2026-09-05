@@ -16,7 +16,7 @@ export function AboutScreen() {
       <TopBar back="/" title="About & text source" />
       <main className="page page--narrow">
         <div className="prose">
-          <h2>The Library</h2>
+          <h2>Western Canon</h2>
           <p>
             An offline reader for classical philosophical and theological texts
             in their original languages. This build carries Aristotle's{' '}

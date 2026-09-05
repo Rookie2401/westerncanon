@@ -27,6 +27,20 @@ public/categoriae-grc/
 public/categoriae-la/
 public/de-interpretatione-grc/
 public/de-interpretatione-la/
+public/euclid-elements/
+public/archimedes-sphere-cylinder/
+public/archimedes-measurement-circle/
+public/archimedes-conoids-spheroids/
+public/archimedes-spirals/
+public/archimedes-plane-equilibrium/
+public/archimedes-sand-reckoner/
+public/archimedes-quadrature-parabola/
+public/archimedes-floating-bodies/
+public/archimedes-stomachion/
+public/archimedes-method/
+public/archimedes-liber-assumptorum/
+public/archimedes-cattle-problem/
+public/archimedes-fragments/
 
 # The source XML IS committed (scripts/import-summa/raw/xml_latin_nl.xml) as the
 # single bundled copy. If it ever needs to be removed, re-download with:

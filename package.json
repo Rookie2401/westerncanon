@@ -22,7 +22,11 @@
     "import:aristotle-categoriae-la": "tsx scripts/import-aristotle-categoriae-la/index.ts",
     "import:aristotle-deint-grc": "tsx scripts/import-aristotle-deint-grc/index.ts",
     "import:aristotle-deint-la": "tsx scripts/import-aristotle-deint-la/index.ts",
-    "validate:aristotle": "tsx scripts/import-aristotle-shared/validate.ts"
+    "validate:aristotle": "tsx scripts/import-aristotle-shared/validate.ts",
+    "import:euclid": "tsx scripts/import-euclid/index.ts",
+    "validate:euclid": "tsx scripts/import-euclid-shared/validate.ts",
+    "import:archimedes": "tsx scripts/import-archimedes/index.ts",
+    "validate:archimedes": "tsx scripts/import-archimedes-shared/validate.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",

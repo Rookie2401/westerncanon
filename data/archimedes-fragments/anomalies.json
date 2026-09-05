@@ -1,0 +1,30 @@
+[
+  {
+    "where": "archimedes-fragments / entity decoding",
+    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 2 time(s) in this file."
+  },
+  {
+    "where": "archimedes-fragments / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (8 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
+  },
+  {
+    "where": "archimedes-fragments / division archimedes-fragments-ch-1 / section 1 / passage[11]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Τὸ δὲ τρίτον τῶν τετρακαιδεκαέδρων, ἐπεὶ περιέχετοι τριγώνοις η καὶ ὁκταγώνοις Ϛ΄, ἕξει στερεὰς μὲν γωνίας κδ, πλευρὰς δὲ λς΄\""
+  },
+  {
+    "where": "archimedes-fragments / division archimedes-fragments-ch-1 / section 2 / passage[4]",
+    "note": "<gap reason=\"omitted\"/> x1: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-fragments / division archimedes-fragments-ch-2 / section 1 / passage[0]",
+    "note": "<gap reason=\"omitted\"/> x2: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-fragments / division archimedes-fragments-ch-2 / section 1 / passage[0]",
+    "note": "<del> excluded from reading text: \"καθάπερ\""
+  },
+  {
+    "where": "archimedes-fragments / division archimedes-fragments-ch-2 / section 1 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"αἱ\""
+  }
+]

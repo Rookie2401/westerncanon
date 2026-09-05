@@ -40,6 +40,20 @@ const GENERIC_DIRS = [
   'categoriae-la',
   'de-interpretatione-grc',
   'de-interpretatione-la',
+  'euclid-elements',
+  'archimedes-sphere-cylinder',
+  'archimedes-measurement-circle',
+  'archimedes-conoids-spheroids',
+  'archimedes-spirals',
+  'archimedes-plane-equilibrium',
+  'archimedes-sand-reckoner',
+  'archimedes-quadrature-parabola',
+  'archimedes-floating-bodies',
+  'archimedes-stomachion',
+  'archimedes-method',
+  'archimedes-liber-assumptorum',
+  'archimedes-cattle-problem',
+  'archimedes-fragments',
 ];
 const GENERIC_FILES = ['work.json', 'about.json'];
 

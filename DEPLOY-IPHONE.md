@@ -1,12 +1,13 @@
-# Putting the Library on your iPhone (PWA — no App Store, no Xcode)
+# Putting Western Canon on your iPhone (PWA — no App Store, no Xcode)
 
-The app is a fully offline Progressive Web App — a small classical-text
-**Library** (currently Aristotle's *Categories* and *De Interpretatione*, each
-in Greek and in Boethius's Latin; Porphyry's *Isagoge* in Greek and in
-Boethius's Latin; and the *Summa Theologiae*). Once it has loaded once over
-HTTPS, the whole
-corpus (~25 MB) and the app are cached on the phone and it runs with no
-network — launched from a home‑screen icon, full screen, no Safari chrome.
+The app is a fully offline Progressive Web App — **Western Canon**, a small
+classical-text library (currently Aristotle's *Categories* and *De
+Interpretatione*, each in Greek and in Boethius's Latin; Porphyry's *Isagoge*
+in Greek and in Boethius's Latin; Euclid's *Elements* in Greek; Archimedes'
+13 surviving works in Greek; and the *Summa Theologiae*). Once it has loaded
+once over HTTPS, the whole corpus (~25 MB) and the app are cached on the phone
+and it runs with no network — launched from a home‑screen icon, full screen,
+no Safari chrome.
 
 You need to (1) put the built site on an HTTPS URL, then (2) add it to the
 home screen from Safari.
@@ -64,7 +65,7 @@ A or B for the actual home‑screen install.
    corpus + search index (~25 MB) so everything works offline afterward.
 3. Tap the **Share** button (square with an up arrow) → scroll down →
    **Add to Home Screen** → **Add**.
-4. Launch "Summa" from the home screen. It opens full screen.
+4. Launch "Western Canon" from the home screen. It opens full screen.
 
 ### Verify it's really offline
 
@@ -85,6 +86,19 @@ Turn on **Airplane Mode**, open the app from the home screen, then:
   Greek text in the bundled polytonic serif; the back pill (‹ ISAGOGE) stays
   visible after a tap into immersive mode; prev/next moves between sections.
 - Repeat for **Isagoge (Latin, trans. Boethius)**.
+- Library → **Euclid → Elements** → **Book I** (a closed disclosure, not a
+  link) → expand it → **Definitions / Postulates / Common Notions /
+  Propositions** (none of these four group headers should ever read
+  "Praefatio") → **Propositions → Proposition 1** → the reader shows verbatim
+  polytonic Greek and, partway through, the honest "A diagram appears here in
+  the printed edition; not yet available in this build" note with its Heiberg
+  citation — never a broken image.
+- Library → **Archimedes** → pick any of the 13 works (e.g. **On the Sphere
+  and Cylinder**, which has Book containers) and a flat one (e.g. **The
+  Sand-Reckoner**) → open a numbered section → verbatim Greek renders, page
+  ref reads "Mugler vol. N p. …", and at least one work (e.g. *On the Sphere
+  and Cylinder* or *Measurement of a Circle*) shows the same honest
+  no-diagram note where a `<figure>` marker occurs.
 - Library → **Thomas Aquinas → Summa Theologiae** → a Part → Question →
   Article — must look exactly as it did before.
 - Run a search for a Greek word (accent-insensitive) and a Latin word; both the

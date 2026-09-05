@@ -1,0 +1,26 @@
+[
+  {
+    "where": "archimedes-sand-reckoner / entity decoding",
+    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 37 time(s) in this file."
+  },
+  {
+    "where": "archimedes-sand-reckoner / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (4 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
+  },
+  {
+    "where": "archimedes-sand-reckoner / division archimedes-sand-reckoner-ch-1 / passage[0]",
+    "note": "<del> excluded from reading text: \"τοῦ κυλίνδρου\""
+  },
+  {
+    "where": "archimedes-sand-reckoner / division archimedes-sand-reckoner-ch-1 / passage[0]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sand-reckoner / division archimedes-sand-reckoner-ch-3 / passage[0]",
+    "note": "<del> excluded from reading text: \"μὲν\""
+  },
+  {
+    "where": "archimedes-sand-reckoner / division archimedes-sand-reckoner-ch-4 / passage[0]",
+    "note": "<del> excluded from reading text: \"ἔτι\""
+  }
+]

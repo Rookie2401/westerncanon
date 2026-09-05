@@ -1,6 +1,6 @@
 # Isagoge validation report - isagoge-la
 
-Generated: 2026-08-31T19:59:17.989Z
+Generated: 2026-09-05T20:27:51.286Z
 
 **Result: PASS** - 0 error(s), 1 warning(s).
 

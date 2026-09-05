@@ -262,6 +262,24 @@ export function GenericReader() {
                   {p.anomaly}
                 </p>
               ) : null}
+              {p.figure ? (
+                <figure className="gr-figure">
+                  {p.figure.image ? (
+                    <img
+                      className="gr-figure__img"
+                      src={p.figure.image}
+                      alt={p.figure.alt ?? ''}
+                    />
+                  ) : (
+                    <p className="gr-figure__note" lang="en">
+                      {p.figure.note}
+                    </p>
+                  )}
+                  <figcaption className="gr-figure__source" lang="en">
+                    {p.figure.source}
+                  </figcaption>
+                </figure>
+              ) : null}
             </section>
           ))}
         </article>

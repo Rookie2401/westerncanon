@@ -55,11 +55,42 @@ export interface Work {
 
 /* --- generic-work content (importer JSON schema) --------------------------- */
 
+/**
+ * A diagram/illustration marker bundled alongside a passage (e.g. a Euclid
+ * proposition's geometric figure). Optional and additive: every existing
+ * Passage omits it.
+ *
+ * Every `<figure>` in the source critical edition is real structural
+ * information and must be preserved even when no image can legitimately be
+ * shown. Two shapes are valid:
+ *   - an actual image: `image` (+ `alt`) is a same-origin path served from
+ *     this work's `data/<workId>/` output (copied into public/ like
+ *     work.json), never a remote URL, so the reader stays fully offline.
+ *     `source` must name the exact edition/page/figure-number this image
+ *     traces to — never a reconstructed or invented diagram.
+ *   - an honest marker with no image: `image`/`alt` are omitted and `note`
+ *     carries a quiet, honest sentence (e.g. "A diagram appears here in the
+ *     printed edition; not yet available in this build."). `source` still
+ *     names the exact edition/figure this marks. Used when the source
+ *     figure exists (e.g. the Euclid/Archimedes TEI `<figure/>` tags,
+ *     which only point to dead heml.mta.ca URLs) but no legitimately-sourced
+ *     replacement image was found — never fabricate one.
+ * At least one of `image` or `note` must be present; an importer/validator
+ * should enforce this, not the type system.
+ */
+export interface PassageFigure {
+  image?: string;
+  alt?: string;
+  source: string;
+  note?: string;
+}
+
 export interface Passage {
   n: string;
   text: string;
   ref: string | null;
   anomaly?: string;
+  figure?: PassageFigure;
 }
 
 export interface Division {

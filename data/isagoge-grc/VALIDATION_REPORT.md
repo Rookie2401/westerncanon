@@ -1,6 +1,6 @@
 # Isagoge validation report - isagoge-grc
 
-Generated: 2026-08-31T19:59:17.987Z
+Generated: 2026-09-05T20:27:51.284Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 

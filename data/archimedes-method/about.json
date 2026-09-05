@@ -1,0 +1,57 @@
+{
+  "workId": "archimedes-method",
+  "title": "Ad Eratosthenem methodus",
+  "author": "Archimedes",
+  "language": "grc",
+  "edition": "Mugler 1971 (vol. 3)",
+  "editor": "Charles Mugler",
+  "provenance": "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0552.tlg010), which digitises Charles Mugler's Archimède (Les Belles Lettres, vol. 3, 1971); imported by scripts/import-archimedes.",
+  "license": "The Greek text of Mugler's edition is used here for its public-domain-eligible ancient content; the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Archimedes' The Method (Ad Eratosthenem methodus)",
+      "paragraphs": [
+        "This is the Greek text of Archimedes' The Method (Ad Eratosthenem methodus) (Latin conventional title: Ad Eratosthenem methodus), one of the thirteen surviving treatises and fragment-collections transmitted under his name.",
+        "The text here is the original Greek, verbatim. Nothing is translated, modernised, or silently corrected. Where the source is irregular - a lacuna, an editor's conjectural restoration, a manuscript spelling - the irregularity is preserved and noted below, never smoothed over."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Charles Mugler, ed., Archimède, vol. 3 (Paris: Les Belles Lettres, 1971), Collection des Universités de France (\"Budé\"). Mugler's edition follows the traditional proposition numbering established by J. L. Heiberg's Archimedis Opera Omnia cum commentariis Eutocii (2nd ed., Leipzig: Teubner, 1910-15; 1st ed. 1880-81) - the numbering (\"pr\", \"1\", \"2\", ...) used throughout this app is the same Heiberg numbering every modern edition of Archimedes uses.",
+        "Page references in this build (e.g. \"Mugler vol. 3 p. N\") cite Mugler's edition specifically, because that is the print edition this digital transcription's own page markers (<pb>) actually encode, verified from the transcription's own bibliographic metadata. They are not Heiberg page numbers, and this app is careful not to conflate the two: Heiberg's numbering scheme is followed, but Heiberg's page numbers are not what is cited here."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg010.1st1K-grc1 (CTS urn urn:cts:greekLit:tlg0552.tlg010) from the OpenGreekAndLatin/First1KGreek project, which digitises Mugler's Budé text. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer segments the text into its numbered propositions/sections (17 in all), using the verbatim <div> boundaries and printed numerals (§ pr, § 1, § 2, ...) the edition itself marks. Passages are the paragraph (<p>) units of the TEI; where a numbered section prints more than one paragraph, each is its own passage.",
+        "Every section is labelled by its printed number only. This app deliberately does not invent an English gloss for each individual proposition: across the 13 Archimedes works there are roughly 250 sections of highly technical geometric/mechanical content, and hand-titling each one at that scale risks quietly asserting a scholarly claim (\"this proposition is about X\") that has not been individually verified. Only the work's own title and, for the three multi-book works, the book number, carry structural framing; every leaf division's `editorialTitle` is `null`."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "References are given at Mugler page level (\"Mugler vol. 3 p. N\", or a range \"pp. A–B\" for a division). The source's <pb> page markers are monotonically increasing throughout this file (verified: pp. 82–127, no duplicates or reversals), so - unlike this app's Isagoge importer, which had to abandon per-line references - a reliable page-level ref could be kept for every passage."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 17 division(s) and 53 passages are present and verbatim; nothing is dropped, merged or reordered beyond what is documented below.",
+        "Transcription hygiene (applied corpus-wide, all 13 Archimedes works). (1) Unicode normalisation: this file's reading text was normalised to NFC (44 code points remapped - Greek ano teleia U+0387 to middle dot U+00B7, and/or acute-only Greek-Extended vowels to their monotonic equivalents; a canonical-equivalence remap only, verified to introduce no combining-mark sequences). (2) Entity decoding: the numeric character reference \"&#9651;\" (a stand-in for \"triangle\" plus a point-letter, e.g. \"τριγώνων ▵Ζ\") was decoded to the real character ▵ (U+25B3) 132 time(s) in this file.",
+        "Editorial deletions. 10 <del> span(s) (text the editor marks as not belonging in the received text) were excluded from the reading text; each occurrence is individually logged in anomalies.json.",
+        "Lacunae. 233 <gap reason=\"omitted\"/> marker(s) (a true gap in the manuscript tradition) occur in this text. No placeholder text is inserted for a gap; the affected passage instead carries an explicit note that a lacuna occurs there, and every occurrence is logged in anomalies.json.",
+        "Editorial restorations. 225 <add cause=\"omitted\"> span(s) (an editor's conjectural restoration of text judged missing from the manuscript) are, unlike a <gap>, included in the reading text as printed; every occurrence is logged in anomalies.json as a restoration, distinct from a lacuna.",
+        "Diagrams. 7 <figure> marker(s) occur in the source, each pointing to a dead heml.mta.ca URL with no usable image data (the same dead end already confirmed for this library's Euclid importer). No image is fabricated or substituted: each marked passage instead carries an honest note that a diagram appears in the printed edition and is not yet available in this build, with a citation to exactly where in Mugler's edition it belongs.",
+        "This work survives only through the Archimedes Palimpsest (a 10th-century copy overwritten in the 13th century with a prayer book, recovered by multispectral imaging in the early 2000s). The text here carries two prefatory sections - \"pr1\" (the covering letter to Eratosthenes) and \"pr2\" (headed ΠΡΟΛΑΜΒΑΝΟΜΕΝΑ, \"preliminaries\", reconstructed separately) - followed by propositions 1-15. Because the Palimpsest is a damaged, overwritten manuscript, this is by far the most heavily marked-up file in the corpus for editorial gaps and restorations (see the counts below); every one is preserved exactly as the edition prints it, not smoothed over."
+      ]
+    }
+  ]
+}

@@ -3,10 +3,10 @@ import { defineConfig } from 'vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vite.dev/config/
-// PWA plugin is wired here so the app can work fully offline. All Summa data is
-// bundled: scripts/copy-corpus.mjs copies data/summa/*.json into public/summa/
-// (predev + prebuild), Vite emits them into dist/summa/, and Workbox precaches
-// them below. Nothing is fetched from the network at runtime.
+// PWA plugin is wired here so the app can work fully offline. All of the
+// library's data is bundled: scripts/copy-corpus.mjs copies each data/*/*.json
+// directory into public/ (predev + prebuild), Vite emits them into dist/, and
+// Workbox precaches them below. Nothing is fetched from the network at runtime.
 export default defineConfig({
   // Relative base so the built app works from any static host, sub-path, or the
   // file: protocol. Combined with HashRouter this keeps every route resolvable.
@@ -31,10 +31,10 @@ export default defineConfig({
         navigateFallback: 'index.html',
       },
       manifest: {
-        name: 'Classical Library',
-        short_name: 'Library',
+        name: 'Western Canon',
+        short_name: 'Western Canon',
         description:
-          'Offline reader for classical texts in their original languages — Porphyry’s Isagoge (Greek and Boethius’s Latin) and the Summa Theologiae.',
+          'Western Canon is an offline reader for foundational Greek and Latin texts — Aristotle’s Categories and De Interpretatione, Euclid’s Elements, the surviving treatises of Archimedes, Porphyry’s Isagoge, and Thomas Aquinas’s Summa Theologiae — in their original languages.',
         lang: 'en',
         start_url: './',
         scope: './',
