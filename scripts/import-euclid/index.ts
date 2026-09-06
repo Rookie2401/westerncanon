@@ -30,10 +30,15 @@
  *     EXPECTED_EMPTY_LEAVES and the About page).
  *   - <add> (rare editorial insertion) is INCLUDED in the reading text and
  *     logged individually; the containing Passage also carries `anomaly`.
- *   - <figure/> (498 total) has no legitimately recoverable image (the TEI's
- *     graphic url points at a dead host); every marker is preserved as an
- *     honest `figure: { source, note }` on its passage (never a fabricated
- *     image) and logged individually to anomalies.json.
+ *   - <figure/> (498 total) has no legitimately recoverable image via the
+ *     TEI (its graphic url points at a dead host). For Book I's 48
+ *     propositions, a real diagram image has instead been sourced directly
+ *     from the scanned printed edition (Heiberg, Euclidis Opera Omnia vol.
+ *     I, archive.org identifier euclidisoperaomn01eucluoft) and cropped to
+ *     the diagram's portion of the page - see BOOK_1_DIAGRAMS below and
+ *     data/euclid-elements/images/. Every other marker (450 of 498) is
+ *     preserved as an honest `figure: { source, note }` on its passage
+ *     (never a fabricated image) and logged individually to anomalies.json.
  */
 
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
@@ -141,6 +146,23 @@ function main(): void {
   let totalDelSpans = 0;
   let totalAddSpans = 0;
   let totalDroppedEmptyParagraphs = 0;
+
+  /**
+   * Real diagram images for Book I's 48 propositions, keyed by the exact
+   * citation string `citationFor` produces (e.g. "Heiberg, Elements I.1").
+   * Sourced by rendering the actual scanned pages of Heiberg's printed
+   * edition (archive.org identifier euclidisoperaomn01eucluoft, PD) and
+   * cropping to each diagram's portion of the page; every crop was checked
+   * by hand against the source page before being committed. Any citation
+   * not in this map (all other books, and any Book I marker this map
+   * doesn't cover) keeps the honest "not yet available" note below.
+   */
+  const BOOK_1_DIAGRAMS: Record<string, string> = Object.fromEntries(
+    Array.from({ length: 48 }, (_, i) => i + 1).map((n) => [
+      `Heiberg, Elements I.${n}`,
+      `images/book-1-prop-${n}.jpg`,
+    ]),
+  );
 
   /** figures seen inside a <p> that cleaned to empty text, keyed by leaf id, awaiting a surviving passage to attach to */
   const pendingFigures = new Map<string, number>();
@@ -293,10 +315,14 @@ function main(): void {
         }
         if (figuresThisP > 0) {
           bumpFigure(passage, bookNum, type, number, figuresThisP);
+          const citation = citationFor(bookNum, type, number);
+          const hasRealImage = citation in BOOK_1_DIAGRAMS;
           for (let i = 0; i < figuresThisP; i++) {
             anomalies.push({
               where: currentLeafId,
-              note: `<figure/> diagram marker ${i + 1} of ${figuresThisP} in this division (${citationFor(bookNum, type, number)}); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest "not yet available" note is shown instead.`,
+              note: hasRealImage
+                ? `<figure/> diagram marker ${i + 1} of ${figuresThisP} in this division (${citation}); a real diagram image is shown, sourced from the printed edition's scanned page (see data/euclid-elements/images/).`
+                : `<figure/> diagram marker ${i + 1} of ${figuresThisP} in this division (${citation}); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest "not yet available" note is shown instead.`,
             });
           }
         }
@@ -428,14 +454,25 @@ function main(): void {
   }
 
   // --- resolve deferred figure counts into actual PassageFigure objects ---
+  let totalRealImages = 0;
   for (const [passage, { count, citation }] of figureCounts) {
-    passage.figure = {
-      source: citation,
-      note:
-        count > 1
-          ? `${count} diagrams appear here in the printed edition; not yet available in this build.`
-          : 'A diagram appears here in the printed edition; not yet available in this build.',
-    };
+    const image = BOOK_1_DIAGRAMS[citation];
+    if (image) {
+      totalRealImages += 1;
+      passage.figure = {
+        source: citation,
+        image,
+        alt: `Diagram for ${citation}, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I).`,
+      };
+    } else {
+      passage.figure = {
+        source: citation,
+        note:
+          count > 1
+            ? `${count} diagrams appear here in the printed edition; not yet available in this build.`
+            : 'A diagram appears here in the printed edition; not yet available in this build.',
+      };
+    }
   }
 
   // --- corpus-level anomalies -------------------------------------------
@@ -449,7 +486,7 @@ function main(): void {
   });
   anomalies.push({
     where: 'euclid-elements / diagrams',
-    note: `${totalFigureMarkers} <figure/> diagram markers were preserved as honest "not yet available" notes (no legitimate image could be recovered - the source graphic references a dead heml.mta.ca host); every occurrence is logged individually above.`,
+    note: `${totalFigureMarkers} <figure/> diagram markers total (the source graphic references a dead heml.mta.ca host, so none is recoverable via the TEI itself). ${totalRealImages} of these - Book I's 48 propositions - instead carry a real diagram image, sourced by rendering the actual printed page from Heiberg's edition (archive.org euclidisoperaomn01eucluoft) and cropping to the diagram; every crop was checked by hand against the source page. The remaining ${totalFigureMarkers - totalRealImages} markers are preserved as honest "not yet available" notes; every occurrence (image or note) is logged individually above.`,
   });
   anomalies.push({
     where: 'euclid-elements / passages',
@@ -524,7 +561,7 @@ function main(): void {
   }
   process.stdout.write(
     `\n  13 books  ${totalLeaves} leaf divisions (expected ${EXPECTED_TOTAL_LEAVES})  ` +
-      `${totalFigureMarkers} figure markers (expected ${EXPECTED_TOTAL_FIGURES})  ` +
+      `${totalFigureMarkers} figure markers (expected ${EXPECTED_TOTAL_FIGURES}), ${totalRealImages} with a real image  ` +
       `${totalPassages} passages  ${totalChars} chars\n`,
   );
   process.stdout.write('\nDone. Run `npm run validate:euclid` next.\n');

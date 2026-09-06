@@ -33,6 +33,15 @@ export function loadWorkAbout(workId: string): Promise<WorkAbout> {
   return loadJson<WorkAbout>(`${workId}/about.json`);
 }
 
+/**
+ * Resolve a `PassageFigure.image` path (relative to the work's own data
+ * directory, e.g. "images/book-1-prop-1.jpg") to a fetchable URL, the same
+ * way loadJson resolves work.json/about.json paths.
+ */
+export function genericAssetUrl(workId: string, path: string): string {
+  return `${base}${workId}/${path}`;
+}
+
 /* --- Division[] tree traversal ------------------------------------------- */
 
 /** Every division, parents before their children, in document order. */

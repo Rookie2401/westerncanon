@@ -83,10 +83,33 @@ function copyOne(dir, name, required) {
   }
 }
 
+/**
+ * Copy a work's optional `images/` subdirectory (real diagram/plate assets
+ * referenced by a passage's `figure.image`) whole. Soft: most works have no
+ * images directory yet, so a missing one is silent, not even a warning.
+ */
+function copyImagesDir(dir) {
+  const from = join(dataRoot, dir, 'images');
+  const to = join(publicRoot, dir, 'images');
+  let files;
+  try {
+    files = readdirSync(from);
+  } catch {
+    return;
+  }
+  mkdirSync(to, { recursive: true });
+  for (const file of files) {
+    cpSync(join(from, file), join(to, file));
+    bytes += statSync(join(to, file)).size;
+    copied += 1;
+  }
+}
+
 mkdirSync(join(publicRoot, SUMMA_DIR), { recursive: true });
 for (const name of SUMMA_FILES) copyOne(SUMMA_DIR, name, true);
 for (const dir of GENERIC_DIRS) {
   for (const name of GENERIC_FILES) copyOne(dir, name, false);
+  copyImagesDir(dir);
 }
 
 const summaPresent = readdirSync(join(publicRoot, SUMMA_DIR)).filter((f) =>

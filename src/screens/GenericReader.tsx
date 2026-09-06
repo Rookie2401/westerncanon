@@ -11,6 +11,7 @@ import { authorById, workById } from '../library/registry.ts';
 import {
   divisionById,
   divisionShortLabel,
+  genericAssetUrl,
   genericNeighbors,
   loadGenericWork,
 } from '../library/genericCorpus.ts';
@@ -267,7 +268,7 @@ export function GenericReader() {
                   {p.figure.image ? (
                     <img
                       className="gr-figure__img"
-                      src={p.figure.image}
+                      src={genericAssetUrl(workId, p.figure.image)}
                       alt={p.figure.alt ?? ''}
                     />
                   ) : (

@@ -96,15 +96,22 @@ export const ABOUT_SECTIONS: AboutSection[] = [
       'The source TEI carries 498 bare <figure/> markers, one at (or immediately after) the point in ' +
         'each proof where the printed edition places a geometric diagram. Every one of these markers ' +
         'points to a graphic reference at heml.mta.ca, a defunct diagram host with no working images ' +
-        'and no way to recover which file went with which proposition. Rather than fabricate, hand-' +
-        'draw or programmatically reconstruct a diagram, this build ships without images: each marker ' +
-        'is preserved as an honest note — "A diagram appears here in the printed edition; not yet ' +
-        'available in this build." — attached to the passage in which it appears, together with an ' +
-        'exact citation (e.g. "Heiberg, Elements I.47"). All 498 markers are logged individually in ' +
-        'anomalies.json with their division id, so the information is preserved even though no image ' +
-        'is shown. A reader who wants to see Heiberg’s actual plates can consult the public-domain ' +
-        'scan of Euclidis Opera Omnia on the Internet Archive (archive.org/details/euclidisoperaomn01eucluoft ' +
-        'and the following volumes) — an external reference only, not bundled with this app.',
+        'and no way to recover which file went with which proposition via the TEI itself.',
+      'Book I’s 48 propositions (all of them) instead carry a real diagram image. Each was sourced by ' +
+        'downloading the actual public-domain scan of Heiberg’s printed edition (Euclidis Opera Omnia ' +
+        'vol. I, Internet Archive identifier euclidisoperaomn01eucluoft), rendering the exact page the ' +
+        'diagram appears on, and cropping to the diagram’s portion of that page — never redrawn, ' +
+        'fabricated, or reconstructed from the text. Every one of the 48 crops was checked by hand ' +
+        'against the source page before being committed, and the image sits next to an exact citation ' +
+        '(e.g. "Heiberg, Elements I.47") and alt text naming the proposition.',
+      'The remaining 450 markers (Books II–XIII) are preserved as an honest note — "A diagram appears ' +
+        'here in the printed edition; not yet available in this build." — attached to the passage in ' +
+        'which they appear, together with the same exact-citation convention. All 498 markers (image ' +
+        'or note) are logged individually in anomalies.json with their division id, so the information ' +
+        'is preserved either way. A reader who wants to see Heiberg’s actual plates for the other books ' +
+        'can consult the public-domain scan of Euclidis Opera Omnia on the Internet Archive ' +
+        '(archive.org/details/euclidisoperaomn01eucluoft and the following volumes) — an external ' +
+        'reference only, not bundled with this app.',
     ],
   },
   {
@@ -144,8 +151,9 @@ export const ABOUT_SECTIONS: AboutSection[] = [
         'its verbatim excerpt.',
       'Editorial insertions. Four <add> supplements (single words/letters Heiberg supplies where the ' +
         'manuscripts are defective) are kept in the reading text verbatim and logged individually.',
-      'Diagrams. See "Diagrams" above: 498 <figure/> markers are preserved as honest citation notes, ' +
-        'never as fabricated images.',
+      'Diagrams. See "Diagrams" above: Book I’s 48 propositions carry a real diagram image, sourced ' +
+        'from Heiberg’s printed scan and hand-checked; the remaining 450 markers (Books II–XIII) are ' +
+        'preserved as honest citation notes. Never a fabricated image, either way.',
       'Character encoding. The source is already NFC-normalised polytonic Greek; no normalisation pass ' +
         'was applied or needed. One exception is preserved verbatim rather than "fixed": Book XI, ' +
         'Proposition 31 — a solid-geometry proof with more labelled points than the 24-letter Greek ' +
