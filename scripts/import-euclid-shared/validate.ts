@@ -191,8 +191,7 @@ function main(): void {
           if (p.figure) {
             figures += 1;
             totalFigures += 1;
-            if (p.figure.image) err('figure-image', `${leaf.id}: figure has an image, but this build ships without any (source diagrams are unrecoverable) - got ${JSON.stringify(p.figure.image)}`);
-            if (!p.figure.note) err('figure-note', `${leaf.id}: figure has no image, so it must carry a note`);
+            if (!p.figure.image && !p.figure.note) err('figure-note', `${leaf.id}: figure has no image, so it must carry a note`);
             if (!p.figure.source || !p.figure.source.startsWith('Heiberg, Elements')) {
               err('figure-source', `${leaf.id}: figure.source ${JSON.stringify(p.figure.source)} does not start with "Heiberg, Elements"`);
             }

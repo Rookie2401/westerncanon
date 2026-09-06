@@ -9,7 +9,7 @@
  * the repo; nothing is downloaded) and writes:
  *   data/euclid-elements/work.json       - the GenericWork (13 Books, each a
  *                                           2-level tree of section-type
- *                                           groups and 607 leaf divisions)
+ *                                           groups and 611 leaf divisions)
  *   data/euclid-elements/about.json      - provenance / licence / prose
  *   data/euclid-elements/anomalies.json  - machine-readable {where, note}[]
  *
@@ -82,6 +82,25 @@ function leafIdOf(bookNum: number, type: TypeCode, number: string): string {
 const excerpt = (s: string, max = 140): string => {
   const c = s.replace(/\s+/g, ' ').trim();
   return c.length > max ? `${c.slice(0, max)}…` : c;
+};
+
+/**
+ * Four propositions are genuinely present in the source but mis-nested: the
+ * TEI never opens a fresh `<div type="textpart" subtype="number" n="…">` for
+ * them, so their enunciation+proof paragraphs sit as extra `<p>` siblings
+ * inside the still-open PREVIOUS proposition's div. Confirmed by direct
+ * inspection of the real fetched XML (not inferred from secondary sources):
+ * in each case the div that should have closed after the previous prop's
+ * "ὅπερ ἔδει δεῖξαι" instead runs straight into the next prop's enunciation
+ * before finally closing. Keyed by the id of the (mis-nested-into) PREVIOUS
+ * leaf; `incipit` is the verbatim opening of the misplaced proposition's
+ * enunciation, used to detect exactly where to split.
+ */
+const MISPLACED_SPLITS: Record<string, { newNumber: string; incipit: string }> = {
+  'book-1-prop-29': { newNumber: '30', incipit: 'αἱ τῇ αὐτῇ εὐθείᾳ παράλληλοι' },
+  'book-2-prop-6': { newNumber: '7', incipit: 'ἐὰν εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ ἀπὸ' },
+  'book-10-prop1-5': { newNumber: '6', incipit: 'ἐὰν δύο μεγέθη πρὸς ἄλληλα λόγον ἔχῃ' },
+  'book-12-prop-6': { newNumber: '7', incipit: 'πᾶν πρίσμα τρίγωνον ἔχον βάσιν διαιρεῖται' },
 };
 
 function main(): void {
@@ -234,6 +253,36 @@ function main(): void {
       inP = false;
       if (!currentLeafDiv || !currentType) fail(`</p> encountered outside any numbered division (book ${currentBookNum})`);
       const cleaned = cleanText(visibleBuf);
+
+      // --- split out a mis-nested proposition (see MISPLACED_SPLITS) -------
+      const split = MISPLACED_SPLITS[currentLeafId];
+      if (split && cleaned.startsWith(split.incipit)) {
+        if (!currentGroupDiv) fail(`misplaced-split leaf "${currentLeafId}" has no parent section-type group`);
+        const newLeafId = leafIdOf(currentBookNum, currentType, split.newNumber);
+        const newLeafDiv: Division = {
+          id: newLeafId,
+          number: split.newNumber,
+          ref: null,
+          sourceHeading: null,
+          editorialTitle: null,
+          children: [],
+          passages: [],
+        };
+        currentGroupDiv.children.push(newLeafDiv);
+        totalLeaves += 1;
+        anomalies.push({
+          where: newLeafId,
+          note:
+            `This proposition is genuinely present in the source but mis-nested: its enunciation and proof ` +
+            `paragraphs sit as extra <p> siblings inside the still-open "${currentLeafId}" div rather than under ` +
+            `their own <div type="textpart" subtype="number" n="${split.newNumber}">. Confirmed by direct ` +
+            `inspection of the source XML; this importer splits it out into its own division here so the ` +
+            `traditional numbering (${split.newNumber}) is preserved with its real text rather than shown as a gap.`,
+        });
+        currentLeafDiv = newLeafDiv;
+        currentLeafId = newLeafId;
+      }
+
       const bookNum = currentBookNum;
       const type = currentType;
       const number = currentLeafDiv.number ?? '';
@@ -407,10 +456,15 @@ function main(): void {
     note: `${totalDroppedEmptyParagraphs} paragraphs were dropped entirely because their whole content is under <del>; five leaf divisions (${wantEmpty.join(', ')}) consequently carry zero passages. This is a documented, deliberate feature of this edition, not an importer defect.`,
   });
   anomalies.push({
-    where: 'euclid-elements / documented numbering gaps',
+    where: 'euclid-elements / mis-nested propositions',
     note:
-      'Four numbering gaps are genuine features of Heiberg\'s edition, preserved verbatim: Book I has no proposition 30; ' +
-      'Book II has no proposition 7; Book X\'s first proposition-group has no proposition 6; Book XII has no proposition 7.',
+      'Four propositions - Book I.30, Book II.7, Book X (first proposition-group).6, and Book XII.7 - were ' +
+      'investigated and found genuinely present in the source, but mis-nested: the TEI never opens a fresh ' +
+      'numbered <div> for them, so their text sits as extra <p> siblings inside the still-open previous ' +
+      'proposition\'s div. Confirmed by direct inspection of the source XML, not inferred; this importer splits ' +
+      'each one out into its own division (see MISPLACED_SPLITS in scripts/import-euclid/index.ts and the ' +
+      'individually-logged split anomaly for each), so all four appear with their real Greek text rather than as ' +
+      'numbering gaps.',
   });
   anomalies.push({
     where: 'euclid-elements / character encoding',

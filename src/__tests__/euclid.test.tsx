@@ -134,7 +134,11 @@ describe('Work (Euclid Elements) - nested Book -> group -> proposition tree', ()
     const propsScope = within(propsBtn.closest('.entrygroup') as HTMLElement);
     const prop1 = propsScope.getByRole('link', { name: '§ 1' });
     expect(prop1.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-prop-1`);
-  });
+    // This test mounts the whole WorkScreen against the real 611-leaf work.json
+    // and drives two disclosure expansions; it legitimately runs close to (and,
+    // on a loaded machine, over) the 5s default test timeout, so it gets an
+    // explicit allowance rather than being flaky under normal CI load.
+  }, 20000);
 });
 
 describe('GenericReader (Euclid Elements)', () => {

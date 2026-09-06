@@ -122,12 +122,17 @@ The source nests exactly three levels: Book (I–XIII) → section-type group
 group labels; Book X alone repeats the Definitions/Propositions pair three
 times, its proposition numbering continuing 1–47, 48–84, 85–115 rather than
 restarting) → a single numbered definition/postulate/common notion/proposition,
-each one reader Division. 13 books, 607 leaf divisions, matching an
+each one reader Division. 13 books, 611 leaf divisions, matching an
 independently-researched structural count of the edition exactly.
 
-- Four numbering gaps (Book I has no prop. 30; Book II no prop. 7; Book X's
-  first proposition-group no prop. 6; Book XII no prop. 7) are genuine,
-  long-documented features of Heiberg's edition, not importer errors.
+- Four propositions (Book I.30, Book II.7, Book X's first proposition-group.6,
+  Book XII.7) are genuinely present in the source but mis-nested: the TEI
+  never opens a fresh numbered `<div>` for them, so their text sits as extra
+  paragraphs inside the still-open previous proposition's division. Confirmed
+  by direct inspection of the source XML; the importer splits each one out
+  into its own division (see `MISPLACED_SPLITS` in
+  `scripts/import-euclid/index.ts`), so all four appear with their real Greek
+  text rather than as numbering gaps.
 - 507 `<del>` spans (text Heiberg marks inauthentic — mostly corollaries and
   interpolated lemmas) are excluded from the reading text and logged
   individually in `anomalies.json`; five leaf divisions end up with zero

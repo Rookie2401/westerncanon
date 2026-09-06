@@ -29,7 +29,7 @@ export const ABOUT_SECTIONS: AboutSection[] = [
         'solid geometry (XI–XIII).',
       'The text here is the original Greek, verbatim. Nothing is translated, modernised, normalised ' +
         'or silently corrected. Where the source is irregular — an editorially deleted clause, an ' +
-        'editorial insertion, a genuine gap in the traditional numbering — the irregularity is ' +
+        'editorial insertion, a proposition mis-nested in the source markup — the irregularity is ' +
         'preserved and noted below.',
     ],
   },
@@ -79,7 +79,7 @@ export const ABOUT_SECTIONS: AboutSection[] = [
   {
     heading: 'Editorial titles',
     paragraphs: [
-      '607 individual propositions is too many to hand-title without risking inaccurate or invented ' +
+      '611 individual propositions is too many to hand-title without risking inaccurate or invented ' +
         'claims about highly technical mathematical content, so editorial titling here is deliberately ' +
         'shallow. Each of the 13 Books carries a curated English title (e.g. "Circles" for Book III, ' +
         '"Number Theory I: Divisibility and Greatest Common Measure" for Book VII). Each section-type ' +
@@ -122,13 +122,18 @@ export const ABOUT_SECTIONS: AboutSection[] = [
   {
     heading: 'Known gaps & anomalies',
     paragraphs: [
-      'Completeness. All 13 books and 607 numbered definitions/postulates/common-notions/propositions ' +
+      'Completeness. All 13 books and 611 numbered definitions/postulates/common-notions/propositions ' +
         'are present, matching an independently-researched structural count of this edition exactly. ' +
         'Nothing is merged, reordered, or renumbered.',
-      'Documented numbering gaps. Four gaps in the traditional numbering are genuine, long-documented ' +
-        'features of Heiberg’s edition, not importer errors: Book I has no proposition 30; Book II has ' +
-        'no proposition 7; Book X’s first proposition-group has no proposition 6; Book XII has no ' +
-        'proposition 7. Each numbering sequence simply skips the missing number, exactly as printed.',
+      'Mis-nested propositions, corrected. Four propositions — Book I.30, Book II.7, Book X’s first ' +
+        'proposition-group.6, and Book XII.7 — were investigated after appearing to be missing from the ' +
+        'traditional numbering, and were found to be genuinely present in the source, but mis-nested: the ' +
+        'source TEI never opens a fresh numbered <div> for each of them, so their enunciation and proof text ' +
+        'sits as extra paragraphs inside the still-open previous proposition’s division rather than under its ' +
+        'own numbering. This was confirmed by direct inspection of the source XML, not inferred from a ' +
+        'secondary source. This importer detects each case from its distinctive opening words and splits it ' +
+        'out into its own division, so all four propositions appear in the reader with their real Greek text ' +
+        'at their correct traditional number, rather than as a numbering gap.',
       'Passages excluded under Heiberg’s deletion marks. Five leaf divisions — Book I’s fourth, fifth ' +
         'and sixth Common Notions, and Book VI’s second and fifth Definitions — consist, in their ' +
         'entirety, of a single paragraph Heiberg marks <del> as a later interpolation; after exclusion ' +

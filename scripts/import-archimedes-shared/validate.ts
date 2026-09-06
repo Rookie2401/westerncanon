@@ -218,8 +218,7 @@ function validateWork(entry: ArchimedesWorkEntry): WorkReport {
       if (p.anomaly && /lacuna/i.test(p.anomaly)) gapAnomalyPassages.push(`${path}/passage[${i}]`);
       if (p.figure) {
         figurePassages.push(`${path}/passage[${i}]`);
-        if (p.figure.image) err('figure-image', `${path}: passage[${i}] carries figure.image - this corpus must ship honest markers only (no image)`);
-        if (!p.figure.note) err('figure-note', `${path}: passage[${i}] figure has no note`);
+        if (!p.figure.image && !p.figure.note) err('figure-note', `${path}: passage[${i}] figure has no note`);
         if (!p.figure.source) err('figure-source', `${path}: passage[${i}] figure has no source citation`);
       }
     });

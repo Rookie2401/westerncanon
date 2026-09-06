@@ -1,6 +1,6 @@
 # Summa corpus validation report
 
-Generated: 2026-09-05T20:27:48.273Z
+Generated: 2026-09-06T01:02:19.454Z
 Corpus generated: 2026-08-31T19:57:30.455Z
 Source: https://raw.githubusercontent.com/vicmortelmans/summa/master/build/xml_latin_nl/xml_latin_nl.xml
 

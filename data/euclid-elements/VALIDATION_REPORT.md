@@ -1,17 +1,17 @@
 # Euclid *Elements* validation report
 
-Generated: 2026-09-05T20:28:00.217Z
+Generated: 2026-09-06T00:56:17.972Z
 
 **Result: PASS** - 0 error(s), 2 warning(s).
 
 ## Counts
 
 - Books: 13
-- leaf divisions (definitions/postulates/common notions/propositions): 607
+- leaf divisions (definitions/postulates/common notions/propositions): 611
 - passages: 2373
 - total passage chars: 744659
 - Passage.figure objects: 493
-- anomalies.json entries: 1040 (figure markers: 498, <del> exclusions: 507, <add> insertions: 4)
+- anomalies.json entries: 1044 (figure markers: 498, <del> exclusions: 507, <add> insertions: 4)
 - leaf divisions with zero passages (documented): book-1-cn-4, book-1-cn-5, book-1-cn-6, book-6-def-2, book-6-def-5
 
 ## Verbatim spot-check

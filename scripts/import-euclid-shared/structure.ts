@@ -11,9 +11,14 @@
  *
  * GROUND_TRUTH below is the exact, independently-researched structural fact
  * about this edition (already verified against the real fetched XML: 13
- * books, 607 "number" leaves total, matching gaps). The importer parses the
+ * books, 611 "number" leaves total). Four of those leaves - Book I.30, Book
+ * II.7, Book X prop1.6, Book XII.7 - are genuinely present in the source but
+ * mis-nested (see MISPLACED_SPLITS in scripts/import-euclid/index.ts) and
+ * are split out into their own leaf during import; GROUND_TRUTH reflects the
+ * corrected structure, not the raw TEI div nesting. The importer parses the
  * real file and STOPS if what it finds disagrees with this table; nothing
- * here is used to override or reshape what was actually parsed.
+ * here is used to override or reshape what was actually parsed (beyond that
+ * one documented, verified split).
  */
 
 export type TypeCode =
@@ -112,11 +117,11 @@ export const GROUND_TRUTH: readonly BookGroundTruth[] = [
     { type: 'def', range: [1, 23] },
     { type: 'post', range: [1, 5] },
     { type: 'comm_not', range: [1, 9] },
-    { type: 'prop', range: [1, 48], exclude: [30] },
+    { type: 'prop', range: [1, 48] },
   ] },
   { book: 2, groups: [
     { type: 'def', range: [1, 2] },
-    { type: 'prop', range: [1, 14], exclude: [7] },
+    { type: 'prop', range: [1, 14] },
   ] },
   { book: 3, groups: [
     { type: 'def', range: [1, 11] },
@@ -146,7 +151,7 @@ export const GROUND_TRUTH: readonly BookGroundTruth[] = [
   ] },
   { book: 10, groups: [
     { type: 'def1', range: [1, 4] },
-    { type: 'prop1', range: [1, 47], exclude: [6] },
+    { type: 'prop1', range: [1, 47] },
     { type: 'def2', range: [1, 6] },
     { type: 'prop2', range: [48, 84] },
     { type: 'def3', range: [1, 6] },
@@ -157,15 +162,24 @@ export const GROUND_TRUTH: readonly BookGroundTruth[] = [
     { type: 'prop', range: [1, 39] },
   ] },
   { book: 12, groups: [
-    { type: 'prop', range: [1, 18], exclude: [7] },
+    { type: 'prop', range: [1, 18] },
   ] },
   { book: 13, groups: [
     { type: 'prop', range: [1, 18] },
   ] },
 ];
 
-/** Total "number"-subtype (leaf) divs across the whole work. Cross-checked against the real parse. */
-export const EXPECTED_TOTAL_LEAVES = 607;
+/**
+ * Total "number"-subtype (leaf) divs across the whole work. Cross-checked
+ * against the real parse. 611, not the source TEI's naively-countable 607:
+ * four propositions (Book I.30, Book II.7, Book X prop1.6, Book XII.7) are
+ * genuinely present but mis-nested as extra <p> siblings inside the previous
+ * proposition's still-open div rather than under their own numbered <div> -
+ * confirmed by direct inspection of the source XML - and the importer splits
+ * each one out into its own leaf division (see MISPLACED_SPLITS in
+ * scripts/import-euclid/index.ts), so they count here as their own leaves.
+ */
+export const EXPECTED_TOTAL_LEAVES = 611;
 
 /** Total bare <figure/> markers across the whole work (also the exact count of individually-logged <figure/> anomalies.json entries). */
 export const EXPECTED_TOTAL_FIGURES = 498;

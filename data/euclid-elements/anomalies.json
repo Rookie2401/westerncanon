@@ -212,11 +212,15 @@
     "note": "<del> excluded from the reading text: \"καὶ\""
   },
   {
-    "where": "book-1-prop-29",
-    "note": "<figure/> diagram marker 1 of 1 in this division (Heiberg, Elements I.29); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest \"not yet available\" note is shown instead."
+    "where": "book-1-prop-30",
+    "note": "This proposition is genuinely present in the source but mis-nested: its enunciation and proof paragraphs sit as extra <p> siblings inside the still-open \"book-1-prop-29\" div rather than under their own <div type=\"textpart\" subtype=\"number\" n=\"30\">. Confirmed by direct inspection of the source XML; this importer splits it out into its own division here so the traditional numbering (30) is preserved with its real text rather than shown as a gap."
   },
   {
-    "where": "book-1-prop-29",
+    "where": "book-1-prop-30",
+    "note": "<figure/> diagram marker 1 of 1 in this division (Heiberg, Elements I.30); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest \"not yet available\" note is shown instead."
+  },
+  {
+    "where": "book-1-prop-30",
     "note": "<del> excluded from the reading text: \"Αἱ ἄρα τῇ αὐτῇ εὐθείᾳ παράλληλοι καὶ ἀλλήλαις εἰσὶ παράλληλοι·\""
   },
   {
@@ -384,12 +388,16 @@
     "note": "<del> excluded from the reading text: \"περιεχομένῳ ὀρθογωνίῳ\""
   },
   {
-    "where": "book-2-prop-6",
+    "where": "book-2-prop-7",
+    "note": "This proposition is genuinely present in the source but mis-nested: its enunciation and proof paragraphs sit as extra <p> siblings inside the still-open \"book-2-prop-6\" div rather than under their own <div type=\"textpart\" subtype=\"number\" n=\"7\">. Confirmed by direct inspection of the source XML; this importer splits it out into its own division here so the traditional numbering (7) is preserved with its real text rather than shown as a gap."
+  },
+  {
+    "where": "book-2-prop-7",
     "note": "<del> excluded from the reading text: \"τε\""
   },
   {
-    "where": "book-2-prop-6",
-    "note": "<figure/> diagram marker 1 of 1 in this division (Heiberg, Elements II.6); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest \"not yet available\" note is shown instead."
+    "where": "book-2-prop-7",
+    "note": "<figure/> diagram marker 1 of 1 in this division (Heiberg, Elements II.7); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest \"not yet available\" note is shown instead."
   },
   {
     "where": "book-2-prop-8",
@@ -2156,15 +2164,19 @@
     "note": "<figure/> diagram marker 1 of 1 in this division (Heiberg, Elements X.5); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest \"not yet available\" note is shown instead."
   },
   {
-    "where": "book-10-prop1-5",
-    "note": "<figure/> diagram marker 1 of 1 in this division (Heiberg, Elements X.5); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest \"not yet available\" note is shown instead."
+    "where": "book-10-prop1-6",
+    "note": "This proposition is genuinely present in the source but mis-nested: its enunciation and proof paragraphs sit as extra <p> siblings inside the still-open \"book-10-prop1-5\" div rather than under their own <div type=\"textpart\" subtype=\"number\" n=\"6\">. Confirmed by direct inspection of the source XML; this importer splits it out into its own division here so the traditional numbering (6) is preserved with its real text rather than shown as a gap."
   },
   {
-    "where": "book-10-prop1-5",
+    "where": "book-10-prop1-6",
+    "note": "<figure/> diagram marker 1 of 1 in this division (Heiberg, Elements X.6); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest \"not yet available\" note is shown instead."
+  },
+  {
+    "where": "book-10-prop1-6",
     "note": "<del> excluded from the reading text: \"ἀριθμόν\""
   },
   {
-    "where": "book-10-prop1-5",
+    "where": "book-10-prop1-6",
     "note": "<del> excluded from the reading text: \"ἀριθμόν\""
   },
   {
@@ -3820,15 +3832,19 @@
     "note": "<figure/> diagram marker 1 of 1 in this division (Heiberg, Elements XII.6); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest \"not yet available\" note is shown instead."
   },
   {
-    "where": "book-12-prop-6",
+    "where": "book-12-prop-7",
+    "note": "This proposition is genuinely present in the source but mis-nested: its enunciation and proof paragraphs sit as extra <p> siblings inside the still-open \"book-12-prop-6\" div rather than under their own <div type=\"textpart\" subtype=\"number\" n=\"7\">. Confirmed by direct inspection of the source XML; this importer splits it out into its own division here so the traditional numbering (7) is preserved with its real text rather than shown as a gap."
+  },
+  {
+    "where": "book-12-prop-7",
     "note": "<del> excluded from the reading text: \"ἐστι\""
   },
   {
-    "where": "book-12-prop-6",
-    "note": "<figure/> diagram marker 1 of 1 in this division (Heiberg, Elements XII.6); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest \"not yet available\" note is shown instead."
+    "where": "book-12-prop-7",
+    "note": "<figure/> diagram marker 1 of 1 in this division (Heiberg, Elements XII.7); no legitimate image available (source graphic points to a dead heml.mta.ca host), so an honest \"not yet available\" note is shown instead."
   },
   {
-    "where": "book-12-prop-6",
+    "where": "book-12-prop-7",
     "note": "<del> excluded from the reading text: \"ἐπειδήπερ κἂν ἕτερόν τι σχῆμα εὐθύγραμμον ἔχῃ ἡ βάσις τοῦ πρίσματος, τοιοῦτο καὶ τὸ ἀπεναντίον, καὶ διαιρεῖται εἰς πρίσματα τρίγωνα ἔχοντα τ…\""
   },
   {
@@ -4144,8 +4160,8 @@
     "note": "23 paragraphs were dropped entirely because their whole content is under <del>; five leaf divisions (book-1-cn-4, book-1-cn-5, book-1-cn-6, book-6-def-2, book-6-def-5) consequently carry zero passages. This is a documented, deliberate feature of this edition, not an importer defect."
   },
   {
-    "where": "euclid-elements / documented numbering gaps",
-    "note": "Four numbering gaps are genuine features of Heiberg's edition, preserved verbatim: Book I has no proposition 30; Book II has no proposition 7; Book X's first proposition-group has no proposition 6; Book XII has no proposition 7."
+    "where": "euclid-elements / mis-nested propositions",
+    "note": "Four propositions - Book I.30, Book II.7, Book X (first proposition-group).6, and Book XII.7 - were investigated and found genuinely present in the source, but mis-nested: the TEI never opens a fresh numbered <div> for them, so their text sits as extra <p> siblings inside the still-open previous proposition's div. Confirmed by direct inspection of the source XML, not inferred; this importer splits each one out into its own division (see MISPLACED_SPLITS in scripts/import-euclid/index.ts and the individually-logged split anomaly for each), so all four appear with their real Greek text rather than as numbering gaps."
   },
   {
     "where": "euclid-elements / character encoding",

@@ -12,7 +12,7 @@
       "heading": "Euclid’s Elements",
       "paragraphs": [
         "This is the Greek text of Euclid’s Στοιχεῖα (\"Elements\"), the foundational work of ancient geometry and number theory, in thirteen books: plane geometry (I–IV, VI), the theory of proportion (V), number theory (VII–IX), incommensurable magnitudes (X), and solid geometry (XI–XIII).",
-        "The text here is the original Greek, verbatim. Nothing is translated, modernised, normalised or silently corrected. Where the source is irregular — an editorially deleted clause, an editorial insertion, a genuine gap in the traditional numbering — the irregularity is preserved and noted below."
+        "The text here is the original Greek, verbatim. Nothing is translated, modernised, normalised or silently corrected. Where the source is irregular — an editorially deleted clause, an editorial insertion, a proposition mis-nested in the source markup — the irregularity is preserved and noted below."
       ]
     },
     {
@@ -38,7 +38,7 @@
     {
       "heading": "Editorial titles",
       "paragraphs": [
-        "607 individual propositions is too many to hand-title without risking inaccurate or invented claims about highly technical mathematical content, so editorial titling here is deliberately shallow. Each of the 13 Books carries a curated English title (e.g. \"Circles\" for Book III, \"Number Theory I: Divisibility and Greatest Common Measure\" for Book VII). Each section-type group (Definitions, Postulates, Common Notions, Propositions, or Book X’s three repeating pairs) carries a plain English group label. Individual definitions, postulates, common notions and propositions are labelled by their printed number only, with no invented title. Every one of these English labels is editorial — never source text — and is marked \"ed.\" wherever it is shown."
+        "611 individual propositions is too many to hand-title without risking inaccurate or invented claims about highly technical mathematical content, so editorial titling here is deliberately shallow. Each of the 13 Books carries a curated English title (e.g. \"Circles\" for Book III, \"Number Theory I: Divisibility and Greatest Common Measure\" for Book VII). Each section-type group (Definitions, Postulates, Common Notions, Propositions, or Book X’s three repeating pairs) carries a plain English group label. Individual definitions, postulates, common notions and propositions are labelled by their printed number only, with no invented title. Every one of these English labels is editorial — never source text — and is marked \"ed.\" wherever it is shown."
       ]
     },
     {
@@ -57,8 +57,8 @@
     {
       "heading": "Known gaps & anomalies",
       "paragraphs": [
-        "Completeness. All 13 books and 607 numbered definitions/postulates/common-notions/propositions are present, matching an independently-researched structural count of this edition exactly. Nothing is merged, reordered, or renumbered.",
-        "Documented numbering gaps. Four gaps in the traditional numbering are genuine, long-documented features of Heiberg’s edition, not importer errors: Book I has no proposition 30; Book II has no proposition 7; Book X’s first proposition-group has no proposition 6; Book XII has no proposition 7. Each numbering sequence simply skips the missing number, exactly as printed.",
+        "Completeness. All 13 books and 611 numbered definitions/postulates/common-notions/propositions are present, matching an independently-researched structural count of this edition exactly. Nothing is merged, reordered, or renumbered.",
+        "Mis-nested propositions, corrected. Four propositions — Book I.30, Book II.7, Book X’s first proposition-group.6, and Book XII.7 — were investigated after appearing to be missing from the traditional numbering, and were found to be genuinely present in the source, but mis-nested: the source TEI never opens a fresh numbered <div> for each of them, so their enunciation and proof text sits as extra paragraphs inside the still-open previous proposition’s division rather than under its own numbering. This was confirmed by direct inspection of the source XML, not inferred from a secondary source. This importer detects each case from its distinctive opening words and splits it out into its own division, so all four propositions appear in the reader with their real Greek text at their correct traditional number, rather than as a numbering gap.",
         "Passages excluded under Heiberg’s deletion marks. Five leaf divisions — Book I’s fourth, fifth and sixth Common Notions, and Book VI’s second and fifth Definitions — consist, in their entirety, of a single paragraph Heiberg marks <del> as a later interpolation; after exclusion they carry zero surviving passages. These five divisions are kept (so the traditional numbering is not disturbed) but display no reading text. Elsewhere, 507 <del> spans (mostly corollaries and lemmas Heiberg judged spurious) are excluded from running passages that otherwise have surviving text; every exclusion is logged individually in anomalies.json with its verbatim excerpt.",
         "Editorial insertions. Four <add> supplements (single words/letters Heiberg supplies where the manuscripts are defective) are kept in the reading text verbatim and logged individually.",
         "Diagrams. See \"Diagrams\" above: 498 <figure/> markers are preserved as honest citation notes, never as fabricated images.",
