@@ -151,18 +151,42 @@ function main(): void {
    * Real diagram images for Book I's 48 propositions, keyed by the exact
    * citation string `citationFor` produces (e.g. "Heiberg, Elements I.1").
    * Sourced by rendering the actual scanned pages of Heiberg's printed
-   * edition (archive.org identifier euclidisoperaomn01eucluoft, PD) and
-   * cropping to each diagram's portion of the page; every crop was checked
-   * by hand against the source page before being committed. Any citation
-   * not in this map (all other books, and any Book I marker this map
-   * doesn't cover) keeps the honest "not yet available" note below.
+   * edition (archive.org identifier euclidisoperaomn01eucluoft, PD) at high
+   * resolution and cropping tightly to just the diagram's own ink; every
+   * crop was checked by hand against the source page before being
+   * committed. The PNG is pure black ink on a transparent background (the
+   * aged-paper background is dropped, not merely recolored) so the reader
+   * can tint it live via CSS mask-image + the app's own accent colour,
+   * matching the current theme automatically. `imageWidth`/`imageHeight`
+   * are each PNG's exact pixel size, needed because a CSS mask carries no
+   * intrinsic size of its own - the reader uses them to reserve the
+   * figure's aspect ratio before the mask image loads. Any citation not in
+   * this map (all other books, and any Book I marker this map doesn't
+   * cover) keeps the honest "not yet available" note below.
    */
-  const BOOK_1_DIAGRAMS: Record<string, string> = Object.fromEntries(
-    Array.from({ length: 48 }, (_, i) => i + 1).map((n) => [
-      `Heiberg, Elements I.${n}`,
-      `images/book-1-prop-${n}.jpg`,
-    ]),
-  );
+  const BOOK_1_DIAGRAM_SIZE: Record<number, [number, number]> = {
+    1: [1456, 1177], 2: [1004, 1283], 3: [1166, 976], 4: [811, 1129], 5: [892, 1188],
+    6: [811, 918], 7: [1053, 775], 8: [1101, 1075], 9: [763, 759], 10: [892, 705],
+    11: [1166, 992], 12: [1166, 1082], 13: [731, 930], 14: [972, 806], 15: [908, 1007],
+    16: [779, 1047], 17: [1037, 895], 18: [1375, 738], 19: [682, 1237], 20: [892, 1114],
+    21: [1004, 1083], 22: [2371, 1070], 23: [892, 1161], 24: [1053, 987], 25: [731, 578],
+    26: [972, 962], 27: [1015, 699], 28: [1000, 1173], 29: [892, 1134], 30: [1053, 831],
+    31: [1004, 590], 32: [892, 676], 33: [1164, 1114], 34: [1053, 676], 35: [1534, 542],
+    36: [1583, 708], 37: [1166, 575], 38: [1536, 534], 39: [1166, 681], 40: [779, 816],
+    41: [1004, 1360], 42: [892, 254], 43: [1164, 793], 44: [1004, 1400], 45: [811, 1248],
+    46: [779, 883], 47: [1166, 860], 48: [892, 1275],
+  };
+  const BOOK_1_DIAGRAMS: Record<string, { image: string; width: number; height: number }> =
+    Object.fromEntries(
+      Array.from({ length: 48 }, (_, i) => i + 1).map((n) => [
+        `Heiberg, Elements I.${n}`,
+        {
+          image: `images/book-1-prop-${n}.png`,
+          width: BOOK_1_DIAGRAM_SIZE[n]![0],
+          height: BOOK_1_DIAGRAM_SIZE[n]![1],
+        },
+      ]),
+    );
 
   /** figures seen inside a <p> that cleaned to empty text, keyed by leaf id, awaiting a surviving passage to attach to */
   const pendingFigures = new Map<string, number>();
@@ -456,12 +480,14 @@ function main(): void {
   // --- resolve deferred figure counts into actual PassageFigure objects ---
   let totalRealImages = 0;
   for (const [passage, { count, citation }] of figureCounts) {
-    const image = BOOK_1_DIAGRAMS[citation];
-    if (image) {
+    const diagram = BOOK_1_DIAGRAMS[citation];
+    if (diagram) {
       totalRealImages += 1;
       passage.figure = {
         source: citation,
-        image,
+        image: diagram.image,
+        imageWidth: diagram.width,
+        imageHeight: diagram.height,
         alt: `Diagram for ${citation}, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I).`,
       };
     } else {

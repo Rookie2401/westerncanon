@@ -1382,9 +1382,23 @@ body {
   margin: 1rem 0 0;
   text-align: center;
 }
+/* A real diagram ships as pure black ink on a transparent PNG (no paper
+   background baked in), used purely as a CSS mask shape - so it always
+   renders as a solid silhouette in the app's own accent colour, on the
+   app's own background, correctly in both light and dark mode with no
+   separate theme asset. The element itself has no image content and no
+   intrinsic size (a mask contributes neither), hence the inline
+   aspect-ratio from the figure's own pixel dimensions and this fixed cap. */
 .gr-figure__img {
-  max-width: 100%;
-  height: auto;
+  display: inline-block;
+  width: min(100%, 22rem);
+  background-color: var(--accent-soft);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
 }
 /* Honest placeholder shown when the source records a figure here but no
    legitimately-sourced image is bundled (see PassageFigure.note). Same quiet

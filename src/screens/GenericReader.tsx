@@ -266,10 +266,18 @@ export function GenericReader() {
               {p.figure ? (
                 <figure className="gr-figure">
                   {p.figure.image ? (
-                    <img
+                    <span
                       className="gr-figure__img"
-                      src={genericAssetUrl(workId, p.figure.image)}
-                      alt={p.figure.alt ?? ''}
+                      style={{
+                        WebkitMaskImage: `url(${genericAssetUrl(workId, p.figure.image)})`,
+                        maskImage: `url(${genericAssetUrl(workId, p.figure.image)})`,
+                        aspectRatio:
+                          p.figure.imageWidth && p.figure.imageHeight
+                            ? `${p.figure.imageWidth} / ${p.figure.imageHeight}`
+                            : undefined,
+                      }}
+                      role="img"
+                      aria-label={p.figure.alt ?? ''}
                     />
                   ) : (
                     <p className="gr-figure__note" lang="en">

@@ -100,10 +100,14 @@ export const ABOUT_SECTIONS: AboutSection[] = [
       'Book I’s 48 propositions (all of them) instead carry a real diagram image. Each was sourced by ' +
         'downloading the actual public-domain scan of Heiberg’s printed edition (Euclidis Opera Omnia ' +
         'vol. I, Internet Archive identifier euclidisoperaomn01eucluoft), rendering the exact page the ' +
-        'diagram appears on, and cropping to the diagram’s portion of that page — never redrawn, ' +
-        'fabricated, or reconstructed from the text. Every one of the 48 crops was checked by hand ' +
-        'against the source page before being committed, and the image sits next to an exact citation ' +
-        '(e.g. "Heiberg, Elements I.47") and alt text naming the proposition.',
+        'diagram appears on at high resolution, and cropping tightly to just the diagram’s own lines — ' +
+        'never redrawn, fabricated, or reconstructed from the text. Every one of the 48 crops was ' +
+        'checked by hand against the source page before being committed. The ink is kept exactly as ' +
+        'printed (no lines added, moved, or straightened); only its presentation is adapted to the ' +
+        'app’s own design — the aged-paper background is dropped in favour of a transparent one, and ' +
+        'the linework is tinted to the app’s accent colour, so each diagram sits on the page the same ' +
+        'way in both light and dark mode. The image sits next to an exact citation (e.g. "Heiberg, ' +
+        'Elements I.47") and alt text naming the proposition.',
       'The remaining 450 markers (Books II–XIII) are preserved as an honest note — "A diagram appears ' +
         'here in the printed edition; not yet available in this build." — attached to the passage in ' +
         'which they appear, together with the same exact-citation convention. All 498 markers (image ' +

@@ -612,7 +612,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.1",
-                    "image": "images/book-1-prop-1.jpg",
+                    "image": "images/book-1-prop-1.png",
+                    "imageWidth": 1456,
+                    "imageHeight": 1177,
                     "alt": "Diagram for Heiberg, Elements I.1, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -662,7 +664,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.2",
-                    "image": "images/book-1-prop-2.jpg",
+                    "image": "images/book-1-prop-2.png",
+                    "imageWidth": 1004,
+                    "imageHeight": 1283,
                     "alt": "Diagram for Heiberg, Elements I.2, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -692,7 +696,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.3",
-                    "image": "images/book-1-prop-3.jpg",
+                    "image": "images/book-1-prop-3.png",
+                    "imageWidth": 1166,
+                    "imageHeight": 976,
                     "alt": "Diagram for Heiberg, Elements I.3, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -727,7 +733,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.4",
-                    "image": "images/book-1-prop-4.jpg",
+                    "image": "images/book-1-prop-4.png",
+                    "imageWidth": 811,
+                    "imageHeight": 1129,
                     "alt": "Diagram for Heiberg, Elements I.4, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -767,7 +775,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.5",
-                    "image": "images/book-1-prop-5.jpg",
+                    "image": "images/book-1-prop-5.png",
+                    "imageWidth": 892,
+                    "imageHeight": 1188,
                     "alt": "Diagram for Heiberg, Elements I.5, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -807,7 +817,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.6",
-                    "image": "images/book-1-prop-6.jpg",
+                    "image": "images/book-1-prop-6.png",
+                    "imageWidth": 811,
+                    "imageHeight": 918,
                     "alt": "Diagram for Heiberg, Elements I.6, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -847,7 +859,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.7",
-                    "image": "images/book-1-prop-7.jpg",
+                    "image": "images/book-1-prop-7.png",
+                    "imageWidth": 1053,
+                    "imageHeight": 775,
                     "alt": "Diagram for Heiberg, Elements I.7, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -882,7 +896,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.8",
-                    "image": "images/book-1-prop-8.jpg",
+                    "image": "images/book-1-prop-8.png",
+                    "imageWidth": 1101,
+                    "imageHeight": 1075,
                     "alt": "Diagram for Heiberg, Elements I.8, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -927,7 +943,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.9",
-                    "image": "images/book-1-prop-9.jpg",
+                    "image": "images/book-1-prop-9.png",
+                    "imageWidth": 763,
+                    "imageHeight": 759,
                     "alt": "Diagram for Heiberg, Elements I.9, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -957,7 +975,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.10",
-                    "image": "images/book-1-prop-10.jpg",
+                    "image": "images/book-1-prop-10.png",
+                    "imageWidth": 892,
+                    "imageHeight": 705,
                     "alt": "Diagram for Heiberg, Elements I.10, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1002,7 +1022,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.11",
-                    "image": "images/book-1-prop-11.jpg",
+                    "image": "images/book-1-prop-11.png",
+                    "imageWidth": 1166,
+                    "imageHeight": 992,
                     "alt": "Diagram for Heiberg, Elements I.11, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1042,7 +1064,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.12",
-                    "image": "images/book-1-prop-12.jpg",
+                    "image": "images/book-1-prop-12.png",
+                    "imageWidth": 1166,
+                    "imageHeight": 1082,
                     "alt": "Diagram for Heiberg, Elements I.12, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1077,7 +1101,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.13",
-                    "image": "images/book-1-prop-13.jpg",
+                    "image": "images/book-1-prop-13.png",
+                    "imageWidth": 731,
+                    "imageHeight": 930,
                     "alt": "Diagram for Heiberg, Elements I.13, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1112,7 +1138,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.14",
-                    "image": "images/book-1-prop-14.jpg",
+                    "image": "images/book-1-prop-14.png",
+                    "imageWidth": 972,
+                    "imageHeight": 806,
                     "alt": "Diagram for Heiberg, Elements I.14, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1157,7 +1185,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.15",
-                    "image": "images/book-1-prop-15.jpg",
+                    "image": "images/book-1-prop-15.png",
+                    "imageWidth": 908,
+                    "imageHeight": 1007,
                     "alt": "Diagram for Heiberg, Elements I.15, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1187,7 +1217,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.16",
-                    "image": "images/book-1-prop-16.jpg",
+                    "image": "images/book-1-prop-16.png",
+                    "imageWidth": 779,
+                    "imageHeight": 1047,
                     "alt": "Diagram for Heiberg, Elements I.16, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1227,7 +1259,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.17",
-                    "image": "images/book-1-prop-17.jpg",
+                    "image": "images/book-1-prop-17.png",
+                    "imageWidth": 1037,
+                    "imageHeight": 895,
                     "alt": "Diagram for Heiberg, Elements I.17, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1277,7 +1311,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.18",
-                    "image": "images/book-1-prop-18.jpg",
+                    "image": "images/book-1-prop-18.png",
+                    "imageWidth": 1375,
+                    "imageHeight": 738,
                     "alt": "Diagram for Heiberg, Elements I.18, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1307,7 +1343,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.19",
-                    "image": "images/book-1-prop-19.jpg",
+                    "image": "images/book-1-prop-19.png",
+                    "imageWidth": 682,
+                    "imageHeight": 1237,
                     "alt": "Diagram for Heiberg, Elements I.19, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1342,7 +1380,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.20",
-                    "image": "images/book-1-prop-20.jpg",
+                    "image": "images/book-1-prop-20.png",
+                    "imageWidth": 892,
+                    "imageHeight": 1114,
                     "alt": "Diagram for Heiberg, Elements I.20, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1387,7 +1427,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.21",
-                    "image": "images/book-1-prop-21.jpg",
+                    "image": "images/book-1-prop-21.png",
+                    "imageWidth": 1004,
+                    "imageHeight": 1083,
                     "alt": "Diagram for Heiberg, Elements I.21, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1427,7 +1469,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.22",
-                    "image": "images/book-1-prop-22.jpg",
+                    "image": "images/book-1-prop-22.png",
+                    "imageWidth": 2371,
+                    "imageHeight": 1070,
                     "alt": "Diagram for Heiberg, Elements I.22, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1462,7 +1506,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.23",
-                    "image": "images/book-1-prop-23.jpg",
+                    "image": "images/book-1-prop-23.png",
+                    "imageWidth": 892,
+                    "imageHeight": 1161,
                     "alt": "Diagram for Heiberg, Elements I.23, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1512,7 +1558,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.24",
-                    "image": "images/book-1-prop-24.jpg",
+                    "image": "images/book-1-prop-24.png",
+                    "imageWidth": 1053,
+                    "imageHeight": 987,
                     "alt": "Diagram for Heiberg, Elements I.24, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1542,7 +1590,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.25",
-                    "image": "images/book-1-prop-25.jpg",
+                    "image": "images/book-1-prop-25.png",
+                    "imageWidth": 731,
+                    "imageHeight": 578,
                     "alt": "Diagram for Heiberg, Elements I.25, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1577,7 +1627,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.26",
-                    "image": "images/book-1-prop-26.jpg",
+                    "image": "images/book-1-prop-26.png",
+                    "imageWidth": 972,
+                    "imageHeight": 962,
                     "alt": "Diagram for Heiberg, Elements I.26, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1632,7 +1684,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.27",
-                    "image": "images/book-1-prop-27.jpg",
+                    "image": "images/book-1-prop-27.png",
+                    "imageWidth": 1015,
+                    "imageHeight": 699,
                     "alt": "Diagram for Heiberg, Elements I.27, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1672,7 +1726,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.28",
-                    "image": "images/book-1-prop-28.jpg",
+                    "image": "images/book-1-prop-28.png",
+                    "imageWidth": 1000,
+                    "imageHeight": 1173,
                     "alt": "Diagram for Heiberg, Elements I.28, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1702,7 +1758,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.29",
-                    "image": "images/book-1-prop-29.jpg",
+                    "image": "images/book-1-prop-29.png",
+                    "imageWidth": 892,
+                    "imageHeight": 1134,
                     "alt": "Diagram for Heiberg, Elements I.29, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1747,7 +1805,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.30",
-                    "image": "images/book-1-prop-30.jpg",
+                    "image": "images/book-1-prop-30.png",
+                    "imageWidth": 1053,
+                    "imageHeight": 831,
                     "alt": "Diagram for Heiberg, Elements I.30, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1777,7 +1837,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.31",
-                    "image": "images/book-1-prop-31.jpg",
+                    "image": "images/book-1-prop-31.png",
+                    "imageWidth": 1004,
+                    "imageHeight": 590,
                     "alt": "Diagram for Heiberg, Elements I.31, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1817,7 +1879,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.32",
-                    "image": "images/book-1-prop-32.jpg",
+                    "image": "images/book-1-prop-32.png",
+                    "imageWidth": 892,
+                    "imageHeight": 676,
                     "alt": "Diagram for Heiberg, Elements I.32, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1862,7 +1926,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.33",
-                    "image": "images/book-1-prop-33.jpg",
+                    "image": "images/book-1-prop-33.png",
+                    "imageWidth": 1164,
+                    "imageHeight": 1114,
                     "alt": "Diagram for Heiberg, Elements I.33, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1897,7 +1963,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.34",
-                    "image": "images/book-1-prop-34.jpg",
+                    "image": "images/book-1-prop-34.png",
+                    "imageWidth": 1053,
+                    "imageHeight": 676,
                     "alt": "Diagram for Heiberg, Elements I.34, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1937,7 +2005,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.35",
-                    "image": "images/book-1-prop-35.jpg",
+                    "image": "images/book-1-prop-35.png",
+                    "imageWidth": 1534,
+                    "imageHeight": 542,
                     "alt": "Diagram for Heiberg, Elements I.35, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -1977,7 +2047,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.36",
-                    "image": "images/book-1-prop-36.jpg",
+                    "image": "images/book-1-prop-36.png",
+                    "imageWidth": 1583,
+                    "imageHeight": 708,
                     "alt": "Diagram for Heiberg, Elements I.36, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2012,7 +2084,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.37",
-                    "image": "images/book-1-prop-37.jpg",
+                    "image": "images/book-1-prop-37.png",
+                    "imageWidth": 1166,
+                    "imageHeight": 575,
                     "alt": "Diagram for Heiberg, Elements I.37, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2047,7 +2121,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.38",
-                    "image": "images/book-1-prop-38.jpg",
+                    "image": "images/book-1-prop-38.png",
+                    "imageWidth": 1536,
+                    "imageHeight": 534,
                     "alt": "Diagram for Heiberg, Elements I.38, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2092,7 +2168,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.39",
-                    "image": "images/book-1-prop-39.jpg",
+                    "image": "images/book-1-prop-39.png",
+                    "imageWidth": 1166,
+                    "imageHeight": 681,
                     "alt": "Diagram for Heiberg, Elements I.39, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2117,7 +2195,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.40",
-                    "image": "images/book-1-prop-40.jpg",
+                    "image": "images/book-1-prop-40.png",
+                    "imageWidth": 779,
+                    "imageHeight": 816,
                     "alt": "Diagram for Heiberg, Elements I.40, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2162,7 +2242,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.41",
-                    "image": "images/book-1-prop-41.jpg",
+                    "image": "images/book-1-prop-41.png",
+                    "imageWidth": 1004,
+                    "imageHeight": 1360,
                     "alt": "Diagram for Heiberg, Elements I.41, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2202,7 +2284,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.42",
-                    "image": "images/book-1-prop-42.jpg",
+                    "image": "images/book-1-prop-42.png",
+                    "imageWidth": 892,
+                    "imageHeight": 254,
                     "alt": "Diagram for Heiberg, Elements I.42, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2232,7 +2316,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.43",
-                    "image": "images/book-1-prop-43.jpg",
+                    "image": "images/book-1-prop-43.png",
+                    "imageWidth": 1164,
+                    "imageHeight": 793,
                     "alt": "Diagram for Heiberg, Elements I.43, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2267,7 +2353,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.44",
-                    "image": "images/book-1-prop-44.jpg",
+                    "image": "images/book-1-prop-44.png",
+                    "imageWidth": 1004,
+                    "imageHeight": 1400,
                     "alt": "Diagram for Heiberg, Elements I.44, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2297,7 +2385,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.45",
-                    "image": "images/book-1-prop-45.jpg",
+                    "image": "images/book-1-prop-45.png",
+                    "imageWidth": 811,
+                    "imageHeight": 1248,
                     "alt": "Diagram for Heiberg, Elements I.45, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2342,7 +2432,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.46",
-                    "image": "images/book-1-prop-46.jpg",
+                    "image": "images/book-1-prop-46.png",
+                    "imageWidth": 779,
+                    "imageHeight": 883,
                     "alt": "Diagram for Heiberg, Elements I.46, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2377,7 +2469,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.47",
-                    "image": "images/book-1-prop-47.jpg",
+                    "image": "images/book-1-prop-47.png",
+                    "imageWidth": 1166,
+                    "imageHeight": 860,
                     "alt": "Diagram for Heiberg, Elements I.47, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
@@ -2412,7 +2506,9 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements I.48",
-                    "image": "images/book-1-prop-48.jpg",
+                    "image": "images/book-1-prop-48.png",
+                    "imageWidth": 892,
+                    "imageHeight": 1275,
                     "alt": "Diagram for Heiberg, Elements I.48, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },

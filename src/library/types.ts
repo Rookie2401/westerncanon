@@ -80,6 +80,11 @@ export interface Work {
  */
 export interface PassageFigure {
   image?: string;
+  /** Pixel dimensions of `image`, so the reader can reserve its aspect ratio
+   *  before the (mask-only, intrinsically sizeless) image loads. Required
+   *  whenever `image` is set. */
+  imageWidth?: number;
+  imageHeight?: number;
   alt?: string;
   source: string;
   note?: string;

@@ -160,24 +160,29 @@ describe('GenericReader (Euclid Elements)', () => {
     expect(document.querySelector('.reader__prose--grc[lang="grc"]')).toBeTruthy();
   });
 
-  it('renders Book I\'s real diagram image (sourced from the printed edition) with its citation and alt text', async () => {
+  it("renders Book I's real diagram as a mask-tinted figure (sourced from the printed edition) with its citation and alt text", async () => {
     renderAt('book-1-prop-1');
     // Proposition 1's construction paragraph carries a <figure/> marker (Heiberg, Elements I.1),
     // and Book I is the one book with a real, hand-checked diagram image for every proposition.
+    // The image ships as a transparent-background PNG used as a CSS mask (tinted via the app's
+    // own accent colour, theme-reactive), never a plain <img> - see GenericReader.tsx.
     expect(await screen.findByText('Heiberg, Elements I.1')).toBeTruthy();
-    const img = document.querySelector<HTMLImageElement>('.gr-figure img');
-    expect(img).toBeTruthy();
-    expect(img!.getAttribute('src')).toContain('euclid-elements/images/book-1-prop-1.jpg');
-    expect(img!.getAttribute('alt')).toMatch(/Heiberg, Elements I\.1/);
+    const fig = document.querySelector<HTMLElement>('.gr-figure__img');
+    expect(fig).toBeTruthy();
+    expect(fig!.getAttribute('role')).toBe('img');
+    expect(fig!.style.maskImage).toContain('euclid-elements/images/book-1-prop-1.png');
+    expect(fig!.getAttribute('aria-label')).toMatch(/Heiberg, Elements I\.1/);
+    expect(document.querySelector('.gr-figure img')).toBeNull();
     expect(screen.queryByText(/not yet available in this build/i)).toBeNull();
   });
 
-  it('renders a passage carrying a diagram marker for a book without a real image yet as an honest note, never as an <img>', async () => {
+  it('renders a passage carrying a diagram marker for a book without a real image yet as an honest note, never as a figure mask', async () => {
     renderAt('book-2-prop-1');
     expect(
       await screen.findByText(/A diagram appears here in the printed edition/i),
     ).toBeTruthy();
     expect(screen.getByText('Heiberg, Elements II.1')).toBeTruthy();
+    expect(document.querySelector('.gr-figure__img')).toBeNull();
     expect(document.querySelector('.gr-figure img')).toBeNull();
     expect(document.querySelector('img')).toBeNull();
   });
