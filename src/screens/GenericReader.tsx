@@ -385,7 +385,13 @@ export function GenericReader() {
                   <h1 className="reader__utrum gr-head__source">{shortLabel}</h1>
                 )}
                 <p className="gr-head__meta" lang="en">
-                  {division.number ? <span>§ {division.number}</span> : null}
+                  {/* Only shown when the h1 above is the verbatim source
+                      heading — otherwise the h1 already IS this division's
+                      own label (e.g. "Proposition 1"), and repeating it here
+                      would be pure duplication. */}
+                  {division.number && division.sourceHeading ? (
+                    <span>{divisionShortLabel(division)}</span>
+                  ) : null}
                   {division.ref ? <span>{division.ref}</span> : null}
                   {division.editorialTitle ? (
                     <span className="gr-head__ed">

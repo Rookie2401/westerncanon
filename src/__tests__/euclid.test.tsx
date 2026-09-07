@@ -132,9 +132,9 @@ describe('Work (Euclid Elements) - nested Book -> flat section list', () => {
     // extra expand/collapse step in between.
     expect(bookIScope.queryByRole('button', { name: /Propositions/ })).toBeNull();
     expect(bookIScope.queryByRole('link', { name: /Propositions/ })).toBeNull();
-    const prop1 = bookIScope.getByRole('link', { name: '§ 1' });
+    const prop1 = bookIScope.getByRole('link', { name: 'Proposition 1' });
     expect(prop1.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-prop-1`);
-    const prop2 = bookIScope.getByRole('link', { name: '§ 2' });
+    const prop2 = bookIScope.getByRole('link', { name: 'Proposition 2' });
     expect(prop2.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-prop-2`);
 
     // And it's genuinely ONE flat list: Definitions, Postulates, Common

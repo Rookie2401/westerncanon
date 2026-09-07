@@ -128,10 +128,31 @@ export function genericNeighbors(
   };
 }
 
-/** Short division label, e.g. "§ I", "Praefatio", or a group's own editorial
- *  title ("Definitions") when it has none of its own §-number. */
+/**
+ * Euclid-specific: "Book" for a top-level book division, "Proposition" for a
+ * proposition leaf (including Book X's split Propositions I/II/III), derived
+ * from the id shapes the Euclid importer produces (`book-N`, `book-N-prop-M`,
+ * `book-N-propX-M`) — so these read as what they are rather than as an
+ * anonymous numbered "§". Every other generic-profile work's divisions don't
+ * match either shape and fall through to the plain "§ N" label unchanged.
+ */
+const BOOK_ID = /^book-\d+$/;
+const PROPOSITION_ID = /-prop[123]?-\d+$/;
+
+function euclidKindLabel(d: Division): string | null {
+  if (BOOK_ID.test(d.id)) return 'Book';
+  if (PROPOSITION_ID.test(d.id)) return 'Proposition';
+  return null;
+}
+
+/** Short division label, e.g. "Book I", "Proposition 1", "§ 5", "Praefatio",
+ *  or a group's own editorial title ("Definitions") when it has no number of
+ *  its own. */
 export function divisionShortLabel(d: Division): string {
-  if (d.number !== null) return `§ ${d.number}`;
+  if (d.number !== null) {
+    const kind = euclidKindLabel(d);
+    return kind ? `${kind} ${d.number}` : `§ ${d.number}`;
+  }
   if (d.children.length > 0) return d.editorialTitle ?? d.sourceHeading ?? 'Praefatio';
   return d.sourceHeading ?? 'Praefatio';
 }

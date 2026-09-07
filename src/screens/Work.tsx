@@ -3,18 +3,17 @@ import { Link, useParams } from 'react-router-dom';
 import clsx from 'clsx';
 import { authorById, workById } from '../library/registry.ts';
 import { summaTopLevel } from '../library/summaAdapter.ts';
-import { isConsolidatableGroup, loadGenericWork } from '../library/genericCorpus.ts';
+import {
+  divisionShortLabel,
+  isConsolidatableGroup,
+  loadGenericWork,
+} from '../library/genericCorpus.ts';
 import type { Division } from '../library/types.ts';
 import { useResource } from '../ui/useResource.ts';
 import { Breadcrumbs } from '../components/Breadcrumbs.tsx';
 import { TopBar } from '../components/TopBar.tsx';
 import { Collapsible } from '../components/Collapsible.tsx';
 import { ChevronIcon } from '../components/icons.tsx';
-
-function sectionNumber(d: Division): string {
-  if (d.number === null) return d.sourceHeading ?? 'Praefatio';
-  return `§ ${d.number}`;
-}
 
 export function WorkScreen() {
   const { workId = '' } = useParams();
@@ -106,7 +105,7 @@ function SummaWorkBody() {
 function DivisionLeaf({ workId, d }: { workId: string; d: Division }) {
   return (
     <Link to={`/read/${workId}/${d.id}`} className="entry">
-      <span className="entry__num">{sectionNumber(d)}</span>
+      <span className="entry__num">{divisionShortLabel(d)}</span>
       <span className="work__preview">
         {d.ref ? <span className="work__ref">{d.ref}</span> : null}
         {d.editorialTitle ? (
@@ -131,10 +130,10 @@ function DivisionGroup({ workId, d, depth }: { workId: string; d: Division; dept
   // A group container (e.g. a Book, or - defensively - some future deeper
   // nesting) has number === null AND sourceHeading === null by design when
   // it's a bare container — that combination must NOT fall back to
-  // sectionNumber's leaf-only 'Praefatio' default here.
+  // divisionShortLabel's leaf-only 'Praefatio' default here.
   const label = d.editorialTitle
-    ? (d.number !== null ? `§ ${d.number} · ${d.editorialTitle}` : d.editorialTitle)
-    : (d.sourceHeading ?? (d.number !== null ? `§ ${d.number}` : ''));
+    ? (d.number !== null ? `${divisionShortLabel(d)} · ${d.editorialTitle}` : d.editorialTitle)
+    : (d.sourceHeading ?? (d.number !== null ? divisionShortLabel(d) : ''));
   return (
     <div className="entrygroup">
       <button
