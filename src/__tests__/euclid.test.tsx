@@ -90,7 +90,7 @@ afterEach(() => {
 });
 
 describe('Work (Euclid Elements) - nested Book -> group -> proposition tree', () => {
-  it('renders Book I as a closed disclosure carrying its editorial title, expands to its section-type groups, and expands Propositions to reveal Proposition 1 as a leaf link', async () => {
+  it('renders Book I as a closed disclosure carrying its editorial title, expands to reveal Definitions/Postulates/Common Notions as single consolidated links and a Propositions disclosure, and expands Propositions to reveal Proposition 1 as a leaf link', async () => {
     render(
       <MemoryRouter initialEntries={[`/work/${WORK_ID}`]}>
         <Routes>
@@ -115,27 +115,29 @@ describe('Work (Euclid Elements) - nested Book -> group -> proposition tree', ()
     // "Definitions"/"Propositions" group and would otherwise collide.
     const bookIScope = within(bookI.closest('.entrygroup') as HTMLElement);
 
-    // Expanding Book I reveals its four section-type groups.
-    const defsBtn = bookIScope.getByRole('button', { name: /Definitions/ });
-    const postsBtn = bookIScope.getByRole('button', { name: /Postulates/ });
-    const cnBtn = bookIScope.getByRole('button', { name: /Common Notions/ });
+    // Definitions/Postulates/Common Notions are consolidatable groups: each
+    // is now a single link straight into the reader (all of that category's
+    // entries read together on one tabbed page), not a disclosure hiding N
+    // individually-clickable leaves.
+    const defsLink = bookIScope.getByRole('link', { name: /Definitions/ });
+    expect(defsLink.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-definitions`);
+    const postsLink = bookIScope.getByRole('link', { name: /Postulates/ });
+    expect(postsLink.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-postulates`);
+    const cnLink = bookIScope.getByRole('link', { name: /Common Notions/ });
+    expect(cnLink.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-common-notions`);
+
+    // Propositions is not consolidatable (48 full proofs, each often with its
+    // own diagram) and keeps the existing disclosure-of-individual-leaves
+    // treatment.
     const propsBtn = bookIScope.getByRole('button', { name: /Propositions/ });
-    expect(defsBtn).toBeTruthy();
-    expect(postsBtn).toBeTruthy();
-    expect(cnBtn).toBeTruthy();
-    expect(propsBtn).toBeTruthy();
     expect(propsBtn.getAttribute('aria-expanded')).toBe('false');
 
-    // Expanding Propositions reveals Proposition 1 as a flat, clickable leaf.
-    // Scope to the Propositions group itself - Book I's Definitions,
-    // Postulates and Common Notions groups each also start numbering at 1,
-    // so "§ 1" alone is ambiguous at the whole-Book-I level.
     fireEvent.click(propsBtn);
     const propsScope = within(propsBtn.closest('.entrygroup') as HTMLElement);
     const prop1 = propsScope.getByRole('link', { name: '§ 1' });
     expect(prop1.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-prop-1`);
     // This test mounts the whole WorkScreen against the real 611-leaf work.json
-    // and drives two disclosure expansions; it legitimately runs close to (and,
+    // and drives disclosure expansions; it legitimately runs close to (and,
     // on a loaded machine, over) the 5s default test timeout, so it gets an
     // explicit allowance rather than being flaky under normal CI load.
   }, 20000);
@@ -192,5 +194,67 @@ describe('GenericReader (Euclid Elements)', () => {
     // The division still renders its header (§ 4); the body simply has no passages.
     await screen.findByRole('heading', { name: '§ 4' });
     expect(document.querySelectorAll('.gr-passage').length).toBe(0);
+  });
+});
+
+describe('GenericReader (Euclid Elements) - consolidated Preliminaries', () => {
+  function renderAt(divId: string) {
+    return render(
+      <MemoryRouter initialEntries={[`/read/${WORK_ID}/${divId}`]}>
+        <Routes>
+          <Route path="/read/:workId/:divId" element={<GenericReader />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+  }
+
+  it('renders Book I Definitions with all 23 definitions on one page, a tab bar for its trio, and Definitions marked active', async () => {
+    renderAt('book-1-definitions');
+    expect(
+      await screen.findByText('σημεῖόν ἐστιν, οὗ μέρος οὐθέν.'),
+    ).toBeTruthy();
+    // Definition 23 (the last one) is on the SAME page — proof this is one
+    // consolidated view, not just definition 1 alone.
+    expect(
+      screen.getByText(/παράλληλοί εἰσιν εὐθεῖαι/),
+    ).toBeTruthy();
+
+    const tabs = screen.getByRole('navigation', { name: 'Preliminaries' });
+    const defsTab = within(tabs).getByRole('link', { name: 'Definitions' });
+    const postsTab = within(tabs).getByRole('link', { name: 'Postulates' });
+    const cnTab = within(tabs).getByRole('link', { name: 'Common Notions' });
+    expect(defsTab.getAttribute('aria-current')).toBe('page');
+    expect(postsTab.getAttribute('aria-current')).toBeNull();
+    expect(cnTab.getAttribute('aria-current')).toBeNull();
+    expect(postsTab.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-postulates`);
+    expect(cnTab.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-common-notions`);
+  });
+
+  it('renders Book I Postulates as the active tab with its own content only, not Definitions', async () => {
+    renderAt('book-1-postulates');
+    expect(
+      await screen.findByText('Ἠιτήσθω ἀπὸ παντὸς σημείου ἐπὶ πᾶν σημεῖον εὐθεῖαν γραμμὴν ἀγαγεῖν.'),
+    ).toBeTruthy();
+    expect(screen.queryByText('σημεῖόν ἐστιν, οὗ μέρος οὐθέν.')).toBeNull();
+
+    const tabs = screen.getByRole('navigation', { name: 'Preliminaries' });
+    expect(
+      within(tabs).getByRole('link', { name: 'Postulates' }).getAttribute('aria-current'),
+    ).toBe('page');
+  });
+
+  it("renders Book II's single Definitions group (no Postulates/Common Notions sibling) as one page with both definitions and no tab bar", async () => {
+    renderAt('book-2-definitions');
+    expect(
+      await screen.findByText(/πᾶν παραλληλόγραμμον ὀρθογώνιον/),
+    ).toBeTruthy();
+    expect(screen.getByText(/παντὸς δὲ παραλληλογράμμου/)).toBeTruthy();
+    expect(screen.queryByRole('navigation', { name: 'Preliminaries' })).toBeNull();
+  });
+
+  it("treats Book I's Definitions/Postulates/Common Notions trio as a single Prev/Next stop, ahead of Proposition 1", async () => {
+    renderAt('book-1-prop-1');
+    const prevLink = await screen.findByRole('link', { name: /Prev/ });
+    expect(prevLink.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-definitions`);
   });
 });

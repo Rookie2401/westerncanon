@@ -1422,6 +1422,52 @@ body {
   margin-top: 0.35rem;
 }
 
+/* --- consolidated Preliminaries page (Euclid Definitions / Postulates /
+   Common Notions read together on one page, tabbed, instead of N
+   individually-clickable leaves) ------------------------------------------ */
+.reader__tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.4rem;
+  margin: 0 0 1.9rem;
+}
+.reader__tab {
+  font-family: var(--serif);
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  padding-bottom: 0.45rem;
+  border-bottom: 2px solid var(--rule);
+  transition: color 0.15s, border-color 0.15s;
+}
+.reader__tab:hover {
+  text-decoration: none;
+  color: var(--ink);
+}
+.reader__tab--active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+.prelim-item {
+  display: flex;
+  gap: 0.9rem;
+  align-items: baseline;
+  margin: 0 0 1.4rem;
+}
+.prelim-item__num {
+  flex: none;
+  min-width: 1.7rem;
+  font-weight: 600;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.prelim-item__body {
+  flex: 1;
+  min-width: 0;
+}
+
 /* --- search: generic-work result group -------------------------------- */
 .search__group {
   margin-bottom: 1.75rem;

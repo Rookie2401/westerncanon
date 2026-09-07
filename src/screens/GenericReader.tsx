@@ -9,13 +9,15 @@ import { Link, useParams } from 'react-router-dom';
 import clsx from 'clsx';
 import { authorById, workById } from '../library/registry.ts';
 import {
+  consolidatedRun,
   divisionById,
   divisionShortLabel,
   genericAssetUrl,
   genericNeighbors,
+  isConsolidatableGroup,
   loadGenericWork,
 } from '../library/genericCorpus.ts';
-import type { Division, GenericWork } from '../library/types.ts';
+import type { Division, GenericWork, Passage } from '../library/types.ts';
 import { useResource } from '../ui/useResource.ts';
 import {
   getLast,
@@ -25,6 +27,158 @@ import {
   useIsBookmarked,
 } from '../state/storage.ts';
 import { BackIcon, BookmarkIcon } from '../components/icons.tsx';
+
+/**
+ * A passage's text, its anomaly note (if any), and its diagram (if any) — the
+ * same rendering whether it's the sole content of a leaf division or one item
+ * inside a consolidated Preliminaries page (see ConsolidatedBody below).
+ */
+function PassageList({
+  workId,
+  passages,
+}: {
+  workId: string;
+  passages: Passage[];
+}) {
+  return (
+    <>
+      {passages.map((p, i) => (
+        <div key={i} className="gr-passage">
+          <p>{p.text}</p>
+          {p.anomaly ? (
+            <p className="gr-passage__anomaly" lang="en">
+              {p.anomaly}
+            </p>
+          ) : null}
+          {p.figure ? (
+            <figure className="gr-figure">
+              {p.figure.image ? (
+                <span
+                  className="gr-figure__img"
+                  style={{
+                    WebkitMaskImage: `url(${genericAssetUrl(workId, p.figure.image)})`,
+                    maskImage: `url(${genericAssetUrl(workId, p.figure.image)})`,
+                    aspectRatio:
+                      p.figure.imageWidth && p.figure.imageHeight
+                        ? `${p.figure.imageWidth} / ${p.figure.imageHeight}`
+                        : undefined,
+                  }}
+                  role="img"
+                  aria-label={p.figure.alt ?? ''}
+                />
+              ) : (
+                <p className="gr-figure__note" lang="en">
+                  {p.figure.note}
+                </p>
+              )}
+              <figcaption className="gr-figure__source" lang="en">
+                {p.figure.source}
+              </figcaption>
+            </figure>
+          ) : null}
+        </div>
+      ))}
+    </>
+  );
+}
+
+/**
+ * One numbered item (a Definition/Postulate/Common Notion leaf) inside a
+ * consolidated Preliminaries page — the leaf's own text, laid out with its
+ * printed number as a small marginal numeral rather than as a separate page.
+ */
+function PrelimItem({ workId, leaf }: { workId: string; leaf: Division }) {
+  return (
+    <section id={leaf.id} className="prelim-item">
+      <span className="prelim-item__num">{leaf.number}</span>
+      <div className="prelim-item__body">
+        <PassageList workId={workId} passages={leaf.passages} />
+      </div>
+    </section>
+  );
+}
+
+/**
+ * A consolidatable section-type group, rendered as one page: all of its
+ * children's passages together, with a tab bar switching between it and its
+ * sibling groups in the same consolidated run (omitted when the run is just
+ * this one group — e.g. most books' lone Definitions section).
+ */
+function ConsolidatedBody({
+  workId,
+  work,
+  division,
+  divId,
+}: {
+  workId: string;
+  work: GenericWork;
+  division: Division;
+  divId: string;
+}) {
+  const run = consolidatedRun(work, divId);
+  return (
+    <>
+      <header className="gr-head">
+        <h1 className="reader__utrum gr-head__source">
+          {division.editorialTitle ?? divisionShortLabel(division)}
+        </h1>
+      </header>
+      {run.length > 1 ? (
+        <nav className="reader__tabs" aria-label="Preliminaries">
+          {run.map((g) => (
+            <Link
+              key={g.id}
+              to={`/read/${workId}/${g.id}`}
+              replace
+              className={clsx('reader__tab', g.id === divId && 'reader__tab--active')}
+              aria-current={g.id === divId ? 'page' : undefined}
+            >
+              {g.editorialTitle}
+            </Link>
+          ))}
+        </nav>
+      ) : null}
+      {division.children.map((leaf) => (
+        <PrelimItem key={leaf.id} workId={workId} leaf={leaf} />
+      ))}
+    </>
+  );
+}
+
+/**
+ * Defensive fallback for a group division that is NOT a consolidatable
+ * Preliminaries group (e.g. Euclid's Propositions group, or a book-level
+ * container) reached directly by id. The Work tree only ever links to
+ * consolidatable groups and leaves, so this isn't normally reachable — but a
+ * plain contents list is honest, rather than either a blank page or
+ * ConsolidatedBody misreading a non-leaf child as a numbered item.
+ */
+function GroupContentsFallback({
+  workId,
+  division,
+  shortLabel,
+}: {
+  workId: string;
+  division: Division;
+  shortLabel: string;
+}) {
+  return (
+    <>
+      <header className="gr-head">
+        <h1 className="reader__utrum gr-head__source">
+          {division.editorialTitle ?? shortLabel}
+        </h1>
+      </header>
+      <nav className="entrylist">
+        {division.children.map((c) => (
+          <Link key={c.id} to={`/read/${workId}/${c.id}`} className="entry">
+            <span className="entry__num">{divisionShortLabel(c)}</span>
+          </Link>
+        ))}
+      </nav>
+    </>
+  );
+}
 
 function scrollRatio(): number {
   const max = document.documentElement.scrollHeight - window.innerHeight;
@@ -176,6 +330,10 @@ export function GenericReader() {
       </div>
     );
   }
+  // `division` only exists when `data` resolved (see its ternary above) —
+  // this is an unreachable-in-practice guard purely so TS carries that fact
+  // forward for ConsolidatedBody's non-optional `work` prop below.
+  if (!data) return null;
 
   const isGreek = work.language === 'grc';
 
@@ -231,66 +389,50 @@ export function GenericReader() {
           )}
           lang={isGreek ? 'grc' : undefined}
         >
-          <header className="gr-head">
-            {division.sourceHeading ? (
-              <h1 className="reader__utrum gr-head__source">
-                {division.sourceHeading}
-              </h1>
+          {division.children.length > 0 ? (
+            isConsolidatableGroup(division) ? (
+              <ConsolidatedBody
+                workId={workId}
+                work={data}
+                division={division}
+                divId={divId}
+              />
             ) : (
-              <h1 className="reader__utrum gr-head__source">{shortLabel}</h1>
-            )}
-            <p className="gr-head__meta" lang="en">
-              {division.number ? <span>§ {division.number}</span> : null}
-              {division.ref ? <span>{division.ref}</span> : null}
-              {division.editorialTitle ? (
-                <span className="gr-head__ed">
-                  <span className="ed-tag">ed.</span>
-                  {division.editorialTitle}
-                </span>
-              ) : null}
-            </p>
-          </header>
-
-          {/* Passages render as plain paragraphs. The per-passage marker
-              (Greek canonical page label / Latin "¶ n" pilcrow) was removed at
-              the user's request; `p.n` / `p.ref` are still carried in the JSON
-              so a marker could return later (e.g. as an optional margin note). */}
-          {division.passages.map((p, i) => (
-            <section key={i} className="gr-passage">
-              <p>{p.text}</p>
-              {p.anomaly ? (
-                <p className="gr-passage__anomaly" lang="en">
-                  {p.anomaly}
+              <GroupContentsFallback
+                workId={workId}
+                division={division}
+                shortLabel={shortLabel}
+              />
+            )
+          ) : (
+            <>
+              <header className="gr-head">
+                {division.sourceHeading ? (
+                  <h1 className="reader__utrum gr-head__source">
+                    {division.sourceHeading}
+                  </h1>
+                ) : (
+                  <h1 className="reader__utrum gr-head__source">{shortLabel}</h1>
+                )}
+                <p className="gr-head__meta" lang="en">
+                  {division.number ? <span>§ {division.number}</span> : null}
+                  {division.ref ? <span>{division.ref}</span> : null}
+                  {division.editorialTitle ? (
+                    <span className="gr-head__ed">
+                      <span className="ed-tag">ed.</span>
+                      {division.editorialTitle}
+                    </span>
+                  ) : null}
                 </p>
-              ) : null}
-              {p.figure ? (
-                <figure className="gr-figure">
-                  {p.figure.image ? (
-                    <span
-                      className="gr-figure__img"
-                      style={{
-                        WebkitMaskImage: `url(${genericAssetUrl(workId, p.figure.image)})`,
-                        maskImage: `url(${genericAssetUrl(workId, p.figure.image)})`,
-                        aspectRatio:
-                          p.figure.imageWidth && p.figure.imageHeight
-                            ? `${p.figure.imageWidth} / ${p.figure.imageHeight}`
-                            : undefined,
-                      }}
-                      role="img"
-                      aria-label={p.figure.alt ?? ''}
-                    />
-                  ) : (
-                    <p className="gr-figure__note" lang="en">
-                      {p.figure.note}
-                    </p>
-                  )}
-                  <figcaption className="gr-figure__source" lang="en">
-                    {p.figure.source}
-                  </figcaption>
-                </figure>
-              ) : null}
-            </section>
-          ))}
+              </header>
+
+              {/* Passages render as plain paragraphs. The per-passage marker
+                  (Greek canonical page label / Latin "¶ n" pilcrow) was removed at
+                  the user's request; `p.n` / `p.ref` are still carried in the JSON
+                  so a marker could return later (e.g. as an optional margin note). */}
+              <PassageList workId={workId} passages={division.passages} />
+            </>
+          )}
         </article>
       </div>
 

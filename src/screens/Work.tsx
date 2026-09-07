@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 import clsx from 'clsx';
 import { authorById, workById } from '../library/registry.ts';
 import { summaTopLevel } from '../library/summaAdapter.ts';
-import { loadGenericWork } from '../library/genericCorpus.ts';
+import { isConsolidatableGroup, loadGenericWork } from '../library/genericCorpus.ts';
 import type { Division } from '../library/types.ts';
 import { useResource } from '../ui/useResource.ts';
 import { Breadcrumbs } from '../components/Breadcrumbs.tsx';
@@ -160,7 +160,28 @@ function DivisionGroup({ workId, d }: { workId: string; d: Division }) {
   );
 }
 
+/**
+ * A consolidatable section-type group (Euclid's Definitions / Postulates /
+ * Common Notions, or a Book X repeat like Definitions II): rather than
+ * expanding into N individually-clickable leaves, this links straight to one
+ * reading page that carries all of them together — tabbed against whichever
+ * sibling groups form the same run, when there is more than one (see
+ * GenericReader's consolidated-group rendering).
+ */
+function DivisionGroupLink({ workId, d }: { workId: string; d: Division }) {
+  const n = d.children.length;
+  return (
+    <Link to={`/read/${workId}/${d.id}`} className="entry">
+      <span className="entry__num">{d.editorialTitle}</span>
+      <span className="entry__preview">
+        {n} {n === 1 ? 'entry' : 'entries'}
+      </span>
+    </Link>
+  );
+}
+
 function DivisionRow({ workId, d }: { workId: string; d: Division }) {
+  if (isConsolidatableGroup(d)) return <DivisionGroupLink workId={workId} d={d} />;
   return d.children.length > 0 ? (
     <DivisionGroup workId={workId} d={d} />
   ) : (
