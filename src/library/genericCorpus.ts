@@ -89,60 +89,26 @@ export function isConsolidatableGroup(d: Division): boolean {
   );
 }
 
-function siblingsContaining(list: Division[], id: string): Division[] | undefined {
-  if (list.some((d) => d.id === id)) return list;
-  for (const d of list) {
-    const found = siblingsContaining(d.children, id);
-    if (found) return found;
-  }
-  return undefined;
-}
-
-/**
- * The maximal run of consecutive sibling groups (same parent, adjacent in
- * document order) that are all consolidatable and include `groupId` — e.g.
- * Book I's Definitions/Postulates/Common Notions are three-in-a-row and are
- * read and tabbed together as one "Preliminaries" page; Book X's three
- * separate Definitions groups are each isolated by an intervening
- * Propositions group in between, so each gets its own single-group (no-tab)
- * run. Returns [] if `groupId` doesn't name a consolidatable group at all.
- */
-export function consolidatedRun(work: GenericWork, groupId: string): Division[] {
-  const siblings = siblingsContaining(work.divisions, groupId);
-  if (!siblings) return [];
-  const idx = siblings.findIndex((d) => d.id === groupId);
-  if (idx < 0 || !isConsolidatableGroup(siblings[idx])) return [];
-  let lo = idx;
-  let hi = idx;
-  while (lo > 0 && isConsolidatableGroup(siblings[lo - 1])) lo--;
-  while (hi < siblings.length - 1 && isConsolidatableGroup(siblings[hi + 1])) hi++;
-  return siblings.slice(lo, hi + 1);
-}
-
 /**
  * The ordered list used for prev/next: leaf divisions in document order,
- * except a consolidatable run (see above) collapses to ONE stop — its first
- * group — so paging past Book I's Preliminaries goes straight from nothing
- * to Proposition 1, not through all 23+5+9 individual entries. Falls back to
- * the top-level divisions when the tree is a flat list with no nesting.
+ * except a consolidatable group (see above) is one stop in its own right —
+ * so Definitions, Postulates and Common Notions are each their own Prev/Next
+ * stop (matching their own separate row in the Work tree — see Work.tsx),
+ * and paging past any of them still doesn't walk all of its individual
+ * entries one at a time. Falls back to the top-level divisions when the tree
+ * is a flat list with no nesting.
  */
 export function navigableDivisions(work: GenericWork): Division[] {
   const out: Division[] = [];
   const walk = (list: Division[]) => {
-    let i = 0;
-    while (i < list.length) {
-      const d = list[i];
+    for (const d of list) {
       if (isConsolidatableGroup(d)) {
         out.push(d);
-        while (i < list.length && isConsolidatableGroup(list[i])) i++;
-        continue;
-      }
-      if (d.children.length === 0) {
+      } else if (d.children.length === 0) {
         out.push(d);
       } else {
         walk(d.children);
       }
-      i++;
     }
   };
   walk(work.divisions);
@@ -153,15 +119,8 @@ export function genericNeighbors(
   work: GenericWork,
   divId: string,
 ): { prev: Division | null; next: Division | null } {
-  // A group mid-way through a consolidated run (e.g. viewing the Postulates
-  // tab) has no entry of its own in navigableDivisions — the whole run is
-  // one stop, keyed by its first group — so resolve to that canonical id
-  // first; Prev/Next always step past the run as a whole, leaving in-run
-  // movement to the tab bar.
-  const run = consolidatedRun(work, divId);
-  const canonicalId = run.length > 0 ? run[0].id : divId;
   const list = navigableDivisions(work);
-  const i = list.findIndex((d) => d.id === canonicalId);
+  const i = list.findIndex((d) => d.id === divId);
   if (i < 0) return { prev: null, next: null };
   return {
     prev: i > 0 ? list[i - 1] : null,

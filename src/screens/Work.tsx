@@ -121,17 +121,16 @@ function DivisionLeaf({ workId, d }: { workId: string; d: Division }) {
 }
 
 /**
- * A container division (has children, e.g. a Euclid Book or a section-type
- * group within it): a collapsible header — closed by default, same disclosure
- * pattern as the Library's work-family dropdown — that expands to its
- * children, recursively. Never itself a link: a container carries no
- * passages of its own.
+ * A container division (has children, e.g. a Euclid Book): a collapsible
+ * header — closed by default, same disclosure pattern as the Library's
+ * work-family dropdown — that expands to its children, recursively. Never
+ * itself a link: a container carries no passages of its own.
  */
-function DivisionGroup({ workId, d }: { workId: string; d: Division }) {
+function DivisionGroup({ workId, d, depth }: { workId: string; d: Division; depth: number }) {
   const [open, setOpen] = useState(false);
-  // A group container (e.g. Euclid's Definitions/Postulates/Common Notions/
-  // Propositions, or Book X's repeating sub-groups) has number === null AND
-  // sourceHeading === null by design — that combination must NOT fall back to
+  // A group container (e.g. a Book, or - defensively - some future deeper
+  // nesting) has number === null AND sourceHeading === null by design when
+  // it's a bare container — that combination must NOT fall back to
   // sectionNumber's leaf-only 'Praefatio' default here.
   const label = d.editorialTitle
     ? (d.number !== null ? `§ ${d.number} · ${d.editorialTitle}` : d.editorialTitle)
@@ -152,7 +151,7 @@ function DivisionGroup({ workId, d }: { workId: string; d: Division }) {
       <Collapsible open={open}>
         <div className="entrygroup__children">
           {d.children.map((c) => (
-            <DivisionRow key={c.id} workId={workId} d={c} />
+            <DivisionRow key={c.id} workId={workId} d={c} depth={depth + 1} />
           ))}
         </div>
       </Collapsible>
@@ -164,29 +163,59 @@ function DivisionGroup({ workId, d }: { workId: string; d: Division }) {
  * A consolidatable section-type group (Euclid's Definitions / Postulates /
  * Common Notions, or a Book X repeat like Definitions II): rather than
  * expanding into N individually-clickable leaves, this links straight to one
- * reading page that carries all of them together — tabbed against whichever
- * sibling groups form the same run, when there is more than one (see
- * GenericReader's consolidated-group rendering).
+ * reading page that carries all of them together (see GenericReader's
+ * consolidated-group rendering) — one plain row, same as a leaf.
  */
 function DivisionGroupLink({ workId, d }: { workId: string; d: Division }) {
-  const n = d.children.length;
   return (
     <Link to={`/read/${workId}/${d.id}`} className="entry">
       <span className="entry__num">{d.editorialTitle}</span>
-      <span className="entry__preview">
-        {n} {n === 1 ? 'entry' : 'entries'}
-      </span>
     </Link>
   );
 }
 
-function DivisionRow({ workId, d }: { workId: string; d: Division }) {
-  if (isConsolidatableGroup(d)) return <DivisionGroupLink workId={workId} d={d} />;
-  return d.children.length > 0 ? (
-    <DivisionGroup workId={workId} d={d} />
-  ) : (
-    <DivisionLeaf workId={workId} d={d} />
+/**
+ * A "section-type" group — has an editorial title of its own and only bare
+ * leaves as children, e.g. Euclid's Definitions/Postulates/Common Notions/
+ * Propositions groups, or a Book X repeat like Propositions II. Deliberately
+ * narrower than "any flat group of leaves": a generic work can still nest a
+ * plain (untitled, sourceHeading-only) group and get the ordinary disclosure
+ * treatment below — see the "nested Division groups" render.test.tsx fixture,
+ * which exercises exactly that path and must keep its own expand/collapse
+ * button.
+ */
+function isSectionTypeGroup(d: Division): boolean {
+  return (
+    d.children.length > 0 &&
+    d.editorialTitle !== null &&
+    d.children.every((c) => c.children.length === 0)
   );
+}
+
+/**
+ * Below the top level (depth > 0), a book's own section-type groups never
+ * get an extra expand/collapse step of their own: a consolidatable one
+ * (Definitions, Postulates, Common Notions, ...) is one link carrying all of
+ * its entries, and any other one (Propositions, or Book X's Propositions
+ * I/II/III) has its leaves spliced directly into the surrounding list — so a
+ * book's whole contents (Definitions, Postulates, Common Notions, Prop. 1,
+ * Prop. 2, ...) read as ONE flat list once expanded, not a list of lists.
+ * Only the top-level Book (depth 0) — and any other, non-section-type group —
+ * keeps the disclosure treatment.
+ */
+function DivisionRow({ workId, d, depth }: { workId: string; d: Division; depth: number }) {
+  if (d.children.length === 0) return <DivisionLeaf workId={workId} d={d} />;
+  if (depth > 0 && isSectionTypeGroup(d)) {
+    if (isConsolidatableGroup(d)) return <DivisionGroupLink workId={workId} d={d} />;
+    return (
+      <>
+        {d.children.map((c) => (
+          <DivisionLeaf key={c.id} workId={workId} d={c} />
+        ))}
+      </>
+    );
+  }
+  return <DivisionGroup workId={workId} d={d} depth={depth} />;
 }
 
 function GenericWorkBody({ workId }: { workId: string }) {
@@ -210,7 +239,7 @@ function GenericWorkBody({ workId }: { workId: string }) {
       <p className="work__legend">English section titles are editorial.</p>
       <div className="entrylist">
         {work.divisions.map((d) => (
-          <DivisionRow key={d.id} workId={workId} d={d} />
+          <DivisionRow key={d.id} workId={workId} d={d} depth={0} />
         ))}
         <Link
           to={`/work/${workId}/about`}

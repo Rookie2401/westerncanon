@@ -89,8 +89,8 @@ afterEach(() => {
   if (i >= 0) WORKS.splice(i, 1);
 });
 
-describe('Work (Euclid Elements) - nested Book -> group -> proposition tree', () => {
-  it('renders Book I as a closed disclosure carrying its editorial title, expands to reveal Definitions/Postulates/Common Notions as single consolidated links and a Propositions disclosure, and expands Propositions to reveal Proposition 1 as a leaf link', async () => {
+describe('Work (Euclid Elements) - nested Book -> flat section list', () => {
+  it('renders Book I as a closed disclosure carrying its editorial title, and expanding it reveals ONE flat list: Definitions/Postulates/Common Notions as single consolidated links, immediately followed by Proposition 1 as its own leaf link — no intermediate "Propositions" disclosure', async () => {
     render(
       <MemoryRouter initialEntries={[`/work/${WORK_ID}`]}>
         <Routes>
@@ -112,32 +112,40 @@ describe('Work (Euclid Elements) - nested Book -> group -> proposition tree', ()
     // Every book's groups are mounted from the start (for the collapse
     // animation, matching the established Library/Work pattern), so scope
     // queries to Book I's own subtree - other books also have a
-    // "Definitions"/"Propositions" group and would otherwise collide.
+    // "Definitions"/Proposition-1 entry and would otherwise collide.
     const bookIScope = within(bookI.closest('.entrygroup') as HTMLElement);
 
     // Definitions/Postulates/Common Notions are consolidatable groups: each
-    // is now a single link straight into the reader (all of that category's
-    // entries read together on one tabbed page), not a disclosure hiding N
+    // is a single link straight into the reader (all of that category's
+    // entries read together on one page), not a disclosure hiding N
     // individually-clickable leaves.
-    const defsLink = bookIScope.getByRole('link', { name: /Definitions/ });
+    const defsLink = bookIScope.getByRole('link', { name: 'Definitions' });
     expect(defsLink.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-definitions`);
-    const postsLink = bookIScope.getByRole('link', { name: /Postulates/ });
+    const postsLink = bookIScope.getByRole('link', { name: 'Postulates' });
     expect(postsLink.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-postulates`);
-    const cnLink = bookIScope.getByRole('link', { name: /Common Notions/ });
+    const cnLink = bookIScope.getByRole('link', { name: 'Common Notions' });
     expect(cnLink.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-common-notions`);
 
-    // Propositions is not consolidatable (48 full proofs, each often with its
-    // own diagram) and keeps the existing disclosure-of-individual-leaves
-    // treatment.
-    const propsBtn = bookIScope.getByRole('button', { name: /Propositions/ });
-    expect(propsBtn.getAttribute('aria-expanded')).toBe('false');
-
-    fireEvent.click(propsBtn);
-    const propsScope = within(propsBtn.closest('.entrygroup') as HTMLElement);
-    const prop1 = propsScope.getByRole('link', { name: '§ 1' });
+    // Propositions is NOT consolidatable (48 full proofs, each often with its
+    // own diagram) — its own "Propositions" group has no row of its own at
+    // all; its leaves are spliced directly into the same flat list, with no
+    // extra expand/collapse step in between.
+    expect(bookIScope.queryByRole('button', { name: /Propositions/ })).toBeNull();
+    expect(bookIScope.queryByRole('link', { name: /Propositions/ })).toBeNull();
+    const prop1 = bookIScope.getByRole('link', { name: '§ 1' });
     expect(prop1.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-prop-1`);
+    const prop2 = bookIScope.getByRole('link', { name: '§ 2' });
+    expect(prop2.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-prop-2`);
+
+    // And it's genuinely ONE flat list: Definitions, Postulates, Common
+    // Notions and Proposition 1 are all direct children of the same
+    // `.entrygroup__children` container, not nested inside one another.
+    const children = bookI.closest('.entrygroup')!.querySelector('.entrygroup__children')!;
+    expect(children.contains(defsLink)).toBe(true);
+    expect(defsLink.parentElement).toBe(children);
+    expect(prop1.parentElement).toBe(children);
     // This test mounts the whole WorkScreen against the real 611-leaf work.json
-    // and drives disclosure expansions; it legitimately runs close to (and,
+    // and drives a disclosure expansion; it legitimately runs close to (and,
     // on a loaded machine, over) the 5s default test timeout, so it gets an
     // explicit allowance rather than being flaky under normal CI load.
   }, 20000);
@@ -208,53 +216,41 @@ describe('GenericReader (Euclid Elements) - consolidated Preliminaries', () => {
     );
   }
 
-  it('renders Book I Definitions with all 23 definitions on one page, a tab bar for its trio, and Definitions marked active', async () => {
+  it('renders Book I Definitions with all 23 definitions on one page, numbered, and no Postulates/Common Notions content mixed in', async () => {
     renderAt('book-1-definitions');
     expect(
       await screen.findByText('σημεῖόν ἐστιν, οὗ μέρος οὐθέν.'),
     ).toBeTruthy();
     // Definition 23 (the last one) is on the SAME page — proof this is one
     // consolidated view, not just definition 1 alone.
+    expect(screen.getByText(/παράλληλοί εἰσιν εὐθεῖαι/)).toBeTruthy();
+    // Postulate 1's text (a different group) is NOT pulled in.
     expect(
-      screen.getByText(/παράλληλοί εἰσιν εὐθεῖαι/),
-    ).toBeTruthy();
-
-    const tabs = screen.getByRole('navigation', { name: 'Preliminaries' });
-    const defsTab = within(tabs).getByRole('link', { name: 'Definitions' });
-    const postsTab = within(tabs).getByRole('link', { name: 'Postulates' });
-    const cnTab = within(tabs).getByRole('link', { name: 'Common Notions' });
-    expect(defsTab.getAttribute('aria-current')).toBe('page');
-    expect(postsTab.getAttribute('aria-current')).toBeNull();
-    expect(cnTab.getAttribute('aria-current')).toBeNull();
-    expect(postsTab.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-postulates`);
-    expect(cnTab.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-common-notions`);
+      screen.queryByText('Ἠιτήσθω ἀπὸ παντὸς σημείου ἐπὶ πᾶν σημεῖον εὐθεῖαν γραμμὴν ἀγαγεῖν.'),
+    ).toBeNull();
+    expect(document.querySelectorAll('.prelim-item').length).toBe(23);
   });
 
-  it('renders Book I Postulates as the active tab with its own content only, not Definitions', async () => {
-    renderAt('book-1-postulates');
-    expect(
-      await screen.findByText('Ἠιτήσθω ἀπὸ παντὸς σημείου ἐπὶ πᾶν σημεῖον εὐθεῖαν γραμμὴν ἀγαγεῖν.'),
-    ).toBeTruthy();
-    expect(screen.queryByText('σημεῖόν ἐστιν, οὗ μέρος οὐθέν.')).toBeNull();
-
-    const tabs = screen.getByRole('navigation', { name: 'Preliminaries' });
-    expect(
-      within(tabs).getByRole('link', { name: 'Postulates' }).getAttribute('aria-current'),
-    ).toBe('page');
-  });
-
-  it("renders Book II's single Definitions group (no Postulates/Common Notions sibling) as one page with both definitions and no tab bar", async () => {
+  it("renders Book II's single Definitions group (no Postulates/Common Notions in this book) as one page with both of its definitions", async () => {
     renderAt('book-2-definitions');
     expect(
       await screen.findByText(/πᾶν παραλληλόγραμμον ὀρθογώνιον/),
     ).toBeTruthy();
     expect(screen.getByText(/παντὸς δὲ παραλληλογράμμου/)).toBeTruthy();
-    expect(screen.queryByRole('navigation', { name: 'Preliminaries' })).toBeNull();
+    expect(document.querySelectorAll('.prelim-item').length).toBe(2);
   });
 
-  it("treats Book I's Definitions/Postulates/Common Notions trio as a single Prev/Next stop, ahead of Proposition 1", async () => {
-    renderAt('book-1-prop-1');
+  it("navigates Prev/Next straight through Book I's flat sequence — Definitions, Postulates, Common Notions, Proposition 1 — each its own stop", async () => {
+    renderAt('book-1-postulates');
     const prevLink = await screen.findByRole('link', { name: /Prev/ });
     expect(prevLink.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-definitions`);
+    const nextLink = screen.getByRole('link', { name: /Next/ });
+    expect(nextLink.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-common-notions`);
+  });
+
+  it('treats Common Notions as the stop immediately before Proposition 1', async () => {
+    renderAt('book-1-prop-1');
+    const prevLink = await screen.findByRole('link', { name: /Prev/ });
+    expect(prevLink.getAttribute('href')).toBe(`/read/${WORK_ID}/book-1-common-notions`);
   });
 });

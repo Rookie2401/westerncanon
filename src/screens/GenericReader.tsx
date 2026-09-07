@@ -9,7 +9,6 @@ import { Link, useParams } from 'react-router-dom';
 import clsx from 'clsx';
 import { authorById, workById } from '../library/registry.ts';
 import {
-  consolidatedRun,
   divisionById,
   divisionShortLabel,
   genericAssetUrl,
@@ -100,22 +99,18 @@ function PrelimItem({ workId, leaf }: { workId: string; leaf: Division }) {
 
 /**
  * A consolidatable section-type group, rendered as one page: all of its
- * children's passages together, with a tab bar switching between it and its
- * sibling groups in the same consolidated run (omitted when the run is just
- * this one group — e.g. most books' lone Definitions section).
+ * children's passages together, each with its own printed number. Each such
+ * group (Definitions, Postulates, Common Notions, ...) already has its own
+ * row in the Work tree — see Work.tsx — so this needs no tab bar of its own;
+ * Prev/Next (and the tree) are how a reader moves from one to the next.
  */
 function ConsolidatedBody({
   workId,
-  work,
   division,
-  divId,
 }: {
   workId: string;
-  work: GenericWork;
   division: Division;
-  divId: string;
 }) {
-  const run = consolidatedRun(work, divId);
   return (
     <>
       <header className="gr-head">
@@ -123,21 +118,6 @@ function ConsolidatedBody({
           {division.editorialTitle ?? divisionShortLabel(division)}
         </h1>
       </header>
-      {run.length > 1 ? (
-        <nav className="reader__tabs" aria-label="Preliminaries">
-          {run.map((g) => (
-            <Link
-              key={g.id}
-              to={`/read/${workId}/${g.id}`}
-              replace
-              className={clsx('reader__tab', g.id === divId && 'reader__tab--active')}
-              aria-current={g.id === divId ? 'page' : undefined}
-            >
-              {g.editorialTitle}
-            </Link>
-          ))}
-        </nav>
-      ) : null}
       {division.children.map((leaf) => (
         <PrelimItem key={leaf.id} workId={workId} leaf={leaf} />
       ))}
@@ -330,11 +310,6 @@ export function GenericReader() {
       </div>
     );
   }
-  // `division` only exists when `data` resolved (see its ternary above) —
-  // this is an unreachable-in-practice guard purely so TS carries that fact
-  // forward for ConsolidatedBody's non-optional `work` prop below.
-  if (!data) return null;
-
   const isGreek = work.language === 'grc';
 
   return (
@@ -391,12 +366,7 @@ export function GenericReader() {
         >
           {division.children.length > 0 ? (
             isConsolidatableGroup(division) ? (
-              <ConsolidatedBody
-                workId={workId}
-                work={data}
-                division={division}
-                divId={divId}
-              />
+              <ConsolidatedBody workId={workId} division={division} />
             ) : (
               <GroupContentsFallback
                 workId={workId}
