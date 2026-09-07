@@ -508,7 +508,14 @@
               "sourceHeading": null,
               "editorialTitle": null,
               "children": [],
-              "passages": []
+              "passages": [
+                {
+                  "n": "",
+                  "text": "καὶ ἐὰν ἀνίσοις ἴσα προστεθῇ, τὰ ὅλα ἐστὶν ἄνισα.",
+                  "ref": null,
+                  "anomaly": "Bracketed in Heiberg's printed edition as a probable later interpolation, not Euclid's original wording - encoded <del> in this digital transcription, printed in square brackets in Heiberg's own 1883 page. Shown here as Heiberg gives it rather than left blank; excluded from his critical judgement of the authentic text."
+                }
+              ]
             },
             {
               "id": "book-1-cn-5",
@@ -517,7 +524,14 @@
               "sourceHeading": null,
               "editorialTitle": null,
               "children": [],
-              "passages": []
+              "passages": [
+                {
+                  "n": "",
+                  "text": "καὶ τὰ τοῦ αὐτοῦ διπλάσια ἴσα ἀλλήλοις ἐστίν.",
+                  "ref": null,
+                  "anomaly": "Bracketed in Heiberg's printed edition as a probable later interpolation, not Euclid's original wording - encoded <del> in this digital transcription, printed in square brackets in Heiberg's own 1883 page. Shown here as Heiberg gives it rather than left blank; excluded from his critical judgement of the authentic text."
+                }
+              ]
             },
             {
               "id": "book-1-cn-6",
@@ -526,7 +540,14 @@
               "sourceHeading": null,
               "editorialTitle": null,
               "children": [],
-              "passages": []
+              "passages": [
+                {
+                  "n": "",
+                  "text": "καὶ τὰ τοῦ αὐτοῦ ἡμίση ἴσα ἀλλήλοις ἐστίν.",
+                  "ref": null,
+                  "anomaly": "Bracketed in Heiberg's printed edition as a probable later interpolation, not Euclid's original wording - encoded <del> in this digital transcription, printed in square brackets in Heiberg's own 1883 page. Shown here as Heiberg gives it rather than left blank; excluded from his critical judgement of the authentic text."
+                }
+              ]
             },
             {
               "id": "book-1-cn-7",
@@ -6992,7 +7013,14 @@
               "sourceHeading": null,
               "editorialTitle": null,
               "children": [],
-              "passages": []
+              "passages": [
+                {
+                  "n": "",
+                  "text": "Ἀντιπεπονθότα δὲ σχήματά ἐστιν, ὅταν ἐν ἑκατέρῳ τῶν σχημάτων ἡγούμενοί τε καὶ ἑπόμενοι λόγοι ὦσιν.",
+                  "ref": null,
+                  "anomaly": "Bracketed in Heiberg's printed edition as a probable later interpolation, not Euclid's original wording - encoded <del> in this digital transcription, printed in square brackets in Heiberg's own 1883 page. Shown here as Heiberg gives it rather than left blank; excluded from his critical judgement of the authentic text."
+                }
+              ]
             },
             {
               "id": "book-6-def-3",
@@ -7031,7 +7059,14 @@
               "sourceHeading": null,
               "editorialTitle": null,
               "children": [],
-              "passages": []
+              "passages": [
+                {
+                  "n": "",
+                  "text": "Λόγος ἐκ λόγων συγκεῖσθαι λέγεται, ὅταν αἱ τῶν λόγων πηλικότητες ἐφʼ ἑαυτὰς πολλαπλασιασθεῖσαι ποιῶσί τινα.",
+                  "ref": null,
+                  "anomaly": "Bracketed in Heiberg's printed edition as a probable later interpolation, not Euclid's original wording - encoded <del> in this digital transcription, printed in square brackets in Heiberg's own 1883 page. Shown here as Heiberg gives it rather than left blank; excluded from his critical judgement of the authentic text."
+                }
+              ]
             }
           ],
           "passages": []

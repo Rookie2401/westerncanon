@@ -197,11 +197,19 @@ describe('GenericReader (Euclid Elements)', () => {
     expect(document.querySelector('img')).toBeNull();
   });
 
-  it('renders a leaf division with zero passages (fully excluded under Heiberg\'s deletion marks) without crashing', async () => {
+  it("renders Book I, Common Notion 4 with Heiberg's own bracketed wording (a probable later interpolation he prints, not omits) and a flagged anomaly note, rather than a blank division", async () => {
     renderAt('book-1-cn-4');
-    // The division still renders its header (§ 4); the body simply has no passages.
+    // The division still renders its header (§ 4), and now shows Heiberg's
+    // own bracketed text - verified directly against his 1883 printed page -
+    // instead of nothing.
     await screen.findByRole('heading', { name: '§ 4' });
-    expect(document.querySelectorAll('.gr-passage').length).toBe(0);
+    expect(
+      await screen.findByText('καὶ ἐὰν ἀνίσοις ἴσα προστεθῇ, τὰ ὅλα ἐστὶν ἄνισα.'),
+    ).toBeTruthy();
+    expect(document.querySelectorAll('.gr-passage').length).toBe(1);
+    const anomaly = document.querySelector('.gr-passage__anomaly');
+    expect(anomaly).toBeTruthy();
+    expect(anomaly!.textContent).toMatch(/Bracketed in Heiberg's printed edition/);
   });
 });
 

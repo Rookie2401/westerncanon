@@ -209,16 +209,30 @@ export const EXPECTED_TOTAL_FIGURE_OBJECTS = 493;
 export const EXPECTED_COMBINING_MARK_HITS = 1;
 
 /**
- * The five leaf divisions whose entire content is marked <del> in the source
- * (a later interpolation per Heiberg) and which therefore carry zero
- * surviving passages. This is a documented, deliberate feature of the
- * edition, not an importer bug - see the About page "Known gaps &
- * anomalies" section and VALIDATION_REPORT.md.
+ * The five leaf divisions whose entire content is marked <del> in the
+ * source: Heiberg's own critical judgement that the wording is a later
+ * interpolation, not Euclid's. Verified directly against Heiberg's 1883
+ * printed page (vol. I p. 10: Book I's Common Notions IV-VI, and p. ~193:
+ * Book VI's Definitions II and V, each set in square brackets) - Heiberg
+ * PRINTS this material, he does not omit it. The importer therefore keeps
+ * his own bracketed wording as these five leaves' passage text (rather than
+ * leaving them blank), each flagged with a Passage.anomaly whose text starts
+ * with BRACKETED_INTERPOLATION_ANOMALY_PREFIX - see the About page "Known
+ * gaps & anomalies" section and VALIDATION_REPORT.md.
  */
-export const EXPECTED_EMPTY_LEAVES: readonly string[] = [
+export const BRACKETED_INTERPOLATION_LEAVES: readonly string[] = [
   'book-1-cn-4',
   'book-1-cn-5',
   'book-1-cn-6',
   'book-6-def-2',
   'book-6-def-5',
 ];
+
+/**
+ * Stable prefix for the Passage.anomaly text the importer attaches to each
+ * of BRACKETED_INTERPOLATION_LEAVES' passage, shared with validate.ts so the
+ * two can never drift apart (the importer writes it, the validator matches
+ * on it to confirm the flag lands on exactly - and only - these five leaves).
+ */
+export const BRACKETED_INTERPOLATION_ANOMALY_PREFIX =
+  "Bracketed in Heiberg's printed edition";

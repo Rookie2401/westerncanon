@@ -13,8 +13,9 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
   BOOK_TITLES,
+  BRACKETED_INTERPOLATION_ANOMALY_PREFIX,
+  BRACKETED_INTERPOLATION_LEAVES,
   EXPECTED_COMBINING_MARK_HITS,
-  EXPECTED_EMPTY_LEAVES,
   EXPECTED_TOTAL_FIGURE_OBJECTS,
   EXPECTED_TOTAL_FIGURES,
   EXPECTED_TOTAL_LEAVES,
@@ -129,6 +130,7 @@ function main(): void {
   // ---- per-book section-type groups + leaves, against GROUND_TRUTH ----
   const perLeaf: PerLeaf[] = [];
   const emptyLeaves: string[] = [];
+  const interpolationLeaves: string[] = [];
   let totalLeaves = 0;
   let totalPassages = 0;
   let totalChars = 0;
@@ -188,6 +190,7 @@ function main(): void {
           if (typeof p.text !== 'string' || p.text.length === 0) err('empty-passage', `${leaf.id}: a passage has empty text`);
           if (p.n !== '') err('passage-n', `${leaf.id}: passage n should be '' (this source has no paragraph numbers), got ${JSON.stringify(p.n)}`);
           if (p.ref !== null) err('passage-ref', `${leaf.id}: passage ref should be null, got ${JSON.stringify(p.ref)}`);
+          if (p.anomaly?.startsWith(BRACKETED_INTERPOLATION_ANOMALY_PREFIX)) interpolationLeaves.push(leaf.id);
           if (p.figure) {
             figures += 1;
             totalFigures += 1;
@@ -218,16 +221,25 @@ function main(): void {
     );
   }
 
-  // ---- the five documented zero-passage leaves, exactly ----
-  const wantEmpty = [...EXPECTED_EMPTY_LEAVES].sort();
-  const gotEmpty = [...emptyLeaves].sort();
-  if (JSON.stringify(gotEmpty) !== JSON.stringify(wantEmpty)) {
+  // ---- no leaf should ever carry zero passages ----
+  const gotEmpty = [...new Set(emptyLeaves)].sort();
+  if (gotEmpty.length > 0) {
+    err('empty-leaves', `leaf division(s) unexpectedly carry zero passages: ${gotEmpty.join(', ')}`);
+  }
+
+  // ---- the five documented bracketed-interpolation leaves, exactly ----
+  const wantInterpolation = [...BRACKETED_INTERPOLATION_LEAVES].sort();
+  const gotInterpolation = [...new Set(interpolationLeaves)].sort();
+  if (JSON.stringify(gotInterpolation) !== JSON.stringify(wantInterpolation)) {
     err(
-      'empty-leaves',
-      `zero-passage leaves do not match the documented set.\n    got:  ${gotEmpty.join(', ')}\n    want: ${wantEmpty.join(', ')}`,
+      'bracketed-interpolation-leaves',
+      `leaves carrying Heiberg's bracketed-interpolation flag do not match the documented set.\n    got:  ${gotInterpolation.join(', ')}\n    want: ${wantInterpolation.join(', ')}`,
     );
-  } else if (gotEmpty.length > 0) {
-    warn('empty-leaves', `${gotEmpty.length} leaf division(s) carry zero passages, as documented: ${gotEmpty.join(', ')}`);
+  } else if (gotInterpolation.length > 0) {
+    warn(
+      'bracketed-interpolation-leaves',
+      `${gotInterpolation.length} leaf division(s) carry Heiberg's own bracketed (probable-interpolation) text rather than his critically-accepted wording, as documented: ${gotInterpolation.join(', ')}`,
+    );
   }
 
   // ---- anomalies.json accounting ----
@@ -291,7 +303,7 @@ function main(): void {
     totalChars,
     totalFigures,
     perLeaf,
-    emptyLeaves: gotEmpty,
+    interpolationLeaves: gotInterpolation,
     anomalyCounts: { figures: figureAnomalies, del: delAnomalies, add: addAnomalies, total: anomalies.length },
     spotCheck: [
       { label: 'Book I, Definition 1 reads exactly the expected text', ok: startOk, got: firstText },
@@ -317,7 +329,7 @@ interface ReportData {
   totalChars: number;
   totalFigures: number;
   perLeaf: PerLeaf[];
-  emptyLeaves: string[];
+  interpolationLeaves: string[];
   anomalyCounts: { figures: number; del: number; add: number; total: number };
   spotCheck: { label: string; ok: boolean; got: string }[];
 }
@@ -341,7 +353,7 @@ function writeReport(findings: Finding[], data: ReportData | null): void {
     L.push(`- total passage chars: ${data.totalChars}`);
     L.push(`- Passage.figure objects: ${data.totalFigures}`);
     L.push(`- anomalies.json entries: ${data.anomalyCounts.total} (figure markers: ${data.anomalyCounts.figures}, <del> exclusions: ${data.anomalyCounts.del}, <add> insertions: ${data.anomalyCounts.add})`);
-    L.push(`- leaf divisions with zero passages (documented): ${data.emptyLeaves.join(', ') || 'none'}`);
+    L.push(`- leaf divisions carrying Heiberg's bracketed-interpolation text (documented): ${data.interpolationLeaves.join(', ') || 'none'}`);
     L.push('');
     L.push('## Verbatim spot-check');
     L.push('');

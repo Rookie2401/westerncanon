@@ -12,24 +12,12 @@
     "note": "<del> excluded from the reading text: \"καὶ ἐὰν ἀνίσοις ἴσα προστεθῇ, τὰ ὅλα ἐστὶν ἄνισα.\""
   },
   {
-    "where": "book-1-cn-4",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
-  },
-  {
     "where": "book-1-cn-5",
     "note": "<del> excluded from the reading text: \"καὶ τὰ τοῦ αὐτοῦ διπλάσια ἴσα ἀλλήλοις ἐστίν.\""
   },
   {
-    "where": "book-1-cn-5",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
-  },
-  {
     "where": "book-1-cn-6",
     "note": "<del> excluded from the reading text: \"καὶ τὰ τοῦ αὐτοῦ ἡμίση ἴσα ἀλλήλοις ἐστίν.\""
-  },
-  {
-    "where": "book-1-cn-6",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
   },
   {
     "where": "book-1-cn-8",
@@ -125,15 +113,15 @@
   },
   {
     "where": "book-1-prop-15",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
-  },
-  {
-    "where": "book-1-prop-15",
     "note": "<del> excluded from the reading text: \"ἐκ δὴ τούτου φανερὸν ὅτι, ἐὰν δύο εὐθεῖαι τέμνωσιν ἀλλήλας, τὰς πρὸς τῇ τομῇ γωνίας τέτρασιν ὀρθαῖς ἴσας ποιήσουσιν.\""
   },
   {
     "where": "book-1-prop-15",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
+  },
+  {
+    "where": "book-1-prop-15",
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
   },
   {
     "where": "book-1-prop-16",
@@ -369,11 +357,11 @@
   },
   {
     "where": "book-2-prop-4",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
+    "note": "<del> excluded from the reading text: \"ἐκ δὴ τούτου φανερόν, ὅτι ἐν τοῖς τετραγώνοις χωρίοις τὰ περὶ τὴν διάμετρον παραλληλόγραμμα τετράγωνά ἐστιν\""
   },
   {
     "where": "book-2-prop-4",
-    "note": "<del> excluded from the reading text: \"ἐκ δὴ τούτου φανερόν, ὅτι ἐν τοῖς τετραγώνοις χωρίοις τὰ περὶ τὴν διάμετρον παραλληλόγραμμα τετράγωνά ἐστιν\""
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
   },
   {
     "where": "book-2-prop-5",
@@ -709,10 +697,6 @@
   },
   {
     "where": "book-3-prop-31",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
-  },
-  {
-    "where": "book-3-prop-31",
     "note": "<del> excluded from the reading text: \"ἡ\""
   },
   {
@@ -721,7 +705,11 @@
   },
   {
     "where": "book-3-prop-31",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
+  },
+  {
+    "where": "book-3-prop-31",
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
   },
   {
     "where": "book-3-prop-32",
@@ -853,11 +841,11 @@
   },
   {
     "where": "book-4-prop-5",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
+    "note": "<del> excluded from the reading text: \"ὥστε καὶ ὅταν ἐλάττων ὀρθῆς τυγχάνῃ ἡ διδομένη γωνία, ἐντὸς τοῦ τριγώνου πεσοῦνται αἱ ΔΖ, ΕΖ, ὅταν δὲ ὀρθή, ἐπὶ τῆς ΒΓ, ὅταν δὲ μείζων ὀρθῆς…\""
   },
   {
     "where": "book-4-prop-5",
-    "note": "<del> excluded from the reading text: \"ὥστε καὶ ὅταν ἐλάττων ὀρθῆς τυγχάνῃ ἡ διδομένη γωνία, ἐντὸς τοῦ τριγώνου πεσοῦνται αἱ ΔΖ, ΕΖ, ὅταν δὲ ὀρθή, ἐπὶ τῆς ΒΓ, ὅταν δὲ μείζων ὀρθῆς…\""
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
   },
   {
     "where": "book-4-prop-6",
@@ -1116,16 +1104,8 @@
     "note": "<del> excluded from the reading text: \"Ἀντιπεπονθότα δὲ σχήματά ἐστιν, ὅταν ἐν ἑκατέρῳ τῶν σχημάτων ἡγούμενοί τε καὶ ἑπόμενοι λόγοι ὦσιν.\""
   },
   {
-    "where": "book-6-def-2",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
-  },
-  {
     "where": "book-6-def-5",
     "note": "<del> excluded from the reading text: \"Λόγος ἐκ λόγων συγκεῖσθαι λέγεται, ὅταν αἱ τῶν λόγων πηλικότητες ἐφʼ ἑαυτὰς πολλαπλασιασθεῖσαι ποιῶσί τινα.\""
-  },
-  {
-    "where": "book-6-def-5",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
   },
   {
     "where": "book-6-prop-1",
@@ -1309,15 +1289,15 @@
   },
   {
     "where": "book-6-prop-20",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
-  },
-  {
-    "where": "book-6-prop-20",
     "note": "<del> excluded from the reading text: \"καὶ ἐὰν τῶν ΑΒ, ΖΗ τρίτην ἀνάλογον λάβωμεν τὴν Ξ, ἡ ΒΑ πρὸς τὴν Ξ διπλασίονα λόγον ἔχει ἤπερ ἡ ΑΒ πρὸς τὴν ΖΗ. ἔχει δὲ καὶ τὸ πολύγωνον πρὸς…\""
   },
   {
     "where": "book-6-prop-20",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
+  },
+  {
+    "where": "book-6-prop-20",
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
   },
   {
     "where": "book-6-prop-21",
@@ -1345,15 +1325,7 @@
   },
   {
     "where": "book-6-prop-22",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
-  },
-  {
-    "where": "book-6-prop-22",
     "note": "<del> excluded from the reading text: \"ὅτι δέ, ἐὰν εὐθύγραμμα ἴσα ᾖ καὶ ὅμοια, αἱ ὁμόλογοι αὐτῶν πλευραὶ ἴσαι ἀλλήλαις εἰσίν, δείξομεν οὕτως.\""
-  },
-  {
-    "where": "book-6-prop-22",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
   },
   {
     "where": "book-6-prop-22",
@@ -1361,15 +1333,23 @@
   },
   {
     "where": "book-6-prop-22",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
-  },
-  {
-    "where": "book-6-prop-22",
     "note": "<del> excluded from the reading text: \"εἰ γὰρ ἄνισοί εἰσιν, μία αὐτῶν μείζων ἐστίν. ἔστω μείζων ἡ ΡΠ τῆς ΘΗ. καὶ ἐπεί ἐστιν ὡς ἡ ΡΠ πρὸς ΠΣ, οὕτως ἡ ΘΗ πρὸς τὴν ΗΝ, καὶ ἐναλλάξ, ὡ…\""
   },
   {
     "where": "book-6-prop-22",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
+  },
+  {
+    "where": "book-6-prop-22",
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
+  },
+  {
+    "where": "book-6-prop-22",
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
+  },
+  {
+    "where": "book-6-prop-22",
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
   },
   {
     "where": "book-6-prop-23",
@@ -2837,23 +2817,11 @@
   },
   {
     "where": "book-10-prop2-59",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
-  },
-  {
-    "where": "book-10-prop2-59",
     "note": "<del> excluded from the reading text: \"ἐὰν εὐθεῖα γραμμὴ τμηθῇ εἰς ἄνισα, τὰ ἀπὸ τῶν ἀνίσων τετράγωνα μείζονά ἐστι τοῦ δὶς ὑπὸ τῶν ἀνίσων περιεχομένου ὀρθογωνίου.\""
   },
   {
     "where": "book-10-prop2-59",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
-  },
-  {
-    "where": "book-10-prop2-59",
     "note": "<del> excluded from the reading text: \"ἔστω εὐθεῖα ἡ ΑΒ καὶ τετμήσθω εἰς ἄνισα κατὰ τὸ Γ, καὶ ἔστω μείζων ἡ ΑΓ· λέγω, ὅτι τὰ ἀπὸ τῶν ΑΓ, ΓΒ μείζονά ἐστι τοῦ δὶς ὑπὸ τῶν ΑΓ, ΓΒ.\""
-  },
-  {
-    "where": "book-10-prop2-59",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
   },
   {
     "where": "book-10-prop2-59",
@@ -2865,7 +2833,19 @@
   },
   {
     "where": "book-10-prop2-59",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
+  },
+  {
+    "where": "book-10-prop2-59",
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
+  },
+  {
+    "where": "book-10-prop2-59",
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
+  },
+  {
+    "where": "book-10-prop2-59",
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
   },
   {
     "where": "book-10-prop2-59",
@@ -3289,11 +3269,11 @@
   },
   {
     "where": "book-10-prop3-103",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
+    "note": "<del> excluded from the reading text: \"τῆς ΕΒ\""
   },
   {
     "where": "book-10-prop3-103",
-    "note": "<del> excluded from the reading text: \"τῆς ΕΒ\""
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
   },
   {
     "where": "book-10-prop3-104",
@@ -3381,11 +3361,11 @@
   },
   {
     "where": "book-10-prop3-111",
-    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text)."
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ιγ\""
   },
   {
     "where": "book-10-prop3-111",
-    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ιγ\""
+    "note": "An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text)."
   },
   {
     "where": "book-10-prop3-112",
@@ -4157,7 +4137,7 @@
   },
   {
     "where": "euclid-elements / passages",
-    "note": "23 paragraphs were dropped entirely because their whole content is under <del>; five leaf divisions (book-1-cn-4, book-1-cn-5, book-1-cn-6, book-6-def-2, book-6-def-5) consequently carry zero passages. This is a documented, deliberate feature of this edition, not an importer defect."
+    "note": "5 paragraphs are entirely <del> in the source; five leaf divisions (book-1-cn-4, book-1-cn-5, book-1-cn-6, book-6-def-2, book-6-def-5) consist of nothing else. Verified against Heiberg's 1883 printed page: he brackets this material as a probable interpolation but PRINTS it, rather than omitting it, so the importer keeps his bracketed wording as these five leaves' passage text (each flagged with Passage.anomaly) instead of leaving them blank."
   },
   {
     "where": "euclid-elements / mis-nested propositions",

@@ -22,12 +22,13 @@
  *     (replaced with a single space, matching the isagoge <pb>/<lb> convention).
  *   - <del> (editorially deleted text, not authentic to the original) is
  *     EXCLUDED from the reading text but every occurrence is logged verbatim
- *     to anomalies.json. A <p> that is deleted in its entirety is dropped
- *     from the passages array rather than emitted empty (matching the
- *     isagoge convention of skipping a paragraph that cleans to nothing) -
- *     five such divisions end up with zero passages; this is a documented,
- *     deliberate feature of Heiberg's edition (see structure.ts
- *     EXPECTED_EMPTY_LEAVES and the About page).
+ *     to anomalies.json. A <p> that is deleted in its entirety is a special
+ *     case: Heiberg's own printed edition brackets this material rather than
+ *     omitting it (verified against the actual 1883 page images - see
+ *     structure.ts BRACKETED_INTERPOLATION_LEAVES), so the importer keeps
+ *     his bracketed wording as the passage text instead of leaving the
+ *     division blank, flagging it with a Passage.anomaly - five divisions
+ *     get this treatment; see the About page.
  *   - <add> (rare editorial insertion) is INCLUDED in the reading text and
  *     logged individually; the containing Passage also carries `anomaly`.
  *   - <figure/> (498 total) has no legitimately recoverable image via the
@@ -46,7 +47,8 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
   BOOK_TITLES,
-  EXPECTED_EMPTY_LEAVES,
+  BRACKETED_INTERPOLATION_ANOMALY_PREFIX,
+  BRACKETED_INTERPOLATION_LEAVES,
   EXPECTED_TOTAL_FIGURES,
   EXPECTED_TOTAL_LEAVES,
   GROUND_TRUTH,
@@ -140,12 +142,30 @@ function main(): void {
   const addBufStack: string[] = [];
   let figuresThisP = 0;
   let addExcerptsThisP: string[] = [];
+  /** Raw text of each top-level <del> span closed so far within the current
+   *  <p> - used only when the whole paragraph turns out to be deleted (see
+   *  the </p> handler), to recover Heiberg's own bracketed wording rather
+   *  than dropping the paragraph. */
+  let delExcerptsThisP: string[] = [];
+  /**
+   * A fully-<del> paragraph is never decided on the spot: whether it's a
+   * genuine "whole leaf is bracketed interpolation" case (the five
+   * documented leaves - keep, flagged) or an isolated bracketed aside inside
+   * a leaf that has other real content (the remaining ~18 instances -
+   * silently excluded, matching the other 507 <del> spans) depends on
+   * whether the LEAF ends up with zero other passages, which isn't known
+   * until the leaf's closing </div>. So each candidate is queued here at
+   * </p> and only resolved into either a real Passage or a dropped-anomaly
+   * log entry when the leaf closes (see the </div> "number" handler).
+   */
+  let pendingBracketed: Array<{ text: string; figuresThisP: number; bookNum: number; type: TypeCode; number: string }> = [];
 
   let totalLeaves = 0;
   let totalFigureMarkers = 0;
   let totalDelSpans = 0;
   let totalAddSpans = 0;
-  let totalDroppedEmptyParagraphs = 0;
+  let totalBracketedInterpolations = 0;
+  const bracketedInterpolationLeavesSeen = new Set<string>();
 
   /**
    * Real diagram images for Book I's 48 propositions, keyed by the exact
@@ -203,6 +223,72 @@ function main(): void {
     const citation = citationFor(bookNum, type, number);
     const prev = figureCounts.get(passage);
     figureCounts.set(passage, { count: (prev?.count ?? 0) + add, citation });
+  }
+
+  /**
+   * Resolves this leaf's queued fully-<del> paragraphs (see pendingBracketed
+   * above) now that its full passage list is known:
+   *   - leaf ends up with NO other passage -> a genuine "whole leaf is
+   *     bracketed interpolation" case (the five documented leaves). Heiberg
+   *     PRINTS this material (in square brackets), so it becomes real
+   *     passage text, flagged with Passage.anomaly, rather than a blank
+   *     division.
+   *   - leaf has other surviving text -> this was an isolated bracketed
+   *     aside (a spurious corollary/porism, typically) inside an otherwise
+   *     normal leaf; excluded silently, exactly like the other 507 partial
+   *     <del> exclusions elsewhere in this edition (every occurrence is
+   *     still individually logged either way).
+   */
+  function resolvePendingBracketed(leaf: Division): void {
+    if (pendingBracketed.length === 0) return;
+    const keep = leaf.passages.length === 0;
+    for (const cand of pendingBracketed) {
+      if (keep) {
+        totalBracketedInterpolations += 1;
+        bracketedInterpolationLeavesSeen.add(leaf.id);
+        const passage: Passage = {
+          n: '',
+          text: cand.text,
+          ref: null,
+          anomaly:
+            `${BRACKETED_INTERPOLATION_ANOMALY_PREFIX} as a probable later interpolation, not Euclid's ` +
+            'original wording - encoded <del> in this digital transcription, printed in square brackets ' +
+            "in Heiberg's own 1883 page. Shown here as Heiberg gives it rather than left blank; excluded " +
+            'from his critical judgement of the authentic text.',
+        };
+        if (cand.figuresThisP > 0) {
+          bumpFigure(passage, cand.bookNum, cand.type, cand.number, cand.figuresThisP);
+          for (let i = 0; i < cand.figuresThisP; i++) {
+            anomalies.push({
+              where: leaf.id,
+              note: `<figure/> diagram marker ${i + 1} of ${cand.figuresThisP} appears inside this bracketed-interpolation paragraph (${citationFor(cand.bookNum, cand.type, cand.number)}).`,
+            });
+          }
+        }
+        leaf.passages.push(passage);
+      } else {
+        anomalies.push({
+          where: leaf.id,
+          note:
+            'An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg); this leaf has other surviving text, so - matching the other partial <del> exclusions elsewhere - the paragraph is silently excluded rather than shown (see the individual <del> exclusion logged for this division for its verbatim text).',
+        });
+        if (cand.figuresThisP > 0) {
+          const prev = leaf.passages[leaf.passages.length - 1];
+          for (let i = 0; i < cand.figuresThisP; i++) {
+            anomalies.push({
+              where: leaf.id,
+              note: `<figure/> diagram marker ${i + 1} of ${cand.figuresThisP} appears inside a fully <del>-excluded paragraph in this division (${citationFor(cand.bookNum, cand.type, cand.number)}); attached to the nearest surviving passage in the same division instead.`,
+            });
+          }
+          if (prev) {
+            bumpFigure(prev, cand.bookNum, cand.type, cand.number, cand.figuresThisP);
+          } else {
+            pendingFigures.set(leaf.id, (pendingFigures.get(leaf.id) ?? 0) + cand.figuresThisP);
+          }
+        }
+      }
+    }
+    pendingBracketed = [];
   }
 
   let m: RegExpExecArray | null;
@@ -278,11 +364,14 @@ function main(): void {
         };
         currentGroupDiv.children.push(currentLeafDiv);
         totalLeaves += 1;
+        pendingBracketed = [];
       }
     } else if (tok === '</div>') {
       const kind = stack.pop();
-      if (kind === 'number') currentLeafDiv = null;
-      else if (kind === 'type') {
+      if (kind === 'number') {
+        if (currentLeafDiv) resolvePendingBracketed(currentLeafDiv);
+        currentLeafDiv = null;
+      } else if (kind === 'type') {
         currentGroupDiv = null;
         currentType = null;
       } else if (kind === 'book') currentBookDiv = null;
@@ -295,6 +384,7 @@ function main(): void {
       addBufStack.length = 0;
       figuresThisP = 0;
       addExcerptsThisP = [];
+      delExcerptsThisP = [];
     } else if (tok === '</p>') {
       inP = false;
       if (!currentLeafDiv || !currentType) fail(`</p> encountered outside any numbered division (book ${currentBookNum})`);
@@ -356,19 +446,37 @@ function main(): void {
           pendingFigures.delete(currentLeafId);
         }
         currentLeafDiv.passages.push(passage);
+      } else if (delExcerptsThisP.length > 0) {
+        // The whole paragraph was inside <del>. Whether this becomes real
+        // (kept, flagged) passage text or a silent exclusion depends on
+        // whether the LEAF this paragraph belongs to ends up with any OTHER
+        // surviving passage - not knowable until the leaf closes - so it's
+        // queued here and resolved by resolvePendingBracketed() at the
+        // leaf's closing </div>.
+        pendingBracketed.push({
+          text: cleanText(delExcerptsThisP.join(' ')),
+          figuresThisP,
+          bookNum,
+          type,
+          number,
+        });
       } else {
-        totalDroppedEmptyParagraphs += 1;
+        // Defensive fallback: a paragraph that cleans to nothing without any
+        // <del> span accounting for it. Not currently reachable (every
+        // known empty-after-cleaning paragraph in this source is fully
+        // <del>-wrapped - see the branch above), but kept honest rather than
+        // silently dropped if the source ever contains one.
         anomalies.push({
           where: currentLeafId,
           note:
-            'An entire paragraph in this division is marked <del> in the source (a later interpolation per Heiberg) and is excluded from the reading text in full; the paragraph is dropped rather than emitted empty (see the individual <del> exclusion(s) logged for this division for the excluded text).',
+            'A paragraph in this division cleaned to empty text without being <del>-wrapped; dropped from the reading text rather than emitted empty. Investigate if this ever appears - it was not expected when this importer was written.',
         });
         if (figuresThisP > 0) {
           const prev = currentLeafDiv.passages[currentLeafDiv.passages.length - 1];
           for (let i = 0; i < figuresThisP; i++) {
             anomalies.push({
               where: currentLeafId,
-              note: `<figure/> diagram marker ${i + 1} of ${figuresThisP} appears inside a fully <del>-excluded paragraph in this division (${citationFor(bookNum, type, number)}); attached to the nearest surviving passage in the same division instead.`,
+              note: `<figure/> diagram marker ${i + 1} of ${figuresThisP} appears inside an unexpectedly-empty paragraph in this division (${citationFor(bookNum, type, number)}); attached to the nearest surviving passage in the same division instead.`,
             });
           }
           if (prev) {
@@ -385,6 +493,10 @@ function main(): void {
       const text = delBufStack.pop() ?? '';
       delDepth -= 1;
       totalDelSpans += 1;
+      // Only a top-level (non-nested) span - true of every case in this
+      // source - is recorded for the "whole paragraph deleted" fallback
+      // below; a nested <del> would otherwise be double-counted.
+      if (delDepth === 0 && inP) delExcerptsThisP.push(text);
       anomalies.push({
         where: currentLeafId || `book-${currentBookNum}`,
         note: `<del> excluded from the reading text: "${excerpt(text)}"`,
@@ -425,7 +537,7 @@ function main(): void {
 
   process.stdout.write(
     `  ${totalLeaves} numbered leaf divisions  ${totalFigureMarkers} <figure/>  ` +
-      `${totalDelSpans} <del>  ${totalAddSpans} <add>  ${totalDroppedEmptyParagraphs} fully-<del> paragraphs dropped\n`,
+      `${totalDelSpans} <del>  ${totalAddSpans} <add>  ${totalBracketedInterpolations} fully-<del> paragraphs kept as bracketed interpolations\n`,
   );
 
   // --- cross-check against the independently-researched ground truth --------
@@ -460,7 +572,8 @@ function main(): void {
     });
   }
 
-  // --- verify the known zero-passage leaves are exactly the expected five ---
+  // --- no leaf should ever be empty now; verify the bracketed-interpolation
+  //     flag landed on exactly the five documented leaves and nowhere else ---
   const emptyLeaves: string[] = [];
   const walk = (ds: Division[]): void => {
     for (const d of ds) {
@@ -469,11 +582,14 @@ function main(): void {
     }
   };
   walk(divisions);
-  const wantEmpty = [...EXPECTED_EMPTY_LEAVES].sort();
-  const gotEmpty = [...emptyLeaves].sort();
-  if (JSON.stringify(gotEmpty) !== JSON.stringify(wantEmpty)) {
+  if (emptyLeaves.length > 0) {
+    fail(`leaf division(s) unexpectedly carry zero passages: ${emptyLeaves.sort().join(', ')}`);
+  }
+  const wantInterpolation = [...BRACKETED_INTERPOLATION_LEAVES].sort();
+  const gotInterpolation = [...bracketedInterpolationLeavesSeen].sort();
+  if (JSON.stringify(gotInterpolation) !== JSON.stringify(wantInterpolation)) {
     fail(
-      `zero-passage leaves do not match the documented set.\n  got:  ${gotEmpty.join(', ')}\n  want: ${wantEmpty.join(', ')}`,
+      `bracketed-interpolation leaves do not match the documented set.\n  got:  ${gotInterpolation.join(', ')}\n  want: ${wantInterpolation.join(', ')}`,
     );
   }
 
@@ -516,7 +632,7 @@ function main(): void {
   });
   anomalies.push({
     where: 'euclid-elements / passages',
-    note: `${totalDroppedEmptyParagraphs} paragraphs were dropped entirely because their whole content is under <del>; five leaf divisions (${wantEmpty.join(', ')}) consequently carry zero passages. This is a documented, deliberate feature of this edition, not an importer defect.`,
+    note: `${totalBracketedInterpolations} paragraphs are entirely <del> in the source; five leaf divisions (${wantInterpolation.join(', ')}) consist of nothing else. Verified against Heiberg's 1883 printed page: he brackets this material as a probable interpolation but PRINTS it, rather than omitting it, so the importer keeps his bracketed wording as these five leaves' passage text (each flagged with Passage.anomaly) instead of leaving them blank.`,
   });
   anomalies.push({
     where: 'euclid-elements / mis-nested propositions',
