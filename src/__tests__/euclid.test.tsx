@@ -211,6 +211,27 @@ describe('GenericReader (Euclid Elements)', () => {
     expect(anomaly).toBeTruthy();
     expect(anomaly!.textContent).toMatch(/Bracketed in Heiberg's printed edition/);
   });
+
+  it("renders Book II, Proposition 4's deleted corollary in place of an orphaned trailing period, flagged, alongside its real proof text", async () => {
+    renderAt('book-2-prop-4');
+    // The real, never-deleted proof is untouched.
+    expect(
+      await screen.findByText(/Ἀναγεγράφθω γὰρ ἀπὸ τῆς ΑΒ τετράγωνον/),
+    ).toBeTruthy();
+    // The paragraph that used to survive as a lone "." (everything but its
+    // closing period was <del>-wrapped) now shows Heiberg's own bracketed
+    // corollary - verified letter-for-letter against his 1883 printed page -
+    // with its punctuation restored to the end of the sentence, not floating
+    // on its own.
+    const restored = await screen.findByText(
+      'ἐκ δὴ τούτου φανερόν, ὅτι ἐν τοῖς τετραγώνοις χωρίοις τὰ περὶ τὴν διάμετρον παραλληλόγραμμα τετράγωνά ἐστιν.',
+    );
+    expect(restored).toBeTruthy();
+    expect(screen.queryByText('.')).toBeNull();
+    const anomalies = document.querySelectorAll('.gr-passage__anomaly');
+    expect(anomalies.length).toBe(1);
+    expect(anomalies[0].textContent).toMatch(/Bracketed in Heiberg's printed edition/);
+  });
 });
 
 describe('GenericReader (Euclid Elements) - consolidated Preliminaries', () => {

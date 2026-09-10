@@ -209,23 +209,43 @@ export const EXPECTED_TOTAL_FIGURE_OBJECTS = 493;
 export const EXPECTED_COMBINING_MARK_HITS = 1;
 
 /**
- * The five leaf divisions whose entire content is marked <del> in the
- * source: Heiberg's own critical judgement that the wording is a later
- * interpolation, not Euclid's. Verified directly against Heiberg's 1883
- * printed page (vol. I p. 10: Book I's Common Notions IV-VI, and p. ~193:
- * Book VI's Definitions II and V, each set in square brackets) - Heiberg
- * PRINTS this material, he does not omit it. The importer therefore keeps
- * his own bracketed wording as these five leaves' passage text (rather than
- * leaving them blank), each flagged with a Passage.anomaly whose text starts
- * with BRACKETED_INTERPOLATION_ANOMALY_PREFIX - see the About page "Known
- * gaps & anomalies" section and VALIDATION_REPORT.md.
+ * Ten leaf divisions where Heiberg's own bracketed wording is shown, flagged,
+ * rather than following this edition's usual <del> exclusion. Every one of
+ * the ten has been checked letter-for-letter against Heiberg's actual 1883
+ * printed page (Euclidis Opera Omnia, rendered from the public-domain scans
+ * mirrored at wilbourhall.org - Vol. I for Books I-IV, Vol. II for Books
+ * V-IX, Vol. III for Book X): the reconstructed text matches the print
+ * exactly, and in every case the print's own square brackets close right
+ * where this importer's reconstruction ends.
+ *   - Five leaves consist ENTIRELY of <del> content: Book I's Common Notions
+ *     IV-VI (Vol. I p. 10) and Book VI's Definitions II and V (Vol. I
+ *     p. 193). Left blank, they'd disturb nothing structurally but would
+ *     show a reader nothing at all.
+ *   - Five more have ONE paragraph that's <del> apart from a trailing scrap
+ *     of punctuation (typically a lone "."): a deleted corollary/porism/extra
+ *     definition whose closing period falls just outside the </del> tag -
+ *     Book II.4 (Vol. I p. 128), Book V.19 (Vol. II p. 54), Book VII Def. 9
+ *     (Vol. II p. 186), and two propositions in Book X's second and third
+ *     proposition-groups, 72 and 88 (Vol. III pp. 222 and 266). Left alone,
+ *     the paragraph would survive as an orphaned punctuation mark with no
+ *     explanation.
+ * Either way, the importer keeps Heiberg's own bracketed wording as the
+ * passage text instead of an unexplained gap, each flagged with a
+ * Passage.anomaly whose text starts with
+ * BRACKETED_INTERPOLATION_ANOMALY_PREFIX - see the About page "Known gaps &
+ * anomalies" section and VALIDATION_REPORT.md.
  */
 export const BRACKETED_INTERPOLATION_LEAVES: readonly string[] = [
   'book-1-cn-4',
   'book-1-cn-5',
   'book-1-cn-6',
+  'book-2-prop-4',
+  'book-5-prop-19',
   'book-6-def-2',
   'book-6-def-5',
+  'book-7-def-9',
+  'book-10-prop2-72',
+  'book-10-prop3-88',
 ];
 
 /**

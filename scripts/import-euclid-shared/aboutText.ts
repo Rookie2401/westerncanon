@@ -147,22 +147,29 @@ export const ABOUT_SECTIONS: AboutSection[] = [
         'secondary source. This importer detects each case from its distinctive opening words and splits it ' +
         'out into its own division, so all four propositions appear in the reader with their real Greek text ' +
         'at their correct traditional number, rather than as a numbering gap.',
-      'Bracketed interpolations, shown rather than left blank. Five leaf divisions — Book I’s fourth, ' +
-        'fifth and sixth Common Notions, and Book VI’s second and fifth Definitions — consist, in their ' +
-        'entirety, of a single paragraph Heiberg marks <del>: his own judgement that the wording is a ' +
-        'later interpolation, not Euclid’s. Checked directly against Heiberg’s 1883 printed page ' +
-        '(vol. I p. 10 for the Common Notions; similarly for the Book VI definitions), this material is ' +
-        'PRINTED there — in square brackets — not omitted. Rather than leave these five divisions ' +
-        'blank, the reading text here shows Heiberg’s own bracketed wording, each one flagged with a ' +
-        'note explaining its status; the traditional numbering was never disturbed either way. (Heiberg ' +
-        'brackets a ninth Common Notion the same way — "two straight lines do not enclose an area" — ' +
-        'but the underlying digital transcription this importer reads does not mark it <del>, so it is ' +
-        'not flagged here; noted for the record as a discrepancy between the transcription and the ' +
-        'print, not acted on.) Elsewhere, 507 further <del> spans (corollaries, lemmas, and a further ' +
-        '~18 bracketed asides inside leaves that already have other surviving text) remain excluded ' +
-        'from the reading text — Heiberg brackets these too, but only a division that would otherwise ' +
-        'be entirely blank gets its bracketed wording restored; every exclusion is logged individually ' +
-        'in anomalies.json with its verbatim excerpt.',
+      'Bracketed interpolations, shown rather than left blank or orphaned. Ten leaf divisions carry ' +
+        'Heiberg’s own bracketed wording as real (flagged) reading text, in two groups. Five consist, ' +
+        'in their entirety, of a single paragraph Heiberg marks <del> — Book I’s fourth, fifth and sixth ' +
+        'Common Notions, and Book VI’s second and fifth Definitions — his own judgement that the ' +
+        'wording is a later interpolation, not Euclid’s, left blank they would show a reader nothing at ' +
+        'all. Five more have one paragraph that is <del> apart from a trailing scrap of punctuation, ' +
+        'typically a lone "." — Book II.4, Book V.19, Book VII Definition 9, and two propositions in ' +
+        'Book X’s second and third proposition-groups (72 and 88) — a deleted corollary, porism, or ' +
+        'spurious extra definition whose closing period happens to fall just outside the </del> tag; left ' +
+        'alone, only that orphaned punctuation mark would survive, with nothing to explain it. Checked ' +
+        'directly against Heiberg’s 1883 printed page — vol. I p. 10 for the Common Notions and p. 128 ' +
+        'for Book II.4, letter-for-letter — this material is PRINTED there, in square brackets, not ' +
+        'omitted; the closing bracket sits right before that same trailing period. The reading text here ' +
+        'shows Heiberg’s own bracketed wording either way, each one flagged with a note explaining its ' +
+        'status; the traditional numbering was never disturbed. (Heiberg brackets a ninth Common ' +
+        'Notion the same way — "two straight lines do not enclose an area" — but the underlying ' +
+        'digital transcription this importer reads does not mark it <del>, so it is not flagged here; ' +
+        'noted for the record as a discrepancy between the transcription and the print, not acted on.) ' +
+        'Elsewhere, 507 further <del> spans (corollaries, lemmas, and a further 18 bracketed asides ' +
+        'inside leaves that already have other surviving text) remain excluded from the reading text — ' +
+        'Heiberg brackets these too, but only a paragraph that would otherwise leave nothing real ' +
+        'behind (an empty division, or an orphaned punctuation mark) gets its bracketed wording ' +
+        'restored; every exclusion is logged individually in anomalies.json with its verbatim excerpt.',
       'Editorial insertions. Four <add> supplements (single words/letters Heiberg supplies where the ' +
         'manuscripts are defective) are kept in the reading text verbatim and logged individually.',
       'Diagrams. See "Diagrams" above: Book I’s 48 propositions carry a real diagram image, sourced ' +

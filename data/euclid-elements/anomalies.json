@@ -4137,7 +4137,7 @@
   },
   {
     "where": "euclid-elements / passages",
-    "note": "5 paragraphs are entirely <del> in the source; five leaf divisions (book-1-cn-4, book-1-cn-5, book-1-cn-6, book-6-def-2, book-6-def-5) consist of nothing else. Verified against Heiberg's 1883 printed page: he brackets this material as a probable interpolation but PRINTS it, rather than omitting it, so the importer keeps his bracketed wording as these five leaves' passage text (each flagged with Passage.anomaly) instead of leaving them blank."
+    "note": "10 paragraphs are entirely <del> in the source; five leaf divisions (book-1-cn-4, book-1-cn-5, book-1-cn-6, book-10-prop2-72, book-10-prop3-88, book-2-prop-4, book-5-prop-19, book-6-def-2, book-6-def-5, book-7-def-9) consist of nothing else. Verified against Heiberg's 1883 printed page: he brackets this material as a probable interpolation but PRINTS it, rather than omitting it, so the importer keeps his bracketed wording as these five leaves' passage text (each flagged with Passage.anomaly) instead of leaving them blank."
   },
   {
     "where": "euclid-elements / mis-nested propositions",

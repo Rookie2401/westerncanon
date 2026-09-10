@@ -225,6 +225,19 @@ function main(): void {
     figureCounts.set(passage, { count: (prev?.count ?? 0) + add, citation });
   }
 
+  /** Shared wording for every passage carrying Heiberg's bracketed-interpolation
+   *  flag, whether resolved immediately (a trivial punctuation-only remainder
+   *  survives outside the <del>) or deferred to leaf-close (nothing at all
+   *  survives) - see resolvePendingBracketed and the </p> handler below. */
+  function bracketedInterpolationAnomaly(): string {
+    return (
+      `${BRACKETED_INTERPOLATION_ANOMALY_PREFIX} as a probable later interpolation, not Euclid's ` +
+      'original wording - encoded <del> in this digital transcription, printed in square brackets ' +
+      "in Heiberg's own 1883 page. Shown here as Heiberg gives it rather than left blank; excluded " +
+      'from his critical judgement of the authentic text.'
+    );
+  }
+
   /**
    * Resolves this leaf's queued fully-<del> paragraphs (see pendingBracketed
    * above) now that its full passage list is known:
@@ -250,11 +263,7 @@ function main(): void {
           n: '',
           text: cand.text,
           ref: null,
-          anomaly:
-            `${BRACKETED_INTERPOLATION_ANOMALY_PREFIX} as a probable later interpolation, not Euclid's ` +
-            'original wording - encoded <del> in this digital transcription, printed in square brackets ' +
-            "in Heiberg's own 1883 page. Shown here as Heiberg gives it rather than left blank; excluded " +
-            'from his critical judgement of the authentic text.',
+          anomaly: bracketedInterpolationAnomaly(),
         };
         if (cand.figuresThisP > 0) {
           bumpFigure(passage, cand.bookNum, cand.type, cand.number, cand.figuresThisP);
@@ -422,7 +431,40 @@ function main(): void {
       const bookNum = currentBookNum;
       const type = currentType;
       const number = currentLeafDiv.number ?? '';
-      if (cleaned.length > 0) {
+      // A paragraph whose only surviving (non-<del>) text carries no letters at
+      // all - e.g. a lone "." - is not real reading content of its own; every
+      // known case (5, across Books II/V/VII/X) is a fully-<del> corollary,
+      // porism, or spurious extra definition whose closing punctuation happens
+      // to fall just outside the </del> tag. Verified letter-for-letter against
+      // Heiberg's own 1883 page for all five instances (see structure.ts
+      // BRACKETED_INTERPOLATION_LEAVES): the bracket closes right before that
+      // same trailing period, every time. So this is handled as bracketed-interpolation
+      // text too - always shown with the flag, never left as an orphaned dot -
+      // unlike the whole-paragraph case below, this doesn't depend on whether
+      // the leaf has other passages, since real (if trivial) visible content
+      // survived here; dropping it would lose something Heiberg himself left
+      // visible.
+      const hasLetters = /\p{L}/u.test(cleaned);
+      if (cleaned.length > 0 && !hasLetters && delExcerptsThisP.length > 0) {
+        totalBracketedInterpolations += 1;
+        bracketedInterpolationLeavesSeen.add(currentLeafId);
+        const passage: Passage = {
+          n: '',
+          text: cleanText(delExcerptsThisP.join(' ') + cleaned),
+          ref: null,
+          anomaly: bracketedInterpolationAnomaly(),
+        };
+        if (figuresThisP > 0) {
+          bumpFigure(passage, bookNum, type, number, figuresThisP);
+          for (let i = 0; i < figuresThisP; i++) {
+            anomalies.push({
+              where: currentLeafId,
+              note: `<figure/> diagram marker ${i + 1} of ${figuresThisP} appears inside this bracketed-interpolation paragraph (${citationFor(bookNum, type, number)}).`,
+            });
+          }
+        }
+        currentLeafDiv.passages.push(passage);
+      } else if (cleaned.length > 0) {
         const passage: Passage = { n: '', text: cleaned, ref: null };
         if (addExcerptsThisP.length > 0) {
           passage.anomaly = `editorial insertion${addExcerptsThisP.length > 1 ? 's' : ''} <add> printed in the edition, kept verbatim: ${addExcerptsThisP.map((t) => `"${t}"`).join(', ')}`;
