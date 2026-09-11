@@ -40,7 +40,11 @@
             {
               "n": "",
               "text": "Sit enim superficies aliqua secta per signum Κ plano semper sectionem faciente circuli periferiam, centrum autem ipsius K. Si igitur ipsa superficies non est sperae superficies, non erunt omnes quae a centro ad superficiem occurrentes lineae aequales. Sint itaque quae A, B, G, D signa in superficie, et inaequales quae AK, KB, per ipsas autem KA, KΒ planum educatur et faciat sectionem in superficie ineam DABG; circuli ergo est ipsa, centrum autem ipsius K, quoniam supponebatur superficies talis. Non sunt ergo inaequale es lineae KA, KB; necessarium igitur est superficiem esse sperae superficiem.",
-              "ref": "Mugler vol. 3 p. 6"
+              "ref": "Mugler vol. 3 p. 6",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus I.1",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             }
           ]
         },
@@ -89,7 +93,11 @@
             {
               "n": "",
               "text": "Ἀφείσθω γάρ τι στερεὸν μέγεθος εἰς τὸ ὑγρὸν τῶν ἰσοβαρέων τῷ ὑγρῷ καί, εἰ δυνατόν, ὑπερεχέτω τι αὐτοῦ τᾶς τοῦ ὑγροῦ ἐπιφανείας, καθεστάτω δὲ τὸ ὑγρόν, ὥστε μένειν ἀκίνητον. Νοείσθω δή τι ἐπίπεδον ἐκβεβλημένον διά τε τοῦ κέντρου τᾶς γᾶς καὶ τοῦ ὑγροῦ καὶ διὰ τοῦ στερεοῦ μεγέθεος, τομὰ δὲ ἔστω τᾶς μὲν ἐπιφανείας τοῦ ὑγροῦ ἁ ΑΒΓ△ περιφέρεια, τοῦ δὲ στερεοῦ μεγέθεος τὸ ΕΖΗΘ σχῆμα, κέντρον δὲ τᾶς γᾶς τὸ Κ. Ἔστω δὴ τοῦ μὲν στερεοῦ τὸ μὲν ΒΓΗΘ ἐν τῷ ὑγρῷ, τὸ δὲ ΒΕΖΓ ἐκτός. Νοείσθω δὴ τὸ στερεὸν σχῆμα περιλαμβανόμενον πυραμοειδεῖ βάσιν μὲν ἔχοντι τὸ παραλληλόγραμμον τὸ ἐν τᾷ ἐπιφανείᾳ τοῦ ὑγροῦ, κορυφὰν δὲ τὸ κέντρον τᾶς γᾶς, τομὰ δὲ ἔστω τοῦ τε ἐπιπέδου, ἐν ᾧ ἐστιν ἁ ΑΒΓ△ περιφέρεια, καὶ τῶν τᾶς πυραμίδος ἐπιπέδων αἱ ΚΛ, ΚΜ. Γεγράφθω τις ἄλλας σφαίρας ἐπιφάνεια περὶ κέντρον τὸ Κ ἐν τῷ ὑγρῷ τῷ ὑπὸ τοῦ ΕΖΗΘ καὶ τεμνέσθω ἐπιπέδῳ, λελάφθω δέ τις καὶ ἄλλα πυραμὶς ἴσα καὶ ὁμοία τᾷ περιλαμβανούσᾳ τὸ στερεὸν συνεχὴς αὐτᾷ, τομὰ δὲ ἔστω τῶν ἐπιπέδων αὐτᾶς αἱ ΚΜ, ΚΝ, καὶ ἐν τῷ ὑγρῷ νοείσθω τι μέγεθος τοῦ ὑγροῦ ἀπολαμβανόμενον τὸ ΡΣΤΥ ἴσον καὶ ὅμοιον τῷ στερεῷ τῷ κατὰ τὰ Β, Η, Θ, Γ, ὅ ἐστιν αὐτοῦ ἐν τῷ ὑγρῷ · τὰ δὴ μέρεα τοῦ ὑγροῦ τά τε ἐν τᾷ πρώτᾳ πυραμίδι τὰ ὑπὸ τὰν ἐπιφάνειαν, ἐν ᾆ ἐστιν ἁ ΞΟ περιφέρεια, καὶ τὰ ἐν τᾷ ἑτέρᾳ, ἐν ᾆ ἐστιν ἁ ΠΟ, ἐξ ἴσου τὲ ἐντι κείμενα καὶ συνεχέα. Οὐχ ὁμοίως δὲ θλίβονται· τὸ μὲν γὰρ κατὰ τὰν ΞΟ θλίβεται τῷ στερεῷ τῷ ΘΗΕΖ καὶ τῷ ὑγρῷ τῷ μεταξὺ τᾶν ἐπιφανειᾶν τᾶν κατὰ τὰς ΞΟ, ΛΜ καὶ τῶν τᾶς πυραμίδος ἐπιπέδων, τὸ δὲ κατὰ τὰν ΠΟ τῷ ὑγρῷ τῷ μεταξὺ τᾶν ἐπιφανειᾶν τᾶν κατὰ τὰς ΠΟ, ΜΝ καὶ τῶν τᾶς πυραμίδος ἐπιπέδων. Ἔλασσον δὲ ἐσσεῖται τὸ βάρος τοῦ ὑγροῦ τοῦ κατὰ τὰς ΜΝ, ΟΠ· τὸ μὲν γὰρ κατὰ τὸ ΡΣΤΥ ἔλασσόν ἐστι τοῦ ΕΖΗΘ στερεοῦ· αὐτῷ γὰρ τῷ κατὰ τὸ ΗΒΓΘ ἴσον ἐστὶν διὰ τὸ τῷ μεγέθει ἴσον εἶμεν καὶ ἰσοβαρὲς ὑποκεῖσθαι τὸ στερεὸν τῷ ὑγρῷ· τὸ δὲ λοιπὸν τῷ λοιπῷ ἴσον ἐστί. Δῆλον οὖν ὅτι ἐξωθήσεται τὸ μέρος τὸ κατὰ τὰν ΟΠ περιφέρειαν ὑπὸ τοῦ κατὰ τὰν ΟΞ περιφέρειαν, καὶ οὐκ ἐσσεῖται τὸ ὑγρὸν ἀκίνητον. Ὑπόκειται δὲ ἀκίνητον ἐόν· οὐκ ἄρα ὑπερέξει τᾶς τοῦ ὑγροῦ ἐπιφανείας οὐδὲν τοῦ στερεοῦ μεγέθεος. Καταδὺν δὲ τὸ στερεὸν οὐκ οἰσθήσεται ἐς τὰ κάτω· ὁμοίως γὰρ πάντα θλιβησοῦντι τὰ μέρεα τοῦ ὑγροῦ τὰ ἐξ ἴσου κείμενα διὰ τὸ ἰσοβαρέα εἶμεν τὸ στερεὸν καὶ τὸ ὑγρόν.",
-              "ref": "Mugler vol. 3 p. 9"
+              "ref": "Mugler vol. 3 p. 9",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus I.3",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             }
           ]
         },
@@ -109,7 +117,11 @@
             {
               "n": "",
               "text": "Ἔστω γὰρ στερεὸν μέγεθος κουφότερον τοῦ ὑγροῦ καὶ ἀφεθὲν ἐς τὸ ὑγρὸν δεδυκέτω ὅλον, εἰ δυνατόν, καὶ μηδὲν αὐτοῦ ἔστω ἐκτὸς τᾶς τοῦ ὑγροῦ ἐπιφανείας, καθεστακέτω δὲ τὸ ὑγρόν, ὥστε μένειν ἀκίνητον, Νοείσθω δή τι ἐπίπεδον ἐκβεβλημένον διὰ τοῦ κέντρου τᾶς γᾶς καὶ διὰ τοῦ ὑγροῦ καὶ τοῦ στερεοῦ μεγέθεος, τεμνέσθω δὲ ὑπὸ τοῦ ἐπιπέδου τούτου ἡ μὲν τοῦ ὑγροῦ ἐπιφάνεια κατὰ τὰν ΑΒΓ περιφέρειαν, τὸ δὲ στερεὸν μέγεθος κατὰ τὸ σχῆμα, ἐν ᾧ Ζ, κέντρον δὲ ἔστω τᾶς γᾶς τὸ Κ, νοείσθω δέ τις πυραμὶς περιλαμβάνουσα τὸ Ζ σχῆμα, καθʼ ἃ καὶ πρότερον, κορυφὰν ἔχουσα τὸ Κ σαμεῖον, τεμνέσθω δὲ αὐτᾶς τὰ ἐπίπεδα ὑπὸ τοῦ ἐπιπέδου τοῦ ΑΒΓ κατὰ τὰς ΑΚ, ΚΒ, λελάφθω δὲ τις καὶ ἄλλα ἴσα πυραμὶς καὶ ὁμοία ταύτᾳ, τεμνέσθω δὲ αὐτᾶς τὰ ἐπίπεδα ὑπὸ τοῦ ἐπιπέδου κατὰ τὰς ΚΒ, ΚΓ, γεγράφθω δὲ τις καὶ ἄλλας σφαίρας ἐπιφάνεια ἐν τῷ ὑγρῷ περὶ κέντρον τὸ Κ, ὑποκάτω δὲ τοῦ στερεοῦ μεγέθεος, τεμνέσθω δʼ αὕτα ὑπὸ τοῦ αὐτοῦ ἐπιπέδου κατὰ τὰν ΞΟΠ περιφέρειαν, νοείσθω δὲ καὶ μέγεθος ἀπολαμβανόμενον τοῦ ὑγροῦ τὸ κατὰ τὸ Η ἐν τᾷ ὕστερον πυραμίδι ἴσον τῷ κατὰ τὸ Ζ στερεῷ· τὰ δὴ μέρεα τοῦ ὑγροῦ τοῦ ἐν τᾷ πρώτᾳ πυραμίδι τὰ ὑπὸ τὰν ἐπιφάνειαν τὰν κατὰ τὰν ΞΟ περιφέρειαν καὶ τοῦ ἐν τᾷ δευτέρᾳ τὰ ὑπὸ τὰν ἐπιφάνειαν τὰν κατὰ τὰν ΟΠ περιφέρειαν ἐξ ἴσου τέ ἐντι κείμενα καὶ συνεχέα ἀλλάλοις. Οὐχ ὁμοίως δὲ θλίβονται· τὸ μὲν γὰρ ἐν τᾷ πρώτᾳ πυραμίδι θλίβεται τῷ κατὰ τὸ Ζ στερεῷ μεγέθει καὶ τῷ περιέχοντι ὑγρῷ αὐτὸ καὶ ἐόντι ἐν τῷ τόπῳ τᾶς πυραμίδος τῷ κατὰ τὰ Α, Β, Ο, Ξ, τὸ δʼ ἐν τᾷ ἑτέρᾳ πυραμίδι θλίβεται τῷ ὑγρῷ τῷ περιέχοντι αὐτὸ καὶ ἐόντι τᾶς πυραμίδος ἐν τῷ τόπῳ τῷ κατὰ τὰ Π, Ο, Β, Γ, ἔστι δὲ τὸ βάρος τὸ κατὰ τὸ Ζ ἔλασσον τοῦ βάρεος τοῦ κατὰ τὸ Η, ἐπειδὴ τῷ μὲν μεγέθει ἴσον ἐστίν, κουφότερον δὲ ὑπόκειται τὸ στερεὸν μέγεθος εἶμεν τοῦ ὑγροῦ, τὰ δὲ τοῦ περιέχοντος ὑγροῦ τὰ Ζ, Η μεγέθεα ἐν ἑκατέρᾳ τᾶν πυραμίδων ἴσα μᾶλλον οὖν θλιβήσεται τὸ μέρος τοῦ ὑγροῦ τὸ ὑπὸ τὰν ἐπιφάνειαν τὰν κατὰ τὰν ΟΠ περιφέρειαν· ἐξωθήσει οὖν τὸ ἧσσον θλιβόμενον, καὶ οὐ μενεῖ τὸ ὑγρὸν ἀκίνητον. Ὑπέκειτο δέ· οὐκ ἄρα καταδύσεται ὅλον, ἀλλʼ ἐσσεῖταί τι αὐτοῦ ἐκτὸς τᾶς τοῦ ὑγροῦ ἐπιφανείας.",
-              "ref": "Mugler vol. 3 p. 11"
+              "ref": "Mugler vol. 3 p. 11",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus I.4",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             }
           ]
         },
@@ -129,7 +141,11 @@
             {
               "n": "",
               "text": "Κατεσκευάσθω ταὐτὰ τοῖς πρότερον, καὶ ἔστω τὸ ὑγρὸν ἀκίνητον, ἔστω δὲ κουφότερον τοῦ ὑγροῦ τὸ ΕΖΗΘ μέγεθος. Ἐπεὶ οὖν ἀκίνητόν ἐστιν τὸ ὑγρόν, ὁμοίως θλιβήσεται τὰ μέρεα αὐτοῦ τὰ ἐξ ἴσου κείμενα· ὁμοίως ἄρα θλιβήσεται τὸ ὑγρὸν τὸ ὑπὸ τὰν ἐπιφάνειαν τὰν κατὰ τὰς ΞΟ καὶ ΠΟ περιφερείας· ὥστε ἴσον ἐστὶ τὸ βάρος, ᾧ θλίβονται. Ἔστι δὲ καὶ τοῦ ὑγροῦ τὸ βάρος τοῦ ἐν τᾷ πρώτᾳ πυραμίδι χωρὶς τοῦ ΒΗΘΓ στερεοῦ ἴσον τῷ βάρει τῷ τοῦ ἐν τᾷ ἑτέρᾳ πυραμίδι χωρὶς τοῦ ΡΣΤΥ ὑγροῦ· δῆλον οὖν ὅτι τὸ τοῦ ΕΖΗΘ μεγέθεος βάρος ἴσον ἐστὶ τῷ τοῦ ΡΣΤΥ ὑγροῦ βάρει. Φανερὸν οὖν ὅτι ταλικοῦτος ὄγκος τοῦ ὑγροῦ, ἁλίκον ἐστὶ τὸ δεδυκὸς τοῦ στερεοῦ μεγέθεος, ἴσον βάρος ἔχει ὅλῳ τῷ μεγέθει.",
-              "ref": "Mugler vol. 3 p. 13"
+              "ref": "Mugler vol. 3 p. 13",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus I.5",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             }
           ]
         },
@@ -184,7 +200,11 @@
             {
               "n": "",
               "text": "Ἔστω τι μέγεθος τὸ Α, ὅ ἐστι βαρύτερον τοῦ ὑγροῦ, βάρος δὲ ἔστω τοῦ μὲν ἐν ᾧ Α μεγέθεος τὸ ΒΓ, τοῦ δὲ ὑγροῦ τοῦ ἴσον ὄγκον ἔχοντος τῷ Α τὸ Β. Δεικτέον ὅτι τὸ Α μέγεθος ἐν τῷ ὑγρῷ ἐὸν βάρος ἕξει ἴσον τῷ Γ.",
-              "ref": "Mugler vol. 3 p. 16"
+              "ref": "Mugler vol. 3 p. 16",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus I.7",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -214,7 +234,11 @@
             {
               "n": "",
               "text": "Νοείσθω γάρ τι μέγεθος, οἷον εἴρηται, ἐς τὸ ὑγρὸν ἀφεθέν, καὶ διά τε τοῦ ἄξονος τοῦ τμάματος καὶ τοῦ κέντρου τᾶς γᾶς νοείσθω ἐπίπεδον ἐκβεβλημένον, τομὰ δʼ ἔστω τᾶς μὲν ἐπιφανείας τοῦ ὑγροῦ ἁ ΑΒΓ△, τοῦ δὲ σχήματος τοῦ ἐς τὸ ὑγρὸν ἀφεθέντος ἁ ΕΖΗΘ περιφέρεια, ἄξων δὲ τοῦ τμάματος ἔστω ἁ ΘΖ· τὸ δὴ κέντρον τᾶς σφαίρας ἔστιν ἐπὶ τᾶς ΘΖ.",
-              "ref": "Mugler vol. 3 p. 18"
+              "ref": "Mugler vol. 3 p. 18",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus I.8",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -249,7 +273,11 @@
             {
               "n": "",
               "text": "Νοείσθω γάρ τι μέγεθος, οἷον εἴρηται, εἰς τὸ ὑγρὸν ἀφετώμενον, νοείσθω δὲ καὶ ἐπίπεδον ἀγόμενον διὰ τοῦ ἄξονος τοῦ τμάματος καὶ διὰ τοῦ κέντρου τᾶς γᾶς, τομὰ δὲ ἔστω τᾶς μὲν ἐπιφανείας τοῦ ὑγροῦ ἁ ΑΒΓ△ περιφέρεια, τοῦ δὲ σχήματος ἁ ΕΖΗ περιφέρεια καὶ ἁ ΕΗ εὐθεῖα, ἄξων δὲ ἔστω τοῦ τμάματος ἁ ΖΘ. Εἰ οὖν δυνατόν, μὴ κατὰ κάθετον ἔστω ἁ ΖΘ δεικτέον οὖν ὅτι οὐ μενεῖ τὸ σχῆμα, ἀλλὰ ἐπʼ ὀρθὸν καταστασεῖται.",
-              "ref": "Mugler vol. 3 p. 21"
+              "ref": "Mugler vol. 3 p. 21",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus I.9",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -284,7 +312,11 @@
             {
               "n": "",
               "text": "Ἀφείσθω γάρ τι εἰς τὸ ὑγρὸν μέγεθος στερεὸν τὸ ΦΑ κουφότερον τοῦ ὑγροῦ ἐόν, ἔστω δὲ τὸ μὲν δεδυκὸς αὐτοῦ τὸ Α, τὸ δὲ ἐκτὸς τοῦ ὑγροῦ τὸ Φ, Δεικτέον ὅτι τὸ ΦΑ τῷ βάρει ποτὶ τὸ ὑγρὸν τὸ ἴσογκον τοῦτον ἔχει τὸν λόγον, ὃν ἔχει τὸ Α ποτὶ τὸ ΦΑ.",
-              "ref": "Mugler vol. 3 p. 23"
+              "ref": "Mugler vol. 3 p. 23",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.1",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -309,7 +341,11 @@
             {
               "n": "",
               "text": "Ἔστω τμᾶμα ὀρθογωνίου κωνοειδέος, οἷον εἴρηται, καὶ κείσθω κεκλιμένον. Δεικτέον ὅτι οὐ μενεῖ, ἀλλʼ ἀποκαταστασεῖται ὀρθόν.",
-              "ref": "Mugler vol. 3 p. 25"
+              "ref": "Mugler vol. 3 p. 25",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.2",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -335,7 +371,11 @@
             {
               "n": "",
               "text": "Ἀφείσθω γάρ τι τμᾶμα εἰς τὸ ὑγρόν, οἷον εἴρηται, καὶ ἔστω αὐτοῦ ἁ βάσις ἐν τῷ ὑγρῷ, τμαθέντος δὲ αὐτοῦ ἐπιπέδῳ διὰ τοῦ ἄξονος ὀρθῷ ποτὶ τὰν ἐπιφάνειαν τοῦ ὑγροῦ τομὰ ἔστω ἁ ΑΠΟΛ ὀρθογωνίου κώνου τομά, ἄξων δὲ τοῦ τμάματος καὶ διάμετρος τᾶς τομᾶς ἁ ΠΦ, τᾶς δὲ ἐπιφανείας τοῦ ὑγροῦ τομὰ ἁ ΙΣ. Ἐπειδὴ οὖν κεκλιμένον κεῖται τὸ τμᾶμα, οὐκ ἐσσεῖται κατὰ κάθετον ὁ ἄξων οὐκ ἄρα ποιήσει ἁ ΠΦ ἴσας γωνίας ποτὶ τὰν ΙΣ. Ἄχθω δή τις ἁ ΚΩ παρὰ τὰν ΙΣ ἐφαπτομένα κατὰ τὸ Ο τᾶς ΑΠΟΛ τομᾶς, καὶ τοῦ μὲν ΑΠΟΛ στερεοῦ κέντρον ἔστω τοῦ βάρεος τὸ Ρ, τοῦ δὲ ΙΠΟΣ στερεοῦ τὸ Β, καὶ ἐπιζευχθεῖσα ἁ ΒΡ ἐκβεβλήσθω, καὶ ἔστω κέντρον τοῦ βάρεος τὸ Γ τοῦ ΙΣΛΑ. Ὁμοίως δὴ δειχθήσεται ἁ μὲν ὑπὸ τᾶν ΡΟ, ΟΚ γωνία ὀξεῖα, ἁ δὲ ἀπὸ τοῦ Ρ κάθετος ἐπὶ τὰν ΚΩ ἀγομένα μεταξὺ πίπτουσα τῶν Κ, Ο ἔστω ἁ ΡΘ. Ἐὰν δὴ ἀπὸ τῶν Γ, Β ἀχθέωντί τινες παρὰ τὰν ΡΘ, τὸ μὲν ἐν τῷ ὑγρῷ ἀπολαφθὲν ἐνεχθήσεται ἄνω κατὰ τὰν διὰ τοῦ Γ ἀγομέναν, τὸ δʼ ἐκτὸς τοῦ ὑγροῦ κατὰ τὰν διὰ τοῦ Β ἀγομέναν κάτω, καὶ οὐ μενεῖ τὸ ΑΠΟΛ στερεὸν οὕτως ἔχον ἐν τῷ ὑγρῷ, ἀλλὰ τὸ μὲν κατὰ τὸ Α ἄνω τὰν φορὰν ἕξει, τὸ δὲ κατὰ τὸ Λ κάτω, ἕως ἂν γένηται ἁ ΠΦ κατὰ κάθετον.",
-              "ref": "Mugler vol. 3 p. 27"
+              "ref": "Mugler vol. 3 p. 27",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.3",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             }
           ]
         },
@@ -355,7 +395,11 @@
             {
               "n": "",
               "text": "Ἔστω τμᾶμα ὀρθογωνίου κωνοειδέος, οἷον εἴρηται, καὶ ἀφεθὲν εἰς τὸ ὑγρόν, εἰ δυνατόν, ἔστω μὴ ὀρθόν, ἀλλὰ κεκλιμένον, τμαθέντος δὲ αὐτοῦ ἐπιπέδῳ διὰ τοῦ ἄξονος ὀρθῷ ποτὶ τὰν ἐπιφάνειαν τοῦ ὑγροῦ τοῦ μὲν τμάματος τομὰ sit rectanguli coni sectio quae APOL, axis autem portionis et diameter quae NO, superficiei autem humidi sectio sit IS. Si igitur portio non est recta, non faciet quae NO ad IS angulos aequa es.",
-              "ref": "Mugler vol. 3 p. 29"
+              "ref": "Mugler vol. 3 p. 29",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.4",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -380,7 +424,11 @@
             {
               "n": "",
               "text": "Dimittatur enim in humidum aliqua portio, qualis dicta est, et sit basis ipsius tota in humido, secta autem ipsa plano per axem recto ad superficiem humidi erit sectio rectanguli coni sectio, et sit quae APOL, axis autem portionis et diameter sectionis quae NO, superficiei autem humidi sectio quae IS. Et quoniam non est axis secundum perpendicularem, non faciet quae NO ad IS angulos aequales. Ducatur autem quae ΚΩ contingens sectionem APOL secundum P aequedistans ipsi IS et per P ipsi NO aequedistans quae ΡF, et accipiantur centra grauitatum, et sit ipsius quidem AΡOL centrum R, eius autem quod extra humidum B, et copulata quae BR educatur ad G, et st G centrum grauitatis solidi absumpti in humido, et accipiatur quae RM aequalis ei quae usque ad axem, quae autem OM dupla ipsius HM, et alia fiant consimiliter superiori. Quoniam igitur supponitur portio ad humidum in grauitate non maiorem proportionem habens proportione, quam habet excessus, quo maius est tetragonum quod ab NO tetragono quod ab HO, ad tetragonum quod ab NO, sed quam proportionem habet in grauitate portio ad humidum aequalis molis, hanc proportionem habet demersa ipsius portio ad totum solidum (demonstratum est enim hoc in primo theoremate], non maiorem ergo proportionem habet demersa magnitudo portionis ad totam portionem, quam sit dicta proportio ; quare non maiorem proportionem habet tota portio ad eam quae extra humidum portionem, quam habet tetragonum quod ab NO ad tetragonum quod ab HO. Habet autem tota portio ad portionem quae extra humidum eandem proportionem, quam habet tetragonum quod ab NO ad id quod a PF ; non maiorem ergo proportionem habet quod ab NO ad id quod a PF, quam quod ab NO ad id quod ab HO. Non minor ergo fit quae PF quam quae OH ; quare nec quae PB quam MO. Quae ergo ab M producitur ipsi RO ad rectos angulos, concidet ipsi BP inter P et B ; concidat secundum Τ. Et quoniam in rectanguli coni sectione quae PF est aequedistanter dametro RO, quae autem MT perpendicularis super diametrum, quae autem RM aequalis ei quae usque ad axem, palam quod quae RT educta facit angulos rectos ad ΚΡΩ ; quare et ad IS. Quae ergo RT est perpendicularis ad superficiem humidi, et per signa B, G aequedistanter ipsi RT productae erunt perpendiculares ad superficiem humidi ; quae quidem igitur extra humidum portio deorsum feretur in humidum secundum productam per B perpendicularem, quae autem intra humidum sursum feretur secundum perpendicularem quae per G, et non manet solida portio APOL, sed intra humidum erit motum, donec utique quae NO fiat secundum perpendicularem.",
-              "ref": "Mugler vol. 3 p. 32"
+              "ref": "Mugler vol. 3 p. 32",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.5",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             }
           ]
         },
@@ -400,12 +448,20 @@
             {
               "n": "",
               "text": "Sit portio, qualis dicta est, et dimissa in humidum consistat, sicut ostensum est, ita ut basis ipsius secundum unum signum contingat humidum, secta autem ipsa per axem plano recto ad superficiem humidi sectio superficiei portionis sit quae AΡOL rectanguli coni sectio, superficiei autem humidi quae AS, axis autem portionis et diameter sectionals sit quae NO, et secetur secundum F quidem ita, ut quae OF sit dupla ipsius FN, secundum Ω autem ita, ut quae NO ad FΩ habeat proportionem, quam quindecim ad quattuor, et ipsi NO adducatur quae ΩΚ. Quae autem NO maiorem proportionem habet ad FΩ quam ad eam quae usque ad axem. Sit quae FB aequalis ei quae usque ad axem, et ducatur quae quidem ΡC aequedistanter ipsi AS contingens sectionem APOL secundum P, quae autem Pl aequedistanter ipsi NO ; secet autem quae Pl prius ipsam ΚΩ. Quoniam igitur in portione AΡOL contenta a recta et a sectione rectanguli coni quae quidem ΚΗ aequedistanter ipsi AL, quae autem Pl aequedistanter diametro secta ipsa ΚΩ, quae autem AS aequedistanter contingenti secundum P, necessarium est ipsam Pl aut eandem proportionem habere ad ΡΗ, quam habet quae NΩ ad ΩΟ, aut maiorem proportionem; demonstratum est enim hoc per sumpta. Quae autem ΩN est emiolia psius ΩΟ ; et quae ΙΡ ergo aut emiolia est ipsius ΗΡ aut maior quam emiolia ; quae ergo PH ipsius HI aut dupla est aut minor quam dupla. Sit autem quae PT ipsius TI dup a ; centrum ergo grauitatis eius quod in humido est signum T. Et copulata quae TF educatur, et sit centrum grauitatis eius quod extra humidum G, et a B ipsi NO recta quae BR. Quoniam igitur est quae quidem Pl aequedistanter diametro NO, quae autem BR perpendicularis super diametrum, quae autem FB aequalis ei quae usque ad axem, palam quod quae FR educta aequales facit angulos ad contingentem sectionem APOL secundum P ; quare et ad AS et ad superficiem aquae. Ductis autem per T, G aequedstanter ipsi FR erunt et ipsae perpendiculares ad superficiem aquae, et magnitudo quidem intra humidum absumpta ex solido APOL sursum feretur secundum eam quae per T perpendicularem, quae autem extra humidum deorsum feretur in humidum secundum eam quae per G perpendicularem. Reuoluetur ergo solidum APOL, et basis ipsius non tanget superficiem humidi secundum unum signum.",
-              "ref": "Mugler vol. 3 p. 34"
+              "ref": "Mugler vol. 3 p. 34",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.6",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
               "text": "Si autem quae PI non secuerit lineam ΚΩ, sicut in secunda figura descriptum est, manifestum quod signum T, quod est centrum grauitatis demersae portionis, cadet inter P et l, et reliqua similiter demonstrabuntur.",
-              "ref": "Mugler vol. 3 p. 36"
+              "ref": "Mugler vol. 3 p. 36",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.6",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             }
           ]
         },
@@ -425,7 +481,11 @@
             {
               "n": "",
               "text": "Ἔστω τμᾶμα οἷον εἴρηται, καὶ ἀφεθὲν ἐς τὸ ὑγρὸν καθάπερ ἐρρέθη καθεστακέτω οὕτως, ὥστε τὰν βάσιν αὐτοῦ ἅπτεσθαι τᾶς τοῦ ὑγροῦ ἐπιφανείας. Δεικτέον ὅτι οὐ μενεῖ, ἀλλὰ ἀνακλιθήσεται οὕτως, ὥστε τὰν βάσιν αὐτοῦ μηδὲ καθʼ ἓν ἅπτεσθαι τᾶς τοῦ ὑγροῦ ἐπιφανείας.",
-              "ref": "Mugler vol. 3 p. 37"
+              "ref": "Mugler vol. 3 p. 37",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.7",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -459,7 +519,11 @@
             {
               "n": "",
               "text": "Ἔστω τμᾶμα οἷον εἴρηται, καὶ ἁ Β△ ἴσα τῷ ἄξονι, καὶ ἁ μὲν ΒΚ τᾶς Κ△ διπλασία, ἁ δὲ ΚΡ ἴσα τᾷ μέχρι τοῦ ἄξονος, ἔστω δὲ καὶ ἁ μὲν ΤΒ ἡμιολία τᾶς ΒΡ, ἁ δὲ Τ△ τᾶς ΚΡ, ὃν δὲ λόγον ἔχει τὸ τμᾶμα τῷ βάρει ποτὶ τὸ ὑγρόν, τοῦτον ἐχέτω τὸ ἀπὸ τᾶς ΦΧ τετράγωνον ποτὶ τὸ ἀπὸ τᾶς △Β, ἔστω δὲ καὶ ἁ Φ διπλασία τᾶς Χ. Δῆλον οὖν ὅτι ἁ ΦΧ ποτὶ τὰν △Β ἐλάσσονα λόγον ἔχει τοῦ ὃν ἔχει ἁ ΤΒ ποτὶ τὰν Β△ ἔστι γὰρ ἁ ΤΒ ἁ ὑπεροχά, ᾇ μείζων ἢ ἡμιόλιος ὁ ἄξων τᾶς μέχρι τοῦ ἄξονος ἐλάσσων ἄρα ἁ ΦΧ τᾶς ΒΤ ὥστε καὶ ἁ Φ τᾶς ΒΡ. Ἔστω δὴ τᾷ Φ ἴσα ἁ ΡΨ, καὶ τᾷ Β△ ὀρθὰ ἄχθω ἁ ΨΕ δυναμένα τὸ ἥμισυ τοῦ ὑπὸ τῶν ΚΡ, ΒΨ, καὶ ἐπεζεύχθω ἁ ΒΕ. Δεικτέον ὅτι τὸ τμᾶμα ἀφεθὲν εἰς τὸ ὑγρὸν ὡς εἴρηται καταστασεῖται κεκλιμένον, ὥστε τὸν ἄξονα ποτὶ τὰν ἐπιφάνειαν τοῦ ὑγροῦ ποιεῖν γωνίαν ἴσαν τᾷ ΕΒΨ.",
-              "ref": "Mugler vol. 3 p. 39"
+              "ref": "Mugler vol. 3 p. 39",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.8",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -489,7 +553,11 @@
             {
               "n": "",
               "text": "Ἐπεὶ οὖν οὔτε γωνίαν μείζονα τᾶς Β ποιοῦντος τοῦ ἄξονος ποτὶ τὸ ὑγρὸν σταθήσεται τὸ τμᾶμα οὔτʼ ἐλάσσονα, φανερὸν ὅτι ταλικαύταν ποιοῦντος γωνίαν σταθήσεται οὕτως γὰρ ἁ ΙΟ ἐσσεῖται ἴσα τᾷ ΨΒ καὶ ἁ Ωl τᾷ ΨΡ καὶ τᾷ Φ ἁ ΠΗ· ἡμιολία ἄρα ἐσσεῖται ἁ ΜΠ τᾶς ΠΗ, ἁ δὲ ΠΗ τᾶς ΗΜ διπλασία. Τὸ Η ἄρα τοῦ ἐν τῷ ὑγρῷ βάρεος κέντρον ἐστίν ὥστε κατὰ τὰν αὐτὰν κάθετον ἀνενεχθήσεται, καὶ τὸ ἐκτὸς ἐς τὸ κάτω ἐνεχθήσεται. Μενεῖ ἄρα ἀντωθοῦνται γὰρ ὑπʼ ἀλλάλων.",
-              "ref": "Mugler vol. 3 p. 43"
+              "ref": "Mugler vol. 3 p. 43",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.8",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             }
           ]
         },
@@ -509,7 +577,11 @@
             {
               "n": "",
               "text": "Ἔστω τμᾶμα οἷον εἴρηται, καὶ κείσθω ἁ △Β ἴσα τῷ ἄξονι τοῦ τμάματος, καὶ ἁ μὲν ΒΚ τᾶς Κ△ διπλασία ἔστω, ἁ δὲ ΚΡ ἴσα τᾷ μέχρι τοῦ ἄξονος, ἁ δὲ ΤΒ ἡμιολία τᾶς ΒΡ, ὃν δὲ λόγον ἔχει τὸ τμᾶμα τῷ βάρει ποτὶ τὸ ὑγρόν, τοῦτον ἐχέτω ἁ ὑπεροχά, ᾇ ὑπερέχει τὸ τετράγωνον τὸ ἀπὸ τᾶς Β△ τοῦ τετραγώνου τοῦ ἀπὸ τᾶς ΦΧ, ποτὶ τὸ τετράγωνον τὸ ἀπὸ τᾶς Β△, ἔστω δὲ ἁ Φ διπλασία τᾶς Χ. Δῆλον οὖν ὅτι ἁ ὑπεροχά, ᾇ ὑπερέχει τὸ τετράγωνον τὸ ἀπὸ τᾶς Β△ τοῦ ἀπὸ τᾶς ΒΤ, ποτὶ τὸ τετράγωνον τὸ ἀπὸ τᾶς Β△ ἐλάσσονα λόγον ἔχει ἢ ἁ ὑπεροχά, ᾇ ὑπερέχει τὸ τετράγωνον τὸ ἀπὸ τᾶς Β△ τοῦ τετραγώνου τοῦ ἀπὸ τᾶς ΦΧ, ποτὶ τὸ τετράγωνον τὸ ἀπὸ τᾶς Β△ ἔστι γὰρ ἁ ΒΤ ἁ ὑπεροχά, ᾇ μείζων ἐστὶν ἢ ἡμιόλιος ὁ ἄξων τοῦ τμάματος τᾶς μέχρι τοῦ ἄξονος. Μείζονι ἄρα ὑπερέχει τὸ τετράγωνον τὸ ἀπὸ τᾶς Β△ τοῦ ἀπὸ τᾶς ΦΧ ἢ τὸ τετράγωνον τὸ ἀπὸ τᾶς Β△ τοῦ τετραγώνου τοῦ ἀπὸ τᾶς ΒΤ ὥστε ἁ ΦΧ ἐλάσσων ἐστὶ τᾶς ΒΤ · καὶ ἁ Φ ἄρα τᾶς ΒΡ.",
-              "ref": "Mugler vol. 3 p. 45"
+              "ref": "Mugler vol. 3 p. 45",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.9",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -549,7 +621,11 @@
             {
               "n": "",
               "text": "Ἔστω τμᾶμα οἷον εἴρηται, καὶ τμαθέντος αὐτοῦ ἐπιπέδῳ ὀρθῷ ποτὶ τὰν ἐπιφάνειαν τοῦ ὑγροῦ τομὰ ἔστω ἐν τᾷ ἐπιφανείᾳ ἁ ΑΠΟΛ ὀρθογωνίου κώνου τομά, ἄξων δὲ ἔστω καὶ διάμετρος τᾶς τομᾶς ἁ Β△, τετμάσθω δὲ ἁ Β△ κατὰ τὸ Κ, ὥστε διπλασίαν εἶμεν τὰν ΒΚ τᾶς Κ△, κατὰ δὲ τὸ Τ, ὥστε τὰν △Β ποτὶ τὰν ΚΤ λόγον ἔχειν ὡς τὰ ιε ποτὶ δ δῆλον οὖν ὅτι ἁ ΚΤ μείζων ἐστὶ τᾶς μέχρι τοῦ ἄξονος. Ἔστω οὖν ἁ ΚΡ ἴσα τᾷ μέχρι τοῦ ἄξονος, τᾶς δὲ ΒΡ ἡμίσεια ἔστω ἁ ΡΣ ἔστι δὴ καὶ ἁ ΣΒ ἡμιολία τᾶς ΒΡ. Ἐπιζευχθείσας δὲ τᾶς ΑΒ καὶ τᾶς ΤΕ ὀρθᾶς ἀχθείσας ἀχθῶ ἁ ΕΖ παρὰ τὰν Β△, καὶ πάλιν τᾶς ΑΒ δίχα τμαθείσας κατὰ τὸ Θ ἄχθω παρὰ τὰν Β△ ἁ ΘΗ, καὶ λελάφθω ὀρθογωνίου κώνου τομὰ ἁ ΑΕΙ περὶ διάμετρον τὰν ΕΖ καὶ ἁ ΑΘ△ περὶ διάμετρον τὰν ΘΗ, ὥστε ὅμοια εἶμεν τὰ ΑΕΙ, ΑΘ△ τμάματα τῷ ΑΒΛ τμάματι· γραφήσεται δὴ ἁ ΑΕΙ κώνου τομὰ διὰ τοῦ Κ, ἁ δὲ ἀπὸ τοῦ Ρ ὀρθὰ ἀχθεῖσα τᾷ Β△ τεμεῖ τὰν ΑΕΙ. Τεμνέτω κατὰ τὰ Υ, Γ, καὶ διὰ τῶν Υ, Γ ἄχθωσαν παρὰ τὰν Β△ αἱ ΥΧ, ΓΝ, τεμνέτωσαν δὲ αὗται τὰν ΑΘ△ τομὰν κατὰ τὰ Ξ, Φ, ἄχθωσαν δὲ καὶ αἱ ΠΨ, Ο(??) ἐφαπτόμεναι τᾶς ΑΠΟΛ τομᾶς κατὰ τὰ Ο, Π, Δεδομένα δὴ τρία τινὰ τμάματα τὰ ΑΠΟΛ, ΑΕΙ, ΑΘ△ περιεχόμενα ὑπὸ τᾶν εὐθειᾶν καὶ τᾶν ὀρθογωνίων κώνων τομᾶν ὀρθὰ καὶ ὅμοια, ἄνισα δέ, καὶ ἀπολέλαπται ἀφʼ ἑκάστας βάσιος, ἀπὸ δὲ τοῦ Ν ἀναγμέναι αἱ ΝΞ, ΝΓ, ΝΟ ἁ ΟΓ ἄρα ποτὶ τὰν ΓΞ τὸν συγκείμενον λόγον ἕξει ἔκ τε τοῦ, ὃν ἔχει ἁ ΙΛ ποτὶ ΛΑ, καὶ ὃν ἔχει ἁ Α△ ποτὶ △Ι. Ἔχει δὲ καὶ ἁ ΛΙ ποτὶ ΛΑ ὃν δύο ποτὶ ε ἅ τε γὰρ ΤΒ ποτὶ Β△ ἐστὶν ὡς δύο ποτὶ ε, καὶ ἁ ΕΒ ποτὶ ΒΑ καὶ ἁ △Ζ ποτὶ △Α, τούτων δὲ διπλάσιαι αἱ Λl, ΛΑ · ἁ δὲ Α△ ποτὶ △Ι ἔχει ὅσον πέντε πρὸς ᾱ, ὁ δὲ συγκείμενος λόγος ἐξ οὗ ὃν ἔχει τὰ δύο ποτὶ τὰ ε καὶ ἐξ οὗ ὃν ἔχει τὰ πέντε ποτὶ τὸ ἓν ὁ αὐτός ἐστι τῷ ὃν ἔχει τὰ δύο ποτὶ τὸ ᾱ διπλασία ἄρα ἐστὶν ἁ ΟΓ τᾶς ΓΞ. Διὰ τὰ αὐτὰ δὴ καὶ ἁ ΠΥ τᾶς ΥΦ. Ἐπεὶ δέ ἐστιν ἁ △Σ ἡμιολία τᾶς ΚΡ, δῆλον ὅτι ἁ ΒΣ ἁ ὑπεροχά ἐστιν, ᾇ μείζων ἐστὶν ὁ ἄξων ἢ ἡμιόλιος τᾶς μέχρι τοῦ ἄξονος.",
-              "ref": "Mugler vol. 3 p. 49"
+              "ref": "Mugler vol. 3 p. 49",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.10",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -607,12 +683,20 @@
             {
               "n": "",
               "text": "Ηabeat autem portio ad humidum in grauitate hanc proportionem, quam habet tetragonum quod ab XO ad id quod a BD, et dimittatur in humidum ita inclinata. Secta autem ipsa per axem plano recto ad superficiem humidi solidi quidem sectio sit quae APOL rectanguli coni sectio, superficiei autem humidi quae OI, axis autem portionis et diameter sectionis quae BD, et secetur quae BD ut prius, et ducatur quae quidem PN aequedistanter ipsi IO contingens sectionem secundum P, quae autem ΡΓ aequedistanter ipsi BD, quae autem PS perpendicularis super BD. Demonstrandum quod portio non manet inclinata sic, sed inclinatur, donec utique basis secundum unum signum tangat superficiem humidi.",
-              "ref": "Mugler vol. 3 p. 55"
+              "ref": "Mugler vol. 3 p. 55",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.10",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
               "text": "Praeiaceant autem et quae insuperiori figura prius disposita sunt, et quae CO perpendicularis ducatur super BD, et quae AX copulata educatur ad Q ; erit autem quae AX ipsi XQ aequalis ; et ducatur ipsi AQ quae O(??) aequedistans. Et quoniam supponitur portio ad humidum in grauitate hanc habere proportionem, quam habet tetragonum quod ab XO ad id quod a BD, habet autem hanc proportionem et demersa portio ad totam, hoc est quod a TP ad id quod a BD, aequa is utique erit quae PT ipsi XO. Et quoniam portionum IBO, ABQ diametri sunt aequales, et portiones. Rursum quoniam in portionibus aequali bus et similibus AΡOL, AOQL productae sunt AQ, IO aequales portiones auferentes, hoc quidem ab extremitate basis, hoc autem non ab extremitate, palam quod minorem facit acutum angulum ad diametrum totius portionis, quae ab extremitate basis producta est. Et quoniam angulus qui apud (??) est minor quam qui apud Ν, maior est quae BC quam BS, quae autem CR minor quam RS ; quare et quae O(??) minor quam ΡϠ, et (??)Χ maior est quam ϠΤ. Et quoniam quae O(??) dupla est ipsius (??)X, palam quod quae PϠ maior est quam dupla psius ϠT. Sit igitur quae PH dupla ipsius HT.",
-              "ref": "Mugler vol. 3 p. 56"
+              "ref": "Mugler vol. 3 p. 56",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.10",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -622,7 +706,11 @@
             {
               "n": "",
               "text": "In portionibus enim aequalibus AΡOL, AOQL productae erunt ab extremitatibus basium quae AQ, AO aequales portiones auferentes demonstrabitur enim APQ aequalis ipsi AΡO similiter prioribus ; aequales igitur facient acutos angulos quae AO, AQ ad diametros portionum, quoniam aequales sunt qui apud Ν, (??) anguli. Et ϠT copulata autem ipsa ϠΚ et educta ad Ω erit totius quidem portionis centrum grauitatis Κ, eius autem quae intra humidum Ϡ, eius autem quae extra in linea ΚΩ ; et sit Ω. Et quae ΚϠ κάθετός ἐστιν ἐπὶ τὰν τοῦ ὑγροῦ ἐπιφάνειαν. Κατὰ τὰς αὐτὰς οὖν εὐθείας τό τε ἐν τῷ ὑγρῷ ἀνενεχθήσεται καὶ τὸ ἐκτὸς τοῦ ὑγροῦ κατενεχθήσεται μενεῖ δὴ τὸ τμᾶμα, καὶ ἅ τε βάσις καθʼ ἓν σαμεῖον ἄψεται τᾶς τοῦ ὑγροῦ ἐπιφανείας, καὶ ὁ ἄξων τοῦ τμάματος ποτὶ τὰν ἐπιφάνειαν τοῦ ὑγροῦ ποιήσει γωνίαν ἴσαν τᾷ προγεγραμμένᾳ.",
-              "ref": "Mugler vol. 3 p. 58"
+              "ref": "Mugler vol. 3 p. 58",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.10",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -635,7 +723,7 @@
               "ref": "Mugler vol. 3 p. 60",
               "figure": {
                 "source": "Mugler, De corporibus fluitantibus II.10",
-                "note": "A diagram appears here in the printed edition; not yet available in this build."
+                "note": "2 diagrams appear here in the printed edition; not yet available in this build."
               }
             },
             {
@@ -660,7 +748,11 @@
             {
               "n": "",
               "text": "Ἀφείσθω γὰρ εἰς τὸ ὑγρόν ὡς εἴρηται, καὶ κείσθω τὸ πρῶτον οὕτως κεκλιμένον, ὥστε τὰν βάσιν αὐτοῦ μηδὲ καθʼ ἓν ἅπτεσθαι τᾶς τοῦ ὑγροῦ ἐπιφανείας, τμαθέντος δὲ αὐτοῦ ἐπιπέδῳ διὰ τοῦ ἄξονος ὀρθῷ ποτὶ τὰν τοῦ ὑγροῦ ἐπιφάνειαν ἐν μὲν τᾷ τοῦ τμάματος ἐπιφανείᾳ γίνεται τομὰ ἁ ΑΒΓ, ἐν δὲ τᾷ τοῦ ὑγροῦ ἁ ΕΖ, ἄξων δὲ ἔστω καὶ διάμετρος ἁ Β△, καὶ τετμάσθω ἁ Β△ κατὰ τὰ Κ, Ρ ὁμοίως τοῖς πρότερον, ἀχθῶ δὲ καὶ ἁ μὲν ΗΛ παρὰ τὰν ΕΖ ἐφαπτομένα τᾶς ΑΒΓ τομᾶς κατὰ τὸ Η, ἁ δὲ ΗΘ παρὰ τὰν Β△, ἁ δὲ ΗΣ κάθετος ἐπὶ τὰν Β△. Ἐπεὶ δὲ τὸ τμᾶμα τῷ βάρει λόγον ἔχει ποτὶ τὸ ὑγρόν, ὃν τὸ ἀπὸ τᾶς Ψ τετράγωνον ποτὶ τὸ ἀπὸ τᾶς Β△, δῆλον ὅτι ἁ Ψ ἴσα ἐστὶν τᾷ ΗΘ δειχθήσεται γὰρ ὁμοίως τοῖς πρότερον ὥστε καὶ ἁ ΗΘ ἴσα ἐστὶν τᾷ ΦΙ καὶ τὰ τμάματα ἄρα τὰ ΑΦΧ, ΕΒΖ ἴσα ἐστὶν ἀλλάλοις. Ἐπεὶ δʼ ἐν ἴσοις καὶ ὁμοίοις τμαμάτεσσι τοῖς ΑΠΟΛ, ΑΒΓ ἀγμέναι ἐντὶ αἱ ΑΧ, ΕΖ ἴσα τμάματα ἀφαιροῦσαι, καὶ ἁ μὲν ἀπʼ ἄκρας τᾶς βάσιος, ἁ δὲ οὐκ ἀπʼ ἄκρας, ἐλάσσονα ποιήσει τὰν ὀξεῖαν ποτὶ τὰν διάμετρον τοῦ τμάματος ἁ ἀπʼ ἄκρας τᾶς βάσιος ἀχθεῖσα. Καὶ ἐπειδὴ τοῦ ΗΛΣ τριγώνου ἁ Λ μείζων τᾶς Ω γωνίας τοῦ ΦΤΩ τριγώνου, δῆλον ὅτι ἐλάσσων ἐστὶν ἁ Βς΄ τᾶς ΒΤ, ἁ δὲ ς΄Ρ τᾶς ΡΤ μείζων, καὶ ἁ ΗϠ μείζων τᾶς ΦΗ ἁ ϠΘ ἄρα ἐλάσσων τᾶς ΗΙ. Καὶ ἐπεὶ διπλασία ἐστὶν ἁ ΦΥ τᾶς ΥΙ, δῆλον ὅτι ἁ ΗϠ, μείζων ἐστὶν ἢ διπλασία τᾶς ϠΘ. Ἔστω δὴ ἁ ΗΑ΄ διπλασία τᾶς Α΄Θ δῆλον δὴ ἐκ τούτων ὅτι οὐ μενεῖ τὸ τμᾶμα, ἀλλὰ ἐπικλιθήσεται, ἕως ἂν ἁ βάσις αὐτοῦ θίγῃ καθʼ ἓν σαμεῖον τᾶς τοῦ ὑγροῦ ἐπιφανείας.",
-              "ref": "Mugler vol. 3 p. 64"
+              "ref": "Mugler vol. 3 p. 64",
+              "figure": {
+                "source": "Mugler, De corporibus fluitantibus II.10",
+                "note": "A diagram appears here in the printed edition; not yet available in this build."
+              }
             },
             {
               "n": "",
@@ -668,7 +760,7 @@
               "ref": "Mugler vol. 3 p. 65",
               "figure": {
                 "source": "Mugler, De corporibus fluitantibus II.10",
-                "note": "A diagram appears here in the printed edition; not yet available in this build."
+                "note": "2 diagrams appear here in the printed edition; not yet available in this build."
               }
             }
           ]

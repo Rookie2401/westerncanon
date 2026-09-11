@@ -1,6 +1,6 @@
 # Archimedes validation report - archimedes-quadrature-parabola
 
-Generated: 2026-09-11T00:12:37.214Z
+Generated: 2026-09-11T18:18:43.366Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -10,7 +10,7 @@ Generated: 2026-09-11T00:12:37.214Z
 - passages: 54
 - total passage chars: 29593
 - Mugler volume: 2 (1971)
-- anomalies logged: 9 <del>, 0 <add cause="omitted">, 0 <gap>, 10 <figure>
+- anomalies logged: 9 <del>, 0 <add cause="omitted">, 0 <gap>, 26 <figure>
 
 ## Per-division passage counts (leaf divisions only)
 
@@ -49,22 +49,38 @@ Generated: 2026-09-11T00:12:37.214Z
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-1 / passage[0]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-2 / passage[0]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-3 / passage[0]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-4 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-5 / passage[0]** - <del> excluded from reading text: "ἀνάλογον"
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-5 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-6 / passage[0]** - <del> excluded from reading text: "ὅτε ἐστὶν τὸ ἐν τᾷ θεωρίᾳ"
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-6 / passage[0]** - <del> excluded from reading text: "ὁρώμενον"
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-6 / passage[0]** - <del> excluded from reading text: "ἔπειτα"
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-6 / passage[0]** - <del> excluded from reading text: "δηλονότι ἴσης οὔσης τᾶς ΑΒ τῇ ΒΓ"
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-6 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-6 / passage[2]** - <del> excluded from reading text: "ὅτι"
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-7 / passage[0]** - <del> excluded from reading text: "τὸ Γ△Η τρίγωνον"
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-7 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-8 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-9 / passage[0]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-10 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-11 / passage[0]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-12 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-13 / passage[0]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-14 / passage[0]** - <del> excluded from reading text: "ἐστιν"
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-14 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-15 / passage[0]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-16 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-17 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-18 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-19 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-20 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-21 / passage[1]** - <del> excluded from reading text: "ΑΖΒ"
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-21 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-22 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-22 / passage[2]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-23 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-24 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-quadrature-parabola / division archimedes-quadrature-parabola-ch-24 / passage[3]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 
 ## Errors
 

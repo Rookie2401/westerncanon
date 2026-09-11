@@ -8,6 +8,10 @@
     "note": "Unicode NFC normalisation was applied to all extracted reading text (64 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
   },
   {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-3 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-3 / passage[2]",
     "note": "<del> excluded from reading text: \"τὰ γὰρ ἴσα ἀπὸ τῶν ἴσων μακέων\""
   },
@@ -24,12 +28,28 @@
     "note": "<del> excluded from reading text: \"τὰ γὰρ ἴσα ἀπὸ τῶν ἀνίσων μακέων οὐκ ἰσορροπέοντι\""
   },
   {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-4 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-5 / passage[6]",
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-6 / passage[2]",
     "note": "<del> excluded from reading text: \"συγκείμενα\""
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-6 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-7 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-7 / passage[2]",
@@ -44,8 +64,24 @@
     "note": "<del> excluded from reading text: \"τᾶς\""
   },
   {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-9 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-9 / passage[2]",
     "note": "<del> excluded from reading text: \"δὲ\""
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-10 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-10 / passage[4]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-11 / passage[0]",
@@ -56,6 +92,10 @@
     "note": "<del> excluded from reading text: \"πρὸς τὰ ΑΒΓ, △ΕΖ τρίγωνα\""
   },
   {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-11 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-11 / passage[2]",
     "note": "<del> excluded from reading text: \"ὥστε ἴσας ποιησοῦντι γωνίας ποτὶ ταῖς ὁμολόγοις πλευραῖς ἕκαστον ἑκάσταις\""
   },
@@ -64,8 +104,16 @@
     "note": "<del> excluded from reading text: \"διὰ τὸ ὁμοίως κεῖσθαι τὰ Θ, Ν σαμεῖα\""
   },
   {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-12 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-12 / passage[2]",
     "note": "<del> excluded from reading text: \"ποτὶ τὰς ὁμολόγους πλευρὰς ἴσας γωνίας ποιεῖ\""
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-13 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-13 / passage[2]",
@@ -92,16 +140,44 @@
     "note": "<del> excluded from reading text: \"ἐπειδήπερ ἴσα ἐντὶ τὰ ΕΒ△, Ζ△Γ τρίγωνα\""
   },
   {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-13 / passage[5]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-14 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-15 / passage[1]",
     "note": "<del> excluded from reading text: \"καὶ διὰ τοῦ Θ σαμείου παράλληλος τᾷ βάσει ἆκται ἁ ΜΘ\""
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-1-ch-15 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-1 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-1 / passage[2]",
     "note": "<del> excluded from reading text: \"τοῦ\""
   },
   {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-2 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-4 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-5 / passage[1]",
     "note": "<del> excluded from reading text: \"ἐπειδήπερ ἴσα ἐντὶ τμάματα\""
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-5 / passage[2]",
@@ -110,6 +186,14 @@
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-5 / passage[2]",
     "note": "<del> excluded from reading text: \"τοῦ\""
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-5 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-6 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-6 / passage[2]",
@@ -124,12 +208,20 @@
     "note": "<del> excluded from reading text: \"τῷ τμήματι\""
   },
   {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-7 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-7 / passage[2]",
     "note": "<del> excluded from reading text: \"ἐγγεγραμμένῳ εὐθυγράμμῳ\""
   },
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-7 / passage[2]",
     "note": "<del> excluded from reading text: \"τουτέστιν ὁμοίως γνωρίμως\""
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-8 / passage[2]",
@@ -142,5 +234,9 @@
   {
     "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-10 / passage[1]",
     "note": "<del> excluded from reading text: \"καὶ αἱ μὲν ΑΓ, △Ε παράλληλοί ἐντι τᾷ κατὰ τὸ Β ἐφαπτομένᾳ τᾶς τομᾶς\""
+  },
+  {
+    "where": "archimedes-plane-equilibrium / division archimedes-plane-equilibrium-book-2-ch-10 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   }
 ]

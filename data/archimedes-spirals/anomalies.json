@@ -8,12 +8,56 @@
     "note": "Unicode NFC normalisation was applied to all extracted reading text (28 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
   },
   {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-1 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-2 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-6 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-7 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-9 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-10 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-spirals / division archimedes-spirals-ch-10 / passage[2]",
     "note": "<del> excluded from reading text: \"περισσᾷ\""
   },
   {
     "where": "archimedes-spirals / division archimedes-spirals-ch-10 / passage[2]",
     "note": "<del> excluded from reading text: \"πάσαις\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-11 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-12 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-13 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-spirals / division archimedes-spirals-ch-13 / passage[2]",
@@ -28,6 +72,14 @@
     "note": "<del> excluded from reading text: \"δέδεικται γὰρ τοῦτο ἔξω ἐν τοῖς πρώτοις\""
   },
   {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-15 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-16 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-spirals / division archimedes-spirals-ch-17 / passage[1]",
     "note": "<del> excluded from reading text: \"ποτὶ\""
   },
@@ -36,11 +88,43 @@
     "note": "<del> excluded from reading text: \"ἴση μὲν γὰρ ἡ ΡΑ τῇ Α△, μείζων δὲ ἡ ΙΑ τῆς ΑΧ\""
   },
   {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-17 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-18 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-18 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-19 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-20 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-spirals / division archimedes-spirals-ch-21 / passage[1]",
     "note": "<del> excluded from reading text: \"κατὰ τὸ Ο ἁ ΟΜ\""
   },
   {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-21 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-spirals / division archimedes-spirals-ch-22 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-23 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-24 / passage[1]",
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
@@ -52,7 +136,23 @@
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-25 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-25 / passage[4]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-26 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-spirals / division archimedes-spirals-ch-26 / passage[4]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-27 / passage[1]",
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
@@ -62,5 +162,9 @@
   {
     "where": "archimedes-spirals / division archimedes-spirals-ch-27 / passage[4]",
     "note": "<del> excluded from reading text: \"ΕΘ\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-28 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   }
 ]

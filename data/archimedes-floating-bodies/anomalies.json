@@ -8,6 +8,10 @@
     "note": "Unicode NFC normalisation was applied to all extracted reading text (35 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
   },
   {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-1 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-2 / passage[2]",
     "note": "<del> excluded from reading text: \"ἢ\""
   },
@@ -28,12 +32,24 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τῷ ὑγρῷ· τὸ δὲ λοιπὸν τῷ λοιπῷ\""
   },
   {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-3 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-4 / passage[1]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸ Ζ ἔλασσον τοῦ βάρεος τοῦ κατὰ τὸ\""
   },
   {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-4 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-5 / passage[1]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ ἐν τᾷ ἑτέρᾳ πυραμίδι\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-6 / passage[1]",
@@ -46,6 +62,10 @@
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-6 / passage[2]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἔστε κα ταλικοῦτος ὄγκος τοῦ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-7 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-7 / passage[3]",
@@ -68,8 +88,16 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"θέν, καὶ διά τε τοῦ ἄξονος τοῦ\""
   },
   {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-8 / passage[3]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"λοιποῦ σχήματος τοῦ ἐκτὸς\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-9 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-9 / passage[2]",
@@ -78,6 +106,14 @@
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-9 / passage[2]",
     "note": "<del> excluded from reading text: \"τρον τοῦ βάρεός ἐστιν ἐπὶ τᾶς ΖΘ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-1 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-2 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-2 / passage[2]",
@@ -104,16 +140,40 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἁ ΚΩ παρὰ τὰν ΙΣ ἐφαπτομένα κατὰ\""
   },
   {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-3 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-4 / passage[0]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σονα λόγον ἔχῃ τοῦ ὃν ἔχει\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-4 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-5 / passage[1]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"portionis\""
   },
   {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-6 / passage[1]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"sectionals\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-6 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-6 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-7 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-7 / passage[2]",
@@ -128,6 +188,10 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"διπλασία τᾶς Χ. Δῆλον οὖν ὅτι\""
   },
   {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-8 / passage[3]",
     "note": "<del> excluded from reading text: \"τοῦ τμήματος\""
   },
@@ -138,6 +202,14 @@
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-8 / passage[6]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κέντρον τοῦ βάρεος τοῦ ἐκτὸς τοῦ ὑγροῦ ἐπὶ τᾶς ἐκβληθείσας. Ἔστω τὸ Γ, καὶ ἄχθωσαν κά\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-8 / passage[7]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[3]",
@@ -180,6 +252,10 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"νείας ὃν δὲ λόγον ἔχοντος τῷ\""
   },
   {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[2]",
     "note": "<del> excluded from reading text: \"ἐὰν\""
   },
@@ -204,8 +280,16 @@
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[11]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[12]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"et (??)Χ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[12]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[14]",
@@ -232,6 +316,10 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ τμάματος\""
   },
   {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[14]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[15]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ad tetragonum quod a BD\""
   },
@@ -253,7 +341,7 @@
   },
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[16]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[17]",
@@ -304,7 +392,11 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ϠΘ. Ἔστω δὴ ἁ ΗΑ΄ διπλασία\""
   },
   {
-    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[21]",
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[20]",
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[21]",
+    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   }
 ]

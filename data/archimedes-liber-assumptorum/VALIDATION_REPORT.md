@@ -1,6 +1,6 @@
 # Archimedes validation report - archimedes-liber-assumptorum
 
-Generated: 2026-09-11T00:12:37.215Z
+Generated: 2026-09-11T18:18:43.367Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -10,7 +10,7 @@ Generated: 2026-09-11T00:12:37.215Z
 - passages: 49
 - total passage chars: 18976
 - Mugler volume: 3 (1971)
-- anomalies logged: 0 <del>, 0 <add cause="omitted">, 0 <gap>, 4 <figure>
+- anomalies logged: 0 <del>, 0 <add cause="omitted">, 0 <gap>, 14 <figure>
 
 ## Per-division passage counts (leaf divisions only)
 
@@ -36,10 +36,20 @@ Generated: 2026-09-11T00:12:37.215Z
 
 - **archimedes-liber-assumptorum / entity decoding** - The numeric entity "&#9651;" was decoded to the real character ▵ (U+25B3) 270 time(s) in this file.
 - **archimedes-liber-assumptorum / character encoding** - Unicode NFC normalisation was applied to all extracted reading text (72 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation.
+- **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-1 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-2 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-3 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-4 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-5 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-6 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-7 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-8 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-9 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-10 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-11 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-12 / passage[0]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-13 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-14 / passage[2]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 
 ## Errors
 

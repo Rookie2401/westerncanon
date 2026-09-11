@@ -8,12 +8,20 @@
     "note": "Unicode NFC normalisation was applied to all extracted reading text (108 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-1 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-2 / passage[2]",
     "note": "<del> excluded from reading text: \"ἄρα\""
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-2 / passage[2]",
     "note": "<del> excluded from reading text: \"διὰ λῆμμα\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-2 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-2 / passage[3]",
@@ -32,6 +40,10 @@
     "note": "<del> excluded from reading text: \"φανερὸν ὅτι καὶ ὁμοίου τῷ ἐγγραφομένῳ, οὗ πλευρὰ ἡ ΝΓ\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-3 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-4 / passage[2]",
     "note": "<del> excluded from reading text: \"δυνατὸν γὰρ τοῦτο\""
   },
@@ -44,6 +56,10 @@
     "note": "<del> excluded from reading text: \"ΘΚ\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-4 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-5 / passage[2]",
     "note": "<del> excluded from reading text: \"καθώς ἐμάθομεν\""
   },
@@ -52,8 +68,20 @@
     "note": "<del> excluded from reading text: \"ὅμοια γάρ\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-5 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-6 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-7 / passage[2]",
     "note": "<del> excluded from reading text: \"τουτέστιν ἡ ἐπιφάνεια τῆς πυραμίδος χωρὶς τοῦ ΑΒΓ τριγώνου\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-7 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-7 / passage[3]",
@@ -80,6 +108,10 @@
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-9 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-10 / passage[2]",
     "note": "<del> excluded from reading text: \"ὡς ἐδείχθη ἐν τῷ λήμματι, τὰ δὲ ὑπὸ τῶν καθέτων καὶ τῶν βάσεων διπλασίονά ἐστιν τῶν τριγώνων\""
   },
@@ -90,6 +122,10 @@
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-10 / passage[2]",
     "note": "<del> excluded from reading text: \"φανερὸν γὰρ ὅτι ἡ ἀπὸ τῆς κορυφῆς τοῦ ὀρθοῦ κώνου ἐπὶ τὴν ἐφαπὴν τῆς βάσεως ἐπιζευγνυμένη κάθετός ἐστιν ἐπὶ τὴν ἐφαπτομένην\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-10 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-10 / passage[4]",
@@ -104,6 +140,10 @@
     "note": "<del> excluded from reading text: \"αἱ\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-11 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-11 / passage[3]",
     "note": "<del> excluded from reading text: \"τρίγωνα\""
   },
@@ -114,6 +154,10 @@
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-11 / passage[3]",
     "note": "<del> excluded from reading text: \"αἱ\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-11 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-11 / passage[4]",
@@ -130,6 +174,10 @@
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-12 / passage[2]",
     "note": "<del> excluded from reading text: \"μετὰ γὰρ τοῦ Κ μείζονος ὄντος τῶν σχημάτων ἴσαι ἧσαν αὐτοῖς\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-12 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-12 / passage[4]",
@@ -192,6 +240,10 @@
     "note": "<del> excluded from reading text: \"ἡ μὲν γὰρ ἐπιφάνεια τοῦ πρίσματος τοῦ περιγεγραμμένου περὶ τὸν κύλινδρον μείζων οὖσα δέδεικται τῆς ἐπιφανείας τοῦ κυλίνδρου, τὸ δὲ ἐγγεγραμμένον εὐθύγραμμον ἐν τῷ Β κύκλῳ ἔλασσόν ἐστιν τοῦ Β κύκλου\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-13 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-13 / passage[3]",
     "note": "<del> excluded from reading text: \"διότι\""
   },
@@ -216,6 +268,10 @@
     "note": "<del> excluded from reading text: \"ἡ μὲν γὰρ ἐπιφάνεια τῆς πυραμίδος μείζων οὖσα δέδεικται τῆς ἐπιφανείας τοῦ κώνου, τὸ δὲ ἐγγεγραμμένον εὐθύγραμμον ἐν τῷ Β κύκλῳ ἔλασσον ἔσται τοῦ Β κύκλου\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-14 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-14 / passage[3]",
     "note": "<del> excluded from reading text: \"ἡ γὰρ ἐκ τοῦ κέντρου τοῦ Α κύκλου πρὸς τὴν πλευρὰν τοῦ κώνου μείζονα λόγον ἔχει ἤπερ ἡ ἀπὸ τοῦ κέντρου ἀγομένη κάθετος ἐπὶ μίαν πλευρὰν τοῦ πολυγώνου πρὸς τὴν ἐπὶ τὴν πλευρὰν τοῦ πολυγώνου κάθετον ἀγομένην ἀπὸ τῆς κορυφῆς τοῦ κώνου\""
   },
@@ -236,12 +292,24 @@
     "note": "<del> excluded from reading text: \"Ε\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-15 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-16 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-16 / passage[3]",
     "note": "<del> excluded from reading text: \"Ἔστω\""
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-16 / passage[4]",
     "note": "<del> excluded from reading text: \"△Ζ\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-16 / passage[4]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-16 / passage[10]",
@@ -260,6 +328,10 @@
     "note": "<del> excluded from reading text: \"τρίγωνα\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-17 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-18 / passage[2]",
     "note": "<del> excluded from reading text: \"διὰ τὸ τὰς βάσεις αὐτῶν εἶναι ἴσας\""
   },
@@ -274,6 +346,14 @@
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-18 / passage[2]",
     "note": "<del> excluded from reading text: \"ὑπέκειτο γάρ\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-18 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-19 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-19 / passage[2]",
@@ -292,6 +372,10 @@
     "note": "<del> excluded from reading text: \"ὁμοίως δὴ ἴσος ἐστὶν ὁ ΟΠΡ κῶνος τῷ ΕΒ△Ζ ῥόμβῳ\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-20 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-21 / passage[2]",
     "note": "<del> excluded from reading text: \"καὶ\""
   },
@@ -304,8 +388,24 @@
     "note": "<del> excluded from reading text: \"καὶ πάντα ἄρα πρὸς πάντα ἐστὶν ὡς εἷς τῶν λόγων πρὸς ἕνα\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-21 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-22 / passage[2]",
     "note": "<del> excluded from reading text: \"καὶ ὡς ἄρα πάντα πρὸς πάντα, εἷς τῶν λόγων πρὸς ἕνα\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-22 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-23 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-24 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-25 / passage[1]",
@@ -324,11 +424,23 @@
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-26 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-27 / passage[2]",
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-28 / passage[0]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-29 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-30 / passage[0]",
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
@@ -384,6 +496,10 @@
     "note": "<del> excluded from reading text: \"ἡ Β πρὸς Γ. Ἡ δὲ Β πρὸς Γ ἐλάσσονα λόγον ἔχει ἤπερ\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-33 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-34 / passage[0]",
     "note": "<del> excluded from reading text: \"τοῦτο γὰρ φανερὸν διὰ λημμάτων\""
   },
@@ -408,6 +524,10 @@
     "note": "<del> excluded from reading text: \"ἐγγεγράφθω σχῆμα εἰς αὐτό, οἷον εἴρηται, περιεχόμενον ὑπὸ κωνικῶν ἐπιφανειῶν\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-35 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-36 / passage[0]",
     "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
@@ -418,6 +538,10 @@
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-37 / passage[2]",
     "note": "<del> excluded from reading text: \"καὶ γὰρ τοῦ ΛΘ, ΚΘ\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-37 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-38 / passage[2]",
@@ -438,6 +562,10 @@
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-39 / passage[1]",
     "note": "<del> excluded from reading text: \"ταῦτα γὰρ δέδεικται ἐν τοῖς λήμμασιν\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-39 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-39 / passage[3]",
@@ -484,12 +612,24 @@
     "note": "<del> excluded from reading text: \"ὅμοιοι ἄρα εἰσὶν οἱ κῶνοι\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-41 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-42 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-43 / passage[1]",
     "note": "<del> excluded from reading text: \"ἐπειδήπερ ἑκατέρα τετραπλασία ἐστὶ τοῦ περὶ διάμετρον τὴν ΒΓ κύκλου\""
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-43 / passage[1]",
     "note": "<del> excluded from reading text: \"δέδεικται γὰρ τοῦτο ἐπὶ τοῦ ἐλάσσονος ἡμισφαιρίου\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-43 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-44 / passage[1]",
@@ -516,6 +656,10 @@
     "note": "<del> excluded from reading text: \"ὁ γὰρ ἡμιόλιος κύλινδρος τῆς σφαίρας ἴσον ἔχει τὸν ἄξονα τῇ διαμέτρῳ τῆς σφαίρας, καὶ ὁ Κ κύκλος μέγιστός ἐστι τῶν ἐν τῇ σφαίρᾳ\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[4]",
     "note": "<del> excluded from reading text: \"ὡς ἄρα ἡ Γ△ πρὸς ΜΝ, τουτέστιν ὡς τὸ ἀπὸ τῆς Γ△ πρὸς τὸ ἀπὸ ΗΘ, οὕτως ὁ Ε κύκλος πρὸς τὸν Κ κύκλον\""
   },
@@ -537,7 +681,7 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[2]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[5]",
@@ -550,6 +694,18 @@
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[5]",
     "note": "<del> excluded from reading text: \"ἢ οὕτως· ἔστιν ἄρα, ὡς ὁ Ν κύκλος πρὸς τὸν περὶ διάμετρον τὴν ΒΖ κύκλον, οὕτως ἡ △Κ πρὸς τὸ ὕψος τοῦ Ν κώνου· ἴσος ἄρα ἐστὶν ὁ Ν κῶνος τῷ κώνῳ, οὗ βάσις μέν ἐστιν ὁ περὶ διάμετρον τὴν ΒΖ κύκλος, ὕψος δὲ ἡ △Κ· ἀντιπεπόνθασιν γὰρ αὐτῶν αἱ βάσεις τοῖς ὕψεσιν. Ἀλλʼ οὗτος ὁ κῶνος ἴσος ἐστὶ τῷ Β△ΖΚ στερεῷ ῥόμβῳ· καὶ ὁ Ν ἄρα κῶνος, τουτέστιν ἡ σφαῖρα, ἴση ἐστὶ τῷ ΒΖΚ△ στερεῷ ῥόμβῳ\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[5]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-3 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-4 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-4 / passage[3]",
@@ -600,6 +756,14 @@
     "note": "<del> excluded from reading text: \"διὰ τὸ ἴσον εἶναι τὸ ἀπὸ ΘΚ τῷ ὑπὸ τῶν ΑΒ, ς\""
   },
   {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-5 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-6 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-6 / passage[2]",
     "note": "<del> excluded from reading text: \"αἱ γὰρ ἐπιφάνειαι τῶν εἰρημένων τμημάτων ἴσαι ἐδείχθησαν κύκλοις, ὧν αἱ ἐκ τῶν κέντρων ἴσαι εἰσὶν ταῖς ἀπὸ τῶν κορυφῶν τῶν τμημάτων ἐπὶ τὰς βάσεις ἐπιζευγνυούσαις\""
   },
@@ -614,6 +778,10 @@
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[2]",
     "note": "<del> excluded from reading text: \"ὥστε καὶ τῆς Ε△ πρὸς △Ζ· δοθεῖσα ἄρα καὶ ἡ △Ζ\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[3]",
@@ -658,6 +826,10 @@
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]",
     "note": "<del> excluded from reading text: \"τοῦτο γὰρ ἐπὶ τέλει\""
+  },
+  {
+    "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[4]",
@@ -729,6 +901,6 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-9 / passage[2]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   }
 ]

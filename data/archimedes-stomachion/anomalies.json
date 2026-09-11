@@ -56,7 +56,15 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἄρα\""
   },
   {
+    "where": "archimedes-stomachion / division archimedes-stomachion-ch-1 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-stomachion / division archimedes-stomachion-ch-1 / passage[4]",
     "note": "<gap reason=\"omitted\"/> x6: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-stomachion / division archimedes-stomachion-ch-1 / passage[4]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   }
 ]

@@ -13,6 +13,8 @@
 
 export interface PassageFigure {
   image?: string;
+  imageWidth?: number;
+  imageHeight?: number;
   alt?: string;
   source: string;
   note?: string;

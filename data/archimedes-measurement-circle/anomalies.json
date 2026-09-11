@@ -8,12 +8,20 @@
     "note": "Unicode NFC normalisation was applied to all extracted reading text (11 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
   },
   {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-1 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-measurement-circle/images/)."
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-1 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-measurement-circle/images/)."
+  },
+  {
     "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-2 / passage[1]",
     "note": "<del> excluded from reading text: \"ἐπεὶ ἡ μὲν ΑΓ κάθετος ἴση ἐστὶ τῇ ἐκ τοῦ κέντρου, ἡ δὲ βάσις τῆς διαμέτρου τριπλασίων καὶ τῷ ζ΄ ἔγγιστα ὑπερέχουσα δειχθήσεται\""
   },
   {
     "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-2 / passage[1]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-measurement-circle/images/)."
   },
   {
     "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[1]",
@@ -29,7 +37,7 @@
   },
   {
     "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[1]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-measurement-circle/images/)."
   },
   {
     "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[2]",
@@ -54,5 +62,9 @@
   {
     "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[2]",
     "note": "<del> excluded from reading text: \"τὴν\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-measurement-circle/images/)."
   }
 ]

@@ -16,6 +16,29 @@ import type { Division, Passage, PassageFigure } from './genericTypes.ts';
 
 export class StopError extends Error {}
 
+/**
+ * Real diagram images, keyed by division id. Each entry is an ordered list of
+ * the division's own diagrams, consumed in source order as <figure> markers
+ * are encountered within that division - a division with N distinct printed
+ * diagrams referenced by M >= N markers repeats its last entry for any
+ * marker past the end of the list (the same printed diagram is being shown
+ * again, not a missing one). Every image was sourced by rendering the actual
+ * printed page from Heiberg's edition (archive.org euclidisoperaomn01... for
+ * Archimedes: wilbourhall.org / archive.org scans of Archimedis Opera Omnia,
+ * ed. Heiberg) and cropping tightly to just the diagram's own ink; each crop
+ * was checked by hand against the source page. Ships as pure black ink on a
+ * transparent PNG, used as a CSS mask (see .gr-figure__img) - never
+ * pre-tinted, so it renders in the app's own accent colour automatically.
+ */
+const DIAGRAMS: Record<string, readonly { image: string; width: number; height: number }[]> = {
+  'archimedes-measurement-circle-ch-1': [{ image: 'images/ch-1.png', width: 509, height: 498 }],
+  'archimedes-measurement-circle-ch-2': [{ image: 'images/ch-2.png', width: 1032, height: 357 }],
+  'archimedes-measurement-circle-ch-3': [
+    { image: 'images/ch-3-circumscribed.png', width: 877, height: 520 },
+    { image: 'images/ch-3-inscribed.png', width: 757, height: 385 },
+  ],
+};
+
 export interface Anomaly {
   where: string;
   note: string;
@@ -97,6 +120,8 @@ function buildPassage(
   anomalies: Anomaly[],
   stats: ConvertStats,
   where: string,
+  divisionId: string,
+  figureOccurrence: { n: number },
 ): Passage | null {
   // Markup-occurrence counts are tallied regardless of whether this paragraph
   // ends up producing a Passage (see the empty-text branch below).
@@ -147,15 +172,31 @@ function buildPassage(
     });
   }
   if (wp.figureCount > 0) {
-    const figure: PassageFigure = {
-      source: figureSource(entry, bookNumber, chapterLabel),
-      note: figureNote(wp.figureCount),
-    };
-    passage.figure = figure;
-    anomalies.push({
-      where,
-      note: `<figure> diagram marker (${wp.figureCount}) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.`,
-    });
+    const diagrams = DIAGRAMS[divisionId];
+    const diagram = diagrams?.[Math.min(figureOccurrence.n, diagrams.length - 1)];
+    figureOccurrence.n += wp.figureCount;
+    const source = figureSource(entry, bookNumber, chapterLabel);
+    if (diagram) {
+      const figure: PassageFigure = {
+        image: diagram.image,
+        imageWidth: diagram.width,
+        imageHeight: diagram.height,
+        alt: `Diagram for ${source}, from the printed edition (Heiberg, Archimedis Opera Omnia).`,
+        source,
+      };
+      passage.figure = figure;
+      anomalies.push({
+        where,
+        note: `<figure> diagram marker (${wp.figureCount}) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/${entry.workId}/images/).`,
+      });
+    } else {
+      const figure: PassageFigure = { source, note: figureNote(wp.figureCount) };
+      passage.figure = figure;
+      anomalies.push({
+        where,
+        note: `<figure> diagram marker (${wp.figureCount}) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.`,
+      });
+    }
   }
   return passage;
 }
@@ -173,6 +214,7 @@ function buildChapterDivision(
   const sourceHeading =
     chapterDiv.head !== null && !isBareNumeralHeading(chapterDiv.head) ? chapterDiv.head : null;
 
+  const figureOccurrence = { n: 0 };
   const passages: Passage[] = chapterDiv.paragraphs
     .map((wp, i) =>
       buildPassage(
@@ -184,6 +226,8 @@ function buildChapterDivision(
         anomalies,
         stats,
         `${entry.workId} / division ${id} / passage[${i}]`,
+        id,
+        figureOccurrence,
       ),
     )
     .filter((p): p is Passage => p !== null);
@@ -295,6 +339,7 @@ function convertFragments(
     }
 
     const passages: Passage[] = [];
+    const figureOccurrence = { n: 0 };
     sections.forEach((sec) => {
       // Section head e.g. "1. Pappus V, 34, ed. Hultsch, p. 352." names the
       // ancient secondary source this fragment is quoted from - strip the
@@ -305,7 +350,18 @@ function convertFragments(
       const citation = sec.head ? sec.head.replace(/^\d+\.\s*/, '') : null;
       sec.paragraphs.forEach((wp, pi) => {
         const where = `${entry.workId} / division ${id} / section ${sec.n} / passage[${pi}]`;
-        const passage = buildPassage(entry, null, `${chapterDiv.n}.${sec.n}`, wp, citation, anomalies, stats, where);
+        const passage = buildPassage(
+          entry,
+          null,
+          `${chapterDiv.n}.${sec.n}`,
+          wp,
+          citation,
+          anomalies,
+          stats,
+          where,
+          id,
+          figureOccurrence,
+        );
         if (passage) passages.push(passage);
       });
     });

@@ -51,7 +51,7 @@
         "Editorial deletions. 15 <del> span(s) (text the editor marks as not belonging in the received text) were excluded from the reading text; each occurrence is individually logged in anomalies.json.",
         "Lacunae. 6 <gap reason=\"omitted\"/> marker(s) (a true gap in the manuscript tradition) occur in this text. No placeholder text is inserted for a gap; the affected passage instead carries an explicit note that a lacuna occurs there, and every occurrence is logged in anomalies.json.",
         "Editorial restorations. 50 <add cause=\"omitted\"> span(s) (an editor's conjectural restoration of text judged missing from the manuscript) are, unlike a <gap>, included in the reading text as printed; every occurrence is logged in anomalies.json as a restoration, distinct from a lacuna.",
-        "Diagrams. 8 <figure> marker(s) occur in the source, each pointing to a dead heml.mta.ca URL with no usable image data (the same dead end already confirmed for this library's Euclid importer). No image is fabricated or substituted: each marked passage instead carries an honest note that a diagram appears in the printed edition and is not yet available in this build, with a citation to exactly where in Mugler's edition it belongs."
+        "Diagrams. 33 <figure> marker(s) occur in the source, each pointing to a dead heml.mta.ca URL with no usable image data (the same dead end already confirmed for this library's Euclid importer). No image is fabricated or substituted: each marked passage instead carries an honest note that a diagram appears in the printed edition and is not yet available in this build, with a citation to exactly where in Mugler's edition it belongs."
       ]
     }
   ]

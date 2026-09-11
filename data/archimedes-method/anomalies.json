@@ -84,6 +84,10 @@
     "note": "<del> excluded from reading text: \"ἐν τῷ προγεγραμμένῳ Κωνοειδῶν\""
   },
   {
+    "where": "archimedes-method / division archimedes-method-ch-1 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-method / division archimedes-method-ch-1 / passage[2]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"θω ἡ ΓΒ ἐπὶ τὸ Κ, καὶ κείσθω τῇ ΓΚ ἴση ἡ ΚΘ\""
   },
@@ -112,6 +116,10 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σφαίρᾳ\""
   },
   {
+    "where": "archimedes-method / division archimedes-method-ch-2 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-method / division archimedes-method-ch-2 / passage[3]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἀμφοτέρους τοὺς κύκλους τόν τε ἐν τῷ κώνῳ, οὗ διάμετρος ἡ ΠΡ,\""
   },
@@ -128,6 +136,10 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"θὸν πρὸς τὴν ΑΓ ποιήσει δὴ τοῦτο ἐν\""
   },
   {
+    "where": "archimedes-method / division archimedes-method-ch-3 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-method / division archimedes-method-ch-3 / passage[2]",
     "note": "<del> excluded from reading text: \"ἀμφότεροι γὰρ οἱ λόγοι ἐν τῷ τῆς πλαγίας πρὸς τὴν ὀρθίαν εἰσίν\""
   },
@@ -142,6 +154,10 @@
   {
     "where": "archimedes-method / division archimedes-method-ch-4 / passage[1]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὴν Α△, νοείσθω δὲ κῶνος βάσιν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-4 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-4 / passage[2]",
@@ -164,6 +180,10 @@
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"△Α ἐκβληθείσης ἴση αὐτῇ κείσθω ἡ ΑΘ, καὶ\""
   },
   {
+    "where": "archimedes-method / division archimedes-method-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
     "where": "archimedes-method / division archimedes-method-ch-5 / passage[2]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τρος ἡ ΠΡ. Ἰσορροπήσει ἄρα πε\""
   },
@@ -178,6 +198,10 @@
   {
     "where": "archimedes-method / division archimedes-method-ch-6 / passage[0]",
     "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ βάρους ἐπὶ τῆς εὐθείας ἐστίν, ἥ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
@@ -661,7 +685,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-12 / passage[1]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-12 / passage[2]",

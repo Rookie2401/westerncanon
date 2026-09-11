@@ -17,6 +17,8 @@ export interface AboutStats {
   addCount: number;
   delCount: number;
   figureCount: number;
+  /** how many of figureCount's markers carry a real, hand-verified diagram image (vs. an honest note) */
+  figureImageCount: number;
   triangleDecodeCount: number;
   nfcDiffCount: number;
   hasLb: boolean;
@@ -125,9 +127,14 @@ export function buildAboutSections(entry: ArchimedesWorkEntry, stats: AboutStats
       `Editorial restorations. ${stats.addCount} <add cause="omitted"> span(s) (an editor's conjectural restoration of text judged missing from the manuscript) are, unlike a <gap>, included in the reading text as printed; every occurrence is logged in anomalies.json as a restoration, distinct from a lacuna.`,
     );
   }
-  if (stats.figureCount > 0) {
+  if (stats.figureCount > 0 && stats.figureImageCount === 0) {
     gapsParas.push(
       `Diagrams. ${stats.figureCount} <figure> marker(s) occur in the source, each pointing to a dead heml.mta.ca URL with no usable image data (the same dead end already confirmed for this library's Euclid importer). No image is fabricated or substituted: each marked passage instead carries an honest note that a diagram appears in the printed edition and is not yet available in this build, with a citation to exactly where in Mugler's edition it belongs.`,
+    );
+  } else if (stats.figureCount > 0) {
+    const remaining = stats.figureCount - stats.figureImageCount;
+    gapsParas.push(
+      `Diagrams. ${stats.figureCount} <figure> marker(s) occur in the source; each points to a dead heml.mta.ca URL with no usable image data (the same dead end already confirmed for this library's Euclid importer), so no image could be recovered via the TEI itself. ${stats.figureImageCount} of these instead carry a real diagram image: each was sourced by downloading the actual public-domain scan of Heiberg's printed edition (Archimedis Opera Omnia, archive.org), rendering the exact page the diagram appears on at high resolution, and cropping tightly to just the diagram's own lines - never redrawn, fabricated, or reconstructed from the text. Every crop was checked by hand against the source page before being committed. The ink is kept exactly as printed (no lines added, moved, or straightened); only its presentation is adapted to the app's own design, exactly as this library's Euclid importer already does for Book I - the aged-paper background is dropped in favour of a transparent one, and the linework is shown as a CSS mask in the app's own accent colour, so it sits on the page the same way in both light and dark mode. ${remaining > 0 ? `The remaining ${remaining} marker(s) are preserved as an honest "not yet available" note, with the same exact-citation convention.` : ''} All ${stats.figureCount} markers (image or note) are logged individually in anomalies.json with their division id.`,
     );
   }
   for (const extra of KNOWN_GAPS[entry.workId] ?? []) gapsParas.push(extra);

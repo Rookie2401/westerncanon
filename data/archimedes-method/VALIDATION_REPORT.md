@@ -1,6 +1,6 @@
 # Archimedes validation report - archimedes-method
 
-Generated: 2026-09-11T00:12:37.215Z
+Generated: 2026-09-11T18:18:43.367Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -10,7 +10,7 @@ Generated: 2026-09-11T00:12:37.215Z
 - passages: 53
 - total passage chars: 52297
 - Mugler volume: 3 (1971)
-- anomalies logged: 10 <del>, 225 <add cause="omitted">, 9 <gap>, 6 <figure>
+- anomalies logged: 10 <del>, 225 <add cause="omitted">, 9 <gap>, 12 <figure>
 
 ## Per-division passage counts (leaf divisions only)
 
@@ -57,6 +57,7 @@ Generated: 2026-09-11T00:12:37.215Z
 - **archimedes-method / division archimedes-method-ch-pr2 / passage[6]** - <add cause="omitted"> editorial restoration included in reading text: "Κύκλου"
 - **archimedes-method / division archimedes-method-ch-pr2 / passage[6]** - <add cause="omitted"> editorial restoration included in reading text: "τοῦ κύκλου"
 - **archimedes-method / division archimedes-method-ch-pr2 / passage[10]** - <del> excluded from reading text: "ἐν τῷ προγεγραμμένῳ Κωνοειδῶν"
+- **archimedes-method / division archimedes-method-ch-1 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-method / division archimedes-method-ch-1 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "θω ἡ ΓΒ ἐπὶ τὸ Κ, καὶ κείσθω τῇ ΓΚ ἴση ἡ ΚΘ"
 - **archimedes-method / division archimedes-method-ch-1 / passage[3]** - <del> excluded from reading text: "τοῦτο γὰρ ἐν λήμματι δείκνυται"
 - **archimedes-method / division archimedes-method-ch-1 / passage[3]** - <del> excluded from reading text: "Τοῦτο οὖν φανερόν ἐστιν"
@@ -64,23 +65,28 @@ Generated: 2026-09-11T00:12:37.215Z
 - **archimedes-method / division archimedes-method-ch-2 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "ποιήσει δὴ κύκλον ὀρθὸν πρὸς"
 - **archimedes-method / division archimedes-method-ch-2 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "κύκλον,"
 - **archimedes-method / division archimedes-method-ch-2 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "σφαίρᾳ"
+- **archimedes-method / division archimedes-method-ch-2 / passage[2]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-method / division archimedes-method-ch-2 / passage[3]** - <add cause="omitted"> editorial restoration included in reading text: "ἀμφοτέρους τοὺς κύκλους τόν τε ἐν τῷ κώνῳ, οὗ διάμετρος ἡ ΠΡ,"
 - **archimedes-method / division archimedes-method-ch-2 / passage[4]** - <add cause="omitted"> editorial restoration included in reading text: "οὗ ἐστι τὸ διὰ τοῦ ἄξονος παραλ"
 - **archimedes-method / division archimedes-method-ch-3 / passage[0]** - <add cause="omitted"> editorial restoration included in reading text: "καὶ ὅτι ὁ κύλινδρος ὁ τὴν μὲν βάσιν"
 - **archimedes-method / division archimedes-method-ch-3 / passage[1]** - <add cause="omitted"> editorial restoration included in reading text: "θὸν πρὸς τὴν ΑΓ ποιήσει δὴ τοῦτο ἐν"
+- **archimedes-method / division archimedes-method-ch-3 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-method / division archimedes-method-ch-3 / passage[2]** - <del> excluded from reading text: "ἀμφότεροι γὰρ οἱ λόγοι ἐν τῷ τῆς πλαγίας πρὸς τὴν ὀρθίαν εἰσίν"
 - **archimedes-method / division archimedes-method-ch-3 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "ειδὲς καὶ τὸν κῶνον"
 - **archimedes-method / division archimedes-method-ch-3 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "ιπλα"
 - **archimedes-method / division archimedes-method-ch-4 / passage[1]** - <add cause="omitted"> editorial restoration included in reading text: "τὴν Α△, νοείσθω δὲ κῶνος βάσιν"
+- **archimedes-method / division archimedes-method-ch-4 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-method / division archimedes-method-ch-4 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "εἶναι τοῦ βάρους τὸ"
 - **archimedes-method / division archimedes-method-ch-4 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "καί ἐστι τοῦ"
 - **archimedes-method / division archimedes-method-ch-4 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "κύκλου, οὗ διάμετρός ἐστιν ἡ"
 - **archimedes-method / division archimedes-method-ch-4 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "ἡ ΘΑ πρὸς τὴν ΑΚ, ὃν ὁ"
 - **archimedes-method / division archimedes-method-ch-5 / passage[1]** - <add cause="omitted"> editorial restoration included in reading text: "△Α ἐκβληθείσης ἴση αὐτῇ κείσθω ἡ ΑΘ, καὶ"
+- **archimedes-method / division archimedes-method-ch-5 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-method / division archimedes-method-ch-5 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "τρος ἡ ΠΡ. Ἰσορροπήσει ἄρα πε"
 - **archimedes-method / division archimedes-method-ch-5 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "κατὰ τὸ Θ σημεῖον οὕτως, ὥστε"
 - **archimedes-method / division archimedes-method-ch-5 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "ὥστε τὴν ΑΘ"
 - **archimedes-method / division archimedes-method-ch-6 / passage[0]** - <add cause="omitted"> editorial restoration included in reading text: "τοῦ βάρους ἐπὶ τῆς εὐθείας ἐστίν, ἥ"
+- **archimedes-method / division archimedes-method-ch-6 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-method / division archimedes-method-ch-6 / passage[2]** - <gap reason="omitted"/> x19: a lacuna in the source; no text supplied.
 - **archimedes-method / division archimedes-method-ch-6 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "ΑΕ, EΞ, τῇ δὲ ΑΕ ἴση ἡ ΕΠ, ὡς ἄρα ἡ ΑΓ"
 - **archimedes-method / division archimedes-method-ch-6 / passage[2]** - <add cause="omitted"> editorial restoration included in reading text: "τὸ Ε, τοῦ δὲ κύκλου, οὗ ἐστι διάμετρος ἡ ΠΡ, μετενεχθέντος τὸ Θ, ἔστιν ὡς ἡ ΕΑ πρὸς ΑΘ, οὕτως ὁ κύκλος, οὗ διάμετρος ἡ ΠΡ, πρὸς τοὺς κύκλους, ὧν διάμετροι αἱ"
@@ -201,7 +207,7 @@ Generated: 2026-09-11T00:12:37.215Z
 - **archimedes-method / division archimedes-method-ch-12 / passage[0]** - <add cause="omitted"> editorial restoration included in reading text: "ἕκτον"
 - **archimedes-method / division archimedes-method-ch-12 / passage[1]** - <add cause="omitted"> editorial restoration included in reading text: "κύκλος, καὶ ἐφαπτέσθω ὁ κύκλος"
 - **archimedes-method / division archimedes-method-ch-12 / passage[1]** - <add cause="omitted"> editorial restoration included in reading text: "ἐν τῷ ἡμικυλινδρίῳ πρὸς τὸ γε"
-- **archimedes-method / division archimedes-method-ch-12 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-method / division archimedes-method-ch-12 / passage[1]** - <figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-method / division archimedes-method-ch-12 / passage[2]** - <del> excluded from reading text: "ὅτι"
 - **archimedes-method / division archimedes-method-ch-13 / passage[0]** - <gap reason="omitted"/> x1: a lacuna in the source; no text supplied.
 - **archimedes-method / division archimedes-method-ch-13 / passage[0]** - <add cause="omitted"> editorial restoration included in reading text: "ὀρθὸν πρὸς"

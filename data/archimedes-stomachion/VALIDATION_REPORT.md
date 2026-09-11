@@ -1,6 +1,6 @@
 # Archimedes validation report - archimedes-stomachion
 
-Generated: 2026-09-11T00:12:37.215Z
+Generated: 2026-09-11T18:18:43.366Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -10,7 +10,7 @@ Generated: 2026-09-11T00:12:37.215Z
 - passages: 5
 - total passage chars: 2341
 - Mugler volume: 3 (1971)
-- anomalies logged: 0 <del>, 9 <add cause="omitted">, 4 <gap>, 0 <figure>
+- anomalies logged: 0 <del>, 9 <add cause="omitted">, 4 <gap>, 2 <figure>
 
 ## Per-division passage counts (leaf divisions only)
 
@@ -34,7 +34,9 @@ Generated: 2026-09-11T00:12:37.215Z
 - **archimedes-stomachion / division archimedes-stomachion-ch-1 / passage[3]** - <add cause="omitted"> editorial restoration included in reading text: "ἴση"
 - **archimedes-stomachion / division archimedes-stomachion-ch-1 / passage[3]** - <add cause="omitted"> editorial restoration included in reading text: "στε"
 - **archimedes-stomachion / division archimedes-stomachion-ch-1 / passage[3]** - <add cause="omitted"> editorial restoration included in reading text: "ἄρα"
+- **archimedes-stomachion / division archimedes-stomachion-ch-1 / passage[3]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-stomachion / division archimedes-stomachion-ch-1 / passage[4]** - <gap reason="omitted"/> x6: a lacuna in the source; no text supplied.
+- **archimedes-stomachion / division archimedes-stomachion-ch-1 / passage[4]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 
 ## Errors
 

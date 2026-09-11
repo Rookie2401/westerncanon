@@ -16,8 +16,12 @@
 export type Lang = 'grc';
 
 export interface PassageFigure {
-  /** same-origin path if a real image is ever bundled; omitted here (see about.json) */
+  /** same-origin path to a real diagram image, when one is bundled (see about.json) */
   image?: string;
+  /** pixel dimensions of the image, so the reader can reserve its aspect ratio
+   *  before the (mask-only, intrinsically sizeless) image loads. Set whenever image is set. */
+  imageWidth?: number;
+  imageHeight?: number;
   alt?: string;
   /** exact edition/book/section citation this figure marker traces to */
   source: string;

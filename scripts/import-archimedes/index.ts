@@ -50,6 +50,15 @@ function countDivisions(divs: { children: unknown[] }[]): number {
   return n;
 }
 
+function countFigureImages(divs: { children: unknown[]; passages: { figure?: { image?: string } }[] }[]): number {
+  let n = 0;
+  for (const d of divs) {
+    for (const p of d.passages) if (p.figure?.image) n += 1;
+    n += countFigureImages(d.children as typeof divs);
+  }
+  return n;
+}
+
 function main(): void {
   process.stdout.write(`Archimedes importer - ${ARCHIMEDES_WORKS.length} works\n\n`);
 
@@ -116,6 +125,9 @@ function main(): void {
     const work: GenericWork = { workId: entry.workId, language: 'grc', divisions };
 
     const divisionCount = countDivisions(divisions as { children: unknown[] }[]);
+    const figureImageCount = countFigureImages(
+      divisions as { children: unknown[]; passages: { figure?: { image?: string } }[] }[],
+    );
     const pbFirst = pbValues[0] ?? '';
     const pbLast = pbValues[pbValues.length - 1] ?? '';
 
@@ -127,6 +139,7 @@ function main(): void {
       addCount: stats.addCount,
       delCount: stats.delCount,
       figureCount: stats.figureCount,
+      figureImageCount,
       triangleDecodeCount,
       nfcDiffCount: nfcDiffs,
       hasLb,

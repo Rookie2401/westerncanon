@@ -105,6 +105,12 @@ export function walkEdition(xml: string, fileLabel: string): WalkResult {
   const pAddExcerpts: string[] = [];
   const pDelExcerpts: string[] = [];
   let pFig = 0;
+  // A <figure> can sit directly between </p> and the next <p> (illustrating
+  // the construction the upcoming paragraph is about to carry out), rather
+  // than inside either paragraph's own text. Track those separately so they
+  // carry forward into the paragraph that opens next, instead of vanishing
+  // when pFig resets to 0 for it.
+  let pendingFig = 0;
 
   let delDepth = 0;
   let delOpenEnd = 0;
@@ -133,6 +139,23 @@ export function walkEdition(xml: string, fileLabel: string): WalkResult {
       root = { kind: 'edition', n: null, head: null, paragraphs: [], children: [] };
       stack.push(root);
     } else if (tok === '</div>') {
+      // A pendingFig here means a <figure> sat between the division's last
+      // </p> and this </div>, with no following <p> in the same division to
+      // carry it forward into (the usual case - see the <p> handler above).
+      // It's a trailing diagram for the proof that just ended, so attach it
+      // backward onto that division's own last paragraph instead of letting
+      // it leak into whatever division opens next.
+      if (pendingFig > 0) {
+        const closing = stack[stack.length - 1];
+        const lastP = closing?.paragraphs[closing.paragraphs.length - 1];
+        if (!lastP) {
+          throw new Error(
+            `${fileLabel}: ${pendingFig} <figure> marker(s) at the end of an empty division, with no paragraph to attach to`,
+          );
+        }
+        lastP.figureCount += pendingFig;
+        pendingFig = 0;
+      }
       stack.pop();
     } else if (tok.startsWith('<pb ')) {
       curPage = m[3] ?? '';
@@ -154,7 +177,8 @@ export function walkEdition(xml: string, fileLabel: string): WalkResult {
       pAdd = 0;
       pAddExcerpts.length = 0;
       pDelExcerpts.length = 0;
-      pFig = 0;
+      pFig = pendingFig;
+      pendingFig = 0;
     } else if (tok === '</p>') {
       inP = false;
       const text = cleanText(buf);
@@ -188,7 +212,8 @@ export function walkEdition(xml: string, fileLabel: string): WalkResult {
     } else if (tok.startsWith('<gap ')) {
       pGap += 1;
     } else if (tok === '<figure>') {
-      pFig += 1;
+      if (inP) pFig += 1;
+      else pendingFig += 1;
     }
     // else: generic catch-all <[^>]+> (e.g. <lg>, </lg>, <l>, <l rend="...">,
     // </l>, <graphic .../>, </figure>) - tag stripped, any enclosed free text
