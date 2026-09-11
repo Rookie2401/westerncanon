@@ -1,7 +1,7 @@
 [
   {
     "where": "archimedes-fragments / entity decoding",
-    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 2 time(s) in this file."
+    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 0 time(s) in this file."
   },
   {
     "where": "archimedes-fragments / character encoding",

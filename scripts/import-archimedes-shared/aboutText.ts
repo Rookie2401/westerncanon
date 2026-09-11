@@ -26,6 +26,9 @@ export interface AboutStats {
 
 /** Per-work known-gaps prose that cannot be derived from generic counts alone. */
 const KNOWN_GAPS: Partial<Record<string, string[]>> = {
+  'archimedes-sand-reckoner': [
+    'Corrected transcription gap (verified against print). This work was spot-checked letter-for-letter against J. L. Heiberg\'s original 1880 printed edition (Archimedis Opera Omnia, vol. II, p. 260). One numeral, "τ" (300), was missing from the digital source in the sentence where Archimedes restates his enlarged upper bound for the earth\'s circumference ("τὰν περίμετρον αὐτᾶς ὑποτίθεμαι εἶμεν ὡς [τ] μυριάδων σταδίων" - "I take the circumference of the earth to be not greater than [300] myriad stadia"). The identical numeral for the same "300 myriad stadia" figure appears twice earlier in the same paragraph, and the sentence is not grammatically complete without it, confirming this was a transcription slip rather than a genuine reading of Mugler\'s edition; it has been restored here from Heiberg\'s print.',
+  ],
   'archimedes-conoids-spheroids': [
     'Proposition 29 is absent from the traditional numbering this edition follows (the sequence runs ...28, 30, 31, 32): this is not an importer error or a dropped section, it is how the propositions are numbered in the source.',
   ],
@@ -39,6 +42,7 @@ const KNOWN_GAPS: Partial<Record<string, string[]>> = {
     'Only the opening of this work survives; it is fragmentary by nature, not by any omission on the importer\'s part. The single numbered division below is the whole of what the tradition preserves.',
   ],
   'archimedes-fragments': [
+    'Corrected transcription gap (verified against print). This work was spot-checked letter-for-letter against J. L. Heiberg\'s original 1880 printed edition (Archimedis Opera Omnia, vol. II, p. 458). The digital source described the first of the thirteen Archimedean solids (the truncated tetrahedron) as bounded "ὑπὸ τριγώνων ▵Ζ καὶ ἑξαγώνων δ" - a corrupted numeral ("triangle" plus Zeta) where the printed edition reads "ὑπὸ τριγώνων δ᾿ καὶ ἑξαγώνων δ᾿" (bounded by 4 triangles and 4 hexagons, matching the solid\'s actual geometry: 4 + 4 = 8 faces, an "ὀκτάεδρον"). The same corrupted numeral recurred a second time later in this work, in the separate testimonium restating the same solid\'s face/vertex/edge counts ("τριγώνοις ▵Ζ καὶ ἑξαγώνοις δ, γωνίας μὲν ἔχει στερεὰς ιβ, πλευρὰς δὲ ιη") - confirmed as the same error there too, independently of the print, by the passage\'s own next sentence, which explicitly refers back to "τεσσάρων τριγώνων" ("the four triangles"). Both instances have been corrected to δ.',
     'Fragment II\'s chapter heading is printed in the source as "GATOPTRICA" (with a G, not a C). This is very likely a transcription slip for "Catoptrica" (Περὶ κατοπτρικῶν, "On mirrors" / optics) - but it is kept exactly as transmitted, not silently corrected, per this app\'s rule against ever emending source text.',
     'Each fragment in this work is a quotation embedded in a later author\'s own book (Pappus, an anonymous Vatican scholiast on Pappus, Hero of Alexandria, Theon of Alexandria) - Archimedes\' own words survive only because someone else quoted them. For that reason every passage\'s `ref` here cites that secondary source and location (e.g. "Pappus V, 34, ed. Hultsch, p. 352"), rather than a Mugler page number as in the other 12 works; the Mugler volume/page span is still given at the division level.',
   ],

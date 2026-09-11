@@ -1,6 +1,6 @@
 # Archimedes validation report - archimedes-sand-reckoner
 
-Generated: 2026-09-06T00:56:19.971Z
+Generated: 2026-09-11T00:12:37.214Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -8,7 +8,7 @@ Generated: 2026-09-06T00:56:19.971Z
 
 - divisions (incl. Book containers): 4
 - passages: 4
-- total passage chars: 30299
+- total passage chars: 30301
 - Mugler volume: 2 (1971)
 - anomalies logged: 3 <del>, 0 <add cause="omitted">, 0 <gap>, 1 <figure>
 
@@ -16,7 +16,7 @@ Generated: 2026-09-06T00:56:19.971Z
 
 | id | number | sourceHeading | passages | chars |
 |----|--------|---------------|----------|-------|
-| archimedes-sand-reckoner-ch-1 | 1 | - | 1 | 11779 |
+| archimedes-sand-reckoner-ch-1 | 1 | - | 1 | 11781 |
 | archimedes-sand-reckoner-ch-2 | 2 | - | 1 | 2568 |
 | archimedes-sand-reckoner-ch-3 | 3 | - | 1 | 4357 |
 | archimedes-sand-reckoner-ch-4 | 4 | - | 1 | 11595 |
