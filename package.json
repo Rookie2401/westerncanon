@@ -24,9 +24,7 @@
     "import:aristotle-deint-la": "tsx scripts/import-aristotle-deint-la/index.ts",
     "validate:aristotle": "tsx scripts/import-aristotle-shared/validate.ts",
     "import:euclid": "tsx scripts/import-euclid/index.ts",
-    "validate:euclid": "tsx scripts/import-euclid-shared/validate.ts",
-    "import:archimedes": "tsx scripts/import-archimedes/index.ts",
-    "validate:archimedes": "tsx scripts/import-archimedes-shared/validate.ts"
+    "validate:euclid": "tsx scripts/import-euclid-shared/validate.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",
