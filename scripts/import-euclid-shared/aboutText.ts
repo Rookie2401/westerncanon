@@ -172,6 +172,17 @@ export const ABOUT_SECTIONS: AboutSection[] = [
         'restored; every exclusion is logged individually in anomalies.json with its verbatim excerpt.',
       'Editorial insertions. Four <add> supplements (single words/letters Heiberg supplies where the ' +
         'manuscripts are defective) are kept in the reading text verbatim and logged individually.',
+      'Corrected transcription errors (verified against print and internal consistency). 33 point-letters ' +
+        '— a labelled point in a geometric figure, e.g. the "Θ" in "τὰ Η, Θ" — were found lowercase and ' +
+        'unmarked in the source (e.g. bare "θ," instead of "<num>Θ</num>,"), always at the exact position ' +
+        'immediately after a line-break marker, spread across Books I, III–X and XII. One (Book VIII, ' +
+        'Proposition 1) was checked letter-for-letter against Heiberg’s 1883 printed page, which prints it ' +
+        'capitalised; the printed page also confirmed each of the surrounding 33 was itself already correct, ' +
+        'establishing the same slip as the cause throughout. Every one of the other 32 is independently ' +
+        'confirmed by the same point-letter appearing correctly capitalised elsewhere in the immediately ' +
+        'surrounding sentence — e.g. Book I.38’s "ἐπὶ τὰ Η, θ," is followed two lines later by "παράλληλος ' +
+        'ἤχθω ἡ ΖΘ", which only parses if the point is Θ. All 33 are corrected to their capitalised, ' +
+        'properly-marked form.',
       'Diagrams. See "Diagrams" above: Book I’s 48 propositions carry a real diagram image, sourced ' +
         'from Heiberg’s printed scan and hand-checked; the remaining 450 markers (Books II–XIII) are ' +
         'preserved as honest citation notes. Never a fabricated image, either way.',
