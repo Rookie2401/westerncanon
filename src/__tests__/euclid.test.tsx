@@ -187,11 +187,11 @@ describe('GenericReader (Euclid Elements)', () => {
   });
 
   it('renders a passage carrying a diagram marker for a book without a real image yet as an honest note, never as a figure mask', async () => {
-    renderAt('book-3-prop-1');
+    renderAt('book-4-prop-1');
     expect(
       await screen.findByText(/A diagram appears here in the printed edition/i),
     ).toBeTruthy();
-    expect(screen.getByText('Heiberg, Elements III.1')).toBeTruthy();
+    expect(screen.getByText('Heiberg, Elements IV.1')).toBeTruthy();
     expect(document.querySelector('.gr-figure__img')).toBeNull();
     expect(document.querySelector('.gr-figure img')).toBeNull();
     expect(document.querySelector('img')).toBeNull();
@@ -205,6 +205,18 @@ describe('GenericReader (Euclid Elements)', () => {
     expect(fig!.getAttribute('role')).toBe('img');
     expect(fig!.style.maskImage).toContain('euclid-elements/images/book-2-prop-4.png');
     expect(fig!.getAttribute('aria-label')).toMatch(/Heiberg, Elements II\.4/);
+    expect(document.querySelector('.gr-figure img')).toBeNull();
+    expect(screen.queryByText(/not yet available in this build/i)).toBeNull();
+  });
+
+  it("renders Book III's real diagram as a mask-tinted figure, with its citation and alt text, the same as Book I and II", async () => {
+    renderAt('book-3-prop-1');
+    expect(await screen.findByText('Heiberg, Elements III.1')).toBeTruthy();
+    const fig = document.querySelector<HTMLElement>('.gr-figure__img');
+    expect(fig).toBeTruthy();
+    expect(fig!.getAttribute('role')).toBe('img');
+    expect(fig!.style.maskImage).toContain('euclid-elements/images/book-3-prop-1.png');
+    expect(fig!.getAttribute('aria-label')).toMatch(/Heiberg, Elements III\.1/);
     expect(document.querySelector('.gr-figure img')).toBeNull();
     expect(screen.queryByText(/not yet available in this build/i)).toBeNull();
   });

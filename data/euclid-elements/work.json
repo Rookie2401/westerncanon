@@ -3378,7 +3378,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.1",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-1.png",
+                    "imageWidth": 276,
+                    "imageHeight": 266,
+                    "alt": "Diagram for Heiberg, Elements III.1, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3427,7 +3430,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.2",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-2.png",
+                    "imageWidth": 270,
+                    "imageHeight": 261,
+                    "alt": "Diagram for Heiberg, Elements III.2, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3471,7 +3477,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.3",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-3.png",
+                    "imageWidth": 266,
+                    "imageHeight": 255,
+                    "alt": "Diagram for Heiberg, Elements III.3, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3505,7 +3514,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.4",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-4.png",
+                    "imageWidth": 256,
+                    "imageHeight": 187,
+                    "alt": "Diagram for Heiberg, Elements III.4, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3554,7 +3566,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.5",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-5.png",
+                    "imageWidth": 259,
+                    "imageHeight": 222,
+                    "alt": "Diagram for Heiberg, Elements III.5, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3588,7 +3603,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.6",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-6.png",
+                    "imageWidth": 249,
+                    "imageHeight": 274,
+                    "alt": "Diagram for Heiberg, Elements III.6, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3622,7 +3640,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.7",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-7.png",
+                    "imageWidth": 301,
+                    "imageHeight": 266,
+                    "alt": "Diagram for Heiberg, Elements III.7, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3661,7 +3682,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.8",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-8.png",
+                    "imageWidth": 290,
+                    "imageHeight": 448,
+                    "alt": "Diagram for Heiberg, Elements III.8, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3715,7 +3739,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.9",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-9.png",
+                    "imageWidth": 420,
+                    "imageHeight": 418,
+                    "alt": "Diagram for Heiberg, Elements III.9, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3759,7 +3786,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.10",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-10.png",
+                    "imageWidth": 489,
+                    "imageHeight": 407,
+                    "alt": "Diagram for Heiberg, Elements III.10, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3798,7 +3828,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.11",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-11.png",
+                    "imageWidth": 280,
+                    "imageHeight": 325,
+                    "alt": "Diagram for Heiberg, Elements III.11, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3837,7 +3870,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.12",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-12.png",
+                    "imageWidth": 198,
+                    "imageHeight": 354,
+                    "alt": "Diagram for Heiberg, Elements III.12, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3876,7 +3912,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.13",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-13.png",
+                    "imageWidth": 341,
+                    "imageHeight": 282,
+                    "alt": "Diagram for Heiberg, Elements III.13, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3930,7 +3969,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.14",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-14.png",
+                    "imageWidth": 272,
+                    "imageHeight": 275,
+                    "alt": "Diagram for Heiberg, Elements III.14, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -3979,7 +4021,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.15",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-15.png",
+                    "imageWidth": 213,
+                    "imageHeight": 257,
+                    "alt": "Diagram for Heiberg, Elements III.15, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4008,7 +4053,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.16",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-16.png",
+                    "imageWidth": 287,
+                    "imageHeight": 237,
+                    "alt": "Diagram for Heiberg, Elements III.16, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4082,7 +4130,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.17",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-17.png",
+                    "imageWidth": 241,
+                    "imageHeight": 264,
+                    "alt": "Diagram for Heiberg, Elements III.17, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4121,7 +4172,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.18",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-18.png",
+                    "imageWidth": 342,
+                    "imageHeight": 306,
+                    "alt": "Diagram for Heiberg, Elements III.18, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4160,7 +4214,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.19",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-19.png",
+                    "imageWidth": 307,
+                    "imageHeight": 250,
+                    "alt": "Diagram for Heiberg, Elements III.19, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4199,7 +4256,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.20",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-20.png",
+                    "imageWidth": 319,
+                    "imageHeight": 302,
+                    "alt": "Diagram for Heiberg, Elements III.20, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4233,7 +4293,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.21",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-21.png",
+                    "imageWidth": 220,
+                    "imageHeight": 206,
+                    "alt": "Diagram for Heiberg, Elements III.21, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4282,7 +4345,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.22",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-22.png",
+                    "imageWidth": 209,
+                    "imageHeight": 202,
+                    "alt": "Diagram for Heiberg, Elements III.22, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4306,7 +4372,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.23",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-23.png",
+                    "imageWidth": 105,
+                    "imageHeight": 335,
+                    "alt": "Diagram for Heiberg, Elements III.23, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4350,7 +4419,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.24",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-24.png",
+                    "imageWidth": 281,
+                    "imageHeight": 227,
+                    "alt": "Diagram for Heiberg, Elements III.24, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4389,7 +4461,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.25",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-25.png",
+                    "imageWidth": 183,
+                    "imageHeight": 188,
+                    "alt": "Diagram for Heiberg, Elements III.25, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4403,7 +4478,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.25",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-25.png",
+                    "imageWidth": 183,
+                    "imageHeight": 188,
+                    "alt": "Diagram for Heiberg, Elements III.25, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4432,7 +4510,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.26",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-26.png",
+                    "imageWidth": 393,
+                    "imageHeight": 178,
+                    "alt": "Diagram for Heiberg, Elements III.26, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4466,7 +4547,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.27",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-27.png",
+                    "imageWidth": 379,
+                    "imageHeight": 208,
+                    "alt": "Diagram for Heiberg, Elements III.27, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4505,7 +4589,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.28",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-28.png",
+                    "imageWidth": 640,
+                    "imageHeight": 279,
+                    "alt": "Diagram for Heiberg, Elements III.28, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4549,7 +4636,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.29",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-29.png",
+                    "imageWidth": 598,
+                    "imageHeight": 244,
+                    "alt": "Diagram for Heiberg, Elements III.29, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4588,7 +4678,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.30",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-30.png",
+                    "imageWidth": 539,
+                    "imageHeight": 210,
+                    "alt": "Diagram for Heiberg, Elements III.30, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4622,7 +4715,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.31",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-31.png",
+                    "imageWidth": 324,
+                    "imageHeight": 293,
+                    "alt": "Diagram for Heiberg, Elements III.31, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4671,7 +4767,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.32",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-32.png",
+                    "imageWidth": 299,
+                    "imageHeight": 269,
+                    "alt": "Diagram for Heiberg, Elements III.32, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4720,7 +4819,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.33",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-33.png",
+                    "imageWidth": 186,
+                    "imageHeight": 316,
+                    "alt": "Diagram for Heiberg, Elements III.33, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4739,7 +4841,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.33",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-33.png",
+                    "imageWidth": 186,
+                    "imageHeight": 316,
+                    "alt": "Diagram for Heiberg, Elements III.33, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4748,7 +4853,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.33",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-33.png",
+                    "imageWidth": 186,
+                    "imageHeight": 316,
+                    "alt": "Diagram for Heiberg, Elements III.33, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4797,7 +4905,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.34",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-34.png",
+                    "imageWidth": 390,
+                    "imageHeight": 315,
+                    "alt": "Diagram for Heiberg, Elements III.34, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4831,7 +4942,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.35",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-35.png",
+                    "imageWidth": 298,
+                    "imageHeight": 276,
+                    "alt": "Diagram for Heiberg, Elements III.35, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4845,7 +4959,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.35",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-35.png",
+                    "imageWidth": 298,
+                    "imageHeight": 276,
+                    "alt": "Diagram for Heiberg, Elements III.35, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4879,7 +4996,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.36",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-36.png",
+                    "imageWidth": 257,
+                    "imageHeight": 245,
+                    "alt": "Diagram for Heiberg, Elements III.36, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4888,7 +5008,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.36",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-36.png",
+                    "imageWidth": 257,
+                    "imageHeight": 245,
+                    "alt": "Diagram for Heiberg, Elements III.36, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {
@@ -4922,7 +5045,10 @@
                   "ref": null,
                   "figure": {
                     "source": "Heiberg, Elements III.37",
-                    "note": "A diagram appears here in the printed edition; not yet available in this build."
+                    "image": "images/book-3-prop-37.png",
+                    "imageWidth": 360,
+                    "imageHeight": 267,
+                    "alt": "Diagram for Heiberg, Elements III.37, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I)."
                   }
                 },
                 {

@@ -33,14 +33,15 @@
  *     logged individually; the containing Passage also carries `anomaly`.
  *   - <figure/> (498 total) has no legitimately recoverable image via the
  *     TEI (its graphic url points at a dead host). For Book I's 48
- *     propositions and Book II's 14 (62 total), a real diagram image has
- *     instead been sourced directly from the scanned printed edition
- *     (Heiberg, Euclidis Opera Omnia vol. I, archive.org identifier
- *     euclidisoperaomn01eucluoft) and cropped to the diagram's portion of
- *     the page - see BOOK_1_DIAGRAMS/BOOK_2_DIAGRAMS below and
- *     data/euclid-elements/images/. Every other marker (436 of 498) is
- *     preserved as an honest `figure: { source, note }` on its passage
- *     (never a fabricated image) and logged individually to anomalies.json.
+ *     propositions, Book II's 14, and Book III's 37 (99 total), a real
+ *     diagram image has instead been sourced directly from the scanned
+ *     printed edition (Heiberg, Euclidis Opera Omnia vol. I, archive.org
+ *     identifier euclidisoperaomn01eucluoft) and cropped to the diagram's
+ *     portion of the page - see BOOK_1_DIAGRAMS/BOOK_2_DIAGRAMS/
+ *     BOOK_3_DIAGRAMS below and data/euclid-elements/images/. Every other
+ *     marker (399 of 498) is preserved as an honest `figure: { source, note }`
+ *     on its passage (never a fabricated image) and logged individually to
+ *     anomalies.json.
  */
 
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
@@ -229,9 +230,37 @@ function main(): void {
         },
       ]),
     );
+  /** Same treatment again, extended to Book III's 37 propositions (all 37
+   *  have a real diagram, sourced and hand-checked the same way; like Book
+   *  II, these sit only on the Latin-facing page of this print). Two
+   *  propositions (35 and 36) print two illustrative sub-case diagrams each
+   *  on the page - the fuller, more general-case figure was chosen for each
+   *  rather than the degenerate through-the-centre special case. */
+  const BOOK_3_DIAGRAM_SIZE: Record<number, [number, number]> = {
+    1: [276, 266], 2: [270, 261], 3: [266, 255], 4: [256, 187], 5: [259, 222],
+    6: [249, 274], 7: [301, 266], 8: [290, 448], 9: [420, 418], 10: [489, 407],
+    11: [280, 325], 12: [198, 354], 13: [341, 282], 14: [272, 275], 15: [213, 257],
+    16: [287, 237], 17: [241, 264], 18: [342, 306], 19: [307, 250], 20: [319, 302],
+    21: [220, 206], 22: [209, 202], 23: [105, 335], 24: [281, 227], 25: [183, 188],
+    26: [393, 178], 27: [379, 208], 28: [640, 279], 29: [598, 244], 30: [539, 210],
+    31: [324, 293], 32: [299, 269], 33: [186, 316], 34: [390, 315], 35: [298, 276],
+    36: [257, 245], 37: [360, 267],
+  };
+  const BOOK_3_DIAGRAMS: Record<string, { image: string; width: number; height: number }> =
+    Object.fromEntries(
+      Array.from({ length: 37 }, (_, i) => i + 1).map((n) => [
+        `Heiberg, Elements III.${n}`,
+        {
+          image: `images/book-3-prop-${n}.png`,
+          width: BOOK_3_DIAGRAM_SIZE[n]![0],
+          height: BOOK_3_DIAGRAM_SIZE[n]![1],
+        },
+      ]),
+    );
   const REAL_DIAGRAMS: Record<string, { image: string; width: number; height: number }> = {
     ...BOOK_1_DIAGRAMS,
     ...BOOK_2_DIAGRAMS,
+    ...BOOK_3_DIAGRAMS,
   };
 
   /** figures seen inside a <p> that cleaned to empty text, keyed by leaf id, awaiting a surviving passage to attach to */
