@@ -1,0 +1,26 @@
+[
+  {
+    "where": "book-10-ch-6 / section 10",
+    "note": "an editorial <ref>...</ref> footnote was removed from the reading text (apparatus, not Augustine's text): \"de Labriolle legit: ''hoc dicit eorum natura videnti: 'moles est minor in parte quam in toto.'''\""
+  },
+  {
+    "where": "augustine-confessions-la / all books",
+    "note": "32 pair(s) of MediaWiki italic markup ('' ... '') were stripped from the reading text (this source uses them around quoted Scripture/speech within a quotation, e.g. Book III 3.4.7 and Book XII 12.29.40). Passage.text has no rich-text/formatting field, so the markup was removed while every literal apostrophe/quote-mark character and all enclosed words were kept verbatim."
+  },
+  {
+    "where": "augustine-confessions-la / all refs, all division & passage refs",
+    "note": "This Wikisource transcription carries no physical page/line reference. Division.ref and Passage.ref are null throughout; the citation scheme for this work is 'book-chapter-section' (registry.ts), reflected directly in the Book/Chapter/Passage id and number/n fields."
+  },
+  {
+    "where": "augustine-confessions-la / passage 9.12.32",
+    "note": "Book IX, chapter 12, section 32 contains an internal blank line in the source before eight lines of Ambrose's hymn \"Deus creator omnium\", quoted with a leading double-quote/apostrophe on each line as printed. This is the only section in the whole work with a blank line inside its heading-to-heading span; it is kept as a single passage (matching every other section) with the internal blank line collapsed to a single space by the shared whitespace-collapsing rule, not treated as a paragraph break."
+  },
+  {
+    "where": "augustine-confessions-la / division scheme",
+    "note": "13 Books, each with book.chapter.section headings printed by the source itself; chapter counts per book as parsed (20, 10, 12, 16, 14, 16, 21, 12, 13, 43, 31, 32, 38 for Books I-XIII) match the traditional chapter count for each book of the Confessions. Every chapter's section numbers run contiguously 1..N through the whole book (not reset per chapter), exactly as printed; Division.number for a Chapter is the plain arabic chapter number, and Passage.n is the plain arabic section number, both taken directly from the source heading."
+  },
+  {
+    "where": "augustine-confessions-la / orthography",
+    "note": "No capitalisation, u/v, or i/j regularisation of any kind. The source prints the entire text in lowercase, including the first word of the work (\"magnus es, domine...\") and every sentence-initial word thereafter; this is exactly as transcribed and is preserved verbatim."
+  }
+]

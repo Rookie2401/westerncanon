@@ -1,0 +1,59 @@
+/**
+ * Prose "About the text" body for the English Confessions. Kept here (not
+ * hand-edited into data/) so re-running the importer reproduces the enriched
+ * about.json. Rendered by src/screens/WorkAbout.tsx.
+ *
+ * EN_PROVENANCE / EN_LICENSE reuse, verbatim, the wording already committed
+ * in src/library/registry.ts's `source` block for the 'augustine-confessions-en'
+ * work entry.
+ */
+
+export interface AboutSection {
+  heading: string;
+  paragraphs: string[];
+}
+
+export const EN_PROVENANCE = 'English Wikisource, "The Confessions of Saint Augustine (Pilkington)".';
+
+export const EN_LICENSE = 'Translation public domain (1887); transcription CC BY-SA 4.0 (Wikisource).';
+
+export const EN_ABOUT_SECTIONS: AboutSection[] = [
+  {
+    heading: "Augustine's Confessions",
+    paragraphs: [
+      'This is Augustine\'s Confessions in the English translation made by J. G. Pilkington for the Nicene and Post-Nicene Fathers series in 1887 - the translation most widely reprinted in the century that followed, and the one behind most English quotations of the work before modern versions appeared.',
+      'The text here is Pilkington\'s English, verbatim. Nothing is translated further, modernised, or silently corrected.',
+    ],
+  },
+  {
+    heading: 'The translation',
+    paragraphs: [
+      'Pilkington\'s version was prepared for Philip Schaff\'s Nicene and Post-Nicene Fathers, Series I, Volume I (1887), a collection long in the public domain. Its language is of its period - "Thou", "Thee", and the King James idiom throughout - kept exactly as printed.',
+      'This edition\'s own chapter divisions do not always fall at the same points as the Latin\'s: Book I, for instance, has eighteen chapters in this translation where the Latin Wikisource text used for the companion edition has twenty. Both are correct - each edition follows its own source - and the two work independently rather than being forced into a shared division scheme.',
+    ],
+  },
+  {
+    heading: 'Digital source',
+    paragraphs: [
+      'The machine-readable text is the wikitext of the English Wikisource pages under "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions" - a Book-level table-of-contents page for each of the thirteen books, plus one page per chapter (over two hundred pages in all) - fetched once via the MediaWiki API and bundled with the app; nothing is loaded from the network at runtime.',
+    ],
+  },
+  {
+    heading: 'How it was imported',
+    paragraphs: [
+      'Each chapter page prints its own heading, "Chapter N.—Title.", followed by the chapter\'s prose. The importer takes the text after the em dash as this Chapter division\'s sourceHeading, and the whole of the chapter\'s prose as a single Passage - this edition\'s own citation scheme is book-and-chapter only, with nothing printed below chapter level in its own right.',
+      'The chapter prose itself still carries, inline, the traditional Latin section numbers (e.g. "5. ... 6. ...") wherever a chapter spans more than one of them - a convention many NPNF-era translations kept from their Latin source even without a matching English division of their own. Since this edition has no field for a sub-chapter number, those inline numerals are kept exactly as printed, as part of the one passage\'s running text, rather than discarded.',
+      'Wiki-transport scaffolding only was removed: the page-header template, the leading rule, the trailing "Footnotes" section, every one of Pilkington\'s own inline footnotes (translator/editorial annotation - not Augustine\'s text, and not preserved elsewhere), and MediaWiki\'s two-apostrophe italic markup around quoted Latin and emphasised words (this app has no rich-text field to carry the italics, so the markers are dropped and the words kept). All HTML entities are decoded. Nothing else - no word, no spelling - was changed.',
+    ],
+  },
+  {
+    heading: 'Known gaps & anomalies',
+    paragraphs: [
+      'Completeness. All thirteen Books are present, each with every chapter listed in its own "Contents" page; the text runs verbatim from the opening chapter\'s invocation to the close of Book XIII.',
+      'Footnotes removed. Pilkington\'s edition is heavily annotated - Scripture cross-references, textual notes, and occasional editorial comment - all carried as inline <ref> footnotes in the wikitext. Every one was stripped from the reading text and is not reproduced anywhere in this corpus; only the running translation is bundled.',
+      'Italic markup stripped. Quoted Latin phrases and a handful of emphasised English words are wrapped in MediaWiki\'s two-apostrophe italic markers in the source. Since Passage.text carries no character-level formatting, the markers were stripped and the underlying words kept verbatim.',
+      'Inline section numerals kept. Unlike the Latin edition (whose citationScheme is book-chapter-section), this translation is cited by book and chapter only. Where a chapter\'s prose still carries an inline Latin section number, it is preserved as ordinary printed text within that chapter\'s single passage rather than moved to a field this edition does not use.',
+      'No physical reference. This transcription carries no page or line numbers of its own kind; every Division.ref and Passage.ref is null.',
+    ],
+  },
+];

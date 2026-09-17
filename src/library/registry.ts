@@ -31,6 +31,12 @@ export const AUTHORS: Author[] = [
     sortYear: -300,
     datesLabel: 'fl. c. 300 BC',
   },
+  {
+    id: 'augustine',
+    displayName: 'Augustine of Hippo',
+    sortYear: 354,
+    datesLabel: '354–430',
+  },
 ];
 
 export const WORKS: Work[] = [
@@ -176,6 +182,108 @@ export const WORKS: Work[] = [
         'TEI from PerseusDL/canonical-greekLit (CTS urn:cts:greekLit:tlg1799.tlg001, witness perseus-grc2).',
       license:
         'Heiberg 1883-88 public domain; digital text CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).',
+    },
+  },
+  {
+    id: 'augustine-confessions-la',
+    authorId: 'augustine',
+    title: 'Confessiones',
+    commonTitle: 'Confessions',
+    group: 'Confessions',
+    language: 'la',
+    citationScheme: 'book-chapter-section',
+    profile: 'generic',
+    meta: 'Latin',
+    source: {
+      provenance: 'Latin Wikisource, "Confessiones" (text from thelatinlibrary.com).',
+      license:
+        'Latin text public domain; transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
+    id: 'augustine-confessions-en',
+    authorId: 'augustine',
+    title: 'Confessions',
+    group: 'Confessions',
+    language: 'en',
+    citationScheme: 'book-chapter',
+    profile: 'generic',
+    meta: 'English · trans. Pilkington',
+    source: {
+      translator: 'J. G. Pilkington',
+      edition: 'Nicene and Post-Nicene Fathers, Series I, Vol. I (1887)',
+      provenance:
+        'English Wikisource, "The Confessions of Saint Augustine (Pilkington)".',
+      license:
+        'Translation public domain (1887); transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
+    id: 'augustine-city-of-god-la',
+    authorId: 'augustine',
+    title: 'De Civitate Dei',
+    commonTitle: 'City of God',
+    group: 'City of God',
+    language: 'la',
+    citationScheme: 'book-chapter',
+    profile: 'generic',
+    meta: 'Latin',
+    source: {
+      provenance: 'Latin Wikisource, "De civitate Dei" (text from thelatinlibrary.com).',
+      license:
+        'Latin text public domain; transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
+    id: 'augustine-city-of-god-en',
+    authorId: 'augustine',
+    title: 'City of God',
+    group: 'City of God',
+    language: 'en',
+    citationScheme: 'book-chapter',
+    profile: 'generic',
+    meta: 'English · trans. Dods',
+    source: {
+      translator: 'Marcus Dods',
+      edition: 'Nicene and Post-Nicene Fathers, Series I, Vol. II (1887)',
+      provenance:
+        'English Wikisource, "Nicene and Post-Nicene Fathers: Series I/Volume II/City of God".',
+      license:
+        'Translation public domain (1887); transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
+    id: 'augustine-christian-doctrine-la',
+    authorId: 'augustine',
+    title: 'De Doctrina Christiana',
+    commonTitle: 'On Christian Doctrine',
+    group: 'On Christian Doctrine',
+    language: 'la',
+    citationScheme: 'book-chapter-section',
+    profile: 'generic',
+    meta: 'Latin',
+    source: {
+      provenance: 'Latin Wikisource, "De Doctrina Christiana".',
+      license:
+        'Latin text public domain; transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
+    id: 'augustine-christian-doctrine-en',
+    authorId: 'augustine',
+    title: 'On Christian Doctrine',
+    group: 'On Christian Doctrine',
+    language: 'en',
+    citationScheme: 'book-chapter',
+    profile: 'generic',
+    meta: 'English · trans. Shaw',
+    source: {
+      translator: 'J. F. Shaw',
+      edition: 'Nicene and Post-Nicene Fathers, Series I, Vol. II (1887)',
+      provenance:
+        'English Wikisource, "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine".',
+      license:
+        'Translation public domain (1887); transcription CC BY-SA 4.0 (Wikisource).',
     },
   },
 ];

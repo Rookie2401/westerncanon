@@ -1,0 +1,49 @@
+{
+  "workId": "augustine-city-of-god-la",
+  "title": "De Civitate Dei",
+  "author": "Augustine of Hippo",
+  "language": "la",
+  "edition": "Latin Wikisource transcription (from thelatinlibrary.com)",
+  "provenance": "Latin Wikisource, \"De civitate Dei\" (text from thelatinlibrary.com).",
+  "license": "Latin text public domain; transcription CC BY-SA 4.0 (Wikisource).",
+  "sections": [
+    {
+      "heading": "About the text",
+      "paragraphs": [
+        "Augustine began De Civitate Dei (\"The City of God\") in 412 AD, two years after the Gothic sack of Rome under Alaric, and finished it in 426. It answers the charge, current among Rome's remaining pagan aristocracy, that abandoning the old gods for Christianity had caused the disaster. Addressed to his younger friend Marcellinus, it grew far beyond a single apologetic tract into a twenty-two book history and theology of two \"cities\" - the earthly city, bound by love of self, and the City of God, bound by love of God - interwoven from Creation to the Last Judgment.",
+        "The first ten books argue against Roman religion: books 1-5 against worshipping the gods for the sake of temporal happiness, books 6-10 against worshipping them for the sake of the life to come, closing with a sustained engagement with Platonist philosophy. The remaining twelve books (11-22) trace the origin, history, and destined ends of the two cities, culminating in Book 22's account of the resurrection of the body and the eternal life of the redeemed - the \"Amen. Amen.\" on which the whole work closes.",
+        "Augustine's own dedicatory letter to a correspondent named Firmus - included here as its own division, \"Letter to Firmus\" - explains that he wrote the twenty-two books to be bound as a reader saw fit: as one codex, as two (10 books + 12), or as five."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The reading text is the Latin Wikisource transcription of De civitate Dei, itself sourced from thelatinlibrary.com. Orthography is classical and unregularised throughout: u/v are not distinguished (\"ciuitas\", \"aduersus\"), matching the edition exactly. Chapters are marked in most books with a bracketed roman numeral, e.g. \"[I]\", \"[II]\" - Liber III alone uses MediaWiki \"==roman==\" headings instead. No chapter in this edition carries a printed rubric/title.",
+        "This particular transcription is not uniform in its numbering. A handful of genuine irregularities in the source are preserved verbatim and individually flagged in anomalies.json rather than silently corrected - see \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Fetched from the Latin Wikisource MediaWiki API (`action=parse&prop=wikitext`) for the page family \"De civitate Dei/Prologus\" and \"De civitate Dei/Liber I\" through \"Liber XXII\" (23 pages total). Each raw API response is cached under scripts/import-augustine-city-of-god-la/raw/ so the importer never needs to re-fetch the source to rebuild work.json."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each of the 22 books is a top-level division (book-1 .. book-22); each book's chapters are numbered by their 1-based POSITION among that book's own chapter markers, not by parsing the printed roman numeral - so a mislabeled or duplicated source numeral never desynchronises the id scheme, it only produces a flagged anomaly. Four books (I, V, VI, VII) carry their own un-numbered opening \"[Pr]\" paragraph in this edition; each becomes that book's chapter 0 (e.g. book-1-ch-0), sourceHeading \"Praefatio\".",
+        "Two items of front/back matter that are not part of any single book are represented as their own top-level divisions: 'book-0' (Augustine's dedicatory letter to Firmus, from the separate \"De civitate Dei/Prologus\" page - see the anomaly on this below, since it is easy to mistake for the work's literary proem) and 'colophon' (a short scribal note on the 22-book structure that follows, in the source, immediately after the work's own final sentence)."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Every irregularity below is preserved verbatim in the reading text; anomalies.json records the same list with a machine-readable {where, note} entry per item.",
+        "\"De civitate Dei/Prologus\" is Augustine's dedicatory letter to Firmus about binding the 22 books, NOT the work's own literary proem - that famous opening (\"Gloriosissimam ciuitatem Dei...\", addressed to Marcellinus) is embedded inside the \"Liber I\" page itself, marked \"[Pr]\", and is represented as book-1-ch-0.",
+        "Liber V misprints its 23rd chapter marker as \"[XXXIII]\" (an extra X) instead of \"[XXIII]\"; Liber VIII prints two consecutive, genuinely distinct chapters both as \"[XIX]\". Both are kept exactly as printed; Division.number is the 1-based position, not the printed numeral, and the mismatch is flagged.",
+        "Liber XVIII gives no bracket markers for the traditional chapters \"[XXXII]\" through \"[XLVI]\" (on the minor prophets); that content is folded in as extra passages of chapter 31 rather than inventing chapter breaks the source does not mark. Every later chapter in that book is consequently offset from its printed roman numeral by 15 (flagged individually).",
+        "Liber XXII briefly switches numbering convention: chapters 5-11 (including chapter 8's 23-part catalogue of contemporary miracles at Hippo and Carthage) are marked with plain arabic \"N.\"/\"N. M.\" numbering, each usually preceded by a short caption line, instead of brackets. These were recovered into proper chapter/passage divisions (chapter 8's 23 sub-numbers become passages n=\"1\"..\"23\"); each caption is merged verbatim as a prefix onto the paragraph it introduces, since Passage has no separate heading field."
+      ]
+    }
+  ]
+}

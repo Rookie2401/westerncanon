@@ -31,6 +31,26 @@ function recordPath(r: SearchRecord): string {
   return `/read/${id}/${r.q}/${r.a == null ? 'u' : r.a}`;
 }
 
+/**
+ * Human-readable summary of which bundled works a set of generic-search hits
+ * came from, e.g. "Isagoge", "Confessiones and Categoriae", or "5 works" once
+ * too many are involved to list — the count heading above these results must
+ * never name a single work when the hits actually span several. No leading
+ * article: workTitle is often a foreign-language title (e.g. "Κατηγορίαι"),
+ * where prepending "the" reads oddly ("the Κατηγορίαι"), unlike an English
+ * common-noun title such as "Isagoge".
+ */
+function formatWorkTitles(hits: GenericHit[]): string {
+  const titles = [...new Set(hits.map((h) => h.workTitle))];
+  if (titles.length === 1) return titles[0]!;
+  if (titles.length <= 3) {
+    return titles.length === 2
+      ? `${titles[0]} and ${titles[1]}`
+      : `${titles[0]}, ${titles[1]}, and ${titles[2]}`;
+  }
+  return `${titles.length} works`;
+}
+
 export function SearchScreen() {
   const navigate = useNavigate();
   const [query, setQuery] = useState('');
@@ -187,10 +207,11 @@ export function SearchScreen() {
           aria-label="Search"
         />
         <p className="search__hint">
-          Searches the Summa (Latin) and the Isagoge (Greek and Latin). Latin
-          diacritics and œ/æ are folded; Greek matching is accent-insensitive
-          (substring only — no morphological search). A citation like{' '}
-          <em>II-II q. 23 a. 1</em> jumps straight to the article.
+          Searches the Summa and every other bundled text, in their original
+          languages. Latin diacritics and œ/æ are folded; Greek matching is
+          accent-insensitive (substring only — no morphological search). A
+          citation like <em>II-II q. 23 a. 1</em> jumps straight to the
+          article.
         </p>
 
         {jump ? (
@@ -213,8 +234,8 @@ export function SearchScreen() {
         {genericHits.length ? (
           <div className="search__group">
             <p className="search__count">
-              {genericHits.length} passage{genericHits.length === 1 ? '' : 's'} in
-              the Isagoge
+              {genericHits.length} passage{genericHits.length === 1 ? '' : 's'} in{' '}
+              {formatWorkTitles(genericHits)}
             </p>
             <div className="entrylist">
               {genericHits.map((h, i) => (

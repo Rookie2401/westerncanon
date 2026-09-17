@@ -1,0 +1,44 @@
+{
+  "workId": "augustine-city-of-god-en",
+  "title": "City of God",
+  "author": "Augustine of Hippo",
+  "language": "en",
+  "translator": "Marcus Dods",
+  "edition": "Nicene and Post-Nicene Fathers, Series I, Vol. II (1887)",
+  "provenance": "English Wikisource, \"Nicene and Post-Nicene Fathers: Series I/Volume II/City of God\".",
+  "license": "Translation public domain (1887); transcription CC BY-SA 4.0 (Wikisource).",
+  "sections": [
+    {
+      "heading": "About the text",
+      "paragraphs": [
+        "Augustine began De Civitate Dei (\"The City of God\") in 412 AD, two years after the Gothic sack of Rome under Alaric, and finished it in 426. It answers the charge, current among Rome's remaining pagan aristocracy, that abandoning the old gods for Christianity had caused the disaster. Addressed to his younger friend Marcellinus, it grew far beyond a single apologetic tract into a twenty-two book history and theology of two \"cities\" - the earthly city, bound by love of self, and the City of God, bound by love of God - interwoven from Creation to the Last Judgment.",
+        "The first ten books argue against Roman religion: books 1-5 against worshipping the gods for the sake of temporal happiness, books 6-10 against worshipping them for the sake of the life to come, closing with a sustained engagement with Platonist philosophy. The remaining twelve books (11-22) trace the origin, history, and destined ends of the two cities, culminating in Book 22's account of the resurrection of the body and the eternal life of the redeemed."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The translation is the Rev. Marcus Dods' (1887), published as volume II of the Nicene and Post-Nicene Fathers, Series I, under the general editorship of Philip Schaff. Each of its 22 books opens with a one-paragraph editorial \"Argument\" summarising the book, used here as that Book division's editorialTitle (the Latin edition prints no such summaries, so its Books carry none). Four books - I, V, VI, and VII, the same four as in the Latin edition - carry their own \"Preface\" chapter before Chapter 1.",
+        "Every chapter carries a printed title, \"Chapter N.—Title.\", captured verbatim as that chapter's sourceHeading. Schaff's own footnotes (marked \"—P.S.\" in the source) are interspersed as <ref> markers through the text; they are editorial apparatus, not Augustine's words, and are dropped entirely, along with the trailing \"Footnotes\" section on each page."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Fetched from the English Wikisource MediaWiki API (`action=parse&prop=wikitext`), one request per Book's table-of-contents page (22 requests, to discover each book's exact chapter count and whether it has a Preface) plus one request per Preface/Chapter page (roughly 650-700 requests - this translation is one wiki page per chapter, unlike the Latin edition's one page per book). Every raw API response is cached under scripts/import-augustine-city-of-god-en/raw/ (toc/ and pages/) so the importer never needs to re-fetch the source to rebuild work.json."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each of the 22 books is a top-level division (book-1 .. book-22); chapters are numbered book-N-ch-1 .. book-N-ch-M following this edition's own chapter numbering (which is not expected to, and does not need to, match the Latin edition's position-based numbering chapter-for-chapter, since the two are independently divided works read through the same GenericWork tree shape). A book's own \"Preface\" page, where present, becomes chapter 0 (book-N-ch-0)."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full machine-readable list. In general this translation's Wikisource transcription is far more uniform than the Latin edition's (one wiki page per chapter, with a consistently printed chapter title on every page), so irregularities here are mostly limited to the odd heading line that does not cleanly match the expected \"Chapter N.—Title.\"/\"Preface, Title.\" pattern; each such case is flagged individually rather than guessed at."
+      ]
+    }
+  ]
+}

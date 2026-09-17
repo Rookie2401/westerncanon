@@ -41,6 +41,12 @@ const GENERIC_DIRS = [
   'de-interpretatione-grc',
   'de-interpretatione-la',
   'euclid-elements',
+  'augustine-confessions-la',
+  'augustine-confessions-en',
+  'augustine-city-of-god-la',
+  'augustine-city-of-god-en',
+  'augustine-christian-doctrine-la',
+  'augustine-christian-doctrine-en',
 ];
 const GENERIC_FILES = ['work.json', 'about.json'];
 

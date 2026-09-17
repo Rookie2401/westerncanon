@@ -70,24 +70,36 @@ export async function searchGenericWorks(
   const corpora = await loadAllGeneric();
   const hits: GenericHit[] = [];
 
+  // Depth-first over the whole division tree, not just top-level divisions'
+  // own passages — a work like Euclid or Augustine's is Book -> group/Chapter
+  // -> leaf, so its actual passage text lives several levels down.
+  const walk = (div: GenericWork['divisions'][number], meta: (typeof WORKS)[number]): boolean => {
+    for (const p of div.passages) {
+      const ft = foldSearch(p.text);
+      if (!ft.includes(fq)) continue;
+      hits.push({
+        workId: meta.id,
+        workTitle: meta.title,
+        workMeta: meta.meta,
+        divId: div.id,
+        divLabel: divisionShortLabel(div),
+        ref: p.ref ?? div.ref,
+        editorialTitle: div.editorialTitle,
+        snippet: snippetAround(p.text, ft, fq),
+      });
+      if (hits.length >= limit) return true;
+    }
+    for (const child of div.children) {
+      if (walk(child, meta)) return true;
+    }
+    return false;
+  };
+
   for (const { meta, work } of corpora) {
     for (const div of work.divisions) {
-      for (const p of div.passages) {
-        const ft = foldSearch(p.text);
-        if (!ft.includes(fq)) continue;
-        hits.push({
-          workId: meta.id,
-          workTitle: meta.title,
-          workMeta: meta.meta,
-          divId: div.id,
-          divLabel: divisionShortLabel(div),
-          ref: p.ref ?? div.ref,
-          editorialTitle: div.editorialTitle,
-          snippet: snippetAround(p.text, ft, fq),
-        });
-        if (hits.length >= limit) return hits;
-      }
+      if (walk(div, meta)) break;
     }
+    if (hits.length >= limit) break;
   }
   return hits;
 }

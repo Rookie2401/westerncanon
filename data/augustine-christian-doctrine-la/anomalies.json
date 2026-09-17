@@ -1,0 +1,270 @@
+[
+  {
+    "where": "book-1",
+    "note": "a bare \"**\" divider (a typographic section-break marker) appears in the source between chapter 15 and chapter 16, on its own <br />-delimited line; treated as print-layout scaffolding (like a horizontal rule) rather than reading text or a rubric, and dropped - noted here rather than silently discarded. It is NOT folded into chapter 16's sourceHeading."
+  },
+  {
+    "where": "book-1 / chapter 12 / section 12",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"12\" (that chapter's sourceHeading was already set from its first section): \"Dei Sapientia stultitia praedicationis patefit.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-1 / chapter 22 / section 21",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"22\" (that chapter's sourceHeading was already set from its first section): \"In Deum totus dilectionis impetus currit.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-1 / chapter 23 / section 23",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"23\" (that chapter's sourceHeading was already set from its first section): \"De amoris ordine.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-1 / chapter 24 / section 25",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"24\" (that chapter's sourceHeading was already set from its first section): \"Spiritus et caro inter se confligunt.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-1 / chapter 30 / section 32",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"30\" (that chapter's sourceHeading was already set from its first section): \"Plenitudo legis dilectio.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-1 / chapter 30 / section 33",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"30\" (that chapter's sourceHeading was already set from its first section): \"Invisibilium amore rapiamur.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-1 / chapter 33 / section 37",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"33\" (that chapter's sourceHeading was already set from its first section): \"Homine in Deo et propter Deum fruendum.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-1 / chapter 36 / section 41",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"36\" (that chapter's sourceHeading was already set from its first section): \"Sacri auctoris mens praeprimis requiratur.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 1 / section 2",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"1\" (that chapter's sourceHeading was already set from its first section): \"Rhetoricae praecepta tradere non est huius instituti.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 3 / section 5",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"3\" (that chapter's sourceHeading was already set from its first section): \"Pueri ex ore loquentium locutiones discunt.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 4 / section 7",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"4\" (that chapter's sourceHeading was already set from its first section): \"..et cuiusvis eruditi hominis.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 5 / section 8",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"5\" (that chapter's sourceHeading was already set from its first section): \"Dicendi ars legendo oratorum libros acquiritur.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 6 / section 10",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"6\" (that chapter's sourceHeading was already set from its first section): \"Sacrorum auctorum eloquentia fructus est sapientiae.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 7 / section 12",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"7\" (that chapter's sourceHeading was already set from its first section): \"Sapientiae et eloquentiae mirum exemplum in 2 Cor 11, 16-30.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 7 / section 13",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"7\" (that chapter's sourceHeading was already set from its first section): \"Exemplum 2 Cor 11, 16-30 trutinatur.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 7 / section 14",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"7\" (that chapter's sourceHeading was already set from its first section): \"Sacri auctores, etsi habent, eloquentiam non ostentant.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 7 / section 15",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"7\" (that chapter's sourceHeading was already set from its first section): \"Praeter Paulum, multi Scripturarum auctores eloquentia callent.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 7 / section 16",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"7\" (that chapter's sourceHeading was already set from its first section): \"Magna cum vi Amos lascivientes redarguit.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 7 / section 17",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"7\" (that chapter's sourceHeading was already set from its first section): \"Eloquentiae regulae in Amos 6, 1-2 deteguntur.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 7 / section 18",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"7\" (that chapter's sourceHeading was already set from its first section): \"Eloquentiae regulae in Amos 6, 3-4.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 7 / section 19",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"7\" (that chapter's sourceHeading was already set from its first section): \"Eloquentiae regulae in Amos 6, 5-6.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 7 / section 20",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"7\" (that chapter's sourceHeading was already set from its first section): \"Eloquentiae regulae in Amos 6, 6.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 7 / section 21",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"7\" (that chapter's sourceHeading was already set from its first section): \"Sacri auctores tales inveniuntur quales ille voluit qui eos misit.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 10 / section 25",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"10\" (that chapter's sourceHeading was already set from its first section): \"Qui audit, verum audiat, et quod audit intellegat.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 12 / section 28",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"12\" (that chapter's sourceHeading was already set from its first section): \"Auditores prius docendi quam movendi.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 14 / section 31",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"14\" (that chapter's sourceHeading was already set from its first section): \"Doctrina christiana a verborum redundantia revocat.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 18 / section 36",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"18\" (that chapter's sourceHeading was already set from its first section): \"Proponitur ad instar exempli 1 Cor 6, 1-9.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 18 / section 37",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"18\" (that chapter's sourceHeading was already set from its first section): \"Etiam cum aquam frigidam dandam commendamus, de re magna loquimur.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 20 / section 40",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"20\" (that chapter's sourceHeading was already set from its first section): \"Exempla dictionis temperatae ex epistolis paulinis.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 20 / section 41",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"20\" (that chapter's sourceHeading was already set from its first section): \"Elocutionis ornatus qui numerosis fit clausulis raro in Biblia invenitur.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 20 / section 42",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"20\" (that chapter's sourceHeading was already set from its first section): \"De grandi dicendi genere.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 20 / section 43",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"20\" (that chapter's sourceHeading was already set from its first section): \"Exemplum grandis eloquentiae in Rom 8, 28-39.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 20 / section 44",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"20\" (that chapter's sourceHeading was already set from its first section): \"Aliud grandis eloquentiae exemplum in Gal 4, 10-20.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 21 / section 46",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"21\" (that chapter's sourceHeading was already set from its first section): \"Idem facit Ambrosius.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 21 / section 47",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"21\" (that chapter's sourceHeading was already set from its first section): \"De genere eloquentie temperato apud Cyprianum.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 21 / section 48",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"21\" (that chapter's sourceHeading was already set from its first section): \"De genere eloquentie temperato apud Ambrosium.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 21 / section 49",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"21\" (that chapter's sourceHeading was already set from its first section): \"Grandis dictionis exemplum ex Cypriano.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 21 / section 50",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"21\" (that chapter's sourceHeading was already set from its first section): \"Grandis dictionis exemplum ex Ambrosio.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 24 / section 54",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"24\" (that chapter's sourceHeading was already set from its first section): \"Submisso dicendi genere permoti nonnulli mutantur in bonum.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 26 / section 57",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"26\" (that chapter's sourceHeading was already set from its first section): \"Quid sacro oratori cavendum in usu generis temperati.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 26 / section 58",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"26\" (that chapter's sourceHeading was already set from its first section): \"Quid sacro oratori cavendum in usu generis grandioris.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 27 / section 60",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"27\" (that chapter's sourceHeading was already set from its first section): \"Pluribus utilitati sunt qui quae dicunt faciunt.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-4 / chapter 29 / section 62",
+    "note": "source prints a marginal rubric before this section even though it is not the first section of chapter \"29\" (that chapter's sourceHeading was already set from its first section): \"Non culpandus ecclesiastes, qui a peritiore sumit conscriptum eloquium, quod ad populum proferat.\" - preserved here on the passage itself, not discarded."
+  },
+  {
+    "where": "book-1 / passage printed \"11\"",
+    "note": "printed running number \"11\" does not follow the previous passage's printed number 11 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-1 / passage printed \"12\"",
+    "note": "printed running number \"12\" does not follow the previous passage's printed number 12 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-1 / passage printed \"19\"",
+    "note": "printed running number \"19\" does not follow the previous passage's printed number 19 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-1 / chapter printed \"5\"",
+    "note": "chapter number is printed as \"5\" here, which does not follow the previous chapter number 34 by exactly +1 in this source; kept verbatim as printed (this Division's id is assigned by encounter position, not by this printed numeral - see data/augustine-christian-doctrine-la/types.ts)."
+  },
+  {
+    "where": "book-1 / chapter printed \"36\"",
+    "note": "chapter number is printed as \"36\" here, which does not follow the previous chapter number 5 by exactly +1 in this source; kept verbatim as printed (this Division's id is assigned by encounter position, not by this printed numeral - see data/augustine-christian-doctrine-la/types.ts)."
+  },
+  {
+    "where": "book-1 / passage printed \"41\"",
+    "note": "printed running number \"41\" does not follow the previous passage's printed number 41 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-2 / passage printed \"40\"",
+    "note": "printed running number \"40\" does not follow the previous passage's printed number 40 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-3 / passage printed \"11\"",
+    "note": "printed running number \"11\" does not follow the previous passage's printed number 11 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-3 / chapter printed \"29\"",
+    "note": "chapter number is printed as \"29\" here, which does not follow the previous chapter number 29 by exactly +1 in this source; kept verbatim as printed (this Division's id is assigned by encounter position, not by this printed numeral - see data/augustine-christian-doctrine-la/types.ts)."
+  },
+  {
+    "where": "book-3 / passage printed \"29\"",
+    "note": "printed running number \"29\" does not follow the previous passage's printed number 29 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-3 / chapter printed \"30\"",
+    "note": "chapter number is printed as \"30\" here, which does not follow the previous chapter number 30 by exactly +1 in this source; kept verbatim as printed (this Division's id is assigned by encounter position, not by this printed numeral - see data/augustine-christian-doctrine-la/types.ts)."
+  },
+  {
+    "where": "book-3 / passage printed \"30\"",
+    "note": "printed running number \"30\" does not follow the previous passage's printed number 30 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-3 / passage printed \"34\"",
+    "note": "printed running number \"34\" does not follow the previous passage's printed number 34 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-3 / chapter printed \"37\"",
+    "note": "chapter number is printed as \"37\" here, which does not follow the previous chapter number 37 by exactly +1 in this source; kept verbatim as printed (this Division's id is assigned by encounter position, not by this printed numeral - see data/augustine-christian-doctrine-la/types.ts)."
+  },
+  {
+    "where": "book-3 / passage printed \"37\"",
+    "note": "printed running number \"37\" does not follow the previous passage's printed number 37 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-4 / passage printed \"7\"",
+    "note": "printed running number \"7\" does not follow the previous passage's printed number 7 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "book-4 / passage printed \"61\"",
+    "note": "printed running number \"61\" does not follow the previous passage's printed number 61 by exactly +1 in this source; kept verbatim as printed, not corrected."
+  },
+  {
+    "where": "augustine-christian-doctrine-la / all refs",
+    "note": "This Wikisource transcription carries no physical page/line reference of its own. Division.ref and Passage.ref are null throughout; citation is by the printed numbers reflected directly in Division.number / Division.id and Passage.n."
+  },
+  {
+    "where": "augustine-christian-doctrine-la / book-0 (Prologus)",
+    "note": "The Prologus predates the work's own Book/Chapter/Section citation apparatus and is cited in the secondary literature by paragraph number alone (e.g. \"prol. 3\"). The source prints an occasional rubric before some (not all) of its 9 numbered paragraphs; this importer uses each such rubric as a synthetic Chapter boundary (book-0-ch-1..4) purely to fit this app's Book->Chapter->Passage schema - Division.number is null for all four of these synthetic chapters since the source assigns them no numeral of its own; Passage.n carries the real printed paragraph number (1-9) throughout."
+  },
+  {
+    "where": "augustine-christian-doctrine-la / book-2 and book-3 chapter scheme",
+    "note": "IMPORTANT: unlike Books I and IV (explicit \"chapter.section\" dual numbering) and unlike the English NPNF translation bundled alongside this Latin text (which divides Book II into the traditional 42 chapters and Book III into 37), this Latin Wikisource transcription of Books II and III prints NO chapter numerals at all. What it prints instead is a one-line marginal rubric before nearly every numbered paragraph (63 rubric-bounded groups from 63 paragraphs in Book II, one of them a genuine 2-paragraph group; 59 groups from 61 paragraphs in Book III, two of them 2-paragraph groups) - far finer-grained than the traditional chapter scheme. Since this source supplies no way to recover the traditional 42-/37-chapter boundaries, and this importer never invents structure the source does not provide, each rubric-bounded group is used as this work's Chapter division for these two Books. Passage.n still carries the source's own reliable running paragraph number (matching the traditional section number), but Division.number/Division.id for book-2/book-3 chapters do NOT correspond to the traditional chapter numbering used elsewhere for this work - readers citing by traditional chapter number should consult a critical edition."
+  },
+  {
+    "where": "augustine-christian-doctrine-la / book-3 section 11 (Neptune quotation)",
+    "note": "Book III, printed paragraph 11, quotes three lines of pagan verse (a Vergilian-style invocation of Neptune) followed by a prose sentence, all laid out in the source as bare top-level <p> tags OUTSIDE the <li> element that nominally contains the rest of that paragraph, rather than as blank-line-joined prose inside it. This importer detects this case (no <p>&nbsp;</p> spacer precedes these <p> tags, unlike every genuine rubric transition) and folds the verse + following sentence back into paragraph 11's passage text, joined by single spaces per this repo's normal whitespace-collapsing rule. Nothing is lost; the line-break layout of the verse itself is not preserved (this app's Passage.text has no line-break/verse formatting model, matching every other importer in this repo)."
+  },
+  {
+    "where": "augustine-christian-doctrine-la / orthography",
+    "note": "No accent, spelling, or capitalisation regularisation of any kind. Unlike the Confessiones and De Civitate Dei Latin sources in this app (which print entirely lowercase), this De Doctrina Christiana transcription capitalises normally at the start of sentences and proper nouns; kept exactly as printed."
+  },
+  {
+    "where": "augustine-christian-doctrine-la / bare citation numbers",
+    "note": "This source embeds occasional bare digits directly in the reading text after certain phrases (e.g. \"Qui habet, dabitur ei 1.\" in Book I paragraph 1) - almost certainly Scripture cross-reference footnote markers. Unlike every other Augustine source in this app, this page family carries NO <ref>...</ref> markup and NO trailing apparatus/footnote block of any kind (checked directly in all 5 fetched pages: zero occurrences of \"<ref\", \"----\", or any footnote template). Since there is no reliable, source-internal way to distinguish these bare digits from ordinary reading text, and since discarding them would be an unverifiable guess about the editor's intent, they are kept exactly as printed, verbatim, as part of the passage text."
+  }
+]

@@ -129,19 +129,23 @@ export function genericNeighbors(
 }
 
 /**
- * Euclid-specific: "Book" for a top-level book division, "Proposition" for a
- * proposition leaf (including Book X's split Propositions I/II/III), derived
- * from the id shapes the Euclid importer produces (`book-N`, `book-N-prop-M`,
- * `book-N-propX-M`) — so these read as what they are rather than as an
+ * "Book" for a top-level book division, "Proposition" for a Euclid
+ * proposition leaf (including Book X's split Propositions I/II/III), and
+ * "Chapter" for an Augustine chapter leaf — derived from the id shapes each
+ * importer produces (`book-N`, `book-N-prop-M`, `book-N-propX-M`,
+ * `book-N-ch-M`) — so these read as what they are rather than as an
  * anonymous numbered "§". Every other generic-profile work's divisions don't
- * match either shape and fall through to the plain "§ N" label unchanged.
+ * match any of these shapes and fall through to the plain "§ N" label
+ * unchanged.
  */
 const BOOK_ID = /^book-\d+$/;
 const PROPOSITION_ID = /-prop[123]?-\d+$/;
+const CHAPTER_ID = /-ch-\d+$/;
 
-function euclidKindLabel(d: Division): string | null {
+function kindLabel(d: Division): string | null {
   if (BOOK_ID.test(d.id)) return 'Book';
   if (PROPOSITION_ID.test(d.id)) return 'Proposition';
+  if (CHAPTER_ID.test(d.id)) return 'Chapter';
   return null;
 }
 
@@ -150,7 +154,7 @@ function euclidKindLabel(d: Division): string | null {
  *  its own. */
 export function divisionShortLabel(d: Division): string {
   if (d.number !== null) {
-    const kind = euclidKindLabel(d);
+    const kind = kindLabel(d);
     return kind ? `${kind} ${d.number}` : `§ ${d.number}`;
   }
   if (d.children.length > 0) return d.editorialTitle ?? d.sourceHeading ?? 'Praefatio';

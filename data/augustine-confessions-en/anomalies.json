@@ -1,0 +1,18 @@
+[
+  {
+    "where": "book-12-ch-1",
+    "note": "printed chapter heading has an irregular stray space before the period (\"Chapter I .—...\"); tolerated, not corrected."
+  },
+  {
+    "where": "augustine-confessions-en / all books",
+    "note": "1313 <ref>...</ref> footnotes (Pilkington's translator/editorial annotation) were removed from the reading text across all 13 books; their content is not preserved anywhere, per this importer's brief."
+  },
+  {
+    "where": "augustine-confessions-en / all books",
+    "note": "46 pair(s) of MediaWiki italic markup ('' ... '') were stripped from the reading text (used around quoted Latin phrases and emphasised English words). Passage.text has no rich-text field, so the markers were removed while every enclosed word was kept verbatim."
+  },
+  {
+    "where": "augustine-confessions-en / inline section numerals",
+    "note": "276 of 276 chapters carry one or more inline numerals (e.g. \"5. ... 6. ...\") in their prose, printed by this edition wherever a chapter spans more than one of the Latin work's traditional section numbers. This translation's own citation scheme is book-chapter only (registry.ts), with nothing below chapter level, so each Chapter division holds exactly one Passage (n: '') and these numerals are kept verbatim as part of that passage's printed text rather than stripped or moved to a field this edition does not use."
+  }
+]

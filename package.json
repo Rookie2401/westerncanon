@@ -24,7 +24,16 @@
     "import:aristotle-deint-la": "tsx scripts/import-aristotle-deint-la/index.ts",
     "validate:aristotle": "tsx scripts/import-aristotle-shared/validate.ts",
     "import:euclid": "tsx scripts/import-euclid/index.ts",
-    "validate:euclid": "tsx scripts/import-euclid-shared/validate.ts"
+    "validate:euclid": "tsx scripts/import-euclid-shared/validate.ts",
+    "import:augustine-confessions-la": "tsx scripts/import-augustine-confessions-la/index.ts",
+    "import:augustine-confessions-en": "tsx scripts/import-augustine-confessions-en/index.ts",
+    "validate:augustine-confessions": "tsx scripts/import-augustine-confessions-shared/validate.ts",
+    "import:augustine-christian-doctrine-la": "tsx scripts/import-augustine-christian-doctrine-la/index.ts",
+    "import:augustine-christian-doctrine-en": "tsx scripts/import-augustine-christian-doctrine-en/index.ts",
+    "validate:augustine-christian-doctrine": "tsx scripts/import-augustine-christian-doctrine-shared/validate.ts",
+    "import:augustine-city-of-god-la": "tsx scripts/import-augustine-city-of-god-la/index.ts",
+    "import:augustine-city-of-god-en": "tsx scripts/import-augustine-city-of-god-en/index.ts",
+    "validate:augustine-city-of-god": "tsx scripts/import-augustine-city-of-god-shared/validate.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",

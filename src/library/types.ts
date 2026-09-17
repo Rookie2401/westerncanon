@@ -9,7 +9,7 @@
  * `data/isagoge-la/work.json` (and the matching `about.json`).
  */
 
-export type Lang = 'la' | 'grc';
+export type Lang = 'la' | 'grc' | 'en';
 export type WorkProfile = 'summa' | 'generic';
 
 export interface Author {

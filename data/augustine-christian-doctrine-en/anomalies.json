@@ -1,0 +1,22 @@
+[
+  {
+    "where": "augustine-christian-doctrine-en / all refs",
+    "note": "This Wikisource transcription carries no physical page/line reference of its own. Division.ref and Passage.ref are null throughout; citation is 'book-chapter' (registry.ts): Division.number / Division.id carry the printed Book roman numeral and Chapter number, and every Passage.n is \"\" (this edition's Chapter divisions are not further subdivided into separate Passages - see \"How it was imported\" in about.json)."
+  },
+  {
+    "where": "augustine-christian-doctrine-en / footnotes",
+    "note": "317 editorial <ref>...</ref> footnote(s) (translator/editor apparatus, chiefly Scripture cross-references) were removed from the reading text across the Preface and all four Books; counted in aggregate rather than quoted individually given the volume."
+  },
+  {
+    "where": "augustine-christian-doctrine-en / italic-bold markup",
+    "note": "266 run(s) of MediaWiki italic/bold apostrophe markup ('' or ''') were stripped from the reading text (this app's Passage.text has no rich-text field); every enclosed word was kept verbatim."
+  },
+  {
+    "where": "augustine-christian-doctrine-en / book-2 and book-3 vs. Latin edition",
+    "note": "This English translation preserves the traditional 42-chapter (Book II) and 37-chapter (Book III) division. The Latin De Doctrina Christiana bundled alongside this work does NOT preserve that division for its own Books II/III (its Wikisource transcription prints no chapter numerals there at all - see that edition's own anomalies.json); this is a property of the two independent Wikisource transcriptions, not something introduced by either importer."
+  },
+  {
+    "where": "augustine-christian-doctrine-en / interior paragraph numbers",
+    "note": "Where a chapter page prints more than one numbered paragraph (\"1.\", \"2.\" ...), all of them are joined into that Chapter's single Passage per this work's 'book-chapter' citation scheme, with the source's own paragraph numbers kept inline exactly as printed rather than stripped or split into separate Passages."
+  }
+]
