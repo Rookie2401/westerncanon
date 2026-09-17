@@ -33,11 +33,12 @@
  *     logged individually; the containing Passage also carries `anomaly`.
  *   - <figure/> (498 total) has no legitimately recoverable image via the
  *     TEI (its graphic url points at a dead host). For Book I's 48
- *     propositions, a real diagram image has instead been sourced directly
- *     from the scanned printed edition (Heiberg, Euclidis Opera Omnia vol.
- *     I, archive.org identifier euclidisoperaomn01eucluoft) and cropped to
- *     the diagram's portion of the page - see BOOK_1_DIAGRAMS below and
- *     data/euclid-elements/images/. Every other marker (450 of 498) is
+ *     propositions and Book II's 14 (62 total), a real diagram image has
+ *     instead been sourced directly from the scanned printed edition
+ *     (Heiberg, Euclidis Opera Omnia vol. I, archive.org identifier
+ *     euclidisoperaomn01eucluoft) and cropped to the diagram's portion of
+ *     the page - see BOOK_1_DIAGRAMS/BOOK_2_DIAGRAMS below and
+ *     data/euclid-elements/images/. Every other marker (436 of 498) is
  *     preserved as an honest `figure: { source, note }` on its passage
  *     (never a fabricated image) and logged individually to anomalies.json.
  */
@@ -207,6 +208,31 @@ function main(): void {
         },
       ]),
     );
+
+  /** Same treatment, extended to Book II's 14 propositions (all 14 have a
+   *  real diagram - unlike Book I, Book II's diagrams sit only on the
+   *  Latin-facing page of this print, not the Greek page; sourced and
+   *  hand-checked the same way). */
+  const BOOK_2_DIAGRAM_SIZE: Record<number, [number, number]> = {
+    1: [241, 218], 2: [196, 182], 3: [212, 179], 4: [212, 227], 5: [478, 310],
+    6: [303, 198], 7: [224, 226], 8: [321, 303], 9: [278, 200], 10: [326, 277],
+    11: [196, 215], 12: [211, 179], 13: [192, 228], 14: [299, 245],
+  };
+  const BOOK_2_DIAGRAMS: Record<string, { image: string; width: number; height: number }> =
+    Object.fromEntries(
+      Array.from({ length: 14 }, (_, i) => i + 1).map((n) => [
+        `Heiberg, Elements II.${n}`,
+        {
+          image: `images/book-2-prop-${n}.png`,
+          width: BOOK_2_DIAGRAM_SIZE[n]![0],
+          height: BOOK_2_DIAGRAM_SIZE[n]![1],
+        },
+      ]),
+    );
+  const REAL_DIAGRAMS: Record<string, { image: string; width: number; height: number }> = {
+    ...BOOK_1_DIAGRAMS,
+    ...BOOK_2_DIAGRAMS,
+  };
 
   /** figures seen inside a <p> that cleaned to empty text, keyed by leaf id, awaiting a surviving passage to attach to */
   const pendingFigures = new Map<string, number>();
@@ -472,7 +498,7 @@ function main(): void {
         if (figuresThisP > 0) {
           bumpFigure(passage, bookNum, type, number, figuresThisP);
           const citation = citationFor(bookNum, type, number);
-          const hasRealImage = citation in BOOK_1_DIAGRAMS;
+          const hasRealImage = citation in REAL_DIAGRAMS;
           for (let i = 0; i < figuresThisP; i++) {
             anomalies.push({
               where: currentLeafId,
@@ -638,7 +664,7 @@ function main(): void {
   // --- resolve deferred figure counts into actual PassageFigure objects ---
   let totalRealImages = 0;
   for (const [passage, { count, citation }] of figureCounts) {
-    const diagram = BOOK_1_DIAGRAMS[citation];
+    const diagram = REAL_DIAGRAMS[citation];
     if (diagram) {
       totalRealImages += 1;
       passage.figure = {
@@ -670,7 +696,7 @@ function main(): void {
   });
   anomalies.push({
     where: 'euclid-elements / diagrams',
-    note: `${totalFigureMarkers} <figure/> diagram markers total (the source graphic references a dead heml.mta.ca host, so none is recoverable via the TEI itself). ${totalRealImages} of these - Book I's 48 propositions - instead carry a real diagram image, sourced by rendering the actual printed page from Heiberg's edition (archive.org euclidisoperaomn01eucluoft) and cropping to the diagram; every crop was checked by hand against the source page. The remaining ${totalFigureMarkers - totalRealImages} markers are preserved as honest "not yet available" notes; every occurrence (image or note) is logged individually above.`,
+    note: `${totalFigureMarkers} <figure/> diagram markers total (the source graphic references a dead heml.mta.ca host, so none is recoverable via the TEI itself). ${totalRealImages} of these - Book I's 48 propositions and Book II's 14 - instead carry a real diagram image, sourced by rendering the actual printed page from Heiberg's edition (archive.org euclidisoperaomn01eucluoft) and cropping to the diagram; every crop was checked by hand against the source page. The remaining ${totalFigureMarkers - totalRealImages} markers are preserved as honest "not yet available" notes; every occurrence (image or note) is logged individually above.`,
   });
   anomalies.push({
     where: 'euclid-elements / passages',

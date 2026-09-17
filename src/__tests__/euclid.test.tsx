@@ -187,14 +187,26 @@ describe('GenericReader (Euclid Elements)', () => {
   });
 
   it('renders a passage carrying a diagram marker for a book without a real image yet as an honest note, never as a figure mask', async () => {
-    renderAt('book-2-prop-1');
+    renderAt('book-3-prop-1');
     expect(
       await screen.findByText(/A diagram appears here in the printed edition/i),
     ).toBeTruthy();
-    expect(screen.getByText('Heiberg, Elements II.1')).toBeTruthy();
+    expect(screen.getByText('Heiberg, Elements III.1')).toBeTruthy();
     expect(document.querySelector('.gr-figure__img')).toBeNull();
     expect(document.querySelector('.gr-figure img')).toBeNull();
     expect(document.querySelector('img')).toBeNull();
+  });
+
+  it("renders Book II's real diagram as a mask-tinted figure, with its citation and alt text, the same as Book I", async () => {
+    renderAt('book-2-prop-4');
+    expect(await screen.findByText('Heiberg, Elements II.4')).toBeTruthy();
+    const fig = document.querySelector<HTMLElement>('.gr-figure__img');
+    expect(fig).toBeTruthy();
+    expect(fig!.getAttribute('role')).toBe('img');
+    expect(fig!.style.maskImage).toContain('euclid-elements/images/book-2-prop-4.png');
+    expect(fig!.getAttribute('aria-label')).toMatch(/Heiberg, Elements II\.4/);
+    expect(document.querySelector('.gr-figure img')).toBeNull();
+    expect(screen.queryByText(/not yet available in this build/i)).toBeNull();
   });
 
   it("renders Book I, Common Notion 4 with Heiberg's own bracketed wording (a probable later interpolation he prints, not omits) and a flagged anomaly note, rather than a blank division", async () => {
