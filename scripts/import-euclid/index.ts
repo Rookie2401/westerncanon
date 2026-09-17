@@ -33,15 +33,17 @@
  *     logged individually; the containing Passage also carries `anomaly`.
  *   - <figure/> (498 total) has no legitimately recoverable image via the
  *     TEI (its graphic url points at a dead host). For Book I's 48
- *     propositions, Book II's 14, and Book III's 37 (99 total), a real
- *     diagram image has instead been sourced directly from the scanned
- *     printed edition (Heiberg, Euclidis Opera Omnia vol. I, archive.org
- *     identifier euclidisoperaomn01eucluoft) and cropped to the diagram's
- *     portion of the page - see BOOK_1_DIAGRAMS/BOOK_2_DIAGRAMS/
- *     BOOK_3_DIAGRAMS below and data/euclid-elements/images/. Every other
- *     marker (399 of 498) is preserved as an honest `figure: { source, note }`
- *     on its passage (never a fabricated image) and logged individually to
- *     anomalies.json.
+ *     propositions, Book II's 14, Book III's 37, and 15 of Book IV's 16
+ *     (114 total), a real diagram image has instead been sourced directly
+ *     from the scanned printed edition (Heiberg, Euclidis Opera Omnia vol. I,
+ *     archive.org identifier euclidisoperaomn01eucluoft) and cropped to the
+ *     diagram's portion of the page - see BOOK_1_DIAGRAMS/BOOK_2_DIAGRAMS/
+ *     BOOK_3_DIAGRAMS/BOOK_4_DIAGRAMS below and data/euclid-elements/images/.
+ *     Book IV.16 has no printed diagram in this edition at all (the
+ *     construction is given purely in words), so it keeps the honest note
+ *     like any other genuine gap. Every other marker (384 of 498) is
+ *     preserved as an honest `figure: { source, note }` on its passage
+ *     (never a fabricated image) and logged individually to anomalies.json.
  */
 
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
@@ -257,10 +259,37 @@ function main(): void {
         },
       ]),
     );
+  /** Same treatment again, extended to 15 of Book IV's 16 propositions (like
+   *  Books II-III, these sit only on the Latin-facing page of this print).
+   *  Proposition 16 (inscribe a regular 15-gon) has NO printed diagram in
+   *  this edition at all - the construction is given purely in words, with
+   *  no indented figure anywhere in its text - so it keeps the honest
+   *  `figure` note like any other diagram-less marker, same as genuine gaps
+   *  in earlier books. Proposition 5 prints three small side-by-side case
+   *  diagrams (centre inside/on/outside the triangle) rather than one; all
+   *  three were kept as a single wide composite image, since together they
+   *  are this proposition's one diagram. */
+  const BOOK_4_DIAGRAM_SIZE: Record<number, [number, number]> = {
+    1: [283, 236], 2: [330, 220], 3: [394, 267], 4: [310, 253], 5: [864, 197],
+    6: [229, 226], 7: [222, 224], 8: [239, 234], 9: [228, 225], 10: [306, 233],
+    11: [320, 219], 12: [261, 248], 13: [259, 227], 14: [231, 214], 15: [215, 308],
+  };
+  const BOOK_4_DIAGRAMS: Record<string, { image: string; width: number; height: number }> =
+    Object.fromEntries(
+      Array.from({ length: 15 }, (_, i) => i + 1).map((n) => [
+        `Heiberg, Elements IV.${n}`,
+        {
+          image: `images/book-4-prop-${n}.png`,
+          width: BOOK_4_DIAGRAM_SIZE[n]![0],
+          height: BOOK_4_DIAGRAM_SIZE[n]![1],
+        },
+      ]),
+    );
   const REAL_DIAGRAMS: Record<string, { image: string; width: number; height: number }> = {
     ...BOOK_1_DIAGRAMS,
     ...BOOK_2_DIAGRAMS,
     ...BOOK_3_DIAGRAMS,
+    ...BOOK_4_DIAGRAMS,
   };
 
   /** figures seen inside a <p> that cleaned to empty text, keyed by leaf id, awaiting a surviving passage to attach to */

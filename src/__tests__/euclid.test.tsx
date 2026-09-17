@@ -187,11 +187,11 @@ describe('GenericReader (Euclid Elements)', () => {
   });
 
   it('renders a passage carrying a diagram marker for a book without a real image yet as an honest note, never as a figure mask', async () => {
-    renderAt('book-4-prop-1');
+    renderAt('book-5-prop-1');
     expect(
       await screen.findByText(/A diagram appears here in the printed edition/i),
     ).toBeTruthy();
-    expect(screen.getByText('Heiberg, Elements IV.1')).toBeTruthy();
+    expect(screen.getByText('Heiberg, Elements V.1')).toBeTruthy();
     expect(document.querySelector('.gr-figure__img')).toBeNull();
     expect(document.querySelector('.gr-figure img')).toBeNull();
     expect(document.querySelector('img')).toBeNull();
@@ -219,6 +219,29 @@ describe('GenericReader (Euclid Elements)', () => {
     expect(fig!.getAttribute('aria-label')).toMatch(/Heiberg, Elements III\.1/);
     expect(document.querySelector('.gr-figure img')).toBeNull();
     expect(screen.queryByText(/not yet available in this build/i)).toBeNull();
+  });
+
+  it("renders Book IV's real diagram as a mask-tinted figure, with its citation and alt text, the same as Books I-III", async () => {
+    renderAt('book-4-prop-1');
+    expect(await screen.findByText('Heiberg, Elements IV.1')).toBeTruthy();
+    const fig = document.querySelector<HTMLElement>('.gr-figure__img');
+    expect(fig).toBeTruthy();
+    expect(fig!.getAttribute('role')).toBe('img');
+    expect(fig!.style.maskImage).toContain('euclid-elements/images/book-4-prop-1.png');
+    expect(fig!.getAttribute('aria-label')).toMatch(/Heiberg, Elements IV\.1/);
+    expect(document.querySelector('.gr-figure img')).toBeNull();
+    expect(screen.queryByText(/not yet available in this build/i)).toBeNull();
+  });
+
+  it('renders Book IV.16 (the one proposition in Books I-IV with no printed diagram at all) as an honest note, never a figure mask', async () => {
+    renderAt('book-4-prop-16');
+    expect(
+      await screen.findByText(/A diagram appears here in the printed edition/i),
+    ).toBeTruthy();
+    expect(screen.getByText('Heiberg, Elements IV.16')).toBeTruthy();
+    expect(document.querySelector('.gr-figure__img')).toBeNull();
+    expect(document.querySelector('.gr-figure img')).toBeNull();
+    expect(document.querySelector('img')).toBeNull();
   });
 
   it("renders Book I, Common Notion 4 with Heiberg's own bracketed wording (a probable later interpolation he prints, not omits) and a flagged anomaly note, rather than a blank division", async () => {

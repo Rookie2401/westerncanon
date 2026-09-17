@@ -99,32 +99,37 @@ export const ABOUT_SECTIONS: AboutSection[] = [
         'each proof where the printed edition places a geometric diagram. Every one of these markers ' +
         'points to a graphic reference at heml.mta.ca, a defunct diagram host with no working images ' +
         'and no way to recover which file went with which proposition via the TEI itself.',
-      'Book I’s 48 propositions, Book II’s 14, and Book III’s 37 (all of each — 99 in all) instead ' +
-        'carry a real diagram image. Each was sourced by downloading the actual public-domain scan of ' +
-        'Heiberg’s printed edition (Euclidis Opera Omnia vol. I, which holds Books I–IV; Internet ' +
-        'Archive identifier euclidisoperaomn01eucluoft), rendering the exact page the diagram appears ' +
-        'on at high resolution, and cropping tightly to just the diagram’s own lines — never redrawn, ' +
-        'fabricated, or reconstructed from the text. Every one of the 99 crops was checked by hand ' +
-        'against the source page before being committed. Book II’s and Book III’s diagrams sit only on ' +
-        'the Latin translation’s facing page in this print, never on the Greek page opposite — confirmed ' +
-        'by checking both sides of the spread for every proposition before concluding a diagram was ' +
-        'genuinely absent, not merely on the other language’s page. (Two Book III propositions, 35 and ' +
-        '36, print two illustrative sub-case diagrams each on the page — a degenerate through-the-centre ' +
-        'special case alongside the fuller general-case figure; the general-case figure was chosen for ' +
-        'each, since it is the more complete illustration of the proof.) The ink is kept exactly as ' +
-        'printed (no lines added, moved, or straightened); only its presentation is adapted to the ' +
-        'app’s own design — the aged-paper background is dropped in favour of a transparent one, and ' +
-        'the linework is tinted to the app’s accent colour, so each diagram sits on the page the same ' +
-        'way in both light and dark mode. The image sits next to an exact citation (e.g. "Heiberg, ' +
-        'Elements I.47" or "Heiberg, Elements III.35") and alt text naming the proposition.',
-      'The remaining 399 markers (Books IV–XIII) are preserved as an honest note — "A diagram appears ' +
-        'here in the printed edition; not yet available in this build." — attached to the passage in ' +
-        'which they appear, together with the same exact-citation convention. All 498 markers (image ' +
-        'or note) are logged individually in anomalies.json with their division id, so the information ' +
-        'is preserved either way. A reader who wants to see Heiberg’s actual plates for the other books ' +
-        'can consult the public-domain scan of Euclidis Opera Omnia on the Internet Archive ' +
-        '(archive.org/details/euclidisoperaomn01eucluoft and the following volumes) — an external ' +
-        'reference only, not bundled with this app.',
+      'Book I’s 48 propositions, Book II’s 14, Book III’s 37, and 15 of Book IV’s 16 (114 in all) ' +
+        'instead carry a real diagram image. Each was sourced by downloading the actual public-domain ' +
+        'scan of Heiberg’s printed edition (Euclidis Opera Omnia vol. I, which holds Books I–IV; ' +
+        'Internet Archive identifier euclidisoperaomn01eucluoft), rendering the exact page the diagram ' +
+        'appears on at high resolution, and cropping tightly to just the diagram’s own lines — never ' +
+        'redrawn, fabricated, or reconstructed from the text. Every one of the 114 crops was checked by ' +
+        'hand against the source page before being committed. Book II’s, Book III’s, and Book IV’s ' +
+        'diagrams sit only on the Latin translation’s facing page in this print, never on the Greek page ' +
+        'opposite — confirmed by checking both sides of the spread for every proposition before ' +
+        'concluding a diagram was genuinely absent, not merely on the other language’s page. (Two Book ' +
+        'III propositions, 35 and 36, print two illustrative sub-case diagrams each on the page — a ' +
+        'degenerate through-the-centre special case alongside the fuller general-case figure; the ' +
+        'general-case figure was chosen for each, since it is the more complete illustration of the ' +
+        'proof. Book IV.5 prints three small side-by-side case diagrams — the circumcentre falling ' +
+        'inside, on, or outside the triangle — kept together as a single wide composite image, since all ' +
+        'three make up this proposition’s one diagram. Book IV.16, inscribing a regular 15-gon, has no ' +
+        'printed diagram at all in this edition — the construction is given purely in words — so it ' +
+        'keeps the honest note below like any other genuine gap.) The ink is kept exactly as printed (no ' +
+        'lines added, moved, or straightened); only its presentation is adapted to the app’s own design ' +
+        '— the aged-paper background is dropped in favour of a transparent one, and the linework is ' +
+        'tinted to the app’s accent colour, so each diagram sits on the page the same way in both light ' +
+        'and dark mode. The image sits next to an exact citation (e.g. "Heiberg, Elements I.47" or ' +
+        '"Heiberg, Elements IV.12") and alt text naming the proposition.',
+      'The remaining 384 markers (Book IV.16 and Books V–XIII) are preserved as an honest note — "A ' +
+        'diagram appears here in the printed edition; not yet available in this build." — attached to ' +
+        'the passage in which they appear, together with the same exact-citation convention. All 498 ' +
+        'markers (image or note) are logged individually in anomalies.json with their division id, so ' +
+        'the information is preserved either way. A reader who wants to see Heiberg’s actual plates for ' +
+        'the other books can consult the public-domain scan of Euclidis Opera Omnia on the Internet ' +
+        'Archive (archive.org/details/euclidisoperaomn01eucluoft and the following volumes) — an ' +
+        'external reference only, not bundled with this app.',
     ],
   },
   {
@@ -190,10 +195,10 @@ export const ABOUT_SECTIONS: AboutSection[] = [
         'surrounding sentence — e.g. Book I.38’s "ἐπὶ τὰ Η, θ," is followed two lines later by "παράλληλος ' +
         'ἤχθω ἡ ΖΘ", which only parses if the point is Θ. All 33 are corrected to their capitalised, ' +
         'properly-marked form.',
-      'Diagrams. See "Diagrams" above: Book I’s 48 propositions, Book II’s 14, and Book III’s 37 carry ' +
-        'a real diagram image, sourced from Heiberg’s printed scan and hand-checked; the remaining 399 ' +
-        'markers (Books IV–XIII) are preserved as honest citation notes. Never a fabricated image, ' +
-        'either way.',
+      'Diagrams. See "Diagrams" above: Book I’s 48 propositions, Book II’s 14, Book III’s 37, and 15 of ' +
+        'Book IV’s 16 carry a real diagram image, sourced from Heiberg’s printed scan and hand-checked; ' +
+        'the remaining 384 markers (Book IV.16 and Books V–XIII) are preserved as honest citation notes. ' +
+        'Never a fabricated image, either way.',
       'Character encoding. The source is already NFC-normalised polytonic Greek; no normalisation pass ' +
         'was applied or needed. One exception is preserved verbatim rather than "fixed": Book XI, ' +
         'Proposition 31 — a solid-geometry proof with more labelled points than the 24-letter Greek ' +
