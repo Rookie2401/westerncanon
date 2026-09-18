@@ -1,0 +1,56 @@
+{
+  "workId": "isagoge-en",
+  "title": "Isagoge",
+  "author": "Porphyry",
+  "language": "en",
+  "edition": "The Organon, or Logical Treatises, of Aristotle. With the Introduction of Porphyry. Literally Translated, with Notes, Syllogistic Examples, Analysis, and Introduction (London: Henry G. Bohn, 1853)",
+  "translator": "Octavius Freire Owen",
+  "provenance": "English Wikisource, page \"Organon (Owen)/The Introduction of Porphyry\" (a page-scan transcription of O. F. Owen's Organon of Aristotle Vol. 2 (1853), pp. 609-633); imported by scripts/import-isagoge-en.",
+  "license": "Owen's 1853 translation is in the public domain. The digital transcription is taken from English Wikisource and is available under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About the text",
+      "paragraphs": [
+        "This is Porphyry's Isagoge in the English translation made by Octavius Freire Owen in 1853, published as an appendix to his translation of Aristotle's Organon in Bohn's Classical Library. It is the standard public-domain English version of Porphyry's primer on the five predicables (genus, species, differentia, property and accident).",
+        "The text here is Owen's English, verbatim. Nothing is translated further, modernised, normalised or silently corrected; Owen's own 1853 prose style, including its archaic diction and punctuation, is preserved exactly as printed."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Octavius Freire Owen, trans., The Organon, or Logical Treatises, of Aristotle. With the Introduction of Porphyry. Literally Translated, with Notes, Syllogistic Examples, Analysis, and Introduction, Vol. 2 (London: Henry G. Bohn, 1853), pp. 609-633.",
+        "Owen's translation is chaptered as 17 numbered chapters (Chap. I-XVII), with no separate preface - Chapter I itself is titled \"Object of the writer, in the present Introduction.\" This is a genuinely different scheme from the Busse-derived praefatio-plus-26-capitula division shared by the Greek (isagoge-grc) and Latin (isagoge-la) editions bundled alongside it under the same Isagoge group: the three division trees are not aligned 1:1, and are treated as independent editions, the same way this repo already tolerates independently-divided editions of the same work elsewhere."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by chapter (roman numeral) and the chapter's own printed English title. This source carries no printed paragraph numbers and this import assigns no page/line citation scheme, so every page/line reference field is null."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the rendered HTML of the English Wikisource page \"Organon (Owen)/The Introduction of Porphyry\", a page-scan transcription of Owen's 1853 printed volume. Because that page is page-scan transcluded, the MediaWiki wikitext API returns only page-range markers rather than real text; the rendered HTML (`action=parse&prop=text`) was fetched once instead and is bundled with the app. Nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer parses the rendered HTML with jsdom, locates the main transcluded page body, and splits it into 17 chapter divisions at each \"Chap. N.--Title\" heading. Passages are the paragraph units of the source. Numbered footnote/endnote apparatus and the marginal running-head \"sidenotes\" printed in the 1853 edition were removed as transport scaffolding, along with inline page-scan anchors and wiki styling markup; none of this is reading text. A small number of stray, non-prose transport characters (an orphaned footnote-call-out asterisk, and a single stray \"}\" abutting a removed sidenote) were also removed - see \"Known gaps & anomalies\" below. Every other irregularity found in the actual printed prose is preserved verbatim."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 17 chapters are present; the text runs verbatim from \"Since it is necessary, Chrysaorius, ...\" to the closing \"...but these are sufficient for their distinction, and the setting forth of their agreement.\" Nothing is dropped, merged or reordered beyond the apparatus and stray marks described above.",
+        "Table of contents. The source page's own \"Contents\" block lists the Chapter II title twice in a row. This was checked directly against the document body, which contains exactly one Chapter II heading and one Chapter II content block; the duplication is a TOC-only transcription glitch and no duplicate chapter was created.",
+        "Chapter IV, apparent dropped word. The source reads \"...since if any thing be a it is capable of neighing, and if any thing be capable of neighing it is a horse,\" apparently missing a word (most likely \"horse\") before \"it is capable of neighing.\" This is preserved exactly as transcribed; no word has been guessed or inserted.",
+        "OCR-level irregularities. The transcription contains a number of uncorrected letter-substitution errors typical of page-scan OCR (e.g. \"diners\" for \"differs\", \"hut\"/\"nut\"/\"cot\" for \"but\"/\"not\"/\"not\", \"arc\" for \"are\", \"mast\" for \"must\") - all preserved verbatim and not corrected.",
+        "Chapter XIV heading. The TOC gives the title in the singular (\"...Accident and Difference.\"); the chapter's own printed heading in the body is plural (\"...Accident and Differences.\"). The body heading is used as Division.sourceHeading.",
+        "Stray transport marks. A small number of paragraphs contained a lone \"*\" footnote call-out (orphaned once its target marginal sidenote was stripped as apparatus) and, once, a stray \"}\" character directly abutting a stripped sidenote with no matching \"{\" anywhere in the text. Both are almost certainly leaked wiki/transport markup rather than part of Owen's prose and were removed; each affected passage carries a Passage.anomaly note.",
+        "This source has no printed paragraph numbers, so every Passage.n is the empty string; cite by chapter."
+      ]
+    }
+  ]
+}

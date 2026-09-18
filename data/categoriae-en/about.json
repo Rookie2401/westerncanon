@@ -1,0 +1,56 @@
+{
+  "workId": "categoriae-en",
+  "title": "Categories",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "Ella Mary Edghill",
+  "editor": "William David Ross",
+  "edition": "The Works of Aristotle, Volume I, ed. W. D. Ross (Oxford: Clarendon Press, 1928)",
+  "provenance": "English Wikisource, page \"The Works of Aristotle/Categories\", fetched once via the MediaWiki action=parse&prop=text API (this page is a page-scan transclusion: action=parse&prop=wikitext returns only <pages/> transclusion markup, not the text itself, so the rendered HTML was fetched and parsed instead); imported by scripts/import-aristotle-categoriae-en. The raw dump is committed at scripts/import-aristotle-categoriae-en/raw/categories-wikisource.json.",
+  "license": "Edghill’s 1928 translation is in the public domain (published before 1929). The digital transcription and page-scan proofreading are distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Aristotle’s Categories — English, trans. Edghill",
+      "paragraphs": [
+        "This is Aristotle’s Categories in the English translation made by Ella Mary Edghill for the Oxford \"Works of Aristotle\" series (general editor W. D. Ross), first published in 1928. It stands alongside the Greek text (Bekker 1837) and Boethius’s Latin translation already in this library as a third, modern-English rendering of the same treatise.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Where the source is irregular - a duplicated or out-of-sequence printed line marker, for instance - the irregularity is preserved in the underlying data and noted below; it never affects the reading prose itself, only the citation apparatus."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The Works of Aristotle, Volume I, ed. W. D. Ross (Oxford: Clarendon Press, 1928). Edghill translated the Categories and De Interpretatione for this volume; Ross was the series’ general editor. This 1928 translation is in the public domain.",
+        "The work is divided into its 15 traditional chapters, the same division as the companion Greek and Latin texts in this library. Unlike those two - whose digital sources carry no Bekker page/column/line milestones - this source prints them inline throughout (page/column anchors such as \"16a\", plus a line number every five lines), so citation here is by Bekker reference as well as by chapter; see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the RENDERED HTML of the English Wikisource page \"The Works of Aristotle/Categories\", fetched once through the MediaWiki action=parse&prop=text API and committed under the importer’s raw/ directory. This page is a ProofreadPage scan transclusion: unlike the plain-wikitext sources used for the Latin editions in this library, action=parse&prop=wikitext for a transcluded work like this one returns only <pages index=\"...\" from=X to=Y/> markup pointing at the underlying scanned Page: namespace, not the assembled text - so the already-rendered HTML was fetched and parsed with jsdom instead. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer locates the single reading-text block (identified by the anchors marking each chapter’s start) and reads its direct children in document order: ordinary paragraphs become passages; wiki/HTML transport scaffolding only is removed (per-template <style>/<link> resets, page-transition spacers, a zero-width-space page-break artefact, and the <span> elements that carry the margin-floated chapter number and Bekker page/column/line markers - their content is read for the citation apparatus, then removed from the reading prose itself so it never appears mid-sentence). A separate, earlier \"TABLE OF CONTENTS\" transclusion on the same page (one-line editorial chapter summaries) is not read as reading text at all.",
+        "35 inline footnote markers (Ross’s editorial annotation, rendered as bracketed superscript numbers) were stripped from the reading text; the footnotes themselves are translator/editorial apparatus, not Aristotle’s text, and are not preserved anywhere in this build, mirroring how this library’s other English translations (e.g. Augustine’s Confessions) handle footnote apparatus.",
+        "Chapter 7 duplicated line marker. The source prints the Bekker line-10 marker twice in immediate succession near the start of chapter 7 (Bekker 6b), rather than once. This is a transcription artefact in the Wikisource page, not a textual variant; it is preserved as-is (not corrected or de-duplicated) and does not affect the reading text, only momentarily the fine-grained line count, which resumes its normal upward sequence at the very next marker (15). See anomalies.json.",
+        "Each chapter also carries an English chapter title. These titles are editorial: they are not part of the source text and are marked \"ed.\" wherever they appear. They are shared with the Greek and Latin siblings so all three line up 1:1."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by chapter and by Bekker reference. Unlike the Greek and Latin sources in this library - whose digital editions carry no Bekker milestones at all - this source prints them inline: a page/column anchor (e.g. \"16a\" = Bekker page 16, column a, resetting the line count to 1) and, roughly every five lines, a line-number marker. Each chapter’s Division.ref is reconstructed from these markers as \"Bekker <start>–<end>\", where <end> is the position in effect at the moment the next chapter begins (Bekker numbering is continuous across chapter boundaries, so one chapter’s end and the next one’s start are the same position) - precise to the nearest printed marker, never fabricated to the exact word. Passage.ref is left null throughout: no marker is printed at every paragraph break, only at the coarser points above, so no per-passage reference is invented.",
+        "In the standard pagination this work occupies Bekker 1a1–15b33. The markers actually printed in this source run 1a1–15b30 - a few lines short of the canonical end, since line numbers are only printed every fifth line and the work’s last few lines fall after the final printed marker; nothing is invented to close that gap."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 15 chapters are present and in order, verbatim from the incipit (\"Things are said to be named 'equivocally' when, though they have a common name, the definition corresponding with the name differs for each.\") to the explicit (\"Other senses of the word might perhaps be found, but the most ordinary ones have all been enumerated.\"). No paragraph is dropped, merged or reordered; the bundled raw dump is identical to the English Wikisource page as retrieved.",
+        "Translator’s preface and table of contents. The page also carries a translator’s prefatory note (general remarks on the translation, not part of Aristotle’s text) and an editorial table of contents (one-line chapter summaries with anchor links). Neither is Aristotle’s text; neither is read as reading text by this importer."
+      ]
+    }
+  ]
+}

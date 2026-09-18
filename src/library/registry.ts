@@ -131,6 +131,42 @@ export const WORKS: Work[] = [
     },
   },
   {
+    id: 'categoriae-en',
+    authorId: 'aristotle',
+    title: 'Categories',
+    group: 'Categories',
+    language: 'en',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'English · trans. Edghill',
+    source: {
+      translator: 'Ella Mary Edghill',
+      editor: 'William David Ross',
+      edition: 'The Works of Aristotle, Volume I, ed. W. D. Ross (Oxford: Clarendon Press, 1928)',
+      provenance: 'English Wikisource, “The Works of Aristotle/Categories”.',
+      license:
+        'Edghill’s 1928 translation public domain; transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
+    id: 'de-interpretatione-en',
+    authorId: 'aristotle',
+    title: 'On Interpretation',
+    group: 'De Interpretatione',
+    language: 'en',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'English · trans. Edghill',
+    source: {
+      translator: 'Ella Mary Edghill',
+      editor: 'William David Ross',
+      edition: 'The Works of Aristotle, Volume I, ed. W. D. Ross (Oxford: Clarendon Press, 1928)',
+      provenance: 'English Wikisource, “The Works of Aristotle/On Interpretation”.',
+      license:
+        'Edghill’s 1928 translation public domain; transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
     id: 'isagoge-grc',
     authorId: 'porphyry',
     title: 'Εἰσαγωγή',
@@ -167,10 +203,28 @@ export const WORKS: Work[] = [
     },
   },
   {
+    id: 'isagoge-en',
+    authorId: 'porphyry',
+    title: 'Isagoge',
+    group: 'Isagoge',
+    language: 'en',
+    citationScheme: 'chapter',
+    profile: 'generic',
+    meta: 'English · trans. Owen',
+    source: {
+      edition: 'The Organon, or Logical Treatises, of Aristotle (Bohn, 1853)',
+      translator: 'Octavius Freire Owen',
+      provenance: 'English Wikisource, “Organon (Owen)/The Introduction of Porphyry”.',
+      license:
+        'Owen’s translation public domain; transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
     id: 'euclid-elements',
     authorId: 'euclid',
     title: 'Στοιχεῖα',
     commonTitle: 'Elements',
+    group: 'Elements',
     language: 'grc',
     citationScheme: 'heiberg-book-number',
     profile: 'generic',
@@ -182,6 +236,24 @@ export const WORKS: Work[] = [
         'TEI from PerseusDL/canonical-greekLit (CTS urn:cts:greekLit:tlg1799.tlg001, witness perseus-grc2).',
       license:
         'Heiberg 1883-88 public domain; digital text CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).',
+    },
+  },
+  {
+    id: 'euclid-elements-en',
+    authorId: 'euclid',
+    title: 'Elements',
+    group: 'Elements',
+    language: 'en',
+    citationScheme: 'heiberg-book-number',
+    profile: 'generic',
+    meta: 'English · trans. Heath',
+    source: {
+      edition: "The Thirteen Books of Euclid's Elements, trans. from the text of Heiberg (Cambridge, 1908)",
+      translator: 'Thomas Little Heath',
+      provenance:
+        'TEI from PerseusDL/canonical-greekLit (CTS urn:cts:greekLit:tlg1799.tlg001, witness perseus-eng2).',
+      license:
+        'Heath 1908 public domain; digital text CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).',
     },
   },
   {

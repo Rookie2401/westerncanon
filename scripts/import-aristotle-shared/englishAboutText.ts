@@ -1,0 +1,125 @@
+/**
+ * Prose "About the text" bodies for the two English Aristotle works -
+ * Categories and De Interpretatione, in Ella Mary Edghill's 1928 Oxford
+ * translation (The Works of Aristotle, Vol. I, ed. W. D. Ross), from English
+ * Wikisource. Kept here (not hand-edited into data/) so re-running the
+ * importers reproduces the enriched about.json. Rendered by
+ * src/screens/WorkAbout.tsx, which prepends a "The text" paragraph (from
+ * title / author / edition) and appends a "Provenance & licensing" block
+ * (from about.provenance + about.license), so the section arrays below carry
+ * the middle sections only - mirrors scripts/import-aristotle-shared/aboutText.ts's
+ * grc/la sections for the same two works.
+ */
+
+export interface AboutSection {
+  heading: string;
+  paragraphs: string[];
+}
+
+export const EN_TRANSLATOR = 'Ella Mary Edghill';
+export const EN_EDITOR = 'William David Ross';
+export const EN_EDITION = 'The Works of Aristotle, Volume I, ed. W. D. Ross (Oxford: Clarendon Press, 1928)';
+
+export const CAT_EN_PROVENANCE =
+  'English Wikisource, page "The Works of Aristotle/Categories", fetched once via the MediaWiki action=parse&prop=text API (this page is a page-scan transclusion: action=parse&prop=wikitext returns only <pages/> transclusion markup, not the text itself, so the rendered HTML was fetched and parsed instead); imported by scripts/import-aristotle-categoriae-en. The raw dump is committed at scripts/import-aristotle-categoriae-en/raw/categories-wikisource.json.';
+
+export const CAT_EN_LICENSE =
+  'Edghill’s 1928 translation is in the public domain (published before 1929). The digital transcription and page-scan proofreading are distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).';
+
+export const DEINT_EN_PROVENANCE =
+  'English Wikisource, page "The Works of Aristotle/On Interpretation", fetched once via the MediaWiki action=parse&prop=text API (this page is a page-scan transclusion: action=parse&prop=wikitext returns only <pages/> transclusion markup, not the text itself, so the rendered HTML was fetched and parsed instead); imported by scripts/import-aristotle-deint-en. The raw dump is committed at scripts/import-aristotle-deint-en/raw/on-interpretation-wikisource.json.';
+
+export const DEINT_EN_LICENSE = CAT_EN_LICENSE;
+
+function enAboutSections(opts: {
+  workName: string;
+  perihermenias?: boolean;
+  wikiPage: string;
+  chapterCount: number;
+  canonicalBekkerSpan: string;
+  extractedBekkerSpan: string;
+  incipit: string;
+  explicit: string;
+  refsStripped: number;
+  gaps: string[];
+}): AboutSection[] {
+  return [
+    {
+      heading: `Aristotle’s ${opts.workName} — English, trans. Edghill`,
+      paragraphs: [
+        `This is Aristotle’s ${opts.workName}${
+          opts.perihermenias ? ' ("Perihermenias")' : ''
+        } in the English translation made by Ella Mary Edghill for the Oxford "Works of Aristotle" series (general editor W. D. Ross), first published in 1928. It stands alongside the Greek text (Bekker 1837) and Boethius’s Latin translation already in this library as a third, modern-English rendering of the same treatise.`,
+        'The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Where the source is irregular - a duplicated or out-of-sequence printed line marker, for instance - the irregularity is preserved in the underlying data and noted below; it never affects the reading prose itself, only the citation apparatus.',
+      ],
+    },
+    {
+      heading: 'The edition',
+      paragraphs: [
+        `${EN_EDITION}. Edghill translated the Categories and De Interpretatione for this volume; Ross was the series’ general editor. This 1928 translation is in the public domain.`,
+        `The work is divided into its ${opts.chapterCount} traditional chapters, the same division as the companion Greek and Latin texts in this library. Unlike those two - whose digital sources carry no Bekker page/column/line milestones - this source prints them inline throughout (page/column anchors such as "16a", plus a line number every five lines), so citation here is by Bekker reference as well as by chapter; see "Reference scheme" below.`,
+      ],
+    },
+    {
+      heading: 'Digital source',
+      paragraphs: [
+        `The machine-readable text is the RENDERED HTML of the English Wikisource page "${opts.wikiPage}", fetched once through the MediaWiki action=parse&prop=text API and committed under the importer’s raw/ directory. This page is a ProofreadPage scan transclusion: unlike the plain-wikitext sources used for the Latin editions in this library, action=parse&prop=wikitext for a transcluded work like this one returns only <pages index="..." from=X to=Y/> markup pointing at the underlying scanned Page: namespace, not the assembled text - so the already-rendered HTML was fetched and parsed with jsdom instead. It is bundled with the app; nothing is loaded from the network at runtime.`,
+      ],
+    },
+    {
+      heading: 'How it was imported',
+      paragraphs: [
+        `The importer locates the single reading-text block (identified by the anchors marking each chapter’s start) and reads its direct children in document order: ordinary paragraphs become passages; wiki/HTML transport scaffolding only is removed (per-template <style>/<link> resets, page-transition spacers, a zero-width-space page-break artefact, and the <span> elements that carry the margin-floated chapter number and Bekker page/column/line markers - their content is read for the citation apparatus, then removed from the reading prose itself so it never appears mid-sentence). A separate, earlier "TABLE OF CONTENTS" transclusion on the same page (one-line editorial chapter summaries) is not read as reading text at all.`,
+        `${opts.refsStripped} inline footnote markers (Ross’s editorial annotation, rendered as bracketed superscript numbers) were stripped from the reading text; the footnotes themselves are translator/editorial apparatus, not Aristotle’s text, and are not preserved anywhere in this build, mirroring how this library’s other English translations (e.g. Augustine’s Confessions) handle footnote apparatus.`,
+        ...opts.gaps,
+        'Each chapter also carries an English chapter title. These titles are editorial: they are not part of the source text and are marked "ed." wherever they appear. They are shared with the Greek and Latin siblings so all three line up 1:1.',
+      ],
+    },
+    {
+      heading: 'Reference scheme',
+      paragraphs: [
+        `Citation here is by chapter and by Bekker reference. Unlike the Greek and Latin sources in this library - whose digital editions carry no Bekker milestones at all - this source prints them inline: a page/column anchor (e.g. "16a" = Bekker page 16, column a, resetting the line count to 1) and, roughly every five lines, a line-number marker. Each chapter’s Division.ref is reconstructed from these markers as "Bekker <start>–<end>", where <end> is the position in effect at the moment the next chapter begins (Bekker numbering is continuous across chapter boundaries, so one chapter’s end and the next one’s start are the same position) - precise to the nearest printed marker, never fabricated to the exact word. Passage.ref is left null throughout: no marker is printed at every paragraph break, only at the coarser points above, so no per-passage reference is invented.`,
+        `In the standard pagination this work occupies Bekker ${opts.canonicalBekkerSpan}. The markers actually printed in this source run ${opts.extractedBekkerSpan} - a few lines short of the canonical end, since line numbers are only printed every fifth line and the work’s last few lines fall after the final printed marker; nothing is invented to close that gap.`,
+      ],
+    },
+    {
+      heading: 'Known gaps & anomalies',
+      paragraphs: [
+        `Completeness. All ${opts.chapterCount} chapters are present and in order, verbatim from the incipit ("${opts.incipit}") to the explicit ("${opts.explicit}"). No paragraph is dropped, merged or reordered; the bundled raw dump is identical to the English Wikisource page as retrieved.`,
+        'Translator’s preface and table of contents. The page also carries a translator’s prefatory note (general remarks on the translation, not part of Aristotle’s text) and an editorial table of contents (one-line chapter summaries with anchor links). Neither is Aristotle’s text; neither is read as reading text by this importer.',
+        ...opts.gaps.length ? [] : [],
+      ],
+    },
+  ];
+}
+
+export const CAT_EN_ABOUT_SECTIONS: AboutSection[] = enAboutSections({
+  workName: 'Categories',
+  wikiPage: 'The Works of Aristotle/Categories',
+  chapterCount: 15,
+  canonicalBekkerSpan: '1a1–15b33',
+  extractedBekkerSpan: '1a1–15b30',
+  incipit: "Things are said to be named 'equivocally' when, though they have a common name, the definition corresponding with the name differs for each.",
+  explicit: 'Other senses of the word might perhaps be found, but the most ordinary ones have all been enumerated.',
+  refsStripped: 35,
+  gaps: [
+    'Chapter 7 duplicated line marker. The source prints the Bekker line-10 marker twice in immediate succession near the start of chapter 7 (Bekker 6b), rather than once. This is a transcription artefact in the Wikisource page, not a textual variant; it is preserved as-is (not corrected or de-duplicated) and does not affect the reading text, only momentarily the fine-grained line count, which resumes its normal upward sequence at the very next marker (15). See anomalies.json.',
+  ],
+});
+
+export const DEINT_EN_ABOUT_SECTIONS: AboutSection[] = enAboutSections({
+  workName: 'De Interpretatione',
+  perihermenias: true,
+  wikiPage: 'The Works of Aristotle/On Interpretation',
+  chapterCount: 14,
+  canonicalBekkerSpan: '16a1–24b9',
+  extractedBekkerSpan: '16a1–24b5',
+  incipit: "First we must define the terms 'noun' and 'verb', then the terms 'denial' and 'affirmation', then 'proposition' and 'sentence'.",
+  explicit: 'For whereas, when two propositions are true, a man may state both at the same time without inconsistency, contrary propositions are those which state contrary conditions, and contrary conditions cannot subsist at one and the same time in the same subject.',
+  refsStripped: 67,
+  gaps: [
+    'Two backward line-marker jumps. In chapter 3 (Bekker 16b) and again in chapter 12 (Bekker 21b), a printed line marker is immediately followed by a smaller one (10 then 5; 30 then 15) instead of continuing to increase. Both are transcription artefacts in the Wikisource page, not textual variants; both are preserved as printed (not corrected) and flagged. See anomalies.json.',
+    'Two "square of opposition" tables. Chapters 12 and 13 each print one table of contradictory/contrary modal propositions - genuine argument content introduced in the prose itself ("We must consider the following pairs as contradictory propositions:" / "Let us consider these statements by the help of a table:"), not apparatus. Passage.text has no table field, so each is flattened into one passage of plain text: non-empty cells joined with " — ", rows joined with " / ", left-to-right and top-to-bottom, with every word kept and nothing reordered or reworded. Flagged in anomalies.json.',
+    'Three unreproduced diagrams. Chapter 10 illustrates three "indefinite name" affirmation/denial schemes with scanned page images (cropped from the printed book) rather than a transcribed table. No machine-readable text exists for them in this source, and no replacement image is bundled in this build (this remains fully offline; the scans live on Wikimedia Commons under a separate licence and were not brought into this build’s asset pipeline). Each is recorded as an honest `Passage.figure` marker - `source` names the exact scanned page, `note` explains there is no image - attached to the passage immediately before it, per this library’s established convention for a printed figure with no legitimately-bundled replacement (compare the Euclid Elements import). Nothing is fabricated in their place.',
+  ],
+});

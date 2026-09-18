@@ -1,0 +1,73 @@
+{
+  "workId": "euclid-elements-en",
+  "title": "The Thirteen Books of Euclid's Elements",
+  "author": "Euclid",
+  "language": "en",
+  "edition": "The Thirteen Books of Euclid's Elements, translated from the text of Heiberg, with introduction and commentary (Cambridge University Press, 1908)",
+  "translator": "Thomas Little Heath",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg1799.tlg001, edition witness perseus-eng2), which digitises Thomas L. Heath’s 1908 English translation; imported by scripts/import-euclid-en.",
+  "license": "Heath 1908 public domain; digital text CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).",
+  "sections": [
+    {
+      "heading": "Euclid's Elements in English",
+      "paragraphs": [
+        "This is Thomas Little Heath’s 1908 English translation of Euclid’s Στοιχεῖα (\"Elements\"), the foundational work of ancient geometry and number theory, in thirteen books: plane geometry (I–IV, VI), the theory of proportion (V), number theory (VII–IX), incommensurable magnitudes (X), and solid geometry (XI–XIII). It is a companion edition to this app’s Greek (Heiberg) text of the same work, sharing the same Book/section/proposition numbering throughout, and can be read side by side with it.",
+        "The text here is Heath’s translation, verbatim. Nothing is re-translated, modernised, or silently corrected. Heath’s own extensive scholarly commentary — printed as notes following many propositions — is excluded from the reading text (see \"How it was imported\" below), but every one of his part-labels, cross-references and bracketed remarks that Heath himself printed as part of the translation proper is kept exactly as he wrote it."
+      ]
+    },
+    {
+      "heading": "The translation",
+      "paragraphs": [
+        "Thomas Little Heath, *The Thirteen Books of Euclid’s Elements*, translated from the text of Heiberg, with introduction and commentary, 3 vols. (Cambridge: Cambridge University Press, 1908). Heath translates directly from J. L. Heiberg’s critical Greek edition (Euclidis Opera Omnia, Leipzig: Teubner, 1883–88) — the same edition this app’s Greek text is transcribed from — and remains the standard scholarly English Euclid.",
+        "Heath structures Book I’s propositions with explicit part-labels — \"Enunciation\", \"Proof.\", \"QED.\" — to show a first-time reader how each proposition is built; he then drops the labels from Book II onward as an established convention, not an oversight. This importer preserves that asymmetry exactly as printed rather than adding or removing labels anywhere."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg1799.tlg001.perseus-eng2 from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The source divides the work in exactly three levels, same as the Greek edition: Book (I–XIII), then a section type (Definitions, Postulates, Common Notions, Propositions — not every book has every type; Books VIII, IX, XII and XIII have no definitions, and Book X alone repeats the definitions/propositions pair three times, its second and third proposition-groups continuing the printed numbering from the first, 48–84 then 85–115, rather than restarting at 1), then a single definition, postulate, common notion or proposition. Book X’s six section-types are spelled with an underscore in this source (\"def_1\", \"prop_1\", … \"prop_3\") rather than the Greek edition’s bare \"def1\"/\"prop1\"; normalised by stripping the underscore before building the id, so ids read book-10-def1-N / book-10-prop1-N exactly as in the Greek edition — the underscore never appears in a citation or id.",
+        "Common Notions are a genuine numbering quirk of Heath’s printed edition, not an importer choice: the source div’s own attribute carries the ORIGINAL longer-list numbering (Book I’s fourth and fifth Common Notions are numbered 7 and 8 in that attribute), but each one’s printed heading gives Heath’s own sequential 1–5 numbering, which he actually uses throughout his commentary and cross-references. This importer uses the sequential 1–5 numbering (matching the Greek edition’s own Common-Notion numbering) for the Division id and citation, while leaving the original longer-list number exactly where Heath printed it, in the prose itself — e.g. Common Notion 4’s text begins \"[7] Things which coincide with one another…\" — untouched.",
+        "Heath’s own scholarly commentary — 134 notes, some following a whole proposition, some attached mid-sentence to a single translated phrase — is excluded from the reading text (it is Heath’s annotation on the translation, not the translation itself, matching how apparatus/commentary is dropped elsewhere in this app’s importers). Every dropped note is logged individually to anomalies.json with an excerpt, plus a per-book count in a summary entry. Each proposition’s own real content — including, where the source has one, a trailing \"Porism\" or \"Lemma\" section that is Heath’s translation of an authentic part of the Greek text, not commentary — is kept as ordinary reading passages.",
+        "Inline formatting and cross-reference markup actually used in the running translation — italics and small-caps for point-letters and technical terms, Heath’s own bracketed citations like \"[Post. 3]\" or \"[VI. 3]\", and the occasional untranslated Latin or Greek technical term — is unwrapped to plain text; nothing of this is commentary, all of it is kept. Page-break markers (678 of them) land mid-sentence as often as at a paragraph boundary in this source’s encoding — confirmed by direct inspection, e.g. one splits the middle of \"let FG be drawn\" with no space on either side — so rather than risk two words being silently fused together, every one is replaced with a single space (collapsed away by normal whitespace cleanup where redundant) and not used as a citation anchor; see \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "Editorial titles",
+      "paragraphs": [
+        "Editorial titling follows the Greek edition’s own policy exactly, reusing the identical curated English titles for consistency between the two editions: each of the 13 Books carries a curated English title (e.g. \"Circles\" for Book III), each section-type group carries a plain English group label (Definitions / Postulates / Common Notions / Propositions, or Book X’s three repeating pairs), and individual items are labelled by their printed number only — no invented title. Every one of these English labels is editorial and is marked \"ed.\" wherever shown. Unlike the Greek edition, most propositions here also carry Heath’s own printed heading (e.g. \"Proposition 1.\" or, in some books, \"PROPOSITION 19\") verbatim as Division.sourceHeading — real source text, not an editorial label."
+      ]
+    },
+    {
+      "heading": "Diagrams",
+      "paragraphs": [
+        "This edition is deliberately text-only. The source carries 493 bare <figure> markers, one at (or immediately after) the point in each proof where the printed edition places a geometric diagram — but unlike the bundled Greek edition (which sources a real, hand-checked diagram image for Books I–IV from the printed Heiberg scan), no images are sourced for this English edition, and its Passage type carries no figure field at all. Every marker is logged individually to anomalies.json (division id and exact citation) and then dropped, never a fabricated image. A reader who wants Heath’s or Heiberg’s actual diagrams for every proposition can read the same proposition in this app’s Greek edition, where Books I–IV carry a real image, or consult the public-domain scans referenced from that edition’s About page."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Division scheme: Book (roman I–XIII) → section-type group (Definitions / Postulates / Common Notions / Propositions, editorial English labels) → individual item, numbered exactly as Heath prints it — identical to the Greek edition’s scheme, so the same citation (\"Heath, Elements I.47\") lines up proposition-for-proposition with the Greek edition’s \"Heiberg, Elements I.47\".",
+        "Every passage and division ref is null: this source’s page-break milestones do not reliably mark paragraph or sentence boundaries (see \"How it was imported\" above), so none is used as a citation anchor. Cite by Book and printed number, as with the Greek edition."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 13 books and 607 numbered definitions/postulates/common-notions/propositions are present, verified by an internal consistency check (every section-type group’s printed numbers are a complete, gap-free, duplicate-free increasing sequence) rather than a hand-built count carried over from the Greek edition, since an independently-edited English witness is expected to diverge in exactly this kind of bookkeeping detail, not because it is wrong.",
+        "Commentary dropped. 134 <note> elements — Heath’s own scholarly annotation, not Euclid’s translated text — are excluded from the reading text; every one is logged individually to anomalies.json with an excerpt, plus a per-book breakdown in a summary entry. 52 of the 134 are genuinely nested inside the still-open final paragraph of a proposition in the source markup itself (confirmed by direct inspection), rather than sitting as an ordinary sibling after it; both shapes are excluded identically.",
+        "Common Notions renumbered from the source div’s own numbering to Heath’s printed sequential 1–5 (matching the Greek edition), with the original longer-list number left exactly where Heath printed it inside the prose (e.g. \"[7] Things which coincide…\"); see \"How it was imported\" above.",
+        "A split bracketed aside. Book V, Proposition 19 ends \"Therefore etc. [\" and its concluding \"] Q. E. D.\" begins a later passage in the same division, with a genuine Porism paragraph printed in between — Heath’s own bracketing of an aside, landing on either side of this source’s own paragraph boundaries. Preserved exactly as printed, split across passages rather than merged or corrected; flagged individually.",
+        "A transcription misprint, preserved. Book IX, Proposition 11’s printed heading reads \"PROPOSITION II.\" in this digital transcription — a roman \"II\" (2) rather than the \"11\" its position and the div’s own structural number confirm it to be. Kept exactly as transcribed, not corrected, and flagged; likewise Book V and Book VII each print their first proposition’s heading as \"PROPOSITION I.\" (roman) rather than \"PROPOSITION 1.\" — a minor but genuine inconsistency of this particular digitisation, not acted on. In every case the leaf’s real Division.number (used for its id and citation) comes from the source’s own structural n attribute, not from parsing the printed heading, so none of this affects navigation or citation — only the verbatim sourceHeading text a reader sees.",
+        "No diagrams. See \"Diagrams\" above: this edition carries no images at all; every one of the 493 diagram markers is logged and dropped, honestly, rather than shown as a fabricated or mismatched image.",
+        "Page-break markers, not used for citation. This source carries 678 <pb> milestones, several landing without surrounding whitespace mid-word in the encoding; treated as transport scaffolding rather than a ref source — see \"How it was imported\" and \"Reference scheme\" above.",
+        "No editorial deletions or insertions. Unlike the Greek witness (507 <del> exclusions, 4 <add> insertions), this English translation’s TEI carries no encoded editorial-deletion apparatus at all (0 <del>, 0 <add>, 0 <num>) — Heath’s translation simply omits the material Heiberg judged spurious rather than showing it under deletion marks."
+      ]
+    }
+  ]
+}
