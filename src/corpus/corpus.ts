@@ -29,9 +29,9 @@ export interface Gaps {
 export interface PartInfo {
   id: PartId;
   code: PartCode;
-  /** e.g. "Prima Pars" */
+  /** e.g. "Prima Pars" (Latin) or "Part I" (English) */
   label: string;
-  /** Latin display header, e.g. "PRIMA PARS" */
+  /** Display header, e.g. "PRIMA PARS" (Latin) or "PART I" (English) */
   header: string;
   /**
    * Set on the Supplementum: a one-line note (shown under its heading and in
@@ -39,14 +39,27 @@ export interface PartInfo {
    * Aquinas as part of the Summa.
    */
   compilation?: string;
+  /** Which registry Work this part's content belongs to (see src/library/registry.ts). */
+  workId: string;
+  /** Display/UI-furniture language for this part's reader screens. */
+  lang: 'la' | 'en';
+  /** public/<dir>/ folder this part's JSON is served from (see scripts/copy-corpus.mjs). */
+  dir: string;
 }
 
-/** Canonical ordering, used for prev/next traversal and menus. */
+/**
+ * Canonical ordering, used for prev/next traversal and menus. The five
+ * Latin parts come first (unchanged from before the English edition existed
+ * — every existing route/bookmark/citation keeps working), followed by the
+ * five English parts. Both sets share the exact same `Part`/`Question`/
+ * `Article` JSON shape (data/summa/types.ts); only the display language and
+ * source directory differ.
+ */
 export const PARTS: readonly PartInfo[] = [
-  { id: 'prima-pars', code: 'I', label: 'Prima Pars', header: 'Prima Pars' },
-  { id: 'prima-secundae', code: 'I-II', label: 'Prima Secundae', header: 'Prima Secundae' },
-  { id: 'secunda-secundae', code: 'II-II', label: 'Secunda Secundae', header: 'Secunda Secundae' },
-  { id: 'tertia-pars', code: 'III', label: 'Tertia Pars', header: 'Tertia Pars' },
+  { id: 'prima-pars', code: 'I', label: 'Prima Pars', header: 'Prima Pars', workId: 'summa-theologiae', lang: 'la', dir: 'summa' },
+  { id: 'prima-secundae', code: 'I-II', label: 'Prima Secundae', header: 'Prima Secundae', workId: 'summa-theologiae', lang: 'la', dir: 'summa' },
+  { id: 'secunda-secundae', code: 'II-II', label: 'Secunda Secundae', header: 'Secunda Secundae', workId: 'summa-theologiae', lang: 'la', dir: 'summa' },
+  { id: 'tertia-pars', code: 'III', label: 'Tertia Pars', header: 'Tertia Pars', workId: 'summa-theologiae', lang: 'la', dir: 'summa' },
   {
     id: 'supplementum',
     code: 'Suppl.',
@@ -54,31 +67,58 @@ export const PARTS: readonly PartInfo[] = [
     header: 'Supplementum Tertiae Partis',
     compilation:
       'A posthumous compilation: assembled after Aquinas’ death (c. 1274) by Reginald of Piperno from Aquinas’ earlier Scriptum super libros Sententiarum (Book IV). Not written by Aquinas as part of the Summa.',
+    workId: 'summa-theologiae',
+    lang: 'la',
+    dir: 'summa',
+  },
+  { id: 'prima-pars-en', code: 'I', label: 'Part I', header: 'Part I', workId: 'summa-theologiae-en', lang: 'en', dir: 'summa-en' },
+  { id: 'prima-secundae-en', code: 'I-II', label: 'Part I-II', header: 'Part I-II', workId: 'summa-theologiae-en', lang: 'en', dir: 'summa-en' },
+  { id: 'secunda-secundae-en', code: 'II-II', label: 'Part II-II', header: 'Part II-II', workId: 'summa-theologiae-en', lang: 'en', dir: 'summa-en' },
+  { id: 'tertia-pars-en', code: 'III', label: 'Part III', header: 'Part III', workId: 'summa-theologiae-en', lang: 'en', dir: 'summa-en' },
+  {
+    id: 'supplementum-en',
+    code: 'Suppl.',
+    label: 'Supplement',
+    header: 'Supplement to the Third Part',
+    compilation:
+      'A posthumous compilation: assembled after Aquinas’ death (c. 1274) by Reginald of Piperno from Aquinas’ earlier Scriptum super libros Sententiarum (Book IV). Not written by Aquinas as part of the Summa.',
+    workId: 'summa-theologiae-en',
+    lang: 'en',
+    dir: 'summa-en',
   },
 ];
 
 export function partById(id: string): PartInfo | undefined {
   return PARTS.find((p) => p.id === id);
 }
+/**
+ * Citation-jump lookup ("I q. 2 a. 3") only ever matches the Latin parts:
+ * both language's parts share the same `code` values (by design, for display
+ * consistency), so matching the first hit would make an English deep-link
+ * ambiguous/impossible to reach via citation syntax. The reference parser
+ * (src/corpus/reference.ts) is itself a Latin-citation-scheme feature; the
+ * English edition is reached by browsing or full-text search instead.
+ */
 export function partByCode(code: string): PartInfo | undefined {
-  return PARTS.find((p) => p.code === code);
+  return PARTS.find((p) => p.code === code && p.lang === 'la');
 }
 
 const base = import.meta.env.BASE_URL || '/';
-const url = (name: string) => `${base}summa/${name}`;
+const url = (dir: string, name: string) => `${base}${dir}/${name}`;
 
 const cache = new Map<string, Promise<unknown>>();
 
-function loadJson<T>(name: string): Promise<T> {
-  const hit = cache.get(name);
+function loadJson<T>(dir: string, name: string): Promise<T> {
+  const key = `${dir}/${name}`;
+  const hit = cache.get(key);
   if (hit) return hit as Promise<T>;
-  const p = fetch(url(name)).then((r) => {
-    if (!r.ok) throw new Error(`Failed to load ${name}: ${r.status}`);
+  const p = fetch(url(dir, name)).then((r) => {
+    if (!r.ok) throw new Error(`Failed to load ${key}: ${r.status}`);
     return r.json() as Promise<T>;
   });
   // On failure, drop the cache entry so a later call can retry.
-  p.catch(() => cache.delete(name));
-  cache.set(name, p);
+  p.catch(() => cache.delete(key));
+  cache.set(key, p);
   return p;
 }
 
@@ -88,13 +128,22 @@ const PART_FILE: Record<PartId, string> = {
   'secunda-secundae': 'part-II-II.json',
   'tertia-pars': 'part-III.json',
   supplementum: 'part-suppl.json',
+  'prima-pars-en': 'part-I.json',
+  'prima-secundae-en': 'part-I-II.json',
+  'secunda-secundae-en': 'part-II-II.json',
+  'tertia-pars-en': 'part-III.json',
+  'supplementum-en': 'part-suppl.json',
 };
 
-export const loadIndex = () => loadJson<SummaIndex>('index.json');
-export const loadProoemium = () => loadJson<Prooemium>('prooemium.json');
-export const loadGaps = () => loadJson<Gaps>('gaps.json');
-export const loadSearchIndex = () => loadJson<SearchRecord[]>('search-index.json');
-export const loadPart = (id: PartId) => loadJson<Part>(PART_FILE[id]);
+// The app-wide index/prooemium/gaps/search-index remain Latin-only for now
+// (an explicit, disclosed scope limit — see the English Summa's About page):
+// the English edition is reached by browsing Part -> Question -> Article, not
+// via these Latin-corpus-specific whole-work views.
+export const loadIndex = () => loadJson<SummaIndex>('summa', 'index.json');
+export const loadProoemium = () => loadJson<Prooemium>('summa', 'prooemium.json');
+export const loadGaps = () => loadJson<Gaps>('summa', 'gaps.json');
+export const loadSearchIndex = () => loadJson<SearchRecord[]>('summa', 'search-index.json');
+export const loadPart = (id: PartId) => loadJson<Part>(partById(id)?.dir ?? 'summa', PART_FILE[id]);
 
 /** `null` article number is addressed by the string `"u"` in routes. */
 export type AParam = string;

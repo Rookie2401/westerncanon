@@ -59,9 +59,15 @@ export function Reader() {
   const [immersive, setImmersive] = useState(false);
   const [jump, setJump] = useState(false);
 
+  // The actual Summa-profile work this partId belongs to (Latin or English —
+  // see src/corpus/corpus.ts's PARTS table), NOT always the Latin
+  // SUMMA_WORK_ID constant. Falls back to it only before `info` resolves.
+  const workId = info?.workId ?? SUMMA_WORK_ID;
+  const isEn = info?.lang === 'en';
+
   // Work-agnostic location for storage (bookmarks / last position).
   const libPath = useMemo(() => [partId, qNum, aParam], [partId, qNum, aParam]);
-  const bmKey = refKey({ workId: SUMMA_WORK_ID, path: libPath });
+  const bmKey = refKey({ workId, path: libPath });
   const bookmarked = useIsBookmarked(bmKey);
 
   // Reset chrome + fetch neighbors whenever the article changes.
@@ -87,7 +93,7 @@ export function Reader() {
     if (!article || !info) return;
     const prev = getLast();
     const isReturn =
-      prev?.workId === SUMMA_WORK_ID && prev.path.join('/') === libPath.join('/');
+      prev?.workId === workId && prev.path.join('/') === libPath.join('/');
     const ratio = isReturn ? prev!.scrollRatio : 0;
 
     requestAnimationFrame(() => {
@@ -96,7 +102,7 @@ export function Reader() {
     });
 
     setLast({
-      workId: SUMMA_WORK_ID,
+      workId,
       path: libPath,
       scrollRatio: ratio,
       title: article.title ?? null,
@@ -115,7 +121,7 @@ export function Reader() {
       last = Date.now();
       const cur = getLast();
       if (
-        cur?.workId === SUMMA_WORK_ID &&
+        cur?.workId === workId &&
         cur.path.join('/') === libPath.join('/')
       ) {
         setLast({ ...cur, scrollRatio: scrollRatio() });
@@ -148,26 +154,37 @@ export function Reader() {
     setImmersive((v) => !v);
   }, []);
 
-  const crumb = info ? readerCrumb(info.header, qn, aParam, appx) : citation;
+  const crumb = info ? readerCrumb(info.header, qn, aParam, appx, info.lang) : citation;
 
   const body = useMemo(() => {
     if (!article) return null;
     const objections = [...article.objections].sort((a, b) => a.number - b.number);
     const sc = [...article.sedContra].sort((a, b) => a.number - b.number);
     const replies = [...article.replies];
+    const objectionWord = isEn ? 'Objection' : 'Obiectio';
+    const sedContraWord = isEn ? 'On the contrary' : 'Sed contra';
+    const respondeoWord = isEn ? 'I answer that' : 'Respondeo';
     return (
       <>
         {article.title ? (
           <h1 className="reader__utrum">{article.title}</h1>
         ) : (
           <h1 className="reader__utrum">
-            {aParam === 'u' ? 'Articulus unicus' : `Articulus ${roman(Number(aParam))}`}
+            {isEn
+              ? aParam === 'u'
+                ? 'Only Article'
+                : `Article ${roman(Number(aParam))}`
+              : aParam === 'u'
+                ? 'Articulus unicus'
+                : `Articulus ${roman(Number(aParam))}`}
           </h1>
         )}
 
         {objections.map((o) => (
           <section key={`obj-${o.number}`}>
-            <p className="reader__label">Obiectio {roman(o.number)}</p>
+            <p className="reader__label">
+              {objectionWord} {roman(o.number)}
+            </p>
             <p>{o.text}</p>
           </section>
         ))}
@@ -175,7 +192,7 @@ export function Reader() {
         {sc.map((s, i) => (
           <section key={`sc-${s.number}`}>
             <p className="reader__label">
-              Sed contra{sc.length > 1 ? ` ${roman(i + 1)}` : ''}
+              {sedContraWord}{sc.length > 1 ? ` ${roman(i + 1)}` : ''}
             </p>
             <p>{s.text}</p>
           </section>
@@ -183,27 +200,35 @@ export function Reader() {
 
         {article.respondeo ? (
           <section>
-            <p className="reader__label">Respondeo</p>
+            <p className="reader__label">{respondeoWord}</p>
             <p>{article.respondeo}</p>
           </section>
         ) : null}
 
         {replies.map((r, i) => (
           <section key={`ad-${r.objectionNumber ?? `all-${i}`}`}>
-            <p className="reader__label">{replyLabel(r.objectionNumber)}</p>
+            <p className="reader__label">
+              {replyLabel(r.objectionNumber, isEn ? 'en' : 'la')}
+            </p>
             <p>{r.text}</p>
           </section>
         ))}
       </>
     );
-  }, [article, aParam]);
+  }, [article, aParam, isEn]);
 
   if (loading) {
     return <p className="loading">Loading…</p>;
   }
 
   if (!article) {
+    // gaps.json tracks completeness for the Latin corpus only (see
+    // corpus.ts's loadGaps doc comment) — checking an English citation
+    // against it would make an incorrect claim about a different corpus, so
+    // the detailed gap message is Latin-only; English falls through to the
+    // generic "Nothing here" branch below.
     const isGap =
+      !isEn &&
       !!gaps &&
       (gaps.missingArticles.includes(citation) ||
         gaps.missingQuestions.some((c) => citation.startsWith(c)));
@@ -213,7 +238,7 @@ export function Reader() {
           <Link
             to={`/part/${partId}/q/${qNum}`}
             className="iconbtn"
-            aria-label="Back to question"
+            aria-label={isEn ? 'Back to question' : 'Back to quaestio'}
           >
             <BackIcon />
           </Link>
@@ -252,7 +277,7 @@ export function Reader() {
         to={`/part/${partId}/q/${qNum}`}
         replace
         className="reader__back"
-        aria-label="Back to the Quaestio"
+        aria-label={isEn ? 'Back to the question' : 'Back to the Quaestio'}
       >
         <BackIcon />
       </Link>
@@ -275,7 +300,7 @@ export function Reader() {
             onClick={() =>
               info &&
               toggleBookmark({
-                workId: SUMMA_WORK_ID,
+                workId,
                 path: libPath,
                 label: citation,
                 title: article.title ?? null,
@@ -291,13 +316,16 @@ export function Reader() {
         <article key={key} className="reader__prose reader__prose--in">
           {part?.compilationNote ? (
             <p className="reader__source-note reader__source-note--compilation">
-              <strong>Supplementum Tertiae Partis.</strong> {part.compilationNote}
+              <strong>
+                {isEn ? 'Supplement to the Third Part.' : 'Supplementum Tertiae Partis.'}
+              </strong>{' '}
+              {part.compilationNote}
             </p>
           ) : null}
           {article.witness && !part?.compilationNote ? (
             <p className="reader__source-note">
               This {aParam === 'u' ? 'question' : 'article'} is absent from the base
-              transcription; its Latin is supplied verbatim from a public-domain
+              transcription; its text is supplied verbatim from a public-domain
               secondary witness. See <Link to="/about">About</Link>.
             </p>
           ) : null}

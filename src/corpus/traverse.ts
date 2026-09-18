@@ -67,21 +67,28 @@ export async function neighbors(
   const i = indexOfRef(list, qNum, aParam);
   if (i < 0) return { prev: null, next: null };
 
-  const partIdx = PARTS.findIndex((p) => p.id === partId);
+  // Scoped to this part's OWN work: PARTS holds both the Latin and English
+  // Summa editions' parts in one flat table (src/corpus/corpus.ts), so
+  // stepping to the raw adjacent array index would walk off the end of one
+  // language's parts straight into the other's — e.g. past the last article
+  // of the Latin Supplementum into the English edition's Prima Pars.
+  const workId = PARTS.find((p) => p.id === partId)?.workId;
+  const workParts = PARTS.filter((p) => p.workId === workId);
+  const partIdx = workParts.findIndex((p) => p.id === partId);
 
   let prev: ArticleRef | null = null;
   if (i > 0) {
     prev = list[i - 1];
   } else if (partIdx > 0) {
-    const prevList = await flatFor(PARTS[partIdx - 1].id);
+    const prevList = await flatFor(workParts[partIdx - 1].id);
     prev = prevList.length ? prevList[prevList.length - 1] : null;
   }
 
   let next: ArticleRef | null = null;
   if (i < list.length - 1) {
     next = list[i + 1];
-  } else if (partIdx < PARTS.length - 1) {
-    const nextList = await flatFor(PARTS[partIdx + 1].id);
+  } else if (partIdx < workParts.length - 1) {
+    const nextList = await flatFor(workParts[partIdx + 1].id);
     next = nextList.length ? nextList[0] : null;
   }
 

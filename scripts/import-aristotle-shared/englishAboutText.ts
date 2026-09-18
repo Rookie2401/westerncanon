@@ -71,7 +71,6 @@ function enAboutSections(opts: {
       paragraphs: [
         `The importer locates the single reading-text block (identified by the anchors marking each chapter’s start) and reads its direct children in document order: ordinary paragraphs become passages; wiki/HTML transport scaffolding only is removed (per-template <style>/<link> resets, page-transition spacers, a zero-width-space page-break artefact, and the <span> elements that carry the margin-floated chapter number and Bekker page/column/line markers - their content is read for the citation apparatus, then removed from the reading prose itself so it never appears mid-sentence). A separate, earlier "TABLE OF CONTENTS" transclusion on the same page (one-line editorial chapter summaries) is not read as reading text at all.`,
         `${opts.refsStripped} inline footnote markers (Ross’s editorial annotation, rendered as bracketed superscript numbers) were stripped from the reading text; the footnotes themselves are translator/editorial apparatus, not Aristotle’s text, and are not preserved anywhere in this build, mirroring how this library’s other English translations (e.g. Augustine’s Confessions) handle footnote apparatus.`,
-        ...opts.gaps,
         'Each chapter also carries an English chapter title. These titles are editorial: they are not part of the source text and are marked "ed." wherever they appear. They are shared with the Greek and Latin siblings so all three line up 1:1.',
       ],
     },
@@ -87,7 +86,7 @@ function enAboutSections(opts: {
       paragraphs: [
         `Completeness. All ${opts.chapterCount} chapters are present and in order, verbatim from the incipit ("${opts.incipit}") to the explicit ("${opts.explicit}"). No paragraph is dropped, merged or reordered; the bundled raw dump is identical to the English Wikisource page as retrieved.`,
         'Translator’s preface and table of contents. The page also carries a translator’s prefatory note (general remarks on the translation, not part of Aristotle’s text) and an editorial table of contents (one-line chapter summaries with anchor links). Neither is Aristotle’s text; neither is read as reading text by this importer.',
-        ...opts.gaps.length ? [] : [],
+        ...opts.gaps,
       ],
     },
   ];

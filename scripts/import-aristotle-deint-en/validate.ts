@@ -30,6 +30,8 @@ const SPOT_START = "First we must define the terms 'noun' and 'verb', then the t
 /** Verbatim tail of chapter 14's last passage — guards against truncation. */
 const SPOT_END = 'contrary conditions cannot subsist at one and the same time in the same subject.';
 const BEKKER_RE = /^Bekker (\d+[ab]\d+)–(\d+[ab]\d+)$/;
+/** U+200B zero-width space, built from its code point to avoid an invisible literal in source. */
+const ZWSP_PLACEHOLDER = String.fromCharCode(0x200b);
 const LEAK_MARKERS = [
   '&amp;', '&lt;', '&gt;', '{{', '}}', '[[', ']]', '<ref', '</ref', 'http://', 'https://',
   'xmlns', '<p>', '</p>', '<div', '<span', '<table', '<figure', '<style', '<link', 'wst-',
@@ -133,7 +135,7 @@ function main(): void {
   const leaks: string[] = [];
   walkTexts(divisions, (s, where) => {
     for (const marker of LEAK_MARKERS) if (s.includes(marker)) leaks.push(`${where}: contains ${JSON.stringify(marker)}`);
-    if (s.includes('​')) leaks.push(`${where}: contains U+200B zero-width space`);
+    if (s.includes(ZWSP_PLACEHOLDER)) leaks.push(`${where}: contains U+200B zero-width space`);
     if (s.includes('�')) leaks.push(`${where}: contains U+FFFD replacement character`);
   });
   if (leaks.length) err('no-leaked-markup', `${leaks.length} string(s) contain transport markup:\n    ${leaks.slice(0, 10).join('\n    ')}`);

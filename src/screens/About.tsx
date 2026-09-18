@@ -18,16 +18,24 @@ export function AboutScreen() {
         <div className="prose">
           <h2>Western Canon</h2>
           <p>
-            An offline reader for classical philosophical and theological texts
-            in their original languages. This build carries Aristotle's{' '}
-            <em>Categories</em> and <em>De Interpretatione</em> — each in Greek
-            (the Bekker text) and in the Latin translation of Boethius (Latin
-            Wikisource) — Porphyry's <em>Isagoge</em> in Greek (ed. Busse 1887)
-            and in Boethius's Latin, and the <em>Summa Theologiae</em> of Thomas
-            Aquinas complete: the Proœmium, the four Partes, and the{' '}
+            An offline reader for classical philosophical and theological
+            texts. Aristotle's <em>Categories</em> and{' '}
+            <em>De Interpretatione</em>, and Porphyry's <em>Isagoge</em>, each
+            carry three editions — Greek (Bekker / Busse), the Latin
+            translation of Boethius, and an English translation (Edghill 1928;
+            Owen 1853). Euclid's <em>Elements</em> carries the Greek text
+            (Heiberg), many propositions with a real hand-sourced diagram, and
+            Heath's 1908 English translation. Augustine of Hippo's{' '}
+            <em>Confessions</em>, <em>City of God</em>, and{' '}
+            <em>On Christian Doctrine</em> each carry the Latin original and a
+            public-domain English translation (Pilkington, Dods, Shaw). Thomas
+            Aquinas's <em>Summa Theologiae</em> is complete in Latin — the
+            Proœmium, the four Partes, and the{' '}
             <em>Supplementum Tertiae Partis</em> with its Appendices de
-            Purgatorio. Aristotle, as the earliest author, sorts first in the
-            Library. Each work has its own “About the text” page with its
+            Purgatorio — with an English edition (the Dominican Fathers'
+            translation) alongside it. A work with more than one edition
+            collapses under one row in the Library; authors sort earliest
+            first. Each work has its own “About the text” page with its
             edition, provenance and licensing; open a work and follow the link
             at the foot of its contents.
           </p>

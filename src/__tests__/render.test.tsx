@@ -75,10 +75,9 @@ describe('Library', () => {
       expect(el.closest('.collapsible')?.getAttribute('data-open')).toBe('false');
     }
 
-    // The Summa is the sole Aquinas edition -> a direct link, not a dropdown.
-    const summa = screen.getByRole('link', { name: /Summa Theologiae/ });
-    expect(summa.getAttribute('href')).toBe('/work/summa-theologiae');
-    expect(screen.getByText('Latin · various sources')).toBeTruthy();
+    // The Summa now has a Latin and an English edition -> a family dropdown,
+    // same as every other multi-edition work.
+    expect(screen.getByRole('button', { name: 'Summa Theologiae' })).toBeTruthy();
   });
 
   it('orders Aristotle’s families Categories then De Interpretatione, each Greek edition before Latin', () => {
@@ -143,17 +142,39 @@ describe('Library — per-text families', () => {
   });
 
   it('renders a single-edition work as a direct link with no dropdown', () => {
-    localStorage.clear();
-    render(
-      <MemoryRouter>
-        <Library />
-      </MemoryRouter>,
-    );
-    expect(
-      screen.queryByRole('button', { name: 'Summa Theologiae' }),
-    ).toBeNull();
-    const summa = screen.getByRole('link', { name: /Summa Theologiae/ });
-    expect(summa.getAttribute('href')).toBe('/work/summa-theologiae');
+    // Every real registry work now has 2+ editions (grouped), so this
+    // generic "no dropdown for a lone edition" behavior needs its own
+    // fixture rather than relying on any particular real Work's edition
+    // count — that would make the test's premise a coincidence, not a fact
+    // the grouping logic actually guarantees.
+    const FIXTURE_WORK_ID = 'test-single-edition-work';
+    const FIXTURE_WORK: Work = {
+      id: FIXTURE_WORK_ID,
+      authorId: 'euclid',
+      title: 'Test Single-Edition Work',
+      language: 'la',
+      citationScheme: 'test',
+      profile: 'generic',
+      meta: 'Test fixture',
+      source: { provenance: 'test fixture', license: 'n/a' },
+    };
+    WORKS.push(FIXTURE_WORK);
+    try {
+      localStorage.clear();
+      render(
+        <MemoryRouter>
+          <Library />
+        </MemoryRouter>,
+      );
+      expect(
+        screen.queryByRole('button', { name: 'Test Single-Edition Work' }),
+      ).toBeNull();
+      const fixture = screen.getByRole('link', { name: /Test Single-Edition Work/ });
+      expect(fixture.getAttribute('href')).toBe(`/work/${FIXTURE_WORK_ID}`);
+    } finally {
+      const i = WORKS.indexOf(FIXTURE_WORK);
+      if (i >= 0) WORKS.splice(i, 1);
+    }
   });
 
   it('persists an open family across a remount via library:expandedGroups', () => {

@@ -28,6 +28,8 @@ const SPOT_START = "Things are said to be named 'equivocally' when, though they 
 /** Verbatim tail of chapter 15's last passage — guards against truncation. */
 const SPOT_END = 'Other senses of the word might perhaps be found, but the most ordinary ones have all been enumerated.';
 const BEKKER_RE = /^Bekker (\d+[ab]\d+)–(\d+[ab]\d+)$/;
+/** U+200B zero-width space, built from its code point to avoid an invisible literal in source. */
+const ZWSP_PLACEHOLDER = String.fromCharCode(0x200b);
 const LEAK_MARKERS = [
   '&amp;', '&lt;', '&gt;', '{{', '}}', '[[', ']]', '<ref', '</ref', 'http://', 'https://',
   'xmlns', '<p>', '</p>', '<div', '<span', '<table', '<figure', '<style', '<link', 'wst-',
@@ -123,7 +125,7 @@ function main(): void {
   const leaks: string[] = [];
   walkTexts(divisions, (s, where) => {
     for (const marker of LEAK_MARKERS) if (s.includes(marker)) leaks.push(`${where}: contains ${JSON.stringify(marker)}`);
-    if (s.includes('​')) leaks.push(`${where}: contains U+200B zero-width space`);
+    if (s.includes(ZWSP_PLACEHOLDER)) leaks.push(`${where}: contains U+200B zero-width space`);
     if (s.includes('�')) leaks.push(`${where}: contains U+FFFD replacement character`);
   });
   if (leaks.length) err('no-leaked-markup', `${leaks.length} string(s) contain transport markup:\n    ${leaks.slice(0, 10).join('\n    ')}`);

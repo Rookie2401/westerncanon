@@ -29,7 +29,10 @@ export function roman(n: number): string {
   return out;
 }
 
-export function articulusLabel(aParam: string): string {
+export function articulusLabel(aParam: string, lang: 'la' | 'en' = 'la'): string {
+  if (lang === 'en') {
+    return aParam === 'u' ? 'Only Article' : `Article ${roman(Number(aParam))}`;
+  }
   return aParam === 'u' ? 'Articulus unicus' : `Articulus ${roman(Number(aParam))}`;
 }
 
@@ -48,11 +51,20 @@ export function readerCrumb(
   qNum: number,
   aParam: string,
   appx?: AppendixInfo | null,
+  lang: 'la' | 'en' = 'la',
 ): string {
-  const art = aParam === 'u' ? 'ARTICULUS UNICUS' : `ARTICULUS ${roman(Number(aParam))}`;
+  const questionWord = lang === 'en' ? 'QUESTION' : 'QUAESTIO';
+  const art =
+    lang === 'en'
+      ? aParam === 'u'
+        ? 'ONLY ARTICLE'
+        : `ARTICLE ${roman(Number(aParam))}`
+      : aParam === 'u'
+        ? 'ARTICULUS UNICUS'
+        : `ARTICULUS ${roman(Number(aParam))}`;
   const q = appx
-    ? `APPENDIX ${appx.appendix} · QUAESTIO ${roman(appx.appendixNumber)}`
-    : `QUAESTIO ${roman(qNum)}`;
+    ? `APPENDIX ${appx.appendix} · ${questionWord} ${roman(appx.appendixNumber)}`
+    : `${questionWord} ${roman(qNum)}`;
   return `${partHeader.toUpperCase()} · ${q} · ${art}`;
 }
 

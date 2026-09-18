@@ -13,11 +13,20 @@ export interface SummaTopEntry {
   compilation?: boolean;
 }
 
-/** The Prooemium entry + the 4 Partes + the Supplementum, as rows for the Work screen. */
-export function summaTopLevel(): SummaTopEntry[] {
+/**
+ * The Prooemium entry + the 4 Partes + the Supplementum, as rows for the Work
+ * screen — filtered to just the given Work's own parts, since `PARTS` now
+ * holds both the Latin and English Summa editions' parts in one flat table
+ * (src/corpus/corpus.ts). The Prooemium is Latin-only for now (see
+ * corpus.ts's `loadProoemium` doc comment), so it's included only for the
+ * Latin work.
+ */
+export function summaTopLevel(workId: string): SummaTopEntry[] {
+  const parts = PARTS.filter((p) => p.workId === workId);
+  const lang = parts[0]?.lang ?? 'la';
   return [
-    { id: 'prooemium', label: 'Proœmium', to: '/prooemium' },
-    ...PARTS.map((p) => ({
+    ...(lang === 'la' ? [{ id: 'prooemium', label: 'Proœmium', to: '/prooemium' }] : []),
+    ...parts.map((p) => ({
       id: p.id,
       label: p.label,
       code: p.code,

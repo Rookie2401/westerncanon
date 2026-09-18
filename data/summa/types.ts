@@ -12,13 +12,24 @@
 /** Canonical part code as used in citations. */
 export type PartCode = 'I' | 'I-II' | 'II-II' | 'III' | 'Suppl.';
 
-/** Canonical part id (slug). */
+/**
+ * Canonical part id (slug). The `-en` variants identify the same five parts
+ * in the English (Dominican Fathers, 1920) edition bundled in `data/summa-en/`
+ * — same `Part`/`Question`/`Article`/etc. shapes below (language-agnostic),
+ * different JSON files. See `src/corpus/corpus.ts`'s `PARTS` table for how a
+ * `PartId` maps to its Work, directory, and display language.
+ */
 export type PartId =
   | 'prima-pars'
   | 'prima-secundae'
   | 'secunda-secundae'
   | 'tertia-pars'
-  | 'supplementum';
+  | 'supplementum'
+  | 'prima-pars-en'
+  | 'prima-secundae-en'
+  | 'secunda-secundae-en'
+  | 'tertia-pars-en'
+  | 'supplementum-en';
 
 /**
  * Identifier of a public-domain secondary witness used to supply Latin that is

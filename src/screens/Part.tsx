@@ -8,7 +8,6 @@ import { roman } from '../ui/format.ts';
 import { TopBar } from '../components/TopBar.tsx';
 
 const SUMMA_AUTHOR = authorById('thomas-aquinas')?.displayName ?? 'Thomas Aquinas';
-const SUMMA_TITLE = workById('summa-theologiae')?.title ?? 'Summa Theologiae';
 
 function firstUtrum(q: Question): string | null {
   const arts = [...q.articles].sort((a, b) => (a.number ?? 0) - (b.number ?? 0));
@@ -43,13 +42,18 @@ export function PartScreen() {
     );
   }
 
+  const isEn = info.lang === 'en';
+  const work = workById(info.workId);
+  const title = work?.title ?? 'Summa Theologiae';
+  const questionWord = isEn ? 'Question' : 'Quaestio';
+
   return (
     <>
-      <TopBar back="/work/summa-theologiae" title="Summa Theologiae" />
+      <TopBar back={`/work/${info.workId}`} title={title} />
       <main className="page">
         <div className="screen-head">
           <p className="crumb">
-            {`${SUMMA_AUTHOR} › ${SUMMA_TITLE} › ${info.header}`.toUpperCase()}
+            {`${SUMMA_AUTHOR} › ${title} › ${info.header}`.toUpperCase()}
           </p>
           {info.compilation ? (
             <p className="screen-head__compilation">{info.compilation}</p>
@@ -59,7 +63,7 @@ export function PartScreen() {
         <input
           className="filter"
           inputMode="numeric"
-          placeholder="Jump to quaestio number…"
+          placeholder={isEn ? 'Jump to question number…' : 'Jump to quaestio number…'}
           value={filter}
           onChange={(e) => setFilter(e.target.value)}
           aria-label="Filter questions by number"
@@ -76,13 +80,13 @@ export function PartScreen() {
                 q.appendix != null && (i === 0 || prev?.appendix !== q.appendix);
               const num =
                 q.appendix != null
-                  ? `Appendix ${q.appendix} · Quaestio ${roman(q.appendixNumber ?? 1)}`
-                  : `Quaestio ${roman(q.number)}`;
+                  ? `Appendix ${q.appendix} · ${questionWord} ${roman(q.appendixNumber ?? 1)}`
+                  : `${questionWord} ${roman(q.number)}`;
               return (
                 <Fragment key={q.number}>
                   {startsAppendix ? (
                     <p className="entrylist__divider">
-                      Appendix {q.appendix} — de Purgatorio
+                      Appendix {q.appendix} — {isEn ? 'On Purgatory' : 'de Purgatorio'}
                     </p>
                   ) : null}
                   <Link to={`/part/${info.id}/q/${q.number}`} className="entry">

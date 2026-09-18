@@ -23,8 +23,20 @@ export const KEYS = {
   legacyLast: 'summa:last',
 } as const;
 
-/** Canonical work id for the Summa (kept in sync with src/library/registry.ts). */
+/** Canonical work id for the Latin Summa (kept in sync with src/library/registry.ts). */
 export const SUMMA_WORK_ID = 'summa-theologiae';
+
+/**
+ * Every `profile: 'summa'` work id (kept in sync with src/library/registry.ts,
+ * not imported from it to avoid a cross-module dependency in this
+ * storage-only file). A Summa-profile work's reader route is the 3-segment
+ * `/read/:partId/:qNum/:aParam` (no workId segment — src/corpus/corpus.ts's
+ * `PartInfo.workId` already tells you which work a given partId belongs to),
+ * unlike every generic-profile work's 2-segment `/read/:workId/:divId`. New
+ * Summa-profile editions must be added here too, or their bookmarks/last-read
+ * position will build the wrong kind of href (see `refHref` below).
+ */
+const SUMMA_PROFILE_WORK_IDS: readonly string[] = [SUMMA_WORK_ID, 'summa-theologiae-en'];
 
 function rawItem(key: string): string | null {
   try {
@@ -160,7 +172,7 @@ export function refKey(r: LibraryRef): string {
 
 /** The in-app route for a LibraryRef. */
 export function refHref(r: LibraryRef): string {
-  return r.workId === SUMMA_WORK_ID
+  return SUMMA_PROFILE_WORK_IDS.includes(r.workId)
     ? `/read/${r.path.join('/')}`
     : `/read/${r.workId}/${r.path[0] ?? ''}`;
 }

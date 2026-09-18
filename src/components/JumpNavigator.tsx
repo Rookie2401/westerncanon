@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { PARTS, aParamOf, loadPart } from '../corpus/corpus.ts';
+import { PARTS, aParamOf, loadPart, partById } from '../corpus/corpus.ts';
 import type { PartId } from '../corpus/types.ts';
 import { useResource } from '../ui/useResource.ts';
 import { articulusLabel, roman } from '../ui/format.ts';
@@ -14,8 +14,16 @@ interface Props {
 
 export function JumpNavigator({ partId, qNum, aParam, onClose }: Props) {
   const navigate = useNavigate();
+  const startInfo = partById(partId);
+  const isEn = startInfo?.lang === 'en';
+  // Scoped to the current reader's own work: PARTS holds both the Latin and
+  // English Summa editions' parts in one flat table, so an unfiltered list
+  // here would let a reader "jump" from English content into a Latin part
+  // (or vice versa) via this dropdown, which is confusing and unintended -
+  // switching editions is a Library-level action, not a Jump action.
+  const ownParts = PARTS.filter((p) => p.workId === startInfo?.workId);
   const [pid, setPid] = useState<PartId>(
-    (PARTS.find((p) => p.id === partId)?.id ?? 'prima-pars') as PartId,
+    (ownParts.find((p) => p.id === partId)?.id ?? ownParts[0]?.id ?? 'prima-pars') as PartId,
   );
   const [qn, setQn] = useState(qNum);
   const [ap, setAp] = useState(aParam);
@@ -55,13 +63,13 @@ export function JumpNavigator({ partId, qNum, aParam, onClose }: Props) {
         <p className="sheet__title">Jump to</p>
 
         <div className="sheet__row">
-          <label htmlFor="jn-pars">Pars</label>
+          <label htmlFor="jn-pars">{isEn ? 'Part' : 'Pars'}</label>
           <select
             id="jn-pars"
             value={pid}
             onChange={(e) => setPid(e.target.value as PartId)}
           >
-            {PARTS.map((p) => (
+            {ownParts.map((p) => (
               <option key={p.id} value={p.id}>
                 {p.label} ({p.code})
               </option>
@@ -70,7 +78,7 @@ export function JumpNavigator({ partId, qNum, aParam, onClose }: Props) {
         </div>
 
         <div className="sheet__row">
-          <label htmlFor="jn-q">Quaestio</label>
+          <label htmlFor="jn-q">{isEn ? 'Question' : 'Quaestio'}</label>
           <select
             id="jn-q"
             value={effQn}
@@ -91,7 +99,7 @@ export function JumpNavigator({ partId, qNum, aParam, onClose }: Props) {
         </div>
 
         <div className="sheet__row">
-          <label htmlFor="jn-a">Articulus</label>
+          <label htmlFor="jn-a">{isEn ? 'Article' : 'Articulus'}</label>
           <select
             id="jn-a"
             value={effAp}
@@ -102,7 +110,7 @@ export function JumpNavigator({ partId, qNum, aParam, onClose }: Props) {
               const v = aParamOf(a);
               return (
                 <option key={v} value={v}>
-                  {articulusLabel(v)}
+                  {articulusLabel(v, isEn ? 'en' : 'la')}
                 </option>
               );
             })}

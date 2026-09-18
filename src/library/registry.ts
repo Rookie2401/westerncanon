@@ -44,6 +44,7 @@ export const WORKS: Work[] = [
     id: 'summa-theologiae',
     authorId: 'thomas-aquinas',
     title: 'Summa Theologiae',
+    group: 'Summa Theologiae',
     language: 'la',
     citationScheme: 'summa',
     profile: 'summa',
@@ -57,6 +58,25 @@ export const WORKS: Work[] = [
         'Latin text public domain throughout; secondary witnesses are public-domain editions or CC-licensed transcriptions of them. See the work’s About page.',
       license:
         'Latin text public domain. Transcriptions: CC BY-SA 4.0 (Wikisource) / CC0 (Marietti transcription) / public-domain scans; base aggregation license unverified — treat this build as personal use.',
+    },
+  },
+  {
+    id: 'summa-theologiae-en',
+    authorId: 'thomas-aquinas',
+    title: 'Summa Theologiae',
+    commonTitle: 'Summa Theologica',
+    group: 'Summa Theologiae',
+    language: 'en',
+    citationScheme: 'summa',
+    profile: 'summa',
+    meta: 'English · trans. Dominican Fathers',
+    source: {
+      translator: 'Fathers of the English Dominican Province',
+      edition: '2nd and revised edition, 1920',
+      provenance:
+        'Text aggregated from New Advent (newadvent.org/summa) and CCEL (ccel.org). See the work’s About page.',
+      license:
+        'Translation public domain (1920). Digital transcription license varies by source page; treat this build as personal use pending per-source verification.',
     },
   },
   {

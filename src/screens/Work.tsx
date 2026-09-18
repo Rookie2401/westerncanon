@@ -57,7 +57,7 @@ export function WorkScreen() {
         </div>
 
         {work.profile === 'summa' ? (
-          <SummaWorkBody />
+          <SummaWorkBody workId={work.id} />
         ) : (
           <GenericWorkBody workId={work.id} />
         )}
@@ -68,8 +68,8 @@ export function WorkScreen() {
 
 /** The Prooemium link + 4 Partes, EXACTLY as the old Home rendered them, then
  *  this work's own "About the text" entry at the very bottom. */
-function SummaWorkBody() {
-  const entries = summaTopLevel();
+function SummaWorkBody({ workId }: { workId: string }) {
+  const entries = summaTopLevel(workId);
   return (
     <nav className="home__list">
       {entries.map((e) => (
@@ -91,7 +91,7 @@ function SummaWorkBody() {
           </Link>
         </div>
       ))}
-      <Link to="/work/summa-theologiae/about" className="home__entry work__about-entry">
+      <Link to={`/work/${workId}/about`} className="home__entry work__about-entry">
         <span className="home__entry-name">About this text</span>
       </Link>
     </nav>

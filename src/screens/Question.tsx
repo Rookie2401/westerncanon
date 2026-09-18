@@ -6,7 +6,6 @@ import { articulusLabel, roman } from '../ui/format.ts';
 import { TopBar } from '../components/TopBar.tsx';
 
 const SUMMA_AUTHOR = authorById('thomas-aquinas')?.displayName ?? 'Thomas Aquinas';
-const SUMMA_TITLE = workById('summa-theologiae')?.title ?? 'Summa Theologiae';
 
 export function QuestionScreen() {
   const { partId = '', qNum = '' } = useParams();
@@ -18,17 +17,20 @@ export function QuestionScreen() {
   );
 
   const question = part ? findQuestion(part, qn) : undefined;
+  const isEn = info?.lang === 'en';
+  const questionWord = isEn ? 'Question' : 'Quaestio';
+  const title = workById(info?.workId ?? 'summa-theologiae')?.title ?? 'Summa Theologiae';
 
   return (
     <>
-      <TopBar back={info ? `/part/${info.id}` : '/'} title="Summa Theologiae" />
+      <TopBar back={info ? `/part/${info.id}` : '/'} title={title} />
       <main className="page">
         {loading ? (
           <p className="loading">Loading…</p>
         ) : !info || !question ? (
           <p className="empty">
             {info
-              ? `Quaestio ${qNum} is not in the source text.`
+              ? `${questionWord} ${qNum} is not in the source text.`
               : 'Unknown part.'}{' '}
             <Link to="/about">See About</Link>.
           </p>
@@ -36,7 +38,7 @@ export function QuestionScreen() {
           <>
             <div className="screen-head">
               <p className="crumb">
-                {`${SUMMA_AUTHOR} › ${SUMMA_TITLE} › ${info.header} › ${
+                {`${SUMMA_AUTHOR} › ${title} › ${info.header} › ${
                   question.appendix != null
                     ? `App. ${question.appendix} q. ${question.appendixNumber ?? 1}`
                     : `Q. ${question.number}`
@@ -44,7 +46,7 @@ export function QuestionScreen() {
               </p>
               {question.appendix != null ? (
                 <p className="screen-head__label">
-                  Appendix {question.appendix} · Quaestio {roman(question.appendixNumber ?? 1)}
+                  Appendix {question.appendix} · {questionWord} {roman(question.appendixNumber ?? 1)}
                 </p>
               ) : null}
               {question.prooemium ? (
