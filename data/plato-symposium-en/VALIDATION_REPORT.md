@@ -1,19 +1,20 @@
 # Plato symposium (en) validation report — plato-symposium-en
 
-Generated: 2026-09-18T07:36:18.080Z
+Generated: 2026-09-18T21:38:34.566Z
 
 **Result: PASS** — 0 error(s), 0 warning(s).
 
 ## Counts
 
 - Stephanus pages: 52 (172–223)
-- total passage chars: 126169
+- total passage chars: 126155
 - <del> exclusions: 0
 - <add> insertions kept: 0
 - <gap/> lacunae: 0
 
 ## Anomalies (preserved, not corrected)
 
+- **plato-symposium-en** — <head> (the work's own title, "The Symposium") stripped - the app's own UI already shows the work title; kept out of the reading text to avoid duplicating it inline.
 - **sec-172** — <note> excluded from the reading text (translator's footnote, not the speaker's own words): "Nothing is known of this man."
 - **sec-172** — <bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): "Rep. 368A"
 - **sec-172** — <note> excluded from the reading text (translator's footnote, not the speaker's own words): "Probably Plato’s brother ( Rep. 368A )."

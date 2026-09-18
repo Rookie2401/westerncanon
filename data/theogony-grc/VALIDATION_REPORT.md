@@ -1,6 +1,6 @@
 # Hesiod validation report - theogony-grc
 
-Generated: 2026-09-18T03:39:14.937Z
+Generated: 2026-09-18T21:33:10.397Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 

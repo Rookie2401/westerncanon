@@ -139,8 +139,12 @@ export function parseGrc(xml: string, workLabel: string): GrcParseResult {
 
         // strip self-closing print-layout milestones (no text content)
         inner = inner.replace(/<milestone\b[\s\S]*?\/>/g, '');
-        // unwrap the speech-quotation wrapper (keep text, drop tag)
-        inner = inner.replace(/<\/?q>/g, '');
+        // unwrap the speech-quotation wrapper (keep text, drop tag) - matches
+        // any attributes (e.g. Iliad Book 23's <q rend="merge">, wrapping an
+        // individual <l> rather than a run of them like Odyssey's bare <q>
+        // does): a bare-tag-only regex left the opening tag leaked into the
+        // reading text verbatim, found by direct inspection of the output.
+        inner = inner.replace(/<\/?q\b[^>]*>/g, '');
 
         // a <del> that wraps this line's entire surviving content: excluded
         // from the reading text, logged verbatim (matches the Euclid <del>

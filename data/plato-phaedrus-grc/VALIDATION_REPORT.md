@@ -1,6 +1,6 @@
 # Plato phaedrus (grc) validation report — plato-phaedrus-grc
 
-Generated: 2026-09-18T07:36:18.080Z
+Generated: 2026-09-18T21:38:34.567Z
 
 **Result: PASS** — 0 error(s), 0 warning(s).
 
@@ -14,6 +14,7 @@ Generated: 2026-09-18T07:36:18.080Z
 
 ## Anomalies (preserved, not corrected)
 
+- **plato-phaedrus-grc** — <head> (the work's own title, "Φαῖδρος") stripped - the app's own UI already shows the work title; kept out of the reading text to avoid duplicating it inline.
 - **sec-232** — <add> editorial insertion, kept verbatim in the reading text: "ἂν"
 - **sec-234** — <add> editorial insertion, kept verbatim in the reading text: "τι"
 - **sec-235** — <add> editorial insertion, kept verbatim in the reading text: "ἂν"

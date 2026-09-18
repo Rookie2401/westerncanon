@@ -1,5 +1,9 @@
 [
   {
+    "where": "plato-symposium-en",
+    "note": "<head> (the work's own title, \"The Symposium\") stripped - the app's own UI already shows the work title; kept out of the reading text to avoid duplicating it inline."
+  },
+  {
     "where": "sec-172",
     "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Nothing is known of this man.\""
   },

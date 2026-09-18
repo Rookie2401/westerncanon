@@ -1,5 +1,9 @@
 [
   {
+    "where": "plato-phaedrus-grc",
+    "note": "<head> (the work's own title, \"Φαῖδρος\") stripped - the app's own UI already shows the work title; kept out of the reading text to avoid duplicating it inline."
+  },
+  {
     "where": "sec-232",
     "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
   },

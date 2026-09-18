@@ -142,9 +142,30 @@ export function parseDialogue(xml: string, workId: string): ParseResult {
   const bodyStart = xml.indexOf('<body');
   const bodyEnd = xml.indexOf('</body>');
   if (bodyStart < 0 || bodyEnd < 0) fail(`${workId}: no <body>...</body> found in source XML`);
-  const body = xml.slice(bodyStart, bodyEnd);
+  let body = xml.slice(bodyStart, bodyEnd);
 
   const anomalies: Anomaly[] = [];
+
+  // <head>...</head> is the work's own title (e.g. "The Symposium",
+  // "Ἀπολογία Σωκράτους"), printed once at the very top of the source. In
+  // five of the six dialogues that carry one, it sits outside the first
+  // <div type="textpart" subtype="section">, so it's already outside
+  // anything this parser extracts - a no-op here. In Symposium-en
+  // specifically it sits INSIDE the first section div, ahead of the
+  // opening <p>, so without this strip it would be swept up as ordinary
+  // "pending" text and glued onto the dialogue's first paragraph ("The
+  // Symposium Apollodorus tells his Companions..."), duplicating the title
+  // the app's own UI already shows. Stripped here, uniformly, rather than
+  // leaving it to accidental div placement.
+  const headMatch = /<head>([\s\S]*?)<\/head>/.exec(body);
+  if (headMatch) {
+    anomalies.push({
+      where: workId,
+      note: `<head> (the work's own title, "${headMatch[1].trim()}") stripped - the app's own UI already shows the work title; kept out of the reading text to avoid duplicating it inline.`,
+    });
+    body = body.replace(/<head>[\s\S]*?<\/head>/, '');
+  }
+
   const { gap: gapCount, corr: corrCount, sic: sicCount } = scanInformationalTags(body, workId, anomalies);
 
   const TOKEN_RE = /<div\b[^>]*>|<\/div>|<p>|<\/p>|<label>|<\/label>|<del>|<\/del>|<add>|<\/add>|<note\b[^>]*>|<\/note>|<bibl\b[^>]*>|<\/bibl>|<[^>]+>/g;
