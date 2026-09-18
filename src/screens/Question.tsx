@@ -67,7 +67,7 @@ export function QuestionScreen() {
                       to={`/read/${info.id}/${question.number}/${ap}`}
                       className="entry"
                     >
-                      <span className="entry__num">{articulusLabel(ap)}</span>
+                      <span className="entry__num">{articulusLabel(ap, isEn ? 'en' : 'la')}</span>
                       <span className="entry__preview">
                         {a.title ?? <span className="muted">—</span>}
                       </span>

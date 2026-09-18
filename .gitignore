@@ -51,6 +51,7 @@ public/categoriae-en/
 public/de-interpretatione-en/
 public/isagoge-en/
 public/euclid-elements-en/
+public/summa-en/
 
 # The source XML IS committed (scripts/import-summa/raw/xml_latin_nl.xml) as the
 # single bundled copy. If it ever needs to be removed, re-download with:

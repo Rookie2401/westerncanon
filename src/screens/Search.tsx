@@ -207,11 +207,13 @@ export function SearchScreen() {
           aria-label="Search"
         />
         <p className="search__hint">
-          Searches the Summa and every other bundled text, in their original
-          languages. Latin diacritics and œ/æ are folded; Greek matching is
-          accent-insensitive (substring only — no morphological search). A
-          citation like <em>II-II q. 23 a. 1</em> jumps straight to the
-          article.
+          Searches the Latin Summa and every other bundled text, in whichever
+          editions each carries (original language and, where present,
+          English translation) — except the English Summa, reached by
+          browsing or by a bookmark, not by search. Latin diacritics and œ/æ
+          are folded; Greek matching is accent-insensitive (substring only —
+          no morphological search). A citation like{' '}
+          <em>II-II q. 23 a. 1</em> jumps straight to the Latin article.
         </p>
 
         {jump ? (

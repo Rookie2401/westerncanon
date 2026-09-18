@@ -41,7 +41,9 @@
     "validate:augustine-christian-doctrine": "tsx scripts/import-augustine-christian-doctrine-shared/validate.ts",
     "import:augustine-city-of-god-la": "tsx scripts/import-augustine-city-of-god-la/index.ts",
     "import:augustine-city-of-god-en": "tsx scripts/import-augustine-city-of-god-en/index.ts",
-    "validate:augustine-city-of-god": "tsx scripts/import-augustine-city-of-god-shared/validate.ts"
+    "validate:augustine-city-of-god": "tsx scripts/import-augustine-city-of-god-shared/validate.ts",
+    "import:summa-en": "tsx scripts/import-summa-en/index.ts",
+    "validate:summa-en": "tsx scripts/import-summa-en/validate.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",

@@ -85,6 +85,42 @@ export function AboutScreen() {
             </li>
           </ul>
 
+          <h2>The English Summa &amp; its source</h2>
+          <p>
+            The English edition is the Fathers of the English Dominican
+            Province's translation (2nd and revised edition, 1920), a
+            complete public-domain rendering of all five sections — Prima
+            Pars, Prima Secundae, Secunda Secundae, Tertia Pars, and the
+            Supplementum with both its Appendices de Purgatorio — via{' '}
+            <a href="https://www.newadvent.org/summa/" rel="noreferrer">
+              newadvent.org/summa
+            </a>
+            . Every Question and Article (3,125 articles across 614 pages)
+            was fetched and parsed directly from that transcription; inline
+            cross-reference links to the <em>Catholic Encyclopedia</em> were
+            unwrapped to plain text as ordinary HTML cleanup, and nothing
+            else was altered — 1920 British spelling and punctuation are
+            kept as printed.
+          </p>
+          <p>
+            This translation carries no continuous prooemium prose before a
+            Question's first Article (New Advent prints only a linked list
+            of short article topics), so every English{' '}
+            <code>Question.prooemium</code> is <code>null</code> — a
+            difference from the Latin edition's own prooemium paragraphs, not
+            a gap. Conversely, every English Question has its own short title
+            (New Advent's page heading), which the Latin edition lacks. New
+            Advent numbers every article, including questions with only one;
+            the Latin edition's rare unnumbered <em>Articulus unicus</em> has
+            no counterpart here. <strong>58 irregularities already present in
+            New Advent's own transcription</strong> — objection/reply
+            numbers that don't line up, a handful of double "On the
+            contrary" paragraphs, a few articles with no "I answer that,"
+            and the like — are kept exactly as printed and logged in{' '}
+            <code>data/summa-en/anomalies.json</code>, never silently
+            renumbered or corrected.
+          </p>
+
           <h2>The Supplementum Tertiae Partis</h2>
           <p>
             The Supplementum (qq.&nbsp;1–99) with its two Appendices de
@@ -145,10 +181,12 @@ export function AboutScreen() {
           <h2>Remaining notes</h2>
           <ul>
             <li>
-              <strong>No Latin quaestio titles.</strong> The sources carry no
-              “De…” title for any question, so question screens lead with the
-              number; a muted preview line shows the first article’s{' '}
-              <em>utrum</em> question where available.
+              <strong>No Latin quaestio titles.</strong> The Latin sources
+              carry no “De…” title for any question (the English edition's
+              own question titles are unrelated — see above), so Latin
+              question screens lead with the number; a muted preview line
+              shows the first article’s <em>utrum</em> question where
+              available.
             </li>
             {gaps && gaps.count === 0 ? (
               <li>

@@ -31,6 +31,19 @@ const SUMMA_FILES = [
   'suppl-anomalies.json',
 ];
 
+// The English Summa: soft, unlike its Latin counterpart above — a much
+// larger, more recent addition, so a missing file here is a warning, not a
+// build failure.
+const SUMMA_EN_DIR = 'summa-en';
+const SUMMA_EN_FILES = [
+  'part-I.json',
+  'part-I-II.json',
+  'part-II-II.json',
+  'part-III.json',
+  'part-suppl.json',
+  'anomalies.json',
+];
+
 // Generic works: soft. A parallel task may not have landed these yet, so a
 // missing file is a WARNING, not a failure.
 const GENERIC_DIRS = [
@@ -104,6 +117,7 @@ function copyImagesDir(dir) {
 
 mkdirSync(join(publicRoot, SUMMA_DIR), { recursive: true });
 for (const name of SUMMA_FILES) copyOne(SUMMA_DIR, name, true);
+for (const name of SUMMA_EN_FILES) copyOne(SUMMA_EN_DIR, name, false);
 for (const dir of GENERIC_DIRS) {
   for (const name of GENERIC_FILES) copyOne(dir, name, false);
   copyImagesDir(dir);

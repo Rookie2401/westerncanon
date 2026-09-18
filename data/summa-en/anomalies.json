@@ -1,0 +1,234 @@
+[
+  {
+    "where": "summa-en / (work level)",
+    "note": "Every Question.prooemium is null throughout this edition. New Advent prints no continuous prooemium prose before Article 1 (unlike the Latin source, which has one); each page's <ol> is a linked enumeration of short article blurbs (not prose) and was never used as prooemium text."
+  },
+  {
+    "where": "summa-en / tertia-pars-en (part level)",
+    "note": "Part.prooemium is null for tertia-pars-en. The Latin Tertia Pars carries a part-level prooemium, but this per-question page structure (one New Advent page per Question, no separate part-introduction page) has no clean English-source equivalent to extract it from. This is a disclosed scope limit, not an oversight; no prooemium text has been fabricated or substituted."
+  },
+  {
+    "where": "summa-en / (work level)",
+    "note": "Inline cross-reference links (<a href=\"../cathen/...\">, ../bible/..., etc.) are stripped to their plain anchor text throughout, same as every other importer in this repo strips wiki/HTML transport scaffolding — this is ordinary HTML-transport cleanup, not a content change. HTML entities are decoded by jsdom's own HTML parsing (no separate entity-decode step); only whitespace is collapsed afterwards."
+  },
+  {
+    "where": "summa-en / 1005.htm art.6",
+    "note": "paragraph with no preceding labeled section — likely a translator's/editor's own prefatory note (e.g. a glossary gloss on a term in the article's title, or an editorial remark on article ordering), for which the schema has no field. NOT included in any structured output field, but preserved verbatim here: \"\\\"Bonum honestum\\\" is the virtuous good considered as fitting. (cf. II-II, 141, 3; II-II, 145)\""
+  },
+  {
+    "where": "summa-en / 1013.htm art.10",
+    "note": "\"Reply to Objection 4\" has no matching Objection 4 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 1013.htm art.10",
+    "note": "\"Reply to Objection 5\" has no matching Objection 5 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 1024.htm art.1",
+    "note": "\"Reply to Objection 4\" has no matching Objection 4 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 1031.htm art.4",
+    "note": "unusually phrased reply heading \"The same Reply can be given to Objection 2.\" (not \"Reply to Objection N.\") — salvaged as a reply to objection number(s) [2] rather than discarded."
+  },
+  {
+    "where": "summa-en / 1053.htm art.2",
+    "note": "\"Reply to Objection 3\" has no matching Objection 3 on this page (printed Objection numbers: [1,2]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 1068.htm art.2",
+    "note": "respondeo opening is plain unmarked text (\"I answer ... with ... that,\") rather than the usual `<strong>I answer that,</strong>` — recognized by wording, not markup."
+  },
+  {
+    "where": "summa-en / 1074.htm art.2",
+    "note": "\"Reply to Objection 5\" has no matching Objection 5 on this page (printed Objection numbers: [1,2,3,4]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 1074.htm art.3",
+    "note": "no \"I answer that,\" paragraph found on this page; respondeo is null (not fabricated)."
+  },
+  {
+    "where": "summa-en / 1089.htm art.3",
+    "note": "\"Reply to Objection 3\" has no matching Objection 3 on this page (printed Objection numbers: [1,2]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 1089.htm art.3",
+    "note": "\"Reply to Objection 4\" has no matching Objection 4 on this page (printed Objection numbers: [1,2]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 1091.htm art.4",
+    "note": "no \"I answer that,\" paragraph found on this page; respondeo is null (not fabricated)."
+  },
+  {
+    "where": "summa-en / 1093.htm art.4",
+    "note": "combined reply paragraph explicitly named multiple objections (2, 3) in its heading (\"Reply to Objections 2 and 3.\") — duplicated as separate Reply entries (one per objectionNumber) sharing the identical text, so each named objection has a matching reply."
+  },
+  {
+    "where": "summa-en / 1097.htm art.1",
+    "note": "combined reply paragraph explicitly named multiple objections (1, 2) in its heading (\"Reply to Objection 1 and 2\") — duplicated as separate Reply entries (one per objectionNumber) sharing the identical text, so each named objection has a matching reply."
+  },
+  {
+    "where": "summa-en / 1114.htm art.4",
+    "note": "article has 2 \"On the contrary,\" paragraphs — numbered sequentially (sedContra[1]), not merged."
+  },
+  {
+    "where": "summa-en / 1117.htm art.2",
+    "note": "no \"I answer that,\" paragraph found on this page; respondeo is null (not fabricated)."
+  },
+  {
+    "where": "summa-en / 2011.htm art.2",
+    "note": "\"Reply to Objection 4\" has no matching Objection 4 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 2026.htm art.3",
+    "note": "\"Reply to Objection 4\" has no matching Objection 4 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 2087.htm art.7",
+    "note": "article has 2 \"On the contrary,\" paragraphs — numbered sequentially (sedContra[1]), not merged."
+  },
+  {
+    "where": "summa-en / 2089.htm art.1",
+    "note": "article has 2 \"On the contrary,\" paragraphs — numbered sequentially (sedContra[1]), not merged."
+  },
+  {
+    "where": "summa-en / 2093.htm art.4",
+    "note": "\"Reply to Objection 4\" has no matching Objection 4 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 2102.htm art.5",
+    "note": "combined reply paragraph explicitly named multiple objections (8, 9) in its heading (\"Reply to Objections 8 and 9.\") — duplicated as separate Reply entries (one per objectionNumber) sharing the identical text, so each named objection has a matching reply."
+  },
+  {
+    "where": "summa-en / 3004.htm art.8",
+    "note": "\"Reply to Objection 3\" has no matching Objection 3 on this page (printed Objection numbers: [1,2]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 3026.htm art.11",
+    "note": "printed Objection numbers are [1,2,2], not a clean 1..3 sequence (gap and/or duplicate) — kept exactly as printed."
+  },
+  {
+    "where": "summa-en / 3026.htm art.11",
+    "note": "\"Reply to Objection 3\" has no matching Objection 3 on this page (printed Objection numbers: [1,2,2]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 3036.htm art.2",
+    "note": "printed Objection numbers are [1,1,3,4], not a clean 1..4 sequence (gap and/or duplicate) — kept exactly as printed."
+  },
+  {
+    "where": "summa-en / 3036.htm art.2",
+    "note": "\"Reply to Objection 2\" has no matching Objection 2 on this page (printed Objection numbers: [1,1,3,4]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 3049.htm art.6",
+    "note": "paragraph with no preceding labeled section — likely a translator's/editor's own prefatory note (e.g. a glossary gloss on a term in the article's title, or an editorial remark on article ordering), for which the schema has no field. NOT included in any structured output field, but preserved verbatim here: \"Foresight: \\\"Providentia,\\\" which may be translated either \\\"providence\\\" or \\\"foresight.\\\"\""
+  },
+  {
+    "where": "summa-en / 3138.htm art.1",
+    "note": "paragraph with no preceding labeled section — likely a translator's/editor's own prefatory note (e.g. a glossary gloss on a term in the article's title, or an editorial remark on article ordering), for which the schema has no field. NOT included in any structured output field, but preserved verbatim here: \"Effeminacy: Mollities, literally 'softness'\""
+  },
+  {
+    "where": "summa-en / 3147.htm art.4",
+    "note": "\"Reply to Objection 5\" has no matching Objection 5 on this page (printed Objection numbers: [1,2,3,4]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 3172.htm art.1",
+    "note": "printed Objection numbers are [1,2,3,4,2], not a clean 1..5 sequence (gap and/or duplicate) — kept exactly as printed."
+  },
+  {
+    "where": "summa-en / 3185.htm art.7",
+    "note": "\"Reply to Objection 4\" has no matching Objection 4 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 4016.htm art.3",
+    "note": "paragraph with no preceding labeled section — likely a translator's/editor's own prefatory note (e.g. a glossary gloss on a term in the article's title, or an editorial remark on article ordering), for which the schema has no field. NOT included in any structured output field, but preserved verbatim here: \"[Note: The question is hardly apposite in English. St. Thomas explains why we can say in Latin, e.g. 'oratio dominica' (the Lord's Prayer) or 'passio dominica' (Our Lord's Passion), but not speak of our Lord as 'homo dominicus' (a lordly man)].\""
+  },
+  {
+    "where": "summa-en / 4024.htm art.4",
+    "note": "combined reply paragraph explicitly named multiple objections (1, 2) in its heading (\"Replies to Objections 1 and 2.\") — duplicated as separate Reply entries (one per objectionNumber) sharing the identical text, so each named objection has a matching reply."
+  },
+  {
+    "where": "summa-en / 4035.htm art.5",
+    "note": "article has 2 \"On the contrary,\" paragraphs — numbered sequentially (sedContra[1]), not merged."
+  },
+  {
+    "where": "summa-en / 4054.htm art.2",
+    "note": "paragraph with no preceding labeled section — likely a translator's/editor's own prefatory note (e.g. a glossary gloss on a term in the article's title, or an editorial remark on article ordering), for which the schema has no field. NOT included in any structured output field, but preserved verbatim here: \"[Note: Some editions give this article as the third, following the order of the introduction to the question. But this is evident from the first sentence of the body of [3] ([2] in the aforesaid editions), that the order of the Leonine edition is correct.]\""
+  },
+  {
+    "where": "summa-en / 5014.htm art.4",
+    "note": "combined reply paragraph explicitly named multiple objections (2, 3) in its heading (\"Reply to Objections 2 and 3.\") — duplicated as separate Reply entries (one per objectionNumber) sharing the identical text, so each named objection has a matching reply."
+  },
+  {
+    "where": "summa-en / 5016.htm art.2",
+    "note": "combined reply paragraph explicitly named multiple objections (4, 5) in its heading (\"Reply to Objections 4 and 5.\") — duplicated as separate Reply entries (one per objectionNumber) sharing the identical text, so each named objection has a matching reply."
+  },
+  {
+    "where": "summa-en / 5040.htm art.3",
+    "note": "\"Reply to Objection 11\" has no matching Objection 11 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 5041.htm art.1",
+    "note": "printed Objection numbers are [1,1,3,4], not a clean 1..4 sequence (gap and/or duplicate) — kept exactly as printed."
+  },
+  {
+    "where": "summa-en / 5041.htm art.1",
+    "note": "\"Reply to Objection 2\" has no matching Objection 2 on this page (printed Objection numbers: [1,1,3,4]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 5052.htm art.1",
+    "note": "printed Objection numbers are [1,2,3,4,5,7], not a clean 1..6 sequence (gap and/or duplicate) — kept exactly as printed."
+  },
+  {
+    "where": "summa-en / 5052.htm art.1",
+    "note": "\"Reply to Objection 6\" has no matching Objection 6 on this page (printed Objection numbers: [1,2,3,4,5,7]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 5062.htm art.4",
+    "note": "combined reply paragraph explicitly named multiple objections (2, 3) in its heading (\"Reply to Objections 2 and 3.\") — duplicated as separate Reply entries (one per objectionNumber) sharing the identical text, so each named objection has a matching reply."
+  },
+  {
+    "where": "summa-en / 5064.htm art.3",
+    "note": "paragraph with no preceding labeled section — likely a translator's/editor's own prefatory note (e.g. a glossary gloss on a term in the article's title, or an editorial remark on article ordering), for which the schema has no field. NOT included in any structured output field, but preserved verbatim here: \"[This and the Fourth Article are omitted in the Leonine edition.]\""
+  },
+  {
+    "where": "summa-en / 5064.htm art.4",
+    "note": "paragraph with no preceding labeled section — likely a translator's/editor's own prefatory note (e.g. a glossary gloss on a term in the article's title, or an editorial remark on article ordering), for which the schema has no field. NOT included in any structured output field, but preserved verbatim here: \"[This and the previous article are omitted in the Leonine edition.]\""
+  },
+  {
+    "where": "summa-en / 5069.htm art.3",
+    "note": "\"Reply to Objection 4\" has no matching Objection 4 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 5069.htm art.3",
+    "note": "\"Reply to Objection 5\" has no matching Objection 5 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 5069.htm art.3",
+    "note": "\"Reply to Objection 6\" has no matching Objection 6 on this page (printed Objection numbers: [1,2,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 5070.htm art.3",
+    "note": "article has 2 \"On the contrary,\" paragraphs — numbered sequentially (sedContra[1]), not merged."
+  },
+  {
+    "where": "summa-en / 5071.htm art.3",
+    "note": "Objection 5 label contained extra trailing text merged into the <strong> tag (source markup irregularity): \"On the contrary,\". Discarded as label noise (not reading text); the paragraph's body text is still used as Objection 5."
+  },
+  {
+    "where": "summa-en / 5071.htm art.14",
+    "note": "printed Objection numbers are [1,3], not a clean 1..2 sequence (gap and/or duplicate) — kept exactly as printed."
+  },
+  {
+    "where": "summa-en / 5071.htm art.14",
+    "note": "\"Reply to Objection 2\" has no matching Objection 2 on this page (printed Objection numbers: [1,3]) — a genuine numbering irregularity in the source, kept exactly as printed rather than renumbered or dropped."
+  },
+  {
+    "where": "summa-en / 5077.htm art.4",
+    "note": "printed Objection numbers are [1,2,3,4,3], not a clean 1..5 sequence (gap and/or duplicate) — kept exactly as printed."
+  },
+  {
+    "where": "summa-en / appendix-2-1.html",
+    "note": "<h1> has no \"Question N.\" prefix — it reads just \"Purgatory\". Judgement call: this is New Advent's own heading/section label for this appendix question (\"Purgatory\"), not a generic page/site label, so it was used verbatim as this question's title (title != null) rather than set to null."
+  }
+]
