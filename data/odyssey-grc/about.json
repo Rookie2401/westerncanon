@@ -1,0 +1,26 @@
+{
+  "workId": "odyssey-grc",
+  "title": "Ὀδύσσεια",
+  "author": "Homer",
+  "language": "grc",
+  "edition": "Monro/Allen, Homeri Opera, Oxford Classical Texts (2nd ed. 1917-19)",
+  "editor": "D. B. Monro and T. W. Allen",
+  "provenance": "Perseus Digital Library / Open Greek and Latin, \"canonical-greekLit\" GitHub repository (github.com/PerseusDL/canonical-greekLit), TEI XML edition of the Monro/Allen Oxford Classical Text (Homeri Opera, vols. I-II, Oxford: Clarendon Press, 3rd ed. 1920 for the Iliad, 2nd ed. 1917-19 for the Odyssey; first published 1902/1908). Fetched once and cached in this repository under scripts/import-homer-<work>-grc/raw/ - nothing is downloaded at build or run time.",
+  "license": "Greek text (Monro/Allen, early 20th century) is in the public domain. The Perseus/Open Greek and Latin digital TEI encoding is licensed CC BY-SA 4.0.",
+  "sections": [
+    {
+      "heading": "About the text",
+      "paragraphs": [
+        "The Odyssey follows the Iliad in the traditional ordering, telling Odysseus's ten-year journey home from Troy - the wanderings among the Cyclops, Circe, the Sirens, Scylla and Charybdis, and Calypso, told partly in his own first-person narration to the Phaeacians - and his eventual return to Ithaca, where, still disguised, he and his son Telemachus overthrow the suitors besieging his wife Penelope. The 24 Books printed here follow the same traditional Alexandrian division as the Iliad's.",
+        "The Greek text is verse (dactylic hexameter); it is reproduced here one line per source line, exactly as lineated in the edition, never collapsed to prose or re-lineated."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Perseus Digital Library / Open Greek and Latin, \"canonical-greekLit\" GitHub repository (github.com/PerseusDL/canonical-greekLit), TEI XML edition of the Monro/Allen Oxford Classical Text (Homeri Opera, vols. I-II, Oxford: Clarendon Press, 3rd ed. 1920 for the Iliad, 2nd ed. 1917-19 for the Odyssey; first published 1902/1908). Fetched once and cached in this repository under scripts/import-homer-<work>-grc/raw/ - nothing is downloaded at build or run time.",
+        "The importer reads this cached XML directly; each of the work's 24 Books is a top-level division (book-1..book-24), holding a single passage whose text is every surviving verse line of that Book, one per line, in reading order - the Greek is preserved as verse, not collapsed to prose."
+      ]
+    }
+  ]
+}

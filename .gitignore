@@ -52,6 +52,44 @@ public/de-interpretatione-en/
 public/isagoge-en/
 public/euclid-elements-en/
 public/summa-en/
+public/iliad-grc/
+public/iliad-en/
+public/odyssey-grc/
+public/odyssey-en/
+public/theogony-grc/
+public/theogony-en/
+public/works-and-days-grc/
+public/works-and-days-en/
+public/shield-of-heracles-grc/
+public/shield-of-heracles-en/
+public/aeneid-la/
+public/aeneid-en/
+public/plato-euthyphro-grc/
+public/plato-euthyphro-en/
+public/plato-apology-grc/
+public/plato-apology-en/
+public/plato-crito-grc/
+public/plato-crito-en/
+public/plato-phaedo-grc/
+public/plato-phaedo-en/
+public/plato-symposium-grc/
+public/plato-symposium-en/
+public/plato-phaedrus-grc/
+public/plato-phaedrus-en/
+public/plato-protagoras-grc/
+public/plato-protagoras-en/
+public/plato-gorgias-grc/
+public/plato-gorgias-en/
+public/plato-meno-grc/
+public/plato-meno-en/
+public/plato-ion-grc/
+public/plato-ion-en/
+public/plato-timaeus-grc/
+public/plato-timaeus-en/
+public/plato-laws-grc/
+public/plato-laws-en/
+public/plato-republic-grc/
+public/plato-republic-en/
 
 # The source XML IS committed (scripts/import-summa/raw/xml_latin_nl.xml) as the
 # single bundled copy. If it ever needs to be removed, re-download with:

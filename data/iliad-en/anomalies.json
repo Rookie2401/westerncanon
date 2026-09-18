@@ -1,0 +1,10 @@
+[
+  {
+    "where": "iliad-en / book-20",
+    "note": "<corr resp=\"perseus\"> transcription correction in the source, kept verbatim in the reading text: \"son of\""
+  },
+  {
+    "where": "iliad-en / whole work",
+    "note": "Parsed 425 Loeb \"card\" print-pagination divisions (discarded as pure layout) across 24 Books, yielding 425 prose paragraphs. 144 <note resp=\"Loeb\"> footnote markers were stripped entirely (Murray/Loeb apparatus, not reading text). 1 <corr resp=\"perseus\"> transcription correction(s) were kept verbatim and individually logged above."
+  }
+]

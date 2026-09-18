@@ -1,0 +1,20 @@
+{
+  "workId": "plato-laws-en",
+  "title": "Laws",
+  "author": "Plato",
+  "language": "en",
+  "translator": "R. G. Bury",
+  "edition": "Loeb Classical Library 187 & 192 (1926)",
+  "provenance": "Text: Perseus Digital Library / Open Greek and Latin, canonical-greekLit corpus (github.com/PerseusDL/canonical-greekLit), urn:cts:greekLit:tlg0059.tlg034.perseus-eng2, fetched directly and committed to this repository at scripts/import-plato-laws-en/raw/. Translation by R. G. Bury, first published in the Loeb Classical Library (Harvard University Press / William Heinemann) in 1926. Structural markup (Book/Stephanus-page divisions, speaker turns) is the Perseus Project's own TEI-XML encoding of Bury's translation.",
+  "license": "Perseus/OGL canonical-greekLit texts are released under a Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0). Bury's 1926 translation is in the public domain in the United States: works published in 1926 entered the US public domain on January 1, 2022 under the 95-years-from-publication rule (17 U.S.C. §304), for any work published before 1978 whose copyright was not renewed or that has simply run its full term - 1926 publications are unambiguously expired regardless of renewal, unlike works first published in 1930 or later that are still working through the same rule year by year.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is R. G. Bury's English translation of Plato's Laws, first published in the Loeb Classical Library in 1926 (vols. 187 and 192) and now in the US public domain, as digitized and structurally marked up by the Perseus Digital Library / Open Greek and Latin project.",
+        "Navigation is by Book (12 total) and Stephanus page, matching the accompanying Greek text (data/plato-laws-grc) page for page - verified div-for-div against it before this importer was written.",
+        "Bury's own footnotes (mostly cross-references to other passages and brief textual/historical notes) are not included in the reading text; they are translator apparatus, not his translation of Plato's Greek. See anomalies.json for a summary."
+      ]
+    }
+  ]
+}

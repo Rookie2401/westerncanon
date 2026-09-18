@@ -1,0 +1,18 @@
+[
+  {
+    "where": "works-and-days-grc / card boundary derivation",
+    "note": "This Greek file carries its own native <milestone unit=\"card\"> markers (26 of them, attribute order \"n... ed... unit...\" - different from the Theogony's \"ed... unit... n...\" - so parsing matches unit=\"card\" via lookahead rather than assuming attribute order). They were cross-checked at import time against the shared cardBoundaries table and match exactly. The Greek text was bucketed into cards by each line's integer line-number prefix against this boundary list."
+  },
+  {
+    "where": "works-and-days-grc / <del> editorial bracketing",
+    "note": "6 line(s) are wholly wrapped in a single <del>...</del> span (editorial athetesis, n=\"76\", \"79\", \"93\", \"99\", \"124\", \"125\"). Per this repo's \"never content\" rule these are KEPT verbatim in the reading text - only the <del>/</del> tags themselves are stripped (see the parallel note in theogony-grc for why this departs from the Euclid importer's precedent of dropping <del> content)."
+  },
+  {
+    "where": "works-and-days-grc / partial in-line <del> bracketing (lettered lines)",
+    "note": "The 4 lettered lines n=\"169a\", \"169b\", \"169c\", \"169d\" (a \"silver race\" doublet beyond the standard 1-828 numbering, present in only part of the manuscript tradition) each carry TWO separate <del> spans with un-bracketed plain text between them (e.g. n=\"169a\": \"<del>τοῦ γὰρ δεσμὸν</del> ἔλυσε πα<del>τὴρ ἀνδρῶν τε θεῶν τε.</del>\" - NOT wrapped in <add> as originally guessed before the raw XML was inspected closely). All text is kept verbatim (both the bracketed and the un-bracketed portions); only the <del>/</del> tags are stripped, same treatment as the whole-line <del> spans above. This file has no <add> elements at all."
+  },
+  {
+    "where": "works-and-days-grc / completeness",
+    "note": "All 26 cards present and in order, spanning the standard line numbering 1-828 plus the lettered doublet. Incipit and explicit verified against the printed text."
+  }
+]

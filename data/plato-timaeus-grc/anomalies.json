@@ -1,0 +1,34 @@
+[
+  {
+    "where": "plato-timaeus-grc / <sic>",
+    "note": "<sic> — Burnet's transcription explicitly flags \"αἷμα\" as printed exactly as the manuscript/tradition gives it (a marked but unemended reading); kept verbatim."
+  },
+  {
+    "where": "sec-35",
+    "note": "<del> excluded from the reading text: \"αὖ πέρι\""
+  },
+  {
+    "where": "sec-38",
+    "note": "<del> excluded from the reading text: \"τὸν\""
+  },
+  {
+    "where": "sec-40",
+    "note": "<del> excluded from the reading text: \"περὶ\""
+  },
+  {
+    "where": "sec-60",
+    "note": "<del> excluded from the reading text: \"νόμου\""
+  },
+  {
+    "where": "sec-61",
+    "note": "<del> excluded from the reading text: \"ἀέρα\""
+  },
+  {
+    "where": "plato-timaeus-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-timaeus-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

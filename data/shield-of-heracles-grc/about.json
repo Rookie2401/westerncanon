@@ -1,0 +1,50 @@
+{
+  "workId": "shield-of-heracles-grc",
+  "title": "Shield of Heracles",
+  "author": "Hesiod",
+  "language": "grc",
+  "edition": "Evelyn-White 1914 (Loeb Classical Library)",
+  "editor": "Hugh G. Evelyn-White",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin `canonical-greekLit` GitHub repository (CTS urn:cts:greekLit:tlg0020.tlg003.perseus-grc2), which digitises the Greek text of the poem attributed to Hesiod, Ἀσπὶς Ἡρακλέους, as edited by Hugh G. Evelyn-White for the Loeb Classical Library (1914); imported by scripts/import-hesiod-shield-of-heracles-grc.",
+  "license": "The Greek critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin Project (`canonical-greekLit`) under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Hesiod's Shield of Heracles",
+      "paragraphs": [
+        "This is the Greek text of the Ἀσπὶς Ἡρακλέους (Shield of Heracles), an archaic epic narrating Heracles' battle with Cycnus and centred on an extended ekphrasis describing his shield. Ancient and modern scholarship alike has long doubted that Hesiod himself composed this poem (it is traditionally \"attributed\" to him, likely a later imitation drawing on the Theogony and the Homeric epics), but it is transmitted with the rest of the Hesiodic corpus and is included here on that traditional footing.",
+        "The text here is the original Greek, verbatim. Nothing is translated, modernised, normalised or silently corrected. Where the source is irregular - editorially bracketed lines - the irregularity is preserved and noted in anomalies.json."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Hugh G. Evelyn-White, ed. and trans., Hesiod, the Homeric Hymns and Homerica (Loeb Classical Library, London: William Heinemann Ltd. / New York: The Macmillan Co., 1914). This is the edition that Perseus's TEI transcription of both the Greek text and the English translation of \"Shield of Heracles\" (Ἀσπὶς Ἡρακλέους) is built from.",
+        "Citation in this reader follows the Loeb \"card\" pagination unit that both language witnesses in the source TEI share (a card typically spans 20–40 lines); Hesiod's poems carry no Book-level division in the manuscript or print tradition, so there is no higher citation level to use instead."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0020.tlg003.perseus-grc2.xml (CTS URN urn:cts:greekLit:tlg0020.tlg003.perseus-grc2) from the Perseus Digital Library / OpenGreekAndLatin `canonical-greekLit` GitHub repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer slices the single <div type=\"edition\"> body into its <l n=\"N\"> verse lines, then groups consecutive lines into 13 \"cards\" using the source's own <milestone unit=\"card\"> markers. The <milestone> and <del> tags are stripped, the latter keeping its text content. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by card (a Loeb print-pagination unit, not a Book - this poem has none). Each card's Division.ref gives its own Greek line range. Passage.n is \"\" throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "6 line(s) editorially bracketed (<del>) are kept verbatim, tags stripped only. See the individual anomaly entries above for exact locations and reasoning."
+      ]
+    }
+  ]
+}

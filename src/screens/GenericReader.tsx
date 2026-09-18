@@ -43,7 +43,7 @@ function PassageList({
     <>
       {passages.map((p, i) => (
         <div key={i} className="gr-passage">
-          <p>{p.text}</p>
+          <p className="gr-passage__text">{p.text}</p>
           {p.anomaly ? (
             <p className="gr-passage__anomaly" lang="en">
               {p.anomaly}

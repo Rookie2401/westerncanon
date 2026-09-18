@@ -1,0 +1,20 @@
+{
+  "workId": "plato-republic-grc",
+  "title": "Πολιτεία",
+  "author": "Plato",
+  "language": "grc",
+  "edition": "Burnet 1902 (OCT)",
+  "editor": "John Burnet",
+  "provenance": "Text: Perseus Digital Library / Open Greek and Latin, canonical-greekLit corpus (github.com/PerseusDL/canonical-greekLit), urn:cts:greekLit:tlg0059.tlg030.perseus-grc2, fetched directly and committed to this repository at scripts/import-plato-republic-grc/raw/. Edited from John Burnet's Oxford Classical Texts edition of Platonis Opera (Oxford: Clarendon Press, 1902; the OCT Republic volume - vol. IV - was first issued 1902, with the whole Platonis Opera series completed by 1907), itself edited from 19th-century manuscript collations. Structural markup (Book/Stephanus-page divisions, speaker turns) is the Perseus Project's own TEI-XML encoding of Burnet's text.",
+  "license": "Perseus/OGL canonical-greekLit texts are released under a Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0); Burnet's underlying 1902 edition is in the public domain (author died 1928, and the edition itself is well out of copyright in the US and elsewhere).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is the ancient Greek text of Plato's Republic, edited by John Burnet for the Oxford Classical Texts series (Platonis Opera, 1902), as digitized and structurally marked up by the Perseus Digital Library / Open Greek and Latin project.",
+        "Navigation is by Book (10 total) and Stephanus page (the standard citation system for Plato, from Henri Estienne's 1578 edition - e.g. \"327a\" - preserved here at page granularity; the individual a/b/c/d/e sub-page letters are marked in the source but are finer than this reader's division granularity and are not separately addressable).",
+        "The Republic is narrated throughout by Socrates in the first person - he recounts, to an unnamed listener, a conversation that took place \"yesterday\" - so the source marks nearly the entire text as a single continuous quotation attributed to Socrates, with the other speakers' words appearing as reported speech within his narration, rather than as separate dramatic turns (contrast the Laws, a direct dialogue with alternating speaker labels)."
+      ]
+    }
+  ]
+}

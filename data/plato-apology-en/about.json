@@ -1,0 +1,47 @@
+{
+  "workId": "plato-apology-en",
+  "title": "Apology",
+  "author": "Plato",
+  "language": "en",
+  "edition": "Loeb Classical Library, 1914",
+  "translator": "Harold North Fowler",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (urn:cts:greekLit:tlg0059.tlg002.perseus-eng2), which digitises Harold North Fowler's 1914 Loeb translation; imported by scripts/import-plato-apology-en.",
+  "license": "Harold North Fowler's 1914 translation is in the public domain (published over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Plato's Apology in English",
+      "paragraphs": [
+        "This is Harold North Fowler's 1914 English translation of Plato's Apology (Greek Ἀπολογία Σωκράτους), from the Loeb Classical Library. It is a companion edition to this app's Greek (Burnet) text of the same dialogue, sharing the same Stephanus-page numbering throughout, and can be read side by side with it.",
+        "Stephanus pagination (this dialogue: pp. 17–42) is the universal citation scheme for Plato, taken from Henri Estienne's 1578 edition and reprinted in the margin of virtually every edition and translation since; it is used here as-is, not renumbered."
+      ]
+    },
+    {
+      "heading": "The translation",
+      "paragraphs": [
+        "Harold North Fowler, in *Plato*, Loeb Classical Library (Cambridge, MA: Harvard University Press / London: William Heinemann, 1914). Harold North Fowler translates directly against the Greek manuscript tradition represented by Burnet's Oxford text, the same edition this app's Greek text is transcribed from, and remains a standard scholarly English Plato."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0059.tlg002.perseus-eng2.xml (urn:cts:greekLit:tlg0059.tlg002.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit GitHub repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The source has no Book-level division (unlike Plato's *Republic* and *Laws*): the whole dialogue is segmented directly into 26 <div type=\"textpart\" subtype=\"section\"> elements, one per Stephanus page (this dialogue: pp. 17–42), attribute order varying file to file and tolerated as such. Each page division carries a single passage: its <p> paragraphs joined with a blank line between them, in source order, never merged or reordered - 26 paragraphs total in this file.",
+        "This particular Perseus witness carries no <said>/<label> speaker markup at all: all 26 paragraphs are plain prose, matching the work's dramatic frame as one continuous speech by Socrates (plus a narrated cross-examination of Meletus) rather than a back-and-forth exchange. So unlike this app's other five Plato dialogues, no paragraph here opens with a printed speaker label - there simply isn't one in the source to preserve.",
+        "Finer Stephanus sub-page lettering (<milestone n=\"17a\" unit=\"section\" resp=\"Stephanus\"/>, \"17b\", ...) appears scattered mid-paragraph in the source and carries no text of its own; all 193 <milestone/> markers in this file (including the page-boundary echo that sometimes duplicates a division's own page number) are stripped, and the Division granularity stays at the Stephanus-page level, not the lettered sub-page.",
+        "This file has 2 translator's footnotes (<note>) and 2 inline cross-reference citations (<bibl>, e.g. a citation like \"Hom. Il. 23.335 ff.\" identifying a quoted Homer passage). Both are excluded from the reading text entirely - they are the translator's own apparatus, not the speaker's words - matching how scripts/import-euclid/index.ts drops Heath's <note> commentary; every occurrence is still logged verbatim to anomalies.json, nothing is silently dropped. Every other inline tag actually used in the running text (<persName>, <placeName>, <name>, <q>, <foreign>, and similar) is unwrapped: tag dropped, content kept, nothing fabricated or removed."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Division scheme: one Division per Stephanus page (id `sec-N`, e.g. `sec-17`), no further nesting - the same scheme this app uses for all six dialogues in this batch. Cite by dialogue and Stephanus page/letter (e.g. \"Apology 17a\"), the standard scholarly citation for Plato.",
+        "Every passage and division ref is null: no physical page/line reference beyond the Stephanus number itself is tracked at this granularity."
+      ]
+    }
+  ]
+}

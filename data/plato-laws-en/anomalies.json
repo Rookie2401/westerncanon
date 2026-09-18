@@ -1,0 +1,2254 @@
+[
+  {
+    "where": "book-1-sec-624",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 19.178\""
+  },
+  {
+    "where": "book-1-sec-626",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 430e ff\""
+  },
+  {
+    "where": "book-1-sec-629",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Tyrt. 12 (Bergk)\""
+  },
+  {
+    "where": "book-1-sec-629",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Tyrtaeus 12 Bergk\""
+  },
+  {
+    "where": "book-1-sec-629",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Tyrtaeus\""
+  },
+  {
+    "where": "book-1-sec-629",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Tyrtaeus\""
+  },
+  {
+    "where": "book-1-sec-630",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Theognis 5.77-8 Bergk\""
+  },
+  {
+    "where": "book-2-sec-659",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 6.764\""
+  },
+  {
+    "where": "book-2-sec-663",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 414c\""
+  },
+  {
+    "where": "book-2-sec-668",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 655d\""
+  },
+  {
+    "where": "book-2-sec-672",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 653d ff\""
+  },
+  {
+    "where": "book-2-sec-674",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 1.637a, 637b\""
+  },
+  {
+    "where": "book-3-sec-677",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 642d\""
+  },
+  {
+    "where": "book-3-sec-677",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 640f\""
+  },
+  {
+    "where": "book-3-sec-680",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1252b 17ff\""
+  },
+  {
+    "where": "book-3-sec-680",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 9.112\""
+  },
+  {
+    "where": "book-3-sec-681",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 557d ff\""
+  },
+  {
+    "where": "book-3-sec-681",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 20.216 ff.\""
+  },
+  {
+    "where": "book-3-sec-683",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 638d\""
+  },
+  {
+    "where": "book-3-sec-683",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 682d, 682e\""
+  },
+  {
+    "where": "book-3-sec-684",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 692b\""
+  },
+  {
+    "where": "book-3-sec-684",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 736c\""
+  },
+  {
+    "where": "book-3-sec-685",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 625b\""
+  },
+  {
+    "where": "book-3-sec-685",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 5.640 ff\""
+  },
+  {
+    "where": "book-3-sec-688",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 630d ff\""
+  },
+  {
+    "where": "book-3-sec-689",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 435ff\""
+  },
+  {
+    "where": "book-3-sec-689",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 430e; 591d\""
+  },
+  {
+    "where": "book-3-sec-690",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Gorg. 484b\""
+  },
+  {
+    "where": "book-3-sec-690",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"κατὰ ρύσιν\""
+  },
+  {
+    "where": "book-3-sec-690",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 638 ff\""
+  },
+  {
+    "where": "book-3-sec-691",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Soph. OT 873\""
+  },
+  {
+    "where": "book-3-sec-692",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1313a 19ff\""
+  },
+  {
+    "where": "book-3-sec-692",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 683d\""
+  },
+  {
+    "where": "book-3-sec-692",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 683d\""
+  },
+  {
+    "where": "book-3-sec-692",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 684a\""
+  },
+  {
+    "where": "book-3-sec-692",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 691b\""
+  },
+  {
+    "where": "book-3-sec-692",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hdt. 7.148ff\""
+  },
+  {
+    "where": "book-3-sec-693",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 756e\""
+  },
+  {
+    "where": "book-3-sec-693",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1266a 1ff\""
+  },
+  {
+    "where": "book-3-sec-695",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hdt. 3.68-88\""
+  },
+  {
+    "where": "book-3-sec-696",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 689d\""
+  },
+  {
+    "where": "book-3-sec-697",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 631b, c\""
+  },
+  {
+    "where": "book-3-sec-697",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 661a ff.\""
+  },
+  {
+    "where": "book-3-sec-697",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 726a ff.\""
+  },
+  {
+    "where": "book-3-sec-697",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Nic. Eth. 1098b 12 ff\""
+  },
+  {
+    "where": "book-3-sec-699",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 646e, 647c, 671d\""
+  },
+  {
+    "where": "book-3-sec-700",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 657c ff., 699c ff\""
+  },
+  {
+    "where": "book-3-sec-700",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 3.397a ff\""
+  },
+  {
+    "where": "book-3-sec-701",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 8.6\""
+  },
+  {
+    "where": "book-3-sec-701",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 4.424e\""
+  },
+  {
+    "where": "book-3-sec-701",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. Ba. 385\""
+  },
+  {
+    "where": "book-3-sec-701",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 693b\""
+  },
+  {
+    "where": "book-4-sec-704",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 705a\""
+  },
+  {
+    "where": "book-4-sec-705",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 7.6\""
+  },
+  {
+    "where": "book-4-sec-705",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 679b\""
+  },
+  {
+    "where": "book-4-sec-705",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 625e\""
+  },
+  {
+    "where": "book-4-sec-706",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 14.96\""
+  },
+  {
+    "where": "book-4-sec-707",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 697b, 757a\""
+  },
+  {
+    "where": "book-4-sec-707",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 637c\""
+  },
+  {
+    "where": "book-4-sec-710",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 473c ff., 486a ff\""
+  },
+  {
+    "where": "book-4-sec-710",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 696d\""
+  },
+  {
+    "where": "book-4-sec-710",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 698a\""
+  },
+  {
+    "where": "book-4-sec-710",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phaedo 82a ff\""
+  },
+  {
+    "where": "book-4-sec-710",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 430d ff\""
+  },
+  {
+    "where": "book-4-sec-710",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 696d\""
+  },
+  {
+    "where": "book-4-sec-712",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 473d\""
+  },
+  {
+    "where": "book-4-sec-712",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 746a\""
+  },
+  {
+    "where": "book-4-sec-713",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Politic. 271\""
+  },
+  {
+    "where": "book-4-sec-713",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 691c, 691d\""
+  },
+  {
+    "where": "book-4-sec-714",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 712c\""
+  },
+  {
+    "where": "book-4-sec-714",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 630b, 690b, 690c\""
+  },
+  {
+    "where": "book-4-sec-714",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 1.338, 2.367\""
+  },
+  {
+    "where": "book-4-sec-714",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 690b\""
+  },
+  {
+    "where": "book-4-sec-715",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 690b\""
+  },
+  {
+    "where": "book-4-sec-716",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.218\""
+  },
+  {
+    "where": "book-4-sec-718",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 287ff.\""
+  },
+  {
+    "where": "book-4-sec-718",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 287 ff.\""
+  },
+  {
+    "where": "book-4-sec-719",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 656\""
+  },
+  {
+    "where": "book-4-sec-719",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 719d\""
+  },
+  {
+    "where": "book-4-sec-719",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 717e\""
+  },
+  {
+    "where": "book-4-sec-720",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 634d, 634e\""
+  },
+  {
+    "where": "book-4-sec-720",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 722b, 722c\""
+  },
+  {
+    "where": "book-4-sec-720",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 857e\""
+  },
+  {
+    "where": "book-4-sec-721",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 631d, 631e\""
+  },
+  {
+    "where": "book-4-sec-721",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 772d\""
+  },
+  {
+    "where": "book-4-sec-722",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 720c\""
+  },
+  {
+    "where": "book-4-sec-722",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 700b\""
+  },
+  {
+    "where": "book-4-sec-723",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 718c\""
+  },
+  {
+    "where": "book-4-sec-723",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 715e\""
+  },
+  {
+    "where": "book-4-sec-723",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 716b\""
+  },
+  {
+    "where": "book-5-sec-728",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 716c\""
+  },
+  {
+    "where": "book-5-sec-728",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 716d\""
+  },
+  {
+    "where": "book-5-sec-728",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 731c\""
+  },
+  {
+    "where": "book-5-sec-728",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 854c ff.\""
+  },
+  {
+    "where": "book-5-sec-728",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 957b\""
+  },
+  {
+    "where": "book-5-sec-730",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 663a\""
+  },
+  {
+    "where": "book-5-sec-730",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 829a\""
+  },
+  {
+    "where": "book-5-sec-731",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 375b ff.\""
+  },
+  {
+    "where": "book-5-sec-731",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 410c ff\""
+  },
+  {
+    "where": "book-5-sec-731",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 868c ff.\""
+  },
+  {
+    "where": "book-5-sec-731",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 863b ff.\""
+  },
+  {
+    "where": "book-5-sec-731",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Prot. 345d ff\""
+  },
+  {
+    "where": "book-5-sec-731",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 86d ff\""
+  },
+  {
+    "where": "book-5-sec-731",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. Fr. 460\""
+  },
+  {
+    "where": "book-5-sec-732",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 474d ff\""
+  },
+  {
+    "where": "book-5-sec-732",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 474e ff\""
+  },
+  {
+    "where": "book-5-sec-732",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phileb. 33e ff\""
+  },
+  {
+    "where": "book-5-sec-732",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 388e f.\""
+  },
+  {
+    "where": "book-5-sec-732",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 606c ff\""
+  },
+  {
+    "where": "book-5-sec-735",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1265b 18 ff\""
+  },
+  {
+    "where": "book-5-sec-735",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 410a\""
+  },
+  {
+    "where": "book-5-sec-735",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 709e\""
+  },
+  {
+    "where": "book-5-sec-736",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 684e\""
+  },
+  {
+    "where": "book-5-sec-737",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1265a 30 ff\""
+  },
+  {
+    "where": "book-5-sec-739",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 735d\""
+  },
+  {
+    "where": "book-5-sec-739",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 424a ff\""
+  },
+  {
+    "where": "book-5-sec-739",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. Orest. 725\""
+  },
+  {
+    "where": "book-5-sec-740",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 742c\""
+  },
+  {
+    "where": "book-5-sec-740",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 755b\""
+  },
+  {
+    "where": "book-5-sec-741",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Prot. 345b ff\""
+  },
+  {
+    "where": "book-5-sec-741",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 818a\""
+  },
+  {
+    "where": "book-5-sec-742",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 371b ff\""
+  },
+  {
+    "where": "book-5-sec-742",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 950d\""
+  },
+  {
+    "where": "book-5-sec-743",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 631c\""
+  },
+  {
+    "where": "book-5-sec-743",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 697b\""
+  },
+  {
+    "where": "book-5-sec-743",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 728e\""
+  },
+  {
+    "where": "book-5-sec-744",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 757a\""
+  },
+  {
+    "where": "book-5-sec-745",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 776a\""
+  },
+  {
+    "where": "book-5-sec-747",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 436a\""
+  },
+  {
+    "where": "book-5-sec-747",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 745d ad fin\""
+  },
+  {
+    "where": "book-6-sec-751",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 735a\""
+  },
+  {
+    "where": "book-6-sec-751",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 702b\""
+  },
+  {
+    "where": "book-6-sec-751",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 702c\""
+  },
+  {
+    "where": "book-6-sec-752",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Gorg. 505d ff\""
+  },
+  {
+    "where": "book-6-sec-754",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 752d\""
+  },
+  {
+    "where": "book-6-sec-754",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 752e\""
+  },
+  {
+    "where": "book-6-sec-755",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 758b\""
+  },
+  {
+    "where": "book-6-sec-756",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1266a 14 ff\""
+  },
+  {
+    "where": "book-6-sec-757",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Gorg. 508a ff\""
+  },
+  {
+    "where": "book-6-sec-757",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Gorg. 508b ff\""
+  },
+  {
+    "where": "book-6-sec-757",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1301b 29 ff.\""
+  },
+  {
+    "where": "book-6-sec-757",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Nic. Eth. 1131b 27\""
+  },
+  {
+    "where": "book-6-sec-757",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Nic. Eth. 1158b 30 ff\""
+  },
+  {
+    "where": "book-6-sec-759",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1300a 19 ff\""
+  },
+  {
+    "where": "book-6-sec-759",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 738d ff.\""
+  },
+  {
+    "where": "book-6-sec-759",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 771e\""
+  },
+  {
+    "where": "book-6-sec-759",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 775a\""
+  },
+  {
+    "where": "book-6-sec-759",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 828b\""
+  },
+  {
+    "where": "book-6-sec-767",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 767a 2 ff\""
+  },
+  {
+    "where": "book-6-sec-768",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 766e-768c\""
+  },
+  {
+    "where": "book-6-sec-768",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 853a ff.\""
+  },
+  {
+    "where": "book-6-sec-768",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 956b\""
+  },
+  {
+    "where": "book-6-sec-769",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 685a\""
+  },
+  {
+    "where": "book-6-sec-769",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 712b\""
+  },
+  {
+    "where": "book-6-sec-769",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Polit. 298a ff\""
+  },
+  {
+    "where": "book-6-sec-771",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 688e\""
+  },
+  {
+    "where": "book-6-sec-771",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 742e\""
+  },
+  {
+    "where": "book-6-sec-771",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 737e\""
+  },
+  {
+    "where": "book-6-sec-772",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 764e\""
+  },
+  {
+    "where": "book-6-sec-772",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 721b\""
+  },
+  {
+    "where": "book-6-sec-772",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 720e\""
+  },
+  {
+    "where": "book-6-sec-773",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Pol. 310c ff\""
+  },
+  {
+    "where": "book-6-sec-774",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 721b\""
+  },
+  {
+    "where": "book-6-sec-774",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 742c\""
+  },
+  {
+    "where": "book-6-sec-774",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 774b\""
+  },
+  {
+    "where": "book-6-sec-774",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 926e\""
+  },
+  {
+    "where": "book-6-sec-775",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 700b\""
+  },
+  {
+    "where": "book-6-sec-775",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 722d\""
+  },
+  {
+    "where": "book-6-sec-775",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 674a\""
+  },
+  {
+    "where": "book-6-sec-775",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 753e\""
+  },
+  {
+    "where": "book-6-sec-775",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 765e\""
+  },
+  {
+    "where": "book-6-sec-776",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 745c\""
+  },
+  {
+    "where": "book-6-sec-776",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 745d\""
+  },
+  {
+    "where": "book-6-sec-776",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 328a\""
+  },
+  {
+    "where": "book-6-sec-776",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1269a 36\""
+  },
+  {
+    "where": "book-6-sec-776",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1259b 22 ff\""
+  },
+  {
+    "where": "book-6-sec-777",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.322\""
+  },
+  {
+    "where": "book-6-sec-778",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1330b 32 ff.\""
+  },
+  {
+    "where": "book-6-sec-779",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 760e\""
+  },
+  {
+    "where": "book-6-sec-779",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 821a\""
+  },
+  {
+    "where": "book-6-sec-780",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1272a 2 ff\""
+  },
+  {
+    "where": "book-6-sec-782",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 676a\""
+  },
+  {
+    "where": "book-7-sec-788",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 643d\""
+  },
+  {
+    "where": "book-7-sec-792",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 377b\""
+  },
+  {
+    "where": "book-7-sec-792",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Nic. Eth. 1103 a 17\""
+  },
+  {
+    "where": "book-7-sec-792",
+    "note": "<supplied reason=\"omitted\"> editorially supplied text for a lacuna, kept verbatim in the reading text: \"ἀρετὴ\""
+  },
+  {
+    "where": "book-7-sec-793",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 788b\""
+  },
+  {
+    "where": "book-7-sec-794",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 777a\""
+  },
+  {
+    "where": "book-7-sec-794",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 784a\""
+  },
+  {
+    "where": "book-7-sec-796",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 23.668\""
+  },
+  {
+    "where": "book-7-sec-796",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 672d\""
+  },
+  {
+    "where": "book-7-sec-796",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 673a ff\""
+  },
+  {
+    "where": "book-7-sec-796",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 813d ff\""
+  },
+  {
+    "where": "book-7-sec-796",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 673b\""
+  },
+  {
+    "where": "book-7-sec-798",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 797b\""
+  },
+  {
+    "where": "book-7-sec-798",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 797C\""
+  },
+  {
+    "where": "book-7-sec-798",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 654e ff.\""
+  },
+  {
+    "where": "book-7-sec-798",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 668a\""
+  },
+  {
+    "where": "book-7-sec-799",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 656d\""
+  },
+  {
+    "where": "book-7-sec-800",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 800b\""
+  },
+  {
+    "where": "book-7-sec-801",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 742d\""
+  },
+  {
+    "where": "book-7-sec-801",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 801b\""
+  },
+  {
+    "where": "book-7-sec-802",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 658e\""
+  },
+  {
+    "where": "book-7-sec-803",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 644d\""
+  },
+  {
+    "where": "book-7-sec-804",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 3.26\""
+  },
+  {
+    "where": "book-7-sec-804",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 644d-e\""
+  },
+  {
+    "where": "book-7-sec-804",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 764c\""
+  },
+  {
+    "where": "book-7-sec-804",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 779d\""
+  },
+  {
+    "where": "book-7-sec-805",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 746c\""
+  },
+  {
+    "where": "book-7-sec-805",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 799e\""
+  },
+  {
+    "where": "book-7-sec-805",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 805a\""
+  },
+  {
+    "where": "book-7-sec-806",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 796b\""
+  },
+  {
+    "where": "book-7-sec-806",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1269b 12 ff\""
+  },
+  {
+    "where": "book-7-sec-807",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1334a.13 ff\""
+  },
+  {
+    "where": "book-7-sec-809",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 799a ff\""
+  },
+  {
+    "where": "book-7-sec-809",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 802a\""
+  },
+  {
+    "where": "book-7-sec-809",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 796a\""
+  },
+  {
+    "where": "book-7-sec-810",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 832e\""
+  },
+  {
+    "where": "book-7-sec-812",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 799d\""
+  },
+  {
+    "where": "book-7-sec-812",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 664e\""
+  },
+  {
+    "where": "book-7-sec-812",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 679a\""
+  },
+  {
+    "where": "book-7-sec-812",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"England.\""
+  },
+  {
+    "where": "book-7-sec-813",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 799a\""
+  },
+  {
+    "where": "book-7-sec-813",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 802a\""
+  },
+  {
+    "where": "book-7-sec-813",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 795d\""
+  },
+  {
+    "where": "book-7-sec-814",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 795d\""
+  },
+  {
+    "where": "book-7-sec-814",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 795e\""
+  },
+  {
+    "where": "book-7-sec-814",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 832e\""
+  },
+  {
+    "where": "book-7-sec-814",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 803d\""
+  },
+  {
+    "where": "book-7-sec-817",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 398a\""
+  },
+  {
+    "where": "book-7-sec-817",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 398b\""
+  },
+  {
+    "where": "book-7-sec-818",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 962c\""
+  },
+  {
+    "where": "book-7-sec-818",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 965a\""
+  },
+  {
+    "where": "book-7-sec-818",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 741a\""
+  },
+  {
+    "where": "book-7-sec-819",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 886a\""
+  },
+  {
+    "where": "book-7-sec-819",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 528c\""
+  },
+  {
+    "where": "book-7-sec-820",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 818a\""
+  },
+  {
+    "where": "book-7-sec-820",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1338a.9 ff.\""
+  },
+  {
+    "where": "book-7-sec-821",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 779b\""
+  },
+  {
+    "where": "book-7-sec-822",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 39d ff\""
+  },
+  {
+    "where": "book-7-sec-822",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 788a ff\""
+  },
+  {
+    "where": "book-7-sec-822",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 793a ff\""
+  },
+  {
+    "where": "book-7-sec-823",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Soph. 222d ff\""
+  },
+  {
+    "where": "book-8-sec-828",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 771d\""
+  },
+  {
+    "where": "book-8-sec-829",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 832c\""
+  },
+  {
+    "where": "book-8-sec-829",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 835d\""
+  },
+  {
+    "where": "book-8-sec-829",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 835e\""
+  },
+  {
+    "where": "book-8-sec-829",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 663a\""
+  },
+  {
+    "where": "book-8-sec-829",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 904e\""
+  },
+  {
+    "where": "book-8-sec-829",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 803d\""
+  },
+  {
+    "where": "book-8-sec-829",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 814d\""
+  },
+  {
+    "where": "book-8-sec-829",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 830d\""
+  },
+  {
+    "where": "book-8-sec-829",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 936a\""
+  },
+  {
+    "where": "book-8-sec-832",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 691b\""
+  },
+  {
+    "where": "book-8-sec-832",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 410c\""
+  },
+  {
+    "where": "book-8-sec-832",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 712c ff\""
+  },
+  {
+    "where": "book-8-sec-832",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 713e ff\""
+  },
+  {
+    "where": "book-8-sec-832",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 806d\""
+  },
+  {
+    "where": "book-8-sec-832",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 828d\""
+  },
+  {
+    "where": "book-8-sec-832",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 828e\""
+  },
+  {
+    "where": "book-8-sec-833",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 785b\""
+  },
+  {
+    "where": "book-8-sec-835",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 771e\""
+  },
+  {
+    "where": "book-8-sec-835",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 836e\""
+  },
+  {
+    "where": "book-8-sec-835",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 714a\""
+  },
+  {
+    "where": "book-8-sec-836",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 636b\""
+  },
+  {
+    "where": "book-8-sec-836",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Sym.181-2\""
+  },
+  {
+    "where": "book-8-sec-837",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Sym. 183d ff\""
+  },
+  {
+    "where": "book-8-sec-839",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 838b\""
+  },
+  {
+    "where": "book-8-sec-840",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Prot. 316d ff\""
+  },
+  {
+    "where": "book-8-sec-841",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 626e\""
+  },
+  {
+    "where": "book-8-sec-843",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 684e\""
+  },
+  {
+    "where": "book-8-sec-843",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 913b\""
+  },
+  {
+    "where": "book-8-sec-843",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 760a\""
+  },
+  {
+    "where": "book-8-sec-845",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 913c\""
+  },
+  {
+    "where": "book-8-sec-845",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 913d\""
+  },
+  {
+    "where": "book-8-sec-847",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 369e ff\""
+  },
+  {
+    "where": "book-8-sec-847",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 434a\""
+  },
+  {
+    "where": "book-8-sec-848",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 849a\""
+  },
+  {
+    "where": "book-8-sec-848",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 702b\""
+  },
+  {
+    "where": "book-8-sec-848",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 860e\""
+  },
+  {
+    "where": "book-8-sec-850",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 742c\""
+  },
+  {
+    "where": "book-8-sec-850",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 915e\""
+  },
+  {
+    "where": "book-9-sec-853",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 842e\""
+  },
+  {
+    "where": "book-9-sec-853",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 713b\""
+  },
+  {
+    "where": "book-9-sec-854",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 718b\""
+  },
+  {
+    "where": "book-9-sec-854",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 871a\""
+  },
+  {
+    "where": "book-9-sec-854",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 862d\""
+  },
+  {
+    "where": "book-9-sec-854",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 934a\""
+  },
+  {
+    "where": "book-9-sec-855",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 745a\""
+  },
+  {
+    "where": "book-9-sec-855",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 745b\""
+  },
+  {
+    "where": "book-9-sec-855",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 865e ff\""
+  },
+  {
+    "where": "book-9-sec-855",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 877c ff\""
+  },
+  {
+    "where": "book-9-sec-855",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 767d\""
+  },
+  {
+    "where": "book-9-sec-857",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 859b ff\""
+  },
+  {
+    "where": "book-9-sec-857",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 933e ff\""
+  },
+  {
+    "where": "book-9-sec-857",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 720a\""
+  },
+  {
+    "where": "book-9-sec-860",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 854b\""
+  },
+  {
+    "where": "book-9-sec-860",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 731c\""
+  },
+  {
+    "where": "book-9-sec-860",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 734b\""
+  },
+  {
+    "where": "book-9-sec-860",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Nic. Eth. 1109b.30 ff\""
+  },
+  {
+    "where": "book-9-sec-860",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 86e ff\""
+  },
+  {
+    "where": "book-9-sec-863",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 957e\""
+  },
+  {
+    "where": "book-9-sec-863",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 410a\""
+  },
+  {
+    "where": "book-9-sec-863",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 864d\""
+  },
+  {
+    "where": "book-9-sec-863",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 908e\""
+  },
+  {
+    "where": "book-9-sec-863",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Nic. Eth. 1110b.18 ff\""
+  },
+  {
+    "where": "book-9-sec-863",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 732a\""
+  },
+  {
+    "where": "book-9-sec-863",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phileb. 48e\""
+  },
+  {
+    "where": "book-9-sec-864",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phileb. 40d\""
+  },
+  {
+    "where": "book-9-sec-864",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phileb. 40e\""
+  },
+  {
+    "where": "book-9-sec-864",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 863c\""
+  },
+  {
+    "where": "book-9-sec-864",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 863d\""
+  },
+  {
+    "where": "book-9-sec-864",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 857b\""
+  },
+  {
+    "where": "book-9-sec-865",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 759c\""
+  },
+  {
+    "where": "book-9-sec-868",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 855c\""
+  },
+  {
+    "where": "book-9-sec-870",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 697b\""
+  },
+  {
+    "where": "book-9-sec-870",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 831c\""
+  },
+  {
+    "where": "book-9-sec-870",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1323a.25 ff\""
+  },
+  {
+    "where": "book-9-sec-870",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Nic. Eth. 1098 b 13 ff\""
+  },
+  {
+    "where": "book-9-sec-870",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 831c\""
+  },
+  {
+    "where": "book-9-sec-870",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1271a.17\""
+  },
+  {
+    "where": "book-9-sec-870",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 722d\""
+  },
+  {
+    "where": "book-9-sec-870",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 904c\""
+  },
+  {
+    "where": "book-9-sec-870",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 614e ff\""
+  },
+  {
+    "where": "book-9-sec-870",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 90e ff\""
+  },
+  {
+    "where": "book-9-sec-871",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 877c\""
+  },
+  {
+    "where": "book-9-sec-871",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 877d\""
+  },
+  {
+    "where": "book-9-sec-871",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 855c\""
+  },
+  {
+    "where": "book-9-sec-872",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 870d\""
+  },
+  {
+    "where": "book-9-sec-872",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 870e\""
+  },
+  {
+    "where": "book-9-sec-874",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 813d\""
+  },
+  {
+    "where": "book-9-sec-875",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Prot. 352b ff\""
+  },
+  {
+    "where": "book-9-sec-875",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Nic. Eth. 1145 b 24 ff\""
+  },
+  {
+    "where": "book-9-sec-876",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 770b\""
+  },
+  {
+    "where": "book-9-sec-876",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 846b\""
+  },
+  {
+    "where": "book-9-sec-876",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 846c\""
+  },
+  {
+    "where": "book-9-sec-877",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 732c\""
+  },
+  {
+    "where": "book-9-sec-877",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 619d ff\""
+  },
+  {
+    "where": "book-9-sec-877",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 619e\""
+  },
+  {
+    "where": "book-9-sec-878",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 867a\""
+  },
+  {
+    "where": "book-9-sec-879",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 729e\""
+  },
+  {
+    "where": "book-9-sec-880",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 853d\""
+  },
+  {
+    "where": "book-9-sec-882",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 880d\""
+  },
+  {
+    "where": "book-10-sec-885",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 868c ff.\""
+  },
+  {
+    "where": "book-10-sec-885",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 877b ff.\""
+  },
+  {
+    "where": "book-10-sec-885",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 930e ff.\""
+  },
+  {
+    "where": "book-10-sec-885",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 941d\""
+  },
+  {
+    "where": "book-10-sec-885",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 941e\""
+  },
+  {
+    "where": "book-10-sec-885",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 364b ff\""
+  },
+  {
+    "where": "book-10-sec-887",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 701c\""
+  },
+  {
+    "where": "book-10-sec-887",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 701d\""
+  },
+  {
+    "where": "book-10-sec-887",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 858a ff\""
+  },
+  {
+    "where": "book-10-sec-890",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Nic. Eth. 1094 b 14 ff\""
+  },
+  {
+    "where": "book-10-sec-890",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 634d\""
+  },
+  {
+    "where": "book-10-sec-890",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 634e\""
+  },
+  {
+    "where": "book-10-sec-890",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 859b\""
+  },
+  {
+    "where": "book-10-sec-891",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 811d\""
+  },
+  {
+    "where": "book-10-sec-892",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 34d ff\""
+  },
+  {
+    "where": "book-10-sec-893",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 886b\""
+  },
+  {
+    "where": "book-10-sec-893",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 896b\""
+  },
+  {
+    "where": "book-10-sec-893",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 896c\""
+  },
+  {
+    "where": "book-10-sec-893",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Soph. 255 ff.; Timaeus 57 ff\""
+  },
+  {
+    "where": "book-10-sec-894",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Soul 404 b 18 ff\""
+  },
+  {
+    "where": "book-10-sec-895",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Theaet. 180e\""
+  },
+  {
+    "where": "book-10-sec-896",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 892a\""
+  },
+  {
+    "where": "book-10-sec-896",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 892b\""
+  },
+  {
+    "where": "book-10-sec-897",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 894b\""
+  },
+  {
+    "where": "book-10-sec-897",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 894c\""
+  },
+  {
+    "where": "book-10-sec-897",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 898a\""
+  },
+  {
+    "where": "book-10-sec-897",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 34a ff\""
+  },
+  {
+    "where": "book-10-sec-897",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 34b ff\""
+  },
+  {
+    "where": "book-10-sec-897",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. 90c, d\""
+  },
+  {
+    "where": "book-10-sec-897",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 516a ff\""
+  },
+  {
+    "where": "book-10-sec-897",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 893b\""
+  },
+  {
+    "where": "book-10-sec-898",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 33b ff\""
+  },
+  {
+    "where": "book-10-sec-898",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 34a ff\""
+  },
+  {
+    "where": "book-10-sec-898",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 436b ff\""
+  },
+  {
+    "where": "book-10-sec-899",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 41d ff\""
+  },
+  {
+    "where": "book-10-sec-899",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 41e ff\""
+  },
+  {
+    "where": "book-10-sec-899",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Soul 411 a 7 ff\""
+  },
+  {
+    "where": "book-10-sec-900",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 892d\""
+  },
+  {
+    "where": "book-10-sec-900",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 892e\""
+  },
+  {
+    "where": "book-10-sec-901",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 303\""
+  },
+  {
+    "where": "book-10-sec-901",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 641e\""
+  },
+  {
+    "where": "book-10-sec-904",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim 37c ff\""
+  },
+  {
+    "where": "book-10-sec-904",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim 42b ff\""
+  },
+  {
+    "where": "book-10-sec-904",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 617e\""
+  },
+  {
+    "where": "book-10-sec-905",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 19.43\""
+  },
+  {
+    "where": "book-10-sec-905",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 728b\""
+  },
+  {
+    "where": "book-10-sec-905",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 837a\""
+  },
+  {
+    "where": "book-10-sec-905",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 9.497 ff\""
+  },
+  {
+    "where": "book-10-sec-905",
+    "note": "<supplied reason=\"omitted\"> editorially supplied text for a lacuna, kept verbatim in the reading text: \"θεοὺς\""
+  },
+  {
+    "where": "book-10-sec-906",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 904a ff\""
+  },
+  {
+    "where": "book-10-sec-906",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 896c ff\""
+  },
+  {
+    "where": "book-10-sec-906",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 379c\""
+  },
+  {
+    "where": "book-10-sec-906",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phaedo 62b\""
+  },
+  {
+    "where": "book-10-sec-906",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 609 ff\""
+  },
+  {
+    "where": "book-10-sec-906",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Sym. 188a ff\""
+  },
+  {
+    "where": "book-10-sec-906",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 9.500\""
+  },
+  {
+    "where": "book-10-sec-907",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 767c\""
+  },
+  {
+    "where": "book-10-sec-907",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 767d\""
+  },
+  {
+    "where": "book-10-sec-907",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 855c\""
+  },
+  {
+    "where": "book-10-sec-908",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 909a\""
+  },
+  {
+    "where": "book-10-sec-908",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 961a\""
+  },
+  {
+    "where": "book-10-sec-908",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 704b\""
+  },
+  {
+    "where": "book-10-sec-909",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 863b\""
+  },
+  {
+    "where": "book-10-sec-909",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 863c\""
+  },
+  {
+    "where": "book-10-sec-909",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 908a\""
+  },
+  {
+    "where": "book-10-sec-909",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 933a,\""
+  },
+  {
+    "where": "book-10-sec-909",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 364b ff\""
+  },
+  {
+    "where": "book-11-sec-913",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 684e\""
+  },
+  {
+    "where": "book-11-sec-913",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 843a\""
+  },
+  {
+    "where": "book-11-sec-914",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 759c\""
+  },
+  {
+    "where": "book-11-sec-914",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 772d\""
+  },
+  {
+    "where": "book-11-sec-914",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 745a\""
+  },
+  {
+    "where": "book-11-sec-914",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 745b\""
+  },
+  {
+    "where": "book-11-sec-915",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 850b\""
+  },
+  {
+    "where": "book-11-sec-915",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 744c\""
+  },
+  {
+    "where": "book-11-sec-915",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 744e\""
+  },
+  {
+    "where": "book-11-sec-915",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 756d\""
+  },
+  {
+    "where": "book-11-sec-915",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 952e\""
+  },
+  {
+    "where": "book-11-sec-915",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 849e\""
+  },
+  {
+    "where": "book-11-sec-915",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 556b\""
+  },
+  {
+    "where": "book-11-sec-916",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 759c\""
+  },
+  {
+    "where": "book-11-sec-916",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 828b\""
+  },
+  {
+    "where": "book-11-sec-917",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 690a\""
+  },
+  {
+    "where": "book-11-sec-918",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 759a\""
+  },
+  {
+    "where": "book-11-sec-918",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 849e\""
+  },
+  {
+    "where": "book-11-sec-918",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 881c\""
+  },
+  {
+    "where": "book-11-sec-918",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1257a 14 ff\""
+  },
+  {
+    "where": "book-11-sec-919",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phaedo 89c ff\""
+  },
+  {
+    "where": "book-11-sec-919",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 679b\""
+  },
+  {
+    "where": "book-11-sec-919",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 705b\""
+  },
+  {
+    "where": "book-11-sec-919",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 702b ff\""
+  },
+  {
+    "where": "book-11-sec-919",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 848c\""
+  },
+  {
+    "where": "book-11-sec-919",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 914a\""
+  },
+  {
+    "where": "book-11-sec-919",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 922a ff\""
+  },
+  {
+    "where": "book-11-sec-920",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 917e\""
+  },
+  {
+    "where": "book-11-sec-921",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws c\""
+  },
+  {
+    "where": "book-11-sec-921",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. a\""
+  },
+  {
+    "where": "book-11-sec-921",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1258b 5 ff\""
+  },
+  {
+    "where": "book-11-sec-922",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 919d\""
+  },
+  {
+    "where": "book-11-sec-922",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 919e\""
+  },
+  {
+    "where": "book-11-sec-923",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Prot. 343b ff\""
+  },
+  {
+    "where": "book-11-sec-923",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 737c\""
+  },
+  {
+    "where": "book-11-sec-924",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 925d\""
+  },
+  {
+    "where": "book-11-sec-924",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 925e\""
+  },
+  {
+    "where": "book-11-sec-926",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 775d\""
+  },
+  {
+    "where": "book-11-sec-926",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 855c\""
+  },
+  {
+    "where": "book-11-sec-926",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 924c\""
+  },
+  {
+    "where": "book-11-sec-927",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 865e\""
+  },
+  {
+    "where": "book-11-sec-930",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 784a\""
+  },
+  {
+    "where": "book-11-sec-930",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 794b\""
+  },
+  {
+    "where": "book-11-sec-930",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 773c\""
+  },
+  {
+    "where": "book-11-sec-931",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 821b\""
+  },
+  {
+    "where": "book-11-sec-931",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aesch. Seven 709 ff\""
+  },
+  {
+    "where": "book-11-sec-931",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Soph. OC 1432 ff\""
+  },
+  {
+    "where": "book-11-sec-931",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 9.446 ff\""
+  },
+  {
+    "where": "book-11-sec-931",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 687e\""
+  },
+  {
+    "where": "book-11-sec-931",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. Hipp. 884 ff\""
+  },
+  {
+    "where": "book-11-sec-931",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 931a\""
+  },
+  {
+    "where": "book-11-sec-932",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. Hipp. 1466\""
+  },
+  {
+    "where": "book-11-sec-932",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 717d\""
+  },
+  {
+    "where": "book-11-sec-932",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 881d\""
+  },
+  {
+    "where": "book-11-sec-932",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 869e\""
+  },
+  {
+    "where": "book-11-sec-934",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 857a\""
+  },
+  {
+    "where": "book-11-sec-934",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 862d\""
+  },
+  {
+    "where": "book-11-sec-935",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 394 ff\""
+  },
+  {
+    "where": "book-11-sec-935",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 606 ff\""
+  },
+  {
+    "where": "book-11-sec-935",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phileb. 49e ff\""
+  },
+  {
+    "where": "book-11-sec-936",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Nic. Eth. 1128a 20 ff\""
+  },
+  {
+    "where": "book-11-sec-936",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristot. Pol. 1336b.2ff\""
+  },
+  {
+    "where": "book-11-sec-936",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 816e\""
+  },
+  {
+    "where": "book-11-sec-936",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 829c\""
+  },
+  {
+    "where": "book-11-sec-936",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 829d\""
+  },
+  {
+    "where": "book-11-sec-938",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Gorg. 463b ff\""
+  },
+  {
+    "where": "book-12-sec-941",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep 378 ff\""
+  },
+  {
+    "where": "book-12-sec-941",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 388 ff\""
+  },
+  {
+    "where": "book-12-sec-942",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 857a\""
+  },
+  {
+    "where": "book-12-sec-942",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 803c\""
+  },
+  {
+    "where": "book-12-sec-942",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 803d\""
+  },
+  {
+    "where": "book-12-sec-942",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Sophocles Ant. 668 ff\""
+  },
+  {
+    "where": "book-12-sec-942",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 795d\""
+  },
+  {
+    "where": "book-12-sec-942",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 829b\""
+  },
+  {
+    "where": "book-12-sec-942",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 829c\""
+  },
+  {
+    "where": "book-12-sec-943",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 192 ff\""
+  },
+  {
+    "where": "book-12-sec-943",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 254 ff\""
+  },
+  {
+    "where": "book-12-sec-944",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 16., 17. 125 ff., 18. 84 ff\""
+  },
+  {
+    "where": "book-12-sec-945",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 422e\""
+  },
+  {
+    "where": "book-12-sec-946",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 767c\""
+  },
+  {
+    "where": "book-12-sec-946",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 767d\""
+  },
+  {
+    "where": "book-12-sec-946",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 855c\""
+  },
+  {
+    "where": "book-12-sec-946",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 926d\""
+  },
+  {
+    "where": "book-12-sec-947",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 461e\""
+  },
+  {
+    "where": "book-12-sec-948",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 855c\""
+  },
+  {
+    "where": "book-12-sec-948",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 886d ff\""
+  },
+  {
+    "where": "book-12-sec-948",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 891b\""
+  },
+  {
+    "where": "book-12-sec-949",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 934e\""
+  },
+  {
+    "where": "book-12-sec-949",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 850b\""
+  },
+  {
+    "where": "book-12-sec-950",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 704e\""
+  },
+  {
+    "where": "book-12-sec-950",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Meno 99b ff\""
+  },
+  {
+    "where": "book-12-sec-950",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Meno 99c ff\""
+  },
+  {
+    "where": "book-12-sec-951",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 619a\""
+  },
+  {
+    "where": "book-12-sec-951",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 908a\""
+  },
+  {
+    "where": "book-12-sec-951",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 909a\""
+  },
+  {
+    "where": "book-12-sec-951",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 807\""
+  },
+  {
+    "where": "book-12-sec-951",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 946e\""
+  },
+  {
+    "where": "book-12-sec-952",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 915d\""
+  },
+  {
+    "where": "book-12-sec-953",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 950a\""
+  },
+  {
+    "where": "book-12-sec-953",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 950b\""
+  },
+  {
+    "where": "book-12-sec-956",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 922a\""
+  },
+  {
+    "where": "book-12-sec-956",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 766d\""
+  },
+  {
+    "where": "book-12-sec-956",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 766d ff\""
+  },
+  {
+    "where": "book-12-sec-956",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 846b ff\""
+  },
+  {
+    "where": "book-12-sec-956",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 754c\""
+  },
+  {
+    "where": "book-12-sec-957",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 766d\""
+  },
+  {
+    "where": "book-12-sec-957",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 855d\""
+  },
+  {
+    "where": "book-12-sec-957",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 714a\""
+  },
+  {
+    "where": "book-12-sec-957",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 811d\""
+  },
+  {
+    "where": "book-12-sec-957",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 858c\""
+  },
+  {
+    "where": "book-12-sec-959",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phaedo 63b ff\""
+  },
+  {
+    "where": "book-12-sec-959",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 717e\""
+  },
+  {
+    "where": "book-12-sec-959",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 719d\""
+  },
+  {
+    "where": "book-12-sec-960",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 854d\""
+  },
+  {
+    "where": "book-12-sec-960",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 873c\""
+  },
+  {
+    "where": "book-12-sec-960",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 620e\""
+  },
+  {
+    "where": "book-12-sec-961",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 951d ff\""
+  },
+  {
+    "where": "book-12-sec-961",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 951a ff\""
+  },
+  {
+    "where": "book-12-sec-962",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 705e\""
+  },
+  {
+    "where": "book-12-sec-962",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 934b\""
+  },
+  {
+    "where": "book-12-sec-963",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 630e ff\""
+  },
+  {
+    "where": "book-12-sec-963",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 631c ff\""
+  },
+  {
+    "where": "book-12-sec-963",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 893a\""
+  },
+  {
+    "where": "book-12-sec-963",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Lach. 196d ff\""
+  },
+  {
+    "where": "book-12-sec-963",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Prot. 349b ff\""
+  },
+  {
+    "where": "book-12-sec-965",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 962e\""
+  },
+  {
+    "where": "book-12-sec-965",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 963b ff\""
+  },
+  {
+    "where": "book-12-sec-965",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 903c\""
+  },
+  {
+    "where": "book-12-sec-965",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 903d\""
+  },
+  {
+    "where": "book-12-sec-965",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 961e\""
+  },
+  {
+    "where": "book-12-sec-965",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 537b ff\""
+  },
+  {
+    "where": "book-12-sec-966",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 893b\""
+  },
+  {
+    "where": "book-12-sec-966",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 898c\""
+  },
+  {
+    "where": "book-12-sec-967",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 607b, c\""
+  },
+  {
+    "where": "book-12-sec-967",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 818a ff\""
+  },
+  {
+    "where": "book-12-sec-967",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 401d ff\""
+  },
+  {
+    "where": "book-12-sec-967",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 500d ff\""
+  },
+  {
+    "where": "book-12-sec-967",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 531 ff\""
+  },
+  {
+    "where": "book-12-sec-968",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 710a\""
+  },
+  {
+    "where": "book-12-sec-968",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 528b ff\""
+  },
+  {
+    "where": "book-12-sec-969",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 704a\""
+  },
+  {
+    "where": "book-12-sec-969",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 919d\""
+  },
+  {
+    "where": "book-12-sec-969",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Laws 964d\""
+  },
+  {
+    "where": "plato-laws-en / footnote apparatus",
+    "note": "549 <note> spans (the Loeb translator's own footnotes, not Plato's/Bury's dialogue text) were excluded entirely, tags and nested content alike. Individual occurrences are not logged one-by-one (there are 549 of them and their wording is apparatus, not reading text) - see this summary instead."
+  },
+  {
+    "where": "plato-laws-en / <said> who attribute",
+    "note": "<said who=\"#Ἀθηναῖος\"> (Greek, with label \"ΑΘ.\") appears here instead of this translation's usual who=\"#Athenian\"/\"Ath.\" - a source-side transcription inconsistency, not corrected. Context: \"who=\"#Ἀθηναῖος\" rend=\"merge\"><label>ΑΘ.</label> The intermixture of States with States naturally results in a blending of characters of every kind, as stranger\""
+  },
+  {
+    "where": "plato-laws-en / <said> who attribute",
+    "note": "<said who=\"#Ἀθηναῖος\"> (Greek, with label \"ΑΘ.\") appears here instead of this translation's usual who=\"#Athenian\"/\"Ath.\" - a source-side transcription inconsistency, not corrected. Context: \"who=\"#Ἀθηναῖος\" rend=\"merge\"><label>ΑΘ.</label> It is right that embassies should be sent to Apollo at <placeName key=\"tgn,7010770\">Pytho</placeName> and to Zeu\""
+  },
+  {
+    "where": "plato-laws-en / Stephanus 708",
+    "note": "Scanno in the source transcription: \"househoIds\" (capital \"I\" for lowercase \"l\"), kept verbatim, not corrected. Context: \"...can to secure that the 5,040 househoIds shall remain unalte...\""
+  },
+  {
+    "where": "plato-laws-en / Stephanus 709",
+    "note": "Scanno in the source transcription: \"illiberaI\" (capital \"I\" for lowercase \"l\"), kept verbatim, not corrected. Context: \"...to make money by means of any illiberaI trade,—inasmuch as w...\""
+  },
+  {
+    "where": "plato-laws-en / Stephanus 709",
+    "note": "Scanno in the source transcription: \"vaIueless\" (capital \"I\" for lowercase \"l\"), kept verbatim, not corrected. Context: \"...tender among themselves, but vaIueless elsewhere. As regar...\""
+  },
+  {
+    "where": "plato-laws-en / Stephanus 709",
+    "note": "Scanno in the source transcription: \"equivaIent\" (capital \"I\" for lowercase \"l\"), kept verbatim, not corrected. Context: \"...the State, and take for it an equivaIent in home coinage; b...\""
+  },
+  {
+    "where": "plato-laws-en / Stephanus 709",
+    "note": "Scanno in the source transcription: \"benevolentIy\" (capital \"I\" for lowercase \"l\"), kept verbatim, not corrected. Context: \"...at the State, for which he is benevolentIy legislating, shou...\""
+  },
+  {
+    "where": "plato-laws-en / Stephanus 710",
+    "note": "Scanno in the source transcription: \"ignobIy\" (capital \"I\" for lowercase \"l\"), kept verbatim, not corrected. Context: \"...fuse to spend either nobly or ignobIy is only one-half the e...\""
+  },
+  {
+    "where": "plato-laws-en / Stephanus 710",
+    "note": "Scanno in the source transcription: \"equaIizing\" (capital \"I\" for lowercase \"l\"), kept verbatim, not corrected. Context: \"...reasons, and for the sake of equaIizing chances in public l...\""
+  }
+]

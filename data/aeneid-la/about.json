@@ -1,0 +1,49 @@
+{
+  "workId": "aeneid-la",
+  "title": "Aeneis",
+  "author": "Publius Vergilius Maro (Virgil)",
+  "language": "la",
+  "edition": "J. B. Greenough, ed., Bucolics, Aeneid, and Georgics of Vergil (Boston: Ginn & Co., 1900 [text orig. 1881])",
+  "editor": "James Bradstreet Greenough",
+  "provenance": "Perseus Digital Library / Open Greek and Latin, canonical-latinLit GitHub repository (github.com/PerseusDL/canonical-latinLit), file data/phi0690/phi003/phi0690.phi003.perseus-lat2.xml, CTS urn:cts:latinLit:phi0690.phi003.perseus-lat2. TEI XML digitization CC BY-SA 4.0.",
+  "license": "Latin text (Greenough, 1881/1900) is public domain. TEI XML digitization/markup: CC BY-SA 4.0 (Perseus Digital Library / Open Greek and Latin).",
+  "sections": [
+    {
+      "heading": "About the text",
+      "paragraphs": [
+        "The Aeneid is Virgil's twelve-book Latin epic, composed between roughly 29 and 19 BC and left unfinished at his death. It follows the Trojan prince Aeneas from the fall of Troy, through his wanderings and love for Dido at Carthage (Books 1–6, an \"Odyssean\" half modeled on the Odyssey), to his war in Italy and the founding of the people who would become Rome (Books 7–12, an \"Iliadic\" half modeled on the Iliad).",
+        "This edition preserves Virgil's Latin hexameter verse line-by-line, one Passage per book, with each verse line on its own line of text rather than collapsed into a single paragraph."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The reading text is J. B. Greenough's Latin edition (Ginn & Co., 1900; text originally 1881), as digitized by the Perseus Project. A small number of lines the edition itself brackets as later, inauthentic interpolations are excluded from the reading text — see \"Known gaps & anomalies\" below and anomalies.json for every individual case."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Fetched from the PerseusDL/canonical-latinLit GitHub repository (an Open Greek and Latin / Perseus Digital Library project), file phi0690/phi003/phi0690.phi003.perseus-lat2.xml. The raw TEI XML is cached under scripts/import-virgil-aeneid-la/raw/ so the importer never needs to re-fetch the source to rebuild work.json."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each of the 12 books is a single top-level Division (book-1 .. book-12) holding exactly one Passage: its full verse text, one line per array element joined with a newline, in document order. There is no chapter/section level below the book in this schema — Virgil's finer citation unit is simply the verse line, which this schema does not model as its own Division/Passage.",
+        "Division.ref gives each book's own printed line range (e.g. \"1–756\" for Book 1), taken from the first and last <l n=\"…\"> actually encountered in that book's source markup, not a fabricated round number."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Every irregularity below is documented individually in anomalies.json with a machine-readable {where, note} entry.",
+        "61 <del> spans mark text Greenough's edition brackets as later interpolation, not Virgil's own work — most notably the 22-line \"Helen episode\" (2.567–588), long debated by editors. These are excluded from the reading text (54 whole lines, 7 partial lines), matching this app's existing Euclid <del> convention; every deleted line's wording is preserved verbatim in anomalies.json even though it is not shown in the reading passage.",
+        "One <gap extent=\"unknown\" unit=\"lines\" reason=\"lost\"/> (Book 12, after line 732) marks a genuine, well-known crux in the manuscript tradition, immediately after Turnus's sword shatters in his duel with Aeneas.",
+        "One embedded <note resp=\"Perseus\" xml:lang=\"eng\"> (Book 3, line 250) is a Perseus-added English aside about the poem's narrative structure, not part of Virgil's Latin; excluded from the reading text.",
+        "One <choice><sic>gesture</sic><corr>gestare</corr></choice> (Book 7, line 211): \"gesture\" is not a Latin word — a one-letter digitization slip for \"gestare\", the word this edition actually prints. The corrected reading is kept as the passage text (the only place in either Aeneid corpus where a non-<del> reading is not simply the source's own literal characters); the raw sic is logged in full.",
+        "This edition's actual <l> element count (9,897) matches the traditional printed total of 9,896 lines commonly cited for the Aeneid almost exactly — see anomalies.json for the corpus-level note on the two small, offsetting reasons for the residual difference (34 kept half-line continuations vs. a similar number of traditional numbers with no standalone element in this digitization). Division.ref is always derived from this source's own line numbers, never the traditional total."
+      ]
+    }
+  ]
+}

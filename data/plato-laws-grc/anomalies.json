@@ -1,0 +1,182 @@
+[
+  {
+    "where": "book-1-sec-629",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Tyrtaeus 12 Bergk\""
+  },
+  {
+    "where": "book-1-sec-629",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Tyrtaeus 12 Bergk\""
+  },
+  {
+    "where": "book-1-sec-629",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Tyrtaeus\""
+  },
+  {
+    "where": "book-1-sec-629",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Tyrtaeus\""
+  },
+  {
+    "where": "book-1-sec-630",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Theognis 5.77-8\""
+  },
+  {
+    "where": "book-1-sec-649",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἄν\""
+  },
+  {
+    "where": "book-2-sec-659",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"οὐ\""
+  },
+  {
+    "where": "book-2-sec-666",
+    "note": "<del> excluded from the reading text: \"ἢ\""
+  },
+  {
+    "where": "book-3-sec-680",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 9.112\""
+  },
+  {
+    "where": "book-3-sec-681",
+    "note": "<gap reason=\"lost\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-681",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 20.216\""
+  },
+  {
+    "where": "book-3-sec-681",
+    "note": "<gap reason=\"lost\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-681",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 20.216\""
+  },
+  {
+    "where": "book-3-sec-682",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"να\""
+  },
+  {
+    "where": "book-3-sec-691",
+    "note": "<del> excluded from the reading text: \"δύναμιν\""
+  },
+  {
+    "where": "book-4-sec-706",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 14.96\""
+  },
+  {
+    "where": "book-4-sec-716",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὁ\""
+  },
+  {
+    "where": "book-4-sec-717",
+    "note": "<del> excluded from the reading text: \"τὰ περιττὰ\""
+  },
+  {
+    "where": "book-4-sec-718",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 287ff.\""
+  },
+  {
+    "where": "book-4-sec-718",
+    "note": "<gap reason=\"lost\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-4-sec-718",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 287\""
+  },
+  {
+    "where": "book-4-sec-722",
+    "note": "<sic> - source prints this form and the editor flags but does not correct it; kept verbatim: \"μάχην\""
+  },
+  {
+    "where": "book-4-sec-722",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"δὴ\""
+  },
+  {
+    "where": "book-5-sec-733",
+    "note": "<del> excluded from the reading text: \"ἑκούσιον ἀβούλητόν τε καὶ\""
+  },
+  {
+    "where": "book-5-sec-737",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-5-sec-740",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"αἳ\""
+  },
+  {
+    "where": "book-6-sec-751",
+    "note": "<del> excluded from the reading text: \"τε\""
+  },
+  {
+    "where": "book-6-sec-756",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"προ\""
+  },
+  {
+    "where": "book-6-sec-765",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-6-sec-777",
+    "note": "<gap reason=\"lost\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-6-sec-777",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.322\""
+  },
+  {
+    "where": "book-6-sec-777",
+    "note": "<gap reason=\"lost\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-6-sec-777",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.322\""
+  },
+  {
+    "where": "book-6-sec-783",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὧν\""
+  },
+  {
+    "where": "book-7-sec-804",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 3.26\""
+  },
+  {
+    "where": "book-7-sec-820",
+    "note": "<del> excluded from the reading text: \"ὥστε πῶς\""
+  },
+  {
+    "where": "book-7-sec-822",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὃ\""
+  },
+  {
+    "where": "book-7-sec-823",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"εἰ\""
+  },
+  {
+    "where": "book-8-sec-834",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἐν\""
+  },
+  {
+    "where": "book-9-sec-865",
+    "note": "<del> excluded from the reading text: \"τῶν ἀρχόντων\""
+  },
+  {
+    "where": "book-10-sec-901",
+    "note": "<del> excluded from the reading text: \"ὁ\""
+  },
+  {
+    "where": "book-10-sec-905",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 19.43\""
+  },
+  {
+    "where": "book-11-sec-935",
+    "note": "<del> excluded from the reading text: \"δʼ\""
+  },
+  {
+    "where": "book-12-sec-945",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "book-12-sec-969",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"σὺ\""
+  }
+]

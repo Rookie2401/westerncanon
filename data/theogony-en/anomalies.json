@@ -1,0 +1,26 @@
+[
+  {
+    "where": "theogony-en / source structure deviation",
+    "note": "The importer was originally planned around <p> paragraphs with inline <milestone> card breaks (mirroring this repo's Homer-style English encoding). The actual source carries NO <p> anywhere: the body is a bare stream of <l n=\"N\"> \"line group\" elements (reference anchors spaced roughly every 5 Greek lines, not real verse lines - Evelyn-White's translation is ordinary prose) with <milestone unit=\"card\"> markers threaded through it, sometimes at an <l> boundary and sometimes mid-<l>. Each card is therefore imported as ONE continuous prose block (there is no source paragraph division to join with \"\\n\\n\"), built by walking the whole text stream token-by-token and cutting at each milestone regardless of which <l> it falls inside."
+  },
+  {
+    "where": "theogony-en / card boundary source",
+    "note": "This file's own 32 <milestone unit=\"card\"> markers ARE the canonical card boundaries (their n values equal the Greek starting line number of each card) - used both for this English work and, via the shared cardBoundaries table, cross-checked against and reused for the Greek work of the same title."
+  },
+  {
+    "where": "theogony-en / <note> footnotes dropped",
+    "note": "32 <note resp=\"Loeb\" ...> element(s) - Evelyn-White's own translator's footnotes, not Hesiod's text - were dropped wholesale, matching this repo's established <note> convention (see e.g. import-euclid-en). Each drop was replaced with a single space to guard against words merging across the cut (verified: several notes abut reading-text words with no surrounding whitespace in the source)."
+  },
+  {
+    "where": "theogony-en / inline <placeName> unwrapped",
+    "note": "Occurrences of <placeName> wrapping ordinary reading-text words (e.g. \"Olympus\") were unwrapped, keeping the text; every occurrence outside a dropped <note> sits at a whitespace/punctuation boundary on both sides (verified by direct inspection), so no word-merging risk. <foreign> and <hi> occur only inside dropped <note> blocks in this file and needed no separate handling."
+  },
+  {
+    "where": "theogony-en / Division.ref",
+    "note": "Division.ref gives the underlying Greek verse line range for each card (e.g. \"1–28\"), since Evelyn-White's prose translation carries no line numbers of its own. This is the same range printed in the companion theogony-grc work, so the two witnesses' cards can be read side by side."
+  },
+  {
+    "where": "theogony-en / completeness",
+    "note": "All 32 cards present and in order, from the incipit through the poem's final card. No truncation."
+  }
+]

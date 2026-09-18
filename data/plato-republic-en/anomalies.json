@@ -1,0 +1,14 @@
+[
+  {
+    "where": "book-1",
+    "note": "The printed edition's \"PERSONS OF THE DIALOGUE.\" character list and the following \"The scene is laid...\" paragraph (10 short paragraphs total) sit before the \"BOOK I.\" heading in Jowett's own text, i.e. they are not part of any Book under his heading scheme. This edition's schema has no work-level front-matter division, so - rather than discard genuine printed content - they are prepended as Book 1's own opening paragraphs. This is an explicit editorial placement choice by this importer, not something the source itself does."
+  },
+  {
+    "where": "plato-republic-en / footnote check",
+    "note": "The real-dialogue region of this source was checked directly for transcriber/Gutenberg footnote apparatus (square-bracketed asides, asterisk/dagger markers): none was found. The numbered parenthetical asides in Book VIII's \"nuptial number\" passage, e.g. \"(Meaning either (1) that ... or (2) that ...)\", are Jowett's own original translation/commentary, not transcriber apparatus, and are kept verbatim."
+  },
+  {
+    "where": "plato-republic-en / Stephanus pagination",
+    "note": "This source carries no Stephanus page markers at all, unlike the Perseus/Loeb texts used elsewhere in this importer group. Nothing is fabricated to supply them; this edition navigates by Book only (see about.json)."
+  }
+]

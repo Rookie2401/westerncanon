@@ -1,0 +1,26 @@
+[
+  {
+    "where": "sec-537",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Hom. Il. 23.335 ff.\""
+  },
+  {
+    "where": "sec-538",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Hom. Il. 11.639-40\""
+  },
+  {
+    "where": "sec-538",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Hom. Il. 24.80-82\""
+  },
+  {
+    "where": "sec-539",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Hom. Od. 20.351-57\""
+  },
+  {
+    "where": "sec-539",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Hom. Il. 12.200-7\""
+  },
+  {
+    "where": "plato-ion-grc / structure",
+    "note": "13 Stephanus-page divisions (pp. 530–542), 174 paragraphs, 74 <milestone/> markers stripped, 0 <note> and 5 <bibl> excluded from the reading text (translator apparatus, each logged individually above)."
+  }
+]

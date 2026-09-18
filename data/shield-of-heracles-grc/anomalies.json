@@ -1,0 +1,14 @@
+[
+  {
+    "where": "shield-of-heracles-grc / card boundary derivation",
+    "note": "This Greek file carries its own native <milestone unit=\"card\"> markers (13 of them, attribute order \"ed... n... unit...\"). They were cross-checked at import time against the shared cardBoundaries table and match exactly, byte for byte."
+  },
+  {
+    "where": "shield-of-heracles-grc / <del> editorial bracketing",
+    "note": "6 line(s) contain 6 <del>...</del> span(s) in the source XML (editorial athetesis, n=\"203\", \"204\", \"205\", \"209\", \"210\", \"211\"). Per this repo's \"never content\" rule these are KEPT verbatim in the reading text - only the <del>/</del> tags themselves are stripped. This file has no <add> or <gap> elements."
+  },
+  {
+    "where": "shield-of-heracles-grc / completeness",
+    "note": "All 13 cards present and in order, spanning the full line numbering 1-480. Incipit and explicit verified against the printed text."
+  }
+]

@@ -18,8 +18,21 @@ export function AboutScreen() {
         <div className="prose">
           <h2>Western Canon</h2>
           <p>
-            An offline reader for classical philosophical and theological
-            texts. Aristotle's <em>Categories</em> and{' '}
+            An offline reader for the classical canon. Homer's{' '}
+            <em>Iliad</em> and <em>Odyssey</em>, Hesiod's{' '}
+            <em>Theogony</em>, <em>Works and Days</em>, and{' '}
+            <em>Shield of Heracles</em>, and Virgil's <em>Aeneid</em> each
+            carry their original-language text (Greek: Monro/Allen; Latin:
+            Greenough) and a public-domain English translation (Murray;
+            Evelyn-White; Williams). Plato's thirteen core dialogues —{' '}
+            <em>Euthyphro</em>, <em>Apology</em>, <em>Crito</em>,{' '}
+            <em>Phaedo</em>, <em>Symposium</em>, <em>Phaedrus</em>,{' '}
+            <em>Protagoras</em>, <em>Gorgias</em>, <em>Meno</em>,{' '}
+            <em>Ion</em>, <em>Timaeus</em>, <em>Laws</em>, and the{' '}
+            <em>Republic</em> — carry Burnet's Greek text and an English
+            translation (the Loeb Classical Library translators, or, for the{' '}
+            <em>Republic</em>, Jowett — see that work's own About page for
+            why). Aristotle's <em>Categories</em> and{' '}
             <em>De Interpretatione</em>, and Porphyry's <em>Isagoge</em>, each
             carry three editions — Greek (Bekker / Busse), the Latin
             translation of Boethius, and an English translation (Edghill 1928;

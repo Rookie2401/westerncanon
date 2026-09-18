@@ -1,0 +1,526 @@
+[
+  {
+    "where": "book-1-sec-331",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Pindar Frag. 214, Loeb\""
+  },
+  {
+    "where": "book-1-sec-334",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 19.395\""
+  },
+  {
+    "where": "book-1-sec-352",
+    "note": "<del> excluded from the reading text: \"ἂν\""
+  },
+  {
+    "where": "book-2-sec-359",
+    "note": "<del> excluded from the reading text: \"Γύγου\""
+  },
+  {
+    "where": "book-2-sec-359",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τα\""
+  },
+  {
+    "where": "book-2-sec-362",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aesch. Seven 592-594\""
+  },
+  {
+    "where": "book-2-sec-363",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 232\""
+  },
+  {
+    "where": "book-2-sec-363",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-2-sec-363",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 19.109\""
+  },
+  {
+    "where": "book-2-sec-364",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 287-289\""
+  },
+  {
+    "where": "book-2-sec-364",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 9.497\""
+  },
+  {
+    "where": "book-2-sec-365",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Pindar, Fr.\""
+  },
+  {
+    "where": "book-2-sec-365",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Simonides, Fr. 76 Bergk, and Eur. Orest. 236.\""
+  },
+  {
+    "where": "book-2-sec-369",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὢν\""
+  },
+  {
+    "where": "book-2-sec-377",
+    "note": "<del> excluded from the reading text: \"μῦθον\""
+  },
+  {
+    "where": "book-2-sec-377",
+    "note": "<del> excluded from the reading text: \"οὐσίαν\""
+  },
+  {
+    "where": "book-2-sec-379",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 24.527-8\""
+  },
+  {
+    "where": "book-2-sec-379",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 24.530\""
+  },
+  {
+    "where": "book-2-sec-379",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 24.532\""
+  },
+  {
+    "where": "book-2-sec-379",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"unknown\""
+  },
+  {
+    "where": "book-2-sec-380",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aesch. Fr.\""
+  },
+  {
+    "where": "book-2-sec-380",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-2-sec-381",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-2-sec-381",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.485-486\""
+  },
+  {
+    "where": "book-2-sec-381",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aesch.\""
+  },
+  {
+    "where": "book-2-sec-382",
+    "note": "<del> excluded from the reading text: \"ψεῦδος\""
+  },
+  {
+    "where": "book-2-sec-383",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 2.1\""
+  },
+  {
+    "where": "book-2-sec-383",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aesch. Frag. 350\""
+  },
+  {
+    "where": "book-3-sec-386",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aesch. Frag. 350\""
+  },
+  {
+    "where": "book-3-sec-386",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 20.64\""
+  },
+  {
+    "where": "book-3-sec-386",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 10.495\""
+  },
+  {
+    "where": "book-3-sec-386",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 23.103\""
+  },
+  {
+    "where": "book-3-sec-386",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 16.856\""
+  },
+  {
+    "where": "book-3-sec-387",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-387",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-387",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 23.100\""
+  },
+  {
+    "where": "book-3-sec-387",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 24.6-10\""
+  },
+  {
+    "where": "book-3-sec-387",
+    "note": "<sic> - source prints this form and the editor flags but does not correct it; kept verbatim: \"οἴεται\""
+  },
+  {
+    "where": "book-3-sec-388",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-388",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 24.10-12\""
+  },
+  {
+    "where": "book-3-sec-388",
+    "note": "<sic> - source prints this form and the editor flags but does not correct it; kept verbatim: \"πλωΐζοντʼ\""
+  },
+  {
+    "where": "book-3-sec-388",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 24.12\""
+  },
+  {
+    "where": "book-3-sec-388",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 18.23-24\""
+  },
+  {
+    "where": "book-3-sec-388",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-388",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 22.414-415\""
+  },
+  {
+    "where": "book-3-sec-388",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 18.54\""
+  },
+  {
+    "where": "book-3-sec-388",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 22.168\""
+  },
+  {
+    "where": "book-3-sec-388",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 16.433-434\""
+  },
+  {
+    "where": "book-3-sec-389",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 1.599-600\""
+  },
+  {
+    "where": "book-3-sec-389",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-389",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.383-384\""
+  },
+  {
+    "where": "book-3-sec-389",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 4.412\""
+  },
+  {
+    "where": "book-3-sec-389",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-389",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-389",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 3.8\""
+  },
+  {
+    "where": "book-3-sec-390",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 1.225\""
+  },
+  {
+    "where": "book-3-sec-390",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-390",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 9.8-10\""
+  },
+  {
+    "where": "book-3-sec-390",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 12.342\""
+  },
+  {
+    "where": "book-3-sec-390",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 14.296\""
+  },
+  {
+    "where": "book-3-sec-390",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 20.17-18\""
+  },
+  {
+    "where": "book-3-sec-390",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"unknown\""
+  },
+  {
+    "where": "book-3-sec-391",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 22.15\""
+  },
+  {
+    "where": "book-3-sec-391",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 23.151\""
+  },
+  {
+    "where": "book-3-sec-391",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-391",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"οἱ\""
+  },
+  {
+    "where": "book-3-sec-391",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aesch. Niobe Fr.\""
+  },
+  {
+    "where": "book-3-sec-391",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aesch. Niobe\""
+  },
+  {
+    "where": "book-3-sec-393",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-3-sec-393",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 1.15\""
+  },
+  {
+    "where": "book-3-sec-399",
+    "note": "<del> excluded from the reading text: \"ἁρμονίας\""
+  },
+  {
+    "where": "book-3-sec-399",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-3-sec-400",
+    "note": "<del> excluded from the reading text: \"ὡς εὐήθειαν\""
+  },
+  {
+    "where": "book-3-sec-408",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 4.218\""
+  },
+  {
+    "where": "book-3-sec-412",
+    "note": "<del> excluded from the reading text: \"ὅταν μάλιστα\""
+  },
+  {
+    "where": "book-3-sec-413",
+    "note": "<del> excluded from the reading text: \"αὑτοῖς ποιεῖν\""
+  },
+  {
+    "where": "book-4-sec-424",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-4-sec-424",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 1.351\""
+  },
+  {
+    "where": "book-4-sec-425",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "book-4-sec-427",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τε\""
+  },
+  {
+    "where": "book-4-sec-427",
+    "note": "<del> excluded from the reading text: \"ἐν μέσῳ\""
+  },
+  {
+    "where": "book-4-sec-434",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "book-4-sec-436",
+    "note": "<del> excluded from the reading text: \"ἔστιν\""
+  },
+  {
+    "where": "book-4-sec-437",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "book-4-sec-439",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ν\""
+  },
+  {
+    "where": "book-4-sec-440",
+    "note": "<sic> - source prints this form and the editor flags but does not correct it; kept verbatim: \"τι\""
+  },
+  {
+    "where": "book-4-sec-441",
+    "note": "<del> excluded from the reading text: \"ἐκεῖ\""
+  },
+  {
+    "where": "book-4-sec-441",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 20.17\""
+  },
+  {
+    "where": "book-4-sec-442",
+    "note": "<del> excluded from the reading text: \"δὲ\""
+  },
+  {
+    "where": "book-5-sec-454",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"μὴ\""
+  },
+  {
+    "where": "book-5-sec-454",
+    "note": "<del> excluded from the reading text: \"ὄντα\""
+  },
+  {
+    "where": "book-5-sec-456",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-5-sec-466",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 40\""
+  },
+  {
+    "where": "book-5-sec-468",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 7.321-322\""
+  },
+  {
+    "where": "book-5-sec-468",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 8.162\""
+  },
+  {
+    "where": "book-5-sec-469",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 121\""
+  },
+  {
+    "where": "book-5-sec-473",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "book-6-sec-492",
+    "note": "<del> excluded from the reading text: \"ἂν\""
+  },
+  {
+    "where": "book-6-sec-496",
+    "note": "<del> excluded from the reading text: \"ἄξιον\""
+  },
+  {
+    "where": "book-6-sec-500",
+    "note": "<del> excluded from the reading text: \"ἢ καὶ ἐὰν οὕτω θεῶνται, ἀλλοίαν τοι φήσεις αὐτοὺς δόξαν λήψεσθαι καὶ ἄλλα ἀποκρινεῖσθαι.\""
+  },
+  {
+    "where": "book-6-sec-504",
+    "note": "<del> excluded from the reading text: \"ἄξιον τὸ διανόημα\""
+  },
+  {
+    "where": "book-6-sec-505",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"εἰ\""
+  },
+  {
+    "where": "book-7-sec-516",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 11.489\""
+  },
+  {
+    "where": "book-7-sec-516",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "book-7-sec-519",
+    "note": "<del> excluded from the reading text: \"περὶ\""
+  },
+  {
+    "where": "book-7-sec-532",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "book-7-sec-533",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἀρκέσει; ναί.\""
+  },
+  {
+    "where": "book-7-sec-536",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τι\""
+  },
+  {
+    "where": "book-8-sec-545",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 1.6\""
+  },
+  {
+    "where": "book-8-sec-547",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 6.211\""
+  },
+  {
+    "where": "book-8-sec-550",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aesch. Seven 451\""
+  },
+  {
+    "where": "book-8-sec-551",
+    "note": "<del> excluded from the reading text: \"ἤ τινος\""
+  },
+  {
+    "where": "book-8-sec-553",
+    "note": "<del> excluded from the reading text: \"βλαπτόμενον\""
+  },
+  {
+    "where": "book-8-sec-554",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"μα\""
+  },
+  {
+    "where": "book-8-sec-558",
+    "note": "<del> excluded from the reading text: \"ἀνθρώπων\""
+  },
+  {
+    "where": "book-8-sec-558",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-8-sec-559",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"μὴ\""
+  },
+  {
+    "where": "book-8-sec-559",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-8-sec-562",
+    "note": "<del> excluded from the reading text: \"ὑπερ\""
+  },
+  {
+    "where": "book-8-sec-566",
+    "note": "<gap reason=\"ellipsis\"/> marks a genuine, unrecoverable lacuna in the source at this point; nothing invented to fill it."
+  },
+  {
+    "where": "book-8-sec-566",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hdt. 1.55\""
+  },
+  {
+    "where": "book-8-sec-566",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 16.776\""
+  },
+  {
+    "where": "book-8-sec-569",
+    "note": "<del> excluded from the reading text: \"δὲ\""
+  },
+  {
+    "where": "book-9-sec-580",
+    "note": "<del> excluded from the reading text: \"λογιστικὸν\""
+  },
+  {
+    "where": "book-9-sec-581",
+    "note": "<del> excluded from the reading text: \"τῆς ἡδονῆς\""
+  },
+  {
+    "where": "book-10-sec-607",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Unknown\""
+  },
+  {
+    "where": "book-10-sec-617",
+    "note": "<del> excluded from the reading text: \"τὸν\""
+  },
+  {
+    "where": "book-1-sec-351",
+    "note": "A literal \"<\" or \">\" character survives in this division's reading text (not markup - already outside any recognised tag): \"...ὶ ἑξῆς διασκεψώμεθα >τὸν λόγον, ὁποῖόν τ...\". Confirmed present in the raw source itself at this exact spot; kept verbatim, not stripped or guessed at."
+  },
+  {
+    "where": "book-2-sec-360",
+    "note": "A literal \"<\" or \">\" character survives in this division's reading text (not markup - already outside any recognised tag): \"...τούτου δὲ γενομένου >ἀφανῆ αὐτὸν γενέσθα...\". Confirmed present in the raw source itself at this exact spot; kept verbatim, not stripped or guessed at."
+  },
+  {
+    "where": "book-3-sec-394",
+    "note": "A literal \"<\" or \">\" character survives in this division's reading text (not markup - already outside any recognised tag): \"...ν καὶ μὴ ἐρεθίζειν, >ἵνα σῶς οἴκαδε ἔλθο...\". Confirmed present in the raw source itself at this exact spot; kept verbatim, not stripped or guessed at."
+  },
+  {
+    "where": "plato-republic-grc / narration",
+    "note": "Every <said> in this source carries who=\"#Σωκράτης\" and there is exactly one <said> (and one <p>) per Section: the Republic is narrated throughout in the first person by Socrates, who quotes the other speakers within his own narration rather than each speaker getting a separate <said> turn (unlike Laws, which is direct dramatic dialogue). This is a genuine structural feature of the source, not a parsing gap - confirmed by direct inspection of the whole file before writing this importer."
+  }
+]

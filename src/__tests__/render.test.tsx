@@ -985,11 +985,12 @@ describe('registry', () => {
     expect(ids.indexOf('porphyry')).toBeLessThan(ids.indexOf('thomas-aquinas'));
   });
 
-  it('Aristotle (sortYear -384) sorts first, ahead of Porphyry', () => {
+  it('Homer (sortYear -750) sorts first, ahead of Aristotle and Porphyry', () => {
     const ids = authorsSorted().map((a) => a.id);
-    expect(ids[0]).toBe('aristotle');
+    expect(ids[0]).toBe('homer');
     expect(ids.indexOf('aristotle')).toBeLessThan(ids.indexOf('porphyry'));
     expect(AUTHORS.find((a) => a.id === 'aristotle')?.sortYear).toBe(-384);
+    expect(AUTHORS.find((a) => a.id === 'homer')?.sortYear).toBe(-750);
   });
 });
 

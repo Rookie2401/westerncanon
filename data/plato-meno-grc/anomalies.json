@@ -1,0 +1,18 @@
+[
+  {
+    "where": "sec-81",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Pind. fr. 133 Bergk\""
+  },
+  {
+    "where": "sec-95",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Theognis 33-36 Bergk\""
+  },
+  {
+    "where": "sec-96",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Theognis 434-438 Bergk\""
+  },
+  {
+    "where": "plato-meno-grc / structure",
+    "note": "31 Stephanus-page divisions (pp. 70–100), 570 paragraphs, 185 <milestone/> markers stripped, 0 <note> and 3 <bibl> excluded from the reading text (translator apparatus, each logged individually above)."
+  }
+]

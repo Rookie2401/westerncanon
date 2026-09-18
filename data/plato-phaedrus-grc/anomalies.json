@@ -1,0 +1,130 @@
+[
+  {
+    "where": "sec-232",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-234",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τι\""
+  },
+  {
+    "where": "sec-235",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-235",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἄν\""
+  },
+  {
+    "where": "sec-236",
+    "note": "<del> excluded from the reading text: \"Λυσίου\""
+  },
+  {
+    "where": "sec-236",
+    "note": "<del> excluded from the reading text: \"εὐλαβήθητι\""
+  },
+  {
+    "where": "sec-239",
+    "note": "<del> excluded from the reading text: \"τῶν\""
+  },
+  {
+    "where": "sec-242",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Ibycus Frag. 24, Bergk.\""
+  },
+  {
+    "where": "sec-243",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Stesichorus Frag. 32 Bergk\""
+  },
+  {
+    "where": "sec-244",
+    "note": "<del> excluded from the reading text: \"ἑαυτῆς\""
+  },
+  {
+    "where": "sec-246",
+    "note": "<del> excluded from the reading text: \"ψυχή\""
+  },
+  {
+    "where": "sec-248",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "sec-250",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἐν\""
+  },
+  {
+    "where": "sec-251",
+    "note": "<del> excluded from the reading text: \"τὸν ἵμερον\""
+  },
+  {
+    "where": "sec-252",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Homeridae\""
+  },
+  {
+    "where": "sec-254",
+    "note": "<del> excluded from the reading text: \"οὗ\""
+  },
+  {
+    "where": "sec-258",
+    "note": "<del> excluded from the reading text: \"συγγράμματι\""
+  },
+  {
+    "where": "sec-258",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ ὃς\""
+  },
+  {
+    "where": "sec-260",
+    "note": "<del> excluded from the reading text: \"εἶναι ἢ φίλον\""
+  },
+  {
+    "where": "sec-260",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ν\""
+  },
+  {
+    "where": "sec-263",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὂν\""
+  },
+  {
+    "where": "sec-264",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Midas\""
+  },
+  {
+    "where": "sec-266",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἓν\""
+  },
+  {
+    "where": "sec-266",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "sec-268",
+    "note": "<del> excluded from the reading text: \"ποιεῖν\""
+  },
+  {
+    "where": "sec-269",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὄν\""
+  },
+  {
+    "where": "sec-272",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "sec-276",
+    "note": "<del> excluded from the reading text: \"δὲ\""
+  },
+  {
+    "where": "sec-276",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"δὲ\""
+  },
+  {
+    "where": "sec-278",
+    "note": "<del> excluded from the reading text: \"ἐν\""
+  },
+  {
+    "where": "plato-phaedrus-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-phaedrus-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

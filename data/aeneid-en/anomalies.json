@@ -1,0 +1,30 @@
+[
+  {
+    "where": "book-6 l.580",
+    "note": "Source <choice>: kept the original diacritic spelling \"Pasiphaë\" as printed (Williams' 1910 edition); the digitization also offers a plain-ASCII regularized spelling \"Pasiphae\", not used here."
+  },
+  {
+    "where": "book-6 l.640",
+    "note": "Source <choice>: kept the original diacritic spelling \"Deïphobus\" as printed (Williams' 1910 edition); the digitization also offers a plain-ASCII regularized spelling \"Deiphobus\", not used here."
+  },
+  {
+    "where": "book-6 l.703",
+    "note": "Source <choice>: kept the original diacritic spelling \"Deïphobus\" as printed (Williams' 1910 edition); the digitization also offers a plain-ASCII regularized spelling \"Deiphobus\", not used here."
+  },
+  {
+    "where": "book-6 l.751",
+    "note": "Source <choice>: kept the original diacritic spelling \"Aloïdae\" as printed (Williams' 1910 edition); the digitization also offers a plain-ASCII regularized spelling \"Aloidae\", not used here."
+  },
+  {
+    "where": "aeneid-en / reading text",
+    "note": "4 <choice><reg>/<orig></choice> spelling variants (Book 6 underworld catalogue: Pasiphaë, Deïphobus ×2, Aloïdae) were resolved to the <orig> (as-printed, diacritic) spelling; every occurrence is logged individually above alongside the <reg> alternate."
+  },
+  {
+    "where": "aeneid-en / reading text",
+    "note": "13336 <l> verse-line elements were parsed across the 12 books, well above Virgil's own 9,863 Latin <l> elements (see the companion Latin importer) — Williams' free English verse translation routinely expands a single Latin hexameter into more than one English line; this is expected, not an error."
+  },
+  {
+    "where": "aeneid-en / passage & division refs",
+    "note": "This TEI carries no <pb> page markers, so every Passage.ref is null; Division.ref gives each book's own translated verse-line range instead (first–last <l n=\"…\"> found in that book, Williams' own line numbering, which tracks the Latin closely but not exactly)."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "where": "iliad-grc / book-8",
+    "note": "line 548: <del> excluded from the reading text (editorially judged spurious/interpolated in the OCT text): \"ἔρδον δ’ ἀθανάτοισι τεληέσσας ἑκατόμβας\""
+  },
+  {
+    "where": "iliad-grc / book-8",
+    "note": "line 550: <del> excluded from the reading text (editorially judged spurious/interpolated in the OCT text): \"ἡδεῖαν· τῆς δ’ οὔ τι θεοὶ μάκαρες δατέοντο,\""
+  },
+  {
+    "where": "iliad-grc / book-8",
+    "note": "line 551: <del> excluded from the reading text (editorially judged spurious/interpolated in the OCT text): \"οὐδ’ ἔθελον· μάλα γάρ σφιν ἀπήχθετο Ἴλιος ἱρή,\""
+  },
+  {
+    "where": "iliad-grc / book-8",
+    "note": "line 552: <del> excluded from the reading text (editorially judged spurious/interpolated in the OCT text): \"καὶ Πρίαμος καὶ λαὸς ἐϋμμελίω Πριάμοιο\""
+  },
+  {
+    "where": "iliad-grc / book-9",
+    "note": "Perseus transcriber's note in the source (not Homer's text, stripped from the reading text): \"This edition omits lines 458-461.\""
+  },
+  {
+    "where": "iliad-grc / whole work",
+    "note": "Parsed 15687 <l> verse-line elements across 24 Books (traditional total ~15693). 4 line(s) are marked <del> in this OCT edition (judged spurious/interpolated) and excluded from the reading text, each logged individually above. 1 Perseus transcriber note(s) flag a genuine line-numbering gap in this edition's own text (e.g. Iliad 9.458-461, omitted by the source itself); nothing was fabricated to fill any such gap."
+  }
+]

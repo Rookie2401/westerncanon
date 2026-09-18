@@ -1,0 +1,47 @@
+{
+  "workId": "plato-crito-grc",
+  "title": "Κρίτων",
+  "author": "Plato",
+  "language": "grc",
+  "edition": "Burnet, Oxford Classical Texts (1900–1907)",
+  "editor": "John Burnet",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (urn:cts:greekLit:tlg0059.tlg003.perseus-grc2), which digitises Burnet's Oxford Classical Texts edition; imported by scripts/import-plato-crito-grc.",
+  "license": "John Burnet's Oxford Classical Texts edition of Plato (1900–1907) is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Plato's Crito in Greek",
+      "paragraphs": [
+        "This is the Greek text of Plato's Κρίτων (Crito), edited by John Burnet (Oxford Classical Texts). The text here is Burnet's Greek, verbatim - nothing is translated, modernised, or silently corrected. It is a companion edition to this app's English translation of the same dialogue, sharing the same Stephanus-page numbering throughout, and can be read side by side with it.",
+        "Stephanus pagination (this dialogue: pp. 43–54) is the universal citation scheme for Plato, taken from Henri Estienne's 1578 edition and reprinted in the margin of virtually every edition and translation since; it is used here as-is, not renumbered."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "John Burnet, ed., Platonis Opera (Oxford: Clarendon Press, 1900–1907). This edition is in the public domain and remains the standard critical Greek text of Plato."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0059.tlg003.perseus-grc2.xml (urn:cts:greekLit:tlg0059.tlg003.perseus-grc2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit GitHub repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The source has no Book-level division (unlike Plato's *Republic* and *Laws*): the whole dialogue is segmented directly into 12 <div type=\"textpart\" subtype=\"section\"> elements, one per Stephanus page (this dialogue: pp. 43–54), attribute order varying file to file and tolerated as such. Each page division carries a single passage: its <p> paragraphs joined with a blank line between them, in source order, never merged or reordered - 102 paragraphs total in this file.",
+        "Every paragraph in the source is one speaker's turn, tagged <p><said who=\"#Name\"><label>Name.</label> text</said></p> (Crito, Phaedo and Euthyphro, and this dialogue's Greek witness) or, in the English translations of Ion and Meno, the other way around - <said who=\"#Name\"><label>Name.</label> <p>text</p></said>, <said> wrapping <p> rather than <p> wrapping <said> - confirmed by direct inspection of both source files; the importer tolerates either nesting identically rather than assuming one. The printed speaker label (e.g. \"Socrates.\" or, in Greek, an abbreviated form like \"ΣΩ.\") is part of the printed text and is kept verbatim as the start of that paragraph's text, exactly as it is typeset in print - never stripped, never used to fabricate a separate speaker field.",
+        "Finer Stephanus sub-page lettering (<milestone n=\"43a\" unit=\"section\" resp=\"Stephanus\"/>, \"43b\", ...) appears scattered mid-paragraph in the source and carries no text of its own; all 75 <milestone/> markers in this file (including the page-boundary echo that sometimes duplicates a division's own page number) are stripped, and the Division granularity stays at the Stephanus-page level, not the lettered sub-page.",
+        "This file has 0 translator's footnotes (<note>) and 1 inline cross-reference citation (<bibl>, e.g. a citation like \"Hom. Il. 23.335 ff.\" identifying a quoted Homer passage). Both are excluded from the reading text entirely - they are the translator's own apparatus, not the speaker's words - matching how scripts/import-euclid/index.ts drops Heath's <note> commentary; every occurrence is still logged verbatim to anomalies.json, nothing is silently dropped. Every other inline tag actually used in the running text (<persName>, <placeName>, <name>, <q>, <foreign>, and similar) is unwrapped: tag dropped, content kept, nothing fabricated or removed."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Division scheme: one Division per Stephanus page (id `sec-N`, e.g. `sec-43`), no further nesting - the same scheme this app uses for all six dialogues in this batch. Cite by dialogue and Stephanus page/letter (e.g. \"Crito 43a\"), the standard scholarly citation for Plato.",
+        "Every passage and division ref is null: no physical page/line reference beyond the Stephanus number itself is tracked at this granularity."
+      ]
+    }
+  ]
+}

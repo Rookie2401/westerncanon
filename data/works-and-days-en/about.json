@@ -1,0 +1,51 @@
+{
+  "workId": "works-and-days-en",
+  "title": "Works and Days",
+  "author": "Hesiod",
+  "language": "en",
+  "edition": "Evelyn-White 1914 (Loeb Classical Library)",
+  "editor": "Hugh G. Evelyn-White",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin `canonical-greekLit` GitHub repository (CTS urn:cts:greekLit:tlg0020.tlg002.perseus-eng2), which digitises Hugh G. Evelyn-White's 1914 Loeb Classical Library prose translation of Hesiod's Works and Days; imported by scripts/import-hesiod-works-and-days-en.",
+  "license": "Hugh G. Evelyn-White's translation was first published in 1914 (Hesiod, the Homeric Hymns and Homerica, Loeb Classical Library, London: William Heinemann / New York: The Macmillan Co.) and is in the public domain (110+ years old). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin Project (`canonical-greekLit`) under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Hesiod's Works and Days",
+      "paragraphs": [
+        "This is Hugh G. Evelyn-White's 1914 prose translation of Hesiod's Works and Days, a didactic poem of farming wisdom, ethical exhortation and the myths of Prometheus, Pandora and the Ages of Man.",
+        "The translation is reproduced verbatim; nothing is modernised, abridged or silently corrected. Evelyn-White's own explanatory footnotes are not part of Hesiod's text and are not reproduced here (see \"Known gaps & anomalies\")."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Hugh G. Evelyn-White, ed. and trans., Hesiod, the Homeric Hymns and Homerica (Loeb Classical Library, London: William Heinemann Ltd. / New York: The Macmillan Co., 1914). This is the edition that Perseus's TEI transcription of both the Greek text and the English translation of \"Works and Days\" (Ἔργα καὶ Ἡμέραι) is built from.",
+        "Citation in this reader follows the Loeb \"card\" pagination unit that both language witnesses in the source TEI share (a card typically spans 20–40 lines); Hesiod's poems carry no Book-level division in the manuscript or print tradition, so there is no higher citation level to use instead."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0020.tlg002.perseus-eng2.xml (CTS URN urn:cts:greekLit:tlg0020.tlg002.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin `canonical-greekLit` GitHub repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the single translation <div> as one continuous text stream and cuts it into 26 cards at each <milestone unit=\"card\"> marker (there is no <p> structure to slice on - see \"Known gaps & anomalies\"). Evelyn-White's own footnotes (<note>) are dropped; <placeName> wrapping is unwrapped, keeping the word. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by card, matching the companion works-and-days-grc Greek work card for card. Each card's Division.ref gives the underlying Greek verse line range. Passage.n is \"\" throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "41 translator's footnote(s) were dropped (not Hesiod's text). No <p> paragraph structure exists in the source, so each card is imported as a single continuous prose block."
+      ]
+    }
+  ],
+  "translator": "Hugh G. Evelyn-White"
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "where": "sec-227",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Pind. Isthm 1.1\""
+  },
+  {
+    "where": "sec-227",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Pind. I. 1.1\""
+  },
+  {
+    "where": "sec-227",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Pind. I. 1.1 Μᾶτερ ἐμά, τὸ τεόν, χρύσασπι Θήβα, πρᾶγμα καὶ ἀσχολίας ὑπέρτερον θήσομαι . My mother, Thebes of the golden shield, I will consi…\""
+  },
+  {
+    "where": "sec-227",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"ἰατρὸς ἦν καὶ τὰ γυμνάσια ἔξω τείχους ἐποιεῖτο, ἀρχόμενος ἀπό τινος διαστήματος οὐ μακροῦ ἀλλὰ συμμέτρου, ἄχρι τοῦ τείχους, καὶ ἀναστρέφων .…\""
+  },
+  {
+    "where": "sec-229",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The Mss. insert here ἢ ἐξ Ἀρείου πάγου: λέγεται γὰρ αὖ καὶ οὗτος ὁ λόγος, ὡς ἐκεῖθεν ἀλλ’ οὐκ ἐνθένδε ἡρπάσθη , or from the Areopagus, for t…\""
+  },
+  {
+    "where": "sec-238",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"This somewhat fanciful statement is based on a supposed etymological connection between ἔρως and ῥώμη, ἐρρωμένως, ῥωσθεῖσα .\""
+  },
+  {
+    "where": "sec-241",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"This refers to a game played with oyster shells, in which the players ran away or pursued as the shell fell with one or the other side upper…\""
+  },
+  {
+    "where": "sec-242",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Ibycus Frag. 24, Bergk.\""
+  },
+  {
+    "where": "sec-243",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Stesichorus Frag. 32 Bergk\""
+  },
+  {
+    "where": "sec-251",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The play on the words μέρη and ἵμερος cannot be rendered accurately in English. Jowett approaches a rendering by the use of the words motion…\""
+  },
+  {
+    "where": "sec-252",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Homeridae\""
+  },
+  {
+    "where": "sec-252",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Homeridae\""
+  },
+  {
+    "where": "sec-257",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"This is a proverbial expression, similar in meaning to our sour grapes. The explanation given in the Mss., that the sweet elbow gets its nam…\""
+  },
+  {
+    "where": "sec-266",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Home. Od. 5.193\""
+  },
+  {
+    "where": "sec-269",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"οὐδ’ εἰ Τανταλίδεω Πέλοπος βασιλεύτερος εἴη γλῶσσαν δ’ Ἀδρήστου μειλιχόγηρυν ἔχοι , not even if he were more kingly than Pelops and had the …\""
+  },
+  {
+    "where": "sec-273",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phaedrus 259e\""
+  },
+  {
+    "where": "sec-273",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"See Plat. Phaedrus 259e .\""
+  },
+  {
+    "where": "sec-277",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phaedrus 257c\""
+  },
+  {
+    "where": "sec-277",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"See Plat. Phaedrus 257c .\""
+  },
+  {
+    "where": "plato-phaedrus-en / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-phaedrus-en / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

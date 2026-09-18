@@ -1,0 +1,122 @@
+[
+  {
+    "where": "plato-gorgias-grc / <gap/>",
+    "note": "<gap reason=\"lost\"/> marks a genuine lacuna in a quoted verse fragment near \"..., εἰ τὸ ζῆν μέν ἐστι κατθανεῖν,</l><l>τὸ κατθανεῖν δὲ ζῆν;\" — no text recoverable, nothing substituted."
+  },
+  {
+    "where": "sec-451",
+    "note": "<del> excluded from the reading text: \"γνῶσις\""
+  },
+  {
+    "where": "sec-451",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τί\""
+  },
+  {
+    "where": "sec-461",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὃ\""
+  },
+  {
+    "where": "sec-467",
+    "note": "<del> excluded from the reading text: \"τούτου πρόσθεν\""
+  },
+  {
+    "where": "sec-470",
+    "note": "<del> excluded from the reading text: \"τὸ μέγα δύνασθαι\""
+  },
+  {
+    "where": "sec-470",
+    "note": "<del> excluded from the reading text: \"ταὐτὸ\""
+  },
+  {
+    "where": "sec-478",
+    "note": "<del> excluded from the reading text: \"ὧν λέγεις\""
+  },
+  {
+    "where": "sec-478",
+    "note": "<del> excluded from the reading text: \"ἀδικίαν\""
+  },
+  {
+    "where": "sec-481",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ᾖ\""
+  },
+  {
+    "where": "sec-481",
+    "note": "<del> excluded from the reading text: \"ἢ\""
+  },
+  {
+    "where": "sec-484",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Pind. fr. 169\""
+  },
+  {
+    "where": "sec-484",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Pind. fr. 169\""
+  },
+  {
+    "where": "sec-485",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. fr. Antiope\""
+  },
+  {
+    "where": "sec-485",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. fr. Antiope\""
+  },
+  {
+    "where": "sec-491",
+    "note": "<del> excluded from the reading text: \"οὔ\""
+  },
+  {
+    "where": "sec-492",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τί ἂν\""
+  },
+  {
+    "where": "sec-493",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. fr. 638\""
+  },
+  {
+    "where": "sec-497",
+    "note": "<del> excluded from the reading text: \"ὅτι ἔχων ληρεῖς\""
+  },
+  {
+    "where": "sec-498",
+    "note": "<del> excluded from the reading text: \"μᾶλλον\""
+  },
+  {
+    "where": "sec-498",
+    "note": "<del> excluded from the reading text: \"οἱ ἀγαθοὶ καὶ οἱ κακοί\""
+  },
+  {
+    "where": "sec-500",
+    "note": "<del> excluded from the reading text: \"ἐπὶ\""
+  },
+  {
+    "where": "sec-503",
+    "note": "<del> excluded from the reading text: \"γεγονέναι\""
+  },
+  {
+    "where": "sec-503",
+    "note": "<del> excluded from the reading text: \"βλέποντες\""
+  },
+  {
+    "where": "sec-503",
+    "note": "<del> excluded from the reading text: \"πρὸς τὸ ἔργον τὸ αὑτῶν,\""
+  },
+  {
+    "where": "sec-513",
+    "note": "<del> excluded from the reading text: \"ἴσως καὶ\""
+  },
+  {
+    "where": "sec-519",
+    "note": "<del> excluded from the reading text: \"αὑτούς\""
+  },
+  {
+    "where": "sec-526",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 11.569\""
+  },
+  {
+    "where": "plato-gorgias-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-gorgias-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

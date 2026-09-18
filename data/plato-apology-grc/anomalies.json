@@ -1,0 +1,10 @@
+[
+  {
+    "where": "plato-apology-grc / structure",
+    "note": "26 Stephanus-page divisions (pp. 17–42), 26 paragraphs, 227 <milestone/> markers stripped, 0 <note> and 0 <bibl> excluded from the reading text (translator apparatus, each logged individually above)."
+  },
+  {
+    "where": "plato-apology-grc / speaker markup",
+    "note": "This source carries no <said>/<label> markup at all: all 26 paragraphs are plain prose with no speaker prefix (see about.json \"How it was imported\"). Not treated as an error - this matches Apology's dramatic form as one continuous speech."
+  }
+]

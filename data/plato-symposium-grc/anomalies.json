@@ -1,0 +1,106 @@
+[
+  {
+    "where": "plato-symposium-grc / <gap/>",
+    "note": "<gap reason=\"lost\"/> marks a genuine lacuna in a quoted verse fragment near \"...ὲν Χάος φησὶ γενέσθαι—<quote type=\"verse\"><l met=\"dactylic\">\" — no text recoverable, nothing substituted."
+  },
+  {
+    "where": "plato-symposium-grc / <gap/>",
+    "note": "<gap reason=\"lost\"/> marks a genuine lacuna in a quoted verse fragment near \"...νος, πάντων ἕδος ἀσφαλὲς αἰεί,</l> <l>ἠδʼ Ἔρος\" — no text recoverable, nothing substituted."
+  },
+  {
+    "where": "plato-symposium-grc / <gap/>",
+    "note": "<gap reason=\"lost\"/> marks a genuine lacuna in a quoted verse fragment near \"...ς ἁπαλοὺς εἶναι—λέγων <quote type=\"verse\"><l met=\"dactylic\">\" — no text recoverable, nothing substituted."
+  },
+  {
+    "where": "plato-symposium-grc / <corr>",
+    "note": "<corr> — Burnet silently corrects the manuscript reading here; the corrected text \"φιλοσοφίας\" is what is kept (this importer never overrides an editor's own critical text)."
+  },
+  {
+    "where": "sec-174",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 17.587\""
+  },
+  {
+    "where": "sec-176",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ος\""
+  },
+  {
+    "where": "sec-178",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. Theog. 116\""
+  },
+  {
+    "where": "sec-178",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Parmenides Fr. 132\""
+  },
+  {
+    "where": "sec-179",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 10.482; Hom. Il. 15.262\""
+  },
+  {
+    "where": "sec-182",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"πρᾶγμα\""
+  },
+  {
+    "where": "sec-184",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὑπουργεῖν\""
+  },
+  {
+    "where": "sec-195",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 19.92-93\""
+  },
+  {
+    "where": "sec-196",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Alcidamas, a stylist of the school of Gorgias.\""
+  },
+  {
+    "where": "sec-196",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Soph. Thyest. Fr. 235\""
+  },
+  {
+    "where": "sec-196",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. Sthen. Fr. 663\""
+  },
+  {
+    "where": "sec-197",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Unknown\""
+  },
+  {
+    "where": "sec-197",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plato\""
+  },
+  {
+    "where": "sec-199",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. Hippol. 612\""
+  },
+  {
+    "where": "sec-214",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 11.514\""
+  },
+  {
+    "where": "sec-219",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 6.236\""
+  },
+  {
+    "where": "sec-220",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 4.242\""
+  },
+  {
+    "where": "sec-221",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristoph. Clouds 362\""
+  },
+  {
+    "where": "sec-223",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "sec-223",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἓ\""
+  },
+  {
+    "where": "plato-symposium-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-symposium-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

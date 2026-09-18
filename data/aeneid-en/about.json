@@ -1,0 +1,48 @@
+{
+  "workId": "aeneid-en",
+  "title": "The Aeneid of Virgil",
+  "author": "Publius Vergilius Maro (Virgil)",
+  "language": "en",
+  "edition": "Theodore C. Williams, trans., The Aeneid of Virgil, Translated into English Verse (Boston: Houghton Mifflin Co., 1910)",
+  "translator": "Theodore Chickering Williams",
+  "provenance": "Perseus Digital Library / Open Greek and Latin, canonical-latinLit GitHub repository (github.com/PerseusDL/canonical-latinLit), file data/phi0690/phi003/phi0690.phi003.perseus-eng2.xml, CTS urn:cts:latinLit:phi0690.phi003.perseus-eng2. TEI XML digitization CC BY-SA 4.0.",
+  "license": "English translation (Williams, 1910) is public domain. TEI XML digitization/markup: CC BY-SA 4.0 (Perseus Digital Library / Open Greek and Latin).",
+  "sections": [
+    {
+      "heading": "About the text",
+      "paragraphs": [
+        "The Aeneid is Virgil's twelve-book Latin epic, composed between roughly 29 and 19 BC and left unfinished at his death. It follows the Trojan prince Aeneas from the fall of Troy, through his wanderings and love for Dido at Carthage (Books 1–6, an \"Odyssean\" half modeled on the Odyssey), to his war in Italy and the founding of the people who would become Rome (Books 7–12, an \"Iliadic\" half modeled on the Iliad).",
+        "Theodore C. Williams (1855–1915) rendered the poem into unrhymed English verse, published in 1910; this edition preserves his own line-by-line verse structure, one Passage per book, with each of his English lines on its own line of text rather than collapsed into a single paragraph."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The reading text is Theodore C. Williams' 1910 verse translation, as digitized by the Perseus Project. Williams translated freely rather than line-for-line, so his own line numbering, while close to Virgil's, does not match the Latin exactly — see about.json's \"Known gaps & anomalies\"."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Fetched from the PerseusDL/canonical-latinLit GitHub repository (an Open Greek and Latin / Perseus Digital Library project), file phi0690/phi003/phi0690.phi003.perseus-eng2.xml. The raw TEI XML is cached under scripts/import-virgil-aeneid-en/raw/ so the importer never needs to re-fetch the source to rebuild work.json."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each of the 12 books is a single top-level Division (book-1 .. book-12) holding exactly one Passage: its full verse text, one line per array element joined with a newline, in document order. There is no chapter/section level below the book in this schema, matching the companion Latin edition.",
+        "The source nests every line inside a further \"card\" div (a Loeb-style print-pagination marker, 327 of them across the work) — these carry no narrative significance and are transparently unwrapped, never surfaced in the schema.",
+        "Division.ref gives each book's own translated line range (e.g. Book 1's), taken from the first and last <l n=\"…\"> actually encountered in that book's source markup, not a fabricated round number."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Every irregularity below is documented individually in anomalies.json with a machine-readable {where, note} entry.",
+        "4 <choice><reg>/<orig></choice> spelling variants, all in Book 6's catalogue of the dead (Pasiphaë, Deïphobus ×2, Aloïdae): the diacritic <orig> spelling actually printed in the 1910 edition is kept as the reading text; the plain-ASCII <reg> regularization added by the digitization is logged as an alternate, not shown.",
+        "Williams translated freely, not line-for-line: his English carries 13,336 verse lines against Virgil's own 9,863 Latin lines. This is an expected feature of a free verse translation, not a transcription problem, and Division.ref for each book reflects Williams' own line numbering, not the Latin's.",
+        "Unlike the companion Latin edition, this source contains no <del> (editorially-excluded lines), no <gap> (manuscript lacuna marker), and no embedded editorial <note> — confirmed by a corpus-wide scan."
+      ]
+    }
+  ]
+}

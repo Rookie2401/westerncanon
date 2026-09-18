@@ -1,0 +1,18 @@
+[
+  {
+    "where": "sec-4",
+    "note": "<note> translator's footnote excluded from the reading text (apparatus, not the speaker's own words): \"The Greek word has much the same meaning as the Latin prosequor, from which the English prosecute is derived, follow, pursue, and is at the same time the techni…\""
+  },
+  {
+    "where": "sec-11",
+    "note": "<note> translator's footnote excluded from the reading text (apparatus, not the speaker's own words): \"Socrates was the son of a sculptor and was himself educated to be a sculptor. This is doubtless the reason for his reference to Daedalus as an ancestor. Daedalu…\""
+  },
+  {
+    "where": "sec-12",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Stasinus, author of the Cypria (Fragm. 20, ed. Kinkel)\""
+  },
+  {
+    "where": "plato-euthyphro-en / structure",
+    "note": "15 Stephanus-page divisions (pp. 2–16), 233 paragraphs, 85 <milestone/> markers stripped, 2 <note> and 1 <bibl> excluded from the reading text (translator apparatus, each logged individually above)."
+  }
+]

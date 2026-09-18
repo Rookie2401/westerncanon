@@ -1,0 +1,33 @@
+{
+  "workId": "iliad-grc",
+  "title": "Ἰλιάς",
+  "author": "Homer",
+  "language": "grc",
+  "edition": "Monro/Allen, Homeri Opera, Oxford Classical Texts (3rd ed. 1920)",
+  "editor": "D. B. Monro and T. W. Allen",
+  "provenance": "Perseus Digital Library / Open Greek and Latin, \"canonical-greekLit\" GitHub repository (github.com/PerseusDL/canonical-greekLit), TEI XML edition of the Monro/Allen Oxford Classical Text (Homeri Opera, vols. I-II, Oxford: Clarendon Press, 3rd ed. 1920 for the Iliad, 2nd ed. 1917-19 for the Odyssey; first published 1902/1908). Fetched once and cached in this repository under scripts/import-homer-<work>-grc/raw/ - nothing is downloaded at build or run time.",
+  "license": "Greek text (Monro/Allen, early 20th century) is in the public domain. The Perseus/Open Greek and Latin digital TEI encoding is licensed CC BY-SA 4.0.",
+  "sections": [
+    {
+      "heading": "About the text",
+      "paragraphs": [
+        "The Iliad is the earlier and (in the traditional ordering) the first of the two Homeric epics, telling a few weeks near the end of the ten-year Trojan War: the wrath of Achilles after Agamemnon seizes his prize Briseis, his withdrawal from battle, the death of his companion Patroclus at Hector's hands, and his terrible return to the fighting that ends with Hector's death and Priam's ransoming of his son's body. The 24 Books printed here follow the traditional division, itself first fixed by Alexandrian scholars (each Book labelled with a letter of the Greek alphabet in antiquity) and preserved by Monro and Allen's edition.",
+        "The Greek text is verse (dactylic hexameter); it is reproduced here one line per source line, exactly as lineated in the edition, never collapsed to prose or re-lineated."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Perseus Digital Library / Open Greek and Latin, \"canonical-greekLit\" GitHub repository (github.com/PerseusDL/canonical-greekLit), TEI XML edition of the Monro/Allen Oxford Classical Text (Homeri Opera, vols. I-II, Oxford: Clarendon Press, 3rd ed. 1920 for the Iliad, 2nd ed. 1917-19 for the Odyssey; first published 1902/1908). Fetched once and cached in this repository under scripts/import-homer-<work>-grc/raw/ - nothing is downloaded at build or run time.",
+        "The importer reads this cached XML directly; each of the work's 24 Books is a top-level division (book-1..book-24), holding a single passage whose text is every surviving verse line of that Book, one per line, in reading order - the Greek is preserved as verse, not collapsed to prose."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Four lines in Book 8 (part of the simile comparing the Trojan campfires to stars, 8.548-552) are marked <del> in this OCT text - judged by Monro and Allen to be probable ancient interpolations - and are excluded from the reading text here, exactly as this repository's Euclid text excludes its own source's <del> spans; every instance is individually logged in anomalies.json with its line number and excluded Greek text, never silently dropped.",
+        "This edition itself omits a short run of lines in Book 9 (the traditional line numbers 458-461) - a gap in the edition's own numbering, not a defect of this import; the Perseus transcribers' own note marking that gap is preserved in anomalies.json rather than shown as reading text."
+      ]
+    }
+  ]
+}

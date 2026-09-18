@@ -1,0 +1,19 @@
+{
+  "workId": "plato-republic-en",
+  "title": "The Republic",
+  "author": "Plato",
+  "language": "en",
+  "translator": "Benjamin Jowett",
+  "provenance": "Text: Project Gutenberg ebook #1497 (www.gutenberg.org/ebooks/1497), fetched directly and committed to this repository at scripts/import-plato-republic-en/raw/pg1497.txt. Benjamin Jowett's translation, first published 1871 and revised for later editions (this text reflects his later revised wording, per the Gutenberg edition front matter); Jowett died in 1893.",
+  "license": "Jowett's translation is in the public domain worldwide (translator died 1893, well over 100 years ago). The Project Gutenberg transcription of it is also in the public domain in the United States; see gutenberg.org/ebooks/1497 for Project Gutenberg's own terms on redistributing their specific eBook file, which this importer respects by keeping the text itself rather than Gutenberg's licence header/footer.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is Benjamin Jowett's English translation of Plato's Republic, via Project Gutenberg ebook #1497.",
+        "Navigation is by Book only (10 total). Unlike the accompanying Greek text (data/plato-republic-grc) and every other work in this importer group, this source carries NO Stephanus page markers at all - Gutenberg's plain-text transcription of Jowett's translation was never marked up with them, so there is no page-level citation data to preserve. The Greek edition, sourced from Perseus/Open Greek and Latin (which does carry Stephanus TEI markup), offers page-level navigation that this English edition genuinely cannot.",
+        "Jowett's own \"Introduction and Analysis\" essay, which precedes the dialogue proper in the printed edition and includes his own prose summary of each Book, is not included here - only the dialogue itself."
+      ]
+    }
+  ]
+}

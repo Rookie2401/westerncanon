@@ -1365,6 +1365,16 @@ body {
 .gr-passage {
   margin: 0 0 1.5rem;
 }
+/* A passage's own text may carry embedded newlines - a single "\n" between
+   verse lines (Homer/Hesiod/Virgil), or "\n\n" between prose paragraphs
+   (Plato's speaker turns) - real structure the importer preserved, not
+   incidental whitespace. Left to the browser default, a <p> collapses every
+   newline to a single space, silently flattening verse into one run-on line;
+   pre-line keeps each newline as a visible break while still collapsing any
+   other repeated whitespace and wrapping normally. */
+.gr-passage__text {
+  white-space: pre-line;
+}
 .gr-passage:last-child {
   margin-bottom: 0;
 }

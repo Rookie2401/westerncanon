@@ -1,0 +1,32 @@
+{
+  "workId": "iliad-en",
+  "title": "Iliad",
+  "author": "Homer",
+  "language": "en",
+  "translator": "A. T. Murray",
+  "edition": "Loeb Classical Library, 2 vols. (Cambridge, MA: Harvard University Press, 1924-25)",
+  "provenance": "Perseus Digital Library / Open Greek and Latin, \"canonical-greekLit\" GitHub repository (github.com/PerseusDL/canonical-greekLit), TEI XML edition of A. T. Murray's prose translation, Loeb Classical Library (Iliad: 2 vols., 1924-25; Odyssey: 2 vols., 1919). Fetched once and cached in this repository under scripts/import-homer-<work>-en/raw/ - nothing is downloaded at build or run time.",
+  "license": "A. T. Murray's translation was first published 1919 (Odyssey) and 1924-25 (Iliad) - more than 95 years ago - and is in the public domain in the United States. The Perseus/Open Greek and Latin digital TEI encoding is licensed CC BY-SA 4.0.",
+  "sections": [
+    {
+      "heading": "About the text",
+      "paragraphs": [
+        "The Iliad is the earlier and (in the traditional ordering) the first of the two Homeric epics, telling a few weeks near the end of the ten-year Trojan War: the wrath of Achilles after Agamemnon seizes his prize Briseis, his withdrawal from battle, the death of his companion Patroclus at Hector's hands, and his terrible return to the fighting that ends with Hector's death and Priam's ransoming of his son's body.",
+        "A. T. Murray's Loeb translation renders Homer's verse as flowing English prose, with the Loeb edition's own marginal numbers keyed to the corresponding Greek verse lines (used here only to compute each Book's Division.ref, e.g. \"1–611\", not shown inline)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Perseus Digital Library / Open Greek and Latin, \"canonical-greekLit\" GitHub repository (github.com/PerseusDL/canonical-greekLit), TEI XML edition of A. T. Murray's prose translation, Loeb Classical Library (Iliad: 2 vols., 1924-25; Odyssey: 2 vols., 1919). Fetched once and cached in this repository under scripts/import-homer-<work>-en/raw/ - nothing is downloaded at build or run time.",
+        "The importer reads this cached XML directly; each of the work's 24 Books is a top-level division (book-1..book-24), holding a single passage whose text is every one of that Book's prose paragraphs, in reading order, joined with a blank line between them - Murray's translation is prose, so (unlike the Greek) no per-line breaks are inserted. The Loeb print edition's own \"card\" pagination divisions are a page-layout artefact only and are discarded; Loeb's marginal cross-reference numbers (keyed to the Greek verse lines) are used only to compute each Book's own line-range citation (Division.ref), not shown inline in the reading text."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "One short phrase is marked <corr resp=\"perseus\"> in the source (Book 20: \"son of\") - the digital transcribers' own correction of a probable transcription error, not an editorial change to Murray's wording - and is kept verbatim; it is individually logged in anomalies.json."
+      ]
+    }
+  ]
+}

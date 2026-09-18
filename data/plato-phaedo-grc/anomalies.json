@@ -1,0 +1,14 @@
+[
+  {
+    "where": "sec-94",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Hom. Od 20.17-18\""
+  },
+  {
+    "where": "sec-112",
+    "note": "<bibl> inline citation excluded from the reading text (apparatus, not the speaker's own words): \"Hom. Il. 8.14\""
+  },
+  {
+    "where": "plato-phaedo-grc / structure",
+    "note": "62 Stephanus-page divisions (pp. 57–118), 93 paragraphs, 957 <milestone/> markers stripped, 0 <note> and 2 <bibl> excluded from the reading text (translator apparatus, each logged individually above)."
+  }
+]
