@@ -211,6 +211,131 @@ export const WORKS: Work[] = [
     },
   },
   {
+    id: 'physics-grc',
+    authorId: 'aristotle',
+    title: 'Φυσικὴ ἀκρόασις',
+    commonTitle: 'Physics',
+    group: 'Physics',
+    language: 'grc',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'Greek · Ross',
+    source: {
+      edition: 'W. D. Ross, ed., Aristotelis Physica (Oxford Classical Texts; Clarendon Press, Oxford, imprint 1960, reprinting the 1950 critical edition)',
+      editor: 'William David Ross',
+      provenance:
+        'TEI from OpenGreekAndLatin/First1KGreek (urn:cts:greekLit:tlg0086.tlg031.1st1K-grc1).',
+      license:
+        "Ross's critical edition (1950) is in the public domain; digital text CC BY-SA 4.0 (First1KGreek).",
+    },
+  },
+  {
+    id: 'metaphysics-grc',
+    authorId: 'aristotle',
+    title: 'τὰ Μετὰ τὰ Φυσικά',
+    commonTitle: 'Metaphysics',
+    group: 'Metaphysics',
+    language: 'grc',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'Greek · Ross',
+    source: {
+      edition: "Aristotle's Metaphysics, ed. W. D. Ross, 2 vols. (Oxford: Clarendon Press, 1924)",
+      editor: 'William David Ross',
+      provenance:
+        'TEI from PerseusDL/canonical-greekLit (CTS urn:cts:greekLit:tlg0086.tlg025.perseus-grc2).',
+      license:
+        "Ross's 1924 edition is public domain; digital text CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).",
+    },
+  },
+  {
+    id: 'metaphysics-en',
+    authorId: 'aristotle',
+    title: 'Metaphysics',
+    group: 'Metaphysics',
+    language: 'en',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'English · trans. Ross (partial)',
+    source: {
+      translator: 'William David Ross',
+      edition: 'Metaphysics, trans. W. D. Ross (1908)',
+      provenance:
+        'English Wikisource, "Metaphysics (Ross, 1908)" - page-scan transcription, 9 of 14 books (the Wikisource project is itself unfinished). See the work\'s own About page for the exact, book-by-book scope.',
+      license:
+        "Ross's 1908 translation is public domain; transcription CC BY-SA 4.0 (Wikisource).",
+    },
+  },
+  {
+    id: 'posterior-analytics-grc',
+    authorId: 'aristotle',
+    title: 'Ἀναλυτικῶν Ὑστέρων',
+    commonTitle: 'Posterior Analytics',
+    group: 'Posterior Analytics',
+    language: 'grc',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'Greek · Wikisource',
+    source: {
+      provenance:
+        'Greek Wikisource, "Ἀναλυτικῶν υστέρων" - a community transcription with no critical edition explicitly cited on the source page (disclosed in the work\'s About page).',
+      license: 'Ancient text, public domain; transcription CC BY-SA 4.0 (Wikisource).',
+    },
+  },
+  {
+    id: 'posterior-analytics-en',
+    authorId: 'aristotle',
+    title: 'Posterior Analytics',
+    group: 'Posterior Analytics',
+    language: 'en',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'English · trans. Bouchier',
+    source: {
+      translator: 'E. S. Bouchier',
+      edition: "E. S. Bouchier, Aristotle's Posterior Analytics (Oxford: Blackwell, 1901)",
+      provenance: 'English Wikisource, "Posterior Analytics (Bouchier)".',
+      license: "Bouchier's 1901 translation public domain; transcription CC BY-SA 4.0 (Wikisource).",
+    },
+  },
+  {
+    id: 'nicomachean-ethics-grc',
+    authorId: 'aristotle',
+    title: 'Ἠθικὰ Νικομάχεια',
+    commonTitle: 'Nicomachean Ethics',
+    group: 'Nicomachean Ethics',
+    language: 'grc',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'Greek · Bywater',
+    source: {
+      edition: 'Ingram Bywater, ed., Aristotelis Ethica Nicomachea (Oxford: Clarendon Press, 1894)',
+      editor: 'Ingram Bywater',
+      provenance:
+        'TEI from PerseusDL/canonical-greekLit (CTS urn:cts:greekLit:tlg0086.tlg010.perseus-grc2).',
+      license:
+        "Bywater's 1894 edition is public domain; digital text CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).",
+    },
+  },
+  {
+    id: 'nicomachean-ethics-en',
+    authorId: 'aristotle',
+    title: 'Nicomachean Ethics',
+    group: 'Nicomachean Ethics',
+    language: 'en',
+    citationScheme: 'bekker-chapter',
+    profile: 'generic',
+    meta: 'English · trans. Rackham',
+    source: {
+      translator: 'Harris Rackham',
+      edition: 'The Nicomachean Ethics, trans. H. Rackham, Loeb Classical Library (London: William Heinemann; New York: G. P. Putnam\'s Sons, 1926 printing)',
+      provenance:
+        'TEI from PerseusDL/canonical-greekLit (CTS urn:cts:greekLit:tlg0086.tlg010.perseus-eng2).',
+      license:
+        "Rackham's 1926 translation is public domain; digital text CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).",
+    },
+  },
+  {
     id: 'isagoge-grc',
     authorId: 'porphyry',
     title: 'Εἰσαγωγή',

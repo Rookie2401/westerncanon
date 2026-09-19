@@ -1,0 +1,63 @@
+{
+  "workId": "physics-grc",
+  "title": "Physics",
+  "author": "Aristotle",
+  "language": "grc",
+  "edition": "W. D. Ross, ed., Aristotelis Physica (Oxford Classical Texts; Clarendon Press, Oxford, imprint 1960, reprinting the 1950 critical edition)",
+  "editor": "W. D. Ross",
+  "provenance": "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0086.tlg031, edition .1st1K-grc1), digitised by Digital Divide Data for the Perseus Digital Library / Open Greek and Latin project; imported by scripts/import-aristotle-physics-grc. The file's own <teiHeader> gives the printed source as W. D. Ross's critical edition (Clarendon Press, Oxford, 1960 imprint) rather than Bekker's 1831/1837 Aristotelis Opera used for this reader's Categories and De Interpretatione.",
+  "license": "The ancient Greek text of the Physics is in the public domain. Ross's apparatus criticus and this particular critical reconstruction of the text (embodied in the <add>/<del>/<sic> markup this importer resolves - see \"How it was imported\" below) derive from his 1950/1960 Oxford Classical Texts edition; the digital transcription itself is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0), under which it is redistributed here.",
+  "sections": [
+    {
+      "heading": "Aristotle's Physics",
+      "paragraphs": [
+        "This is the Greek text of Aristotle's Φυσικὴ Ἀκρόασις (\"Lecture on Nature\"), usually called the Physics: an eight-book study of nature, change, motion, place, time, the infinite, and (in Book VIII) the argument for an eternal, unmoved first mover of all motion.",
+        "The text here is Greek only, verbatim. Nothing is translated, modernised, normalised or silently corrected beyond the documented resolution of the source's own critical-apparatus markup (see \"How it was imported\" below). Where the source is irregular or a genuine judgement call was made, it is preserved/recorded and flagged in \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "No English edition bundled - by design",
+      "paragraphs": [
+        "Unlike most other works in this reader, no English translation of the Physics is bundled alongside this Greek text. This is a deliberate choice, not an oversight: at the time of this import, no clean, complete, public-domain digital English translation of the Physics could be found online - the well-known public-domain translations (e.g. R. P. Hardie & R. K. Gaye, in the Oxford translation tradition) exist in print and in scattered/incomplete or poorly-OCRed digital form, but not in a form that met this project's bar for a faithful, verbatim, book-and-chapter-aligned digital text. Rather than ship a low-quality or partial English text, the decision (confirmed with the maintainer) was to publish the Greek text on its own. A future contributor who locates a suitable source is welcome to add a companion data/physics-en/ work following the same Book -> Chapter shape defined in data/physics-grc/types.ts."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The printed source, per this XML file's own <teiHeader>/<sourceDesc>, is W. D. Ross, ed., Aristotle's Physics: A Revised Text with Introduction and Commentary (Oxford: Clarendon Press; this digitisation cites the 1960 imprint of the Oxford Classical Texts series, \"Scriptorum classicorum bibliotheca Oxoniensis\", of Ross's 1950 critical edition) - NOT Bekker's 1831/1837 Aristotelis Opera, which is the source used for this reader's Categories and De Interpretatione. This was discovered by direct inspection while building this importer (the task that commissioned it had assumed a Bekker source, by analogy with the other two works); see \"Known gaps & anomalies\" below for the full account.",
+        "Bekker's page/column numbers (e.g. \"184a\", \"184b\") remain present as marginal citations - they are the universal citation system for Aristotle and are printed in the margin of essentially every edition, including Ross's - and are captured here into each chapter's Division.ref. In the standard pagination this work occupies Bekker 184a10-267b26."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0086.tlg031.1st1K-grc1.xml (CTS urn:cts:greekLit:tlg0086.tlg031.1st1K-grc1) from the OpenGreekAndLatin / First1KGreek repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer slices the single <div type=\"edition\"> body into its 8 book <div>s, then each book into its chapter <div>s, then takes the <p> paragraph(s) inside each chapter (joined with a blank line if more than one) as that chapter's single Passage. Pure XML transport scaffolding is removed outright: the zero-width <lb n=\"N\"/> Bekker line markers, the zero-width <pb n=\"N\"/> page-image breaks, and each book's leading <head> running header/title.",
+        "Unlike the Bekker-sourced Categories/De Interpretatione files, this source carries a genuine apparatus criticus from Ross's edition: <add cause=\"fix\">...</add> (Ross's own addition/emendation, incorporated into his printed text and kept inline here), <del>...</del> / <del status=\"error\">...</del> (words Ross judged spurious and does not print - excluded here so the reading text matches what he actually prints; one exceptionally large deletion removes an entire paragraph of book-5-ch-6, individually flagged in anomalies.json), and a single <sic>...</sic> (text Ross prints as-is despite its oddity - kept inline). The source also wraps 172 short prose fragments in <lg><l>...</l></lg>; inspection showed these are not verse (see anomalies.json for the worked example) and are treated as ordinary prose, tags stripped, text kept.",
+        "<note type=\"marginal\">184a</note>-style Bekker page/column markers are captured, in document order, to build each chapter's Division.ref as a range (e.g. \"184a–187a\") and are removed from the reading prose itself (they are modern editorial page references, not part of Aristotle's own sentence). Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is Book, Chapter, plus the Bekker page/column range each chapter's Division.ref carries (built from the marginal markers actually present in that chapter, e.g. \"184a–187a\"). No printed sub-chapter/section numbering survives in this source, so Passage.n is \"\" and Passage.ref is null throughout; a Book division's own ref is null (it is a container - its Chapters already carry the citation)."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Every irregularity below is either preserved verbatim and flagged, or excluded with the exclusion explicitly documented; anomalies.json records the full machine-readable list.",
+        "Bibliographic correction. This file's printed source is W. D. Ross's 1950/1960 Oxford Classical Texts critical edition, not Bekker's 1831/1837 Aristotelis Opera as originally assumed when this import was commissioned (by analogy with Categories/De Interpretatione). Discovered by inspecting this file's own <teiHeader> directly. Bekker page/column numbers are still captured as citations (see \"Reference scheme\" above); the running Greek words are Ross's critical text.",
+        "Apparatus criticus resolved into a single reading text. Ross's <add cause=\"fix\"> (37 occurrences) are kept inline as printed; his <del> / <del status=\"error\"> (108 occurrences, ~4000 characters total) are excluded as not part of his printed text - one of them removes the ENTIRE second paragraph of book-5-ch-6 (1007 characters), by far the largest deletion in the source and individually quoted in anomalies.json; a single <sic> is kept inline as printed. <gap reason=\"omitted\"/> (3 occurrences) is always nested inside a removed <del> in this source and needed no separate handling.",
+        "<lg>/<l> apparatus (172 occurrences) is NOT verse in this text - it wraps short, ordinary prose fragments mid-clause. Read as a conversion artifact specific to this file; text is kept inline as continuous prose, tags stripped, nothing discarded. See anomalies.json for a worked example.",
+        "Completeness. All 8 books and all their chapters are present and in order (chapter counts: 9, 9, 8, 14, 6, 10, 5, 10 for Books I-VIII, matching the well-known canonical counts exactly), from the incipit \"Ἐπειθὴ τὸ εἰδέναι...\" to the explicit \"...ἀδιαίρετόν ἐστι καὶ ἀμερὲς καὶ οὐδὲν ἔχον μέγεθος.\" (Bekker 267b26).",
+        "Character encoding. The transcription uses the precomposed \"oxia\" polytonic code points (e.g. U+1F73 έ) rather than the canonically-equivalent monotonic \"tonos\" code points (U+03AD), matching the Categories/De Interpretatione Greek files already in this repo. The bytes are preserved exactly as transmitted; no normalisation was applied."
+      ]
+    }
+  ]
+}

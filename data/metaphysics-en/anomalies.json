@@ -1,0 +1,74 @@
+[
+  {
+    "where": "metaphysics-en / book-1",
+    "note": "Book-title line \"BOOK I (Α)\" (Wikisource page furniture, not Aristotle's text) skipped."
+  },
+  {
+    "where": "metaphysics-en / book-4",
+    "note": "Chapter 5 is entirely absent from this Wikisource subpage - no heading, no red-link stub, the content simply jumps from the previous chapter straight to the next present one. Not fabricated here."
+  },
+  {
+    "where": "metaphysics-en / book-5",
+    "note": "\"Chapter 18\" heading found embedded mid-paragraph (glued onto the end of the previous chapter's own <p> rather than starting its own) - split at that point rather than failing or merging the two chapters' text together."
+  },
+  {
+    "where": "metaphysics-en / book-7-ch-4",
+    "note": "Mid-sentence truncation: the source's own page-scan transclusion becomes a red link (\"page does not exist\") partway through this paragraph; nothing further in this book is imported. Last surviving words: \"se as well, if it has a name, there will be a formula of its meaning — viz. that this attribute belongs to this subject;\""
+  },
+  {
+    "where": "metaphysics-en / book-7",
+    "note": "Only 4 of this book's 17 standard chapters are present in this Wikisource source (through chapter 4, the last chapter cut off mid-sentence); the rest is not yet transcribed there. Not fabricated here."
+  },
+  {
+    "where": "metaphysics-en / book-8",
+    "note": "EXCLUDED ENTIRELY. Not transcribed on Wikisource as of this import: the page carries only red links to non-existent Page: scans (11 occurrences of \"(page does not exist)\"), with 0 chapters and effectively 0 chars of real prose (4 <p> elements total, all boilerplate/redlinks)."
+  },
+  {
+    "where": "metaphysics-en / book-9",
+    "note": "Book stops here: chapter 1 itself ends cleanly, but the very next block in the source is already an unproofread red link (\"page does not exist\") with no surviving text of its own; nothing further in this book is imported."
+  },
+  {
+    "where": "metaphysics-en / book-9",
+    "note": "Only 1 of this book's 10 standard chapters are present in this Wikisource source (through chapter 1); the rest is not yet transcribed there. Not fabricated here."
+  },
+  {
+    "where": "metaphysics-en / book-10",
+    "note": "EXCLUDED ENTIRELY. Wrong source for this import's purpose: this subpage's text is explicitly labelled \"Text derived from MIT classics page\" and structured with \"Part N\" headings, not the djvu page-scan transcription of Ross's 1908 print (no Bekker/page-scan markup at all) - excluded on provenance grounds even though it happens to have substantial text, since it cannot be verified against the specified page-scan source."
+  },
+  {
+    "where": "metaphysics-en / book-11",
+    "note": "EXCLUDED ENTIRELY. Not transcribed on Wikisource as of this import: almost entirely red links (27 occurrences of \"(page does not exist)\"), 0 usable chapters."
+  },
+  {
+    "where": "metaphysics-en / book-12",
+    "note": "EXCLUDED ENTIRELY. Fragmentary and unreliable: what little non-red-linked content exists starts mid-sentence with no Chapter 1/2 heading present at all, the first real heading found is \"CHAPTER III\", and the surrounding footnote-like text is garbled raw OCR (e.g. \"Digitized by VjOOQIC\" - a classic mis-OCR of \"Digitized by Google\" - and unreadable strings like \"navra xphv^oro. Jy 6ixov*^ wa vovs iKOoiV avta di€K6(rfirja'€v*\"), not proofread Wikisource prose. Excluded rather than risk shipping corrupted or discontinuous text as verbatim."
+  },
+  {
+    "where": "metaphysics-en / book-13",
+    "note": "Book-title line \"BOOK XIII (M)\" (Wikisource page furniture, not Aristotle's text) skipped."
+  },
+  {
+    "where": "metaphysics-en / book-13-ch-1",
+    "note": "Mid-sentence truncation: the source's own page-scan transclusion becomes a red link (\"page does not exist\") partway through this paragraph; nothing further in this book is imported. Last surviving words: \" of what we have to say has been repeatedly stated in popular works. And the greater part of our account must attack the\""
+  },
+  {
+    "where": "metaphysics-en / book-13",
+    "note": "Only 1 of this book's 10 standard chapters are present in this Wikisource source (through chapter 1, the last chapter cut off mid-sentence); the rest is not yet transcribed there. Not fabricated here."
+  },
+  {
+    "where": "metaphysics-en / book-14",
+    "note": "EXCLUDED ENTIRELY. Not transcribed on Wikisource as of this import: almost entirely red links (17 occurrences of \"(page does not exist)\"), 0 usable chapters."
+  },
+  {
+    "where": "metaphysics-en / footnotes stripped",
+    "note": "242 inline footnote markers (Ross's editorial annotation) were removed from the reading text across all included books; the footnotes themselves are translator/editorial apparatus, not Aristotle's text, and are not preserved anywhere in this build."
+  },
+  {
+    "where": "metaphysics-en / book-title lines skipped",
+    "note": "2 \"BOOK N (<letter>)\" page-furniture line(s) (Wikisource navigation text, not Aristotle's words) were skipped."
+  },
+  {
+    "where": "metaphysics-en / scope summary",
+    "note": "Of the 14 Wikisource \"Metaphysics (Ross, 1908)\" book subpages, 9 are included in this build (Books 1, 2, 3, 4, 5, 6, 7, 9, 13), covering 66 chapters total; 5 are excluded entirely (Books 8, 10, 11, 12, 14). See the per-book entries above for the individual reasons. The companion Greek edition (data/metaphysics-grc) is complete: all 14 books, 142 chapters."
+  }
+]

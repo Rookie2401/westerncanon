@@ -1,0 +1,49 @@
+{
+  "workId": "posterior-analytics-grc",
+  "title": "Posterior Analytics",
+  "author": "Aristotle",
+  "language": "grc",
+  "provenance": "Greek Wikisource, pages \"Αναλυτικών υστέρων/1\" and \"Αναλυτικών υστέρων/2\", fetched once each via the MediaWiki action=parse&prop=wikitext API; imported by scripts/import-aristotle-posterior-analytics-grc. The raw dumps are committed at scripts/import-aristotle-posterior-analytics-grc/raw/book1-wikisource.json and book2-wikisource.json.",
+  "license": "Aristotle's Greek text is itself in the public domain (4th century BC). The digital transcription is taken from Greek Wikisource and is available under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Aristotle’s Posterior Analytics — Greek",
+      "paragraphs": [
+        "This is Aristotle’s Posterior Analytics (Ἀναλυτικῶν Ὑστέρων) in the original Greek. The treatise, in two books, sets out Aristotle’s theory of scientific demonstration and knowledge (ἐπιστήμη): Book 1 develops the formal requirements a demonstrative syllogism must meet to yield knowledge of a thing’s cause, and Book 2 turns to definition and to how the first, indemonstrable principles of a science are themselves known (culminating in the account of νοῦς, intuitive understanding, in its final chapter).",
+        "The text here is the Greek, verbatim. Nothing is translated, modernised, normalised, or silently corrected. Where the source is irregular — including its own editorial square-bracket marks — the irregularity is preserved and noted; see “Known gaps & anomalies” below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Greek Wikisource does not record which printed edition its transcription of \"Αναλυτικών υστέρων\" follows — no editor, editio, or year is named on either source page. This is a genuine provenance gap: the companion Categories/De Interpretatione Greek texts bundled in this app are sourced from the First1KGreek TEI, which does cite Bekker 1837 explicitly, but that is not the case here. The transcription’s own {{χ|...}} Bekker-page templates, and the fact that the work’s real Bekker range (71a–100b17) matches the marker values found, make a Bekker-descended text plausible, but no specific edition or editor is asserted — see also data/categoriae-la/about.json’s own \"unlabeled edition\" disclosure for the same situation in this repo’s Latin Aristotle text.",
+        "The work is divided into its two traditional books (34 chapters in Book 1, 19 in Book 2)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the wikitext of the Greek Wikisource pages \"Αναλυτικών υστέρων/1\" and \"Αναλυτικών υστέρων/2\", retrieved once each through the MediaWiki action=parse&prop=wikitext API and committed under the importer’s raw/ directory. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer strips only wiki-transport scaffolding — the {{Κεφαλίδα|...}} front-matter header (title/author/prev-next-book links) and the trailing [[en:...]] interwiki link — then splits each page’s body at its \"== Κεφάλαιο N ==\" chapter headings. Each chapter’s prose becomes a single Passage (the source prints no paragraph numbers, so Passage.n is \"\" throughout). Entities are decoded and runs of whitespace collapsed; the words, spelling, and punctuation — including the source’s own editorial square-bracket marks — are otherwise untouched.",
+        "Each chapter’s Bekker page/column reference is reconstructed from the source’s own inline {{χ|71a}}-style markers once their values are captured, then the marker templates themselves are removed from the reading text (their content — the Bekker label — is transport-page apparatus, not part of Aristotle’s sentence). See \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by chapter, with each chapter also carrying a Bekker page/column reference (e.g. \"71a\" or, for a chapter spanning two pages/columns, \"71a–71b\") reconstructed from the source’s inline markers. Because the source marks only page/column boundaries — never line numbers — no line-level precision is available or fabricated; Passage.ref is null throughout. The two source pages are numbered continuously in the real Bekker pagination, so Book 2’s reconstruction is seeded with Book 1’s own final position (89b) rather than restarting at null."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full machine-readable list. In summary: (1) no source edition is named by Greek Wikisource for this work (see \"The edition\" above); (2) a number of passages carry editorial square-bracket marks already present in the transcription (apparent text-critical annotation), kept 100% verbatim and flagged per-passage; (3) a handful of chapters carry no Bekker marker of their own and so inherit their ref from the previous chapter’s end position, by design (see \"Reference scheme\")."
+      ]
+    }
+  ]
+}

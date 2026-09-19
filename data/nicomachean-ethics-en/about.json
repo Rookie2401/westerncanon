@@ -1,0 +1,54 @@
+{
+  "workId": "nicomachean-ethics-en",
+  "title": "The Nicomachean Ethics",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "Harris Rackham",
+  "edition": "Loeb Classical Library, 1926 printing",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0086.tlg010.perseus-eng2), which digitises Harris Rackham’s translation \"The Nicomachean Ethics\" (London: William Heinemann; New York: G. P. Putnam’s Sons, 1926 Loeb Classical Library); imported by scripts/import-aristotle-nicomachean-ethics-en.",
+  "license": "Rackham’s 1926 translation is in the public domain (published well over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Aristotle’s Nicomachean Ethics — English, trans. Rackham",
+      "paragraphs": [
+        "This is Aristotle’s Nicomachean Ethics in the English translation made by Harris Rackham for the Loeb Classical Library, first published in 1926. It stands alongside the Greek text (Bywater 1894) already in this library as a facing English rendering of the same ten-book treatise.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Rackham’s own footnotes (translator’s commentary and source citations, not part of the translated running text) are excluded - see \"How it was imported\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Harris Rackham, trans., \"The Nicomachean Ethics\", Loeb Classical Library (London: William Heinemann; New York: G. P. Putnam’s Sons, 1926). This translation is in the public domain.",
+        "The work is divided into 10 Books and, within each Book, numbered chapters (116 in this edition, matching the Greek sibling chapter-for-chapter - including 14 chapters each in Books VII and VIII, not the 15 / 16 sometimes cited elsewhere; see \"Known gaps & anomalies\"). This source prints Bekker page/line milestones inline throughout, so citation here is by Bekker page range as well as by chapter; see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0086.tlg010.perseus-eng2.xml (CTS urn:cts:greekLit:tlg0086.tlg010.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and chapter (Perseus’s own \"section\") <div>s and collects every <p> paragraph found anywhere under each chapter div - including inside the extra Rackham-sub-numbering \"subsection\" divs this witness nests between chapter and paragraph (see the importer’s module doc) - in document order, into that chapter’s single Passage (joined with a blank line when a chapter has more than one paragraph). XML transport scaffolding only is removed: the inline Bekker <milestone> markers (their \"page\" values instead seed each chapter’s Division.ref) and purely typographic wrapper tags (<quote>/<lg>/<l> verse quotations, <foreign>, <q>, <title>, <emph>, <placeName>, the rare self-closing <lb/>) are unwrapped, their text flowing into the surrounding prose. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched.",
+        "696 <note resp=\"Rackham\"> footnotes - Rackham’s own translator’s commentary, cross-references (e.g. \"see 3.7.6\") and citations for quoted verse - are embedded as full inline content in this TEI (not merely a marker), so they are excluded from the reading text entirely, tag and content; they are apparatus, not Aristotle’s (translated) text, mirroring how this library already treats a Loeb translator’s footnotes and a Perseus editorial aside elsewhere."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter, plus the Bekker page range each chapter covers (e.g. \"1094a–1095a\"), reconstructed from this source’s own inline Bekker page milestones - the same scheme as the Greek sibling. A chapter’s Division.ref is the first–last page value the source prints within that chapter, in document order. Passage.ref is null throughout: no Bekker marker is printed at the per-paragraph level, only per-page. Passage.n is also always empty: Rackham’s own paragraph sub-numbering (the \"subsection\" divs, e.g. \"1.1.1\") is not preserved in this two-level schema - see \"How it was imported\"."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 10 Books and all 116 chapters are present and in order, matching the Greek sibling exactly, chapter-for-chapter. No paragraph is dropped, merged or reordered except for the rare paragraph that cleans to empty text; the bundled TEI file is identical to the current Perseus canonical-greekLit release.",
+        "Chapter counts in Books VII and VIII. Like the Greek sibling, this edition’s own chapter division gives Book VII 14 chapters and Book VIII 14 chapters, not the 15 / 16 sometimes cited in secondary literature - confirmed genuine on both witnesses independently, not a parsing error.",
+        "Extra subsection level. Unlike the Greek TEI, this English witness nests an extra <div subtype=\"subsection\"> level (Rackham’s own paragraph sub-numbering) between chapter and paragraph. It is read straight through - every paragraph under a chapter, at any subsection depth, becomes part of that chapter’s single Passage - since this app’s Book->Chapter schema has no field for a third tier here.",
+        "Footnotes. 696 <note resp=\"Rackham\"> footnotes (translator’s commentary, cross-references, verse citations) were excluded entirely; they are Rackham’s apparatus, not his translated running text."
+      ]
+    }
+  ]
+}

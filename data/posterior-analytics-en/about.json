@@ -1,0 +1,51 @@
+{
+  "workId": "posterior-analytics-en",
+  "title": "Posterior Analytics",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "E. S. Bouchier",
+  "edition": "E. S. Bouchier, Aristotle’s Posterior Analytics (Oxford: Blackwell, 1901)",
+  "provenance": "English Wikisource, \"Posterior Analytics (Bouchier)\", one wiki page per chapter (54 pages total: Book I Chapters I-XXXIV, Book II Chapters I-XIX, and a further \"Book II/Appendix\" page holding Chapters XXIII-XXIV), fetched via the MediaWiki action=parse&prop=wikitext API (page list discovered via action=query&list=prefixsearch); imported by scripts/import-aristotle-posterior-analytics-en. The raw dump is committed at scripts/import-aristotle-posterior-analytics-en/raw/wikisource.json (plus pagelist.json for the page-discovery response).",
+  "license": "Bouchier’s translation is in the public domain (published 1901, well over 120 years ago). The digital transcription is taken from English Wikisource and is available under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Aristotle’s Posterior Analytics — trans. E. S. Bouchier",
+      "paragraphs": [
+        "This is Aristotle’s Posterior Analytics in the English translation made by E. S. Bouchier, published in 1901. In two books, the treatise sets out Aristotle’s theory of scientific demonstration and knowledge: Book I develops the formal requirements a demonstrative syllogism must meet to yield knowledge of a thing’s cause, and Book II turns to definition and to how the first, indemonstrable principles of a science are themselves known.",
+        "The text here is Bouchier’s English, verbatim. Nothing is modernised, paraphrased, or silently corrected. Each chapter also carries Bouchier’s own one-paragraph italicised \"argument\" (summary), kept as the opening paragraph of that chapter’s reading text — it is his own genuine prose, not source apparatus."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The translation is E. S. Bouchier’s (1901). Every one of its chapters carries a genuine, informative printed title (e.g. \"Whether a Demonstrative Science exists\" for Book I, Chapter I), captured verbatim as that chapter’s editorialTitle.",
+        "Book II’s last two chapters, numbered XXIII (\"On Induction\") and XXIV (\"On Example\"), are printed on a separate Wikisource page titled \"Book II/Appendix\" rather than continuing the ordinary \"Chapter N\" page series — Bouchier’s own numbering jumps from Chapter XIX directly to XXIII; Chapters XX-XXII do not exist in this translation. Both are imported as ordinary numbered chapters (see \"Known gaps & anomalies\" below)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the wikitext of the 54 English Wikisource pages under \"Posterior Analytics (Bouchier)\" (one per chapter, plus the Book II Appendix page), retrieved via the MediaWiki action=parse&prop=wikitext API and committed under the importer’s raw/ directory. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer strips only wiki/HTML transport scaffolding: the {{header ...}} front-matter template on every page, and — on the 8 pages that carry them — the inline <ref>...</ref> footnote markers plus the trailing \"===Notes===\" / <references /> apparatus (Bouchier’s own scholarly notes, not Aristotle’s text). Each chapter’s italicised \":''...''\" argument paragraph has its leading \":\" list marker and \"''\" italic markers stripped (the words are untouched) and becomes the first paragraph of that chapter’s Passage.text, joined with the body paragraphs by \"\\n\\n\". Entities are decoded and runs of whitespace collapsed.",
+        "Chapter numbers are Bouchier’s own (converted from his printed roman numerals to plain arabic strings for the Division.number/id fields); chapter titles are his own printed titles, verbatim."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by Book/Chapter (plus Bouchier’s own chapter title). This source carries no Bekker page/column/line markers anywhere — unlike the Greek sibling data/posterior-analytics-grc/ — so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full machine-readable list. In summary: (1) Book II Chapters \"XXIII\" and \"XXIV\" are sourced from a separate \"Appendix\" Wikisource page and imported as ordinary numbered chapters (book-2-ch-23, book-2-ch-24) rather than as a generic \"Appendix\" division, to preserve Bouchier’s own specific chapter titles; (2) Bouchier’s scholarly footnotes on 8 pages are dropped as translator apparatus, each occurrence logged; (3) no Bekker or other physical reference markers exist in this source at all."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "workId": "metaphysics-en",
+  "title": "Metaphysics",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "William David Ross",
+  "edition": "Metaphysics, trans. W. D. Ross (1908)",
+  "provenance": "English Wikisource, \"Metaphysics (Ross, 1908)\" (14 book subpages), fetched once per book via the MediaWiki action=parse&prop=text API (a page-scan transclusion: action=parse&prop=wikitext returns only <pages/> markup, not the text itself, so the rendered HTML was fetched and parsed instead); imported by scripts/import-aristotle-metaphysics-en. The raw per-book dumps are committed under scripts/import-aristotle-metaphysics-en/raw/.",
+  "license": "Ross's 1908 translation is in the public domain (published before 1929; Ross died in 1971, so the translation is also public domain in life-plus-50/60/70-year jurisdictions). The digital transcription and page-scan proofreading are distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Aristotle's Metaphysics — English, trans. Ross",
+      "paragraphs": [
+        "This is Aristotle's Metaphysics in the English translation made by William David Ross, first published in 1908 - sixteen years before the SAME Ross edited the Greek critical text that stands alongside it in this library (data/metaphysics-grc): this is his own established Greek text, translated into English by his own hand, well before he became the series general editor of the Oxford \"Works of Aristotle\" translations (for which Categories and De Interpretatione were translated by Ella Mary Edghill, already in this library).",
+        "The text here is the translation, verbatim. Nothing is modernised, paraphrased or silently corrected. Where the underlying page-scan transcription genuinely stops - mid-sentence, in two places - the cutoff is preserved exactly as far as it goes and flagged, never completed or guessed at."
+      ]
+    },
+    {
+      "heading": "IMPORTANT: this edition is INCOMPLETE, not by this app's choice",
+      "paragraphs": [
+        "Unlike every other bundled edition in this library, this one does not cover the whole work. English Wikisource's \"Metaphysics (Ross, 1908)\" project is, as of this import (2026-09-19), unfinished - its own page banner says \"This work is incomplete. If you'd like to help expand it...\" - and the gap is large: of the work's 14 books, only 9 are represented here at all (Books 1–7, 9, 13), and several of those are themselves partial (Book 4 is missing its Chapter 5 entirely with no trace in the source; Book 7 has only its first 4 of 17 chapters, the last one cut off mid-sentence; Book 9 has only its first of 10 chapters; Book 13 has only its first of 10 chapters, also cut off mid-sentence). Books 8, 11 and 14 are not transcribed at all (their page-scan transclusions resolve to nothing but red links). Book 12's surviving fragments are too discontinuous and OCR-garbled to include reliably. Book 10, unusually, DOES have substantial text on Wikisource, but it turns out to be a plaintext copy from the MIT Classics website (not the page-scan transcription this import specifically sources from, and headed \"Part N\" rather than \"Chapter N\") - excluded here on provenance grounds rather than mixed in as if it were the same kind of source as the rest.",
+        "None of this is fabricated, summarised, or filled in from another translation to paper over the gap - every chapter present here is verbatim Ross, verified against the actual page-scan transcription. See anomalies.json for the complete, book-by-book account, and data/metaphysics-grc (the Greek edition, which IS complete - all 14 books, 142 chapters) for the full text of the books not yet available here in English."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the RENDERED HTML of each included English Wikisource \"Metaphysics (Ross, 1908)/Book N\" subpage, fetched once through the MediaWiki action=parse&prop=text API and committed under the importer's raw/ directory (all 14 subpages were fetched and inspected, including the excluded ones, to reach the scope decision above). Like this library's other page-scan Wikisource imports, action=parse&prop=wikitext for these pages returns only <pages index=\"...\" from=X to=Y/> transclusion markup, not the assembled text, so the already-rendered HTML was fetched and parsed with jsdom instead. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Unlike Categories/De Interpretatione's Edghill translation (which marks every chapter the same way), this source uses up to four different, sometimes mixed-within-a-book chapter-heading representations - a modern MediaWiki auto-heading, an older roman-numeral anchor template, a bare bold span with no id, and even one lone unstyled \"CHAPTER I\" text line - all individually identified and handled; see scripts/import-aristotle-metaphysics-en/parseRoss1908.ts's doc comment for the full census. Ordinary paragraphs become passages; wiki/HTML transport scaffolding only is removed (per-template <style>/<link> resets, page-number scan markers, edit-section links, and inline footnote-reference markers, which are counted and stripped - the footnotes themselves are editorial apparatus and are not preserved, matching this library's other English translations). Where a paragraph's own transcription crosses into an unproofread, red-linked page scan mid-sentence, only the surviving prefix is kept (flagged via that Passage's own `anomaly` field) and nothing further in that book is imported."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by book and chapter, plus a Bekker page reference where the source happens to print one: unlike Categories/De Interpretatione's Edghill translation (which prints Bekker markers throughout), this source carries them (via the same inline page/column-anchor convention) only in Book 1 - every other included book carries none, so Division.ref is null for their chapters. Passage.ref is null throughout (no marker is printed at every paragraph break in Book 1 either)."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See \"IMPORTANT: this edition is INCOMPLETE\" above for the headline account, and anomalies.json for the complete machine-readable log: every excluded book with its specific reason, every gap within an included book, both mid-sentence truncations with their exact last surviving words, every footnote marker and book-title line stripped, and (Book 1 only) the Bekker reference scheme.",
+        "A word on trust: this source's own community-proofreading status is separately incomplete even for the parts that DO have text - Wikisource's validation process is ongoing - so isolated OCR/transcription slips are possible in the included chapters despite this importer's own care; that is a disclosed limitation of the source, not something silently papered over."
+      ]
+    }
+  ]
+}

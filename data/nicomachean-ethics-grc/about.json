@@ -1,0 +1,55 @@
+{
+  "workId": "nicomachean-ethics-grc",
+  "title": "Ἠθικὰ Νικομάχεια",
+  "author": "Aristotle",
+  "language": "grc",
+  "edition": "Bywater 1894",
+  "editor": "Ingram Bywater",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0086.tlg010.perseus-grc2), which digitises the text of Aristotle’s Ἠθικὰ Νικομάχεια as printed in Ingram Bywater, ed., Aristotelis Ethica Nicomachea (Oxford: Clarendon Press, 1894); imported by scripts/import-aristotle-nicomachean-ethics-grc.",
+  "license": "Bywater’s 1894 Greek text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Aristotle’s Nicomachean Ethics",
+      "paragraphs": [
+        "This is the Greek text of Aristotle’s Ἠθικὰ Νικομάχεια (Ethica Nicomachea), his major surviving work on ethics, in ten books - named, on the traditional (if uncertain) account, for either his father or his son Nicomachus.",
+        "The text here is the original Greek, verbatim. Nothing is translated, modernised, normalised or silently corrected. Where the source is irregular - a bracketed interpolation, an editorial insertion, a marked manuscript gap - the irregularity is preserved and noted below; it never affects the reading text itself beyond the documented exclusions."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Ingram Bywater, ed., Aristotelis Ethica Nicomachea (Oxford: Clarendon Press, 1894), the standard Oxford Classical Text of the Greek. This edition is in the public domain. Bekker’s page/column/line numbers (e.g. \"1094a1\"), carried over from Immanuel Bekker’s 1831 Prussian Academy edition, remain the standard way of citing Aristotle across all editions and translations.",
+        "The work is divided into 10 Books and, within each Book, numbered chapters (116 in this edition’s own division). Book VII parses to 14 chapters and Book VIII to 14 chapters in this edition, not the 15 / 16 sometimes cited elsewhere - see \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0086.tlg010.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0086.tlg010.perseus-grc2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and chapter (Perseus’s own \"section\") <div>s and collects every <p> paragraph within each chapter, in document order, into that chapter’s single Passage (joined with a blank line when a chapter has more than one paragraph). XML transport scaffolding only is removed: the inline Bekker <milestone> markers (their \"page\" values instead seed each chapter’s Division.ref), and the <quote>/<lg>/<l> verse-quotation wrapper tags (their text - Aristotle’s quotations of Homer, Hesiod, Theognis, Euripides, and the Delos inscription - flows into the surrounding prose like any other text). Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched.",
+        "Perseus’s own added citation glosses (<note resp=\"Perseus\">, identifying the poet/work of each quoted verse passage - not part of Bywater’s text) are dropped entirely. Bywater’s own critical apparatus is handled the same way this app already treats it in Euclid: text his apparatus brackets as a probable interpolation (<del>) is excluded from the reading text; a genuine editorial insertion he prints (<add>) is kept; a marked manuscript gap or quotation ellipsis (<gap>) is kept as its literal printed rendering. Every occurrence of all three is logged individually in anomalies.json."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter, plus the Bekker page range each chapter covers (e.g. \"1094a–1095a\"), reconstructed from this source’s own inline Bekker page milestones. A chapter’s Division.ref is the first–last page value the source prints within that chapter, in document order - precise to the nearest printed page marker, never fabricated to the exact line. Passage.ref is null throughout: no Bekker marker is printed at the per-paragraph level, only per-page."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 10 Books and all 116 chapters of this edition are present and in order. No paragraph is dropped, merged or reordered except where documented below; the bundled TEI file is identical to the current Perseus canonical-greekLit release.",
+        "Chapter counts in Books VII and VIII. This edition’s own chapter division gives Book VII 14 chapters and Book VIII 14 chapters, not the 15 / 16 sometimes cited in secondary literature for the Nicomachean Ethics. This was verified directly against the source XML (not assumed) and the English sibling edition (Rackham/Perseus) agrees chapter-for-chapter with this Greek one; it is not a parsing error on either side, simply this edition’s own numbering.",
+        "Bywater’s critical apparatus. 49 <del> spans (text Bywater’s apparatus brackets as a probable interpolation or gloss) are excluded from the reading text; 29 <add> spans (a genuine editorial insertion he prints) are kept; 5 <gap> markers (manuscript lacunae or quotation ellipses) are kept as their literal printed rendering (\". . .\" or \" * * \"). Every occurrence of all three is logged individually in anomalies.json.",
+        "Perseus citation glosses. 16 <note resp=\"Perseus\"> elements - short citations identifying the poet/work of a quoted verse passage (e.g. \"Hes. WD 293ff.\") - are Perseus’s own added apparatus, not Bywater’s text; dropped entirely rather than shown inline.",
+        "Character encoding. The transcription uses precomposed polytonic Greek code points. The bytes are preserved exactly as transmitted; no normalisation was applied."
+      ]
+    }
+  ]
+}

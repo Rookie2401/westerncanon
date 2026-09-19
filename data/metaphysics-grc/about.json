@@ -1,0 +1,50 @@
+{
+  "workId": "metaphysics-grc",
+  "title": "Metaphysics",
+  "author": "Aristotle",
+  "language": "grc",
+  "editor": "William David Ross",
+  "edition": "Aristotle's Metaphysics, ed. W. D. Ross, 2 vols. (Oxford: Clarendon Press, 1924)",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0086.tlg025.perseus-grc2), which digitises the text of Ross's 1924 Oxford Classical Text; imported by scripts/import-aristotle-metaphysics-grc. The raw file is committed at scripts/import-aristotle-metaphysics-grc/raw/tlg0086.tlg025.perseus-grc2.xml.",
+  "license": "Ross's 1924 edition of the Greek text is in the public domain. The digital transcription is distributed by Perseus/Open Greek and Latin under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Aristotle's Metaphysics",
+      "paragraphs": [
+        "This is the Greek text of Aristotle's τὰ μετὰ τὰ φυσικά (Metaphysics), in fourteen books, in the edition of William David Ross - the same scholar whose 1908 English translation stands alongside it in this library (see data/metaphysics-en/about.json).",
+        "The text here is the original Greek, verbatim. Nothing is translated, modernised, normalised or silently corrected. Two kinds of editorial mark in Ross's own critical text are preserved as printed: words he judged spurious/interpolated are printed in the OCT bracketed as deletions (<del> in this digital source) and are EXCLUDED from the reading text here, matching this library's established convention for editorially-deleted text (see Euclid's Elements); his own conjectural insertions (<add>) are KEPT, also matching that convention. Every individual occurrence of both is logged in anomalies.json."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "William David Ross, ed., Aristotle's Metaphysics, 2 vols. (Oxford: Clarendon Press, 1924) - the Oxford Classical Text. This edition is in the public domain. Bekker's page/column/line numbers (e.g. \"980a1\") are the standard way of citing Aristotle; this work spans Bekker 980a1–1093b29 in the standard pagination."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0086.tlg025.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0086.tlg025.perseus-grc2) from the Perseus Digital Library / Open Greek and Latin canonical-greekLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer slices the TEI body into its 14 book <div>s, then each book into its \"section\" <div>s (Perseus's own attribute name for what this app treats as Aristotle's chapter numbering - 142 in total), then takes the <p> paragraphs inside each chapter as the passages. Self-closing <milestone> markers (Bekker page and line positions) carry no text and are stripped as scaffolding; the unit=\"page\" ones are used, in document order, to build each chapter's Division.ref as a page range. <del> (editorially deleted text) is excluded from the reading text; <add> (editorial insertions) is kept; <bibl> (modern fragment citations added by the TEI encoder, not Aristotle's words) is excluded; <quote> and <l> (genuine quotations of other authors, some verse) are unwrapped, keeping their words as ordinary reading prose; one <gap> (a printed ellipsis inside a quoted verse fragment) is kept as its literal printed text. Every occurrence of all of these except plain milestones is logged individually in anomalies.json."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by book, chapter, and Bekker page range. Each chapter's Division.ref is built from the unit=\"page\" Bekker milestones that fall inside that chapter's own paragraphs, in document order: a single value if only one page-marker falls inside the chapter (e.g. \"1028a\"), or \"<first>–<last>\" if more than one (e.g. \"980a–981a\"). No Bekker LINE-level reference is attempted for any Passage (the source prints line milestones roughly every 5 lines, not at every paragraph break, so no per-passage line reference is fabricated) - Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "All 14 books and 142 chapters are present and in order, from the incipit to the end of Book 14. See anomalies.json for the complete, individually-logged account of every <del>, <add>, <bibl> and <gap> occurrence, plus any chapter where no Bekker page marker could be attributed (Division.ref null).",
+        "This Greek edition is COMPLETE; the companion English edition (data/metaphysics-en) is not - it carries only the books/chapters actually available in its Wikisource source as of this import. See data/metaphysics-en/about.json for the full account of that gap."
+      ]
+    }
+  ]
+}

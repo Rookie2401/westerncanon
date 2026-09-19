@@ -102,6 +102,13 @@ const GENERIC_DIRS = [
   'plato-laws-en',
   'plato-republic-grc',
   'plato-republic-en',
+  'physics-grc',
+  'metaphysics-grc',
+  'metaphysics-en',
+  'posterior-analytics-grc',
+  'posterior-analytics-en',
+  'nicomachean-ethics-grc',
+  'nicomachean-ethics-en',
 ];
 const GENERIC_FILES = ['work.json', 'about.json'];
 

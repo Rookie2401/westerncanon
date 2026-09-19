@@ -1,0 +1,782 @@
+[
+  {
+    "where": "metaphysics-grc / book-1-ch-1",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἢ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τοῖς μήπω τεθεωρηκόσι τὴν αἰτίαν\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-2",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"περὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-2",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τοῖς μήπω τεθεωρηκόσι τὴν αἰτίαν\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-3",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τῶν ποιητῶν\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-4",
+    "note": "<bibl> editorial fragment citation excluded from the reading text (not Aristotle's own words - a modern citation added by the TEI encoder): \"Parmenides Fr. 13 (Diels)\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-4",
+    "note": "<bibl> editorial fragment citation excluded from the reading text (not Aristotle's own words - a modern citation added by the TEI encoder): \"Hes. Th. 116-20\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-4",
+    "note": "<gap reason=\"ellipsis\"> inside a quoted verse fragment - the edition itself prints an ellipsis here; kept as the literal printed text \" . . . \", not silently dropped."
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ τῶν κακῶν τὸ κακόν\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἐγένετο τὴν ἡλικίαν\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἐπὶ γέροντι Πυθαγόρᾳ,\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"δὲ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ τὸ ἓν\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τὰ εἴδη\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-9",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"οἱ λέγοντες εἴδη\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-9",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ὁ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-9",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-10",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ τὸ πρῶτον\""
+  },
+  {
+    "where": "metaphysics-grc / book-2-ch-2",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ὃ\""
+  },
+  {
+    "where": "metaphysics-grc / book-2-ch-3",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ εἰ μιᾶς ἐπιστήμης ἢ πλειόνων τὰ αἴτια καὶ τὰς ἀρχὰς θεωρῆσαί ἐστιν\""
+  },
+  {
+    "where": "metaphysics-grc / book-3-ch-4",
+    "note": "<bibl> editorial fragment citation excluded from the reading text (not Aristotle's own words - a modern citation added by the TEI encoder): \"Empedocles Fr. 21.9-12\""
+  },
+  {
+    "where": "metaphysics-grc / book-3-ch-4",
+    "note": "<bibl> editorial fragment citation excluded from the reading text (not Aristotle's own words - a modern citation added by the TEI encoder): \"Empedocles Fr. 36.7\""
+  },
+  {
+    "where": "metaphysics-grc / book-3-ch-4",
+    "note": "<bibl> editorial fragment citation excluded from the reading text (not Aristotle's own words - a modern citation added by the TEI encoder): \"Empedocles Fr. 109\""
+  },
+  {
+    "where": "metaphysics-grc / book-3-ch-4",
+    "note": "<bibl> editorial fragment citation excluded from the reading text (not Aristotle's own words - a modern citation added by the TEI encoder): \"Empedocles Fr. 30\""
+  },
+  {
+    "where": "metaphysics-grc / book-3-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ οὕτως\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ τὸ ἕν\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τῷ δʼ ἑνὶ πλῆθος ἀντίκειται\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ὅπερ ἐν ταῖς ἀπορίαις ἐλέχθη\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-2",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"γὰρ\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ διὰ τοῦτο\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ὥστε οὐκ ἂν πᾶν οὕτως καὶ οὐχ οὕτως ἔχοι\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τεθείη\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἄνθρωπον\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-4",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τότε\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-4",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"παντὸς\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-5",
+    "note": "<bibl> editorial fragment citation excluded from the reading text (not Aristotle's own words - a modern citation added by the TEI encoder): \"Empedocles Fr. 106\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-5",
+    "note": "<bibl> editorial fragment citation excluded from the reading text (not Aristotle's own words - a modern citation added by the TEI encoder): \"Empedocles Fr. 108\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-5",
+    "note": "<bibl> editorial fragment citation excluded from the reading text (not Aristotle's own words - a modern citation added by the TEI encoder): \"Parmenides Fr. 16\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ὄν\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"περὶ τῶν αὐτῶν\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-5",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"δʼ\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-5",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"εἰ\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-5",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"μὴ\""
+  },
+  {
+    "where": "metaphysics-grc / book-4-ch-8",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ὃ\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-4",
+    "note": "<bibl> editorial fragment citation excluded from the reading text (not Aristotle's own words - a modern citation added by the TEI encoder): \"Empedocles Fr. 8\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τί ἦν εἶναι\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-6",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"Κορίσκος\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-7",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τὸ\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-11",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"εἶναι\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-12",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"εἰ δὲ μὴ\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-12",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ὁμωνύμως\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-12",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἀσύμμετρον εἶναι\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-12",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"εἶναι\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-12",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"μίαν\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-12",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"εἰ δὲ μή, ὁμωνύμως\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-14",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τὸ\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-16",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ὄν\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-22",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"πεφυκός\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-22",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"πεφυκὸς\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-22",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"α\""
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-30",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ὡς\""
+  },
+  {
+    "where": "metaphysics-grc / book-6-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἐνίοτε\""
+  },
+  {
+    "where": "metaphysics-grc / book-6-ch-3",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"νόσῳ ἢ\""
+  },
+  {
+    "where": "metaphysics-grc / book-6-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"φανερὸν δʼ ἐν οἷς διωρισάμεθα περὶ τοῦ ποσαχῶς λέγεται ἕκαστον, ὅτι πολλαχῶς λέγεται τὸ ὄν.\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τί ἦν λευκῷ ἀνθρώπῳ\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἢ\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-4",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἵππῳ\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-6",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-7",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"οὐ ξύλον,\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-9",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἢ ἐκ μέρους\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-9",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τὴν ὑγίειαν\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-9",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"θερμότης\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-10",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ὁ\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-10",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"καὶ τῆς ὕλης\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-11",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τε\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-11",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-11",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"δὶς γὰρ ἐν τούτοις ὑπάρξει ἡ ῥίς\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-11",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"εἰ\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-17",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἂν\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-17",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-17",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τί\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-17",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"βα\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-17",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"β\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-17",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"α\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-17",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"α\""
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-17",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"β\""
+  },
+  {
+    "where": "metaphysics-grc / book-8-ch-3",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ὅτι\""
+  },
+  {
+    "where": "metaphysics-grc / book-8-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἐστι πρώτη ὕλη\""
+  },
+  {
+    "where": "metaphysics-grc / book-8-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"εἶναί\""
+  },
+  {
+    "where": "metaphysics-grc / book-8-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ψυχῆς\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-1",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τοῦ\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἀνάγκη\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ποιεῖν\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-6",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"αὐτό\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἡ\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-6",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ᾗ\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-6",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"καὶ ἑώρακε,\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-6",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"καὶ πεφρόνηκε,\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-6",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"δεῖ\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-7",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"πεσεῖν\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-8",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"γίγνεται· ἐν ταὐτῷ γὰρ\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-10",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"κυριώτατα ὂν\""
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-10",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "metaphysics-grc / book-10-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"πῶς\""
+  },
+  {
+    "where": "metaphysics-grc / book-10-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τοῦτο δʼ ἐστὶ στέρησις φωτός\""
+  },
+  {
+    "where": "metaphysics-grc / book-10-ch-2",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τῷ εἶναι\""
+  },
+  {
+    "where": "metaphysics-grc / book-10-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τὸ\""
+  },
+  {
+    "where": "metaphysics-grc / book-10-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ τὸ μετρητόν\""
+  },
+  {
+    "where": "metaphysics-grc / book-10-ch-7",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἥξει\""
+  },
+  {
+    "where": "metaphysics-grc / book-10-ch-9",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τοῦ\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-1",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἀπόδειξίς ἐστιν\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἢ\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-5",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"νῦν δὲ γεγενημένον μὴ λευκόν\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"μὴ\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-8",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"οὐδὲ μουσικὸν καὶ γραμματικόν,\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-8",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ὡς\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-9",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"μὴ\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-11",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τι\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-12",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἢ\""
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-12",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"μὴ κινούμενον\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-1",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἡ δʼ ἀΐδιος\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-2",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-3",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"οἷον πῦρ σὰρξ κεφαλή· ἅπαντα γὰρ ὕλη ἐστί, καὶ τῆς μάλιστʼ οὐσίας ἡ τελευταία\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ εἰς ταῦτα διαιρεῖται ἡ ἀρχή\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-5",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ἐνίων\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-6",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"εἰ\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-6",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-7",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-7",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἡ\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-7",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-8",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τοῦτʼ ἔστι τῶν ἀποστημάτων τὴν τάξιν\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-8",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ τὰς αἰσθητὰς\""
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-10",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"οἱ\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-2",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τῶν\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-2",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-2",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-3",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τὸ δυνατόν\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-3",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ᾗ\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-4",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τι\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τοῖς\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-7",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἡ\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-7",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ἄτοπά\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-8",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ἡ\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-9",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"μόρια\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-9",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ὡς οὐσίας\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-9",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"οὐσίας\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-10",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ἄλλων\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-10",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ ἰδέας\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-10",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τοῦ\""
+  },
+  {
+    "where": "metaphysics-grc / book-13-ch-10",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-1",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τῷ ἴσῳ\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-1",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τῶν κατηγοριῶν\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-1",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-1",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ὅτι\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τὸ\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-2",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"εἶναι\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-2",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"εἶναι\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-3",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"τὸ\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-3",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"γὰρ\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-3",
+    "note": "<add> editorial insertion (Ross's own conjecture) kept verbatim in the reading text: \"τῷ\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-4",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"καὶ\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-5",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"ὁ\""
+  },
+  {
+    "where": "metaphysics-grc / book-14-ch-6",
+    "note": "<del> excluded from the reading text (editorially judged spurious/interpolated by Ross): \"νεάτην\""
+  },
+  {
+    "where": "metaphysics-grc / book-1-ch-10",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-8",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-13",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-17",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-18",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-20",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-21",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-23",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-25",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-27",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-5-ch-30",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-7-ch-2",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-4",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-9-ch-9",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-11-ch-4",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / book-12-ch-2",
+    "note": "no Bekker page marker falls inside this chapter (Division.ref is null) - flagged as an anomaly rather than assumed."
+  },
+  {
+    "where": "metaphysics-grc / completeness",
+    "note": "All 14 books and 142 chapters are present and in order, from the incipit (\"πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει...\") to the end of Book 14. The imported reading text is the Perseus/OGL canonical-greekLit transcription of the <p> paragraphs with transport scaffolding removed (milestones stripped to build Division.ref; <del> excluded; <add> kept; <bibl> excluded; <quote>/<l> unwrapped; one <gap> kept as its literal printed ellipsis) - see the individual entries above for every occurrence. No paragraph is dropped, merged or reordered, and the bundled TEI file itself is identical to the current PerseusDL/canonical-greekLit release fetched for this import."
+  },
+  {
+    "where": "metaphysics-grc / del-add-bibl-gap counts",
+    "note": "106 <del> spans excluded, 60 <add> insertions kept verbatim, 10 <bibl> editorial fragment citations excluded, 1 <gap> ellipsis mark(s) kept as literal printed text. Every individual occurrence is logged above."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "where": "book-4-ch-9",
+    "note": "No Bekker page milestone found in this chapter; Division.ref left null rather than fabricated."
+  },
+  {
+    "where": "book-6-ch-3",
+    "note": "No Bekker page milestone found in this chapter; Division.ref left null rather than fabricated."
+  },
+  {
+    "where": "book-7-ch-10",
+    "note": "No Bekker page milestone found in this chapter; Division.ref left null rather than fabricated."
+  },
+  {
+    "where": "nicomachean-ethics-en / chapter counts",
+    "note": "2 book(s) parse to a chapter count different from the number traditionally cited for the Nicomachean Ethics: Book 7: parsed 14 chapters, traditionally cited 15; Book 8: parsed 14 chapters, traditionally cited 16. This matches the Greek sibling edition (Bywater/Perseus) exactly, chapter-for-chapter - confirmed genuine, not a parsing error; see about.json."
+  },
+  {
+    "where": "nicomachean-ethics-en / reading text",
+    "note": "696 <note resp=\"Rackham\"> footnotes (translator's commentary, cross-references and source citations - not the translated running text) were excluded entirely, tag and content; not logged individually given their number."
+  },
+  {
+    "where": "nicomachean-ethics-en / structure",
+    "note": "This witness nests an extra <div subtype=\"subsection\"> level (Rackham's own Bekker-line-keyed sub-numbering) between chapter and paragraph that the Greek sibling does not have. It carries no information this app's two-level Book->Chapter schema needs, so every <p> under a chapter div is read straight through regardless of its subsection nesting depth, in document order, into that chapter's single Passage."
+  },
+  {
+    "where": "nicomachean-ethics-en / passage & division refs",
+    "note": "181 Bekker page milestones captured; each chapter's Division.ref is the first–last page value seen in that chapter's own document order. Every Passage.ref is null: no Bekker milestone is printed at the per-paragraph level, only per-page."
+  }
+]

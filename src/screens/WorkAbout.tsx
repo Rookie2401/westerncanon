@@ -1,10 +1,13 @@
 import { Link, useParams } from 'react-router-dom';
 import { authorById, workById } from '../library/registry.ts';
 import { loadWorkAbout } from '../library/genericCorpus.ts';
+import type { Lang } from '../library/types.ts';
 import { useResource } from '../ui/useResource.ts';
 import { Breadcrumbs } from '../components/Breadcrumbs.tsx';
 import { TopBar } from '../components/TopBar.tsx';
 import { AboutScreen } from './About.tsx';
+
+const LANG_NAME: Record<Lang, string> = { la: 'Latin', grc: 'Greek', en: 'English' };
 
 export function WorkAboutScreen() {
   const { workId = '' } = useParams();
@@ -62,7 +65,9 @@ function GenericAbout({ workId }: { workId: string }) {
             <h2>The text</h2>
             <p>
               {about.title} of {about.author}
-              {about.translator ? `, in the Latin translation of ${about.translator}` : ''}
+              {about.translator
+                ? `, in the ${LANG_NAME[work.language]} translation of ${about.translator}`
+                : ''}
               {about.edition ? ` — ${about.edition}` : ''}.
             </p>
 

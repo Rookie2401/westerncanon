@@ -87,7 +87,20 @@
     "import:plato-republic-en": "tsx scripts/import-plato-republic-en/index.ts",
     "import:plato-laws-grc": "tsx scripts/import-plato-laws-grc/index.ts",
     "import:plato-laws-en": "tsx scripts/import-plato-laws-en/index.ts",
-    "validate:plato-c": "tsx scripts/import-plato-c-shared/validate.ts"
+    "validate:plato-c": "tsx scripts/import-plato-c-shared/validate.ts",
+    "import:physics-grc": "tsx scripts/import-aristotle-physics-grc/index.ts",
+    "validate:physics-grc": "tsx scripts/import-aristotle-physics-grc/validate.ts",
+    "import:metaphysics-grc": "tsx scripts/import-aristotle-metaphysics-grc/index.ts",
+    "validate:metaphysics-grc": "tsx scripts/import-aristotle-metaphysics-grc/validate.ts",
+    "import:metaphysics-en": "tsx scripts/import-aristotle-metaphysics-en/index.ts",
+    "validate:metaphysics-en": "tsx scripts/import-aristotle-metaphysics-en/validate.ts",
+    "import:posterior-analytics-grc": "tsx scripts/import-aristotle-posterior-analytics-grc/index.ts",
+    "validate:posterior-analytics-grc": "tsx scripts/import-aristotle-posterior-analytics-grc/validate.ts",
+    "import:posterior-analytics-en": "tsx scripts/import-aristotle-posterior-analytics-en/index.ts",
+    "validate:posterior-analytics-en": "tsx scripts/import-aristotle-posterior-analytics-en/validate.ts",
+    "import:nicomachean-ethics-grc": "tsx scripts/import-aristotle-nicomachean-ethics-grc/index.ts",
+    "import:nicomachean-ethics-en": "tsx scripts/import-aristotle-nicomachean-ethics-en/index.ts",
+    "validate:nicomachean-ethics": "tsx scripts/import-aristotle-nicomachean-ethics-grc/validate.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",

@@ -90,6 +90,13 @@ public/plato-laws-grc/
 public/plato-laws-en/
 public/plato-republic-grc/
 public/plato-republic-en/
+public/physics-grc/
+public/metaphysics-grc/
+public/metaphysics-en/
+public/posterior-analytics-grc/
+public/posterior-analytics-en/
+public/nicomachean-ethics-grc/
+public/nicomachean-ethics-en/
 
 # The source XML IS committed (scripts/import-summa/raw/xml_latin_nl.xml) as the
 # single bundled copy. If it ever needs to be removed, re-download with:
