@@ -1,0 +1,714 @@
+[
+  {
+    "where": "book-1-sec-1",
+    "note": "<gap reason=\"lost\" extent=\"34 pages\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-6",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-7",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-22",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation): \"caelo\""
+  },
+  {
+    "where": "book-1-sec-22",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-23",
+    "note": "<gap reason=\"lost\" extent=\"8 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-1-sec-23",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-23",
+    "note": "<gap reason=\"lost\" extent=\"2 pages+\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-1-sec-26",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-26",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-28",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation): \"de qua modo dicebatur\""
+  },
+  {
+    "where": "book-1-sec-30",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-30",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-31",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation): \"locupletibus\""
+  },
+  {
+    "where": "book-1-sec-34",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-34",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-39",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-41",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source, printed as \". . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-44",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-45",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source, printed as \". . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-46",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-47",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-1-sec-47",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-48",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source, printed as \". . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-49",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation): \"regni\""
+  },
+  {
+    "where": "book-1-sec-49",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-49",
+    "note": "<gap reason=\"lost\" extent=\"4 pages\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-50",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-50",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation): \"rex\""
+  },
+  {
+    "where": "book-1-sec-50",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-50",
+    "note": "<gap reason=\"lost\" extent=\"4 pages\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-51",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-51",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation): \"eo nomine\""
+  },
+  {
+    "where": "book-1-sec-54",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-54",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-54",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . . . . . . . . . . . . . . . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-54",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-54",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-54",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-54",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-54",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-56",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-56",
+    "note": "<gap reason=\"lost\" extent=\"4 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-1-sec-58",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-63",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-63",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-1-sec-64",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-20",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-20",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"e\""
+  },
+  {
+    "where": "book-2-sec-20",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"e\""
+  },
+  {
+    "where": "book-2-sec-31",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-31",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-33",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-34",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-34",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-35",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-38",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-38",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-39",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-40",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-40",
+    "note": "<gap reason=\"lost\" extent=\"4 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-42",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-43",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-43",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-44",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-49",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-49",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-50",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-51",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-51",
+    "note": "<gap reason=\"lost\" extent=\"12 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-52",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-52",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation): \"quo\""
+  },
+  {
+    "where": "book-2-sec-52",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-52",
+    "note": "<gap reason=\"lost\" extent=\"16 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-53fr",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-53",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-63",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-63",
+    "note": "<gap reason=\"lost\" extent=\"8 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-63fr",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-66",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-66",
+    "note": "<gap reason=\"lost\" extent=\"multa desiderantur\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-67",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-67",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-67",
+    "note": "<gap reason=\"lost\" extent=\"4 pages+\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-2-sec-69",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-70",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-1",
+    "note": "<gap reason=\"lost\" extent=\"4 pages+\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-1",
+    "note": "This section's ENTIRE content is lost (reason=\"lost\" extent=\"4 pages+\"); this app's schema requires non-empty Passage.text, so the importer supplied the bracketed placeholder above - it is NOT Cicero's text, NOT Mueller's printed dots, and NOT present in the source XML in this form; it exists only so this section is not silently skipped. Flagged prominently in the final import report."
+  },
+  {
+    "where": "book-3-sec-3",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-3",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-3",
+    "note": "<gap reason=\"lost\" extent=\"8 pages~\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-4",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-6",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-7",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-7",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-7",
+    "note": "<gap reason=\"lost\" extent=\"12 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-8",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-8",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-8",
+    "note": "<gap reason=\"lost\" extent=\"4 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-12",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-17",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-17",
+    "note": "<gap reason=\"lost\" extent=\"2 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-18",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-19",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-19",
+    "note": "<gap reason=\"lost\" extent=\"multa desiderantur\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-23",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-23",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-23",
+    "note": "<gap reason=\"lost\" extent=\"some pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-24",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-24",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-24",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"e\""
+  },
+  {
+    "where": "book-3-sec-24",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"e\""
+  },
+  {
+    "where": "book-3-sec-24",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"m\""
+  },
+  {
+    "where": "book-3-sec-24",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"e\""
+  },
+  {
+    "where": "book-3-sec-24",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-24",
+    "note": "<gap reason=\"lost\" extent=\"4 pages+\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-25",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-26",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-26",
+    "note": "<gap reason=\"lost\" extent=\"4 pages+ but almost one page is supplied from Lactantius\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-28",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-28",
+    "note": "<gap reason=\"lost\" extent=\"some pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-37",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-40",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-40",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-40",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-40",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-41",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-42",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-42",
+    "note": "<gap reason=\"lost\" extent=\"12 pages\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-42",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-43",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-45",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"e\""
+  },
+  {
+    "where": "book-3-sec-45",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"c\""
+  },
+  {
+    "where": "book-3-sec-45",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"c\""
+  },
+  {
+    "where": "book-3-sec-45",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"u\""
+  },
+  {
+    "where": "book-3-sec-45",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-46",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-48",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-48",
+    "note": "<gap reason=\"lost\" extent=\"multa desiderantur\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-4-sec-2",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-4-sec-3",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-4-sec-4",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-4-sec-4",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-4-sec-8",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-4-sec-11",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-4-sec-11",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-4-sec-12",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-5-sec-3",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation): \"qui\""
+  },
+  {
+    "where": "book-5-sec-3",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-5-sec-5",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-5-sec-5",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-5-sec-6",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-5-sec-7",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-5-sec-9",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-5-sec-9",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-5-sec-10",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-5-sec-11",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-5-sec-11",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-6-sec-3",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-6-sec-3",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-6-sec-8",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-6-sec-16",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-6-sec-23",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation): \"non\""
+  },
+  {
+    "where": "book-fr-sec-6",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-fr-sec-7",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-fr-sec-7",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-fr-sec-7",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-fr-sec-9",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "de-republica-la / section numbering",
+    "note": "This edition's own section numbering is NOT sequential within 6 top-level division(s) - genuine gaps in Mueller's own numbering (usually reflecting a stretch with no surviving text at all, not a parsing omission on this importer's part): book-1: jumps from 39 to 41 (no section 40..40 in this edition); book-1: jumps from 56 to 58 (no section 57..57 in this edition); book-2: jumps from 31 to 33 (no section 32..32 in this edition); book-3: jumps from 1 to 3 (no section 2..2 in this edition); book-3: jumps from 9 to 11 (no section 10..10 in this edition); book-3: jumps from 19 to 23 (no section 20..22 in this edition); book-3: jumps from 28 to 32 (no section 29..31 in this edition); book-3: jumps from 34 to 36 (no section 35..35 in this edition); book-3: jumps from 37 to 39 (no section 38..38 in this edition); book-5: jumps from 1 to 3 (no section 2..2 in this edition); book-6: jumps from 4 to 8 (no section 5..7 in this edition); book-fr: jumps from 3 to 5 (no section 4..4 in this edition)."
+  },
+  {
+    "where": "de-republica-la / structure",
+    "note": "This edition prints NINE top-level divisions, not six: the six traditionally numbered books (1-6) plus three separately-transmitted fragment collections Mueller could not place within a numbered book (\"1fr\" after Book 1, \"3fr\" after Book 3, and a final \"fr\" for fragments not assignable to any particular book). All nine are preserved as separate top-level Divisions, in document order, each with its own verbatim sourceHeading; see about.json."
+  },
+  {
+    "where": "de-republica-la / reading text",
+    "note": "9 <del> spans (Mueller's apparatus brackets these as probable interpolations, not his judged authentic text) were excluded from the reading text; every occurrence is logged individually above."
+  },
+  {
+    "where": "de-republica-la / reading text",
+    "note": "11 <add> editorial insertions were kept verbatim in the reading text; every occurrence is logged individually above and flagged on its Passage."
+  },
+  {
+    "where": "de-republica-la / reading text",
+    "note": "147 <gap reason=\"lost\" .../> markers (manuscript lacunae, from a few missing words up to \"34 pages\" in a single Book 1 gap) were encountered; 119 carried a literal \"rend\" rendering (Mueller's own printed dots, e.g. \". . .\" or \". . . . .\"), kept verbatim, and 28 carried none (nothing was fabricated in their place). Every occurrence is logged individually above with its full reason/extent/rend values."
+  },
+  {
+    "where": "de-republica-la / reading text",
+    "note": "1 <note> citation gloss(es) embedded mid-quotation (identifying the immediate source of that quotation, not Mueller's own text) were excluded entirely, tag and content."
+  },
+  {
+    "where": "de-republica-la / editorial judgement call - fragment citations kept",
+    "note": "Every fragment section's <bibl> source-citation (e.g. \"Non. p. 426M\", \"Lactant. Div. Inst. 3.16.5\") is KEPT as part of the reading text, unlike a Perseus editorial <note> elsewhere in this app. This is a deliberate judgement call: unlike a Perseus-added aside, a Teubner-style \"Fragmenta\" collection's citation is standard apparatus for how the edition itself presents each fragment on the printed page, and is not really separable from what the \"text\" of a fragment is. Flagged here explicitly since it is a judgement call, not a certainty - see the importer module doc and the final report."
+  },
+  {
+    "where": "de-republica-la / passage & division refs",
+    "note": "162 chapter milestones captured; each section's Division.ref is the nearest preceding chapter value within its own top-level division, reset to null at the start of each division (the three fragment collections carry none at all, so every one of their sections has ref=null). This edition also marks 9 <milestone unit=\"chapter_alt\"/> (an alternate numbering, only in Book 6) and 6 <milestone unit=\"section\"/> (marking a shift in which later author's quotation is being followed, e.g. \"34(fr1)\") - this app's schema has no field for either, so both are dropped as scaffolding without affecting the reading text or Division.ref. Every Passage.ref is null throughout."
+  },
+  {
+    "where": "de-republica-la / reading text",
+    "note": "1 paragraph(s) cleaned to empty text (fully <del>-excluded, or otherwise) were dropped rather than joined as an empty segment."
+  },
+  {
+    "where": "de-republica-la / reading text",
+    "note": "15 \"†\" (crux) mark(s) are preserved verbatim in the reading text - Mueller's own convention for flagging a word or phrase he judges corrupt in the manuscript tradition but cannot confidently emend; not stripped or resolved."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "where": "Q FR (English, whole file)",
+    "note": "27 letter-div(s) were exact byte-for-byte duplicates of another div with the same book/letter token already seen earlier in the document and were dropped, keeping the first occurrence only (see the per-work importer's module doc for the confirmed cause)."
+  },
+  {
+    "where": "ad-quintum-fratrem-selection-en / structure",
+    "note": "284 <note> (translator/editor apparatus) element(s) discarded entirely (tag + content); 0 <epigraph> editorial headnote(s) excluded entirely."
+  },
+  {
+    "where": "ad-quintum-fratrem-selection-en / duplicate-div investigation (book=1:letter=1)",
+    "note": "CONFIRMED SOURCE BUG (investigated as requested): this file’s <body> contains two top-level wrapper divs, <div n=\"Q\"> and <div n=\"FR\"> (the \"Q FR\" citation prefix, apparently meant to be a single non-nesting label, has been split into two wrapping elements). ALL 27 letters of Books I-III are duplicated wholesale, byte-for-byte identical, once inside each wrapper - not a structural split specific to letter 1.1 (it is simply the first letter in the file, so the first place the duplication is visible when scanning for book=1:letter=1). The importer’s shared parser strips stray wrapper <div> tags and deduplicates any letter-div seen more than once with identical content, keeping the first occurrence only; verified byte-identical here, so nothing was lost or double-counted."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "where": "speech-1-sec-8",
+    "note": "<add>non</add> — Clark's own conjectural supplement, kept in the reading text."
+  },
+  {
+    "where": "speech-2-sec-19",
+    "note": "<add>ordinum</add> — Clark's own conjectural supplement, kept in the reading text."
+  },
+  {
+    "where": "speech-2-sec-20",
+    "note": "<add>in</add> — Clark's own conjectural supplement, kept in the reading text."
+  },
+  {
+    "where": "speech-2-sec-21",
+    "note": "<add>quam</add> — Clark's own conjectural supplement, kept in the reading text."
+  },
+  {
+    "where": "speech-3-sec-25",
+    "note": "<del> excluded from the reading text (Clark's edition marks this spurious/interpolated): \"atque illae tamen omnes\""
+  },
+  {
+    "where": "speech-4-sec-8",
+    "note": "<add>miserias</add> — Clark's own conjectural supplement, kept in the reading text."
+  },
+  {
+    "where": "speech-4-sec-11",
+    "note": "<add>liberabit</add> — Clark's own conjectural supplement, kept in the reading text."
+  },
+  {
+    "where": "speech-4-sec-12",
+    "note": "<add>non</add> — Clark's own conjectural supplement, kept in the reading text."
+  },
+  {
+    "where": "speech-4-sec-14",
+    "note": "<add>omnium generum,</add> — Clark's own conjectural supplement, kept in the reading text."
+  },
+  {
+    "where": "in-catilinam-la / reading text",
+    "note": "482 <note> textual-critical apparatus spans (manuscript sigla, variant readings, editorial conjecture discussion — not Cicero's text) were excluded entirely, tag and content; not logged individually given their number. Every <hi>/<foreign>/<app>/<lem> occurrence in this source is confirmed to fall only inside such a <note>."
+  },
+  {
+    "where": "in-catilinam-la / reading text",
+    "note": "460 standalone <reg>word</reg> wrapper(s) (not paired with any <orig> sibling in this source) were unwrapped — pure transport markup, not logged individually."
+  },
+  {
+    "where": "in-catilinam-la / reading text",
+    "note": "70 <choice><abbr>/<expan> pair(s) — every one a Roman praenomen abbreviation (Ti./C./L./M.) — kept the printed <abbr> form and dropped the un-printed <expan>/<ex> editorial expansion; not logged individually (a uniform encoding convention, not a per-occurrence irregularity). See the module doc if the opposite choice (expanded names) is preferred instead."
+  },
+  {
+    "where": "in-catilinam-la / reading text",
+    "note": "1 <del> span(s) excluded as editorially spurious and 8 <add> span(s) kept as editorial supplements — each logged individually above with its verbatim wording."
+  },
+  {
+    "where": "in-catilinam-la / passage & division refs",
+    "note": "Division.ref (Section only) is the nearest preceding <milestone unit=\"chapter\"> value within that section's own speech (chapter numbering restarts at 1 per speech); 0 section(s) had none yet and are individually logged above. Every Passage.ref is null: no chapter-level marker is printed finer than the section itself."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "where": "sec-132",
+    "note": "Genuine manuscript lacuna: a <gap reason=\"lost\"/> marker in the source, printed as a literal row of asterisks (kept verbatim in the reading text) - this is Clark's own edition marking lost text, not a parsing gap. See \"Known gaps & anomalies\" in about.json."
+  },
+  {
+    "where": "sec-132",
+    "note": "Genuine manuscript lacuna: a <gap reason=\"lost\"/> marker in the source, printed as a literal row of asterisks (kept verbatim in the reading text) - this is Clark's own edition marking lost text, not a parsing gap. See \"Known gaps & anomalies\" in about.json."
+  },
+  {
+    "where": "pro-roscio-amerino-la / apparatus",
+    "note": "450 <note> elements (Clark's critical apparatus - manuscript variant readings, scholia) were excluded entirely, tag and content, at every nesting depth. None are Cicero's own text."
+  },
+  {
+    "where": "pro-roscio-amerino-la / Division.ref",
+    "note": "53 <milestone unit=\"chapter\"/> markers captured; each section's Division.ref is the chapter number active at that section's start (nearest preceding chapter milestone in document order) - see data/pro-roscio-amerino-la/types.ts. Passage.ref is null throughout."
+  },
+  {
+    "where": "pro-roscio-amerino-la / praenomen abbreviations",
+    "note": "Every <choice><abbr>X</abbr><expan>Y<ex>...</ex></expan></choice> (a praenomen like \"M.\" for \"Marcus\") keeps only the printed <abbr> form; <expan> (Perseus's own unprinted editorial gloss) is dropped entirely, not concatenated onto the abbreviation."
+  },
+  {
+    "where": "pro-roscio-amerino-la / (work level) manuscript gap",
+    "note": "2 <gap reason=\"lost\"/> marker(s) found in total (both within section 132 - the well-known \"Desunt non pauca\" lacuna). See the per-occurrence anomaly entries above and \"Known gaps & anomalies\" in about.json."
+  }
+]

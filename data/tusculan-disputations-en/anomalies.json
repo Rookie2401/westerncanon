@@ -1,0 +1,26 @@
+[
+  {
+    "where": "tusculan-disputations-en / front matter",
+    "note": "The translator's/editor's own \"INTRODUCTION.\" essay (historical background on the Tusculan setting, plus Middleton's one-line-per-book summary - 2155 chars) precedes \"BOOK I.\" in the source and is NOT Cicero's dialogue text; excluded entirely, matching this app's precedent (scripts/import-plato-republic-en excludes Jowett's introductory essay the same way)."
+  },
+  {
+    "where": "tusculan-disputations-en / footnotes",
+    "note": "71 inline \"[N]\" bracketed footnote-reference markers (Gutenberg's own apparatus - the footnote text lives in a single shared \"FOOTNOTES:\" section at the end of the whole three-work volume, entirely outside this importer's extracted region) were stripped from the reading text; not preserved anywhere in this build."
+  },
+  {
+    "where": "tusculan-disputations-en / Greek transliterations",
+    "note": "27 inline \"[Greek: <transliteration>]\" bracketed asides (Gutenberg's own plain-text convention for a word the translation prints in actual Greek script, which plain ASCII text cannot encode) were KEPT verbatim, bracket and all - this is genuine translated content, not editorial apparatus."
+  },
+  {
+    "where": "tusculan-disputations-en / italics",
+    "note": "Underscore-delimited spans (Gutenberg's plain-text convention for italic type - the dialogue's speaker initials in Book I, e.g. \"_A._\"/\"_M._\", and Cicero's own italicised Latin word-glosses throughout) have their delimiting underscores stripped, keeping the enclosed text; not counted individually (239 occurrences, all confirmed well-formed on direct inspection)."
+  },
+  {
+    "where": "tusculan-disputations-en / book subtitles",
+    "note": "Each Book's Division.editorialTitle is this edition's own printed subtitle, trailing period stripped, otherwise verbatim - including its inconsistent typographic case (ALL CAPS for Books I, II, III and V; sentence case, \"On other perturbations of the mind.\", for Book IV) - preserved exactly as printed rather than normalised."
+  },
+  {
+    "where": "tusculan-disputations-en / reference scheme",
+    "note": "Division.ref is null throughout this edition (Book and Section alike): the printed section numeral is captured as Division.number instead, and this plain-text transcription carries no other reference apparatus of its own."
+  }
+]

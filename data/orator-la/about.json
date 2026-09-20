@@ -1,0 +1,51 @@
+{
+  "workId": "orator-la",
+  "title": "Orator",
+  "author": "Cicero",
+  "language": "la",
+  "editor": "Augustus Samuel Wilkins",
+  "edition": "Oxford Classical Texts, 1902 (Rhetorica, Vol. 2)",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository (urn:cts:latinLit:phi0474.phi040.perseus-lat2), which digitises M. Tulli Ciceronis Rhetorica, Vol. 2, ed. Augustus Samuel Wilkins (Oxford: Clarendon Press, 1902); imported by scripts/import-orator-la.",
+  "license": "Wilkins' 1902 critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / Open Greek and Latin under a Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is Cicero's Orator (his treatise on the ideal orator and prose style, addressed to M. Junius Brutus) in Latin - Augustus Samuel Wilkins' 1902 Oxford Classical Texts edition, via the Perseus Digital Library / Open Greek and Latin. An independent English translation (E. Jones, 1776, from the same shared volume as the Brutus translation) is also bundled - see data/orator-en."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Augustus Samuel Wilkins, ed., M. Tulli Ciceronis Rhetorica, Vol. 2 (Oxford: Clarendon Press, 1902) - the Scriptorum Classicorum Bibliotheca Oxoniensis (Oxford Classical Texts) edition; the same volume and editor as the Brutus sibling. This edition is in the public domain.",
+        "The work is not divided into books: it is a flat sequence of 238 numbered sections, exactly as printed."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi040.perseus-lat2.xml (urn:cts:latinLit:phi0474.phi040.perseus-lat2) from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the flat sequence of section <div>s, collecting every <p> paragraph within a section (joined with a blank line when a section prints more than one) into that section's single Passage. Wilkins' apparatus criticus (<note>...</note>, 687 occurrences) is excluded entirely, tag and content, as is every editorial deletion he marks as not part of his printed text (<del>...</del>, 38 occurrences in the running text - 3 further <del> tags occur only inside an apparatus <note> itself, e.g. quoting a rejected reading, and are removed along with that note rather than double-counted). Purely typographic wrapper tags (regularised spelling, untranslated Greek asides, quotation marks, emphasis, quoted verse) are unwrapped, their text kept inline. Entities are decoded and whitespace collapsed; the words are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by section number (Wilkins' own printed numbering, 1-238) plus the traditional chapter number this source marks inline with <milestone unit=\"chapter\"/> (71 markers total, coarser than the section numbering). A section's Division.ref is the nearest preceding chapter-milestone value; null for any section before the very first milestone. Passage.ref and Passage.n are always null/empty - the milestone is a chapter-level marker only, never printed per-paragraph."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "687 apparatus-criticus notes (manuscript variant readings) were dropped from the reading text.",
+        "38 editorial-deletion spans in the running text that Wilkins marks as not part of his printed text were excluded (3 further <del> occurrences sit only inside an apparatus note and were removed with it).",
+        "A handful of manuscript lacunae (<gap/>) are logged individually in anomalies.json."
+      ]
+    }
+  ]
+}

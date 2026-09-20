@@ -1,0 +1,10 @@
+[
+  {
+    "where": "de-senectute-la / reading text",
+    "note": "33 <note> critical-apparatus notes (Falconer's manuscript-variant apparatus, not Cicero's text) were excluded entirely, tag and content; not logged individually given their routine, uniform nature."
+  },
+  {
+    "where": "de-senectute-la / division refs",
+    "note": "23 chapter milestones captured; each section's Division.ref is the chapter citation active in that section's own document order (nearest preceding milestone). Passage.ref is always null: no marker is printed at the per-paragraph level."
+  }
+]

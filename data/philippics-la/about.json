@@ -1,0 +1,50 @@
+{
+  "workId": "philippics-la",
+  "title": "Philippicae",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "editor": "Albert Curtis Clark",
+  "edition": "M. Tulli Ciceronis Orationes, Vol. 6, ed. Albert Curtis Clark (Oxford: Clarendon Press, 1918)",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi035.perseus-lat2), which digitises Clark's 1918 Oxford Classical Text; imported by scripts/import-philippics-la. The raw file is committed at scripts/import-philippics-la/raw/phi0474.phi035.perseus-lat2.xml.",
+  "license": "Clark's 1918 edition of the Latin text is in the public domain. The digital transcription is distributed by Perseus/Open Greek and Latin under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's Philippicae",
+      "paragraphs": [
+        "The fourteen speeches Cicero delivered against Mark Antony in 44–43 BC, in the last months of his life — named (by Cicero's own account, in a letter to Brutus) after Demosthenes's orations against Philip II of Macedon. The Fourteenth Philippic is the last speech of Cicero's to survive; he was killed on Antony's orders in December 43 BC.",
+        "The text here is the original Latin, verbatim, in Albert Curtis Clark's 1918 Oxford Classical Text. Nothing is translated, modernised or silently corrected. This edition's own conjectural supplements to gaps in the manuscript tradition are kept in the reading text — see \"Known gaps & anomalies\"."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Albert Curtis Clark, ed., M. Tulli Ciceronis Orationes, Vol. 6 (Oxford: Clarendon Press, 1918) — the Oxford Classical Text. Public domain."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi035.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi035.perseus-lat2) from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository. Fetched once and bundled with the app."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each of the fourteen speeches is a top-level Division (speech-1..speech-14) holding its Sections (speech-N-sec-M), numbered continuously within the speech as printed. Each Section holds one Passage. Clark's textual-critical apparatus, embedded as full <note> content, is excluded entirely; see the importer's module doc for the complete account of every other markup decision."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Speech and Section (this source's own continuous numbering), plus the traditional Roman \"chapter\" reference as Division.ref on each Section, reconstructed from the source's own inline chapter milestones (reset to 1 at the start of each speech). Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "All 14 speeches and all 544 sections are present and in order. Section counts per speech (38/118/39/16/53/19/27/33/17/26/40/30/50/38) and chapter-count maxima per speech (15/46/15/6/19/7/9/11/7/11/15/12/21/14) were independently cross-checked against the English sibling (data/philippics-en) and match exactly, except for one confirmed gap in the English witness itself — see data/philippics-en/about.json.",
+        "Forty-one <add> conjectural supplements are kept in the reading text and individually logged; this edition carries no <del> and no praenomen-abbreviation <choice> encoding at all (both present in the In Catilinam sibling edition)."
+      ]
+    }
+  ]
+}

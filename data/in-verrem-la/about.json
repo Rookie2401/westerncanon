@@ -1,0 +1,50 @@
+{
+  "workId": "in-verrem-la",
+  "title": "In Verrem",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "editor": "William Peterson",
+  "edition": "M. Tulli Ciceronis Orationes, Volume 3, ed. William Peterson (Oxford: Clarendon Press, 1917)",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi005.perseus-lat2), which digitises Peterson's 1917 Oxford Classical Text; imported by scripts/import-in-verrem-la. The raw file is committed at scripts/import-in-verrem-la/raw/phi0474.phi005.perseus-lat2.xml.",
+  "license": "Peterson's 1917 edition of the Latin text is in the public domain. The digital transcription is distributed by Perseus/Open Greek and Latin under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's In Verrem",
+      "paragraphs": [
+        "Cicero's prosecution of Gaius Verres, the corrupt former governor of Sicily, in 70 BC — the speech (or rather set of speeches) that made Cicero's career. Actio 1 is the short speech that opened the trial; the overwhelming evidence Cicero had assembled led Verres to flee into exile before Actio 2 could be delivered, so its five books (De Praetura Urbana, De Praetura Siciliensi, De Frumento, De Signis, De Suppliciis) were published as written speeches rather than actually spoken. (A separate, earlier work, the Divinatio in Caecilium, is not included here.)",
+        "The text here is the original Latin, verbatim, in William Peterson's 1917 Oxford Classical Text. Nothing is translated, modernised or silently corrected. Words Peterson's apparatus marks as spurious/interpolated are excluded, matching this library's established <del> convention elsewhere — see \"Known gaps & anomalies\"."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "William Peterson, ed., M. Tulli Ciceronis Orationes, Volume 3 (Oxford: Clarendon Press, 1917) — the Oxford Classical Text. Public domain."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi005.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi005.perseus-lat2) from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository. Fetched once and bundled with the app."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The two Actiones are top-level Divisions (actio-1, actio-2), each holding its Books (actio-N-book-M — one for Actio 1, five for Actio 2), each holding its Sections (actio-N-book-M-sec-K), numbered continuously within the book as printed. Each Section holds one Passage. Each Book's Division.sourceHeading is the LAST of the one-or-two rubric <head>s the source prints for it (see the importer's module doc); for Actio 2 this is the traditional subject subtitle in Latin."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Actio, Book, and Section (this source's own continuous numbering within each book), plus the traditional Roman \"chapter\" reference as Division.ref on each Section, reconstructed from the source's own inline chapter milestones (reset to 1 at the start of each book — a finer reset boundary than the other two Cicero works in this corpus, which reset per speech). Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "All 2 actiones, 6 books, and 974 sections (56 / 158, 192, 228, 151, 189) are present and in order. Book 3 of Actio 2 (\"De Frumento\", 228 sections) is confirmed the longest, matching its long-standing reputation as Cicero's lengthiest surviving speech. See anomalies.json for the complete, individually logged account of the 35 <del> exclusions and every section with no preceding chapter milestone.",
+        "This edition carries no <choice><abbr>/<expan> praenomen-abbreviation encoding (present in the In Catilinam sibling); its three <add> occurrences are all part of the apparatus's own discussion, not live insertions, and are excluded along with their enclosing <note> like everything else in the apparatus."
+      ]
+    }
+  ]
+}

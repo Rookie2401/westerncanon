@@ -1,0 +1,53 @@
+{
+  "workId": "brutus-la",
+  "title": "Brutus",
+  "author": "Cicero",
+  "language": "la",
+  "editor": "Augustus Samuel Wilkins",
+  "edition": "Oxford Classical Texts, 1902 (Rhetorica, Vol. 2)",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository (urn:cts:latinLit:phi0474.phi039.perseus-lat2), which digitises M. Tulli Ciceronis Rhetorica, Vol. 2, ed. Augustus Samuel Wilkins (Oxford: Clarendon Press, 1902); imported by scripts/import-brutus-la.",
+  "license": "Wilkins' 1902 critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / Open Greek and Latin under a Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is Cicero's Brutus (a dialogue on the history of Roman and Greek oratory, addressed to M. Junius Brutus) in Latin - Augustus Samuel Wilkins' 1902 Oxford Classical Texts edition, via the Perseus Digital Library / Open Greek and Latin. An independent English translation (E. Jones, 1776) is also bundled - see data/brutus-en.",
+        "The Latin manuscript tradition itself breaks off mid-sentence near the end of the work (\"si operosa est concursatio magis opportunorum ...\") - not a defect of this import; see \"Known gaps & anomalies\"."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Augustus Samuel Wilkins, ed., M. Tulli Ciceronis Rhetorica, Vol. 2 (Oxford: Clarendon Press, 1902) - the Scriptorum Classicorum Bibliotheca Oxoniensis (Oxford Classical Texts) edition. This edition is in the public domain.",
+        "The work is not divided into books: it is a flat sequence of 333 numbered sections, exactly as printed."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi039.perseus-lat2.xml (urn:cts:latinLit:phi0474.phi039.perseus-lat2) from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the flat sequence of section <div>s, collecting every <p> paragraph within a section (joined with a blank line when a section prints more than one) into that section's single Passage. The source's leading n=\"sigla\" division (Wilkins' own key of manuscript-sigla abbreviations, front matter for his critical apparatus, not Cicero's text) is excluded entirely. Wilkins' apparatus criticus (<note>...</note>, 690 occurrences) is excluded entirely, tag and content, as is any editorial deletion he marks as not part of his printed text (<del>...</del>). A handful of manuscript lacunae marked with a self-closing <gap/> are logged individually to anomalies.json. Purely typographic wrapper tags (regularised spelling, verse quotations, untranslated Greek asides, quotation marks, emphasis) are unwrapped, their text kept inline. Entities are decoded and whitespace collapsed; the words are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by section number (Wilkins' own printed numbering, 1-333) plus the traditional chapter number this source marks inline with <milestone unit=\"chapter\"/> (97 markers total, coarser than the section numbering). A section's Division.ref is the nearest preceding chapter-milestone value; null for the rare section before the very first milestone. Passage.ref and Passage.n are always null/empty - the milestone is a chapter-level marker only, never printed per-paragraph."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "The work itself is incomplete in every surviving manuscript: it breaks off mid-sentence in section 333 (\"si operosa est concursatio magis opportunorum ...\") followed by the editorial note that the archetype manuscript itself was already missing leaves at this point (Flavius Blondus' subscription, quoted in Wilkins' apparatus and excluded here as apparatus, not text) - a genuine ancient textual gap, not an import defect.",
+        "690 apparatus-criticus notes (manuscript sigla and variant readings) were dropped from the reading text.",
+        "A small number of manuscript lacunae (<gap/>) are logged individually in anomalies.json.",
+        "The excluded \"SIGLA\" front-matter division is Wilkins' own editorial key, not part of Cicero's Brutus."
+      ]
+    }
+  ]
+}

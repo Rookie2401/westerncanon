@@ -1,0 +1,54 @@
+{
+  "workId": "de-officiis-en",
+  "title": "De Officiis",
+  "author": "Marcus Tullius Cicero",
+  "language": "en",
+  "edition": "Loeb Classical Library, 1913",
+  "translator": "Walter Miller",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi055.perseus-eng1), which digitises Walter Miller’s translation of Cicero, De Officiis (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd, 1913 Loeb Classical Library edition - the same volume as the facing Latin text bundled as data/de-officiis-la); imported by scripts/import-de-officiis-en.",
+  "license": "Miller's 1913 translation is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero’s De Officiis — English, trans. Miller",
+      "paragraphs": [
+        "This is Cicero’s De Officiis (\"On Duties\") in the English translation made by Walter Miller for the Loeb Classical Library, first published in 1913 alongside his own edition of the Latin. It stands beside the Latin text (data/de-officiis-la) already in this library as a facing English rendering of the same three-book treatise.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Miller’s own footnotes and marginal summary glosses (translator’s commentary, not part of the translated running text) are excluded - see \"How it was imported\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Walter Miller, trans., De Officiis, Loeb Classical Library (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd, 1913). This translation is in the public domain.",
+        "The work is divided into 3 Books and, within each Book, numbered sections (161, 89 and 121 respectively, matching the Latin sibling exactly, section-for-section) plus Cicero’s traditional chapter citation (45, 25 and 33 chapters per book, also matching the Latin sibling exactly)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi055.perseus-eng1.xml (CTS urn:cts:latinLit:phi0474.phi055.perseus-eng1) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Unlike the Latin sibling (which has explicit per-section <div>s), this English witness marks its sections purely with inline <milestone unit=\"section\"/> markers scattered through a continuous run of <p> paragraphs per book - and those markers do not reliably fall at <p> boundaries. The importer therefore splits the text stream at each marker’s own exact position (not at a <p> or sentence boundary), attributing text to whichever section is \"in effect\", and re-derives paragraph breaks from the source’s own <p> boundaries within each section’s span (joined with a blank line when a section has more than one). See the importer’s module doc for the full algorithm.",
+        "XML transport scaffolding only is removed: the inline chapter/section <milestone> markers (their values feed Division.ref and the section split, respectively) and purely typographic wrapper tags (<hi rend=\"italics\">, <foreign>, <l> verse lines, <sp>/<speaker> speaker labels in one quoted verse passage, <cit>/<bibl>/<quote>) are unwrapped, their text flowing into the surrounding prose. 392 <note>/<note type=\"marg\"> footnotes and marginal summary glosses - Miller’s own translator’s apparatus, not his translated text - are excluded entirely, tag and content. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Section, plus Cicero’s traditional chapter reference, reconstructed from this source’s own inline chapter milestones exactly as for the Latin sibling. A section’s Division.ref is the chapter value in effect when that section began, carried forward across sections with no chapter milestone of their own, reset to null at the start of each book. Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 3 Books and all 161/89/121 sections are present and in order, matching the Latin sibling exactly, section-for-section.",
+        "Structural difference from the Latin sibling. This witness has no <div subtype=\"section\"> at all; sections are reconstructed purely from inline <milestone unit=\"section\"/> markers that do not align to <p> boundaries (36 of 482 <p>s have text before their first marker; 50 contain more than one marker). See \"How it was imported\".",
+        "Book III mislabeled n=\"1\" in the source XML. A genuine bug in this Perseus witness, confirmed via the book’s own <head> rubric and the correctly-numbered Latin sibling; resolved here by document order, with no effect on the reading text - see anomalies.json.",
+        "Footnotes. 392 <note>/<note type=\"marg\"> footnotes and marginal summary glosses (Miller’s own translator’s commentary) were excluded entirely; they are apparatus, not Cicero’s (translated) text."
+      ]
+    }
+  ]
+}

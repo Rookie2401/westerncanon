@@ -1,0 +1,10 @@
+[
+  {
+    "where": "pro-archia-la / apparatus",
+    "note": "192 <note> elements (Clark's critical apparatus - manuscript variant readings <app><lem>...</lem>...</app>, and the scholiast/editorial glosses embedded the same way) were excluded entirely, tag and content, at every nesting depth. None are Cicero's own text."
+  },
+  {
+    "where": "pro-archia-la / Division.ref",
+    "note": "12 <milestone unit=\"chapter\"/> markers captured; each section's Division.ref is the chapter number active at that section's start (nearest preceding chapter milestone in document order) - see data/pro-archia-la/types.ts. Passage.ref is null throughout: no finer inline citation exists."
+  }
+]

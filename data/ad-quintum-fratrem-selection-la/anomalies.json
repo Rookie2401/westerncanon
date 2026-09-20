@@ -1,0 +1,10 @@
+[
+  {
+    "where": "ad-quintum-fratrem-selection-la / structure",
+    "note": "2 <note> apparatus element(s) encountered in the source and discarded entirely (tag + content); 0 <gap reason=\"omitted\"/> marker(s) encountered within the extracted letter."
+  },
+  {
+    "where": "ad-quintum-fratrem-selection-la / duplicate-div investigation",
+    "note": "Three <div type=\"textpart\" n=\"1\" subtype=\"letter\"> divs exist in this source, one nested under each of Book I, II and III (each book has its own letter numbered 1) - a normal, expected structure, NOT a duplication bug. This is confirmed genuinely different from the English sibling source, which does have a real whole-file duplication bug - see data/ad-quintum-fratrem-selection-en/anomalies.json."
+  }
+]

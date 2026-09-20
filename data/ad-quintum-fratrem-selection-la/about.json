@@ -1,0 +1,49 @@
+{
+  "workId": "ad-quintum-fratrem-selection-la",
+  "title": "Epistulae ad Quintum Fratrem (Selection)",
+  "author": "M. Tullius Cicero",
+  "language": "la",
+  "editor": "Louis Claude Purser",
+  "edition": "Oxford: Clarendon Press, 1901 (Epistulae, Vol. III)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi058.perseus-lat1), which digitises Cicero. Ciceronis, M. Tullius. Epistulae, Vol. III. Purser, Louis Claude, editor. Oxford: Clarendon Press, 1901. Imported by scripts/import-ad-quintum-fratrem-selection-la.",
+  "license": "Purser’s critical Latin text is a scholarly edition of a text in the public domain (Cicero, d. 43 BC). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "A curated selection, not the full collection",
+      "paragraphs": [
+        "This is NOT the complete Epistulae ad Quintum Fratrem. It bundles a single letter personally chosen by the app’s owner: 1.1, Cicero’s long letter of paternal advice to his brother Quintus on the conduct of provincial government. The full collection (three books, more than twenty further letters) exists but is not bundled in this edition."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Latin text: Cicero. Ciceronis, M. Tullius. Epistulae, Vol. III. Purser, Louis Claude, editor. Oxford: Clarendon Press, 1901.",
+        "English translation (companion edition, data/ad-quintum-fratrem-selection-en): Evelyn S. Shuckburgh, trans., The Letters of Cicero: The Whole Extant Correspondence in Chronological Order (London: George Bell & Sons, 1899–1900)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is phi0474.phi058.perseus-lat1.xml (CTS urn:cts:latinLit:phi0474.phi058.perseus-lat1) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and only the selected letter is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book (<div subtype=\"Book\"> - capitalised in this source), letter (<div subtype=\"letter\">) and section (<div subtype=\"section\">) divisions and collects every section’s paragraph text in document order into one Passage per section. Typographic/critical-apparatus wrapper tags (<reg>, <del>, <add>, <hi>, <foreign>, <quote>, <date>) are unwrapped, keeping their text. Self-closing <milestone/>, <pb/> and <lb/> transport markers are dropped. The source’s own inline <label rend=\"opener\"> is captured separately as the Division’s sourceHeading."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by traditional book.letter (\"1.1\"), reconstructed as this app’s own Division.number - not a plain arabic numeral, so it renders as \"§ 1.1\". Division.ref is always null. The Division carries one Passage per Perseus section sub-division within the letter; Passage.n is always empty and Passage.ref is always null."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full list. The English sibling source (data/ad-quintum-fratrem-selection-en) has a confirmed whole-file duplication bug (its entire letter content is printed twice, wrapped in two erroneous top-level divs) that this Latin source does NOT share - see that work’s about.json for the investigation."
+      ]
+    }
+  ]
+}

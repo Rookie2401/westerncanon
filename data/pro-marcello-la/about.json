@@ -1,0 +1,61 @@
+{
+  "workId": "pro-marcello-la",
+  "title": "Pro Marcello",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "edition": "Albert Curtis Clark, ed., M. Tulli Ciceronis Orationes, Vol. 6 (Oxford: Clarendon Press, 1918)",
+  "editor": "Albert Curtis Clark",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi032.perseus-lat2); imported by scripts/import-pro-marcello-la.",
+  "license": "Clark's 1918 critical edition and Cicero's Latin text are in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Pro Marcello",
+      "paragraphs": [
+        "Delivered in 46 BC, Pro Marcello is Cicero's speech of thanks to Julius Caesar for pardoning Marcus Claudius Marcellus, an ex-consul and former opponent in the civil war, and allowing his return from exile. The shortest of Cicero's speeches bundled in this app, it is prized for its careful, double-edged praise of Caesar's clemency - genuine gratitude shadowed by an implicit warning about the dangers of one-man rule.",
+        "The text here is Latin only, verbatim. Nothing is translated, modernised, normalised or silently corrected beyond the documented resolution of the source's own critical-apparatus markup (see \"How it was imported\" below). Where the source is irregular or a genuine judgement call was made, it is preserved/recorded and flagged in \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "No English edition bundled - by design",
+      "paragraphs": [
+        "No English translation of Pro Marcello is bundled alongside this Latin text. This is a deliberate choice, not an oversight: two independent research passes searched Perseus's own CTS catalog for this work (which lists no \"perseus-eng*\" English witness for phi0474.phi032), English Wikisource, and Project Gutenberg, and found no public-domain, COMPLETE digital English translation that meets this app's two-source verification policy.",
+        "An incomplete/partial 19th-century (Yonge-tradition) English translation of this speech does exist on English Wikisource - but it was deliberately NOT used here: shipping a partial translation would be worse than shipping none, since a reader could not tell where the translation silently stops. The decision (confirmed with the maintainer) was to publish the Latin text on its own for now and search for a complete, independently-verified public-domain translation later, mirroring how this library already handles Aristotle's Physics (data/physics-grc) when no suitable translation could be confirmed. A future contributor who locates and verifies a complete source is welcome to add a companion data/pro-marcello-en/ work following the same flat section shape defined in data/pro-marcello-la/types.ts."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The printed source, per this XML file's own <teiHeader>/<sourceDesc> and __cts__.xml, is Albert Curtis Clark, ed., M. Tulli Ciceronis Orationes, Vol. 6 (Oxford: Clarendon Press, 1918) - part of the Scriptorum Classicorum Bibliotheca Oxoniensis (Oxford Classical Texts) series (the same volume that also contains Pro Milone and Pro Ligario, both also bundled in this app).",
+        "The oration is divided into 34 numbered sections (the modern citation unit, e.g. \"Marcell. 19\") and, more coarsely, 11 traditional Roman-numeral \"chapters\" (e.g. \"Marcell. v\"), both printed in this source; see \"Reference scheme\" below for how each is represented here."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI/EpiDoc XML file phi0474.phi032.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi032.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It is fetched once (and cached under the importer's own raw/ directory) and bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer slices the single <div type=\"edition\"> body into its 34 flat, numbered <div type=\"textpart\" subtype=\"section\"> divisions (there is no intervening Book/Chapter tier), then takes the <p> paragraph(s) inside each section (joined with a blank line if more than one) as that section's single Passage. Clark's apparatus criticus (<note>, 137 occurrences) is excluded entirely, tag and content. This witness carries no <del>, <add>, <choice>/<abbr>/<expan>, <num>, <quote> or <l> at all - structurally the simplest of the four speeches in this batch. <reg> (Clark's regularised-spelling form) and a single <q rend=\"single\"> (Cicero quoting his own earlier remark) are unwrapped and kept inline, verbatim. The work-level running-title <head> is discarded (not a section heading). Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched.",
+        "The source also prints the oration's traditional chapter citation inline, as <milestone unit=\"chapter\" n=\"N\"/> markers (11 total, sequential). Each section's Division.ref is set to the chapter number active at that section's start - the nearest preceding milestone in document order - built by a single left-to-right pass that never looks ahead; see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by section (Division.id \"sec-N\" / Division.number \"N\", e.g. \"Marcell. 19\") - the same numbering the source itself prints and the modern standard citation unit for this speech - plus, in Division.ref, the traditional chapter number (e.g. \"5\") active at that section's start, reconstructed from the source's own inline chapter milestones. sec-1's ref is null: the source's own chapter-1 milestone sits just inside sec-1's own text, not before it, so no chapter has yet begun when sec-1 opens - the one documented, expected case of a null ref in this work. Passage.ref is null throughout and Passage.n is \"\" throughout (no further printed sub-numbering survives in this source)."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Every irregularity is either preserved verbatim and flagged, or excluded with the exclusion explicitly documented; anomalies.json records the full machine-readable list.",
+        "Apparatus criticus resolved into a single reading text. 137 <note> elements were excluded entirely as scholarly commentary, not counted individually. This witness has zero <del>, <add>, <choice>/<abbr>/<expan>, <num>, <quote> and <l> - the simplest apparatus profile of the four speeches in this batch.",
+        "English translation scope. A partial 19th-century Wikisource translation was deliberately excluded (see \"No English edition bundled\" above) - this app ships Latin only for now.",
+        "Completeness. All 34 sections and all 11 chapter milestones are present and in sequential order, from the incipit \"diuturni silenti, patres conscripti, quo eram his temporibus usus, non...\" to the explicit \"...quod fieri iam posse non arbitrabar, magnus hoc tuo facto cumulus accesserit.\""
+      ]
+    }
+  ]
+}

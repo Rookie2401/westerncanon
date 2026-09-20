@@ -1,0 +1,53 @@
+{
+  "workId": "tusculan-disputations-la",
+  "title": "Tusculanae Disputationes",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "edition": "Pohlenz 1918 (Teubner)",
+  "editor": "Max Pohlenz",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi049.perseus-lat2), which digitises Max Pohlenz, ed., M. Tulli Ciceronis Tusculanae Disputationes (Leipzig: Teubner, 1918); imported by scripts/import-tusculan-disputations-la.",
+  "license": "Pohlenz's 1918 Teubner critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's Tusculanae Disputationes",
+      "paragraphs": [
+        "This is the Latin text of the Tusculanae Disputationes (\"Tusculan Disputations\"), five books of philosophical dialogue Cicero set at his villa in Tusculum in 45 BC, each addressing one obstacle to a happy life: the fear of death (Book 1), the endurance of pain (Book 2), grief (Book 3), other disturbances of the soul (Book 4), and whether virtue alone suffices for happiness (Book 5).",
+        "The text here is the original Latin, verbatim. Nothing is translated, modernised, normalised or silently corrected. Where the source is irregular - a bracketed interpolation, an editorial insertion, a marked manuscript gap - the irregularity is preserved and noted below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Max Pohlenz, ed., M. Tulli Ciceronis Tusculanae Disputationes (Leipzig: Teubner, 1918), the standard Teubner critical text. This edition is in the public domain.",
+        "The work is divided into 5 Books; within each Book, this edition carries only Perseus's own fine paragraph-level \"section\" numbering (475 sections total - see \"Reference scheme\"). Unlike its De Finibus sibling in the same Perseus text group, this edition's own XML supplies no inline traditional-chapter markers and no book-title text at all - see \"Known gaps & anomalies\"."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi049.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi049.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and section <div>s and collects every <p> paragraph within each section, in document order, into that section's single Passage. XML transport scaffolding only is removed: page-break <pb/> markers are dropped, and purely typographic wrapper tags (<quote>/<l>/<q> verse and quotation markup, <foreign xml:lang=\"grc\"> for Cicero's own untranslated Greek, <hi>, <num rend=\"smallcaps\">) are unwrapped, their text flowing into the surrounding prose.",
+        "Pohlenz's own critical apparatus is handled the same way as this app's other Perseus critical editions: <note> elements are dropped entirely; text his apparatus brackets as a probable interpolation (<del>) is excluded; a genuine editorial insertion he prints (<add>) is kept; a marked manuscript gap (<gap>) is kept as its literal printed rendering. This edition additionally prints Ennius-verse line-number citations inline (<label n=\"line_num\">) - excluded from the reading text as editorial citation apparatus, not Cicero's words. Every occurrence of all four outside a <note> is logged individually in anomalies.json."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and (Perseus) Section - the fine, 475-entry paragraph numbering this edition's own XML carries. Division.ref is always null in this edition: it carries no inline traditional-chapter markers to reconstruct one from (see \"Known gaps & anomalies\"). Passage.ref is always null."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 5 Books and all 475 sections of this edition are present and in order. No paragraph is dropped, merged or reordered except where documented below; the bundled TEI file is identical to the current Perseus canonical-latinLit release.",
+        "No traditional chapter numbering or book titles. Unlike its De Finibus sibling (same Perseus text group, same apparatus vocabulary), this Pohlenz XML carries no <milestone unit=\"chapter\"/> markers and no <head> elements at all - confirmed genuine by direct inspection, not a parsing gap. Every Section Division.ref and Book Division.sourceHeading is therefore null. The traditional Tusculan chapter numbers (I, II, III...) are available on the English sibling (data/tusculan-disputations-en) instead, whose 1877 Gutenberg source happens to print them inline.",
+        "Pohlenz's critical apparatus. <del>/<add>/<gap>/<label> spans outside any <note> are individually logged in anomalies.json, with counts and treatment matching this app's other Perseus critical editions (see \"How it was imported\")."
+      ]
+    }
+  ]
+}

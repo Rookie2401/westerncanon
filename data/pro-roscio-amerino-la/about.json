@@ -1,0 +1,49 @@
+{
+  "workId": "pro-roscio-amerino-la",
+  "title": "Pro S. Roscio Amerino",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "editor": "Albert Curtis Clark",
+  "edition": "M. Tulli Ciceronis Orationes, Volume 1, ed. Albert Curtis Clark (Oxford: Clarendon Press, 1908)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi002.perseus-lat2), digitising Albert Curtis Clark's Oxford Classical Text edition of Pro Sexto Roscio Amerino (1908); imported by scripts/import-pro-roscio-amerino-la. The raw file is fetched once (cached at scripts/import-pro-roscio-amerino-la/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Clark's 1908 critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's Pro Sexto Roscio Amerino",
+      "paragraphs": [
+        "Delivered in 80 BC, this was Cicero's first major criminal case - his defence, at 26, of Sextus Roscius the younger against a charge of parricide, in the dangerous political climate of Sulla's dictatorship. Cicero argues that the real killers were relatives of the elder Roscius acting with the connivance of Sulla's powerful freedman Chrysogonus.",
+        "The text here is Clark's Latin, verbatim. Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Albert Curtis Clark, ed., M. Tulli Ciceronis Orationes, Volume 1 (Oxford: Clarendon Press, 1908), an Oxford Classical Text. The speech is divided into 154 numbered sections, matching the traditionally cited section count exactly, plus an independent, coarser traditional \"chapter\" numbering marked inline."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi002.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi002.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the flat sequence of section <div>s and collects every <p> paragraph within each into that section's single Passage. Only transport/editorial scaffolding is removed: Clark's critical apparatus (every <note>), the inline chapter <milestone> markers (their values instead seed each section's Division.ref), and purely typographic/editorial wrapper tags (<reg>, <choice>/<abbr>/<expan>, <add>, <quote>, <q>, <foreign>) are unwrapped or dropped. Entities are decoded and runs of whitespace collapsed; the words themselves are untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by section number (1-154), plus the traditional \"chapter\" citation this edition also prints inline. A section's Division.ref is the chapter number active at that section's start. Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "All 154 sections are present, in order, matching the traditionally cited section count exactly. Section 132 contains a genuine, well-known manuscript lacuna (traditionally referred to via Clark's own printed rubric \"Desunt non pauca\" - \"not a little is missing\"): the edition's own gap markers, its \"Desunt non pauca.\" annotation, and the row of asterisks it prints in place of the lost text are all kept verbatim in section 132's Passage.text, exactly as Clark's edition shows them - not smoothed over, not silently dropped. See anomalies.json for the exact entries."
+      ]
+    }
+  ]
+}

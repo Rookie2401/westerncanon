@@ -1,0 +1,50 @@
+{
+  "workId": "pro-caelio-la",
+  "title": "Pro M. Caelio",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "editor": "Albert Curtis Clark",
+  "edition": "M. Tulli Ciceronis Orationes, Volume 1, ed. Albert Curtis Clark (Oxford: Clarendon Press, 1908)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi024.perseus-lat2), digitising Albert Curtis Clark's Oxford Classical Text edition of Pro Marco Caelio (1908); imported by scripts/import-pro-caelio-la. The raw file is fetched once (cached at scripts/import-pro-caelio-la/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Clark's 1908 critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's Pro Marco Caelio",
+      "paragraphs": [
+        "Delivered in 56 BC, this is Cicero's defence of the young politician Marcus Caelius Rufus against charges of political violence, in a trial entangled with Cicero's celebrated, savage character assassination of the prosecution's chief witness, Clodia Metelli.",
+        "The text here is Clark's Latin, verbatim. Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Albert Curtis Clark, ed., M. Tulli Ciceronis Orationes, Volume 1 (Oxford: Clarendon Press, 1908), an Oxford Classical Text. The speech is divided into 80 numbered sections, matching the traditionally cited section count exactly, plus an independent, coarser traditional \"chapter\" numbering marked inline."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi024.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi024.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the flat sequence of section <div>s and collects every <p> paragraph within each into that section's single Passage. Only transport/editorial scaffolding is removed: Clark's critical apparatus (every <note>), the inline chapter <milestone> markers (their values instead seed each section's Division.ref), and purely typographic/editorial wrapper tags (<reg>, <choice>/<abbr>/<expan>, <add>, <quote>, <q>, <l>, <lb/>, <foreign>) are unwrapped or dropped. Entities are decoded and runs of whitespace collapsed; the words themselves are untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by section number (1-80), plus the traditional \"chapter\" citation this edition also prints inline. A section's Division.ref is the chapter number active at that section's start. Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full machine-readable list. In summary: all 80 sections are present, in order, matching the traditionally cited section count exactly; Clark's critical apparatus is excluded as editorial material; no manuscript lacuna marker occurs anywhere in this witness.",
+        "No English translation is bundled with this edition. Perseus does not host one, and the only public-domain candidate found (English Wikisource, \"For Marcus Caelius\", nominally Charles Duke Yonge's 19th-century translation) turned out to have unreliable provenance on independent investigation: its earliest 2006 revisions read as an original, unattributed community translation rather than a transcription of a published edition, and Wikisource's own editors flagged the page \"no licence, no scan\" as recently as October 2025. This speech ships Latin-only for now; a better English source may be added later."
+      ]
+    }
+  ]
+}

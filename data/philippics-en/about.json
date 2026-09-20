@@ -1,0 +1,51 @@
+{
+  "workId": "philippics-en",
+  "title": "The Philippics",
+  "author": "Marcus Tullius Cicero",
+  "language": "en",
+  "translator": "Charles Duke Yonge",
+  "edition": "The Orations of Marcus Tullius Cicero, Vol. 4, trans. Charles Duke Yonge (London: Bell, 1856), \"Philippics\"",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi035.perseus-eng1), which digitises Yonge's 1856 translation; imported by scripts/import-philippics-en. The raw file is committed at scripts/import-philippics-en/raw/phi0474.phi035.perseus-eng1.xml.",
+  "license": "Yonge's 1856 translation is in the public domain. The digital transcription is distributed by Perseus/Open Greek and Latin under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's Philippics, in English",
+      "paragraphs": [
+        "The English translation, by Charles Duke Yonge (1856), of the fourteen speeches Cicero delivered against Mark Antony in 44–43 BC — a facing English rendering of the Latin text already in this library (data/philippics-la).",
+        "The text here is Yonge's translation, verbatim; nothing is further modernised or paraphrased. Yonge's own editorial \"Argument\" introductions and footnotes are excluded — see \"How it was imported\"."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Charles Duke Yonge, trans., The Orations of Marcus Tullius Cicero, Vol. 4 (London: Henry G. Bohn, 1856), \"Philippics\". Public domain. This is the only English translation of the Philippics available from Perseus (witness id perseus-eng1)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi035.perseus-eng1.xml (CTS urn:cts:latinLit:phi0474.phi035.perseus-eng1) from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository. Fetched once and bundled with the app."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "This witness encodes its structure the opposite way round from every other Cicero witness in this library: \"chapter\" is the <div> level and \"section\" is only an inline milestone inside it (the Latin sibling has section as the <div> and chapter as the milestone). The importer reconstructs a Section per <milestone unit=\"section\"> exactly as printed, splitting mid-paragraph where needed (a single <p> can carry more than one section milestone), and attributes each Section's Division.ref to whichever chapter div was open when its OWN milestone appeared — even for the 93 sections (of 543) whose text runs on past that chapter div's end, into the next, with no new section milestone in between; each is logged individually with its start/end chapter numbers rather than silently patched. Every speech also opens with a \"THE ARGUMENT.\" editorial div (Yonge's own historical summary), explicitly recognised and excluded, never silently merged into a Section's passage."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation matches the Latin sibling: Speech and Section (this witness's own continuous section-milestone numbering), plus the traditional chapter reference as each Section's Division.ref. Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "All 14 speeches are present, and every speech's chapter-count maximum matches the Latin sibling exactly. One genuine gap in this specific witness: Philippic 2's own section-milestone numbering jumps from 23 straight to 25, with no milestone printed anywhere in the source for section 24 — that section's Latin-sibling counterpart (speech-2-sec-24) accordingly has NO English counterpart Division in this file; its text is not recoverable from this witness. This edition therefore holds 543 Sections where the Latin sibling holds 544 — logged individually in anomalies.json and NOT silently patched or renumbered.",
+        "93 of the 543 sections (about 1 in 6) have their own text continue past a chapter-div boundary with no new section milestone in between — traditional \"chapter\" and \"section\" are independently numbered systems in Ciceronian scholarship and often don't nest cleanly; each is logged individually in anomalies.json with its start/end chapter numbers. Division.ref always reflects the chapter active at that section's own START, never wherever it happens to end.",
+        "Seven <gap reason=\"omitted\"/> markers record passages this 1856 translation itself omits; six are logged individually (one falls inside an already-excluded <note>)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "where": "book-1-sec-1",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"cum\""
+  },
+  {
+    "where": "book-1-sec-1",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ea\""
+  },
+  {
+    "where": "book-1-sec-1",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-2",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"quae\""
+  },
+  {
+    "where": "book-1-sec-13",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"omnium\""
+  },
+  {
+    "where": "book-1-sec-25",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-26",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"in\""
+  },
+  {
+    "where": "book-1-sec-61",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"familiari\""
+  },
+  {
+    "where": "book-1-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-66",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"simile\""
+  },
+  {
+    "where": "book-1-sec-71",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut\""
+  },
+  {
+    "where": "book-1-sec-72",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"ne\""
+  },
+  {
+    "where": "book-1-sec-76",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"que\""
+  },
+  {
+    "where": "book-1-sec-77",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"Primum\""
+  },
+  {
+    "where": "book-1-sec-77",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-85",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-89",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"angustia\""
+  },
+  {
+    "where": "book-1-sec-93",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"non\""
+  },
+  {
+    "where": "book-1-sec-98",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"paribus\""
+  },
+  {
+    "where": "book-1-sec-103",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-1-sec-103",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"aeri\""
+  },
+  {
+    "where": "book-1-sec-111",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ne\""
+  },
+  {
+    "where": "book-1-sec-115",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"Ti.\""
+  },
+  {
+    "where": "book-1-sec-122",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-2-sec-6",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"cum\""
+  },
+  {
+    "where": "book-2-sec-7",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"L.\""
+  },
+  {
+    "where": "book-2-sec-12",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-2-sec-15",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"constantissimamque\""
+  },
+  {
+    "where": "book-2-sec-61",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"A.\""
+  },
+  {
+    "where": "book-2-sec-66",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ei\""
+  },
+  {
+    "where": "book-2-sec-72",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"i\""
+  },
+  {
+    "where": "book-2-sec-72",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"tamquam\""
+  },
+  {
+    "where": "book-2-sec-72",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"tamquam\""
+  },
+  {
+    "where": "book-2-sec-72",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ex\""
+  },
+  {
+    "where": "book-2-sec-87",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"non\""
+  },
+  {
+    "where": "book-2-sec-107",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"tum\""
+  },
+  {
+    "where": "book-2-sec-107",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"t\""
+  },
+  {
+    "where": "book-2-sec-110",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"pedibus\""
+  },
+  {
+    "where": "book-2-sec-111",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"post\""
+  },
+  {
+    "where": "book-2-sec-112",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-2-sec-118",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"que reliquarum\""
+  },
+  {
+    "where": "book-2-sec-123",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-123",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-2-sec-137",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-147",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"que\""
+  },
+  {
+    "where": "book-2-sec-158",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"que\""
+  },
+  {
+    "where": "book-2-sec-163",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ex\""
+  },
+  {
+    "where": "book-2-sec-166",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"in\""
+  },
+  {
+    "where": "book-3-sec-8",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"perspicuum in\""
+  },
+  {
+    "where": "book-3-sec-8",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"deos esse\""
+  },
+  {
+    "where": "book-3-sec-13",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ab\""
+  },
+  {
+    "where": "book-3-sec-13",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-13",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-13",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-13",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-22",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-30",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-31",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ita est, ut\""
+  },
+  {
+    "where": "book-3-sec-34",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut\""
+  },
+  {
+    "where": "book-3-sec-42",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-3-sec-43",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-43",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"deae\""
+  },
+  {
+    "where": "book-3-sec-45",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"in\""
+  },
+  {
+    "where": "book-3-sec-48",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"dis\""
+  },
+  {
+    "where": "book-3-sec-54",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"natae\""
+  },
+  {
+    "where": "book-3-sec-54",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"Iove tertio\""
+  },
+  {
+    "where": "book-3-sec-54",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"pater\""
+  },
+  {
+    "where": "book-3-sec-55",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"in\""
+  },
+  {
+    "where": "book-3-sec-60",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et alia\""
+  },
+  {
+    "where": "book-3-sec-63",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"Orbonae ad\""
+  },
+  {
+    "where": "book-3-sec-64",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ne\""
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<label resp=\"perseus\" xml:lang=\"eng\"> excluded entirely: Perseus's own English-language editorial marker (\"Fragments: sources are not immediately clear.\"), not Latin, not Cicero's or Plasberg's text."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"Cotta\""
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<label resp=\"perseus\" xml:lang=\"eng\"> excluded entirely: Perseus's own English-language editorial marker (\"Fragments: sources are not immediately clear.\"), not Latin, not Cicero's or Plasberg's text."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"10\""
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"11\""
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"12\""
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"21\""
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-65",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-68",
+    "note": "<del> excluded from the reading text (Plasberg's apparatus brackets this as a probable interpolation/gloss): \"a\""
+  },
+  {
+    "where": "de-natura-deorum-la / division refs",
+    "note": "This witness carries no <milestone> elements of any kind (confirmed by direct inspection - only <pb/> page breaks); Division.ref is null throughout for every section. Nothing is fabricated to supply a chapter reference this source does not print."
+  },
+  {
+    "where": "de-natura-deorum-la / reading text",
+    "note": "18 <del> spans (Plasberg's apparatus brackets these as probable interpolations/glosses) were excluded from the reading text; every occurrence is logged individually above."
+  },
+  {
+    "where": "de-natura-deorum-la / reading text",
+    "note": "46 <add> editorial insertions were kept verbatim in the reading text; every occurrence is logged individually above and flagged on its Passage."
+  },
+  {
+    "where": "de-natura-deorum-la / reading text",
+    "note": "33 <gap/> markers (manuscript lacunae, mostly in the fragmentary end of Book 3) were kept as their literal printed rendering; every occurrence is logged individually above."
+  },
+  {
+    "where": "de-natura-deorum-la / reading text",
+    "note": "6 <bibl> citation gloss(es) (identifying the secondary source - Lactantius, Arnobius, etc. - that preserved a Book 3 fragment, not Cicero's text) were excluded entirely, tag and content."
+  },
+  {
+    "where": "de-natura-deorum-la / reading text",
+    "note": "2 <label resp=\"perseus\"> English-language editorial marker(s) were excluded entirely, tag and content."
+  }
+]

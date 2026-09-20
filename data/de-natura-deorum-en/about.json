@@ -1,0 +1,52 @@
+{
+  "workId": "de-natura-deorum-en",
+  "title": "On the Nature of the Gods",
+  "author": "Marcus Tullius Cicero",
+  "language": "en",
+  "translator": "Charles Duke Yonge",
+  "edition": "Bohn’s Classical Library, 1888",
+  "provenance": "English Wikisource, \"Cicero’s Tusculan Disputations/On the Nature of the Gods\" (3 book subpages), fetched once per book via the MediaWiki action=parse&prop=text API (a page-scan transclusion: action=parse&prop=wikitext for these pages returns only <pages/> transclusion markup, not the assembled text, so the rendered HTML was fetched and parsed with jsdom instead); imported by scripts/import-de-natura-deorum-en. The raw per-book dumps are committed under scripts/import-de-natura-deorum-en/raw/.",
+  "license": "Yonge's 1888 translation is in the public domain (published well over 95 years ago; Yonge died in 1891). The digital transcription and page-scan proofreading are distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero’s De Natura Deorum — English, trans. Yonge",
+      "paragraphs": [
+        "This is Cicero’s De Natura Deorum (\"On the Nature of the Gods\") in the English translation made by Charles Duke Yonge, first published in Bohn’s Classical Library in 1888. It stands alongside the Latin text (ed. Plasberg) already in this library as a facing English rendering of the same three-book dialogue.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Yonge’s own translator’s footnotes are excluded — see \"How it was imported\" below. All three books are complete, genuine page-scan transcriptions — unlike this library’s Metaphysics (Ross) English import, there is no missing or unproofread content here to disclose."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Charles Duke Yonge, trans., Cicero’s Tusculan Disputations, De Natura Deorum, De Divinatione, De Fato, etc., Bohn’s Classical Library (London: George Bell & Sons, 1888 and reprints). This translation is in the public domain.",
+        "The work is divided into 3 Books, each further numbered by this 1888 edition’s own roman-numeral sections (44 in Book 1, 67 in Book 2, 40 in Book 3) — a coarser division than the modern Plasberg Latin edition’s fine §-numbered sections in this library (124 / 168 / 95); the two do not correspond 1:1."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the RENDERED HTML of each \"Cicero’s Tusculan Disputations/On the Nature of the Gods/Book N\" Wikisource subpage, fetched once through the MediaWiki action=parse&prop=text API and committed under the importer’s raw/ directory. Like this library’s other page-scan Wikisource imports, action=parse&prop=wikitext for these pages returns only <pages index=\"...\" from=X to=Y/> transclusion markup, not the assembled text, so the already-rendered HTML was fetched and parsed with jsdom instead. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each numbered section starts with its own roman numeral printed at the very start of a paragraph (e.g. \"I. There are many things…\"); a small number of these are printed via the older {{anchor}}-template markup style rather than plain text, and a few more have the page-scan’s own page break falling immediately before the numeral — both are resolved transparently (see scripts/import-de-natura-deorum-en/parseYonge1888.ts for the full technical account) with no effect on the reading text. The \"BOOK N.\" title line and Yonge’s own {{smallrefs}}-generated footnote block (editorial commentary, not his translated prose) are removed as page furniture/apparatus; only the inline footnote-reference NUMBER markers are stripped from the running prose (the footnote text itself is not reproduced anywhere in this build)."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and this edition’s own section number. This source carries no Bekker or chapter milestones of any kind, so Division.ref is null throughout — not fabricated. Passage.ref is likewise always null; Passage.n is always empty."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 3 Books are present, complete and verified as genuine page-scan transcriptions from start to finish (no red-linked or unproofread stub anywhere) — confirmed by direct inspection of every book, not assumed from a spot check. No paragraph is dropped, merged or reordered except where documented in anomalies.json.",
+        "Numeral markup irregularities. A handful of section numerals are printed via the older {{anchor}}-template style, and a few more have a page-scan break falling immediately before them; both are logged individually in anomalies.json and have no effect on the reading text itself.",
+        "Numbering scheme. This 1888 edition’s own section numbering (roman numerals, 44/67/40 per book) is coarser than — and does not correspond 1:1 with — the modern Plasberg Latin edition’s fine §-numbered sections (124/168/95) already in this library; the two are never conflated."
+      ]
+    }
+  ]
+}

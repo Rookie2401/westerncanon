@@ -1,0 +1,234 @@
+[
+  {
+    "where": "de-divinatione-la / book \"1arg\"",
+    "note": "EXCLUDED ENTIRELY: this is Mueller's own editorial \"ARGUMENTUM\" (a third-person prose synopsis of the book, e.g. \"Hoc altero de divinatione libro Cicero postquam...\"), not Cicero's text, and this app's Book->section schema has no field for a book-level synopsis."
+  },
+  {
+    "where": "book-1-sec-2",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut\""
+  },
+  {
+    "where": "book-1-sec-8",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"ille\""
+  },
+  {
+    "where": "book-1-sec-12",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"in significatione\""
+  },
+  {
+    "where": "book-1-sec-17",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"de\""
+  },
+  {
+    "where": "book-1-sec-19",
+    "note": "This section holds bare <l> verse lines with no enclosing <p> at all (part of the Aratus/Prognostica quotation) - its text was captured directly under the section div rather than via a paragraph boundary."
+  },
+  {
+    "where": "book-1-sec-20",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-1-sec-20",
+    "note": "This section holds bare <l> verse lines with no enclosing <p> at all (part of the Aratus/Prognostica quotation) - its text was captured directly under the section div rather than via a paragraph boundary."
+  },
+  {
+    "where": "book-1-sec-21",
+    "note": "This section holds bare <l> verse lines with no enclosing <p> at all (part of the Aratus/Prognostica quotation) - its text was captured directly under the section div rather than via a paragraph boundary."
+  },
+  {
+    "where": "book-1-sec-34",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"et\""
+  },
+  {
+    "where": "book-1-sec-36",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"condemnemus\""
+  },
+  {
+    "where": "book-1-sec-38",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-1-sec-42",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ex\""
+  },
+  {
+    "where": "book-1-sec-51",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"se\""
+  },
+  {
+    "where": "book-1-sec-52",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut\""
+  },
+  {
+    "where": "book-1-sec-56",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"re dubita\""
+  },
+  {
+    "where": "book-1-sec-56",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"eum\""
+  },
+  {
+    "where": "book-1-sec-59",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"se\""
+  },
+  {
+    "where": "book-1-sec-66",
+    "note": "<note type=\"sp\" place=\"inline\">C.</note> (a speaker-change abbreviation inline within a quoted verse passage) excluded per this app's blanket <note> = apparatus rule - see this importer's module doc for why this one is a genuine judgment call rather than routine apparatus."
+  },
+  {
+    "where": "book-1-sec-76",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"vas\""
+  },
+  {
+    "where": "book-1-sec-95",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"habent auspicia\""
+  },
+  {
+    "where": "book-1-sec-113",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \", vaticinationes cum somniis\""
+  },
+  {
+    "where": "book-1-sec-116",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"Antiphontis\""
+  },
+  {
+    "where": "book-1-sec-116",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"sunt enim explanatores, ut grammatici poe+tarum\""
+  },
+  {
+    "where": "book-1-sec-121",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"armis\""
+  },
+  {
+    "where": "book-1-sec-130",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-1-sec-131",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-132",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "de-divinatione-la / book \"2arg\"",
+    "note": "EXCLUDED ENTIRELY: this is Mueller's own editorial \"ARGUMENTUM\" (a third-person prose synopsis of the book, e.g. \"Hoc altero de divinatione libro Cicero postquam...\"), not Cicero's text, and this app's Book->section schema has no field for a book-level synopsis."
+  },
+  {
+    "where": "book-2-sec-21",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"Certe potuit.\""
+  },
+  {
+    "where": "book-2-sec-24",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"qui\""
+  },
+  {
+    "where": "book-2-sec-36",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"tristissuma\""
+  },
+  {
+    "where": "book-2-sec-47",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ex\""
+  },
+  {
+    "where": "book-2-sec-57",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-69",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-69",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-2-sec-72",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"si\""
+  },
+  {
+    "where": "book-2-sec-77",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"res\""
+  },
+  {
+    "where": "book-2-sec-79",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"si\""
+  },
+  {
+    "where": "book-2-sec-94",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"quod non certe pertinet\""
+  },
+  {
+    "where": "book-2-sec-104",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-2-sec-106",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"est\""
+  },
+  {
+    "where": "book-2-sec-111",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"primi cuiusque\""
+  },
+  {
+    "where": "book-2-sec-112",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-112",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-118",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ex\""
+  },
+  {
+    "where": "book-2-sec-120",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"si\""
+  },
+  {
+    "where": "book-2-sec-120",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"moveri\""
+  },
+  {
+    "where": "book-2-sec-121",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-124",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"quoque\""
+  },
+  {
+    "where": "book-2-sec-124",
+    "note": "<del> excluded from the reading text (Mueller's apparatus brackets this as a probable interpolation/gloss): \"ex somniis\""
+  },
+  {
+    "where": "book-2-sec-129",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"circum\""
+  },
+  {
+    "where": "book-2-sec-148",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"igitur\""
+  },
+  {
+    "where": "de-divinatione-la / structure",
+    "note": "2 \"ARGUMENTUM\" book-synopsis divs (Mueller's own editorial prose, not Cicero's) were excluded entirely; see the individual entries above."
+  },
+  {
+    "where": "de-divinatione-la / reading text",
+    "note": "14 <del> spans (Mueller's apparatus brackets these as probable interpolations/glosses) were excluded from the reading text; every occurrence is logged individually above."
+  },
+  {
+    "where": "de-divinatione-la / reading text",
+    "note": "26 <add> editorial insertions were kept verbatim in the reading text; every occurrence is logged individually above and flagged on its Passage."
+  },
+  {
+    "where": "de-divinatione-la / reading text",
+    "note": "7 <gap/> markers (manuscript lacunae) were kept as their literal printed rendering; every occurrence is logged individually above."
+  },
+  {
+    "where": "de-divinatione-la / division refs",
+    "note": "130 chapter milestones captured (58 in Book 1, 72 in Book 2 - chapter numbering restarts at 1 each Book, confirmed); each section's Division.ref is the chapter citation active in that section's own document order. Passage.ref is always null."
+  }
+]

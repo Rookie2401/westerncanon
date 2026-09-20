@@ -1,0 +1,210 @@
+[
+  {
+    "where": "book-1-sec-7",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"a\""
+  },
+  {
+    "where": "book-1-sec-7",
+    "note": "<gap reason=\"omitted\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-1-sec-28",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"iustitiae genus\""
+  },
+  {
+    "where": "book-1-sec-36",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"Popilius imperator tenebat provinciam, in cuius exercitu Catonis filius tiro militabat. Cum autem Popilio videretur unam dimittere legionem,…\""
+  },
+  {
+    "where": "book-1-sec-40",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"Secundo autem Punico bello post Cannensem pugnam quos decem Hannibal Romam astrictos misit iure iurando se redituros esse, nisi de redimendi…\""
+  },
+  {
+    "where": "book-1-sec-40",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"Maximum autem exemplum est iustitiae in hostem a maioribus nostris constitutum, cum a Pyrrho perfuga senatui est pollicitus se venenum regi …\""
+  },
+  {
+    "where": "book-1-sec-40",
+    "note": "Miller's apparatus brackets this ENTIRE section as a probable interpolation (<del>); kept here only because excluding it would leave this section with no reading text at all - unlike every other <del> span in this work (which is silently excluded), this one is retained but flagged as suspect."
+  },
+  {
+    "where": "book-1-sec-55",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"tamen\""
+  },
+  {
+    "where": "book-1-sec-59",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"et consuetudo exercitatioque capienda\""
+  },
+  {
+    "where": "book-1-sec-66",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"ut\""
+  },
+  {
+    "where": "book-1-sec-109",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"quemque\""
+  },
+  {
+    "where": "book-1-sec-109",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"ne Xenocratem quidem, severissimum philosophorum,\""
+  },
+  {
+    "where": "book-1-sec-112",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"in eadem causa\""
+  },
+  {
+    "where": "book-1-sec-113",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"et iucundum\""
+  },
+  {
+    "where": "book-1-sec-121",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"et vitium\""
+  },
+  {
+    "where": "book-1-sec-124",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"de civium,\""
+  },
+  {
+    "where": "book-1-sec-146",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"que\""
+  },
+  {
+    "where": "book-1-sec-153",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"quamvis\""
+  },
+  {
+    "where": "book-1-sec-160",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"Etenim cognitionem prudentiamque sequetur considerata actio; ita fit, ut agere considerate pluris sit quam cogitare prudenter.\""
+  },
+  {
+    "where": "book-2-sec-1",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"; in quo tur quaeri dixi, quid utile, quid inutile, tur ex utilibus quid utilius aut quid maxime utile\""
+  },
+  {
+    "where": "book-2-sec-10",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"Quicquid enim iustum sit, id etiam utile esse censent, itemque quod honestum, idem iustum; ex quo efficitur, ut, quicquid honestum sit, idem…\""
+  },
+  {
+    "where": "book-2-sec-11",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"apes,\""
+  },
+  {
+    "where": "book-2-sec-17",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"virorum praestantium\""
+  },
+  {
+    "where": "book-2-sec-39",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"iniusti habebuntur,\""
+  },
+  {
+    "where": "book-2-sec-45",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"alteri\""
+  },
+  {
+    "where": "book-2-sec-48",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"orationis\""
+  },
+  {
+    "where": "book-2-sec-48",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"sermone\""
+  },
+  {
+    "where": "book-2-sec-48",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"gloriam\""
+  },
+  {
+    "where": "book-2-sec-65",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \", consilio iuvare,\""
+  },
+  {
+    "where": "book-2-sec-66",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"gravior\""
+  },
+  {
+    "where": "book-2-sec-66",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"quoque\""
+  },
+  {
+    "where": "book-2-sec-75",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"Italicum\""
+  },
+  {
+    "where": "book-2-sec-76",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"est\""
+  },
+  {
+    "where": "book-2-sec-86",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"praetermittendis voluptatibus\""
+  },
+  {
+    "where": "book-2-sec-88",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"et externa cum corporis\""
+  },
+  {
+    "where": "book-2-sec-88",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"cum corporis externa hoc modo, dives esse potius quam maximis corporis viribus,\""
+  },
+  {
+    "where": "book-3-sec-10",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"et non perfecisset\""
+  },
+  {
+    "where": "book-3-sec-16",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"aut Aristides\""
+  },
+  {
+    "where": "book-3-sec-24",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"Detrahere autem de altero sui commodi causa magis est contra naturam quam mors, quam dolor, quam cetera generis eiusdem.\""
+  },
+  {
+    "where": "book-3-sec-28",
+    "note": "<gap reason=\"omitted\"/> in the source with no literal rendering given; nothing fabricated in its place."
+  },
+  {
+    "where": "book-3-sec-29",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"Minime vero; non enim mihi est vita mea utilior quam animi talis affectio, neminem ut violem commodi mei gratia.\""
+  },
+  {
+    "where": "book-3-sec-66",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"vendidit\""
+  },
+  {
+    "where": "book-3-sec-68",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"domum propter vitia vendas,\""
+  },
+  {
+    "where": "book-3-sec-74",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"nomen illorum\""
+  },
+  {
+    "where": "book-3-sec-81",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"species\""
+  },
+  {
+    "where": "book-3-sec-82",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"Eteocles vel potius Euripides\""
+  },
+  {
+    "where": "book-3-sec-105",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"non\""
+  },
+  {
+    "where": "book-3-sec-119",
+    "note": "<del> excluded from the reading text (Miller's apparatus brackets this as a probable interpolation): \"et malorum\""
+  },
+  {
+    "where": "de-officiis-la / reading text",
+    "note": "45 <del> spans (Miller's apparatus brackets these as probable interpolations, not his judged authentic text) were excluded from the reading text; every occurrence is logged individually above."
+  },
+  {
+    "where": "de-officiis-la / reading text",
+    "note": "2 <gap reason=\"omitted\"/> markers were encountered, neither carrying a literal \"rend\" rendering; nothing was fabricated in their place. Both are logged individually above."
+  },
+  {
+    "where": "de-officiis-la / passage & division refs",
+    "note": "103 chapter milestones captured; each section's Division.ref is the nearest preceding chapter value, reset to null at the start of each book. This source also marks 1 <milestone unit=\"alternatechpater\"/> (note the source's own misspelling of \"alternatechapter\", preserved as observed) and 5 <milestone unit=\"alternatesection\"/> markers - a second, alternate numbering scheme this app's schema has no field for; both are dropped as scaffolding without affecting Division.ref or the reading text. Every Passage.ref is null: no chapter marker is printed at the per-paragraph level, only per-section-or-coarser."
+  },
+  {
+    "where": "de-officiis-la / reading text",
+    "note": "283 paragraph(s) cleaned to empty text were dropped rather than joined as an empty segment. This source's TEI very often encodes a second, empty <p> at the end of each section (a transcription-side artifact, not a real second paragraph of Cicero's own prose)."
+  }
+]

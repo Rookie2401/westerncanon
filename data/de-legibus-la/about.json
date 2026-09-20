@@ -1,0 +1,54 @@
+{
+  "workId": "de-legibus-la",
+  "title": "De Legibus",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "provenance": "Latin Wikisource, pages \"De legibus/Liber I\", \"/Liber II\" and \"/Liber III\", each fetched once via the MediaWiki action=parse&prop=wikitext API; imported by scripts/import-de-legibus-la. The raw dumps are committed at scripts/import-de-legibus-la/raw/liber-I.json, liber-II.json and liber-III.json. Perseus does not have this text (confirmed directly against its own tracking data, not assumed).",
+  "license": "Cicero's Latin text is itself in the public domain (1st century BC). The digital transcription is taken from Latin Wikisource and is available under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero’s De Legibus — Latin",
+      "paragraphs": [
+        "This is the Latin text of Cicero’s De Legibus (\"On the Laws\"), his dialogue proposing an ideal legal code to accompany the ideal commonwealth of the companion dialogue De Republica (also bundled in this library, as data/de-republica-la), cast as a conversation among Cicero himself, his brother Quintus, and his friend Atticus.",
+        "The text here is the original Latin, verbatim. Nothing is translated, modernised, normalised or silently corrected. No English translation is bundled with this work at this time (none was found on Wikisource or Project Gutenberg during research for this import)."
+      ]
+    },
+    {
+      "heading": "The edition — a genuine provenance gap",
+      "paragraphs": [
+        "Unlike this app’s Perseus-sourced Latin texts, which generally name a specific 19th/early-20th-century editor, Latin Wikisource states NO source critical edition anywhere on any of the three De legibus pages used here - no editor, no year, no publisher. This is a genuine gap in what the source itself discloses, not something this import can resolve; the Latin text is unquestionably ancient and public domain regardless, but which modern editorial lineage this particular transcription follows is simply not stated.",
+        "The work is divided into 3 Books. Books 1 and 2 carry this source’s own bracketed paragraph numbering (63 and 69 sections respectively); Book 3 carries none, so its 109 sections are numbered sequentially by this importer instead - see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the wikitext of the Latin Wikisource pages \"De legibus/Liber I\", \"/Liber II\" and \"/Liber III\", retrieved once each through the MediaWiki action=parse&prop=wikitext API and committed under the importer’s raw/ directory. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer strips only wiki-transport scaffolding: the {{titulus2|...}}/{{Liber|...}} front-matter templates and the two bolded page-title lines at the top of each page. For Books 1-2, the source’s own \"[N]\" bracketed paragraph markers are used directly as section numbers, splitting the continuous text stream at each marker’s own exact position (not at a paragraph boundary, since a marker can fall mid-sentence). For Book 3, which has no such markers, a separate Roman-numeral \"Caput\" chapter apparatus (I..XX) and {{pn|N}} page-number templates are stripped as scaffolding, and the remaining text is split into paragraphs and numbered sequentially instead.",
+        "EDITORIAL JUDGEMENT CALL: four longer bracketed spans across the three books - each either naming an ancient author/work being cross-referenced, or describing \"the topic/passage on X\" as an aside, rather than patching a syntactic gap the way the ordinary short supplements do - were judged to be Wikisource-added citations/glosses rather than Cicero’s own words, and excluded from the reading text. This is a judgement call, not a certainty (Wikisource marks no distinction of its own here); every one of the four is logged individually, with its full text, in anomalies.json - see also the importer’s module doc.",
+        "This source’s own editorial marks are otherwise all kept verbatim: angle-bracket ⟨…⟩ supplements (a modern editor’s conjectural restoration of a manuscript gap - 261 occurrences, one of them 531 characters long), short square-bracket supplements/lacuna marks (e.g. \"[tuis]\", \"[ . . . . ]\"), and a handful of bare \"*\" marks (this source’s own way of marking a point where the text is understood to break off). Every occurrence is flagged via Passage.anomaly and logged individually or summarised in anomalies.json."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Section. Division.ref is null throughout: this source carries no milestone-style reference apparatus at all (Book 3’s own Roman-numeral \"Caput\" markers are a real structural feature of that page but are stripped as scaffolding rather than surfaced as a reference, since this app’s Book->Section schema for this work has no field for a third tier - see the import brief). Passage.ref and Passage.n are always null/''."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Provenance. No source critical edition is named by Latin Wikisource for any of the three pages - see \"The edition\" above.",
+        "Book 3 is incomplete. This page’s own transcription of Book 3 ends abruptly mid-dialogue, mid-argument (\"...et id ipsum quod dicis exspecto.*\" followed by a bare \"*\" and nothing else) - confirmed directly against this source, matching the traditional understanding that De Legibus, like De Republica, does not survive complete.",
+        "Editorially-assigned section numbers in Book 3. This source has no paragraph numbering of its own for Book 3; its 109 sections here are numbered sequentially by this importer - see \"The edition\" above.",
+        "Four bracketed spans excluded as likely Wikisource-added citations/glosses rather than Cicero’s own words - a disclosed editorial judgement call, not a certainty; every one logged individually with its full text in anomalies.json.",
+        "All other editorial marks (angle-bracket ⟨…⟩ supplements, short square-bracket supplements/lacuna marks, bare \"*\" lacuna marks) are kept 100% verbatim throughout and flagged."
+      ]
+    }
+  ]
+}

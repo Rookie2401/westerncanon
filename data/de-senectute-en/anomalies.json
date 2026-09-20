@@ -1,0 +1,22 @@
+[
+  {
+    "where": "sec-35b",
+    "note": "This source's own <milestone unit=\"section\" n=\"35\"/> repeats here rather than advancing (occurrence 2 of \"35\") - a probable single-character transcription slip in the source (compare the missing \"36\" - see anomalies.json). Kept literally as printed rather than silently renumbered; only this Division's id is disambiguated (\"sec-35b\") for this app's own routing."
+  },
+  {
+    "where": "de-senectute-en / structure",
+    "note": "This witness carries no section (or Book) divs at all; every section boundary above was reconstructed from this source's own inline <milestone unit=\"section\"/> markers, which frequently fall mid-paragraph (not at a <p> boundary) - confirmed by direct inspection. Section 36 has no milestone of its own (see the \"35\"/\"35b\" anomaly above); its Latin counterpart (data/de-senectute-la) is complete and unaffected."
+  },
+  {
+    "where": "de-senectute-en / reading text",
+    "note": "60 <note> translator's footnotes (Falconer's own cross-references and commentary, not the translated running text) were excluded entirely, tag and content; not logged individually given their routine, uniform nature."
+  },
+  {
+    "where": "de-senectute-en / reading text",
+    "note": "2 <bibl> citation gloss(es) identifying the source of a quoted verse fragment (not Falconer's translated text) were excluded entirely, tag and content."
+  },
+  {
+    "where": "de-senectute-en / division refs",
+    "note": "23 chapter milestones and 85 section milestones captured; each section's Division.ref is the chapter citation active when that section's milestone fired. Passage.ref is always null."
+  }
+]

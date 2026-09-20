@@ -1,0 +1,49 @@
+{
+  "workId": "pro-roscio-amerino-en",
+  "title": "For Sextus Roscius of Ameria",
+  "author": "Marcus Tullius Cicero",
+  "language": "en",
+  "translator": "Charles Duke Yonge",
+  "edition": "The Orations of Marcus Tullius Cicero, Volume 1, trans. Charles Duke Yonge (London: Bell, 1903), \"For Sextus Roscius of Ameria\"",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi002.perseus-eng2), digitising Charles Duke Yonge's translation \"For Sextus Roscius of Ameria\" (London: Bell, 1903); imported by scripts/import-pro-roscio-amerino-en. The raw file is fetched once (cached at scripts/import-pro-roscio-amerino-en/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Yonge's translation is in the public domain (published well over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's Pro Sexto Roscio Amerino - English, trans. Yonge",
+      "paragraphs": [
+        "This is Cicero's defence of Sextus Roscius against a charge of parricide, his first major criminal case, delivered in 80 BC under Sulla's dictatorship. It stands alongside the Latin text (Clark, 1908) already in this library as a facing English rendering of the same speech.",
+        "The text here is Yonge's translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Yonge's own footnotes are excluded - see \"How it was imported\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Charles Duke Yonge, trans., The Orations of Marcus Tullius Cicero, Volume 1 (London: Bell, 1903), this speech titled \"For Sextus Roscius of Ameria\". The speech is divided into 154 numbered sections, matching the Latin sibling exactly, plus the same independent \"chapter\" numbering marked inline (Yonge's own, per this edition's \"resp=\\\"yonge\\\"\" milestones)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi002.perseus-eng2.xml (CTS urn:cts:latinLit:phi0474.phi002.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the flat sequence of section <div>s and collects every <p> paragraph within each into that section's single Passage. Only transport/editorial scaffolding is removed: Yonge's own footnotes (every <note>), the inline chapter <milestone> markers (their values instead seed each section's Division.ref; the separate paragraph-position <milestone unit=\"Para\"/> markers carry no chapter number and are pure noise, dropped), and purely typographic wrapper tags (<foreign>, <quote>, <l>, <persName>, <placeName>, <title>) are unwrapped or dropped. This witness also carries a whole-speech \"The Argument\" synopsis before section 1, excluded from the reading text - see \"Known gaps & anomalies\". Entities are decoded and runs of whitespace collapsed."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by section number (1-154), plus the traditional \"chapter\" citation this edition also prints inline. A section's Division.ref is the chapter number active at that section's start. Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full machine-readable list. In summary: all 154 sections are present, in order, matching the Latin sibling section-for-section (including section 132's manuscript gap - Yonge's translation, made from a later, already-lacunose text, does not mark the gap explicitly the way Clark's critical edition does, and no corresponding <gap> element is present in this witness; not treated as an importer error, simply a difference between a translation and a critical edition); Yonge's own footnotes are excluded as translator apparatus; the whole-speech \"The Argument\" synopsis printed before section 1 is excluded from the reading text as editorial framing with no numbered home in this schema."
+      ]
+    }
+  ]
+}

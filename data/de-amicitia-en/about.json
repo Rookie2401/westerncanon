@@ -1,0 +1,52 @@
+{
+  "workId": "de-amicitia-en",
+  "title": "On Friendship",
+  "author": "Marcus Tullius Cicero",
+  "language": "en",
+  "translator": "William Armistead Falconer",
+  "edition": "Loeb Classical Library, 1923 printing",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi052.perseus-eng2), which digitises William Armistead Falconer’s translation \"Laelius on Friendship\", part of Cicero: De Senectute, De Amicitia, De Divinatione (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd, 1923 printing); imported by scripts/import-de-amicitia-en.",
+  "license": "Falconer's 1923 translation is in the public domain (published well over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero’s Laelius De Amicitia — English, trans. Falconer",
+      "paragraphs": [
+        "This is Cicero’s Laelius De Amicitia (\"Laelius, On Friendship\") in the English translation made by William Armistead Falconer for the Loeb Classical Library, 1923. It stands alongside the Latin text (ed. Falconer) already in this library as a facing English rendering of the same dialogue.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Falconer’s own translator’s footnotes are excluded — see \"How it was imported\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "William Armistead Falconer, trans., Cicero: De Senectute, De Amicitia, De Divinatione, Loeb Classical Library (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd, 1923 printing). This translation is in the public domain.",
+        "The work is undivided into Books, and is cited by 104 traditional sections, further grouped (per this edition’s own inline chapter milestones) into 27 traditional chapters, matching the Latin sibling section-for-section and chapter-for-chapter."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi052.perseus-eng2.xml (CTS urn:cts:latinLit:phi0474.phi052.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Unlike the companion De Divinatione/De Senectute English translations (which carry no section divs at all), this witness marks every section with an explicit `<div subtype=\"section\">`, matching the Latin structurally. The importer walks the 104 section divs directly under the translation root and collects each section’s single `<p>` into that section’s one Passage. XML transport scaffolding only is removed: the inline `<milestone unit=\"chapter\">` markers seed each section’s Division.ref rather than appearing in the reading text; dialogue speaker markup (`<said>`/`<label>`) is unwrapped with both the label and the spoken words kept, since both are genuinely printed text; `<foreign>`/`<quote>`/`<q>`/`<emph>` are likewise unwrapped with their text kept. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched.",
+        "Falconer's own 68 translator's `<note>` footnotes (cross-references and commentary, not the translated running text) and a single `<bibl>` citation gloss (identifying the source of a quoted verse fragment) are excluded from the reading text entirely, tag and content — apparatus, not Falconer's translated prose."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by section (1–104) and, where available, this edition’s own chapter number (1–27), reconstructed from its inline `<milestone unit=\"chapter\">` markers. Passage.ref is null throughout: no marker is printed at the per-paragraph level. Passage.n is also always empty."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 104 sections are present and in order, matching the Latin sibling section-for-section (data/de-amicitia-la). No paragraph is dropped, merged or reordered except where documented in anomalies.json; the bundled TEI file is identical to the current Perseus canonical-latinLit release.",
+        "Footnotes & citation gloss. 68 translator’s `<note>` footnotes and 1 `<bibl>` citation gloss were excluded entirely; neither is Falconer’s translated running text."
+      ]
+    }
+  ]
+}

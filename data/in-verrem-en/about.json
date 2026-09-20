@@ -1,0 +1,49 @@
+{
+  "workId": "in-verrem-en",
+  "title": "Against Verres",
+  "author": "Marcus Tullius Cicero",
+  "language": "en",
+  "translator": "Charles Duke Yonge",
+  "edition": "The Orations of Marcus Tullius Cicero, Volume 1, trans. Charles Duke Yonge (London: Bell, 1903), \"Against Verres\"",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi005.perseus-eng2), which digitises Yonge's translation; imported by scripts/import-in-verrem-en. The raw file is committed at scripts/import-in-verrem-en/raw/phi0474.phi005.perseus-eng2.xml.",
+  "license": "Yonge's translation is in the public domain. The digital transcription is distributed by Perseus/Open Greek and Latin under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's In Verrem, in English",
+      "paragraphs": [
+        "The English translation, by Charles Duke Yonge (1903), of Cicero's prosecution of Gaius Verres in 70 BC — a facing English rendering of the Latin text already in this library (data/in-verrem-la). Actio 1 is the short speech that opened the trial; Actio 2's five books (never actually delivered — Verres fled into exile first) were published as written speeches.",
+        "The text here is Yonge's translation, verbatim; nothing is further modernised or paraphrased. Yonge's own footnotes are excluded — see \"How it was imported\"."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Charles Duke Yonge, trans., The Orations of Marcus Tullius Cicero, Volume 1 (London: George Bell and Sons, 1903), \"Against Verres\". Public domain."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi005.perseus-eng2.xml (CTS urn:cts:latinLit:phi0474.phi005.perseus-eng2) from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository. Fetched once and bundled with the app."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Same three-level Actio -> Book -> Section structure as the Latin sibling, independently parsed but confirmed to divide identically (974 sections, same per-book split, same chapter-count maxima). Each Book's Division.sourceHeading is the LAST of its one-or-two rubric <head>s (mirroring the Latin sibling's own rule) — for Actio 2 this is the English rendering of the traditional subject subtitle. Every book also opens with a \"The Argument\" editorial div (Yonge's own background summary), explicitly recognised and excluded, never silently merged into a Section's passage."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation matches the Latin sibling: Actio, Book, and Section (this witness's own numbering), plus the traditional chapter reference as each Section's Division.ref, reconstructed from this witness's own inline chapter milestones (confirmed at the same positions as the Latin). Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "All 2 actiones, 6 books, and 974 sections are present and in order, matching the Latin sibling exactly. One <gap reason=\"lost\"/> (end of Actio 2 Book 4) marks a genuine lacuna in the source. See anomalies.json for every section with no preceding chapter milestone."
+      ]
+    }
+  ]
+}

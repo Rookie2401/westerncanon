@@ -1,0 +1,134 @@
+[
+  {
+    "where": "sec-4",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 4 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-9",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 3 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-25",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 26 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-29",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 4 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-37",
+    "note": "2 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 17 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-42",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 4 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-61",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 16 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-93",
+    "note": "2 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 72 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-103",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 9 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-106",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 8 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-107",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 26 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-108",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 11 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-119",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 13 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-127",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 3 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-130",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 5 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-134",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 5 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-143",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 17 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-144",
+    "note": "3 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 14 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-146",
+    "note": "2 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 11 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-148",
+    "note": "2 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 26 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-153",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 3 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-156",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 4 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-166",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 6 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-169",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 3 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-170",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 23 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-186",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 189 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-215",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 3 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-221",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 93 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-228",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 3 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-232",
+    "note": "1 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 3 characters were excluded from the reading text."
+  },
+  {
+    "where": "sec-235",
+    "note": "2 editorial deletion(s) (<del>, Wilkins' apparatus criticus) totalling 30 characters were excluded from the reading text."
+  },
+  {
+    "where": "orator-la / apparatus totals",
+    "note": "687 apparatus-criticus <note> elements were dropped entirely (tag and content); not logged individually given the number (mirrors the treatment elsewhere in this library)."
+  },
+  {
+    "where": "orator-la / del totals",
+    "note": "38 editorial deletion span(s) (654 characters total) that Wilkins marks as not part of his printed text were excluded; individual occurrences are also logged per-section above."
+  }
+]

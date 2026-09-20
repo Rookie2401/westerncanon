@@ -1,0 +1,18 @@
+[
+  {
+    "where": "actio-2-book-1-sec-158",
+    "note": "<gap reason=\"lost\"/> — the source marks a genuine lacuna here; nothing to preserve, no text fabricated."
+  },
+  {
+    "where": "in-verrem-en / reading text",
+    "note": "95 <note> translator footnotes were excluded entirely, tag and content; not logged individually given their number."
+  },
+  {
+    "where": "in-verrem-en / reading text",
+    "note": "12 paragraph(s) of Yonge's own \"The Argument\" editorial introduction (one per book, in a <div type=\"commentary\"> — note: no subtype= attribute at all in this witness, unlike the other English Cicero witnesses in this corpus) were excluded — historical background prose, not a translation of Cicero's own words."
+  },
+  {
+    "where": "in-verrem-en / passage & division refs",
+    "note": "Division.ref (Section only) is the nearest preceding <milestone unit=\"chapter\"> value within that section's own book (chapter numbering restarts at 1 per book); 0 section(s) had none yet and are individually logged above. Every Passage.ref is null."
+  }
+]

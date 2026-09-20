@@ -1,0 +1,49 @@
+{
+  "workId": "pro-archia-la",
+  "title": "Pro Archia Poeta",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "editor": "Albert Curtis Clark",
+  "edition": "M. Tulli Ciceronis Orationes, Volume 6, ed. Albert Curtis Clark (Oxford: Clarendon Press, 1911)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi016.perseus-lat2), digitising Albert Curtis Clark's Oxford Classical Text edition of Pro Archia Poeta (1911); imported by scripts/import-pro-archia-la. The raw file is fetched once (cached at scripts/import-pro-archia-la/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Clark's 1911 critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's Pro Archia Poeta",
+      "paragraphs": [
+        "Delivered in 62 BC, Pro Archia Poeta is Cicero's defence of his old teacher, the Greek poet Aulus Licinius Archias, against a charge that he was not a genuine Roman citizen. The legal argument occupies only the opening sections; most of the speech is a celebrated digression in praise of literature, poetry and the humane studies (studia humanitatis) - among the most quoted passages in all of Cicero's oratory.",
+        "The text here is Clark's Latin, verbatim. Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Albert Curtis Clark, ed., M. Tulli Ciceronis Orationes, Volume 6 (Oxford: Clarendon Press, 1911), an Oxford Classical Text. The speech is divided into 32 numbered sections, matching the traditionally cited section count exactly, plus an independent, coarser traditional \"chapter\" numbering (12 chapters) marked inline - see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi016.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi016.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the flat sequence of section <div>s and collects every <p> paragraph within each into that section's single Passage (joined with a blank line when a section has more than one paragraph). Only transport/editorial scaffolding is removed: Clark's critical apparatus (every <note> - manuscript variants and scholia, none of them Cicero's own words), the inline chapter <milestone> markers (their values instead seed each section's Division.ref), and purely typographic/editorial wrapper tags (<reg>, <choice>/<abbr>/<expan>, <add>, <quote>, <q>, <foreign>) are unwrapped or dropped per the rules in the importer's own module doc. Entities are decoded and runs of whitespace collapsed; the words themselves are untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by section number (Cicero's and the edition's own numbering, 1-32), plus the traditional Roman-numeral \"chapter\" citation the edition also prints inline (coarser-grained, independent of the section numbers). A section's Division.ref is the chapter number active at that section's start. Passage.ref is null throughout: no citation finer than the chapter exists in this source."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full machine-readable list. In summary: all 32 sections are present, in order, matching the traditionally cited section count exactly; Clark's critical apparatus is excluded entirely as editorial material, not Cicero's text."
+      ]
+    }
+  ]
+}

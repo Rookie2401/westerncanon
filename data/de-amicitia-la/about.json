@@ -1,0 +1,53 @@
+{
+  "workId": "de-amicitia-la",
+  "title": "Laelius De Amicitia",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "editor": "W. A. Falconer",
+  "edition": "Loeb Classical Library, 1923",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi052.perseus-lat2), which digitises the Latin text as edited by W. A. Falconer, Cicero: De Senectute, De Amicitia, De Divinatione (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd, 1923); imported by scripts/import-de-amicitia-la.",
+  "license": "Falconer's 1923 Loeb edition is in the public domain (published well over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero’s Laelius De Amicitia",
+      "paragraphs": [
+        "This is Cicero’s Laelius De Amicitia (\"Laelius, On Friendship\"), a dialogue in which the elder Gaius Laelius, in the days after the death of his friend Scipio Africanus the Younger, discusses the nature of true friendship with his sons-in-law Quintus Mucius Scaevola and Gaius Fannius.",
+        "The text here is the Latin, verbatim. Nothing is translated, modernised or silently corrected. Falconer’s own critical-apparatus notes (manuscript-reading variants) are excluded — see \"How it was imported\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "W. A. Falconer, ed., Cicero: De Senectute, De Amicitia, De Divinatione, Loeb Classical Library (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd, 1923). This edition is in the public domain.",
+        "The work is undivided into Books — a single continuous dialogue — and is cited by 104 traditional sections, further grouped (per this edition’s own inline chapter milestones) into 27 traditional chapters; see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi052.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi052.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the 104 section divs directly under the edition root (there is no Book wrapper) and collects each section’s single `<p>` into that section’s one Passage. XML transport scaffolding only is removed: `<reg>` (Falconer’s silently regularised spelling) is unwrapped with its text kept; the inline `<milestone unit=\"chapter\">` markers seed each section’s Division.ref rather than appearing in the reading text; dialogue speaker markup (`<said>`/`<label>`, e.g. \"FANNIUS.\") is unwrapped with both the label and the spoken words kept, since both are genuinely printed text. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched.",
+        "Falconer's own 16 critical-apparatus `<note>` elements (manuscript-reading variants, e.g. \"tum fere multis MSS.; tum forte Müller\") are excluded from the reading text entirely, tag and content — editorial apparatus, not Cicero's Latin."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by section (1–104) and, where available, this edition’s own chapter number (1–27), reconstructed from its inline `<milestone unit=\"chapter\">` markers — the chapter citation active when a given section closes. Passage.ref is null throughout: no marker is printed at the per-paragraph level. Passage.n is also always empty: this source prints no separate paragraph numbering below the section."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 104 sections are present and in order, matching the English sibling section-for-section (data/de-amicitia-en). No paragraph is dropped, merged or reordered except where documented in anomalies.json; the bundled TEI file is identical to the current Perseus canonical-latinLit release.",
+        "Apparatus. 16 `<note>` critical-apparatus notes (manuscript-reading variants) were excluded entirely; not Cicero’s text.",
+        "One stray section milestone. A single `<milestone unit=\"section\">` marker appears alongside the explicit section divs already present; ignored as redundant (see anomalies.json)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "workId": "tusculan-disputations-en",
+  "title": "Tusculan Disputations",
+  "author": "Marcus Tullius Cicero",
+  "language": "en",
+  "translator": "Charles Duke Yonge (chiefly)",
+  "edition": "Harper's New Classical Library, 1877",
+  "provenance": "Project Gutenberg ebook #14988, \"Cicero's Tusculan Disputations; Also, Treatises On the Nature of the Gods, and On the Commonwealth\" (Harper & Brothers, New York, 1877), fetched directly and committed to this repository at scripts/import-tusculan-disputations-en/raw/pg14988.txt. Only the Tusculan-Disputations-only portion of this shared three-work volume is used here - see index.ts's module doc for the exact delimiting text; \"On the Nature of the Gods\" and \"On the Commonwealth\" are out of scope and not present in this data.",
+  "license": "This translation is in the public domain (first published 1877, well over 95 years ago). The Project Gutenberg transcription of it is also in the public domain in the United States; see gutenberg.org/ebooks/14988 for Project Gutenberg's own terms on redistributing their specific eBook file, which this importer respects by keeping only the translated text itself rather than Gutenberg's own licence header/footer.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is the English translation of Cicero's Tusculan Disputations printed in Harper's New Classical Library (1877), attributed on its own title page to Charles Duke Yonge \"chiefly\" (the volume's title page hedges the attribution; this importer reproduces that phrasing rather than asserting sole authorship). It is bundled from a shared Gutenberg volume that also contains \"On the Nature of the Gods\" and \"On the Commonwealth\" - only the Tusculan Disputations portion is included here.",
+        "Navigation is by Book (5) and Section - this translation's own printed roman-numeral numbering (49/27/34/38/42 sections in Books I-V respectively), preserved inline in the source and captured here as each Section's Division.number.",
+        "A short \"INTRODUCTION.\" (historical background plus a one-line-per-book summary, credited by the source to Conyers Middleton) precedes Book I in the printed edition and is not included here - only the five Books of the dialogue itself, matching this library's treatment of a translator's introductory essay elsewhere (e.g. Jowett's \"Introduction and Analysis\" in Plato's Republic)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "workId": "pro-sestio-la",
+  "title": "Pro Sestio",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "edition": "William Peterson, ed., M. Tulli Ciceronis Orationes, Vol. 5 (Oxford: Clarendon Press, 1909)",
+  "editor": "William Peterson",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi022.perseus-lat2); imported by scripts/import-pro-sestio-la.",
+  "license": "Peterson's 1909 critical edition and Cicero's Latin text are in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Pro Sestio",
+      "paragraphs": [
+        "Delivered in 56 BC, Pro Sestio is Cicero's defence of Publius Sestius, a tribune of the plebs prosecuted for political violence during the campaign to secure Cicero's own recall from exile. The speech ranges far beyond the narrow legal charge into a sweeping defence of Cicero's consulship, his exile and restoration, and - in its famous central digression - a manifesto for the optimates, the \"boni\", as the party of constitutional order against popular demagoguery.",
+        "The text here is Latin only, verbatim. Nothing is translated, modernised, normalised or silently corrected beyond the documented resolution of the source's own critical-apparatus markup (see \"How it was imported\" below). Where the source is irregular or a genuine judgement call was made, it is preserved/recorded and flagged in \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "No English edition bundled - by design",
+      "paragraphs": [
+        "No English translation of Pro Sestio is bundled alongside this Latin text. This is a deliberate choice, not an oversight: two independent research passes searched Perseus's own CTS catalog for this work (which lists no \"perseus-eng*\" English witness for phi0474.phi022), English Wikisource, and Project Gutenberg, and found no public-domain, complete digital English translation that meets this app's two-source verification policy. A handful of 19th-century (Yonge-tradition) translation leads exist only on the Internet Archive, outside this app's established two-source policy for translation-hunting, and were not independently verified for completeness - so they were not used. Rather than ship an unverified or partial English text, the decision was to publish the Latin text on its own, mirroring how this library already handles Aristotle's Physics (data/physics-grc) when no suitable public-domain translation could be confirmed. A future contributor who locates and verifies a suitable source is welcome to add a companion data/pro-sestio-en/ work following the same flat section shape defined in data/pro-sestio-la/types.ts."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The printed source, per this XML file's own <teiHeader>/<sourceDesc> and __cts__.xml, is William Peterson, ed., M. Tulli Ciceronis Orationes, Vol. 5 (Oxford: Clarendon Press, 1909) - part of the Scriptorum Classicorum Bibliotheca Oxoniensis (Oxford Classical Texts) series.",
+        "The oration is divided into 147 numbered sections (the modern citation unit, e.g. \"Sest. 96\") and, more coarsely, 69 traditional Roman-numeral \"chapters\" (e.g. \"Sest. xliv\"), both printed in this source; see \"Reference scheme\" below for how each is represented here."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI/EpiDoc XML file phi0474.phi022.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi022.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It is fetched once (and cached under the importer's own raw/ directory) and bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer slices the single <div type=\"edition\"> body into its 147 flat, numbered <div type=\"textpart\" subtype=\"section\"> divisions (there is no intervening Book/Chapter tier), then takes the <p> paragraph(s) inside each section (joined with a blank line if more than one) as that section's single Passage. Clark's apparatus criticus (<note>, 552 occurrences: manuscript sigla, proposed emendations, editors' names) is excluded entirely, tag and content - it is scholarly commentary on the text, never Cicero's own words. <del> (3 occurrences: words the editor judged spurious and does not print) is likewise excluded entirely, each one individually logged in anomalies.json. <reg> (the editor's regularised-spelling form), <add> (his own editorial addition, incorporated into the printed text), <num rend=\"smallcaps\"> (a numeral set in small capitals, e.g. a date), and <quote>/<l>/<q> (material Cicero himself quotes - document rubrics, a verbatim legal clause, and quoted verse) are all unwrapped and kept inline, verbatim: these are genuinely part of what Clark prints as Cicero's oration, not apparatus. The work-level running-title <head> is discarded (not a section heading). Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched.",
+        "The source also prints the oration's traditional chapter citation inline, as <milestone unit=\"chapter\" n=\"N\"/> markers (69 total, sequential). Each section's Division.ref is set to the chapter number active at that section's start - the nearest preceding milestone in document order - built by a single left-to-right pass that never looks ahead; see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by section (Division.id \"sec-N\" / Division.number \"N\", e.g. \"Sest. 96\") - the same numbering the source itself prints and the modern standard citation unit for this speech - plus, in Division.ref, the traditional chapter number (e.g. \"44\") active at that section's start, reconstructed from the source's own inline chapter milestones. sec-1's ref is null: the source's own chapter-1 milestone sits just inside sec-1's own text, not before it, so no chapter has yet begun when sec-1 opens - the one documented, expected case of a null ref in this work. Passage.ref is null throughout and Passage.n is \"\" throughout (no further printed sub-numbering survives in this source)."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Every irregularity is either preserved verbatim and flagged, or excluded with the exclusion explicitly documented; anomalies.json records the full machine-readable list.",
+        "Apparatus criticus resolved into a single reading text. 552 <note> elements (manuscript sigla, proposed emendations, editors' names) were excluded entirely as scholarly commentary, not counted individually. 3 <del> elements (editorial deletions Clark does not print) were excluded entirely, each individually logged with the excluded Latin quoted in full. 39 <add> elements (Clark's own editorial additions, incorporated into his printed text) were kept inline.",
+        "Quoted material kept inline. Two bare document-rubric labels (\"Decvrionvm decreta.\", \"Litterae Ciceronis consulis.\") mark where a document was read into the record but not transcribed; one verbatim clause of the lex Clodia is quoted with its archaic \"v\"-for-consonantal-\"u\" spelling preserved exactly, not regularised; 18 <l> lines of quoted verse (with acute-accent metrical-ictus marks) are joined inline into the surrounding prose rather than kept as separate verse lines, since this work's flat section/passage schema has no dedicated verse-line field.",
+        "Completeness. All 147 sections and all 69 chapter milestones are present and in sequential order, from the incipit \"si quis antea, iudices, mirabatur quid esset quod, pro tantis opibus...\" to the explicit \"...eos conservetis per quos me reciperavistis.\""
+      ]
+    }
+  ]
+}

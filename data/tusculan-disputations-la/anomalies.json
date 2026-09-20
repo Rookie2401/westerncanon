@@ -1,0 +1,450 @@
+[
+  {
+    "where": "book-1-sec-7",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"operam\""
+  },
+  {
+    "where": "book-1-sec-22",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"alia\""
+  },
+  {
+    "where": "book-1-sec-29",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"homines\""
+  },
+  {
+    "where": "book-1-sec-31",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"Statius\""
+  },
+  {
+    "where": "book-1-sec-34",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \" . . . \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-34",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"nomen\""
+  },
+  {
+    "where": "book-1-sec-38",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"honore\""
+  },
+  {
+    "where": "book-1-sec-41",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \". . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-43",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"est\""
+  },
+  {
+    "where": "book-1-sec-52",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"sc. hoc se ipsum posse cognoscere\""
+  },
+  {
+    "where": "book-1-sec-54",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-1-sec-54",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"semper\""
+  },
+  {
+    "where": "book-1-sec-58",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"(no visible rendering supplied)\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-59",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"ur\""
+  },
+  {
+    "where": "book-1-sec-62",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"tu\""
+  },
+  {
+    "where": "book-1-sec-71",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"quidem\""
+  },
+  {
+    "where": "book-1-sec-73",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"cum\""
+  },
+  {
+    "where": "book-1-sec-76",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"(no visible rendering supplied)\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-77",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"contemnit\""
+  },
+  {
+    "where": "book-1-sec-88",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ita\""
+  },
+  {
+    "where": "book-1-sec-91",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"si\""
+  },
+  {
+    "where": "book-1-sec-96",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-1-sec-98",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-1-sec-107",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"sunt\""
+  },
+  {
+    "where": "book-1-sec-110",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"bonum\""
+  },
+  {
+    "where": "book-1-sec-113",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"tu\""
+  },
+  {
+    "where": "book-1-sec-116",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"commemorant\""
+  },
+  {
+    "where": "book-1-sec-116",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"nam\""
+  },
+  {
+    "where": "book-1-sec-116",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"est\""
+  },
+  {
+    "where": "book-2-sec-5",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"quam\""
+  },
+  {
+    "where": "book-2-sec-7",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ne\""
+  },
+  {
+    "where": "book-2-sec-20",
+    "note": "<label n=\"line_num\"> Ennius-verse line-number citation excluded from the reading text (the edition's own citation apparatus, not Cicero's words)."
+  },
+  {
+    "where": "book-2-sec-20",
+    "note": "<label n=\"line_num\"> Ennius-verse line-number citation excluded from the reading text (the edition's own citation apparatus, not Cicero's words)."
+  },
+  {
+    "where": "book-2-sec-20",
+    "note": "<label n=\"line_num\"> Ennius-verse line-number citation excluded from the reading text (the edition's own citation apparatus, not Cicero's words)."
+  },
+  {
+    "where": "book-2-sec-21",
+    "note": "<label n=\"line_num\"> Ennius-verse line-number citation excluded from the reading text (the edition's own citation apparatus, not Cicero's words)."
+  },
+  {
+    "where": "book-2-sec-21",
+    "note": "<label n=\"line_num\"> Ennius-verse line-number citation excluded from the reading text (the edition's own citation apparatus, not Cicero's words)."
+  },
+  {
+    "where": "book-2-sec-21",
+    "note": "<label n=\"line_num\"> Ennius-verse line-number citation excluded from the reading text (the edition's own citation apparatus, not Cicero's words)."
+  },
+  {
+    "where": "book-2-sec-27",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"et\""
+  },
+  {
+    "where": "book-2-sec-30",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"igitur\""
+  },
+  {
+    "where": "book-2-sec-31",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"frustra\""
+  },
+  {
+    "where": "book-2-sec-34",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"sive Iuppiter\""
+  },
+  {
+    "where": "book-2-sec-37",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"acies\""
+  },
+  {
+    "where": "book-2-sec-38",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \" * * *\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-39",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"non minus autem exercitatum\""
+  },
+  {
+    "where": "book-2-sec-39",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \". .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-42",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"eius\""
+  },
+  {
+    "where": "book-2-sec-49",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \" . . . . . . . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-52",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"sed fac totum dolere corpus\""
+  },
+  {
+    "where": "book-2-sec-60",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"si,\""
+  },
+  {
+    "where": "book-2-sec-62",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"ut\""
+  },
+  {
+    "where": "book-2-sec-67",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"si\""
+  },
+  {
+    "where": "book-3-sec-34",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"nihil ei accidit nisi quod\""
+  },
+  {
+    "where": "book-3-sec-35",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"quod\""
+  },
+  {
+    "where": "book-3-sec-38",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-3-sec-46",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"odorum\""
+  },
+  {
+    "where": "book-3-sec-53",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"(no visible rendering supplied)\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-58",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"(no visible rendering supplied)\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-66",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-3-sec-73",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"se\""
+  },
+  {
+    "where": "book-3-sec-76",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"(no visible rendering supplied)\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-76",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut Cyrenaici\""
+  },
+  {
+    "where": "book-3-sec-82",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"sustulit\""
+  },
+  {
+    "where": "book-4-sec-3",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"et\""
+  },
+  {
+    "where": "book-4-sec-13",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"si\""
+  },
+  {
+    "where": "book-4-sec-13",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-4-sec-19",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \". . .\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-4-sec-22",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"a\""
+  },
+  {
+    "where": "book-4-sec-27",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"quosdam\""
+  },
+  {
+    "where": "book-4-sec-27",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"sic\""
+  },
+  {
+    "where": "book-4-sec-27",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et ebriositatem\""
+  },
+  {
+    "where": "book-4-sec-28",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"sunt\""
+  },
+  {
+    "where": "book-4-sec-30",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut\""
+  },
+  {
+    "where": "book-4-sec-32",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"non\""
+  },
+  {
+    "where": "book-4-sec-39",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"si\""
+  },
+  {
+    "where": "book-4-sec-47",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-4-sec-57",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \", non praemeditatum sit\""
+  },
+  {
+    "where": "book-4-sec-58",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-4-sec-68",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \" . . . . . . . . . . . . . . . . . . . . \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-4-sec-75",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"est\""
+  },
+  {
+    "where": "book-4-sec-81",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"ut\""
+  },
+  {
+    "where": "book-4-sec-82",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"ita\""
+  },
+  {
+    "where": "book-5-sec-27",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"eius\""
+  },
+  {
+    "where": "book-5-sec-33",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"fueritne consentaneum\""
+  },
+  {
+    "where": "book-5-sec-50",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"est\""
+  },
+  {
+    "where": "book-5-sec-50",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-5-sec-52",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"autem\""
+  },
+  {
+    "where": "book-5-sec-54",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"a bono consule\""
+  },
+  {
+    "where": "book-5-sec-54",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"a bono populo\""
+  },
+  {
+    "where": "book-5-sec-68",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et in ratione be\""
+  },
+  {
+    "where": "book-5-sec-70",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-5-sec-76",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-5-sec-80",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-5-sec-84",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"doloris\""
+  },
+  {
+    "where": "book-5-sec-87",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"et\""
+  },
+  {
+    "where": "book-5-sec-87",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"finem\""
+  },
+  {
+    "where": "book-5-sec-88",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-5-sec-94",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"non\""
+  },
+  {
+    "where": "book-5-sec-95",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-5-sec-95",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut\""
+  },
+  {
+    "where": "book-5-sec-96",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"cum\""
+  },
+  {
+    "where": "book-5-sec-102",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-5-sec-106",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"sicut a\""
+  },
+  {
+    "where": "book-5-sec-107",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"an potest exilium ignominia\""
+  },
+  {
+    "where": "book-5-sec-114",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-5-sec-116",
+    "note": "<del> excluded from the reading text (Pohlenz's apparatus brackets this as a probable interpolation/gloss): \"Epicurei\""
+  },
+  {
+    "where": "book-5-sec-119",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"si\""
+  },
+  {
+    "where": "tusculan-disputations-la / structure",
+    "note": "This edition (Pohlenz 1918) carries NO <milestone unit=\"chapter\"/> markers and NO <head> book-title elements at all, unlike its De Finibus sibling (Schiche 1915, same Perseus text group) - confirmed by direct inspection, not a parsing gap. Every Section Division.ref and every Book Division.sourceHeading is therefore null throughout this edition. The traditional Tusculan chapter numbers are available on the English sibling instead (data/tusculan-disputations-en), whose source happens to print them inline; the two editions are parsed independently and not reconciled."
+  },
+  {
+    "where": "tusculan-disputations-la / reading text",
+    "note": "4196 <note> elements (Pohlenz's critical apparatus) were excluded entirely, tag and content; not logged individually given their number. This also accounts for the 3 <del>, 25 <add> occurrences nested inside an excluded <note> (already excluded as part of it, not double-logged below)."
+  },
+  {
+    "where": "tusculan-disputations-la / reading text",
+    "note": "28 <del> spans outside any <note> were excluded from the reading text; every occurrence is logged individually above."
+  },
+  {
+    "where": "tusculan-disputations-la / reading text",
+    "note": "60 <add> editorial insertions outside any <note> were kept verbatim in the reading text; every occurrence is logged individually above and flagged on its Passage."
+  },
+  {
+    "where": "tusculan-disputations-la / reading text",
+    "note": "12 <gap/> markers outside any <note> were kept as their literal printed rendering where one is supplied; every occurrence is logged individually above."
+  },
+  {
+    "where": "tusculan-disputations-la / reading text",
+    "note": "6 <label n=\"line_num\"> Ennius-verse line-number citations were excluded from the reading text entirely; every occurrence is logged individually above."
+  }
+]

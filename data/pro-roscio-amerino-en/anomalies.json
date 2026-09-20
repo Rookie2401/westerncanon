@@ -1,0 +1,14 @@
+[
+  {
+    "where": "pro-roscio-amerino-en / apparatus",
+    "note": "19 <note anchored=\"true\"> footnotes (Yonge's own translator's commentary - explaining puns, textual cruxes, historical background, and one embedded verse citation from Ennius) were excluded entirely, tag and content."
+  },
+  {
+    "where": "pro-roscio-amerino-en / Division.ref",
+    "note": "53 <milestone unit=\"chapter\"/> markers captured; each section's Division.ref is the chapter number active at that section's start (nearest preceding chapter milestone in document order) - see data/pro-roscio-amerino-la/types.ts. Passage.ref is null throughout."
+  },
+  {
+    "where": "pro-roscio-amerino-en / (work level) front matter",
+    "note": "This witness carries one further division the Latin sibling does not: a <div subtype=\"commentary\"> holding \"The Argument\" (1 paragraph(s)), a whole-speech synopsis printed once before section 1. Excluded from the reading text for the same reason as Pro Archia's English edition - see that importer's module doc and anomalies.json entry. Flagged here for independent review, not silently dropped."
+  }
+]

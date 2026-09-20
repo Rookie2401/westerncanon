@@ -129,23 +129,31 @@ export function genericNeighbors(
 }
 
 /**
- * "Book" for a top-level book division, "Proposition" for a Euclid
- * proposition leaf (including Book X's split Propositions I/II/III), and
- * "Chapter" for an Augustine chapter leaf — derived from the id shapes each
- * importer produces (`book-N`, `book-N-prop-M`, `book-N-propX-M`,
- * `book-N-ch-M`) — so these read as what they are rather than as an
- * anonymous numbered "§". Every other generic-profile work's divisions don't
- * match any of these shapes and fall through to the plain "§ N" label
- * unchanged.
+ * "Book" for a book division (top-level, e.g. `book-N`, or nested under an
+ * Actio, e.g. `actio-N-book-M`), "Proposition" for a Euclid proposition leaf
+ * (including Book X's split Propositions I/II/III), "Chapter" for an
+ * Augustine chapter leaf, "Speech" for a Cicero oration division
+ * (`speech-N`, e.g. each of the four In Catilinam orations or the fourteen
+ * Philippics), and "Actio" for the two actiones of In Verrem (`actio-N`) —
+ * derived from the id shapes each importer produces — so these read as what
+ * they are rather than as an anonymous numbered "§". A Cicero section leaf
+ * (`book-N-sec-M`, `speech-N-sec-M`, `actio-N-book-M-sec-K`, or a flat
+ * `sec-N` for a single-speech/undivided work) matches none of these shapes
+ * and falls through to the plain "§ N" label, same as every other
+ * generic-profile work's non-matching divisions.
  */
-const BOOK_ID = /^book-\d+$/;
+const BOOK_ID = /(^|-)book-\d+$/;
 const PROPOSITION_ID = /-prop[123]?-\d+$/;
 const CHAPTER_ID = /-ch-\d+$/;
+const SPEECH_ID = /^speech-\d+$/;
+const ACTIO_ID = /^actio-\d+$/;
 
 function kindLabel(d: Division): string | null {
   if (BOOK_ID.test(d.id)) return 'Book';
   if (PROPOSITION_ID.test(d.id)) return 'Proposition';
   if (CHAPTER_ID.test(d.id)) return 'Chapter';
+  if (SPEECH_ID.test(d.id)) return 'Speech';
+  if (ACTIO_ID.test(d.id)) return 'Actio';
   return null;
 }
 

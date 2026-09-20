@@ -1,0 +1,50 @@
+{
+  "workId": "in-catilinam-en",
+  "title": "Against Catiline",
+  "author": "Marcus Tullius Cicero",
+  "language": "en",
+  "translator": "Charles Duke Yonge",
+  "edition": "The Orations of Marcus Tullius Cicero, Volume 2, trans. Charles Duke Yonge (London: Bell, 1856), \"Against L. Catiline\"",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi013.perseus-eng2), which digitises Yonge's 1856 translation; imported by scripts/import-in-catilinam-en. The raw file is committed at scripts/import-in-catilinam-en/raw/phi0474.phi013.perseus-eng2.xml.",
+  "license": "Yonge's 1856 translation is in the public domain. The digital transcription is distributed by Perseus/Open Greek and Latin under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's speeches against Catiline, in English",
+      "paragraphs": [
+        "The English translation, by Charles Duke Yonge (1856), of the four speeches Cicero delivered against Lucius Sergius Catilina in 63 BC — a facing English rendering of the Latin text already in this library (data/in-catilinam-la).",
+        "The text here is Yonge's translation, verbatim; nothing is further modernised or paraphrased. Yonge's own editorial \"Argument\" introductions and footnotes (historical background, not his translation of Cicero's words) are excluded — see \"How it was imported\"."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Charles Duke Yonge, trans., The Orations of Marcus Tullius Cicero, Volume 2 (London: Henry G. Bohn, 1856), \"Against L. Catiline\". Public domain."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi013.perseus-eng2.xml (CTS urn:cts:latinLit:phi0474.phi013.perseus-eng2) from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository. Fetched once and bundled with the app."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each speech is a top-level Division (speech-1..speech-4) holding its Sections (speech-N-sec-M), independently parsed from the Latin sibling but confirmed to divide identically (33/29/29/24 sections). Every speech in this witness also nests a \"THE ARGUMENT.\" commentary div directly before its sections — Yonge's own prose summary of the oration's historical background — which the importer explicitly recognises and excludes (never silently merged into a Section's passage).",
+        "Yonge's own footnotes (14, historical/explanatory) are excluded entirely, each logged individually; his paragraph-numbering milestones and the source's print page-break markers are dropped as zero-width transport scaffolding."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation matches the Latin sibling: Speech and Section (this witness's own numbering), plus the traditional chapter reference as each Section's Division.ref, reconstructed from this witness's own inline chapter milestones (confirmed at the same positions as the Latin). Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "All 4 speeches and all 115 sections are present and in order, matching the Latin sibling and the traditionally cited section counts exactly. See anomalies.json for the itemised account of every excluded footnote and every section with no preceding chapter milestone."
+      ]
+    }
+  ]
+}

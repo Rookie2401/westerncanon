@@ -1,0 +1,53 @@
+{
+  "workId": "de-finibus-en",
+  "title": "De Finibus Bonorum et Malorum",
+  "author": "Marcus Tullius Cicero",
+  "language": "en",
+  "translator": "Charles Duke Yonge",
+  "edition": "Yonge's translation, Bohn's Classical Library, 1891 printing",
+  "provenance": "English Wikisource, \"The Academic Questions, Treatise De Finibus, and Tusculan Disputations / De Finibus, a Treatise on the Chief Good and Evil\" (5 Book subpages), fetched once per book via the MediaWiki action=parse&prop=text API (a page-scan transclusion: action=parse&prop=wikitext for these pages returns only <pages/> markup, not the text itself, so the rendered HTML was fetched and parsed with jsdom instead, the same technique used by scripts/import-aristotle-metaphysics-en); imported by scripts/import-de-finibus-en. The raw per-book dumps are committed under scripts/import-de-finibus-en/raw/.",
+  "license": "Charles Duke Yonge's translation (first published 1853; this text reprints Bohn's Classical Library's 1891 printing) is in the public domain: both the original 1853 translation and this 1891 reprint are well over 95 years old. The digital transcription and page-scan proofreading are distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "De Finibus - English, trans. Yonge",
+      "paragraphs": [
+        "This is Cicero's De Finibus Bonorum et Malorum in the English translation made by Charles Duke Yonge, first published in 1853 and reprinted (the text transcribed here) in Bohn's Classical Library in 1891.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Footnotes (the translator's/editor's own apparatus, not part of the translated running text) are excluded - see \"How it was imported\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Charles Duke Yonge, trans., \"The Treatise De Finibus, a Treatise on the Chief Good and Evil\", in The Academic Questions, Treatise De Finibus, and Tusculan Disputations, Of M. T. Cicero, with a Sketch of the Greek Philosophers Mentioned by Cicero (Bohn's Classical Library, 1891 printing). This translation is in the public domain.",
+        "The work is divided into 5 Books and, within each Book, numbered chapters (21/35/22/28/32 in Books 1-5 respectively) - matching the traditional Ciceronian chapter numbering exactly, and matching the independently-parsed Latin sibling's own chapter-milestone counts. This source prints no Stephanus/Bekker-style page apparatus of its own, so citation here is by Book and chapter only; see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the RENDERED HTML of each of the 5 English Wikisource \"...De Finibus.../Book N\" subpages, fetched once through the MediaWiki action=parse&prop=text API and committed under the importer's raw/ directory. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Unlike the Wikisource \"Metaphysics (Ross, 1908)\" source used elsewhere in this app, this translation has no separate chapter-heading markup at all: the chapter number is simply the first word of certain paragraphs' own printed text (e.g. \"XVII. And I will now explain...\"), stripped here and moved to that Section's Division.number. Ordinary paragraphs become passages; page-scan furniture only is removed (per-template style/link resets, page-number scan markers, edit-section links, and inline footnote-reference markers, all counted and stripped - the footnotes themselves are editorial apparatus and are not preserved, matching this library's other English translations). A plain \"<Ordinal> Book Of The Treatise...\" furniture line at the head of Books 2-5 is recognised and skipped.",
+        "One genuine source irregularity: Book 2 prints no explicit \"I.\" marker at all - its dialogue simply begins after the book-title furniture line, with the first printed marker being \"II.\". The paragraph(s) before that \"II.\" are chapter 1's own text (confirmed continuous with what follows, and the marker sequence otherwise running one short of the traditionally-cited 35 chapters); this importer treats them as an explicit, disclosed editorial inference - an implicit, unprinted section 1 - rather than silently merging them into chapter II or fabricating a numeral the source does not print. See anomalies.json."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and chapter (Yonge's own printed roman-numeral chapter divisions, which this app stores as each Section's Division.number). Division.ref is null throughout - this page-scan transcription carries no page/column reference apparatus of its own to reconstruct one from; Passage.ref is likewise always null."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 5 Books and all 21/35/22/28/32 chapters are present and in order, matching the traditional count and the independently-parsed Latin sibling's own chapter-milestone counts exactly.",
+        "Book 2's missing \"I.\" marker. See \"How it was imported\" above and anomalies.json for the full account - this is a genuine feature of the Wikisource source, confirmed by direct inspection, not a parsing error.",
+        "Footnotes. Every inline footnote-reference marker was stripped; the footnotes themselves (translator's/editor's apparatus, not Cicero's/Yonge's running text) are not preserved anywhere in this build. See anomalies.json for the total count."
+      ]
+    }
+  ]
+}

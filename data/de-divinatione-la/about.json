@@ -1,0 +1,54 @@
+{
+  "workId": "de-divinatione-la",
+  "title": "De Divinatione",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "editor": "C. F. W. Mueller",
+  "edition": "Leipzig: Teubner, 1915",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi053.perseus-lat1), which digitises the Latin text as edited by C. F. W. Mueller, M. Tullii Ciceronis De divinatione libri duo libri de fato quae manserunt (Leipzig: Teubner, 1915); imported by scripts/import-de-divinatione-la.",
+  "license": "Mueller's 1915 Teubner edition is in the public domain (published well over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero’s De Divinatione",
+      "paragraphs": [
+        "This is Cicero’s De Divinatione (\"On Divination\"), a dialogue in two books between Cicero and his brother Quintus on the validity of divination — Quintus defending the Stoic position that some form of foreknowledge is real, Cicero (in Book 2) arguing the Academic sceptic’s case against it.",
+        "The text here is the Latin, verbatim. Nothing is translated, modernised or silently corrected. Mueller’s own editorial synopses (\"ARGUMENTUM\") preceding each book are excluded, as is his critical apparatus — see \"How it was imported\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "C. F. W. Mueller, ed., M. Tullii Ciceronis De divinatione libri duo libri de fato quae manserunt (Leipzig: Teubner, 1915). This edition is in the public domain.",
+        "The work is divided into 2 Books and, within each, numbered sections (132 in Book 1, 150 in Book 2, restarting at 1 each Book) further grouped into 58 and 72 traditional chapters respectively (chapter numbering restarts at 1 in Book 2 too), per this edition’s own inline chapter milestones."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi053.perseus-lat1.xml (CTS urn:cts:latinLit:phi0474.phi053.perseus-lat1) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and section `<div>`s and collects every `<p>` paragraph within each section, in document order, into that section’s single Passage. Each book’s \"ARGUMENTUM\" (Mueller’s own third-person prose synopsis, e.g. \"Hoc altero de divinatione libro Cicero postquam...\") is excluded entirely — it is editorial framing, not Cicero’s text, and this app’s schema has no field for a book-level synopsis. XML transport scaffolding only is removed: the inline `<milestone unit=\"chapter\">` markers seed each section’s Division.ref rather than appearing in the reading text; `<speaker>`/`<quote>`/`<q>`/`<foreign>`/`<hi>` are unwrapped with their text kept. Entities are decoded and whitespace collapsed.",
+        "Mueller's own critical apparatus is handled the same way this app already treats it in Nicomachean Ethics (Bywater/Perseus): text his apparatus brackets as a probable interpolation (<del>, 14 spans) is excluded; a genuine editorial insertion he prints (<add>, 26 spans) is kept; a marked manuscript lacuna (<gap>, 7 markers) is kept as its literal printed rendering. The single <note> in this witness (a speaker-change abbreviation inline within a quoted Ennius verse passage) is excluded per this app's blanket <note> rule — see the module doc for why this is flagged as a genuine judgment call rather than routine apparatus. Every occurrence of all of these is logged individually in anomalies.json."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and section, plus this edition’s own chapter number where available, reconstructed from its inline `<milestone unit=\"chapter\">` markers (chapter numbering restarts at 1 in Book 2). Passage.ref is null throughout; Passage.n is always empty."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. Both Books and all 282 sections (132 + 150) are present and in order. No paragraph is dropped, merged or reordered except where documented in anomalies.json; the bundled TEI file is identical to the current Perseus canonical-latinLit release.",
+        "Editorial synopses excluded. Each book’s \"ARGUMENTUM\" (a third-person prose summary by Mueller) is excluded entirely from the reading text — not Cicero’s own words, and this app’s Book->section schema has no place for a book-level synopsis.",
+        "Apparatus. 14 <del> spans excluded, 26 <add> spans kept, 7 <gap> markers kept as their literal printed rendering. All individually logged.",
+        "One judgment-call note exclusion. The single <note> in this witness is a speaker-change abbreviation (\"C.\") printed inline within a quoted verse passage from Ennius, arguably part of the printed page rather than editorial apparatus — excluded anyway, per this app’s blanket <note> rule, for consistency; flagged individually."
+      ]
+    }
+  ]
+}

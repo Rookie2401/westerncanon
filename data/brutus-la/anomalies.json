@@ -1,0 +1,22 @@
+[
+  {
+    "where": "brutus-la / front matter",
+    "note": "The source's first \"section\" division (n=\"sigla\") is Wilkins' own editorial key of manuscript sigla (F, B, O, G, H, M, L, N, D, codd. dett., vulg.) - front matter for his critical apparatus, not part of Cicero's text. Excluded entirely; the work's 333 real sections become sec-1..sec-333."
+  },
+  {
+    "where": "sec-71",
+    "note": "lacuna marker <gap reason=\"omitted\" rend=\". . . .\"/> found; the printed edition marks a manuscript gap here (no text content in the tag itself, so nothing is fabricated in its place)."
+  },
+  {
+    "where": "sec-333",
+    "note": "lacuna marker <gap reason=\"lost\" rend=\". . .\"/> found; the printed edition marks a manuscript gap here (no text content in the tag itself, so nothing is fabricated in its place)."
+  },
+  {
+    "where": "sec-333",
+    "note": "lacuna marker <gap reason=\"lost\" rend=\". . .\"/> found; the printed edition marks a manuscript gap here (no text content in the tag itself, so nothing is fabricated in its place)."
+  },
+  {
+    "where": "brutus-la / apparatus totals",
+    "note": "690 apparatus-criticus <note> elements were dropped entirely (tag and content); not logged individually given the number (mirrors the treatment elsewhere in this library)."
+  }
+]

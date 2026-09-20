@@ -1,0 +1,50 @@
+{
+  "workId": "in-catilinam-la",
+  "title": "In Catilinam",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "editor": "Albert Curtis Clark",
+  "edition": "M. Tulli Ciceronis Orationes, Volume 1, ed. Albert Curtis Clark (Oxford: Clarendon Press, 1908)",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi013.perseus-lat2), which digitises Clark's 1908 Oxford Classical Text; imported by scripts/import-in-catilinam-la. The raw file is committed at scripts/import-in-catilinam-la/raw/phi0474.phi013.perseus-lat2.xml.",
+  "license": "Clark's 1908 edition of the Latin text is in the public domain. The digital transcription is distributed by Perseus/Open Greek and Latin under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's In Catilinam",
+      "paragraphs": [
+        "The four speeches Cicero delivered against Lucius Sergius Catilina in 63 BC, as consul, denouncing Catiline's conspiracy to overthrow the Roman Republic — among the most famous political oratory to survive from antiquity, opening with the celebrated \"Quo usque tandem abutere, Catilina, patientia nostra?\"",
+        "The text here is the original Latin, verbatim, in Albert Curtis Clark's 1908 Oxford Classical Text. Nothing is translated, modernised or silently corrected. One word Clark's apparatus marks as a spurious later addition is excluded (matching this library's established <del> convention elsewhere); his own conjectural supplements are kept — see \"Known gaps & anomalies\"."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Albert Curtis Clark, ed., M. Tulli Ciceronis Orationes, Volume 1 (Oxford: Clarendon Press, 1908) — the Oxford Classical Text. Public domain."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi013.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi013.perseus-lat2) from the Perseus Digital Library / Open Greek and Latin canonical-latinLit repository. Fetched once and bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each of the four speeches is a top-level Division (speech-1..speech-4) holding its Sections (speech-N-sec-M), numbered continuously within the speech as printed. Each Section holds one Passage — its <p> text, transport scaffolding stripped (entities decoded, whitespace collapsed). Clark's textual-critical apparatus, embedded inline as full <note> content (manuscript sigla, variant readings, conjecture — not Cicero's own words), is excluded entirely; see the importer's module doc for the complete, itemised account of every other markup decision (the single <del>, the eight <add>, and the seventy <choice><abbr>/<expan> praenomen abbreviations)."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Speech and Section (this source's own continuous numbering), plus the traditional Roman \"chapter\" reference as Division.ref on each Section — reconstructed from the source's own inline chapter milestones (also reset to 1 at the start of each speech). Passage.ref is null throughout: no finer per-paragraph reference is printed."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "All 4 speeches and all 115 sections (33/29/29/24) are present and in order, matching the traditionally cited section counts exactly. See anomalies.json for the complete, individually logged account of the one <del> exclusion, the eight <add> supplements, and every section with no preceding chapter milestone.",
+        "Seventy <choice><abbr>/<expan> pairs (all Roman praenomen abbreviations, e.g. \"Ti.\" for Tiberius) keep the literally-printed abbreviated form in the reading text rather than the un-printed editorial expansion — see the importer's module doc for the reasoning; flagged in the final import report as a judgment call rather than a hard rule from the source."
+      ]
+    }
+  ]
+}

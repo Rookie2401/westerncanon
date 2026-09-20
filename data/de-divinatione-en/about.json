@@ -1,0 +1,53 @@
+{
+  "workId": "de-divinatione-en",
+  "title": "On Divination",
+  "author": "Marcus Tullius Cicero",
+  "language": "en",
+  "translator": "William Armistead Falconer",
+  "edition": "Loeb Classical Library, 1923 printing",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi053.perseus-eng1), which digitises William Armistead Falconer’s translation of De Divinatione, part of Cicero: De Senectute, De Amicitia, De Divinatione (London: William Heinemann Ltd; New York: G. P. Putnam’s Sons, 1923 printing); imported by scripts/import-de-divinatione-en.",
+  "license": "Falconer's 1923 translation is in the public domain (published well over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero’s De Divinatione — English, trans. Falconer",
+      "paragraphs": [
+        "This is Cicero’s De Divinatione (\"On Divination\") in the English translation made by William Armistead Falconer for the Loeb Classical Library, 1923. It stands alongside the Latin text (ed. Mueller) already in this library as a facing English rendering of the same dialogue.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Falconer’s own translator’s footnotes are excluded — see \"How it was imported\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "William Armistead Falconer, trans., Cicero: De Senectute, De Amicitia, De Divinatione, Loeb Classical Library (London: William Heinemann Ltd; New York: G. P. Putnam’s Sons, 1923 printing). This translation is in the public domain.",
+        "The work is divided into 2 Books, cited by section (131 present of 132 in Book 1 — see \"Known gaps & anomalies\"; all 150 present in Book 2) and, where this edition’s own inline chapter milestones supply one, by chapter."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi053.perseus-eng1.xml (CTS urn:cts:latinLit:phi0474.phi053.perseus-eng1) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Unlike the Latin sibling, this witness carries no section divs at all (only the 2 Book divs). Every section boundary is reconstructed from this source’s own inline `<milestone unit=\"section\">` markers, which often fall mid-paragraph; the importer cuts the running text at each one. `<milestone unit=\"chapter\">` markers likewise seed each section’s Division.ref. A handful of quoted-verse passages (Cicero’s own early poem \"Marius\", his verse translation of Aratus’s Prognostica) are printed as a bare `<quote>`/`<l>` block sitting between two `<p>` elements rather than inside either — captured regardless, since the importer reads all text within a Book. XML transport scaffolding only is removed: `<foreign>`, `<quote>`, `<hi>`, `<l>` are unwrapped with their text kept; entities decoded, whitespace collapsed.",
+        "Falconer's own 289 translator's `<note>` footnotes and 5 `<bibl>` citation glosses (identifying the source of a quoted verse fragment) are excluded from the reading text entirely, tag and content."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and section, plus this edition’s own chapter number where available. Passage.ref is null throughout; Passage.n is always empty."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Section 25 (Book 1). This witness has no `<milestone unit=\"section\">` for it — a genuine gap in this specific digitisation, not a duplicate (contrast the companion De Senectute English witness’s \"35\"/\"35b\" duplicate-numbering irregularity). Book 2’s own section-milestone sequence is complete (1..150, no gaps). Nothing is fabricated; section 25 is present and complete in the Latin sibling (data/de-divinatione-la).",
+        "One source typo. A single `<milestone unit=\"seciton\" n=\"…\"/>` (misspelled \"section\") is treated identically to a normal section milestone; logged individually in anomalies.json.",
+        "Footnotes & citation glosses. 289 translator’s `<note>` footnotes and 5 `<bibl>` citation glosses were excluded entirely; neither is Falconer’s translated running text."
+      ]
+    }
+  ]
+}

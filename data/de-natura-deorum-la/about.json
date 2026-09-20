@@ -1,0 +1,54 @@
+{
+  "workId": "de-natura-deorum-la",
+  "title": "De Natura Deorum",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "editor": "Otto Plasberg",
+  "edition": "Scripta Quae Manserunt Omnia, Fasc. 45 (Leipzig: Teubner, 1917)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi050.perseus-lat2), which digitises the Latin text as edited by Otto Plasberg, M. Tulli Ciceronis Scripta Quae Manserunt Omnia, Fasc. 45: De Natura Deorum (Leipzig: Teubner, 1917); imported by scripts/import-de-natura-deorum-la. NOTE: the commissioning brief for this import assumed a perseus-lat1/Mueller witness by analogy with the sibling De Divinatione volume; this work’s own __cts__.xml lists only perseus-lat2/Plasberg, and no perseus-lat1 file exists for it - confirmed directly rather than assumed.",
+  "license": "Plasberg's 1917 Teubner edition is in the public domain (published well over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero’s De Natura Deorum",
+      "paragraphs": [
+        "This is Cicero’s De Natura Deorum (\"On the Nature of the Gods\"), a dialogue in three books surveying Epicurean, Stoic and Academic sceptic views of the gods, staged as a conversation among Gaius Velleius (Epicurean), Quintus Lucilius Balbus (Stoic) and Gaius Aurelius Cotta (Academic).",
+        "The text here is the Latin, verbatim. Nothing is translated, modernised or silently corrected. Where the source is irregular — a bracketed interpolation, an editorial insertion, a marked lacuna, the fragmentary close of Book 3 — the irregularity is preserved and noted; see \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Otto Plasberg, ed., M. Tulli Ciceronis Scripta Quae Manserunt Omnia, Fasc. 45: De Natura Deorum (Leipzig: Teubner, 1917). This edition is in the public domain.",
+        "The work is divided into 3 Books and, within each, numbered sections (124 in Book 1, 168 in Book 2, 95 in Book 3). Unlike the companion De Divinatione/De Amicitia/De Senectute Latin texts in this library, this witness prints no chapter milestones at all, so citation here is by Book and section only — see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi050.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi050.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and section `<div>`s and collects every `<p>` paragraph within each section, in document order, into that section’s single Passage (485 `<p>` elements across 387 sections, so many sections hold more than one). XML transport scaffolding only is removed: `<foreign>`/`<quote>`/`<q>`/`<hi>`/`<lg>`/`<l>` (verse) are unwrapped with their text kept; `<cit>` (a fragment-citation wrapper in Book 3’s ending) is likewise unwrapped.",
+        "Plasberg's own critical apparatus is handled the same way this app already treats it in Nicomachean Ethics (Bywater/Perseus): text his apparatus brackets as a probable interpolation (<del>, 18 spans) is excluded; a genuine editorial insertion he prints (<add>, 46 spans) is kept; a marked manuscript lacuna (<gap>, 33 markers) is kept as its literal printed rendering. In Book 3's fragmentary ending, each secondary-source citation (<bibl>, 6 occurrences, e.g. \"Lact. Inst. 2.3.2\") is excluded as apparatus, and a single Perseus-added English editorial marker (<label resp=\"perseus\">, 2 occurrences: \"Fragments: sources are not immediately clear.\") is excluded as not being Latin or Cicero's/Plasberg's text at all. Every occurrence of all of these is logged individually in anomalies.json."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and section only. This witness prints no `<milestone>` of any kind (confirmed by direct inspection), so Division.ref is null throughout — not fabricated. Passage.ref is likewise always null; Passage.n is always empty."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 3 Books and all 387 sections (124 + 168 + 95) are present and in order. No paragraph is dropped, merged or reordered except where documented in anomalies.json; the bundled TEI file is identical to the current Perseus canonical-latinLit release.",
+        "Book 3’s fragmentary ending. Cicero’s own text of Book 3 breaks off before the dialogue’s natural close (a well-known transmission gap); Plasberg’s edition supplies the surviving remnants as quotations by later authors (Lactantius, Arnobius and others). Each such fragment is kept verbatim as its own section; the secondary author’s own citation and a Perseus-added English note are excluded as apparatus — see \"How it was imported\".",
+        "Apparatus. 18 <del> spans excluded, 46 <add> spans kept, 33 <gap> markers kept as their literal printed rendering (mostly clustered in Book 3’s fragmentary close). All individually logged.",
+        "No chapter references. Unlike the companion Cicero works in this library, this witness prints no chapter milestones at all; every Division.ref is null."
+      ]
+    }
+  ]
+}

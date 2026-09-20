@@ -1,0 +1,59 @@
+{
+  "workId": "de-republica-la",
+  "title": "De Republica",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "edition": "Teubner, 1889",
+  "editor": "Carl Friedrich Wilhelm Mueller",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi043.perseus-lat2), which digitises Carl Friedrich Wilhelm Mueller, ed., M. Tulli Ciceronis: Librorum de Re Publica Sex (Leipzig: Teubner, 1889); imported by scripts/import-de-republica-la.",
+  "license": "Mueller's 1889 Latin text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero’s De Republica — Latin",
+      "paragraphs": [
+        "This is the Latin text of Cicero’s De Republica (\"On the Republic\"), his dialogue on the best form of the commonwealth and the ideal statesman, dramatically set in 129 BC and cast as a conversation led by Scipio Aemilianus. It survives in six traditionally numbered books.",
+        "IMPORTANT: this is a genuinely, severely fragmentary work - not a complete text. Large parts of the original six books are lost outright, and what survives comes from two entirely different channels of transmission: a 4th/5th-century palimpsest manuscript (its original text scraped off and overwritten with a work of Augustine, rediscovered by Angelo Mai in the Vatican Library in 1819) covering substantial stretches of Books 1-2 and scattered parts of the rest, and roughly 150 separate quotations embedded in later authors (chiefly Augustine, Nonius Marcellus, Macrobius and Lactantius) - the ONLY source for everything the palimpsest does not cover, including the entire \"Dream of Scipio\" (Somnium Scipionis) that closes Book 6. See \"Known gaps & anomalies\" below for the full account; it is not something this import tries to smooth over.",
+        "No English translation is bundled with this Latin text at this time. The one readily available public-domain English translation (Featherstonhaugh, 1829) has been independently found to have significant internal gaps of its own and to omit Book 6 - including the Dream of Scipio - entirely; rather than bundle a translation that is itself incomplete and potentially misleading about which gaps are Cicero’s and which are the translator’s, this app currently ships the Latin only, pending a better public-domain translation."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Carl Friedrich Wilhelm Mueller, ed., M. Tulli Ciceronis: Librorum de Re Publica Sex (Leipzig: Teubner, 1889). This edition is in the public domain.",
+        "Mueller’s edition prints NINE top-level divisions, not six: the six traditionally numbered books (each itself incomplete to varying degrees - see below) PLUS three separately-transmitted collections of fragments he could not place within a specific numbered book at all: a set of \"Fragmenta Incertae Sedis\" following Book 1, another following Book 3, and a final, larger set of fragments not even assignable to a particular book. All nine are bundled here as separate top-level divisions, in Mueller’s own document order, each carrying its own verbatim heading (e.g. \"Liber Primus\", \"Libri I de Re Publica Fragmenta Incertae Sedis\")."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi043.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi043.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks all nine top-level divisions and their sections, collecting every surviving <p> paragraph within each section, in document order, into that section’s single Passage. XML transport scaffolding only is removed: inline chapter <milestone> markers (their values instead seed each section’s Division.ref) and purely typographic wrapper tags (<cit>/<quote>/<l>/<lg> quotations and verse, <q>, <emph>, <label> speaker labels, <num>, <foreign>) are unwrapped, their text flowing into the surrounding prose. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched.",
+        "Mueller’s own critical apparatus is handled the way this app already treats it elsewhere: text his apparatus brackets as a probable interpolation (<del>, 9 occurrences) is excluded from the reading text; a genuine editorial insertion he prints (<add>, 11 occurrences) is kept; a marked manuscript gap (<gap>, 147 occurrences) is kept as its literal printed dots where this edition prints any, or left with nothing fabricated where it does not. One embedded citation gloss (<note>, identifying the immediate source of a quotation) is excluded entirely. Every occurrence of all four is logged individually in anomalies.json.",
+        "DELIBERATE JUDGEMENT CALL: for the fragment-collection sections (the \"1fr\"/\"3fr\"/\"fr\" divisions), each fragment’s <bibl> source citation (e.g. \"Non. p. 426M\", identifying which later author’s quotation preserves that fragment) is kept as part of the reading text rather than excluded the way a Perseus editorial <note> is elsewhere in this app - reasoned out in the importer’s module doc and flagged explicitly here and in the final import report, since it is a judgement call rather than a certainty."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by (Book or fragment-collection) and Section, plus Cicero’s traditional chapter reference reconstructed from this edition’s own inline chapter milestones. A section’s Division.ref is the nearest preceding chapter value within its own top-level division, reset to null at the start of each of the nine divisions; the three fragment collections carry no chapter milestones at all, so every one of their sections has a null ref. Passage.ref is null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "This work is NOT complete, and this is real - not a defect of this import. What survives comes from two channels: a palimpsest manuscript (substantial stretches of Books 1-2, scattered parts elsewhere) and roughly 150 separate quotations preserved by later authors (the only source for the rest, including the entire Dream of Scipio at the end of Book 6).",
+        "Nine top-level divisions, not six. Mueller’s edition separates out three fragment collections (\"1fr\", \"3fr\", \"fr\") that could not be placed within a numbered book - see \"The edition\" above.",
+        "Non-sequential section numbering WITHIN the six numbered books themselves - a genuine feature of this edition, not a parsing gap. Every skip is logged individually in anomalies.json (e.g. Book 3 alone jumps 1→3, 9→11, 19→23, 28→32, 34→36, 37→39 - meaning Mueller’s own edition has no text at all for roughly a third of Book 3’s traditionally-cited paragraph numbers). Book 3 (Philus’s sceptical case against justice and Laelius’s reply) and Books 4-5 are the worst-preserved of the six numbered books; Books 1-2 are the most complete, thanks to the palimpsest.",
+        "147 <gap reason=\"lost\" .../> markers, from a few missing words up to \"34 pages\" and \"16 pages\" in single gaps within Book 1 alone. Every occurrence is logged individually with its reason/extent/rend in anomalies.json.",
+        "Mueller's critical apparatus. 9 <del> spans (probable interpolations) are excluded; 11 <add> spans (editorial insertions he prints) are kept; every occurrence of both is logged individually. A small number of \"†\" (crux) marks - Mueller's own flag for text he judges corrupt but cannot confidently emend - are preserved verbatim in the reading text, not resolved.",
+        "No bundled English translation at this time. See the opening section above for why (the one available public-domain translation is itself incompletely transmitted and omits Book 6 entirely).",
+        "Editorial judgement call: fragment citations kept in the reading text rather than excluded as apparatus. See \"How it was imported\" above; flagged explicitly rather than applied silently."
+      ]
+    }
+  ]
+}

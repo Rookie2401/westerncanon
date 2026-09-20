@@ -1,0 +1,53 @@
+{
+  "workId": "de-finibus-la",
+  "title": "De Finibus Bonorum et Malorum",
+  "author": "Marcus Tullius Cicero",
+  "language": "la",
+  "edition": "Schiche 1915 (Teubner)",
+  "editor": "Theodor Schiche",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi048.perseus-lat2), which digitises Theodor Schiche, ed., M. Tulli Ciceronis De Finibus Bonorum et Malorum Libri Quinque (Leipzig: Teubner, 1915); imported by scripts/import-de-finibus-la.",
+  "license": "Schiche's 1915 Teubner critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Cicero's De Finibus Bonorum et Malorum",
+      "paragraphs": [
+        "This is the Latin text of De Finibus Bonorum et Malorum (\"On the Ends of Good and Evil\"), Cicero's dialogue in five books surveying the leading Hellenistic ethical theories - Epicurean (Book 1, rebutted in Book 2), Stoic (Book 3, rebutted in Book 4) and the Antiochean/Old Academic position (Book 5) - written in 45 BC.",
+        "The text here is the original Latin, verbatim. Nothing is translated, modernised, normalised or silently corrected. Where the source is irregular - a bracketed interpolation, an editorial insertion, a marked manuscript gap - the irregularity is preserved and noted below; it never affects the reading text itself beyond the documented exclusions."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Theodor Schiche, ed., M. Tulli Ciceronis De Finibus Bonorum et Malorum Libri Quinque (Leipzig: Teubner, 1915), the standard Teubner critical text. This edition is in the public domain.",
+        "The work is divided into 5 Books; within each Book, this edition carries both Perseus's own fine paragraph-level \"section\" numbering (443 sections total - see \"Reference scheme\") and, as inline markers, the traditional Ciceronian chapter numbering (21/35/22/28/32 chapters in Books 1-5 respectively) by which the work is normally cited (e.g. \"Fin. 1.17\")."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0474.phi048.perseus-lat2.xml (CTS urn:cts:latinLit:phi0474.phi048.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and section <div>s and collects every <p> paragraph within each section, in document order, into that section's single Passage (joined with a blank line when a section has more than one paragraph). XML transport scaffolding only is removed: the inline chapter <milestone> markers (their values instead seed each section's Division.ref) and page-break <pb/> markers are dropped, and purely typographic wrapper tags (<quote>/<l>/<q> verse and quotation markup, <foreign xml:lang=\"grc\"> for Cicero's own untranslated Greek, <hi>/<emph> styling) are unwrapped, their text flowing into the surrounding prose.",
+        "Schiche's own critical apparatus is handled the same way this app already treats it in the Nicomachean Ethics Greek edition: <note> elements (manuscript sigla and variant readings) are dropped entirely; text his apparatus brackets as a probable interpolation (<del>) is excluded from the reading text; a genuine editorial insertion he prints (<add>) is kept; a marked manuscript gap (<gap>) is kept as its literal printed rendering. Every occurrence of all three outside a <note> is logged individually in anomalies.json (occurrences nested inside an excluded <note> are already excluded as part of it and not double-logged)."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and (Perseus) Section - the fine, 443-entry paragraph numbering this edition's own XML carries - each Section additionally showing the traditional chapter number it falls under (e.g. \"§ 5\" might show as chapter \"3\") as Division.ref, reconstructed from this source's own inline chapter <milestone> markers: the nearest preceding marker value in document order, since a chapter typically spans several Perseus sections. Passage.ref is always null; the reference lives on the Section Division itself."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 5 Books and all 443 sections of this edition are present and in order. No paragraph is dropped, merged or reordered except where documented below; the bundled TEI file is identical to the current Perseus canonical-latinLit release.",
+        "Schiche's critical apparatus. 30 <del> spans (text Schiche's apparatus brackets as a probable interpolation or gloss) outside any <note> are excluded from the reading text; 82 <add> spans (a genuine editorial insertion he prints) outside any <note> are kept; 4 <gap> markers (manuscript lacunae) outside any <note> are kept as their literal printed rendering. Every occurrence of all three is logged individually in anomalies.json. A further 6 <del>, 9 <add> and 67 <gap> occur nested inside a <note> and are already excluded along with that note's own content.",
+        "Critical-apparatus notes. 3,658 <note> elements (manuscript sigla, variant readings, editorial glosses - not Cicero's text) are Schiche's own apparatus criticus, not part of the transmitted Latin; dropped entirely rather than shown inline."
+      ]
+    }
+  ]
+}

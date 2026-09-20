@@ -1,0 +1,50 @@
+[
+  {
+    "where": "pro-sestio-la / refs",
+    "note": "This source prints two independent citation schemes: its own 147 numbered sections (Division.id / Division.number, \"sec-1\"..\"sec-147\") and, coarser, the traditional 69 Roman-numeral \"chapter\" citation as inline <milestone unit=\"chapter\" n=\"N\"/> markers. Division.ref for each section is the chapter number active at that section's START - the nearest PRECEDING milestone in document order - built by a strict document-order walk (never inferred). sec-1 is the sole section with ref null: the source's own chapter-1 milestone sits just inside sec-1's own <p>, not before it, so no chapter is yet \"active\" when sec-1 opens - this is the documented, expected null case, not a gap. Passage.ref is null throughout and Passage.n is \"\" throughout (no printed sub-section numbering survives in this source)."
+  },
+  {
+    "where": "pro-sestio-la / apparatus criticus",
+    "note": "552 <note> elements (Clark's apparatus criticus - manuscript sigla, proposed emendations, editors' names) were excluded entirely, tag and content; not logged individually given their number. None of this is Cicero's own text."
+  },
+  {
+    "where": "pro-sestio-la / sec-18",
+    "note": "The source's own <del> marks this word as an editorial deletion Clark's OCT text does not print: \"in\". Excluded entirely from the reading text, matching this library's <del> policy elsewhere (e.g. import-aristotle-physics-grc)."
+  },
+  {
+    "where": "pro-sestio-la / sec-22",
+    "note": "The source's own <del> marks this word as an editorial deletion Clark's OCT text does not print: \"errore\". Excluded entirely from the reading text, matching this library's <del> policy elsewhere (e.g. import-aristotle-physics-grc)."
+  },
+  {
+    "where": "pro-sestio-la / sec-140",
+    "note": "The source's own <del> marks this word as an editorial deletion Clark's OCT text does not print: \"semper\". Excluded entirely from the reading text, matching this library's <del> policy elsewhere (e.g. import-aristotle-physics-grc)."
+  },
+  {
+    "where": "pro-sestio-la / editorial additions",
+    "note": "39 <add> elements (Clark's own editorial additions/emendations, incorporated into his printed text) were kept inline, tags stripped, text preserved verbatim."
+  },
+  {
+    "where": "pro-sestio-la / regularised spellings",
+    "note": "537 <reg> elements (Clark's regularised-spelling form - the word he actually prints) were kept inline, tags stripped, text preserved verbatim."
+  },
+  {
+    "where": "pro-sestio-la / quoted material",
+    "note": "18 <quote>, 18 <l> and 18 <q> elements were unwrapped and kept inline as ordinary running text: these wrap material Cicero himself quotes within the oration, not apparatus - two bare document-rubric labels (\"Decvrionvm decreta.\", \"Litterae Ciceronis consulis.\", marking where a document was read into the record but not transcribed, sec-10 and sec-11), one verbatim quoted clause of the lex Clodia (sec-33, archaic \"v\"-for-consonantal-\"u\" spelling kept exactly as printed, not regularised), and 18 <l> lines of quoted verse (tragic/epic lines Cicero cites in the peroratio, printed with acute-accent vowels marking metrical ictus, e.g. \"múltae insidiae súnt bonis\" - kept verbatim, joined into the surrounding prose with a single space per line rather than a line break, since this app's flat section/passage schema has no separate verse-line field here)."
+  },
+  {
+    "where": "pro-sestio-la / numerals",
+    "note": "1 <num rend=\"smallcaps\"> element(s) (a numeral rendered in small capitals in print, e.g. the date \"VIII Kal. Febr.\" in sec-8) were kept inline, tags stripped, text preserved verbatim."
+  },
+  {
+    "where": "pro-sestio-la / work-level head",
+    "note": "The source's own running title <head> (\"PRO P. SESTIO ORATIO\") is a work-level heading, not a section heading; discarded entirely and not stored on any Division, matching how this library already treats the analogous per-book <head> in data/physics-grc."
+  },
+  {
+    "where": "pro-sestio-la / completeness",
+    "note": "All 147 sections and all 69 chapter milestones are present and sequential, from the incipit \"si quis antea, iudices, mirabatur quid esset quod, pro tantis opibus...\" to the explicit \"...eos conservetis per quos me reciperavistis.\"."
+  },
+  {
+    "where": "pro-sestio-la / character encoding",
+    "note": "The source uses precomposed accented Latin vowels (e.g. ú U+00FA) for the metrical-ictus marks in quoted verse, not combining diacritics; no HTML/XML entities occur in the reading text (only inside the unrelated <revisionDesc> editorial change-log, outside the body). Bytes are preserved exactly as transmitted; no normalisation applied."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "where": "de-natura-deorum-en / book-1",
+    "note": "Section 30's numeral is printed via the older {{anchor}}-template style (<span class=\"wst-anchor\" id=\"XXX\">XXX</span>) rather than plain text; its visible text was kept in place (not stripped, unlike Metaphysics's anchor-only-paragraph convention) since here it carries the actual printed numeral."
+  },
+  {
+    "where": "de-natura-deorum-en / book-2",
+    "note": "Section 64's numeral is printed via the older {{anchor}}-template style (<span class=\"wst-anchor\" id=\"LXIV\">LXIV</span>) rather than plain text; its visible text was kept in place (not stripped, unlike Metaphysics's anchor-only-paragraph convention) since here it carries the actual printed numeral."
+  },
+  {
+    "where": "de-natura-deorum-en / book-3",
+    "note": "Numbering goes from 26 to 17 (not simply +1) - this witness's own numbering, not forced to be contiguous."
+  },
+  {
+    "where": "de-natura-deorum-en / book-3",
+    "note": "Numbering goes from 17 to 28 (not simply +1) - this witness's own numbering, not forced to be contiguous."
+  },
+  {
+    "where": "book-3-sec-17b",
+    "note": "This source's own numeral \"17\" repeats here rather than advancing (occurrence 2) - a probable single-character transcription slip in the 1888 print (e.g. \"XVII\" printed where \"XXVII\" is contextually expected). Kept literally as printed rather than silently renumbered; only this Division's id is disambiguated (\"book-3-sec-17b\") for this app's own routing."
+  },
+  {
+    "where": "de-natura-deorum-en / division refs",
+    "note": "This source carries no Bekker/chapter milestones of any kind; Division.ref is null throughout for every section. Section numbering is this 1888 edition’s own (coarser) roman-numeral count (44 in Book 1, 67 in Book 2, 40 in Book 3), reconstructed from the page-scan’s own paragraph structure - NOT the fine Plasberg \"§\" section numbers of the Latin edition in this library (124 / 168 / 95); the two numbering schemes do not correspond 1:1 and are never conflated."
+  },
+  {
+    "where": "de-natura-deorum-en / reading text",
+    "note": "218 inline footnote-reference markers (numbers only, linking to Yonge's own {{smallrefs}} footnote block at the end of each page-scan) were stripped; the footnote block itself (editorial commentary, not Yonge's translated running text) is removed entirely and not reproduced anywhere in this build."
+  },
+  {
+    "where": "de-natura-deorum-en / structure",
+    "note": "2 section numeral(s) are printed via the older {{anchor}}-template style rather than plain text; every occurrence is logged individually above (its visible text is kept, unlike Metaphysics's anchor-only-paragraph convention - see parseYonge1888.ts)."
+  },
+  {
+    "where": "de-natura-deorum-en / structure",
+    "note": "64 section numeral(s) have a page-scan break (zero-width page-number marker) falling immediately before or within them; resolved transparently by stripping the marker before matching, with no effect on the reading text."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "where": "book-2",
+    "note": "Source typo: <milestone unit=\"seciton\" n=\"128\"/> (misspelled \"section\") treated identically to a normal section milestone."
+  },
+  {
+    "where": "de-divinatione-en / structure",
+    "note": "This witness carries no section divs at all; every section boundary above was reconstructed from inline <milestone unit=\"section\"/> markers, which frequently fall mid-paragraph. A handful of quoted-verse blocks (the \"Marius\" fragment, the Aratus/Prognostica translation) are printed as a bare <quote><l>...</l></quote> sitting between two <p> elements rather than inside either; captured regardless since this importer reads all text within a Book, not just text inside a <p>."
+  },
+  {
+    "where": "de-divinatione-en / structure",
+    "note": "Book 1 section 25 has no <milestone unit=\"section\"/> of its own in this witness (a genuine gap, not a duplicate - contrast the companion De Senectute English witness's \"35\"/\"35b\" duplicate). Book 2's own section-milestone sequence is complete (1..150, no gaps). Nothing is fabricated; section 25 is present and complete in the Latin sibling (data/de-divinatione-la)."
+  },
+  {
+    "where": "de-divinatione-en / reading text",
+    "note": "289 <note> translator's footnotes (Falconer's own cross-references and commentary, not the translated running text) were excluded entirely, tag and content; not logged individually given their routine, uniform nature."
+  },
+  {
+    "where": "de-divinatione-en / reading text",
+    "note": "5 <bibl> citation gloss(es) identifying the source of a quoted verse fragment (not Falconer's translated text) were excluded entirely, tag and content."
+  },
+  {
+    "where": "de-divinatione-en / division refs",
+    "note": "130 chapter milestones and 281 section milestones captured (1 of the latter spelled \"seciton\" in the source, treated identically); each section's Division.ref is the chapter citation active when that section's milestone fired. Passage.ref is always null."
+  }
+]

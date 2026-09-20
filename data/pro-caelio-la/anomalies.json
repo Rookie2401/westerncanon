@@ -1,0 +1,22 @@
+[
+  {
+    "where": "pro-caelio-la / apparatus",
+    "note": "476 <note> elements (Clark's critical apparatus - manuscript variant readings, scholia) were excluded entirely, tag and content, at every nesting depth. None are Cicero's own text."
+  },
+  {
+    "where": "pro-caelio-la / Division.ref",
+    "note": "32 <milestone unit=\"chapter\"/> markers captured; each section's Division.ref is the chapter number active at that section's start (nearest preceding chapter milestone in document order) - see data/pro-caelio-la/types.ts. Passage.ref is null throughout."
+  },
+  {
+    "where": "pro-caelio-la / praenomen abbreviations",
+    "note": "Every <choice><abbr>X</abbr><expan>Y<ex>...</ex></expan></choice> (a praenomen like \"M.\" for \"Marcus\", \"P.\" for \"Publius\") keeps only the printed <abbr> form; <expan> is dropped entirely."
+  },
+  {
+    "where": "pro-caelio-la / verse quotations",
+    "note": "This speech quotes several passages of Latin verse (Ennius's Medea exul, and a fragment attributed to Caecilius) marked with <quote>/<l>/<lb/>. Line boundaries are not preserved as a separate structure in this app's prose-oration schema; the verse text flows into the surrounding paragraph, matching how this app treats embedded verse quotations elsewhere in prose works."
+  },
+  {
+    "where": "pro-caelio-la / (work level)",
+    "note": "No <gap> (manuscript lacuna marker) appears anywhere in this witness, confirmed by direct inspection - unlike the Pro Roscio Amerino sibling, whose section 132 carries a well-known lacuna."
+  }
+]

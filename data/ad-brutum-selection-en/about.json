@@ -1,0 +1,49 @@
+{
+  "workId": "ad-brutum-selection-en",
+  "title": "Letters to Brutus (Selection)",
+  "author": "M. Tullius Cicero",
+  "language": "en",
+  "translator": "Evelyn S. Shuckburgh",
+  "edition": "London: George Bell & Sons, 1899–1900",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi059.perseus-eng1), which digitises Evelyn S. Shuckburgh, trans., The Letters of Cicero: The Whole Extant Correspondence in Chronological Order (London: George Bell & Sons, 1899–1900). Imported by scripts/import-ad-brutum-selection-en.",
+  "license": "Shuckburgh’s 1899–1900 translation is in the public domain (published well over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "A curated selection, not the full collection",
+      "paragraphs": [
+        "This is NOT the complete Letters to Brutus. It bundles two letters personally chosen by the app’s owner: 1.16 and 1.17 - Brutus’s frank letter of political disagreement with Cicero over the treatment of Antony and Octavian, and Cicero’s long reply defending his policy. The full collection (two books, more than twenty further letters) exists but is not bundled in this edition."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "English translation: Evelyn S. Shuckburgh, trans., The Letters of Cicero: The Whole Extant Correspondence in Chronological Order (London: George Bell & Sons, 1899–1900).",
+        "Latin text (companion edition, data/ad-brutum-selection-la): Cicero. Ciceronis, M. Tullius. Epistulae, Vol. III. Purser, Louis Claude, editor. Oxford: Clarendon Press, 1901."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is phi0474.phi059.perseus-eng1.xml (CTS urn:cts:latinLit:phi0474.phi059.perseus-eng1) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and only the selected letters are bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "This source lists every letter as a <div n=\"text=BRUT.:book=B:letter=L\" type=\"letter\">; <head> is dropped, <opener> becomes the Division’s sourceHeading, <epigraph> and <note> (translator apparatus) are excluded entirely, and typographic wrapper tags (<foreign>, <quote>, <emph>, <title>, <placeName>) are unwrapped keeping their text. Neither requested letter is fragmented in this source (unlike Book 1 letters 2-4, which are not part of this selection), so each Division here carries exactly one Passage."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by traditional book.letter (e.g. \"1.16\"), reconstructed as this app’s own Division.number - not a plain arabic numeral, so it renders as \"§ 1.16\". Division.ref is always null; Passage.n is always empty and Passage.ref is always null."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json. No gaps or fragmentation affect this two-letter selection; both editions’ Divisions correspond 1:1."
+      ]
+    }
+  ]
+}

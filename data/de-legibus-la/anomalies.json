@@ -1,0 +1,70 @@
+[
+  {
+    "where": "book-1",
+    "note": "A bracketed span was excluded from the reading text as a Wikisource-added citation/gloss (editorial judgement call - see the importer's module doc), not Cicero's own words: \"[de amicitia locus]\""
+  },
+  {
+    "where": "book-1",
+    "note": "A bracketed span was excluded from the reading text as a Wikisource-added citation/gloss (editorial judgement call - see the importer's module doc), not Cicero's own words: \"[quod Apollo praecepit Pythius]\""
+  },
+  {
+    "where": "book-1-sec-1",
+    "note": "7 char(s) of running text found before this book's first \"[1]\" marker (\"Atticvs\") - folded into section 1 rather than discarded or filed unnumbered."
+  },
+  {
+    "where": "book-2",
+    "note": "A bracketed span was excluded from the reading text as a Wikisource-added citation/gloss (editorial judgement call - see the importer's module doc), not Cicero's own words: \"[*Plutarch. quaest. Rom. 34]\""
+  },
+  {
+    "where": "book-3",
+    "note": "A bracketed span was excluded from the reading text as a Wikisource-added citation/gloss (editorial judgement call - see the importer's module doc), not Cicero's own words: \"[Macrobius de differentiis et societatibus 17,6: Cicero de legibus tertio: Qui poterit socios tueri, si dilectum rerum utilium et inutilium non habebit? Ü convertem lex in omnis est.]\""
+  },
+  {
+    "where": "book-3",
+    "note": "This page marks 20 traditional \"Caput\" (chapter) divisions with an inline Roman numeral (I..XX, sequential, no gaps) before the first paragraph of each chapter. Per the import brief, Division.ref stays null throughout this work, so these numerals are stripped as structural scaffolding (like a milestone elsewhere in this app) rather than used for anything; they are not part of Cicero's own sentence."
+  },
+  {
+    "where": "book-3",
+    "note": "49 {{pn|N}} page-number template(s) (marking the printed page breaks of whatever edition this transcription follows - see the provenance-gap note) were stripped as scaffolding; not part of Cicero's own text."
+  },
+  {
+    "where": "book-3 / completeness",
+    "note": "This page’s transcription of Book 3 ends abruptly: the final surviving line of dialogue (\"Atticus Sic prorsum censeo, et id ipsum quod dicis exspecto.*\") is followed immediately by a bare \"*\" and nothing else - no closing formula, mid-argument (Atticus has just invited Marcus to continue). This matches the traditional understanding that De Legibus, like De Republica, is incompletely transmitted; confirmed directly against this source, not assumed. The trailing \"*\" itself is this source’s own paratextual mark for \"text breaks off here\" and is kept verbatim rather than stripped, like the other bare \"*\" marks elsewhere in this work."
+  },
+  {
+    "where": "book-2-sec-5",
+    "note": "A bare \"*\" in the running text (context: \"…aior, haec in ea contineatur. * duas hab…\") marks a point this source's transcription treats as a break/lacuna; kept verbatim, not stripped."
+  },
+  {
+    "where": "book-2-sec-28",
+    "note": "A 103-character ⟨…⟩ span is kept verbatim here - far longer than the ordinary single-word supplements elsewhere in this text, beginning \"⟨magnumque consecravit gymnasiis in simulacra Amorum et Cupi\"…. This reads as a substantial passage the source's own editorial tradition marks as belonging to a separate strand of transmission (not a simple gap-filling conjecture); kept 100% verbatim per this work's angle-bracket policy."
+  },
+  {
+    "where": "book-2-sec-39",
+    "note": "A bare \"*\" in the running text (context: \"…nunc ut eadem exultet ⟨cavea⟩ * cervices…\") marks a point this source's transcription treats as a break/lacuna; kept verbatim, not stripped."
+  },
+  {
+    "where": "book-2-sec-41",
+    "note": "A bare \"*\" in the running text (context: \"…orum satis in lege dictum est * ac votis…\") marks a point this source's transcription treats as a break/lacuna; kept verbatim, not stripped."
+  },
+  {
+    "where": "book-2-sec-54",
+    "note": "A 531-character ⟨…⟩ span is kept verbatim here - far longer than the ordinary single-word supplements elsewhere in this text, beginning \"⟨Venio ad Manium iura, quae maiores nostri et sapientissime \"…. This reads as a substantial passage the source's own editorial tradition marks as belonging to a separate strand of transmission (not a simple gap-filling conjecture); kept 100% verbatim per this work's angle-bracket policy."
+  },
+  {
+    "where": "book-3-sec-51",
+    "note": "A bare \"*\" in the running text (context: \"…et sapiens temperatio accessit*…\") marks a point this source's transcription treats as a break/lacuna; kept verbatim, not stripped."
+  },
+  {
+    "where": "book-3-sec-109",
+    "note": "A bare \"*\" in the running text (context: \"…id ipsum quod dicis exspecto.*…\") marks a point this source's transcription treats as a break/lacuna; kept verbatim, not stripped."
+  },
+  {
+    "where": "de-legibus-la / provenance",
+    "note": "Latin Wikisource does not cite a specific source critical edition for any of the three De legibus pages - no editor, no year, no publisher is given (\"editio: incognita\" / \"fons: incognitus\" in Wikisource’s own categorisation terms). The Latin text itself is ancient and unquestionably public domain regardless of which modern edition transcribed it, but the specific editorial lineage of this particular transcription is not stated by the source; disclosed here rather than invented - see about.json."
+  },
+  {
+    "where": "de-legibus-la / numbering scheme",
+    "note": "Book 1 and Book 2 use this source's own bracketed \"[N]\" paragraph numbers (sequential, no gaps, 63 and 69 respectively). Book 3 carries no such numbering at all in this source, so its sections (109 of them) are numbered SEQUENTIALLY BY PARAGRAPH by this importer - editorially-assigned sequential numbers, not the source's own; this is a deliberate, disclosed fallback (see the import brief), not an inconsistency."
+  }
+]

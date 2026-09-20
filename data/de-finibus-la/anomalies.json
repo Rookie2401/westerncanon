@@ -1,0 +1,426 @@
+[
+  {
+    "where": "book-1-sec-3",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"sapientia\""
+  },
+  {
+    "where": "book-1-sec-5",
+    "note": "<gap reason=\"omitted\"/> in the source, printed as \"...\"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-10",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"satis\""
+  },
+  {
+    "where": "book-1-sec-19",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-1-sec-19",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"est\""
+  },
+  {
+    "where": "book-1-sec-19",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"quidem\""
+  },
+  {
+    "where": "book-1-sec-50",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"Et\""
+  },
+  {
+    "where": "book-1-sec-50",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"inprobitas si\""
+  },
+  {
+    "where": "book-1-sec-51",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"sed\""
+  },
+  {
+    "where": "book-2-sec-21",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"quod reprehenderemus\""
+  },
+  {
+    "where": "book-2-sec-24",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"cognitu\""
+  },
+  {
+    "where": "book-2-sec-25",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"male\""
+  },
+  {
+    "where": "book-2-sec-25",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"bene.\""
+  },
+  {
+    "where": "book-2-sec-34",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"corporis\""
+  },
+  {
+    "where": "book-2-sec-34",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-2-sec-35",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ne\""
+  },
+  {
+    "where": "book-2-sec-36",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"cum\""
+  },
+  {
+    "where": "book-2-sec-43",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"contra eum\""
+  },
+  {
+    "where": "book-2-sec-50",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"se\""
+  },
+  {
+    "where": "book-2-sec-54",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"de\""
+  },
+  {
+    "where": "book-2-sec-66",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"cum\""
+  },
+  {
+    "where": "book-2-sec-82",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"quoniam\""
+  },
+  {
+    "where": "book-2-sec-94",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"E\""
+  },
+  {
+    "where": "book-2-sec-97",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"beatus\""
+  },
+  {
+    "where": "book-2-sec-98",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-2-sec-100",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-2-sec-103",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"et\""
+  },
+  {
+    "where": "book-2-sec-108",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"animo voluptas oritur propter voluptatem corporis, et maior est animi voluptas quam corporis. ita fit, ut gratulator laetior sit quam is, cui gratulatur.\""
+  },
+  {
+    "where": "book-2-sec-109",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut\""
+  },
+  {
+    "where": "book-2-sec-115",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-3-sec-2",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"oportet\""
+  },
+  {
+    "where": "book-3-sec-15",
+    "note": "<gap reason=\"lost\"/> in the source, printed as \" * * \"; kept verbatim in the reading text rather than dropped."
+  },
+  {
+    "where": "book-3-sec-17",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"diligendi sui\""
+  },
+  {
+    "where": "book-3-sec-22",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"sic illi facere omnia, quae possit, ut conliniet\""
+  },
+  {
+    "where": "book-3-sec-29",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"numquam\""
+  },
+  {
+    "where": "book-3-sec-31",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et qui\""
+  },
+  {
+    "where": "book-3-sec-31",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"fore ut\""
+  },
+  {
+    "where": "book-3-sec-35",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"nec eae perturbationes vi aliqua naturali moventur\""
+  },
+  {
+    "where": "book-3-sec-36",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"Stoicis\""
+  },
+  {
+    "where": "book-3-sec-37",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"quae\""
+  },
+  {
+    "where": "book-3-sec-37",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"se\""
+  },
+  {
+    "where": "book-3-sec-45",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-3-sec-55",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-3-sec-55",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"id\""
+  },
+  {
+    "where": "book-3-sec-59",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"autem\""
+  },
+  {
+    "where": "book-3-sec-61",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ille\""
+  },
+  {
+    "where": "book-3-sec-62",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut\""
+  },
+  {
+    "where": "book-4-sec-6",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"de temperantia,\""
+  },
+  {
+    "where": "book-4-sec-6",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"de temperantia de fortitudine\""
+  },
+  {
+    "where": "book-4-sec-7",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"tueri\""
+  },
+  {
+    "where": "book-4-sec-9",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"sine\""
+  },
+  {
+    "where": "book-4-sec-9",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ne\""
+  },
+  {
+    "where": "book-4-sec-14",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"qui continet philosophiam\""
+  },
+  {
+    "where": "book-4-sec-16",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-4-sec-17",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"cum\""
+  },
+  {
+    "where": "book-4-sec-18",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-4-sec-19",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"quod\""
+  },
+  {
+    "where": "book-4-sec-22",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"de ipsis rebus nihil mutetur\""
+  },
+  {
+    "where": "book-4-sec-32",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"est\""
+  },
+  {
+    "where": "book-4-sec-50",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"est\""
+  },
+  {
+    "where": "book-4-sec-55",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"se\""
+  },
+  {
+    "where": "book-4-sec-59",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"res\""
+  },
+  {
+    "where": "book-4-sec-61",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-4-sec-62",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"quam\""
+  },
+  {
+    "where": "book-4-sec-63",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"non\""
+  },
+  {
+    "where": "book-4-sec-65",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"non\""
+  },
+  {
+    "where": "book-4-sec-67",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"in\""
+  },
+  {
+    "where": "book-4-sec-69",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"non\""
+  },
+  {
+    "where": "book-4-sec-74",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"stultos\""
+  },
+  {
+    "where": "book-4-sec-75",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"non\""
+  },
+  {
+    "where": "book-4-sec-78",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-5-sec-11",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"esse\""
+  },
+  {
+    "where": "book-5-sec-14",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ne\""
+  },
+  {
+    "where": "book-5-sec-19",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"aut\""
+  },
+  {
+    "where": "book-5-sec-21",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"Quando igitur et de voluptate cum Torquato et de honestate, in qua una omne bonum poneretur, cum Catone est disputatum, primum, quae contra voluptatem dicta sun…\""
+  },
+  {
+    "where": "book-5-sec-23",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"ista animi tranquillitas\""
+  },
+  {
+    "where": "book-5-sec-23",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"quod non\""
+  },
+  {
+    "where": "book-5-sec-26",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"in\""
+  },
+  {
+    "where": "book-5-sec-27",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"et huic\""
+  },
+  {
+    "where": "book-5-sec-27",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"que\""
+  },
+  {
+    "where": "book-5-sec-30",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ne\""
+  },
+  {
+    "where": "book-5-sec-30",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut\""
+  },
+  {
+    "where": "book-5-sec-31",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"quam\""
+  },
+  {
+    "where": "book-5-sec-32",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ictu\""
+  },
+  {
+    "where": "book-5-sec-38",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"non\""
+  },
+  {
+    "where": "book-5-sec-41",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ab\""
+  },
+  {
+    "where": "book-5-sec-49",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ut\""
+  },
+  {
+    "where": "book-5-sec-50",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"quidem\""
+  },
+  {
+    "where": "book-5-sec-51",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"cum\""
+  },
+  {
+    "where": "book-5-sec-62",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"suae\""
+  },
+  {
+    "where": "book-5-sec-64",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"Lucretia\""
+  },
+  {
+    "where": "book-5-sec-69",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-5-sec-72",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"esse\""
+  },
+  {
+    "where": "book-5-sec-74",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"rem\""
+  },
+  {
+    "where": "book-5-sec-79",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-5-sec-80",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"bona\""
+  },
+  {
+    "where": "book-5-sec-81",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"illud dicere\""
+  },
+  {
+    "where": "book-5-sec-82",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "book-5-sec-83",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"esse\""
+  },
+  {
+    "where": "book-5-sec-88",
+    "note": "<del> excluded from the reading text (Schiche's apparatus brackets this as a probable interpolation/gloss): \"fecit\""
+  },
+  {
+    "where": "book-5-sec-95",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"et\""
+  },
+  {
+    "where": "de-finibus-la / reading text",
+    "note": "1829 <note> elements (Schiche's critical apparatus - manuscript sigla, variant readings, editorial cross-references, not Cicero's text) were excluded entirely, tag and content; not logged individually given their number. This also accounts for the 6 <del>, 9 <add> and 67 <gap/> occurrences that happen to sit nested inside an excluded <note> (already excluded as part of it, and not double-logged below)."
+  },
+  {
+    "where": "de-finibus-la / reading text",
+    "note": "24 <del> spans outside any <note> (Schiche's apparatus brackets these as probable interpolations/glosses, not his judged authentic text) were excluded from the reading text; every occurrence is logged individually above."
+  },
+  {
+    "where": "de-finibus-la / reading text",
+    "note": "73 <add> editorial insertions outside any <note> were kept verbatim in the reading text; every occurrence is logged individually above and flagged on its Passage."
+  },
+  {
+    "where": "de-finibus-la / reading text",
+    "note": "4 <gap/> markers outside any <note> (manuscript lacunae) were kept as their literal printed rendering (e.g. \"...\" or \" * * \"); every occurrence is logged individually above."
+  },
+  {
+    "where": "de-finibus-la / passage & division refs",
+    "note": "138 traditional-chapter <milestone unit=\"chapter\"/> markers captured (all outside any <note>); each Section's Division.ref is the nearest preceding marker value in document order, carried forward across section boundaries and reset to null at the start of each book. Every Passage.ref is null: the reference lives on the Section Division itself."
+  }
+]

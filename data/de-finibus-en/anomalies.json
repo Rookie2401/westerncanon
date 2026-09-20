@@ -1,0 +1,18 @@
+[
+  {
+    "where": "de-finibus-en / book-2",
+    "note": "This book prints no explicit \"I.\" chapter marker at all - its dialogue begins directly (after the book-title furniture line) with no numeral of its own; the paragraph(s) before the first explicit marker (\"II.\") are chapter 1's own text, treated as an IMPLICIT, unprinted section 1 rather than silently merged into chapter II."
+  },
+  {
+    "where": "de-finibus-en / footnotes",
+    "note": "37 inline footnote-reference markers (sup.reference, Yonge's/the editor's own footnote apparatus - not Cicero's text) were removed from the reading text across all 5 books; the footnotes themselves (in each page's second, reflist-only prp-pages-output block) are not preserved anywhere in this build."
+  },
+  {
+    "where": "de-finibus-en / book-title lines",
+    "note": "4 \"<Ordinal> Book Of The Treatise On The Chief Good And Evil.\" page-furniture line(s) (Wikisource transclusion navigation text, not Cicero's/Yonge's words) were skipped; Book 1 prints none of its own."
+  },
+  {
+    "where": "de-finibus-en / reference scheme",
+    "note": "Division.ref is null throughout this edition (Book and Section alike): the printed chapter numeral is captured as Division.number instead, and this page-scan transcription carries no other reference apparatus of its own to reconstruct a separate ref from."
+  }
+]

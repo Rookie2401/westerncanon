@@ -1,0 +1,418 @@
+[
+  {
+    "where": "speech-1-sec-11",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 4 and its last real paragraph text was read while chapter 5 was open. Division.ref is \"4\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-1-sec-15",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 6 and its last real paragraph text was read while chapter 7 was open. Division.ref is \"6\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-1-sec-31",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 12 and its last real paragraph text was read while chapter 13 was open. Division.ref is \"12\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-1-sec-33",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 13 and its last real paragraph text was read while chapter 14 was open. Division.ref is \"13\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-3",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 1 and its last real paragraph text was read while chapter 2 was open. Division.ref is \"1\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-7",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 3 and its last real paragraph text was read while chapter 4 was open. Division.ref is \"3\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-10",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 4 and its last real paragraph text was read while chapter 5 was open. Division.ref is \"4\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-15",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 6 and its last real paragraph text was read while chapter 7 was open. Division.ref is \"6\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-18",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 7 and its last real paragraph text was read while chapter 8 was open. Division.ref is \"7\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-23",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 9 and its last real paragraph text was read while chapter 10 was open. Division.ref is \"9\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-25",
+    "note": "This source's own section-milestone numbering jumps from 23 to 25 (no milestone printed for the number(s) in between) — the source's own gap, preserved as printed, not patched."
+  },
+  {
+    "where": "speech-2-sec-39",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 15 and its last real paragraph text was read while chapter 16 was open. Division.ref is \"15\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-42",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 16 and its last real paragraph text was read while chapter 17 was open. Division.ref is \"16\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-50",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 20 and its last real paragraph text was read while chapter 21 was open. Division.ref is \"20\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-53",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 21 and its last real paragraph text was read while chapter 22 was open. Division.ref is \"21\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-65",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 26 and its last real paragraph text was read while chapter 27 was open. Division.ref is \"26\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-68",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 27 and its last real paragraph text was read while chapter 28 was open. Division.ref is \"27\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-78",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 31 and its last real paragraph text was read while chapter 32 was open. Division.ref is \"31\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-82",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 32 and its last real paragraph text was read while chapter 33 was open. Division.ref is \"32\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-84",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 33 and its last real paragraph text was read while chapter 34 was open. Division.ref is \"33\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-90",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 35 and its last real paragraph text was read while chapter 36 was open. Division.ref is \"35\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-104",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 40 and its last real paragraph text was read while chapter 41 was open. Division.ref is \"40\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-2-sec-107",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 41 and its last real paragraph text was read while chapter 42 was open. Division.ref is \"41\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-3-sec-3",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 1 and its last real paragraph text was read while chapter 2 was open. Division.ref is \"1\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-3-sec-17",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 6 and its last real paragraph text was read while chapter 7 was open. Division.ref is \"6\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-3-sec-21",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 8 and its last real paragraph text was read while chapter 9 was open. Division.ref is \"8\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-3-sec-24",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 9 and its last real paragraph text was read while chapter 10 was open. Division.ref is \"9\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-3-sec-34",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 13 and its last real paragraph text was read while chapter 14 was open. Division.ref is \"13\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-4-sec-6",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 2 and its last real paragraph text was read while chapter 3 was open. Division.ref is \"2\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-4-sec-8",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 3 and its last real paragraph text was read while chapter 4 was open. Division.ref is \"3\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-3",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 1 and its last real paragraph text was read while chapter 2 was open. Division.ref is \"1\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-6",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 2 and its last real paragraph text was read while chapter 3 was open. Division.ref is \"2\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-9",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 3 and its last real paragraph text was read while chapter 4 was open. Division.ref is \"3\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-12",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 4 and its last real paragraph text was read while chapter 5 was open. Division.ref is \"4\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-15",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 5 and its last real paragraph text was read while chapter 6 was open. Division.ref is \"5\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-18",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 6 and its last real paragraph text was read while chapter 7 was open. Division.ref is \"6\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-21",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 7 and its last real paragraph text was read while chapter 8 was open. Division.ref is \"7\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-23",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 8 and its last real paragraph text was read while chapter 9 was open. Division.ref is \"8\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-26",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 9 and its last real paragraph text was read while chapter 10 was open. Division.ref is \"9\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-31",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 11 and its last real paragraph text was read while chapter 12 was open. Division.ref is \"11\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-40",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 14 and its last real paragraph text was read while chapter 15 was open. Division.ref is \"14\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-45",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 16 and its last real paragraph text was read while chapter 17 was open. Division.ref is \"16\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-48",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 17 and its last real paragraph text was read while chapter 18 was open. Division.ref is \"17\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-5-sec-53",
+    "note": "<gap reason=\"omitted\"/> — this 1856 translation itself omits a passage here; nothing to preserve, no text fabricated."
+  },
+  {
+    "where": "speech-5-sec-53",
+    "note": "<gap reason=\"omitted\"/> — this 1856 translation itself omits a passage here; nothing to preserve, no text fabricated."
+  },
+  {
+    "where": "speech-6-sec-3",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 1 and its last real paragraph text was read while chapter 2 was open. Division.ref is \"1\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-6-sec-9",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 3 and its last real paragraph text was read while chapter 4 was open. Division.ref is \"3\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-6-sec-10",
+    "note": "<gap reason=\"omitted\"/> — this 1856 translation itself omits a passage here; nothing to preserve, no text fabricated."
+  },
+  {
+    "where": "speech-6-sec-11",
+    "note": "<gap reason=\"omitted\"/> — this 1856 translation itself omits a passage here; nothing to preserve, no text fabricated."
+  },
+  {
+    "where": "speech-6-sec-13",
+    "note": "<gap reason=\"omitted\"/> — this 1856 translation itself omits a passage here; nothing to preserve, no text fabricated."
+  },
+  {
+    "where": "speech-6-sec-15",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 5 and its last real paragraph text was read while chapter 6 was open. Division.ref is \"5\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-7-sec-7",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 2 and its last real paragraph text was read while chapter 3 was open. Division.ref is \"2\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-7-sec-14",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 4 and its last real paragraph text was read while chapter 5 was open. Division.ref is \"4\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-7-sec-16",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 5 and its last real paragraph text was read while chapter 6 was open. Division.ref is \"5\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-7-sec-19",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 6 and its last real paragraph text was read while chapter 7 was open. Division.ref is \"6\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-8-sec-4",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 1 and its last real paragraph text was read while chapter 2 was open. Division.ref is \"1\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-8-sec-17",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 5 and its last real paragraph text was read while chapter 6 was open. Division.ref is \"5\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-8-sec-26",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 8 and its last real paragraph text was read while chapter 9 was open. Division.ref is \"8\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-8-sec-28",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 9 and its last real paragraph text was read while chapter 10 was open. Division.ref is \"9\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-9-sec-5",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 2 and its last real paragraph text was read while chapter 3 was open. Division.ref is \"2\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-9-sec-15",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 6 and its last real paragraph text was read while chapter 7 was open. Division.ref is \"6\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-10-sec-6",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 2 and its last real paragraph text was read while chapter 3 was open. Division.ref is \"2\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-10-sec-10",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 4 and its last real paragraph text was read while chapter 5 was open. Division.ref is \"4\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-10-sec-12",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 5 and its last real paragraph text was read while chapter 6 was open. Division.ref is \"5\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-10-sec-14",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 6 and its last real paragraph text was read while chapter 7 was open. Division.ref is \"6\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-10-sec-17",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 8 and its last real paragraph text was read while chapter 9 was open. Division.ref is \"8\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-11-sec-3",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 1 and its last real paragraph text was read while chapter 2 was open. Division.ref is \"1\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-11-sec-6",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 2 and its last real paragraph text was read while chapter 3 was open. Division.ref is \"2\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-11-sec-8",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 3 and its last real paragraph text was read while chapter 4 was open. Division.ref is \"3\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-11-sec-10",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 4 and its last real paragraph text was read while chapter 5 was open. Division.ref is \"4\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-11-sec-12",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 5 and its last real paragraph text was read while chapter 6 was open. Division.ref is \"5\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-11-sec-20",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 8 and its last real paragraph text was read while chapter 9 was open. Division.ref is \"8\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-11-sec-23",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 9 and its last real paragraph text was read while chapter 10 was open. Division.ref is \"9\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-11-sec-26",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 10 and its last real paragraph text was read while chapter 11 was open. Division.ref is \"10\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-11-sec-27",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 11 and its last real paragraph text was read while chapter 12 was open. Division.ref is \"11\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-11-sec-35",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 13 and its last real paragraph text was read while chapter 14 was open. Division.ref is \"13\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-12-sec-3",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 1 and its last real paragraph text was read while chapter 2 was open. Division.ref is \"1\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-12-sec-7",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 2 and its last real paragraph text was read while chapter 3 was open. Division.ref is \"2\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-12-sec-10",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 4 and its last real paragraph text was read while chapter 5 was open. Division.ref is \"4\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-12-sec-12",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 5 and its last real paragraph text was read while chapter 6 was open. Division.ref is \"5\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-12-sec-22",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 8 and its last real paragraph text was read while chapter 9 was open. Division.ref is \"8\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-12-sec-26",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 10 and its last real paragraph text was read while chapter 11 was open. Division.ref is \"10\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-12-sec-27",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 11 and its last real paragraph text was read while chapter 12 was open. Division.ref is \"11\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-13-sec-2",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 1 and its last real paragraph text was read while chapter 2 was open. Division.ref is \"1\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-13-sec-7",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 3 and its last real paragraph text was read while chapter 4 was open. Division.ref is \"3\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-13-sec-16",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 7 and its last real paragraph text was read while chapter 8 was open. Division.ref is \"7\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-13-sec-21",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 9 and its last real paragraph text was read while chapter 10 was open. Division.ref is \"9\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-13-sec-24",
+    "note": "<gap reason=\"omitted\"/> — this 1856 translation itself omits a passage here; nothing to preserve, no text fabricated."
+  },
+  {
+    "where": "speech-13-sec-26",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 11 and its last real paragraph text was read while chapter 12 was open. Division.ref is \"11\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-13-sec-27",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 12 and its last real paragraph text was read while chapter 13 was open. Division.ref is \"12\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-13-sec-29",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 13 and its last real paragraph text was read while chapter 14 was open. Division.ref is \"13\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-13-sec-30",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 14 and its last real paragraph text was read while chapter 15 was open. Division.ref is \"14\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-13-sec-32",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 15 and its last real paragraph text was read while chapter 16 was open. Division.ref is \"15\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-13-sec-47",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 20 and its last real paragraph text was read while chapter 21 was open. Division.ref is \"20\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-14-sec-6",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 2 and its last real paragraph text was read while chapter 3 was open. Division.ref is \"2\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-14-sec-9",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 3 and its last real paragraph text was read while chapter 4 was open. Division.ref is \"3\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-14-sec-17",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 6 and its last real paragraph text was read while chapter 7 was open. Division.ref is \"6\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-14-sec-21",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 7 and its last real paragraph text was read while chapter 8 was open. Division.ref is \"7\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-14-sec-24",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 8 and its last real paragraph text was read while chapter 9 was open. Division.ref is \"8\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "speech-14-sec-31",
+    "note": "This section's text continues past a chapter-div boundary with no new section milestone in between: it started in chapter 11 and its last real paragraph text was read while chapter 12 was open. Division.ref is \"11\" (the chapter active at this section's own start), not wherever it happens to end."
+  },
+  {
+    "where": "philippics-en / reading text",
+    "note": "36 paragraph(s) of Yonge's own \"THE ARGUMENT.\" editorial introduction (one per speech, subtype \"argument\" or, once, the source's own misspelling \"argumnt\") were excluded — historical background prose, not a translation of Cicero's own words."
+  },
+  {
+    "where": "philippics-en / reading text",
+    "note": "55 <note anchored=\"true\"> translator footnotes were excluded entirely, tag and content; not logged individually given their number. 29 <pb/> print page breaks were dropped as zero-width transport scaffolding."
+  },
+  {
+    "where": "philippics-en / structure",
+    "note": "This witness nests \"chapter\" as a <div> and marks \"section\" with an inline <milestone> — the exact inverse of the Latin sibling's <div subtype=\"section\">/<milestone unit=\"chapter\"> encoding. 93 section(s) were confirmed to continue their text across a chapter-div boundary with no new section milestone in between (individually logged above); every other section's text falls entirely within one chapter div. Separately, 1 section-milestone numbering gap(s) were found (individually logged above) — this source's own gap, not a parsing artifact."
+  },
+  {
+    "where": "philippics-en / reading text",
+    "note": "283 paragraph(s) cleaned to empty text were dropped rather than joined as an empty segment (mostly degenerate empty <p></p> formatting artifacts in this source)."
+  }
+]

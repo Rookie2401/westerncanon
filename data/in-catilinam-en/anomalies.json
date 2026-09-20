@@ -1,0 +1,14 @@
+[
+  {
+    "where": "in-catilinam-en / reading text",
+    "note": "4 paragraph(s) of Yonge's own \"THE ARGUMENT.\" editorial introduction (one per speech, inside a <div subtype=\"commentary\">) were excluded — historical background prose, not a translation of Cicero's own words."
+  },
+  {
+    "where": "in-catilinam-en / reading text",
+    "note": "120 <milestone unit=\"para\"/> markers (Yonge's own paragraph-numbering scaffolding) and 10 <pb/> print page breaks were dropped as zero-width transport scaffolding, not logged individually."
+  },
+  {
+    "where": "in-catilinam-en / passage & division refs",
+    "note": "Division.ref (Section only) is the nearest preceding <milestone unit=\"chapter\"> value within that section's own speech, at the same textual positions as the Latin sibling; 0 section(s) had none yet and are individually logged above. Every Passage.ref is null."
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "workId": "ad-atticum-selection-la",
+  "title": "Epistulae ad Atticum (Selection)",
+  "author": "M. Tullius Cicero",
+  "language": "la",
+  "editor": "Louis Claude Purser",
+  "edition": "Oxford: Clarendon Press, 1903 (Epistulae, Vol. II, Pars Prior and Pars Posterior)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi057.perseus-lat1), which digitises Cicero. Ciceronis, M. Tullius. Epistulae, Vol. II. Pars Prior and Pars Posterior. Purser, Louis Claude, editor. Oxford: Clarendon Press, 1903. Imported by scripts/import-ad-atticum-selection-la.",
+  "license": "Purser’s critical Latin text is a scholarly edition of a text in the public domain (Cicero, d. 43 BC). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "A curated selection, not the full collection",
+      "paragraphs": [
+        "This is NOT the complete Epistulae ad Atticum. It bundles a small set of letters personally chosen by the app’s owner as especially significant or rewarding reading, drawn from within the full 16-book, several-hundred-letter correspondence. The full collection (hundreds more letters) exists but is not bundled in this edition.",
+        "Exactly these letters are included: 2.19; 3.10; 3.15; 7.10; 7.11; 9.10; and every letter in Books 12, 13, 14, 15 and 16 (the closing books of the correspondence, covering the last eighteen months of Cicero’s life). Nothing outside this list is present."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Latin text: Cicero. Ciceronis, M. Tullius. Epistulae, Vol. II. Pars Prior and Pars Posterior. Purser, Louis Claude, editor. Oxford: Clarendon Press, 1903.",
+        "English translation (companion edition, data/ad-atticum-selection-en): Evelyn S. Shuckburgh, trans., The Letters of Cicero: The Whole Extant Correspondence in Chronological Order (London: George Bell & Sons, 1899–1900).",
+        "Shuckburgh’s own volume presents the whole correspondence in strict chronological order across all of Cicero’s letter collections, not grouped by book/addressee. This app’s edition re-sorts the selected letters into traditional book.letter order instead, for clearer navigation within a single addressee-collection."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is phi0474.phi057.perseus-lat1.xml (CTS urn:cts:latinLit:phi0474.phi057.perseus-lat1) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and only the selected letters below are bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book (Purser’s own <div subtype=\"book\">), letter (<div subtype=\"letter\">) and section (<div subtype=\"section\">) divisions and, for each requested book.letter, collects every section’s paragraph text in document order into one Passage per section. Typographic/critical-apparatus wrapper tags (<reg>, <del>, <add>, <sic>, <corr>, <choice>, <abbr>, <expan>, <hi>, <foreign>, <quote>, <date>) are unwrapped, keeping their text - these are Purser’s own printed reading text, including his editorially marked deletions/additions, which this importer does not re-edit. Self-closing <milestone/>, <pb/> and <lb/> transport markers are dropped. The source’s own inline <label rend=\"opener\"> (a dateline + salute line Purser prints before most letters) is captured separately as each Division’s sourceHeading, not mixed into the reading text."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by traditional book.letter (e.g. \"12.19\"), reconstructed as this app’s own Division.number - not a plain arabic numeral, so it renders as \"§ 12.19\" rather than being mistaken for a chapter number. Division.ref is always null (no finer citation is tracked). Each Division carries one Passage per Perseus section sub-division within that letter (this collection’s chosen granularity, consistent across all four Latin works in this import group); Passage.n is always empty and Passage.ref is always null."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full machine-readable list. In summary: Purser’s critical edition subdivides several traditionally single-numbered letters in Books 12-16 into lettered sub-letters (e.g. 12.5 -> 5, 5A, 5B, 5C); every part actually present in the source is kept as its own Division here, verbatim, not merged or renumbered. This produces more Division entries in this Latin edition than in the English sibling for the same book ranges, which is a genuine, confirmed edition difference (see the Shuckburgh translation’s own further chronological re-splitting), not a parsing error.",
+        "A small number of <gap reason=\"omitted\"/> markers appear within the extracted letters where Purser’s own edition omits text; nothing is fabricated in their place - see anomalies.json for exactly which letters."
+      ]
+    }
+  ]
+}

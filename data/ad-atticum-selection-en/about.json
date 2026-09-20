@@ -1,0 +1,52 @@
+{
+  "workId": "ad-atticum-selection-en",
+  "title": "Letters to Atticus (Selection)",
+  "author": "M. Tullius Cicero",
+  "language": "en",
+  "translator": "Evelyn S. Shuckburgh",
+  "edition": "London: George Bell & Sons, 1899–1900",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi057.perseus-eng1), which digitises Evelyn S. Shuckburgh, trans., The Letters of Cicero: The Whole Extant Correspondence in Chronological Order (London: George Bell & Sons, 1899–1900). Imported by scripts/import-ad-atticum-selection-en.",
+  "license": "Shuckburgh’s 1899–1900 translation is in the public domain (published well over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "A curated selection, not the full collection",
+      "paragraphs": [
+        "This is NOT the complete Letters to Atticus. It bundles a small set of letters personally chosen by the app’s owner as especially significant or rewarding reading, drawn from within the full 16-book, several-hundred-letter correspondence. The full collection (hundreds more letters) exists but is not bundled in this edition.",
+        "Exactly these letters are included: 2.19; 3.10; 3.15; 7.10; 7.11; 9.10; and every letter in Books 12, 13, 14, 15 and 16 (the closing books of the correspondence, covering the last eighteen months of Cicero’s life). Nothing outside this list is present."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "English translation: Evelyn S. Shuckburgh, trans., The Letters of Cicero: The Whole Extant Correspondence in Chronological Order (London: George Bell & Sons, 1899–1900).",
+        "Latin text (companion edition, data/ad-atticum-selection-la): Cicero. Ciceronis, M. Tullius. Epistulae, Vol. II. Pars Prior and Pars Posterior. Purser, Louis Claude, editor. Oxford: Clarendon Press, 1903.",
+        "Shuckburgh’s own volume presents the whole correspondence in strict chronological order across all of Cicero’s letter collections, not grouped by book/addressee - and, where a single traditionally-numbered letter was written or sent in more than one sitting, sometimes prints its parts at their separate chronological places rather than together. This app’s edition re-sorts the selected letters into traditional book.letter order and reassembles any such split letter into one Division (with one Passage per part, in the letter’s own internal section order) for clearer navigation - see \"How it was imported\"."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is phi0474.phi057.perseus-eng1.xml (CTS urn:cts:latinLit:phi0474.phi057.perseus-eng1) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and only the selected letters below are bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "This source lists every letter as a flat, non-nested <div n=\"text=A:book=B:letter=L\" type=\"letter\"> directly under <body>, in Shuckburgh’s own chronological print order (not grouped by book). For each requested book.letter the importer collects every div whose book/letter token names that traditional letter (either directly, e.g. \"19\", or as a numbered fragment of it, e.g. \"5.1-2\", \"5.4\" for traditional letter 5), orders the fragments by their own leading section number, and turns each fragment into one Passage of a single reconstructed Division. <head> (Shuckburgh’s own numbering, with a Perseus-added traditional-citation gloss) is dropped - this app generates its own book.letter citation. <opener> (a salute + dateline line printed before most letters) is captured separately as the Division’s sourceHeading, not mixed into the reading text; when a letter has more than one fragment only the first (section-ascending) fragment’s heading is kept as sourceHeading, and the others are noted in anomalies.json rather than silently dropped. <epigraph> (an editorial headnote some letters carry - biographical/contextual prose, not Cicero’s or Atticus’s own words) is excluded entirely. <note> (Shuckburgh’s own translator/editor footnotes, including embedded <bibl> citations) is discarded entirely, tag and content. Purely typographic wrapper tags (<foreign>, <quote>/<l>/<lg> verse, <emph>, <title>, <placeName>) are unwrapped, keeping their text; self-closing <pb/> and <milestone/> page-break markers are dropped."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by traditional book.letter (e.g. \"12.19\"), reconstructed as this app’s own Division.number - not a plain arabic numeral, so it renders as \"§ 12.19\" rather than being mistaken for a chapter number. Division.ref is always null. Each Division carries one Passage per underlying source fragment (almost always exactly one; see \"Known gaps & anomalies\" for the handful that are not); Passage.n is always empty and Passage.ref is always null."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full machine-readable list. In summary: this English edition’s Book 12-16 Division count does not match the Latin sibling’s 1:1 - Purser’s Latin critical text splits several traditional letters into lettered sub-letters that Shuckburgh does not split the same way; this is a genuine, confirmed edition difference (see data/ad-atticum-selection-la’s about.json), not a parsing error.",
+        "A handful of Book 12/13/15/16 letters are themselves printed by Shuckburgh at more than one chronological position (because he believed different parts of the traditional letter were written at different times); this importer reassembles each into one Division with multiple Passages, in section order, and records the reassembly in anomalies.json for every letter affected."
+      ]
+    }
+  ]
+}

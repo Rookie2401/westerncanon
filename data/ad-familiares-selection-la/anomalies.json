@@ -1,0 +1,14 @@
+[
+  {
+    "where": "ad-familiares-selection-la / structure",
+    "note": "0 <note> apparatus element(s) encountered in the source and discarded entirely (tag + content); 0 <gap reason=\"omitted\"/> marker(s) encountered within extracted letters (see the per-letter entries above for which)."
+  },
+  {
+    "where": "ad-familiares-selection-la / book subtype casing",
+    "note": "Confirmed by direct inspection: this source’s book-level division uses subtype=\"Book\" (capitalised), unlike Ad Atticum’s lowercase subtype=\"book\". Not a typo; handled explicitly by the importer."
+  },
+  {
+    "where": "ad-familiares-selection-la / edition divergence from the English sibling (Book 10)",
+    "note": "Purser's Latin critical text splits two of Book 10's traditionally single-numbered letters into a lettered sub-letter each - 10.21/10.21A and 10.34/10.34A - matching (letter-for-letter) the two places Shuckburgh's English translation (data/ad-familiares-selection-en) independently re-splits the same two traditional letters across non-adjacent chronological positions by section range. Both editions agree these two letters are compound; this app represents Purser's split as two separate Divisions (10.21, 10.21a, 10.34, 10.34a) and Shuckburgh's split as two Passages within one Division each - a genuine, confirmed edition difference in Division count, not a parsing error."
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "workId": "ad-familiares-selection-la",
+  "title": "Epistulae ad Familiares (Selection)",
+  "author": "M. Tullius Cicero",
+  "language": "la",
+  "editor": "Louis Claude Purser",
+  "edition": "Oxford: Clarendon Press, 1901 (Epistulae, Vol. 1)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0474.phi056.perseus-lat1), which digitises Cicero. Ciceronis, M. Tullius. Epistulae, Vol. 1. Purser, Louis Claude, editor. Oxford: Clarendon Press, 1901. Imported by scripts/import-ad-familiares-selection-la.",
+  "license": "Purser’s critical Latin text is a scholarly edition of a text in the public domain (Cicero, d. 43 BC). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "A curated selection, not the full collection",
+      "paragraphs": [
+        "This is NOT the complete Epistulae ad Familiares. It bundles a small set of letters personally chosen by the app’s owner as especially significant or rewarding reading, drawn from within the full 16-book, several-hundred-letter collection. The full collection (hundreds more letters) exists but is not bundled in this edition.",
+        "Exactly these letters are included: 5.12 (to Lucceius); 7.1 (to Marius); 1.9 (to Lentulus Spinther); 4.5 (Servius Sulpicius’s letter of condolence to Cicero) and 4.6 (Cicero’s reply); 14.1-14.4 (to Terentia and family); 9.16-9.26 (the correspondence with Paetus); and every letter in Book 10. Nothing outside this list is present."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Latin text: Cicero. Ciceronis, M. Tullius. Epistulae, Vol. 1. Purser, Louis Claude, editor. Oxford: Clarendon Press, 1901.",
+        "English translation (companion edition, data/ad-familiares-selection-en): Evelyn S. Shuckburgh, trans., The Letters of Cicero: The Whole Extant Correspondence in Chronological Order (London: George Bell & Sons, 1899–1900).",
+        "Shuckburgh’s own volume presents the whole correspondence in strict chronological order across all of Cicero’s letter collections, not grouped by book/addressee. This app’s edition re-sorts the selected letters into traditional book.letter order instead, for clearer navigation within a single collection."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is phi0474.phi056.perseus-lat1.xml (CTS urn:cts:latinLit:phi0474.phi056.perseus-lat1) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and only the selected letters below are bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book (<div subtype=\"Book\"> - capitalised in this source, see the importer’s module doc), letter (<div subtype=\"letter\">) and section (<div subtype=\"section\">) divisions and, for each requested book.letter, collects every section’s paragraph text in document order into one Passage per section. Typographic/critical-apparatus wrapper tags (<reg>, <del>, <add>, <sic>, <corr>, <hi>, <foreign>, <quote>, <date>) are unwrapped, keeping their text - Purser’s own printed reading text, not re-edited here. Self-closing <milestone/>, <pb/> and <lb/> transport markers are dropped. The source’s own inline <label rend=\"opener\"> (a dateline + salute line) is captured separately as each Division’s sourceHeading."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by traditional book.letter (e.g. \"9.16\"), reconstructed as this app’s own Division.number - not a plain arabic numeral, so it renders as \"§ 9.16\" rather than being mistaken for a chapter number. Division.ref is always null. Each Division carries one Passage per Perseus section sub-division within that letter (consistent across all four Latin works in this import group); Passage.n is always empty and Passage.ref is always null."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full machine-readable list, including a small number of <gap reason=\"omitted\"/> markers where Purser’s own edition omits text within an extracted letter.",
+        "Book 10’s Division count (37, vs. 35 in the English sibling data/ad-familiares-selection-en) differs because Purser splits two traditionally single-numbered letters (10.21, 10.34) into a lettered sub-letter each (10.21A, 10.34A) where Shuckburgh instead reprints the same two letters’ later sections at a separate chronological position without renumbering them - both editions agree these two letters are compound; this is a genuine, confirmed edition difference, not a parsing error."
+      ]
+    }
+  ]
+}

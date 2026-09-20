@@ -1,0 +1,34 @@
+[
+  {
+    "where": "pro-ligario-la / refs",
+    "note": "This source prints two independent citation schemes: its own 38 numbered sections (Division.id / Division.number, \"sec-1\"..\"sec-38\") and, coarser, the traditional 12 Roman-numeral \"chapter\" citation as inline <milestone unit=\"chapter\" n=\"N\"/> markers. Division.ref for each section is the chapter number active at that section's START - the nearest PRECEDING milestone in document order - built by a strict document-order walk (never inferred). sec-1 is the sole section with ref null: the source's own chapter-1 milestone sits just inside sec-1's own <p>, not before it, so no chapter is yet \"active\" when sec-1 opens - this is the documented, expected null case, not a gap. Passage.ref is null throughout and Passage.n is \"\" throughout (no printed sub-section numbering survives in this source)."
+  },
+  {
+    "where": "pro-ligario-la / apparatus criticus",
+    "note": "174 <note> elements (Clark's apparatus criticus - manuscript sigla, proposed emendations, editors' names) were excluded entirely, tag and content; not logged individually given their number. None of this is Cicero's own text."
+  },
+  {
+    "where": "pro-ligario-la / apparatus tags absent",
+    "note": "Like the companion Pro Marcello import (and unlike Pro Sestio/Pro Milone), this witness carries no <del>, <add>, <choice>/<abbr>/<expan>, <num>, <quote> or <l> at all (confirmed by direct inspection). Only <reg> and <q> occur."
+  },
+  {
+    "where": "pro-ligario-la / regularised spellings",
+    "note": "171 <reg> elements (Clark's regularised-spelling form - the word he actually prints) were kept inline, tags stripped, text preserved verbatim."
+  },
+  {
+    "where": "pro-ligario-la / quoted speech",
+    "note": "12 <q rend=\"single\"> elements (Cicero repeatedly staging and answering an imagined prosecutor Tubero's own words, e.g. \"in armis fuit\") were unwrapped and kept inline as ordinary running text."
+  },
+  {
+    "where": "pro-ligario-la / work-level head",
+    "note": "The source's own running title <head> (\"PRO Q. LIGARIO ORATIO\") is a work-level heading, not a section heading; discarded entirely and not stored on any Division, matching how this library already treats the analogous per-book <head> in data/physics-grc."
+  },
+  {
+    "where": "pro-ligario-la / completeness",
+    "note": "All 38 sections and all 12 chapter milestones are present and sequential, from the incipit \"novum crimen, C. Caesar, et ante hunc diem non auditum propinquus meus...\" to the explicit \"...si illi absenti salutem dederis, praesentibus te his daturum.\"."
+  },
+  {
+    "where": "pro-ligario-la / character encoding",
+    "note": "No HTML/XML entities occur anywhere in this file's reading text (confirmed by direct inspection); no combining diacritics are used. Bytes are preserved exactly as transmitted; no normalisation applied."
+  }
+]

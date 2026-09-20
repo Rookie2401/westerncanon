@@ -1,0 +1,18 @@
+[
+  {
+    "where": "brutus-en / front matter",
+    "note": "E. Jones's own translator's \"PREFACE.\" (2988 characters, describing both Brutus and Orator and his approach to translating them) precedes Brutus's own heading in the source and is not part of either work's translated running text; excluded from both editions."
+  },
+  {
+    "where": "brutus-en / footnotes",
+    "note": "38 \"[Footnote: ...]\" translator/transcriber asides (combined across Brutus and Orator, this work's own share not separately delimited in the shared source) were excluded entirely - Jones's own explanatory glosses, not his translated running text."
+  },
+  {
+    "where": "brutus-en / italic markup",
+    "note": "543 underscore characters (Gutenberg's plain-text italic-markup convention, e.g. \"_Civil War_\") were stripped from Brutus's text; this schema has no rich-text field. One doubled \"__metaphorical_\" (a transcription glitch, not a real word) normalises the same way as every other case since only the markup character is removed."
+  },
+  {
+    "where": "brutus-en / division scheme",
+    "note": "Jones's 1776 translation prints no chapter/section numbers anywhere in Brutus's text (confirmed by direct inspection of the whole source file). Per the task brief's own fallback guidance, this edition is divided into 15000-character reading chunks (paragraphs grouped in document order, never split) - these sec-N numbers are this importer's own sequential labels only and do NOT correspond to the Latin sibling's Wilkins section numbers. See about.json and data/brutus-en/types.ts."
+  }
+]
