@@ -1,0 +1,22 @@
+[
+  {
+    "where": "book-6",
+    "note": "This source spells out Book 6's Greek numeral as the bracketed word \"[στιγμα]\" in its own <num> element, instead of the single stigma-numeral character ϛ used for the digit 6 elsewhere in Greek numeral notation (and unlike the plain single-letter numerals α/β/γ/δ/ε/ζ printed for every other book). Preserved exactly as printed in the source, not corrected."
+  },
+  {
+    "where": "jewish-war-grc / reading text",
+    "note": "This edition carries no critical apparatus at all: <note>, <del>, <gap>, <add>, <foreign>, <hi> are all confirmed zero occurrences by direct inspection of the whole source file."
+  },
+  {
+    "where": "jewish-war-grc / reading text",
+    "note": "456 <q rend=\"...\"> typographic quotation-mark spans (91 with no rend attribute, 365 rend=\"merge\") were unwrapped; the rend value has no field in this app's schema and is dropped as scaffolding, not logged individually given their number."
+  },
+  {
+    "where": "jewish-war-grc / reading text",
+    "note": "487 self-closing <pb/> page-break markers (no content) were dropped; nothing fabricated in their place."
+  },
+  {
+    "where": "jewish-war-grc / passage & division refs",
+    "note": "111 <milestone unit=\"Whiston_chapter\"/> and 707 <milestone unit=\"Whiston_section\"/> markers thread William Whiston's own English chapter/section citation scheme through this Greek text (matching the English sibling's own milestone counts exactly). This app's schema for this work has no field for a second citation system and Division.ref is null throughout per this work's own convention, so both marker types are dropped as scaffolding without affecting the reading text or any Division.ref."
+  }
+]

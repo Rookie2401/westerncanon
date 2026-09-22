@@ -1,0 +1,78 @@
+[
+  {
+    "where": "meditations-en / book-1",
+    "note": "Front-matter text preceding the first numbered entry, skipped (Wikisource page furniture, not part of the translation): \"MARCUS AURELIUS ANTONINUS\""
+  },
+  {
+    "where": "meditations-en / book-1",
+    "note": "Book-title line \"BOOK I\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-2",
+    "note": "Book-title line \"BOOK II\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-3",
+    "note": "Book-title line \"BOOK III\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-4",
+    "note": "Book-title line \"BOOK IV\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-5",
+    "note": "Book-title line \"BOOK V\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-6",
+    "note": "Book-title line \"BOOK VI\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-7",
+    "note": "Book-title line \"BOOK VII\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-8",
+    "note": "Book-title line \"BOOK VIII\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-9",
+    "note": "Book-title line \"BOOK IX\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-10",
+    "note": "Book-title line \"BOOK X\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-11",
+    "note": "Book-title line \"BOOK XI\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-12",
+    "note": "Book-title line \"BOOK XII\" (Wikisource page furniture, not Haines's translation) skipped."
+  },
+  {
+    "where": "meditations-en / book-12",
+    "note": "This source's own chapter numbering skips number 15 entirely - confirmed genuine by direct inspection of the Wikisource page, not a parsing error. Not renumbered to close the gap; see data/meditations-en/types.ts for the (different) gap in the Greek sibling."
+  },
+  {
+    "where": "meditations-en / footnotes stripped",
+    "note": "812 inline footnote markers (Haines's own translator annotation) were removed from the reading text across all 12 books; the footnotes themselves are translator apparatus, not Marcus's text, and are not preserved anywhere in this build (they live in each book page's separate, un-parsed second div.prp-pages-output / {{smallrefs}} block)."
+  },
+  {
+    "where": "meditations-en / page-scan boundary markers stripped",
+    "note": "160 mid-paragraph page-scan boundary markers (span.pagenum, Wikisource page-scan furniture) were removed; each was confirmed to sit after a literal space in the source, so removal never glues two words together."
+  },
+  {
+    "where": "meditations-en / book-title lines skipped",
+    "note": "12 \"BOOK N\" page-furniture line(s) (Wikisource heading text, not Haines's translation) were skipped."
+  },
+  {
+    "where": "meditations-en / front matter skipped",
+    "note": "1 front-matter node(s) preceding a book's first numbered entry (e.g. Book 1's half-title block \"Marcus Aurelius Antoninus\") were skipped; see the per-book entries above for the exact text of each."
+  },
+  {
+    "where": "meditations-en / passage & division refs",
+    "note": "This work carries no page/line reference system in this source; every Division.ref and Passage.ref is null throughout rather than fabricated."
+  }
+]

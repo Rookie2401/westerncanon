@@ -1,0 +1,53 @@
+{
+  "workId": "jewish-antiquities-grc",
+  "title": "Ἰουδαϊκὴ ἀρχαιολογία",
+  "author": "Flavius Josephus",
+  "language": "grc",
+  "editor": "Benedikt Niese",
+  "edition": "Flavii Iosephi Opera, Vol. 1-4, ed. Benedikt Niese (Berlin: Weidmann, 1885-1890)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0526.tlg001.perseus-grc2), which digitises Niese's edition of the Greek text of Josephus, Jewish Antiquities; imported by scripts/import-jewish-antiquities-grc. The raw file is cached at scripts/import-jewish-antiquities-grc/raw/tlg0526.tlg001.perseus-grc2.xml.",
+  "license": "Niese's 1885-1890 edition of the Greek text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Josephus's Jewish Antiquities — Greek",
+      "paragraphs": [
+        "This is the Greek text of Flavius Josephus's Ἰουδαϊκὴ ἀρχαιολογία (\"Jewish Antiquities\"), a 20-book history of the Jewish people from creation to the eve of the First Jewish-Roman War, completed around AD 93/94. It is the largest of Josephus's surviving works and, alongside the Hebrew Bible itself, one of the principal sources for the history of Second Temple Judaism.",
+        "The text here is the original Greek, verbatim, in Benedikt Niese's critical edition. Nothing is translated, modernised or silently corrected. Text Niese's own apparatus brackets as a probable interpolation is excluded, matching this library's established <del> convention elsewhere — see \"Known gaps & anomalies\" below, which also discusses the one significant exception. An English translation (Whiston, 1737) of the same work is bundled separately as jewish-antiquities-en; see its own about.json."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Benedikt Niese, ed., Flavii Iosephi Opera, Vol. 1-4 (Berlin: Weidmann, 1885-1890) — the standard critical edition of the Greek text. Public domain."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0526.tlg001.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0526.tlg001.perseus-grc2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. Fetched once and bundled with the app."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each of the 20 Books is a top-level Division (book-1 .. book-20); each holds its own Sections (book-N-sec-M), one Passage each. Every book opens with an \"arg\" Section (book-N-sec-arg) — Niese's own printed argumentum, a short table of contents in Josephus's own words, one paragraph per numbered item — followed by that book's ordinarily numbered sections (7376 across the 20 books, 7396 sections in all with the 20 \"arg\" sections). Each Book's Division.sourceHeading is its own printed contents-heading; only Book 1's \"arg\" Section additionally carries its own heading, \"Προοίμιον περὶ τῆς ὅλης πραγματείας\" (\"Preface concerning the whole undertaking\"), since it doubles as the preface to the entire work.",
+        "XML transport scaffolding only is removed: page-break markers, the arg sections' own item-numeral labels, and inline direct-quotation markup are unwrapped, their text flowing into the surrounding prose unchanged. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Section (Niese's own section numbering, the standard modern citation for this work, e.g. \"AJ 18.63\"). Division.ref is null throughout: this source's own inline cross-reference milestones to Whiston's different, older English chapter/section numbering are dropped as scaffolding rather than fabricating a use for them. Passage.ref is null throughout as well."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 20 Books and all 7396 Sections (20 \"arg\" + 7376 numbered) are present and in order; the bundled TEI file matches the current Perseus canonical-greekLit release.",
+        "Niese's critical apparatus. 222 <del> spans (text Niese's apparatus brackets as a probable interpolation) are excluded from the reading text; every occurrence is logged individually in anomalies.json.",
+        "The Testimonium Flavianum. Book 18, Sections 63-64 — the famous, long-disputed passage naming Jesus — are, in Niese's edition as digitised here, ENTIRELY bracketed as a probable interpolation (their sole paragraph is wrapped, start to finish, in <del>). Excluding it as usual would leave those two Sections with no reading text at all, which this app's schema does not support, so — mirroring an established precedent elsewhere in this library (Cicero's De Officiis, book-1-sec-40) — the bracketed Greek text is kept here as a last resort, with each Passage explicitly flagged as suspect via its `anomaly` field. This is a deliberate, disclosed departure from the silent-exclusion rule applied to every other <del> span in this work, made only because the alternative (an empty Section) is unsupported by the schema; readers should treat this passage's authenticity as an open scholarly question, not as this app's own editorial judgment either way. The bundled English translation (jewish-antiquities-en, Whiston 1737) presents the same passage as ordinary, unmarked text, reflecting its own (pre-critical) edition — see that work's own anomalies.json.",
+        "A later cross-reference layer. The Perseus editors additionally marked this Greek text with inline milestones tying it to Whiston's different, 18th-century English chapter/section numbering; this app's schema has no field for a third numbering scheme, so these are dropped as scaffolding without affecting the reading text or Division.ref."
+      ]
+    }
+  ]
+}

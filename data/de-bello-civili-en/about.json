@@ -1,0 +1,52 @@
+{
+  "workId": "de-bello-civili-en",
+  "title": "The Civil War",
+  "author": "Julius Caesar",
+  "language": "en",
+  "translator": "Arthur George Peskett",
+  "edition": "The Civil Wars (London: William Heinemann; New York: G. P. Putnam's Sons, 1914)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0448.phi002.perseus-eng2), digitising Arthur George Peskett's translation \"The Civil Wars\" (London: William Heinemann; New York: G. P. Putnam's Sons, 1914, Loeb Classical Library) - the same 1914 volume as the Latin sibling, a matched pair; imported by scripts/import-de-bello-civili-en. The raw file is fetched once (cached at scripts/import-de-bello-civili-en/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Peskett's 1914 translation is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Caesar's Civil War — English, trans. Peskett",
+      "paragraphs": [
+        "This is the English translation of De Bello Civili (\"The Civil War\"), Julius Caesar's own first-person account of the civil war against Pompey and the Senate, 49-48 BC, in three books, made by Arthur George Peskett for the same 1914 Loeb Classical Library volume as the Latin text already in this library - a matched Latin/English pair by the same editor-translator.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Like the Latin, it is Caesar's own unfinished work: the narrative simply stops at the end of Book 3 with no formal conclusion - see \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Arthur George Peskett, trans., The Civil Wars (London: William Heinemann; New York: G. P. Putnam's Sons, 1914). This translation is in the public domain. Perseus offers a second, older English witness of this work (William Duncan's 1856 translation, \"The Commentaries of Caesar\", St. Louis: Edwards and Bushnell), but this importer deliberately uses Peskett's translation instead, to keep this Latin/English pair matched to the same edition.",
+        "The work is divided into 3 Books and, within each Book, numbered chapters (243 total: 87 in Book 1, 44 in Book 2, 112 in Book 3), matching the Latin sibling exactly, chapter for chapter."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0448.phi002.perseus-eng2.xml (CTS urn:cts:latinLit:phi0448.phi002.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and chapter <div>s and collects the single <p> paragraph within each chapter into that chapter's single Passage. Only transport scaffolding is removed: the 177 <pb/> page-break markers (this bilingual edition's facing-page layout) are dropped entirely; purely typographic/structural wrapper tags (<foreign xml:lang=\"grc\">, wrapping the one untranslated Greek word Caesar quotes, and <q>, marking direct quoted speech) are unwrapped, their text flowing into the surrounding prose. Two <gap rend=\". . .\" reason=\"lost\"/> markers, at scattered points within Book 3 (chapters 8 and 50) marking small manuscript lacunae, are kept as their literal printed \". . .\" rather than dropped. Entities are decoded and runs of whitespace collapsed; the words themselves are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter number, matching this edition's own numbering exactly and the Latin sibling's. This source carries no finer, page-marker-style citation scheme (only the dropped facing-page <pb/> markers), so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 3 Books and all 243 chapters are present and in order, matching the Latin sibling exactly, chapter for chapter. Like the Latin, this translation ends unfinished: the narrative simply stops at the end of Book 3, chapter 112 - a textually complete sentence, immediately after describing the outbreak of the Alexandrian War (including Pothinus's death) - with no formal conclusion and no resolution of that war.",
+        "Small manuscript lacunae within Book 3. Separately from that ending, two scattered points earlier in Book 3 (chapters 8 and 50) are marked with <gap rend=\". . .\" reason=\"lost\"/>, kept as their literal \". . .\" in the reading text; every occurrence is logged individually in anomalies.json.",
+        "Encoding difference from the Latin sibling. The Latin witness prints these same two lacunae as plain, untagged \". . .\" running text rather than a tagged <gap/> element - a different TEI encoding choice within the same 1914 edition, not a real difference in content. The Latin sibling additionally has a THIRD such lacuna, at chapter 10, that this English witness does not mark at all - that chapter reads as a complete sentence here."
+      ]
+    }
+  ]
+}

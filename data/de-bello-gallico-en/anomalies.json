@@ -1,0 +1,26 @@
+[
+  {
+    "where": "book-1-ch-29",
+    "note": "A <list> of tabular census figures (the Helvetii and their allies' population counts) is linearised into the surrounding prose, since this flat-text schema has no table representation; label/item text flows in document order with no punctuation invented beyond the source's own whitespace."
+  },
+  {
+    "where": "de-bello-gallico-en / authorship",
+    "note": "Book 8 translates Aulus Hirtius's continuation, not Caesar's own words (his narrative ends after Book 7). Confirmed directly in this witness too: Book 8's first chapter, uniquely numbered \"0\", is Hirtius's own prefatory letter to Balbus (\"Prevailed on by your continued solicitations, Balbus, I have engaged in a most difficult task...\"). See about.json for the full disclosure."
+  },
+  {
+    "where": "de-bello-gallico-en / reading text",
+    "note": "1 <note resp=\"perseus\"> editorial gloss(es) (a Perseus-added textual-variant note, not part of the translated running text) were excluded entirely, tag and content."
+  },
+  {
+    "where": "de-bello-gallico-en / reading text",
+    "note": "1 <list> element(s) (tabular census figures) were linearised into the surrounding prose; every occurrence is logged individually above."
+  },
+  {
+    "where": "de-bello-gallico-en / completeness",
+    "note": "Unlike the Latin sibling (Holmes 1914), this witness reads as a complete, uninterrupted sentence at the very end of Book 8, with no marked gap - McDevitte/Bohn's 1870s translation appears to follow a Latin base text (or editorial supplement) that continues past the point where Holmes's later OCT-style edition marks a manuscript lacuna. This is a genuine difference between the two editions' underlying Latin texts, not a translation of Holmes's <add>/<gap> apparatus (which of course this 19th-century translation could not have used). See about.json."
+  },
+  {
+    "where": "de-bello-gallico-en / passage & division refs",
+    "note": "Division.ref and Passage.ref are null throughout: this source carries no page-marker or milestone citation scheme. Citation here is by Book and Chapter number alone, matching this edition's own numbering exactly (and the Latin sibling's)."
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "workId": "jewish-war-en",
+  "title": "The Wars of the Jews",
+  "author": "Flavius Josephus",
+  "language": "en",
+  "translator": "William Whiston",
+  "edition": "The Works of Flavius Josephus, trans. William Whiston (Auburn and Rochester, NY: Alden and Beardsley, 1856 printing), \"The Wars of the Jews\" (Whiston's translation was first published in 1737)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0526.tlg004.perseus-eng2), which digitises Whiston's translation of Josephus, The Jewish War; imported by scripts/import-jewish-war-en. The raw file was fetched once at import time and is committed at scripts/import-jewish-war-en/raw/tlg0526.tlg004.perseus-eng2.xml.",
+  "license": "Whiston's translation (1737; this digitisation reproduces the 1856 Alden and Beardsley printing) is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "The Jewish War, in English",
+      "paragraphs": [
+        "William Whiston's English translation of Josephus's account of the First Jewish-Roman War (66-73 AD) - a facing English rendering of the Greek text already in this library (data/jewish-war-grc). First published in 1737, Whiston's Josephus went on to become the standard English translation for nearly two centuries; this digitisation reproduces its 1856 Auburn and Rochester, NY printing (Alden and Beardsley).",
+        "The text here is Whiston's translation, verbatim; nothing is further modernised or paraphrased. Whiston/Perseus's own editorial footnotes are excluded - see \"How it was imported\"."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "William Whiston, trans., The Works of Flavius Josephus (Auburn and Rochester, NY: Alden and Beardsley, 1856), \"The Wars of the Jews\". This printing of Whiston's 1737 translation is in the public domain."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0526.tlg004.perseus-eng2.xml (CTS urn:cts:greekLit:tlg0526.tlg004.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It is fetched once by the importer and then bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and section <div>s directly (there is no chapter-level div in this source, matching the Greek sibling). Each Book's own title rubric becomes its Division.sourceHeading; each Whiston chapter's own descriptive title rubric (printed on that chapter's first section only) becomes that Section's own Division.sourceHeading. XML transport scaffolding only is removed: purely typographic <q> quotation marks, <foreign>, <placeName> and <term> wrappers are unwrapped, and the Whiston_chapter/Whiston_section cross-reference milestones are dropped as scaffolding. Perseus/Whiston's own editorial footnotes (<note resp=\"editor\">) are excluded entirely, tag and content. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and this edition's own printed Section number (Division.ref is null throughout). IMPORTANT: this English witness's own section boundaries do not match the Greek sibling's own (Niese's) section boundaries - each English section here is one of Whiston's own, coarser paragraph divisions, numbered by the Niese section at which it begins, not a continuous per-book count. See \"Known gaps & anomalies\" and data/jewish-war-en/types.ts."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 7 Books and all 707 of this edition's own sections are present and in order; the bundled TEI file is identical to the current Perseus canonical-greekLit release.",
+        "Edition mismatch with the Greek sibling. This English translation's own section numbering (707 sections, William Whiston's coarser paragraph divisions, each anchored to the Niese section number where it begins) does not match the Greek edition's own section numbering (4001 sections, Niese's fine-grained numbering, continuous within each book). This is a genuine, source-confirmed feature of this particular digitisation pairing, not an importer artefact - the two editions in this library are not section-for-section aligned. See jewish-war-grc's own about.json for its side of the account.",
+        "Editorial footnotes. 195 <note resp=\"editor\"> apparatus notes (Perseus/Whiston-edition editorial commentary, not Josephus's own words) were excluded entirely from the reading text, including one nested directly inside a chapter-title rubric."
+      ]
+    }
+  ]
+}

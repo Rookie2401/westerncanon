@@ -1,0 +1,302 @@
+[
+  {
+    "where": "book-1-ch-13",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"καὶ\""
+  },
+  {
+    "where": "book-1-ch-16",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὅ ἐστιν\""
+  },
+  {
+    "where": "book-1-ch-16",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"οἱ\""
+  },
+  {
+    "where": "book-2-ch-2",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"ἄφες τὰ βιβλία· μηκέτι σπῶ. οὐ δέδοται, ἀλλ’ ὡς ἤδη ἀποθνῄσκων\""
+  },
+  {
+    "where": "book-2-ch-4",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"οἰχήσῃ\""
+  },
+  {
+    "where": "book-2-ch-12",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"παρέχουσι\""
+  },
+  {
+    "where": "book-2-ch-12",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"ἔχῃ\""
+  },
+  {
+    "where": "book-2-ch-16",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"αἱ\""
+  },
+  {
+    "where": "book-3-ch-6",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"ἐν\""
+  },
+  {
+    "where": "book-3-ch-7",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-4-ch-5",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"λύσις\""
+  },
+  {
+    "where": "book-4-ch-16",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τούτοις\""
+  },
+  {
+    "where": "book-4-ch-21",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"μετὰ\""
+  },
+  {
+    "where": "book-4-ch-23",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὦ\""
+  },
+  {
+    "where": "book-4-ch-39",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ τῷ παρὰ φύσιν\""
+  },
+  {
+    "where": "book-4-ch-42",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τοῖς\""
+  },
+  {
+    "where": "book-4-ch-45",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"καὶ\""
+  },
+  {
+    "where": "book-4-ch-46",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὡς\""
+  },
+  {
+    "where": "book-5-ch-1",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"ἔδωκε μέντοι\""
+  },
+  {
+    "where": "book-5-ch-2",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"τὴν\""
+  },
+  {
+    "where": "book-5-ch-3",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"ἡ\""
+  },
+  {
+    "where": "book-5-ch-8",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὡς\""
+  },
+  {
+    "where": "book-5-ch-8",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἃ\""
+  },
+  {
+    "where": "book-5-ch-12",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"οὐ\""
+  },
+  {
+    "where": "book-5-ch-22",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἀλλὰ δεικτέον\""
+  },
+  {
+    "where": "book-5-ch-31",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τι\""
+  },
+  {
+    "where": "book-6-ch-16",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-6-ch-30",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"αὐτῷ\""
+  },
+  {
+    "where": "book-6-ch-30",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τῶν\""
+  },
+  {
+    "where": "book-6-ch-30",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τι\""
+  },
+  {
+    "where": "book-7-ch-1",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"αἱ\""
+  },
+  {
+    "where": "book-7-ch-17",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἡγεμονικὸν\""
+  },
+  {
+    "where": "book-7-ch-23",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἀγαθόν\""
+  },
+  {
+    "where": "book-7-ch-38",
+    "note": "<lb/> verse line-break milestone rendered as a single space (ordinary line boundary between separate words/tokens: \"… \" | \"μ…\")."
+  },
+  {
+    "where": "book-7-ch-40",
+    "note": "<lb/> verse line-break milestone rendered as a single space (ordinary line boundary between separate words/tokens: \"… \" | \"κ…\")."
+  },
+  {
+    "where": "book-7-ch-41",
+    "note": "<lb/> verse line-break milestone rendered as a single space (ordinary line boundary between separate words/tokens: \"… \" | \"ἔ…\")."
+  },
+  {
+    "where": "book-7-ch-44",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἔργα\""
+  },
+  {
+    "where": "book-7-ch-45",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"δεῖ\""
+  },
+  {
+    "where": "book-7-ch-50",
+    "note": "<lb/> verse line-break milestone rendered as a single space (ordinary line boundary between separate words/tokens: \"… \" | \"τ…\")."
+  },
+  {
+    "where": "book-7-ch-50",
+    "note": "<lb/> verse line-break milestone rendered as a single space (ordinary line boundary between separate words/tokens: \"… \" | \"ε…\")."
+  },
+  {
+    "where": "book-7-ch-51",
+    "note": "<lb/> verse line-break milestone rendered as a single space (ordinary line boundary between separate words/tokens: \"… \" | \"π…\")."
+  },
+  {
+    "where": "book-7-ch-51",
+    "note": "<lb/> verse line-break milestone rendered as a single space (ordinary line boundary between separate words/tokens: \"… \" | \".…\")."
+  },
+  {
+    "where": "book-7-ch-51",
+    "note": "<lb/> verse line-break milestone rendered as a single space (ordinary line boundary between separate words/tokens: \"….\" | \"θ…\")."
+  },
+  {
+    "where": "book-7-ch-51",
+    "note": "<lb/> verse line-break milestone rendered zero-width: it falls between two Greek letters (\"τ\"+\"λ…\") - the source's own encoding continues a single word across the line boundary here, so no space was inserted."
+  },
+  {
+    "where": "book-7-ch-65",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τι\""
+  },
+  {
+    "where": "book-7-ch-65",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἀπ\""
+  },
+  {
+    "where": "book-7-ch-68",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"τῇ\""
+  },
+  {
+    "where": "book-8-ch-1",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὡς\""
+  },
+  {
+    "where": "book-8-ch-7",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἓν\""
+  },
+  {
+    "where": "book-8-ch-18",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"εἰ\""
+  },
+  {
+    "where": "book-8-ch-43",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τι\""
+  },
+  {
+    "where": "book-9-ch-16",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-9-ch-32",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τῷ\""
+  },
+  {
+    "where": "book-9-ch-35",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-9-ch-35",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"κακῶς\""
+  },
+  {
+    "where": "book-9-ch-41",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"ἐν νόσῳ,\""
+  },
+  {
+    "where": "book-10-ch-8",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"καὶ\""
+  },
+  {
+    "where": "book-10-ch-25",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"οὖν\""
+  },
+  {
+    "where": "book-10-ch-30",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "book-11-ch-6",
+    "note": "<lb/> verse line-break milestone rendered as a single space (ordinary line boundary between separate words/tokens: \"… \" | \"ἔ…\")."
+  },
+  {
+    "where": "book-11-ch-8",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "book-11-ch-11",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"Εἰ μὲν\""
+  },
+  {
+    "where": "book-11-ch-18",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"Καὶ\""
+  },
+  {
+    "where": "book-11-ch-19",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"κινήσεσιν\""
+  },
+  {
+    "where": "book-12-ch-1",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τοῦ\""
+  },
+  {
+    "where": "book-12-ch-3",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "book-12-ch-11",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"τὸ ἑξῆς τῇ φύσει.\""
+  },
+  {
+    "where": "book-12-ch-17",
+    "note": "<del> excluded from the reading text (Leopold's apparatus brackets this as a probable interpolation/gloss): \"ιη′\""
+  },
+  {
+    "where": "book-12-ch-36",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἢ τρισί\""
+  },
+  {
+    "where": "meditations-grc / book-12",
+    "note": "This edition's own chapter numbering skips number 18 entirely (sequence goes straight from 17 to 19) - confirmed genuine by direct inspection of the source XML, not a parsing error. Not renumbered to close the gap; see data/meditations-grc/types.ts for the (different) gap in the English sibling."
+  },
+  {
+    "where": "meditations-grc / reading text",
+    "note": "18 <del> spans (Leopold's apparatus brackets these as probable interpolations/glosses, not his judged authentic text) were excluded from the reading text; every occurrence is logged individually above."
+  },
+  {
+    "where": "meditations-grc / reading text",
+    "note": "41 <add> editorial insertions were kept verbatim in the reading text; every occurrence is logged individually above and flagged on its Passage."
+  },
+  {
+    "where": "meditations-grc / reading text",
+    "note": "10 <lb/> verse line-break milestones (all inside <quote> blocks) were resolved individually: 1 rendered zero-width (the source's own line break falls mid-word, letters on both sides), 9 rendered as a single space (an ordinary word/token boundary). Every occurrence is logged individually above."
+  },
+  {
+    "where": "meditations-grc / passage & division refs",
+    "note": "This work carries no Bekker-style (or any other) page/line reference system in this source; every Division.ref and Passage.ref is null throughout rather than fabricated."
+  },
+  {
+    "where": "meditations-grc / character encoding",
+    "note": "The source is already NFC-normalised polytonic Greek; no normalisation pass was applied."
+  }
+]

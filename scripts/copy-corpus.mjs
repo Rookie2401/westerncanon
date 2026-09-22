@@ -166,6 +166,16 @@ const GENERIC_DIRS = [
   'ad-quintum-fratrem-selection-en',
   'ad-brutum-selection-la',
   'ad-brutum-selection-en',
+  'de-bello-gallico-la',
+  'de-bello-gallico-en',
+  'de-bello-civili-la',
+  'de-bello-civili-en',
+  'jewish-war-grc',
+  'jewish-war-en',
+  'jewish-antiquities-grc',
+  'jewish-antiquities-en',
+  'meditations-grc',
+  'meditations-en',
 ];
 const GENERIC_FILES = ['work.json', 'about.json'];
 

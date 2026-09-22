@@ -1,0 +1,53 @@
+{
+  "workId": "de-bello-civili-la",
+  "title": "De Bello Civili",
+  "author": "Julius Caesar",
+  "language": "la",
+  "editor": "Arthur George Peskett",
+  "edition": "The Civil Wars, ed. Arthur George Peskett (London: William Heinemann; New York: G. P. Putnam's Sons, 1914)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0448.phi002.perseus-lat3, witness \"lat3\"), digitising Arthur George Peskett's Loeb Classical Library edition of De Bello Civili (1914); imported by scripts/import-de-bello-civili-la. The raw file is fetched once (cached at scripts/import-de-bello-civili-la/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Peskett's 1914 critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Caesar's De Bello Civili",
+      "paragraphs": [
+        "De Bello Civili (\"The Civil War\", also known as the Commentarii de Bello Civili) is Julius Caesar's own first-person account of the civil war against Pompey and the Senate, 49-48 BC, in three books. Unlike De Bello Gallico, it is entirely Caesar's own work - but it too is unfinished: the narrative simply stops at the end of Book 3 (chapter 112), immediately after describing the outbreak of the \"Alexandrian War\", with no formal conclusion and no resolution of that war. That final chapter's own text is complete, not textually broken off; Caesar's account just ends there. The so-called \"Alexandrian War\" that follows it in some later manuscript traditions is a separate, disputed continuation not attributed to Caesar and not included here.",
+        "The text here is Peskett's Latin, verbatim. Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Arthur George Peskett, ed. and trans., The Civil Wars (London: William Heinemann; New York: G. P. Putnam's Sons, 1914), a bilingual Loeb Classical Library volume. This importer uses the Perseus \"lat3\" witness of the Latin text from that volume. This edition is in the public domain.",
+        "The work is divided into 3 Books and, within each Book, numbered chapters (243 total: 87 in Book 1, 44 in Book 2, 112 in Book 3), matching the independently-parsed English sibling exactly, chapter for chapter."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0448.phi002.perseus-lat3.xml (CTS urn:cts:latinLit:phi0448.phi002.perseus-lat3) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and chapter <div>s and collects the single <p> paragraph within each chapter into that chapter's single Passage. Only transport scaffolding is removed: the 177 <pb/> page-break markers (this bilingual edition's facing-page layout) are dropped entirely; purely typographic/structural wrapper tags (<foreign xml:lang=\"grc\">, wrapping the one untranslated Greek word Caesar quotes, and <q>, marking direct quoted speech) are unwrapped, their text flowing into the surrounding prose. Entities are decoded and runs of whitespace collapsed; the words themselves are otherwise untouched. At three scattered points within Book 3 (chapters 8, 10, 50), the source prints its own small manuscript lacuna as a plain \". . .\" in the running text (not a tagged apparatus element in this witness), so it required no special handling - it simply survives as ordinary paragraph text."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter number, matching this edition's own numbering exactly. This source carries no finer, page-marker-style citation scheme (only the dropped facing-page <pb/> markers), so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 3 Books and all 243 chapters of this edition are present and in order, agreeing exactly, chapter for chapter, with the independently-parsed English sibling edition. No paragraph is dropped, merged or reordered except the rare paragraph that cleans to empty text.",
+        "The work ends unfinished. Caesar's narrative simply stops at the end of Book 3, chapter 112 - a textually complete sentence (\"Haec initia belli Alexandrini fuerunt.\") immediately after describing the outbreak of the Alexandrian War (including Pothinus's death) - with no formal conclusion and no resolution of that war. This is a well-documented fact about the work's composition/transmission, not a parsing defect, and is unrelated to the small internal lacunae described next.",
+        "Small manuscript lacunae within Book 3. Separately from the ending above, three scattered points earlier in Book 3 (chapters 8, 10, 50) each carry a small manuscript lacuna, printed in this edition as a plain \". . .\" in the running text; every occurrence is logged individually in anomalies.json.",
+        "Page breaks. 177 <pb/> markers (this bilingual Loeb edition's facing Latin/English page layout) carry no textual content and were dropped as scaffolding."
+      ]
+    }
+  ]
+}

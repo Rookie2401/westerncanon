@@ -1,0 +1,46 @@
+{
+  "workId": "meditations-en",
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "language": "en",
+  "translator": "Charles Reginald Haines",
+  "edition": "The Communings with Himself of Marcus Aurelius Antoninus, trans. C. R. Haines (Loeb Classical Library, 1916)",
+  "provenance": "English Wikisource, \"Marcus Aurelius (Haines 1916)\" (12 book subpages), fetched once per book via the MediaWiki action=parse&prop=text API (a page-scan transclusion: action=parse&prop=wikitext for these pages returns only the <pages index=... include=.../> transclusion marker, not the text itself, so the rendered HTML was fetched and parsed instead); imported by scripts/import-meditations-en. The raw per-book dumps are committed under scripts/import-meditations-en/raw/.",
+  "license": "Haines's 1916 translation is in the public domain (published over a century ago; Haines died in 1955, so the translation is also public domain in life-plus-50/60/70-year jurisdictions). The digital transcription and page-scan proofreading are distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Marcus Aurelius's Meditations - English, trans. Haines",
+      "paragraphs": [
+        "This is Marcus Aurelius's private philosophical notebook - Τὰ εἰς ἑαυτόν, conventionally known in English as the Meditations - in the English translation made by Charles Reginald Haines, published in 1916 as \"The Communings with Himself of Marcus Aurelius Antoninus\" in the Loeb Classical Library.",
+        "The text here is the translation, verbatim. Nothing is modernised, paraphrased or silently corrected. Haines's own numbering of each book's short entries is preserved exactly as printed, including one genuine gap (see below) rather than being renumbered to close it."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the RENDERED HTML of each \"Marcus Aurelius (Haines 1916)/Book N\" subpage (N = 1..12), fetched once through the MediaWiki action=parse&prop=text API and committed under the importer's raw/ directory. Like this library's other page-scan Wikisource imports, action=parse&prop=wikitext for these pages returns only the transclusion marker, not the assembled text, so the already-rendered HTML was fetched and parsed with jsdom instead. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Haines's translation marks each book's short numbered entries with plain leading text (\"1. From my Grandfather Verus, ...\") rather than a separate heading element; this importer recognises that pattern to open each new chapter, and treats every following un-numbered paragraph - an ordinary prose continuation, or, in Books 5, 7, 10, 11 and 12, a separately-marked quoted-verse block - as part of the same chapter's text, joined with a blank line (paralleling the Greek sibling's own multi-paragraph-per-chapter convention). Wiki/HTML transport scaffolding only is removed: page-scan boundary markers, inline footnote-reference markers (counted and stripped - the footnotes themselves are translator apparatus and are not preserved, matching this library's other English translations), and page-furniture lines (\"BOOK N\" headings, and, in Book 1, a half-title block)."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter only (e.g. \"4.3\"), matching the Greek sibling. This source carries no page/line reference system, so Division.ref and Passage.ref are null throughout - nothing is fabricated to fill that gap."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 12 books are present and, with one exception, run as a complete, contiguous entry sequence: Book 1 (17), Book 2 (17), Book 3 (16), Book 4 (51), Book 5 (36), Book 6 (59), Book 7 (75), Book 8 (61), Book 9 (42), Book 10 (38), Book 11 (39). No paragraph is dropped, merged or reordered except where documented in anomalies.json.",
+        "Numbering gap in Book 12. This source's own entry numbering in Book 12 skips number 15 entirely - it runs ...13, 14, 16, 17... (35 entries total, numbered 1-14 and 16-36). Confirmed genuine by direct inspection of the Wikisource page, not a parsing error; not renumbered to close the gap. Interestingly, the companion Greek edition (data/meditations-grc, independently transcribed from a different, 1908 Teubner-based source) also has a Book 12 gap, but at a DIFFERENT number (18, not 15) - the two are not reconciled against each other; each edition's own gap is logged in its own anomalies.json.",
+        "Footnotes and page furniture. Every inline translator footnote marker, page-scan boundary marker, \"BOOK N\" heading line, and (Book 1 only) the half-title block preceding \"BOOK I\" were stripped as page furniture / apparatus, not part of Haines's translation proper; every occurrence is logged in anomalies.json.",
+        "A word on trust: this source's own community-proofreading status is a live Wikisource project; isolated OCR/transcription slips are possible despite this importer's own care in walking every paragraph and quoted-verse block individually - that is a disclosed limitation of the source, not something silently papered over."
+      ]
+    }
+  ]
+}

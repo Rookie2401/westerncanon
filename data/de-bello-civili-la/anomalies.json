@@ -1,0 +1,26 @@
+[
+  {
+    "where": "book-3-ch-8",
+    "note": "Chapter ends with the source's own literal \". . .\" (plain running text, not a tagged <gap/> in this witness) - a small manuscript lacuna at this point. See about.json."
+  },
+  {
+    "where": "book-3-ch-10",
+    "note": "Chapter ends with the source's own literal \". . .\" (plain running text, not a tagged <gap/> in this witness) - a small manuscript lacuna at this point. See about.json."
+  },
+  {
+    "where": "book-3-ch-50",
+    "note": "Chapter ends with the source's own literal \". . .\" (plain running text, not a tagged <gap/> in this witness) - a small manuscript lacuna at this point. See about.json."
+  },
+  {
+    "where": "de-bello-civili-la / completeness",
+    "note": "3 chapter(s) within Book 3 (chapters 8, 10, 50) end with the source's own literal \". . .\" (plain running text) - small manuscript lacunae, scattered through the book and unrelated to the work's own unfinished ending at chapter 112. See about.json."
+  },
+  {
+    "where": "de-bello-civili-la / reading text",
+    "note": "177 <pb/> page-break markers (this bilingual Loeb edition's facing-page layout) were dropped entirely as zero-width transport scaffolding."
+  },
+  {
+    "where": "de-bello-civili-la / passage & division refs",
+    "note": "Division.ref and Passage.ref are null throughout: this source carries no page-marker or milestone citation scheme beyond the dropped <pb/> facing-page markers. Citation here is by Book and Chapter number alone."
+  }
+]

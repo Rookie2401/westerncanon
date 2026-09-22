@@ -141,6 +141,16 @@ public/ad-quintum-fratrem-selection-la/
 public/ad-quintum-fratrem-selection-en/
 public/ad-brutum-selection-la/
 public/ad-brutum-selection-en/
+public/de-bello-gallico-la/
+public/de-bello-gallico-en/
+public/de-bello-civili-la/
+public/de-bello-civili-en/
+public/jewish-war-grc/
+public/jewish-war-en/
+public/jewish-antiquities-grc/
+public/jewish-antiquities-en/
+public/meditations-grc/
+public/meditations-en/
 
 # The source XML IS committed (scripts/import-summa/raw/xml_latin_nl.xml) as the
 # single bundled copy. If it ever needs to be removed, re-download with:

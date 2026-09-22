@@ -1,0 +1,53 @@
+{
+  "workId": "jewish-war-grc",
+  "title": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους",
+  "author": "Flavius Josephus",
+  "language": "grc",
+  "editor": "Benedikt Niese",
+  "edition": "Flavii Iosephi Opera, Vol. 6, ed. Benedikt Niese (Berlin: Weidmann, 1895)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0526.tlg004.perseus-grc2), which digitises Niese's 1895 critical text of Josephus, The Jewish War (Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους); imported by scripts/import-jewish-war-grc. The raw file was fetched once at import time and is committed at scripts/import-jewish-war-grc/raw/tlg0526.tlg004.perseus-grc2.xml.",
+  "license": "Niese's 1895 Greek text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "The Jewish War — Greek",
+      "paragraphs": [
+        "Flavius Josephus's account, in his own Greek, of the First Jewish-Roman War (66-73 AD), from the Hasmonean-era unrest that preceded it to the fall of Jerusalem and Masada. In seven books, it is Josephus's earliest work, written for a Greco-Roman audience in the 70s AD by a former Judean commander turned observer of, and participant in, the war's final Roman campaign.",
+        "The text here is the original Greek, verbatim. Nothing is translated, modernised or silently corrected. An English translation (Whiston, 1737/1856) of the same textual tradition is bundled separately as jewish-war-en; see its own about.json - note that the two editions do not divide the text at matching points (see \"Reference scheme\" below)."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Benedikt Niese, ed., Flavii Iosephi Opera, Vol. 6 (Berlin: Weidmann, 1895). This edition is in the public domain.",
+        "The work is divided into 7 Books and, within each Book, this edition's own continuously numbered sections (673 / 654 / 542 / 663 / 572 / 442 / 455, 4001 total) - see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0526.tlg004.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0526.tlg004.perseus-grc2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It is fetched once by the importer and then bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and section <div>s directly (there is no chapter-level div in this source) and collects each section's single <p> paragraph into that section's one Passage. XML transport scaffolding only is removed: purely typographic <q> quotation-mark wrappers are unwrapped, self-closing <pb/> page-break markers are dropped, and the Whiston_chapter/Whiston_section cross-reference milestones (see \"Reference scheme\") are dropped as scaffolding. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched. This edition carries no critical apparatus (<note>/<del>/<gap>/<add>) at all."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Section, using this edition's own continuous per-book section numbering (Division.ref is null throughout - there is no separate, coarser reference level in this app's schema for this work). The source also threads William Whiston's own English chapter/section citation scheme through the Greek text via inline milestones (for cross-reference to older English-language scholarship); those milestones are not represented in this app's schema and are dropped without affecting the reading text."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 7 Books and all 4001 of this edition's own sections are present and in order; the bundled TEI file is identical to the current Perseus canonical-greekLit release.",
+        "No critical apparatus. Unlike several other works in this library, this edition carries no <note>/<del>/<gap>/<add> apparatus at all - confirmed by direct inspection.",
+        "Book 6's numeral. This source spells out Book 6's own heading numeral as the bracketed word \"[στιγμα]\" rather than the single stigma-numeral character used for 6 elsewhere in Greek numeral notation - preserved exactly as printed, not corrected.",
+        "Edition mismatch with the English sibling. This Greek edition's own section numbering (4001 sections, fine-grained, one Niese section per printed paragraph) does not match the English translation's own section numbering (707 sections, William Whiston's coarser paragraph divisions) - each Division.number is this edition's own printed number, not remapped to the other edition's scheme. See jewish-war-en's own about.json for the full account."
+      ]
+    }
+  ]
+}

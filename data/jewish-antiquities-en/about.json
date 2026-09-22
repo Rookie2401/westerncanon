@@ -1,0 +1,53 @@
+{
+  "workId": "jewish-antiquities-en",
+  "title": "Antiquities of the Jews",
+  "author": "Flavius Josephus",
+  "language": "en",
+  "translator": "William Whiston",
+  "edition": "The Works of Flavius Josephus, trans. William Whiston (Auburn and Rochester, NY: Alden and Beardsley, 1856 printing), \"Antiquities of the Jews\" (Whiston's translation was originally published London, 1737)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0526.tlg001.perseus-eng2), which digitises Whiston's translation; imported by scripts/import-jewish-antiquities-en. The raw file is cached at scripts/import-jewish-antiquities-en/raw/tlg0526.tlg001.perseus-eng2.xml.",
+  "license": "Whiston's translation (1737; this digitisation reproduces the 1856 Auburn and Rochester printing) is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Josephus's Jewish Antiquities — English",
+      "paragraphs": [
+        "This is William Whiston's classic English translation (1737) of Flavius Josephus's Ἰουδαϊκὴ ἀρχαιολογία (\"Jewish Antiquities\"), a 20-book history of the Jewish people from creation to the eve of the First Jewish-Roman War. Whiston's translation, still widely read today, includes his own extensive editorial footnotes; those footnotes are excluded here (see \"How it was imported\") but the translated text itself is reproduced verbatim.",
+        "The Greek original of the same work is bundled separately as jewish-antiquities-grc; see its own about.json, including how its own edition treats the disputed \"Testimonium Flavianum\" passage differently from Whiston's translation here (Book 18) — see \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "William Whiston, trans., The Works of Flavius Josephus (Auburn and Rochester, NY: Alden and Beardsley, 1856 printing), \"Antiquities of the Jews\". Whiston's translation was originally published in London in 1737; both the original and this 19th-century printing of it are in the public domain."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0526.tlg001.perseus-eng2.xml (CTS urn:cts:greekLit:tlg0526.tlg001.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. Fetched once and bundled with the app."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each of the 20 Books is a top-level Division (book-1 .. book-20); each holds its own Sections (book-N-sec-M), one Passage each — 1444 Sections in all. UNLIKE the Greek sibling, this witness has no book-opening \"argumentum\" table of contents at all, and its Section numbering (M) is this source's own CTS canonical section number (aligned to the Greek original) rather than a complete, sequential count: Whiston's own translated paragraphing is coarser than the Greek original's, so one Section here often covers a range of the original's section numbers, with only the FIRST of that range printed as this Section's own `n`. Whiston's own traditional chapter/section numbers are recorded only as inline cross-reference milestones, dropped as scaffolding — see \"Reference scheme\".",
+        "Editorial footnotes (Whiston's own extensive annotations, 558 of them) are excluded entirely from the reading text. Two Sections (Book 11) quote official letters/decrees in full via a nested paragraph inside the surrounding narrative paragraph; rather than merge or drop any of it, each nested paragraph boundary is treated as its own paragraph-join point in this Section's Passage text. Entities are decoded and runs of whitespace collapsed; the translated words are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Section (this witness's own `n`, aligned to the Greek original's canonical section numbering — see \"How it was imported\" for why it is not a complete sequential count here). Division.ref is null throughout: Whiston's own, different traditional chapter/section numbers (carried as inline milestones in this source) are dropped as scaffolding rather than fabricating a use for them. Passage.ref is null throughout as well."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 20 Books and all 1444 Sections are present and in order; the bundled TEI file matches the current Perseus canonical-greekLit release.",
+        "A source-side numbering slip. One Section in Book 17 carries the section-number attribute \"13\" where the surrounding, otherwise strictly increasing sequence implies a much larger number was intended; it coincides exactly with the start of Whiston's own Chapter 13 at that same point, suggesting the chapter number was mistakenly copied into the section-number attribute in this digitisation. Kept verbatim as printed rather than silently corrected — logged individually in anomalies.json.",
+        "The Testimonium Flavianum. Book 18's account of Jesus (the Greek sibling's book-18-sec-63/64) is presented here as ordinary, unmarked translated text — Whiston's 1737 translation predates the modern critical-textual debate over this passage's authenticity. Contrast the Greek sibling (jewish-antiquities-grc), whose own edition (Niese) brackets the same passage entirely as a probable interpolation; see that work's own anomalies.json.",
+        "Editorial apparatus. This witness carries NO <del>/<gap> textual-critical apparatus at all (confirmed zero occurrences) — Whiston's own footnotes (558, excluded from the reading text) are its only editorial layer."
+      ]
+    }
+  ]
+}

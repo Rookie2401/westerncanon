@@ -1,0 +1,22 @@
+[
+  {
+    "where": "book-3-ch-8",
+    "note": "<gap rend=\". . .\" reason=\"lost\"/> in the source - a small manuscript lacuna within Book 3, unrelated to the work's own unfinished ending - kept as its literal printed rendering (\". . .\") in the reading text."
+  },
+  {
+    "where": "book-3-ch-50",
+    "note": "<gap rend=\". . .\" reason=\"lost\"/> in the source - a small manuscript lacuna within Book 3, unrelated to the work's own unfinished ending - kept as its literal printed rendering (\". . .\") in the reading text."
+  },
+  {
+    "where": "de-bello-civili-en / completeness",
+    "note": "2 <gap rend=\". . .\" reason=\"lost\"/> marker(s) (chapters 8 and 50) mark small manuscript lacunae scattered within Book 3, unrelated to the work's own unfinished ending at chapter 112; each is logged individually above. The Latin sibling prints the same two points as plain, untagged \". . .\" text - a different TEI encoding choice, not a real content discrepancy - and additionally has a third such lacuna (chapter 10) that this English witness does not mark at all. See about.json."
+  },
+  {
+    "where": "de-bello-civili-en / reading text",
+    "note": "177 <pb/> page-break markers (this bilingual Loeb edition's facing-page layout) were dropped entirely as zero-width transport scaffolding."
+  },
+  {
+    "where": "de-bello-civili-en / passage & division refs",
+    "note": "Division.ref and Passage.ref are null throughout: this source carries no page-marker or milestone citation scheme beyond the dropped <pb/> facing-page markers. Citation here is by Book and Chapter number alone."
+  }
+]

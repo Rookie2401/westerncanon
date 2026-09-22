@@ -1,0 +1,930 @@
+[
+  {
+    "where": "book-1-sec-149",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἔτος\""
+  },
+  {
+    "where": "book-1-sec-182",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-1-sec-275",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πατρὸς\""
+  },
+  {
+    "where": "book-1-sec-336",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δασεῖαν\""
+  },
+  {
+    "where": "book-2-sec-arg",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δ.\""
+  },
+  {
+    "where": "book-2-sec-arg",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"περιέχει δὲ ἡ βίβλος ἔτη διακόσια εἴκοσι\""
+  },
+  {
+    "where": "book-2-sec-84",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τό τε γὰρ\""
+  },
+  {
+    "where": "book-2-sec-121",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"λύσας τε τὸν Συμεῶνα ἐτημέλει συνεσόμενον τοῖς ἀδελφοῖς.\""
+  },
+  {
+    "where": "book-2-sec-176",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πέντε καὶ\""
+  },
+  {
+    "where": "book-2-sec-189",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δὲ\""
+  },
+  {
+    "where": "book-2-sec-228",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐξ ὕδατος\""
+  },
+  {
+    "where": "book-2-sec-267",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὡς\""
+  },
+  {
+    "where": "book-3-sec-31",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὕεται\""
+  },
+  {
+    "where": "book-3-sec-105",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μὲν\""
+  },
+  {
+    "where": "book-3-sec-143",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἄρτοι\""
+  },
+  {
+    "where": "book-3-sec-186",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἀριθμὸν τῶν\""
+  },
+  {
+    "where": "book-3-sec-252",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τῇ πεντηκοστῇ\""
+  },
+  {
+    "where": "book-3-sec-277",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δέδωκε\""
+  },
+  {
+    "where": "book-4-sec-29",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"συγχωρηθῆναι\""
+  },
+  {
+    "where": "book-4-sec-56",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἶναι\""
+  },
+  {
+    "where": "book-4-sec-61",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἀνδρῶν\""
+  },
+  {
+    "where": "book-4-sec-63",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-4-sec-128",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐᾶσαι τοιοῦτον πάθος\""
+  },
+  {
+    "where": "book-4-sec-147",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τοὺς\""
+  },
+  {
+    "where": "book-4-sec-155",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πάντες\""
+  },
+  {
+    "where": "book-4-sec-155",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τε\""
+  },
+  {
+    "where": "book-4-sec-156",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"γὰρ\""
+  },
+  {
+    "where": "book-4-sec-228",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"σὺν αὐτοῖς\""
+  },
+  {
+    "where": "book-4-sec-231",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τούτοις\""
+  },
+  {
+    "where": "book-4-sec-280",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τὰ ὅμοια\""
+  },
+  {
+    "where": "book-4-sec-328",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"αὐτοκράτωρ\""
+  },
+  {
+    "where": "book-5-sec-24",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τοῦ\""
+  },
+  {
+    "where": "book-5-sec-100",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"σύμβολον\""
+  },
+  {
+    "where": "book-5-sec-118",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δὲ\""
+  },
+  {
+    "where": "book-5-sec-187",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"Ἰσραηλιτῶν\""
+  },
+  {
+    "where": "book-5-sec-200",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δέ\""
+  },
+  {
+    "where": "book-5-sec-226",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τε\""
+  },
+  {
+    "where": "book-5-sec-231",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"φήσας αἰτίους\""
+  },
+  {
+    "where": "book-5-sec-273",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μηδὲν ἔργον\""
+  },
+  {
+    "where": "book-5-sec-331",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐρωτᾶν\""
+  },
+  {
+    "where": "book-5-sec-349",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μὲν\""
+  },
+  {
+    "where": "book-6-sec-3",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐξεμοῦντες\""
+  },
+  {
+    "where": "book-6-sec-8",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πέντε\""
+  },
+  {
+    "where": "book-6-sec-13",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τὴν ἅμαξαν\""
+  },
+  {
+    "where": "book-6-sec-35",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἰς\""
+  },
+  {
+    "where": "book-6-sec-49",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μὲν\""
+  },
+  {
+    "where": "book-6-sec-53",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μηδενὸς ἄλλου παρόντος\""
+  },
+  {
+    "where": "book-6-sec-84",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"Ἰησοῦ\""
+  },
+  {
+    "where": "book-6-sec-87",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μόσχον ἢ πρόβατον\""
+  },
+  {
+    "where": "book-6-sec-91",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τὸν θεὸν\""
+  },
+  {
+    "where": "book-6-sec-107",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"αὐτοῖς\""
+  },
+  {
+    "where": "book-6-sec-129",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"Ἀμαληκίτας τε\""
+  },
+  {
+    "where": "book-6-sec-153",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"αὐτοῦ\""
+  },
+  {
+    "where": "book-6-sec-167",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δὲ\""
+  },
+  {
+    "where": "book-6-sec-193",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὡς\""
+  },
+  {
+    "where": "book-6-sec-220",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τοῦ\""
+  },
+  {
+    "where": "book-6-sec-225",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πεφονευμένον αὐτὸν\""
+  },
+  {
+    "where": "book-6-sec-239",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἀπὸ\""
+  },
+  {
+    "where": "book-6-sec-261",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἷς\""
+  },
+  {
+    "where": "book-6-sec-263",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τε\""
+  },
+  {
+    "where": "book-6-sec-267",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τοὺς\""
+  },
+  {
+    "where": "book-6-sec-268",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-6-sec-279",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"αὐτῷ τὴν εὔνοιαν\""
+  },
+  {
+    "where": "book-6-sec-302",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οὐ γὰρ ἀγνοεῖν\""
+  },
+  {
+    "where": "book-6-sec-305",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἕως τετραπόδου\""
+  },
+  {
+    "where": "book-6-sec-317",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οὐδὲ τὴν ψυχὴν\""
+  },
+  {
+    "where": "book-6-sec-318",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὡς\""
+  },
+  {
+    "where": "book-6-sec-324",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἤλπισε γὰρ οὗτος,\""
+  },
+  {
+    "where": "book-6-sec-333",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἰπόντος\""
+  },
+  {
+    "where": "book-6-sec-333",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"κελεύσαντος\""
+  },
+  {
+    "where": "book-6-sec-341",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"αὐτὸν\""
+  },
+  {
+    "where": "book-6-sec-357",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τὰς\""
+  },
+  {
+    "where": "book-6-sec-362",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"αὐτοὺς\""
+  },
+  {
+    "where": "book-7-sec-arg",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-7-sec-15",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δὲ\""
+  },
+  {
+    "where": "book-7-sec-21",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐκ γυναικῶν τοσούτων\""
+  },
+  {
+    "where": "book-7-sec-22",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τῷ Ἰεβόσθῳ\""
+  },
+  {
+    "where": "book-7-sec-25",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"Μελχάλην\""
+  },
+  {
+    "where": "book-7-sec-32",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-7-sec-41",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τὸν\""
+  },
+  {
+    "where": "book-7-sec-57",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τῶν δυνατωτάτων\""
+  },
+  {
+    "where": "book-7-sec-78",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-7-sec-86",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τὸν\""
+  },
+  {
+    "where": "book-7-sec-87",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐν δούλοις καὶ ἐν\""
+  },
+  {
+    "where": "book-7-sec-102",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τούτου\""
+  },
+  {
+    "where": "book-7-sec-133",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"αὑτὸν εἰς\""
+  },
+  {
+    "where": "book-7-sec-136",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τοὺς γὰρ\""
+  },
+  {
+    "where": "book-7-sec-157",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἰπεῖν\""
+  },
+  {
+    "where": "book-7-sec-177",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δυναμένης\""
+  },
+  {
+    "where": "book-7-sec-185",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἀληθῶς\""
+  },
+  {
+    "where": "book-7-sec-228",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-7-sec-271",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μὴ μετὰ\""
+  },
+  {
+    "where": "book-7-sec-313",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ μηδὲν ἐπʼ αὐτοὺς τολμῆσαι\""
+  },
+  {
+    "where": "book-7-sec-350",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καθὼς\""
+  },
+  {
+    "where": "book-7-sec-375",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-7-sec-389",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"περὶ\""
+  },
+  {
+    "where": "book-8-sec-4",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἥδεται πράγμασιν\""
+  },
+  {
+    "where": "book-8-sec-21",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τῶν\""
+  },
+  {
+    "where": "book-8-sec-108",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οὐδὲ σαυτῶ\""
+  },
+  {
+    "where": "book-8-sec-121",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οὐχ\""
+  },
+  {
+    "where": "book-8-sec-134",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τετράγωνος\""
+  },
+  {
+    "where": "book-8-sec-145",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τε\""
+  },
+  {
+    "where": "book-8-sec-153",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὁδὸν\""
+  },
+  {
+    "where": "book-8-sec-243",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"κακουργῶν\""
+  },
+  {
+    "where": "book-8-sec-244",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ταῦτα\""
+  },
+  {
+    "where": "book-8-sec-247",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ κληρουχίᾳ\""
+  },
+  {
+    "where": "book-8-sec-316",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"γε\""
+  },
+  {
+    "where": "book-8-sec-318",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-8-sec-382",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οἰκείαν\""
+  },
+  {
+    "where": "book-8-sec-392",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὡς\""
+  },
+  {
+    "where": "book-8-sec-404",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"αὐτὸς\""
+  },
+  {
+    "where": "book-9-sec-100",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τοῦ βασιλέως\""
+  },
+  {
+    "where": "book-9-sec-120",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὁδὸν\""
+  },
+  {
+    "where": "book-9-sec-130",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἱππεῖς\""
+  },
+  {
+    "where": "book-9-sec-164",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ ἱερεὺς\""
+  },
+  {
+    "where": "book-9-sec-179",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"βλέποντος αὐτοῦ\""
+  },
+  {
+    "where": "book-9-sec-221",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ ἀρτῆρας\""
+  },
+  {
+    "where": "book-10-sec-arg",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"αὐτὴν\""
+  },
+  {
+    "where": "book-10-sec-20",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ τῇ Αἰγύπτῳ\""
+  },
+  {
+    "where": "book-10-sec-58",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"αὐτῶν\""
+  },
+  {
+    "where": "book-10-sec-78",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"θρηνητικόν\""
+  },
+  {
+    "where": "book-10-sec-158",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἰς Δάναν\""
+  },
+  {
+    "where": "book-10-sec-159",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-10-sec-162",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἰς\""
+  },
+  {
+    "where": "book-10-sec-162",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"διὰ\""
+  },
+  {
+    "where": "book-10-sec-173",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τὰ ἐν τῇ Μασφαθῇ\""
+  },
+  {
+    "where": "book-10-sec-195",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τί\""
+  },
+  {
+    "where": "book-10-sec-198",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ ταύτῃ\""
+  },
+  {
+    "where": "book-10-sec-224",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"κατασκευάζειν\""
+  },
+  {
+    "where": "book-10-sec-226",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐν δὲ\""
+  },
+  {
+    "where": "book-10-sec-243",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-11-sec-46",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δὲ ἀλλὰ\""
+  },
+  {
+    "where": "book-11-sec-52",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ μητέρας\""
+  },
+  {
+    "where": "book-11-sec-81",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ναὸν\""
+  },
+  {
+    "where": "book-11-sec-144",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ τοὺς Περσῶν βασιλέας ἀναγκάσαντα\""
+  },
+  {
+    "where": "book-11-sec-174",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"κοίλῃ\""
+  },
+  {
+    "where": "book-11-sec-203",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ τοὺς Μήδους\""
+  },
+  {
+    "where": "book-11-sec-243",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"λαβεῖν\""
+  },
+  {
+    "where": "book-11-sec-268",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"γνῶναι\""
+  },
+  {
+    "where": "book-11-sec-293",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ζῶσιν\""
+  },
+  {
+    "where": "book-11-sec-297",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἄλλου\""
+  },
+  {
+    "where": "book-12-sec-87",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πρεσβύταις\""
+  },
+  {
+    "where": "book-12-sec-97",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"διὸ\""
+  },
+  {
+    "where": "book-12-sec-108",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πάντες\""
+  },
+  {
+    "where": "book-12-sec-110",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὡς\""
+  },
+  {
+    "where": "book-12-sec-158",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τὸν Εὐεργέτην, ὃς ἦν πατὴρ τοῦ Φιλοπάτορος\""
+  },
+  {
+    "where": "book-12-sec-167",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"περὶ\""
+  },
+  {
+    "where": "book-12-sec-203",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὡς\""
+  },
+  {
+    "where": "book-12-sec-237",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"Ἰησοῦ\""
+  },
+  {
+    "where": "book-12-sec-302",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οὖν\""
+  },
+  {
+    "where": "book-12-sec-309",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἶναι\""
+  },
+  {
+    "where": "book-12-sec-351",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"διώκονται\""
+  },
+  {
+    "where": "book-12-sec-379",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-12-sec-404",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-12-sec-423",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-12-sec-423",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-13-sec-224",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"στρατιώταις\""
+  },
+  {
+    "where": "book-13-sec-231",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἂν\""
+  },
+  {
+    "where": "book-13-sec-232",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἶναι\""
+  },
+  {
+    "where": "book-13-sec-261",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οἳ\""
+  },
+  {
+    "where": "book-13-sec-326",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"παρῆν\""
+  },
+  {
+    "where": "book-13-sec-383",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οὖν οὐκ\""
+  },
+  {
+    "where": "book-13-sec-393",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"λαβὼν\""
+  },
+  {
+    "where": "book-14-sec-arg",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὡς Πομπηίου εἰς Δαμασκὸν ἐκ τῆς Ἀρμενίας ἐλθόντος Ἀριστόβουλος καὶ Ὑρκανὸς ἐπὶ αὐτὸν ἧκον περὶ τῆς βασιλείας δικαιολογούμενοι.\""
+  },
+  {
+    "where": "book-14-sec-arg",
+    "note": "A paragraph cleaned to empty text; dropped rather than joined as an empty segment."
+  },
+  {
+    "where": "book-14-sec-107",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-14-sec-112",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἰς Κῶ\""
+  },
+  {
+    "where": "book-14-sec-118",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἀρχῇ\""
+  },
+  {
+    "where": "book-14-sec-131",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"χώραν\""
+  },
+  {
+    "where": "book-14-sec-149",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τοῖς στρατηγοῖς\""
+  },
+  {
+    "where": "book-14-sec-195",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"παρʼ αὐτοῖς\""
+  },
+  {
+    "where": "book-14-sec-201",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἔτει\""
+  },
+  {
+    "where": "book-14-sec-212",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τῶν\""
+  },
+  {
+    "where": "book-14-sec-215",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-14-sec-229",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"Γάλλος\""
+  },
+  {
+    "where": "book-14-sec-245",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δίκαιον\""
+  },
+  {
+    "where": "book-14-sec-247",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πρώτῃ\""
+  },
+  {
+    "where": "book-14-sec-257",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τὸ\""
+  },
+  {
+    "where": "book-14-sec-275",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πόλεων\""
+  },
+  {
+    "where": "book-14-sec-315",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἀλλὰ\""
+  },
+  {
+    "where": "book-14-sec-344",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἂν\""
+  },
+  {
+    "where": "book-14-sec-453",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἕωθεν\""
+  },
+  {
+    "where": "book-14-sec-463",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐν τῷ\""
+  },
+  {
+    "where": "book-15-sec-47",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πρότερον\""
+  },
+  {
+    "where": "book-15-sec-67",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οὖν\""
+  },
+  {
+    "where": "book-15-sec-96",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"Ἡρώδου\""
+  },
+  {
+    "where": "book-15-sec-157",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-15-sec-179",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"γὰρ\""
+  },
+  {
+    "where": "book-15-sec-301",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οὐκ\""
+  },
+  {
+    "where": "book-15-sec-306",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μὴ\""
+  },
+  {
+    "where": "book-15-sec-379",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"διὰ\""
+  },
+  {
+    "where": "book-15-sec-419",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὁ ναὸς ἐν τούτῳ\""
+  },
+  {
+    "where": "book-16-sec-64",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὡς\""
+  },
+  {
+    "where": "book-16-sec-79",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"εἴη\""
+  },
+  {
+    "where": "book-16-sec-89",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐν\""
+  },
+  {
+    "where": "book-16-sec-92",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μισεῖν\""
+  },
+  {
+    "where": "book-16-sec-123",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐξελέγχειν\""
+  },
+  {
+    "where": "book-16-sec-141",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἂν\""
+  },
+  {
+    "where": "book-16-sec-146",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἔργοις\""
+  },
+  {
+    "where": "book-16-sec-166",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"οἳ\""
+  },
+  {
+    "where": "book-17-sec-120",
+    "note": "A paragraph cleaned to empty text; dropped rather than joined as an empty segment."
+  },
+  {
+    "where": "book-17-sec-166",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"γυναικί\""
+  },
+  {
+    "where": "book-17-sec-199",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὥσπερ\""
+  },
+  {
+    "where": "book-17-sec-201",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πεποιημένον\""
+  },
+  {
+    "where": "book-17-sec-238",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἐκ\""
+  },
+  {
+    "where": "book-17-sec-286",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"τὰ πεπραγμένα\""
+  },
+  {
+    "where": "book-17-sec-288",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-18-sec-19",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἄνδρες\""
+  },
+  {
+    "where": "book-18-sec-47",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἂν\""
+  },
+  {
+    "where": "book-18-sec-63",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"Γίνεται δὲ κατὰ τοῦτον τὸν χρόνον Ἰησοῦς σοφὸς ἀνήρ, εἴγε ἄνδρα αὐτὸν λέγειν χρή· ἦν γὰρ παραδόξων ἔργων ποιητής, διδάσκαλος ἀνθρώπων τῶν ἡδονῇ τἀληθῆ δεχομένων, καὶ πολλοὺς μὲν Ἰουδαίους, πολλοὺς δὲ …\""
+  },
+  {
+    "where": "book-18-sec-63",
+    "note": "A paragraph cleaned to empty text; dropped rather than joined as an empty segment."
+  },
+  {
+    "where": "book-18-sec-63",
+    "note": "Niese's apparatus brackets this section's ENTIRE text as a probable interpolation (<del>) - this is part of the disputed \"Testimonium Flavianum\" passage (Antiquities 18.63-64). Kept here only because excluding it would leave this section with no reading text at all - unlike every other <del> span in this work (which is silently excluded), this one is retained but flagged as suspect. Contrast the English sibling (data/jewish-antiquities-en), whose Whiston translation presents the same passage as ordinary, unmarked text."
+  },
+  {
+    "where": "book-18-sec-64",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ αὐτὸν ἐνδείξει τῶν πρώτων ἀνδρῶν παρʼ ἡμῖν σταυρῷ ἐπιτετιμηκότος Πιλάτου οὐκ ἐπαύσαντο οἱ τὸ πρῶτον ἀγαπήσαντες· ἐφάνη γὰρ αὐτοῖς τρίτην ἔχων ἡμέραν πάλιν ζῶν τῶν θείων προφητῶν ταῦτά τε καὶ ἄλλα …\""
+  },
+  {
+    "where": "book-18-sec-64",
+    "note": "A paragraph cleaned to empty text; dropped rather than joined as an empty segment."
+  },
+  {
+    "where": "book-18-sec-64",
+    "note": "Niese's apparatus brackets this section's ENTIRE text as a probable interpolation (<del>) - this is part of the disputed \"Testimonium Flavianum\" passage (Antiquities 18.63-64). Kept here only because excluding it would leave this section with no reading text at all - unlike every other <del> span in this work (which is silently excluded), this one is retained but flagged as suspect. Contrast the English sibling (data/jewish-antiquities-en), whose Whiston translation presents the same passage as ordinary, unmarked text."
+  },
+  {
+    "where": "book-18-sec-118",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μὴ\""
+  },
+  {
+    "where": "book-18-sec-183",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἔτι δε\""
+  },
+  {
+    "where": "book-18-sec-193",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ταῦτα εἰπών, ἀλλὰ δὴ ἠμείψατο\""
+  },
+  {
+    "where": "book-18-sec-218",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ἂν\""
+  },
+  {
+    "where": "book-18-sec-299",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-18-sec-357",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"καὶ\""
+  },
+  {
+    "where": "book-18-sec-376",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"παρʼ\""
+  },
+  {
+    "where": "book-19-sec-6",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ζεύξας\""
+  },
+  {
+    "where": "book-19-sec-15",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"δὲ\""
+  },
+  {
+    "where": "book-19-sec-225",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"μεθισταμένων τῶν ὅλων\""
+  },
+  {
+    "where": "book-19-sec-296",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"πεσεῖν\""
+  },
+  {
+    "where": "book-20-sec-arg",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"ὃν τρόπον Κλαυδίου τελευτήσαντος Νέρων τὴν ἀρχὴν διεδέξατο.\""
+  },
+  {
+    "where": "book-20-sec-arg",
+    "note": "A paragraph cleaned to empty text; dropped rather than joined as an empty segment."
+  },
+  {
+    "where": "book-20-sec-163",
+    "note": "<del> excluded from the reading text (Niese's apparatus brackets this as a probable interpolation): \"λῃστὰς\""
+  },
+  {
+    "where": "jewish-antiquities-grc / reading text",
+    "note": "222 <del> spans (Niese's apparatus brackets these as probable interpolations, not his judged authentic text) were excluded from the reading text; every occurrence is logged individually above. 2 of those sections (book-18-sec-63, book-18-sec-64 - the Testimonium Flavianum) had NO surviving text once their sole <del>-wrapped <p> was excluded, so the bracketed text was kept as a last resort and flagged via Passage.anomaly - see the individual entries above and data/jewish-antiquities-grc/types.ts."
+  },
+  {
+    "where": "jewish-antiquities-grc / passage & division refs",
+    "note": "Division.ref is null throughout. This source carries 258 <milestone unit=\"Whiston_chapter\"/> and 1444 <milestone unit=\"Whiston_section\"/> markers - a later cross-reference scheme to Whiston's 1737 English translation, retrofitted by the Perseus editors onto this Greek text - dropped as scaffolding this app's schema has no field for, without affecting the reading text."
+  },
+  {
+    "where": "jewish-antiquities-grc / reading text",
+    "note": "5 paragraph(s) cleaned to empty text were dropped rather than joined as an empty segment."
+  }
+]

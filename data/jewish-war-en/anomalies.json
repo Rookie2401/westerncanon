@@ -1,0 +1,18 @@
+[
+  {
+    "where": "jewish-war-en / reading text",
+    "note": "195 <note resp=\"editor\"> editorial footnotes were excluded entirely, tag and content (including 1 confirmed occurrence nested directly inside a <head> chapter-title rubric); not logged individually given their number."
+  },
+  {
+    "where": "jewish-war-en / structure",
+    "note": "This edition's own section <div>s (707 total) do NOT correspond 1:1 with the Greek sibling's own Niese sections (4001 total): each English section is one of William Whiston's own, coarser paragraph divisions, and its Division.number is the Niese section number at which that Whiston paragraph begins - confirmed strictly increasing but with real gaps within each book, not a continuous 1..count sequence. See data/jewish-war-en/types.ts for the full account."
+  },
+  {
+    "where": "jewish-war-en / structure",
+    "note": "111 of 707 sections carry their own Division.sourceHeading (William Whiston's descriptive chapter-title rubric, printed once on the first section of each of his 111 chapters - or \"PREFACE\" for Book I's own opening section); every other section's sourceHeading is null. This app's schema has no chapter level for this work, so the rubric surfaces on that chapter's first Section rather than on a separate Chapter division."
+  },
+  {
+    "where": "jewish-war-en / passage & division refs",
+    "note": "111 <milestone unit=\"Whiston_chapter\"/> and 707 <milestone unit=\"Whiston_section\"/> markers (matching the Greek sibling's own counts exactly) are dropped as scaffolding; Division.ref is null throughout for this work."
+  }
+]

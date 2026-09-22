@@ -1,0 +1,30 @@
+[
+  {
+    "where": "book-11-sec-8",
+    "note": "A paragraph cleaned to empty text; dropped rather than joined as an empty segment."
+  },
+  {
+    "where": "book-12-sec-145",
+    "note": "A paragraph cleaned to empty text; dropped rather than joined as an empty segment."
+  },
+  {
+    "where": "book-17-sec-13",
+    "note": "Section numbering irregularity: this Section's own n=\"13\" is not greater than the immediately preceding Section's n=\"332\" within book-17 (expected strictly increasing). Kept verbatim as printed rather than silently corrected. This coincides with the start of a new Whiston chapter at this same point in the source, suggesting the chapter number was mistakenly copied into the section-numbering attribute here."
+  },
+  {
+    "where": "jewish-antiquities-en / reading text",
+    "note": "558 <note resp=\"editor\"> editorial footnotes were excluded entirely, tag and content; not logged individually given their number."
+  },
+  {
+    "where": "jewish-antiquities-en / reading text",
+    "note": "4 nested <p> open(s) inside an already-open outer <p> (both inside <quote>, Book 11 - embedded official letters quoted in full) were treated as their own paragraph-join points rather than merged into or dropped from the surrounding text; no text was lost."
+  },
+  {
+    "where": "jewish-antiquities-en / passage & division refs",
+    "note": "Division.ref is null throughout. This source carries 258 <milestone unit=\"Whiston_chapter\"/> and 1444 <milestone unit=\"Whiston_section\"/> markers - Whiston's own traditional chapter/section numbering - dropped as scaffolding this app's schema has no field for, without affecting the reading text. 1 Section number irregularit(y/ies) versus the otherwise strictly increasing per-book sequence are individually logged above."
+  },
+  {
+    "where": "jewish-antiquities-en / reading text",
+    "note": "2 paragraph(s) cleaned to empty text were dropped rather than joined as an empty segment."
+  }
+]

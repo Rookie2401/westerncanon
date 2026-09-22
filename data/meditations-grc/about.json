@@ -1,0 +1,55 @@
+{
+  "workId": "meditations-grc",
+  "title": "Τὰ εἰς ἑαυτόν",
+  "author": "Marcus Aurelius",
+  "language": "grc",
+  "edition": "Leopold 1908",
+  "editor": "Jan Hendrik Leopold",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0562.tlg001.perseus-grc2), which digitises the text of Marcus Aurelius's Τὰ εἰς ἑαυτόν as printed in Jan Hendrik Leopold, ed., M. Antoninus Imperator Ad Se Ipsum (Leipzig: Teubner, 1908); imported by scripts/import-meditations-grc. The raw XML dump is committed under scripts/import-meditations-grc/raw/.",
+  "license": "Leopold's 1908 Greek text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Marcus Aurelius's Meditations - Greek",
+      "paragraphs": [
+        "This is the Greek text of Marcus Aurelius's Τὰ εἰς ἑαυτόν (\"[Writings] to himself\"), conventionally known in English as the Meditations and in Latin as the Ad Se Ipsum - the private philosophical notebook of the Roman emperor (r. 161-180 AD), written in Koine Greek during his final years, mostly on campaign, and never intended for publication.",
+        "The text here is the original Greek, verbatim. Nothing is translated, modernised, normalised or silently corrected. Where the source is irregular - an editorial insertion, a bracketed probable interpolation, a genuine gap in the chapter numbering - the irregularity is preserved and noted below; it never affects the reading text itself beyond the documented exclusions."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Jan Hendrik Leopold, ed., M. Antoninus Imperator Ad Se Ipsum (Leipzig: Teubner, 1908), a Teubner critical edition of the Greek. This edition is in the public domain.",
+        "The work is divided into 12 Books and, within each Book, numbered chapters (short, often aphoristic entries - the traditional unit of citation for this work, e.g. \"4.3\"). This edition's own numbering in Book 12 skips chapter number 18 entirely; see \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0562.tlg001.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0562.tlg001.perseus-grc2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It is downloaded once by the importer and cached under scripts/import-meditations-grc/raw/; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book, chapter, and (Perseus/Leopold's own) section <div>s and collects EVERY <p> paragraph found anywhere under a chapter - regardless of how many sections lie between it and the chapter - in document order, into that chapter's single Passage (joined with a blank line when a chapter has more than one). XML transport scaffolding only is removed: the <quote rend=\"blockquote\"> verse-quotation wrapper tag (its text - Marcus's quotations of Euripides and other verse - flows into the surrounding prose like any other text) and the inline <lb/> verse line-break milestones (10 total, each individually inspected and resolved to either a space or zero-width depending on whether it falls at a word boundary or mid-word in the source's own encoding - see this importer's own doc comment). Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched.",
+        "Leopold's own critical apparatus is handled the same way this app already treats it in other Perseus TEI imports: text his apparatus brackets as a probable interpolation (<del>) is excluded from the reading text; a genuine editorial insertion he prints (<add>) is kept. Every occurrence of both is logged individually in anomalies.json."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter only (e.g. \"4.3\"). This work carries no Bekker-style or other page/line reference system in this source, so Division.ref and Passage.ref are null throughout - nothing is fabricated to fill that gap."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 12 Books of this edition are present and in order. No paragraph is dropped, merged or reordered except where documented below; the bundled TEI file is identical to the current Perseus canonical-greekLit release.",
+        "Chapter numbering gap in Book 12. This edition's own chapter sequence in Book 12 skips number 18 entirely - it runs ...16, 17, 19, 20... - confirmed genuine by direct inspection of the source XML, not a parsing error. Chapter ids use the source's own printed numbers as-is rather than being renumbered to close the gap. Interestingly, the companion English edition (data/meditations-en, independently transcribed from a different 1916 Wikisource source) has a gap too, but at a DIFFERENT number (15, not 18) - the two are not reconciled against each other; each edition's own gap is logged in its own anomalies.json.",
+        "Leopold's critical apparatus. 41 <add> spans (a genuine editorial insertion he prints) are kept verbatim in the reading text; 18 <del> spans (text his apparatus brackets as a probable interpolation or gloss) are excluded. Every occurrence of both is logged individually in anomalies.json.",
+        "Verse line-break milestones. 10 <lb/> elements (all inside quoted verse) were each individually inspected and resolved to a space or zero-width join depending on the surrounding characters in the source; see anomalies.json for each one.",
+        "Character encoding. The transcription uses precomposed polytonic Greek code points. The bytes are preserved exactly as transmitted; no normalisation was applied."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "workId": "de-bello-gallico-la",
+  "title": "De Bello Gallico",
+  "author": "Julius Caesar (Books 1-7); Aulus Hirtius (Book 8)",
+  "language": "la",
+  "editor": "Thomas Rice Holmes",
+  "edition": "C. Iuli Commentarii Rerum in Gallia Gestarum VII, A. Hirti Commentarius VIII, ed. Thomas Rice Holmes (Oxford: Clarendon Press, 1914)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0448.phi001.perseus-lat2), digitising Thomas Rice Holmes's Oxford Classical Text edition of De Bello Gallico (1914); imported by scripts/import-de-bello-gallico-la. The raw file is fetched once (cached at scripts/import-de-bello-gallico-la/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Holmes's 1914 critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Caesar's (and Hirtius's) De Bello Gallico",
+      "paragraphs": [
+        "De Bello Gallico (\"The Gallic War\", also known as the Commentarii de Bello Gallico) is Julius Caesar's own first-person account of his campaigns in Gaul, 58-52 BC, in seven books - one of the great works of Latin prose and, for centuries, a standard Latin-teaching text.",
+        "The text here is Holmes's Latin, verbatim. Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "IMPORTANT - authorship of Book 8",
+      "paragraphs": [
+        "Book 8 of De Bello Gallico was NOT written by Julius Caesar. Caesar's own narrative ends after Book 7 (his last campaigning season, 52 BC). Book 8 was written after Caesar's assassination by his officer Aulus Hirtius, continuing the history through 50 BC. This is universally acknowledged by every edition of the work, including this one: the source volume's own title names both men - \"C. Iuli Commentarii Rerum in Gallia Gestarum ..., A. Hirti Commentarius ...\" (Holmes's edition title, naming Caesar's and Hirtius's commentaries separately, in that order) - and Book 8 itself opens with the verbatim source rubric \"COMMENTARIUS OCTAVUS\" followed immediately by Hirtius's own prefatory letter to Balbus - captured here as chapter \"0\" of Book 8, preceding his numbered narrative - explaining candidly that he has undertaken to continue Caesar's unfinished Commentaries, not to imitate a style he admits he cannot match.",
+        "Book 8 is included here, faithfully, as it has traditionally been transmitted alongside Books 1-7 as part of the complete Commentarii - this is the traditional and complete presentation of the work - but it is Hirtius's continuation, not Caesar's own words, and readers should not mistake it for such."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Thomas Rice Holmes, ed., C. Iuli Commentarii Rerum in Gallia Gestarum VII, A. Hirti Commentarius VIII (Oxford: Clarendon Press, 1914), an Oxford Classical Text. (Note: this source's own TEI header transcribes the volume's title as \"...A. Hirti Commentarius VII\", i.e. without the final \"I\" - an apparent typo in the Perseus metadata, since Hirtius's book is universally the eighth commentary, and this edition's own running text confirms it: Book 8 opens with the verbatim rubric \"COMMENTARIUS OCTAVUS\".)",
+        "The work is divided into 8 Books and, within each Book, numbered chapters (404 total in this edition). Book 8's first chapter is uniquely numbered \"0\" (Hirtius's prefatory letter), with his narrative chapters then numbered 1-55 - 56 chapters in all for Book 8. Every other book is numbered 1-N as usual."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0448.phi001.perseus-lat2.xml (CTS urn:cts:latinLit:phi0448.phi001.perseus-lat2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book, chapter and (extra, uninformative) section <div>s and collects every <p> paragraph found anywhere under each chapter, at any section-nesting depth, in document order, into that chapter's single Passage (joined with a blank line when a chapter has more than one paragraph). Only transport scaffolding is removed: entities are decoded and runs of whitespace collapsed. Holmes's own editorial supplements (<add>, 18 single words filling manuscript gaps) and <sic>-marked readings (2 spans) are unwrapped and kept verbatim in the reading text, since both ARE part of what this edition prints as its running text - not apparatus to be excluded. The single <gap reason=\"lost\"/> marker (at the very end of Book 8) is kept as nothing extra, since no literal rendering is given in this edition."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter number, matching this edition's own numbering exactly - the same scheme used across nearly all editions and translations of Caesar. This source carries no finer, page-marker-style citation scheme, so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 8 Books and all 404 chapters of this edition are present and in order, agreeing exactly, chapter for chapter, with the independently-parsed English sibling edition. No paragraph is dropped, merged or reordered except the rare paragraph that cleans to empty text.",
+        "The work ends unfinished. The very last chapter of Book 8 breaks off mid-sentence (\"Contendit... \" <gap reason=\"lost\"/>) - this is not a parsing error but a well-documented fact about the transmission of Hirtius's continuation: it survives incomplete. This edition marks the point with a bare <gap/> (no literal dots printed); see anomalies.json.",
+        "Authorship of Book 8. See \"IMPORTANT - authorship of Book 8\" above: Book 8 is Hirtius's continuation, not Caesar's own words, confirmed directly by its own prefatory letter to Balbus (captured here as chapter \"0\").",
+        "Editorial supplements and <sic> readings. 18 <add> spans (Holmes's own reconstruction of text lost to manuscript damage) and 2 <sic> spans (text printed exactly as transmitted despite an apparent irregularity) are kept verbatim in the reading text; every occurrence is logged individually in anomalies.json.",
+        "Extra section nesting. This Latin witness nests an uninformative extra <div subtype=\"section\"> level between chapter and paragraph that the English sibling does not have; it carries no citation information this app's schema needs and is read straight through - see \"How it was imported\" above."
+      ]
+    }
+  ]
+}

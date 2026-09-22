@@ -1,0 +1,60 @@
+{
+  "workId": "de-bello-gallico-en",
+  "title": "The Gallic War",
+  "author": "Julius Caesar (Books 1-7); Aulus Hirtius (Book 8)",
+  "language": "en",
+  "translator": "William Alexander McDevitte and W. S. Bohn",
+  "edition": "Caesar's Commentaries on the Gallic and Civil Wars (New York: Harper and Brothers, 1870-1872)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS urn:cts:latinLit:phi0448.phi001.perseus-eng2), digitising William Alexander McDevitte and W. S. Bohn's translation \"Caesar's Commentaries\" (New York: Harper and Brothers, 1870-1872, Harper's New Classical Library); imported by scripts/import-de-bello-gallico-en. The raw file is fetched once (cached at scripts/import-de-bello-gallico-en/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "McDevitte and Bohn's 1870s translation is in the public domain (published well over 95 years ago). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Caesar's (and Hirtius's) Gallic War — English, trans. McDevitte & Bohn",
+      "paragraphs": [
+        "This is the English translation of De Bello Gallico (\"The Gallic War\"), Julius Caesar's own first-person account of his campaigns in Gaul, 58-52 BC, in seven books, made by William Alexander McDevitte and W. S. Bohn and first published by Harper and Brothers in the early 1870s. It stands alongside the Latin text (Holmes 1914) already in this library as a facing English rendering.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "IMPORTANT - authorship of Book 8",
+      "paragraphs": [
+        "Book 8 of The Gallic War was NOT written by Julius Caesar. Caesar's own narrative ends after Book 7 (his last campaigning season, 52 BC). Book 8 was written after Caesar's assassination by his officer Aulus Hirtius, continuing the history through 50 BC - universally acknowledged by every edition. This translation confirms it directly: Book 8 opens with Hirtius's own prefatory letter to Balbus (captured here as chapter \"0\" of Book 8, preceding his numbered narrative), candidly explaining that he has undertaken to continue Caesar's unfinished Commentaries.",
+        "Book 8 is included here, faithfully translated, as it has traditionally been transmitted alongside Books 1-7 as part of the complete Commentaries - but it is Hirtius's continuation, not Caesar's own words, and readers should not mistake it for such."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "William Alexander McDevitte and W. S. Bohn, trans., Caesar's Commentaries on the Gallic and Civil Wars (New York: Harper and Brothers, 1870-1872; Harper's New Classical Library). This translation is in the public domain.",
+        "The work is divided into 8 Books and, within each Book, numbered chapters (404 total, matching the Latin sibling exactly, chapter for chapter, including Book 8's \"0\"-numbered first chapter)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file phi0448.phi001.perseus-eng2.xml (CTS urn:cts:latinLit:phi0448.phi001.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and chapter <div>s and collects the single <p> paragraph within each chapter into that chapter's single Passage. Only transport scaffolding is removed: a single Perseus editorial gloss (<note resp=\"perseus\">, recording a textual variant - \"Both LX and XL are attested\" - not part of the translated running text) is dropped entirely; purely semantic wrapper tags (<name>, <placeName>, <date>) are unwrapped, their text flowing into the surrounding prose; and one tabular <list> (the Helvetii census figures, Book 1 chapter 29) is linearised, since this schema has no table representation. Entities are decoded and runs of whitespace collapsed; the words themselves are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter number, matching this edition's own numbering exactly and the Latin sibling's. This source carries no finer, page-marker-style citation scheme, so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 8 Books and all 404 chapters are present and in order, matching the Latin sibling exactly, chapter for chapter. Unlike the Latin sibling, however, this translation reads as complete at the very end of Book 8, with no marked gap - it appears to follow (or supply) a fuller Latin base text than Holmes's later edition, which marks a manuscript lacuna at that point. See anomalies.json.",
+        "Authorship of Book 8. See \"IMPORTANT - authorship of Book 8\" above: Book 8 translates Hirtius's continuation, not Caesar's own words, confirmed directly by its own prefatory letter to Balbus (captured here as chapter \"0\").",
+        "Perseus editorial gloss. One <note resp=\"perseus\"> - a short note on a textual variant (\"forty\" vs. \"sixty\" ships) - is Perseus's own added apparatus, not McDevitte/Bohn's translated text; dropped entirely rather than shown inline.",
+        "Tabular census figures. One <list> (the Helvetii and allied tribes' population figures, Book 1 chapter 29) is linearised into the surrounding prose text rather than rendered as a table, since this flat-text schema has no table representation."
+      ]
+    }
+  ]
+}

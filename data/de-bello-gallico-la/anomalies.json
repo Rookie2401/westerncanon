@@ -1,0 +1,110 @@
+[
+  {
+    "where": "book-1-ch-10",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"oppidum\""
+  },
+  {
+    "where": "book-1-ch-11",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"quo\""
+  },
+  {
+    "where": "book-1-ch-23",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"itaque\""
+  },
+  {
+    "where": "book-1-ch-25",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"spatio\""
+  },
+  {
+    "where": "book-1-ch-25",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"ab\""
+  },
+  {
+    "where": "book-1-ch-28",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"ex\""
+  },
+  {
+    "where": "book-1-ch-29",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"quot\""
+  },
+  {
+    "where": "book-2-ch-5",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"datis\""
+  },
+  {
+    "where": "book-2-ch-6",
+    "note": "<sic> - text printed exactly as the manuscript tradition transmits it despite an apparent irregularity, kept verbatim: \"coicerent\""
+  },
+  {
+    "where": "book-2-ch-10",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"Caesar\""
+  },
+  {
+    "where": "book-2-ch-23",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"ab\""
+  },
+  {
+    "where": "book-2-ch-25",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"loco\""
+  },
+  {
+    "where": "book-2-ch-30",
+    "note": "<sic> - text printed exactly as the manuscript tradition transmits it despite an apparent irregularity, kept verbatim: \"XV\""
+  },
+  {
+    "where": "book-2-ch-30",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"posse\""
+  },
+  {
+    "where": "book-3-ch-3",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"casum\""
+  },
+  {
+    "where": "book-4-ch-16",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"ad\""
+  },
+  {
+    "where": "book-4-ch-27",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"se\""
+  },
+  {
+    "where": "book-4-ch-31",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"satis\""
+  },
+  {
+    "where": "book-6-ch-30",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"sicut\""
+  },
+  {
+    "where": "book-6-ch-34",
+    "note": "<add> editorial supplement (Holmes's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"a\""
+  },
+  {
+    "where": "book-8-ch-55",
+    "note": "<gap reason=\"lost\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here). This falls at the very end of the very last chapter of Book 8: the well-documented fact that Hirtius's own continuation breaks off unfinished, mid-sentence (\"Contendit...\"). See about.json."
+  },
+  {
+    "where": "de-bello-gallico-la / authorship",
+    "note": "Book 8 was not written by Caesar (his own narrative ends after Book 7) but by his officer Aulus Hirtius, after Caesar's assassination. This is confirmed directly in the source text itself: Book 8's first chapter, uniquely numbered \"0\" in this edition, is Hirtius's own prefatory letter to Balbus explaining that he is continuing Caesar's unfinished Commentaries. See about.json for the full disclosure."
+  },
+  {
+    "where": "de-bello-gallico-la / structure",
+    "note": "This Latin witness nests an extra <div subtype=\"section\"> level (almost always one <p> each) between chapter and paragraph that the English sibling does not have. Every <p> under a chapter div is read straight through regardless of its section-nesting depth, in document order, into that chapter's single Passage - matching this app's established Nicomachean-Ethics-English precedent."
+  },
+  {
+    "where": "de-bello-gallico-la / reading text",
+    "note": "18 <add> editorial supplements (Holmes's own reconstruction filling a manuscript gap) were kept verbatim in the reading text; every occurrence is logged individually above and flagged on its Passage."
+  },
+  {
+    "where": "de-bello-gallico-la / reading text",
+    "note": "2 <sic> spans (text printed exactly as transmitted despite an apparent irregularity) were kept verbatim; both occurrences are logged individually above."
+  },
+  {
+    "where": "de-bello-gallico-la / completeness",
+    "note": "1 <gap reason=\"lost\"/> marker found, at the very end of the very last chapter of Book 8: the work (in this edition) ends unfinished, mid-sentence. See about.json."
+  },
+  {
+    "where": "de-bello-gallico-la / passage & division refs",
+    "note": "Division.ref and Passage.ref are null throughout: this source carries no page-marker or milestone citation scheme. Citation here is by Book and Chapter number alone, matching this edition's own numbering exactly."
+  }
+]
