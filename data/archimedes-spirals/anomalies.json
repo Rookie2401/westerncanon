@@ -1,0 +1,410 @@
+[
+  {
+    "where": "archimedes-spirals / entity decoding",
+    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 234 time(s) in this file."
+  },
+  {
+    "where": "archimedes-spirals / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (28 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-1 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-2 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-6 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-7 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-9 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-10 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-10 / passage[2]",
+    "note": "<del> excluded from reading text: \"περισσᾷ\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-10 / passage[2]",
+    "note": "<del> excluded from reading text: \"πάσαις\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-11 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-12 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-13 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-13 / passage[2]",
+    "note": "<del> excluded from reading text: \"τᾶς ΑΘ\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-14 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-14 / passage[2]",
+    "note": "<del> excluded from reading text: \"δέδεικται γὰρ τοῦτο ἔξω ἐν τοῖς πρώτοις\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-15 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-16 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-17 / passage[1]",
+    "note": "<del> excluded from reading text: \"ποτὶ\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-17 / passage[1]",
+    "note": "<del> excluded from reading text: \"ἴση μὲν γὰρ ἡ ΡΑ τῇ Α△, μείζων δὲ ἡ ΙΑ τῆς ΑΧ\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-17 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-18 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-18 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-19 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-20 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-21 / passage[1]",
+    "note": "<del> excluded from reading text: \"κατὰ τὸ Ο ἁ ΟΜ\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-21 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-22 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-23 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-24 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-24 / passage[3]",
+    "note": "<del> excluded from reading text: \"τῷ περιλαφθέντι ὑπὸ τᾶς ἕλικος καὶ τᾶς ΑΘ εὐθείας\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-24 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-25 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-25 / passage[4]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-26 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-26 / passage[4]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-27 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-27 / passage[3]",
+    "note": "<del> excluded from reading text: \"καὶ ἀνάπαλιν\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-27 / passage[4]",
+    "note": "<del> excluded from reading text: \"ΕΘ\""
+  },
+  {
+    "where": "archimedes-spirals / division archimedes-spirals-ch-28 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἀπὸ τᾶν ΟΧ, ΠΨ, ΡΩ, Σϡ, Τ[(??)], ΥΝ τὸν αὐτὸν ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἀπὸ τᾶν ΟΧ, ΠΨ, ΡΩ. Σϡ, Τ[(??)], ΥΝ τῶν μὲν τε...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἀπὸ τᾶν ΟΧ, ΠΨ, ΡΩ. Σϡ, Τ[(??)], ΥΝ ἴσα τοῖς τ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἀπὸ Χ#9651;, ΨΖ, ΩΘ, ϡΚ, [(??)]Μ, ΝΞ καὶ τῷ πε...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ις ταῖς ΟΧ, ΠΨ, ΡΩ. Σϡ, Τ[(??)], ΥΝ καὶ τῷ τρί...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἀπὸ τᾶν ΟΧ, ΠΨ, ΡΩ, Σϡ, Τ[(??)], ΥΝ. τὰ δὲ ἀπὸ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"... τᾶν ΒΦ, Χ△, ΨΖ, ΩΘ, ϡK, [(??)]Μ τετραγώνοις κ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...τᾶν ΑΦ, ΓΧ, ΕΨ, ΗΩ, Ιϡ, Λ[(??)] καὶ τῷ περιεχο...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...τᾶν ΑΦ, ΓΧ, ΕΨ, ΗΩ, Ιϡ, Λ[(??)] Κοινὰ μὲν οὖν ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...σας ταῖς ΟΧ, ΠΨ, ΩΡ, ϡΣ, [(??)]Τ, ΥΝ ἔλασσόν ἐ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...τᾶν ΑΦ, ΓΧ, ΕΨ, ΗΩ, Ιϡ, Λ[(??)] διὰ τὸ τὰς νῦν...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...τᾶν ΑΦ, ΓΧ, ΕΨ, ΗΩ, Ιϡ, Λ[(??)] μείζονά ἐντι τ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἀπὸ τᾶν ΟΧ, ΠΨ, ΡΩ. Σϡ, T[(??)], ΥΝ· δέδεικται...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἀπὸ τᾶν ΧΓ, ΕΨ, ΗΩ, Ιϡ, Λ[(??)] καὶ τοῖς ἀπὸ τ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"... ἀπὸ τᾶν Χ△, ΨΖ, ΩΘ, ϡΚ, [(??)]Μ, ΝΞ καὶ τῷ πε...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...σᾶν τᾶν ΓΧ, ΕΨ, ΗΩ, Ιϡ, Λ[(??)]. Καί ἐστι κοιν...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἀπὸ τᾶν Χ△, ΨΖ, ΩΘ, ϡΚ, Μ[(??)], ΝΞ, μεῖζον δὲ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ις ταῖς ΟΧ, ΠΨ, ΡΩ. Σϡ, T[(??)], ΥΝ τοῦ ὑπὸ τᾶ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...σᾶν τᾶν ΓΧ, ΕΨ, ΗΩ, Ιϡ, Λ[(??)], ἐντὶ δὲ καὶ τ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"... ἀπὸ τᾶν ΧΟ, ΨΠ, ΩΡ, ϡΣ, [(??)]Τ, ΥΝ τῶν ἀπὸ τ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-11",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἀπὸ τᾶν ΓΧ, ΕΨ, ΗΩ, Ιϡ, Λ[(??)] μείζονα ἢ τριπ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...τρίτον μέρος ἔστω ὁ ἐν ᾧ [(??)] κύκλος. Δεικτέ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ὸ προειρημένον χωρίον τῷ [(??)] κύκλῳ. (??)...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ον χωρίον τῷ (??) κύκλῳ. [(??)]...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ς ὑπεροχᾶς, ᾇ ὑπερέχει ὁ [(??)] κύκλος τοῦ εἰρ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ν σχῆμα ἔλασσόν ἐστι τοῦ [(??)] κύκλου. Ἐκβεβλ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...τος ἢ τριπλασίων. Τοῦ δέ [(??)] κύκλου τριπλασ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ριπλασίων· ἐλάσσων ἄρα ὁ [(??)] κύκλος τοῦ περ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ς καὶ τᾶς ΑΘ ἔλασσον τοῦ [(??)] χωρίου....\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"... τὸ εἰρημένον χωρίον τοῦ [(??)] κύκλου. Ἐγγεγρ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ν σχῆμα μεῖζόν ἐστιν τοῦ [(??)] κύκλου. Ἐκβεβλ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...αμμένου σχήματος. Τοῦ δὲ [(??)] κύκλου τριπλασ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...σίων· μείζων ἄρα ἐστὶν ὁ [(??)] κύκλος τοῦ ἐγγ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-24",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ς καὶ τᾶς ΑΘ εὐθείας τοῦ [(??)] κύκλου. Ἴσον ἄ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...Ἔστω δή τις κύκλος ὁ [(??)] ἁ δὲ ἐκ τοῦ κέ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"... ἁ δὲ ἐκ τοῦ κέντρου τοῦ [(??)] κύκλου δυνάμει...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ΑΕ τετραγώνου· ἔξει δὴ ὁ [(??)] κύκλος ποτὶ τὸ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \".... Δειχθήσεται οὖν ἴσος ὁ [(??)] κύκλος τῷ περι...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"... ἐλάσσονι ἢ ᾧ ὑπερέχει ὁ [(??)] κύκλος τοῦ χωρ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ι ὁ ΑΖΗΙ κύκλος ποτὶ τὸν [(??)] κύκλον· ἐλάσσο...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ον· ὥστε ἐλάσσων ἐστὶν ὁ [(??)] κύκλος τοῦ περ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...· οὐκ ἄρα μείζων ἐστὶν ὁ [(??)] κύκλος τοῦ χωρ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ρέχει τὸ αὐτὸ χωρίον τοῦ [(??)] κύκλου. Ἐγγεγρ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ον σχῆμα μεῖζόν ἐστι τοῦ [(??)] κύκλου. Ἐκβεβλ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ν ὁ ΑΖΗΙ κύκλος ποτὶ τὸν [(??)] κύκλον, Μείζων...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...κλον, Μείζων ἄρα ἐστὶν ὁ [(??)] κύκλος τοῦ ἐγγ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-25",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἄρα ἐστὶν οὐδὲ ἐλάσσων ὁ [(??)] κύκλος τοῦ περ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...Ἔστω δὴ κύκλος, ἐν ᾧ [(??)]Χ, τὰν ἐκ τοῦ κ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ποτὶ τῷ Θ· ὁ δὴ τομεὺς ὁ [(??)]Χ ποτὶ τὸν τομέ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...λάλας. Δειχθήσεται δὴ ὁ Χ[(??)] τομεὺς ἴσος ἐὼ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...σσονι ἢ ἁλίκῳ ὑπερέχει ὁ [(??)]Χ τομεὺς τοῦ εἰ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"... σχῆμα ἔλασσόν ἐστι τοῦ Χ[(??)] τομέως. Διάχθω...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ι ὁ ΘΑΖ τομεὺς ποτὶ τὸν Χ[(??)] τομέα· ὥστε ἐλ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...α· ὥστε ἐλάσσων ἐστὶν ὁ Χ[(??)] τομεὺς τοῦ περ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ζων· οὐκ ἄρα ἐσσεῖται ὁ Χ[(??)] τομεὺς μείζων ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...έχει τὸ αὐτὸ χωρίον τοῦ Χ[(??)] τομέως. Ἐγγεγρ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ν σχῆμα μεῖζόν ἐστι τοῦ Χ[(??)] τομέως. Πάλιν ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...όγον ἔχει ἤπερ ποτὶ τὸν Χ[(??)] τομέα· ὥστε με...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...?) τομέα· ὥστε μείζων ὁ Χ[(??)] τομεὺς τοῦ ἐγγ...\""
+  },
+  {
+    "where": "archimedes-spirals-ch-26",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ρα ἐστὶν οὐδὲ ἐλάσσων ὁ Χ[(??)] τομεὺς τοῦ περ...\""
+  }
+]

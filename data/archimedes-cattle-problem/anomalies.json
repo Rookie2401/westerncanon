@@ -1,0 +1,18 @@
+[
+  {
+    "where": "archimedes-cattle-problem / entity decoding",
+    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 0 time(s) in this file."
+  },
+  {
+    "where": "archimedes-cattle-problem / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (0 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
+  },
+  {
+    "where": "archimedes-cattle-problem-ch-2",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ων διπλῶν η΄ καὶ ἁπλῶν ςϠ[(??)]α΄ καὶ μονάδων ...\""
+  },
+  {
+    "where": "archimedes-cattle-problem-ch-2",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ας διπλᾶς γ΄ καὶ ἁπλᾶς γρ[(??)]ε΄ καὶ μονάδας ...\""
+  }
+]

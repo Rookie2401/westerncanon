@@ -1,0 +1,66 @@
+[
+  {
+    "where": "archimedes-liber-assumptorum / entity decoding",
+    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 270 time(s) in this file."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (72 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-1 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-2 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-3 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-4 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-6 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-7 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-9 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-10 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-11 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-12 / passage[0]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-13 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-liber-assumptorum / division archimedes-liber-assumptorum-ch-14 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  }
+]

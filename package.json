@@ -33,6 +33,8 @@
     "validate:euclid": "tsx scripts/import-euclid-shared/validate.ts",
     "import:euclid-en": "tsx scripts/import-euclid-en/index.ts",
     "validate:euclid-en": "tsx scripts/import-euclid-en/validate.ts",
+    "import:archimedes": "tsx scripts/import-archimedes/index.ts",
+    "validate:archimedes": "tsx scripts/import-archimedes-shared/validate.ts",
     "import:augustine-confessions-la": "tsx scripts/import-augustine-confessions-la/index.ts",
     "import:augustine-confessions-en": "tsx scripts/import-augustine-confessions-en/index.ts",
     "validate:augustine-confessions": "tsx scripts/import-augustine-confessions-shared/validate.ts",

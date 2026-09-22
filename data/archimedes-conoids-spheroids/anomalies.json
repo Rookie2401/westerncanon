@@ -1,0 +1,270 @@
+[
+  {
+    "where": "archimedes-conoids-spheroids / entity decoding",
+    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 449 time(s) in this file."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (55 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-pr / passage[8]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΟΡΟΙ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-pr / passage[11]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΛΗΜΜΑ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-1 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-1 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-2 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-2 / passage[2]",
+    "note": "<del> excluded from reading text: \"ἐπεί\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-2 / passage[2]",
+    "note": "<del> excluded from reading text: \"ὑπερέχουσιν\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-2 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-3 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-4 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-6 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-7 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-9 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-9 / passage[5]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-9 / passage[7]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-12 / passage[2]",
+    "note": "<del> excluded from reading text: \"ἡμικύκλιον γάρ ἐστι τὸ ἐπὶ τῆς ΕΖ, καὶ ἁ ΚΘ κάθετος οὖσα μέση γίνεται ἀνάλογον τῷ ὑπὸ τᾶν ΕΘ, ΘΖ περιεχομένῳ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-12 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-13 / passage[1]",
+    "note": "<del> excluded from reading text: \"ὁμοίως καθέτου οὔσης τᾶς ΝΡ ἐν τᾷ τοῦ ἀμβλυγωνίου κώνου τομᾷ διάμετρος ταύτας μείζων ἐστὶν ἁ ΓΛ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-13 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-14 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-15 / passage[5]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-16 / passage[5]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-17 / passage[1]",
+    "note": "<del> excluded from reading text: \"ὀ ὀξυγωνίου κώνου τομά\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-17 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-18 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-19 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-20 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-21 / passage[3]",
+    "note": "<del> excluded from reading text: \"ἐπείπερ ἡμιόλιός ἐστιν ὁ Ψ κῶνος τοῦ αὐτοῦ κώνου\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-21 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-21 / passage[4]",
+    "note": "<del> excluded from reading text: \"ἐστὶν\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-21 / passage[4]",
+    "note": "<del> excluded from reading text: \"ἕκαστον\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-21 / passage[4]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-22 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-22 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-22 / passage[5]",
+    "note": "<del> excluded from reading text: \"καὶ ἄλλῳ ἐπιπέδῳ ὀρθῷ ποτὶ τὸν ἄξονα\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-22 / passage[6]",
+    "note": "<del> excluded from reading text: \"ἔχει καὶ τὸ ἀπότμαμα τοῦ κώνου, οὗ κορυφὰ τὸ Λ, πρὸς τὸν κῶνον, οὗ κορυφὰ τὸ Β, τὸν συγκείμενον λόγον ἔκ τε τοῦ ὃν ἔχει ἁ ΚΑ ποτὶ τὰν ΕΘ, καὶ τοῦ ὃν ἔχει ἁ ΝΛ ποτὶ τὰν ΒΘ ἁ μὲν γὰρ ΚΑ ἡμισέα ἐντὶ τᾶς διαμέτρου τᾶς βάσιος τᾶς τοῦ ἀποτμήματος τοῦ κώνου, οὗ κορυφὰ τὸ Λ, ἁ δὲ ΕΘ ἡμισέα τᾶς διαμέτρου τᾶς βάσεως τοῦ κώνου, αἱ δὲ ΛΝ, ΒΘ ὕψεά ἐντι αὐτῶν. Ἔχει δὲ ἁ ΛΝ ποτὶ τὰν ΒΘ τὸν αὐτὸν λόγον, ὃν καὶ ποτὶ τὰν ΚΛ, ἐπεὶ ἁ ΒΘ ἴση ἐστὶ τᾷ ΚΛ. Ἔχει δὲ καὶ ἁ ΛΝ ποτὶ τὰν ΚΛ, ὃν ἁ ΧΑ ποτὶ τὰν ΑΚ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-22 / passage[6]",
+    "note": "<del> excluded from reading text: \"ἐκ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-22 / passage[6]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-23 / passage[2]",
+    "note": "<del> excluded from reading text: \"ἑκάτερον γὰρ ἡμιόλιόν ἐστιν\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-23 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-24 / passage[3]",
+    "note": "<del> excluded from reading text: \"καὶ γὰρ αἱ ἴσαι αὐταῖς αἱ ἐπὶ τᾶς Β△ εὐθείας τῷ ἴσῳ ἀλλάλων ὑπερέχουσιν\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-24 / passage[3]",
+    "note": "<del> excluded from reading text: \"ἁ γὰρ διπλασία τᾶς ποτεούσας, τουτέστι τᾶς ἐκ τοῦ κέντρου, πλαγία ἐστὶ τοῦ εἴδους πλευρά\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-24 / passage[3]",
+    "note": "<del> excluded from reading text: \"δὲ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-24 / passage[3]",
+    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-24 / passage[4]",
+    "note": "<del> excluded from reading text: \"ἴσον γὰρ ἑκάτερον\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-25 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-25 / passage[2]",
+    "note": "<del> excluded from reading text: \"οὖν\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-25 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-26 / passage[0]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-26 / passage[2]",
+    "note": "<del> excluded from reading text: \"δὴ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-26 / passage[2]",
+    "note": "<del> excluded from reading text: \"ἀπὸ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-26 / passage[2]",
+    "note": "<del> excluded from reading text: \"ΞΨ, ΞΩ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-27 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-28 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-28 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-30 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-31 / passage[2]",
+    "note": "<del> excluded from reading text: \"τουτέστιν ἁ ΒΕ ποτὶ ΕΖ· τὸ γὰρ ἔλασσον ἢ ἡμίσεον τοῦ σφαιροειδέος ποτὶ τὸν κῶνον τὸν βάσιν ἔχοντα τὰν αὐτὰν τῷ τμάματι καὶ ἄξονα τὸν αὐτὸν δέδεικται τοῦτον ἔχον τὸν λόγον, ὃν ἁ συναμφοτέραις ἴσα τᾷ τε ἡμισέᾳ τοῦ ἄξονος τοῦ σφαιροειδέος καὶ τῷ ἄξονι τῷ τοῦ μείζονος τμάματος ποτὶ τὸν ἄξονα τὸν τοῦ μείζονος τμάματος, οὗτος δέ ἐστιν ὃν ἔχει ἁ ΖΕ ποτὶ τὰν ΒΕ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-31 / passage[2]",
+    "note": "<del> excluded from reading text: \"τετραπλάσιον γὰρ ἑκάτερον\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-31 / passage[2]",
+    "note": "<del> excluded from reading text: \"τὸν γὰρ αὐτὸν ἔχει λόγον, ὃν ἁ ΖΕ ποτὶ τὰν ΒΕ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-31 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-32 / passage[2]",
+    "note": "<del> excluded from reading text: \"τοῦ σφαιροειδέος\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-32 / passage[2]",
+    "note": "<del> excluded from reading text: \"δέδεικται γὰρ τοῦτον ἔχον τὸν λόγον, ὃν ἁ ΖΕ ποτὶ τὰν ΒΕ\""
+  },
+  {
+    "where": "archimedes-conoids-spheroids / division archimedes-conoids-spheroids-ch-32 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  }
+]

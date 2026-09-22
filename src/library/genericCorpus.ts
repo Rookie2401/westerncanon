@@ -129,22 +129,32 @@ export function genericNeighbors(
 }
 
 /**
- * "Book" for a book division (top-level, e.g. `book-N`, or nested under an
- * Actio, e.g. `actio-N-book-M`), "Proposition" for a Euclid proposition leaf
- * (including Book X's split Propositions I/II/III), "Chapter" for an
- * Augustine chapter leaf, "Speech" for a Cicero oration division
- * (`speech-N`, e.g. each of the four In Catilinam orations or the fourteen
- * Philippics), and "Actio" for the two actiones of In Verrem (`actio-N`) —
- * derived from the id shapes each importer produces — so these read as what
- * they are rather than as an anonymous numbered "§". A Cicero section leaf
- * (`book-N-sec-M`, `speech-N-sec-M`, `actio-N-book-M-sec-K`, or a flat
- * `sec-N` for a single-speech/undivided work) matches none of these shapes
- * and falls through to the plain "§ N" label, same as every other
- * generic-profile work's non-matching divisions.
+ * "Book" for a book division — top-level `book-N` (e.g. De Officiis), or
+ * nested under an Actio as `actio-N-book-M` (In Verrem, the one 3-level
+ * generic work) — "Proposition" for a Euclid proposition leaf (including
+ * Book X's split Propositions I/II/III), "Chapter" for an Augustine chapter
+ * leaf, "Speech" for a Cicero oration division (`speech-N`, e.g. each of the
+ * four In Catilinam orations or the fourteen Philippics), and "Actio" for
+ * the two actiones of In Verrem (`actio-N`) — derived from the id shapes
+ * each importer produces — so these read as what they are rather than as an
+ * anonymous numbered "§". A Cicero section leaf (`book-N-sec-M`,
+ * `speech-N-sec-M`, `actio-N-book-M-sec-K`, or a flat `sec-N` for a
+ * single-speech/undivided work) matches none of these shapes and falls
+ * through to the plain "§ N" label, same as every other generic-profile
+ * work's non-matching divisions — this notably includes Archimedes'
+ * `<workId>-book-N[-ch-M]` division ids (e.g.
+ * `archimedes-sphere-cylinder-book-1`, `...-book-1-ch-1`), which predate
+ * both the Cicero `book-N` and the Augustine/Aristotle `book-N-ch-M`
+ * conventions and are NOT meant to render as "Book"/"Chapter" — a leaf
+ * there is a numbered proposition, not a chapter, and the app's own
+ * citation scheme for these works is section-number based. BOOK_ID and
+ * CHAPTER_ID are both anchored to the UNPREFIXED `book-N`/`book-N-ch-M`
+ * shape specifically (not a bare `-book-`/`-ch-` suffix anywhere in the
+ * id) so a work-id-prefixed id like Archimedes' never matches either.
  */
-const BOOK_ID = /(^|-)book-\d+$/;
+const BOOK_ID = /^(book-\d+|actio-\d+-book-\d+)$/;
 const PROPOSITION_ID = /-prop[123]?-\d+$/;
-const CHAPTER_ID = /-ch-\d+$/;
+const CHAPTER_ID = /^book-\d+-ch-\d+$/;
 const SPEECH_ID = /^speech-\d+$/;
 const ACTIO_ID = /^actio-\d+$/;
 

@@ -1,0 +1,1034 @@
+[
+  {
+    "where": "archimedes-method / entity decoding",
+    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 132 time(s) in this file."
+  },
+  {
+    "where": "archimedes-method / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (44 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr1 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ κέντρου τοῦ κύκλου,\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr1 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"αὐτῶν, τῷ μεγέθει σχήμασι\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr1 / passage[4]",
+    "note": "<gap reason=\"omitted\"/> x1: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr1 / passage[4]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Διόπερ καὶ τῶν θεωρη\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr1 / passage[5]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κὰς ἀποδείξεις ἐκείνων τῶν θεωρημάτων, ὧν τὰς προ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr1 / passage[5]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σοι πρότερον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸ δὲ αὐτὸ σημεῖον κέν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ᾖ τοῦ τε ὅλου\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κέντρον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[1]",
+    "note": "<del> excluded from reading text: \"λοιπὸν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Ἐὰν ἀπὸ μεγέ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ς ἀφαιρεθῇ, ἦ δὲ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"εὐθείας\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"καὶ τοῦ ἀφαιρουμέ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[5]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[6]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Κύκλου\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[6]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ κύκλου\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-pr2 / passage[10]",
+    "note": "<del> excluded from reading text: \"ἐν τῷ προγεγραμμένῳ Κωνοειδῶν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-1 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-1 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"θω ἡ ΓΒ ἐπὶ τὸ Κ, καὶ κείσθω τῇ ΓΚ ἴση ἡ ΚΘ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-1 / passage[3]",
+    "note": "<del> excluded from reading text: \"τοῦτο γὰρ ἐν λήμματι δείκνυται\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-1 / passage[3]",
+    "note": "<del> excluded from reading text: \"Τοῦτο οὖν φανερόν ἐστιν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-1 / passage[3]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Θ, ὥστε εἶναι τοῦ ἐξ ἀμφοτέ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-2 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ποιήσει δὴ κύκλον ὀρθὸν πρὸς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-2 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κύκλον,\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-2 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σφαίρᾳ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-2 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-2 / passage[3]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἀμφοτέρους τοὺς κύκλους τόν τε ἐν τῷ κώνῳ, οὗ διάμετρος ἡ ΠΡ,\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-2 / passage[4]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"οὗ ἐστι τὸ διὰ τοῦ ἄξονος παραλ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-3 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"καὶ ὅτι ὁ κύλινδρος ὁ τὴν μὲν βάσιν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-3 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"θὸν πρὸς τὴν ΑΓ ποιήσει δὴ τοῦτο ἐν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-3 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-3 / passage[2]",
+    "note": "<del> excluded from reading text: \"ἀμφότεροι γὰρ οἱ λόγοι ἐν τῷ τῆς πλαγίας πρὸς τὴν ὀρθίαν εἰσίν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-3 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ειδὲς καὶ τὸν κῶνον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-3 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ιπλα\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-4 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὴν Α△, νοείσθω δὲ κῶνος βάσιν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-4 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-4 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"εἶναι τοῦ βάρους τὸ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-4 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"καί ἐστι τοῦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-4 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κύκλου, οὗ διάμετρός ἐστιν ἡ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-4 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἡ ΘΑ πρὸς τὴν ΑΚ, ὃν ὁ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-5 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"△Α ἐκβληθείσης ἴση αὐτῇ κείσθω ἡ ΑΘ, καὶ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-5 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τρος ἡ ΠΡ. Ἰσορροπήσει ἄρα πε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-5 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κατὰ τὸ Θ σημεῖον οὕτως, ὥστε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-5 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὥστε τὴν ΑΘ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ βάρους ἐπὶ τῆς εὐθείας ἐστίν, ἥ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<gap reason=\"omitted\"/> x19: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΑΕ, EΞ, τῇ δὲ ΑΕ ἴση ἡ ΕΠ, ὡς ἄρα ἡ ΑΓ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸ Ε, τοῦ δὲ κύκλου, οὗ ἐστι διάμετρος ἡ ΠΡ, μετενεχθέντος τὸ Θ, ἔστιν ὡς ἡ ΕΑ πρὸς ΑΘ, οὕτως ὁ κύκλος, οὗ διάμετρος ἡ ΠΡ, πρὸς τοὺς κύκλους, ὧν διάμετροι αἱ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΠΡ. Ὁμοίως δὲ καὶ ἐὰν ἄλλη τις ἀχθῇ ἐν τῇ τοῦ ὀρθογωνίου κώνου τομῇ παράλληλος τῇ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Η\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἀπὸ τῆς ἀχθείσης ἐπίπεδον ἀναστα\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὴν ΑΓ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ήσουσιν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σημεῖον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"οι οἱ κύκλοι ὅ τε ἐν τῷ ἡμισφαιρίῳ γενό\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"αὶ ὁ ἐν τῷ κών\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ μένοντες τῷ γ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κύκλῳ ἐν τῷ κώνῳ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"καὶ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"θέντι τοῦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Συμπληρωθέντων οὖν ὑπὸ τῶν κύκλων τοῦ τε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"νου\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ροπήσουσι περὶ τὸ Α σημεῖον πάντες οἱ κύκλο οἱ ἐν τῷ ἡμισφαι\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐν τῷ κώνῳ αὐτοῦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"πᾶσι τοῖς κύκλοις τοῖς ἐν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"εἶναι αὐτῶν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὥστε ἰσορροπήσουσι περὶ τὸ Α σημεῖον τό τε ἡμισφαίριον καὶ ὁ κῶνος αὐτοῦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ ζυγοῦ κατὰ τὸ Θ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τρον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"εἶναι τοῦ βάρους\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἰσορροπ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ντ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Α\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"καὶ ἐπεί\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Α πρὸς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ση\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"πλασία ἐστὶν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κώνου, οὗ βάσις ὁ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"διάμετρον τὴν Β△ κύκλος, ἄξων δὲ ἡ ΑΗ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<gap reason=\"omitted\"/> x44: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"δὲ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τρόπου πού\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ᾶν τμᾶμα\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸν βάσιν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὴν τῷ τμήματι\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τμήματος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"καὶ ἀπὸ τῆς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κλοις, ὧν διάμετροι αἱ ΞΟ, ΠΡ, μετεν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κατὰ τὸ Θ,\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ βάρους εἶναι τὸ Θ· ὁμοίως\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐπὶ πάντων\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κώνου καὶ τοῦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τῆς σφαίρας ὑπὸ τῶν κύκλων ἰσορροπήσει καὶ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τριπλ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸ ὑπὸ ΓΗ, ΗΦ τοῦ ὑπὸ ΑΗ, ΗΓ. Ἴσον δὲ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΗΦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὁ κύλινδρος, οὗ βάσις ὁ περὶ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὴν. . κύκλος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὁ κύλινδρος, οὗ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὁ περὶ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὡς ἡ ΘΑ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"πρὸς τὸ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τῆς σφαίρας τὸ ΑΒ△ καὶ τὸν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τμῆμα τῆς σ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ας\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"λος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"δὲ ὁ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὑτός, οὕτως\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ς δὲ ὁ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὁ περὶ διάμετρον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Λ κύκλος, πρὸς τὸν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"οὕτως\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-8 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Ὁμοίως δὲ θεωρεῖτ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-8 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"αὐτοῦ τρόπου καὶ ὅτι\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-8 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σφαιροειδέος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-8 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-8 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ειδέος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-8 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ ἄξονος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-8 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἀντι\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-8 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τμήματος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-8 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ς τὸν ἄξονα τοῦ ἀντικειμένου τμήματος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<gap reason=\"omitted\"/> x21: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<del> excluded from reading text: \"ἐπεί\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<del> excluded from reading text: \"τὸ σχῆμα\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Παντὸς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐμπεριεχομένου.\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ δὲ ἀποτε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸ τμῆμα ἐπιπέδου ἡ Β△, ἡ δὲ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"με\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ος ἔστω ὀρθὴ πρὸς τὴν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σθω κ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὰ τὸ Η σημεῖον ὥ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ατος, οὗ κορυ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἔσται ἡ ΑΗ,\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"οῦ δ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ου ἄξων ἡ Η\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸ Χ, ὥστε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Α\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"οὕτως τήν τε ΑΗ καὶ τὴν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"πλασί\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τῆς ΗΓ. Λ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ τ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ήματος, οὗ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ον τοῦ βάρους ἐστὶ τὸ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"φὴ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"γεγράφθω κῶνος κορυφὴν ἔχων τὸ Α σημεῖον,\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κώνῳ τῷ ἐν τῷ ΑΕΖ κώνῳ περὶ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὥστε τὸν Μ κύλιν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-9 / passage[0]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-11 / passage[0]",
+    "note": "<gap reason=\"omitted\"/> x3: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-11 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"καὶ ὅτι πᾶν τμῆμα ἀμβλυγωνίου κωνοειδέος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-11 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὥστε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-11 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"καὶ ἡ ὀκταπλασία\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-12 / passage[0]",
+    "note": "<del> excluded from reading text: \"παραλληλογράμμων\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-12 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ρᾶς τοῦ ἀπεναντίον τετραγώνου ἐπίπ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-12 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἕκτον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-12 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κύκλος, καὶ ἐφαπτέσθω ὁ κύκλος\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-12 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐν τῷ ἡμικυλινδρίῳ πρὸς τὸ γε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-12 / passage[1]",
+    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-12 / passage[2]",
+    "note": "<del> excluded from reading text: \"ὅτι\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-13 / passage[0]",
+    "note": "<gap reason=\"omitted\"/> x1: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-13 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὀρθὸν πρὸς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-13 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὁ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-13 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΠΡ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-13 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"εύχθω\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-13 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΞΟΠΡ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-13 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-13 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ κυλίνδρου, ἐν δὲ τῷ πρίσματι παραλληλόγραμμον, οὗ ἐστιν ἡ μὲν μία\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-13 / passage[0]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<gap reason=\"omitted\"/> x21: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<del> excluded from reading text: \"τῆς παραβολῆς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"δὲ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἀν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἀπὸ τοῦ Ξ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἡ δὲ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τῷ τέμνοντι ἐπιπέδῳ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦτο γὰρ φανε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐστιν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΜΝ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΜΛ, οὕτως τὸ ἀπὸ ΜΝ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἀπὸ ΜΞ. Ὡς δὲ τὸ ἀπὸ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΜΞ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τῆς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"νον τὸ ἐν τῷ πρίσμα\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"νόμενον πρὸς τὸ ἀπὸ ΜΞ τρίγω\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τμήματι ἀφῃρημένον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"οὕτως τὸ τρίγωνον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"δ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ξομεν καί\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἄλλ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ις ἀχθῇ ἐν τῷ περὶ τὴν τομὴν πε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐντι\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"παρὰ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"πεδον ἀνασταθῇ ὀρθὸν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"πρὸς τὴν\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἀποτμηθέντι\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸ τμῆμα\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[0]",
+    "note": "<gap reason=\"omitted\"/> x1: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐφάπτεται\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἔστω\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τῆς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"καὶ μιᾶς πλευρᾶς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐπίπεδον ἤχθω\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Λέγω δὴ ὅτι τοῦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<gap reason=\"omitted\"/> x122: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"η\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ημένον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ση-\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"φθω\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"έτ-\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐγγεγρ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ῦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τμ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἔλασσον ἄρα ἢ ἡμιό\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ζον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"στε-\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἀ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"α\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ ἐγγρα-\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"θω ἐν τῷ τμή\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"περιεχομένῳ ὑπό τε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ογωνίου κώνου τομῆς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΕΗ εὐθείας\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ω\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ογωνίου κώνου\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐγγεγραμ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ῷ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ου\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"οῦ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"δρου\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ῷ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"πε\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"οις\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ᾶς\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σθω\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ζον\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"εὐθ\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"γραμμένου περὶ τὸ τμῆμα τοῦ κυλίνδρου\""
+  },
+  {
+    "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
+    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  }
+]

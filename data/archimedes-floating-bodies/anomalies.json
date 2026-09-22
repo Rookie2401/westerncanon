@@ -1,0 +1,498 @@
+[
+  {
+    "where": "archimedes-floating-bodies / entity decoding",
+    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 92 time(s) in this file."
+  },
+  {
+    "where": "archimedes-floating-bodies / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (35 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-1 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-2 / passage[2]",
+    "note": "<del> excluded from reading text: \"ἢ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-2 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ιὰ τοῦ αὐτοῦ σαμείου τμαθεῖσ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-2 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-3 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τομὰ δὲ ἔστω τοῦ τε ἐπιπ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-3 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τῷ ὑγρῷ· τὸ δὲ λοιπὸν τῷ λοιπῷ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-3 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-4 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸ Ζ ἔλασσον τοῦ βάρεος τοῦ κατὰ τὸ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-4 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-5 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ ἐν τᾷ ἑτέρᾳ πυραμίδι\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-6 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-6 / passage[2]",
+    "note": "<gap reason=\"omitted\"/> x4: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-6 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἔστε κα ταλικοῦτος ὄγκος τοῦ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-7 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-7 / passage[3]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κουφότερον τοῦ ὑγροῦ τοῦ ἴσον ὄγκον ἔχοντος αὐτῷ, ἔστω\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-7 / passage[3]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ται ἐς τὸ κάτω καὶ τοσαύτᾳ βίᾳ ὑ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-7 / passage[3]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ται τοσούτῳ βάρει, ὅσον ἐστὶ τὸ Γ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-7 / passage[4]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σθω τῶν ἐν τῷ ὑγρῷ ἄνω\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-8 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"θέν, καὶ διά τε τοῦ ἄξονος τοῦ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-8 / passage[3]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"λοιποῦ σχήματος τοῦ ἐκτὸς\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-9 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-9 / passage[2]",
+    "note": "<del> excluded from reading text: \"γὰρ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-1-ch-9 / passage[2]",
+    "note": "<del> excluded from reading text: \"τρον τοῦ βάρεός ἐστιν ἐπὶ τᾶς ΖΘ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-1 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-2 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-2 / passage[2]",
+    "note": "<gap reason=\"omitted\"/> x2: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-2 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐπίπεδον τὸ ἐπὶ τᾶς ἐπιφανείας\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-2 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὸ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-2 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"νικῶν ὅτι, εἴ κα μέγεθος ἀφαιρεθῇ μὴ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-2 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"οὐ μενεῖ τὸ σχῆμα, ἀλλὰ τὰ μὲν κατὰ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-3 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἁ ΚΩ παρὰ τὰν ΙΣ ἐφαπτομένα κατὰ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-3 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-4 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"σονα λόγον ἔχῃ τοῦ ὃν ἔχει\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-4 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-5 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"portionis\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-5 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-6 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"sectionals\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-6 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-6 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-7 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-7 / passage[2]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἁπτόμενον ἐπὶ τὸ κάτω φέρε\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-7 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-8 / passage[1]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"διπλασία τᾶς Χ. Δῆλον οὖν ὅτι\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-8 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-8 / passage[3]",
+    "note": "<del> excluded from reading text: \"τοῦ τμήματος\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-8 / passage[6]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τω γωνίαν ἐλάσσονα τᾶς ποτὶ τῷ Β · ἐλάσσονα δὴ λόγον\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-8 / passage[6]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κέντρον τοῦ βάρεος τοῦ ἐκτὸς τοῦ ὑγροῦ ἐπὶ τᾶς ἐκβληθείσας. Ἔστω τὸ Γ, καὶ ἄχθωσαν κά\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-8 / passage[7]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[3]",
+    "note": "<del> excluded from reading text: \"μὲν\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[4]",
+    "note": "<del> excluded from reading text: \"τῆς τομῆς\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[4]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἄρα ἐστὶν ἢ διπλασία ἁ ΠΗ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[4]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ΗΜ Ἔστω δὴ ἁ ΠΖ διπλασία τᾶς ΖΜ, καὶ ἐπιζευχθεῖσα ἁ ΖΘ ἐκβεβλήσθω ἐπὶ τὸ Γ ἔσται οὖν τοῦ μὲν ὅλου τμάματος κέντρον τοῦ βάρεος τὸ Θ, τοῦ δὲ ἐκτὸς\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[4]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Ζ, τοῦ δὲ ἐντὸς ἐν τᾷ ΘΓ ἔστω δὲ τὸ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[4]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"Δειχθήσεται δὴ ὁμοίως τοῖς πρότερον ἁ ΘΗ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[4]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὰν ἐπιφάνειαν τοῦ ὑγροῦ καὶ αἱ διὰ τῶν Ζ, Γ παρὰ τὰν ΘΗ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-9 / passage[4]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τὰ αὐτὰ τῷ Λ κάτω, τὰ δὲ ἐπὶ τὰ αὐτὰ τῷ Α ἐς τὰ ἄνω οἰσθήσεται,\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[0]",
+    "note": "<del> excluded from reading text: \"τοῦ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[0]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"νείας ὃν δὲ λόγον ἔχοντος τῷ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[2]",
+    "note": "<del> excluded from reading text: \"ἐὰν\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[9]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τομᾶν\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[9]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"humidum, ita inclinata consistet, ut basis eius in nullo puncto superficiem humidi tangat, et\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[9]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[10]",
+    "note": "<del> excluded from reading text: \"sectionis\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[10]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[11]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[12]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"et (??)Χ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[12]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[14]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"portiones\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[14]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κάθετός ἐστιν ἐπὶ τὰν τοῦ ὑγροῦ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[14]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐκτὸς τοῦ ὑγροῦ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[14]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"δὴ τὸ τμᾶμα, καὶ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[14]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"βάσις καθʼ ἓν σαμεῖον ἄψεται τᾶς τοῦ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[14]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ τμάματος\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[14]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[15]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ad tetragonum quod a BD\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[15]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐκβεβλήσθω\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[15]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ἐλάσσονα\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[16]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"βάσιν\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[16]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"igitur\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[16]",
+    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[17]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"κατε-\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[17]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"τοῦ ὑγροῦ γωνίαν ποιεῖν ἐλάσσονα τᾶς Φ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[17]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[18]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"quod\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[19]",
+    "note": "<del> excluded from reading text: \"τμημάτων\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[19]",
+    "note": "<del> excluded from reading text: \"τοῦ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[20]",
+    "note": "<del> excluded from reading text: \"καὶ\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[20]",
+    "note": "<del> excluded from reading text: \"τῆς τομῆς\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[20]",
+    "note": "<del> excluded from reading text: \"τοῦ τμήματος\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[20]",
+    "note": "<del> excluded from reading text: \"ἀπὸ τῆς\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[20]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ὥστε τὰν βάσιν αὐτοῦ μηδὲ καθʼ ἓν\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[20]",
+    "note": "<add cause=\"omitted\"> editorial restoration included in reading text: \"ϠΘ. Ἔστω δὴ ἁ ΗΑ΄ διπλασία\""
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[20]",
+    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies / division archimedes-floating-bodies-book-2-ch-10 / passage[21]",
+    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"..., ἄχθωσαν δὲ καὶ αἱ ΠΨ, Ο[(??)] ἐφαπτόμεναι τᾶ...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...αν τοῦ ὑγροῦ μείζονα τᾶς [(??)]....\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...οῦ γωνίαν ποιεῖν ἴσαν τᾷ [(??)]....\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...em penes Ϡ, ipsam autem R[(??)] rectam penes B...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ut demonstrata est quae Μ[(??)] ipsius (??)Χ d...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ta est quae Μ(??) ipsius [(??)]Χ dupla, ab O a...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ab O autem ducatur quae O[(??)] contingens sec...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...Ν, et aequedistans ipsi O[(??)]. Demonstrandum...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...um faciat maiorem angulo [(??)]....\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...m, quare anguli qui apud [(??)], G sunt aequal...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...G sunt aequales, et quae [(??)]B, GB, ergo aeq...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...t angulum maiorem angulo [(??)]....\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...et ducatur ipsi AQ quae O[(??)] aequedistans. ...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...quoniam angulus qui apud [(??)] est minor quam...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...quam RS ; quare et quae O[(??)] minor quam ΡϠ,...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"... O(??) minor quam ΡϠ, et [(??)]Χ maior est qua...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...uam ϠΤ. Et quoniam quae O[(??)] dupla est ipsi...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...e O(??) dupla est ipsius [(??)]X, palam quod q...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...equales sunt qui apud Ν, [(??)] anguli. Et ϠT ...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ων τᾶς ΣΡ οὐδὲ ἁ ΗϠ τᾶς Θ[(??)]. Καὶ ἐπειδὴ ἁ ...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ΠΥ, ἐλάσσων δὲ ἁ ΠΥ τᾶς Θ[(??)], καὶ ἁ μὲν ΗΘ ...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ἁ δὲ ΗϠ οὐκ ἐλάσσων τᾶς Θ[(??)], μείζων ἔσται ...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ασία τᾶς ϠΘ. Ἔστω οὖν ἁ Η[(??)] τᾶς (??) Θ διπ...\""
+  },
+  {
+    "where": "archimedes-floating-bodies-book-2-ch-10",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ϠΘ. Ἔστω οὖν ἁ Η(??) τᾶς [(??)] Θ διπλασίων πά...\""
+  }
+]

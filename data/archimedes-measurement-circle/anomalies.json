@@ -1,0 +1,114 @@
+[
+  {
+    "where": "archimedes-measurement-circle / entity decoding",
+    "note": "The numeric entity \"&#9651;\" was decoded to the real character ▵ (U+25B3) 10 time(s) in this file."
+  },
+  {
+    "where": "archimedes-measurement-circle / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (11 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation."
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-1 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-measurement-circle/images/)."
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-1 / passage[3]",
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-measurement-circle/images/)."
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-2 / passage[1]",
+    "note": "<del> excluded from reading text: \"ἐπεὶ ἡ μὲν ΑΓ κάθετος ἴση ἐστὶ τῇ ἐκ τοῦ κέντρου, ἡ δὲ βάσις τῆς διαμέτρου τριπλασίων καὶ τῷ ζ΄ ἔγγιστα ὑπερέχουσα δειχθήσεται\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-2 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-measurement-circle/images/)."
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[1]",
+    "note": "<del> excluded from reading text: \"τὴν\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[1]",
+    "note": "<del> excluded from reading text: \"καὶ ἐναλλὰξ καὶ συνθέντι\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[1]",
+    "note": "<del> excluded from reading text: \"μήκει\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[1]",
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-measurement-circle/images/)."
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[2]",
+    "note": "<del> excluded from reading text: \"ἡ δὲ ΑΓ πρὸς ΓΒ, ὃν αφξ πρὸς ψπ\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[2]",
+    "note": "<del> excluded from reading text: \"καὶ\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[2]",
+    "note": "<del> excluded from reading text: \"τὴν\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[2]",
+    "note": "<del> excluded from reading text: \"ἄρα\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[2]",
+    "note": "<del> excluded from reading text: \"τὴν\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[2]",
+    "note": "<del> excluded from reading text: \"τὴν\""
+  },
+  {
+    "where": "archimedes-measurement-circle / division archimedes-measurement-circle-ch-3 / passage[2]",
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-measurement-circle/images/)."
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"U+A7FC\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ὸς Μ γυθ· μήκει ἄρα, ὃν φ[U+A7FC]α η΄ πρὸς ρνγ. ...\""
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"U+2220\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...α λόγον ἔχει ἤπερ τὰ δχογ[U+2220]΄ πρὸς ρνγ. Ἐπε...\""
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...υ πλευρὰ πλευρὰς ἔχοντος [(??)]ς. Ἐπεὶ οὖν ἡ Ε...\""
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"U+2220\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...να λόγον ἔχουσα ἤπερ δχογ[U+2220]΄ πρὸς ρνγ, ἀλλ...\""
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...αὶ ἡ ΑΓ ἄρα πρὸς τὴν τοῦ [(??)]ς γώνου περίμετ...\""
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"U+2220\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ζονα λόγον ἔχει ἤπερ δχογ[U+2220]΄πρὸς Μ δχπη. Κ...\""
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"U+2220\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ασία, καὶ ὑπερέχουσιν χξζ[U+2220]΄, ἅπερ τῶν δχο...\""
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"U+2220\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...ξζ U+2220΄, ἅπερ τῶν δχογ[U+2220]΄ ἐλάττονά ἐστι...\""
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"U+2220\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"... τὴν ΓΗ ἐλάσσονα ἢ ὃν γιγ[U+2220]΄ δ΄ πρὸς ψπ. Δ...\""
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"U+2220\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...σονα λόγον ἔχει ἢ ὃν εϡκδ[U+2220]΄ δ΄ πρὸς ψπ ἢ ...\""
+  },
+  {
+    "where": "archimedes-measurement-circle-ch-3",
+    "note": "The source's own literal placeholder text \"(??)\" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for \"U+XXXX\"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for \"(??)\" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: \"...καὶ ἡ περίμετρος ἄρα τοῦ [(??)]ςγώνου τοῦ ἐν τ...\""
+  }
+]
