@@ -155,6 +155,147 @@ const DIAGRAMS: Record<
   'archimedes-sphere-cylinder-book-1-ch-43': [
     { image: 'images/book-1-ch-43.png', width: 1077, height: 941 },
   ],
+
+  /**
+   * On Conoids and Spheroids - sourced from the SAME Heiberg scan/technique
+   * as the works above, but not from a fresh volume: archive.org identifier
+   * archimedisoperao01arch also contains this work (it follows On the Sphere
+   * and Cylinder and Measurement of a Circle later in the same Heiberg
+   * volume 1), at IIIF leaves 312, 320, 330, 336, 348, 368, 374, 382, 390,
+   * 400, 404, 428, 434, 440, 454, 466, 488, 504, 510 and 518 for propositions
+   * 1, 2, 4, 5, 8, 12, 14, 15, 18, 19, 20, 22, 23, 24, 25, 26, 27, 30, 31 and
+   * 32 respectively (printed pages 292, 298, 308, 314, 326, 346, 352, 360,
+   * 368, 378, 382, 406, 412, 418, 432, 442, 462, 478, 484, 492). This work
+   * has no book-level division, so its images are keyed 'ch-N' with no
+   * 'book-1-' prefix. Only a hand-verified subset of the work's 32 divisions
+   * (pr, 1-28, 30-32 - proposition 29 does not exist in the traditional
+   * numbering) is covered; see KNOWN_GAPS in aboutText.ts for the exact
+   * count and the divisions confirmed genuinely diagram-less vs the rest.
+   */
+  'archimedes-conoids-spheroids-ch-1': [{ image: 'images/ch-1.png', width: 1800, height: 760 }],
+  'archimedes-conoids-spheroids-ch-2': [{ image: 'images/ch-2.png', width: 1386, height: 530 }],
+  'archimedes-conoids-spheroids-ch-4': [{ image: 'images/ch-4.png', width: 1330, height: 1920 }],
+  'archimedes-conoids-spheroids-ch-5': [{ image: 'images/ch-5.png', width: 1085, height: 1650 }],
+  'archimedes-conoids-spheroids-ch-8': [{ image: 'images/ch-8.png', width: 1365, height: 1530 }],
+  'archimedes-conoids-spheroids-ch-12': [
+    { image: 'images/ch-12.png', width: 1270, height: 1220 },
+  ],
+  'archimedes-conoids-spheroids-ch-14': [{ image: 'images/ch-14.png', width: 1450, height: 800 }],
+  'archimedes-conoids-spheroids-ch-15': [
+    { image: 'images/ch-15.png', width: 1420, height: 1500 },
+  ],
+  'archimedes-conoids-spheroids-ch-18': [{ image: 'images/ch-18.png', width: 1176, height: 780 }],
+  'archimedes-conoids-spheroids-ch-19': [
+    { image: 'images/ch-19.png', width: 1395, height: 1470 },
+  ],
+  'archimedes-conoids-spheroids-ch-20': [
+    { image: 'images/ch-20.png', width: 1463, height: 1450 },
+  ],
+  'archimedes-conoids-spheroids-ch-22': [
+    { image: 'images/ch-22.png', width: 1764, height: 1382 },
+  ],
+  'archimedes-conoids-spheroids-ch-23': [
+    { image: 'images/ch-23.png', width: 1193, height: 1227 },
+  ],
+  'archimedes-conoids-spheroids-ch-24': [
+    { image: 'images/ch-24.png', width: 1380, height: 1846 },
+  ],
+  'archimedes-conoids-spheroids-ch-25': [
+    { image: 'images/ch-25.png', width: 1214, height: 1800 },
+  ],
+  'archimedes-conoids-spheroids-ch-26': [
+    { image: 'images/ch-26.png', width: 1377, height: 1723 },
+  ],
+  'archimedes-conoids-spheroids-ch-27': [{ image: 'images/ch-27.png', width: 844, height: 1990 }],
+  'archimedes-conoids-spheroids-ch-30': [
+    { image: 'images/ch-30.png', width: 1444, height: 1760 },
+  ],
+  'archimedes-conoids-spheroids-ch-31': [
+    { image: 'images/ch-31.png', width: 1740, height: 1330 },
+  ],
+  'archimedes-conoids-spheroids-ch-32': [
+    { image: 'images/ch-32.png', width: 1512, height: 1340 },
+  ],
+
+  /**
+   * On the Equilibrium of Planes, Books I-II - same Heiberg scan/technique
+   * as above, but a DIFFERENT volume: archive.org identifier
+   * archimedisoperao02arch, J. L. Heiberg's 1st edition of Archimedis Opera
+   * Omnia cum Commentariis Eutocii, vol. 2 (Teubner, 1880) - confirmed by
+   * locating this work's own Greek incipit and postulates on the scan before
+   * treating the identifier as correct (see KNOWN_GAPS in aboutText.ts for
+   * the full sourcing note, leaf numbers, and the two divisions - Book I
+   * ch-10's second marker and Book II ch-10 - confirmed to have no diagram
+   * of their own despite a <figure> marker, plus Book II ch-3's opposite
+   * case: a real printed diagram with no marker to hang it on).
+   */
+  'archimedes-plane-equilibrium-book-1-ch-3': [
+    { image: 'images/book-1-ch-3.png', width: 1459, height: 559 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-4': [
+    { image: 'images/book-1-ch-4.png', width: 945, height: 376 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-5': [
+    { image: 'images/book-1-ch-5-1.png', width: 1063, height: 614 },
+    { image: 'images/book-1-ch-5-2.png', width: 1308, height: 455 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-6': [
+    { image: 'images/book-1-ch-6.png', width: 1258, height: 682 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-7': [
+    { image: 'images/book-1-ch-7.png', width: 1031, height: 513 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-8': [
+    { image: 'images/book-1-ch-8.png', width: 1149, height: 483 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-9': [
+    { image: 'images/book-1-ch-9.png', width: 1087, height: 485 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-10': [
+    { image: 'images/book-1-ch-10.png', width: 930, height: 494 },
+    null,
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-11': [
+    { image: 'images/book-1-ch-11.png', width: 1333, height: 642 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-12': [
+    { image: 'images/book-1-ch-12.png', width: 1252, height: 631 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-13': [
+    { image: 'images/book-1-ch-13-1.png', width: 1540, height: 974 },
+    { image: 'images/book-1-ch-13-2.png', width: 1055, height: 951 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-14': [
+    { image: 'images/book-1-ch-14.png', width: 936, height: 849 },
+  ],
+  'archimedes-plane-equilibrium-book-1-ch-15': [
+    { image: 'images/book-1-ch-15.png', width: 1681, height: 1217 },
+  ],
+  'archimedes-plane-equilibrium-book-2-ch-1': [
+    { image: 'images/book-2-ch-1.png', width: 1724, height: 770 },
+  ],
+  'archimedes-plane-equilibrium-book-2-ch-2': [
+    { image: 'images/book-2-ch-2.png', width: 1393, height: 777 },
+  ],
+  'archimedes-plane-equilibrium-book-2-ch-4': [
+    { image: 'images/book-2-ch-4.png', width: 1902, height: 927 },
+  ],
+  'archimedes-plane-equilibrium-book-2-ch-5': [
+    { image: 'images/book-2-ch-5-1.png', width: 1115, height: 558 },
+    { image: 'images/book-2-ch-5-2.png', width: 1281, height: 725 },
+  ],
+  'archimedes-plane-equilibrium-book-2-ch-6': [
+    { image: 'images/book-2-ch-6.png', width: 995, height: 1081 },
+  ],
+  'archimedes-plane-equilibrium-book-2-ch-7': [
+    { image: 'images/book-2-ch-7.png', width: 1000, height: 1110 },
+  ],
+  'archimedes-plane-equilibrium-book-2-ch-8': [
+    { image: 'images/book-2-ch-8.png', width: 1305, height: 855 },
+  ],
+  'archimedes-plane-equilibrium-book-2-ch-9': [
+    { image: 'images/book-2-ch-9.png', width: 300, height: 1540 },
+  ],
 };
 
 export interface Anomaly {
