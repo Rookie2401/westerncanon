@@ -1,0 +1,158 @@
+[
+  {
+    "where": "historia-animalium-en / book-1",
+    "note": "1 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): [[el:Των περί τα ζώα ιστοριών/1]]."
+  },
+  {
+    "where": "historia-animalium-en / book-2",
+    "note": "1 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): [[el:Των περί τα ζώα ιστοριών/2]]."
+  },
+  {
+    "where": "historia-animalium-en / book-3",
+    "note": "1 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): [[el:Των περί τα ζώα ιστοριών/3]]."
+  },
+  {
+    "where": "historia-animalium-en / book-4",
+    "note": "1 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): [[el:Των περί τα ζώα ιστοριών/4]]."
+  },
+  {
+    "where": "historia-animalium-en / book-5",
+    "note": "1 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): [[el:Των περί τα ζώα ιστοριών/5]]."
+  },
+  {
+    "where": "historia-animalium-en / book-6",
+    "note": "2 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): {{incomplete|scan=yes}} | [[el:Των περί τα ζώα ιστοριών/6]]."
+  },
+  {
+    "where": "historia-animalium-en / book-7",
+    "note": "1 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): [[el:Των περί τα ζώα ιστοριών/7]]."
+  },
+  {
+    "where": "historia-animalium-en / book-8",
+    "note": "1 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): [[el:Των περί τα ζώα ιστοριών/8]]."
+  },
+  {
+    "where": "historia-animalium-en / book-9",
+    "note": "1 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): [[el:Των περί τα ζώα ιστοριών/9]]."
+  },
+  {
+    "where": "historia-animalium-en / source technique",
+    "note": "Every page of this work is ORDINARY WIKITEXT on English Wikisource (action=parse&prop=wikitext returns the real prose), not a djvu page-scan transclusion like data/metaphysics-en or data/categoriae-en. The translation is the same public-domain Oxford text, but the digitisation is a plaintext one: it prints no page-scan/proofreading markup, and marks its chapters with bare-line-Part-N and wiki-heading-Part-N marker(s). Disclosed rather than described as a page-scan provenance it does not have."
+  },
+  {
+    "where": "historia-animalium-en / footnotes stripped",
+    "note": "0 inline <ref>...</ref> footnote marker(s) were removed from the reading text across the whole work; the footnotes are translator/editorial apparatus, not Aristotle's text, and their content is not preserved anywhere in this build."
+  },
+  {
+    "where": "historia-animalium-en / book-8",
+    "note": "21 of the 30 chapters of the standard division are present in this source (highest number present: 21). The remainder is not transcribed on English Wikisource and is not fabricated here."
+  },
+  {
+    "where": "historia-animalium-en / book-9",
+    "note": "39 of the 50 chapters of the standard division are present in this source (highest number present: 39). The remainder is not transcribed on English Wikisource and is not fabricated here."
+  },
+  {
+    "where": "historia-animalium-en / book-10 (absent)",
+    "note": "NO BOOK X IS SHIPPED, and none is fabricated. The Greek tradition transmits a tenth book of the Historia animalium, but it is widely judged spurious and Thompson did not translate it. Verified directly: a batched MediaWiki existence query for \"History of Animals (Thompson)/Book X\" returns `missing` — the page does not exist at all, not even as an untranscribed red-link stub — and the work's own Wikisource contents page lists Books I-IX only. This is a property of the translation, not a gap in this import. (MIT's own Internet Classics Archive index page, history_anim.html, likewise lists only Books I-IX for this translation.)"
+  },
+  {
+    "where": "historia-animalium-en / completeness",
+    "note": "COMPLETE (as of the 2026-09-22 MIT supplement). Books I-VII were always complete against the standard division (17, 17, 22, 11, 34, 37, 12 chapters = 150). Books VIII and IX originally stopped short on Wikisource (mid-sentence, mid-word in Book VIII) at 21/30 and 39/50 chapters; each has now been completed from a Wayback Machine capture of the MIT Internet Classics Archive's own copy of this same Thompson translation, whose live page has the identical defect (see the two book-N:M tail anomalies and the \"whole chapter\" anomalies below for the full, per-chapter account). Total: 230 chapters across 9 books (Books I-VII 150 + Book VIII 30 + Book IX 50), all of it Thompson's translation verbatim, part MIT-sourced (19 of the 230 chapters: the tails of VIII.21/IX.39 and the whole of VIII.22-30, IX.40-50) and the rest Wikisource-sourced."
+  },
+  {
+    "where": "historia-animalium-en / chapter marker shapes",
+    "note": "The nine Wikisource source pages do NOT mark chapters the same way: Books I, III, V and VI use \"==Part N==\" wiki headings, Books II, IV, VII, VIII and IX use a bare \"Part N\" text line with no wiki markup. Both were handled; a headings-only parser would have returned zero chapters for five of the nine books. The bare-line rule requires an exact \"Part N\" match, so ordinary short sentences in the text (e.g. Book IV's \"So much for molluscs.\") are not mistaken for markers. MIT's own pages for Books VIII-IX use a `<B>Part N</B>` HTML heading instead, likewise verified directly and handled by a separate mechanical parser (see scripts/import-aristotle-mit-supplement-shared/apply.ts and the generation of raw/supplement-ha-*.txt)."
+  },
+  {
+    "where": "historia-animalium-en / reference scheme",
+    "note": "Division.ref and Passage.ref are null throughout: neither Wikisource's plaintext digitisation nor MIT's Internet Classics Archive prints Bekker page/column markers anywhere in this work (confirmed across all nine Wikisource pages and both MIT supplement pages). No Bekker reference was reconstructed, because any such citation would be invented rather than read from either source."
+  },
+  {
+    "where": "historia-animalium-en / relation to the Greek sibling",
+    "note": "This English edition was parsed entirely independently of any Greek edition of the Historia animalium; the two are not forced to agree on chapter or book boundaries, and no division here was adjusted to match a Greek text — which matters especially for this work, whose Greek tradition has a tenth book that this translation does not."
+  },
+  {
+    "where": "historia-animalium-en / MIT supplement source verification",
+    "note": "MIT's Internet Classics Archive credits this translation \"Translated by D'Arcy Wentworth Thompson\" on both fetched book pages (verified by direct inspection of raw/mit/history_anim.{8.viii,9.ix}.wayback-20000818.html), matching the Wikisource-credited translator exactly. MIT's own live pages for Books VIII-IX are each themselves truncated at the identical word Wikisource stops at (same underlying page, copied before it broke); the complete text used to supplement them comes from the Wayback Machine's earliest capture on file for each (2000-08-18), which carries both `<A NAME=\"start\">`/`<A NAME=\"end\">` markers and the ordinary closing navigation footer MIT's live copies currently lack."
+  },
+  {
+    "where": "historia-animalium-en / book-8-ch-22",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book VIII never carried Chapter 22 at all (its page stops earlier in this same book, at chapter 21 — see the book-8:21 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.8.viii.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-8-ch-23",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book VIII never carried Chapter 23 at all (its page stops earlier in this same book, at chapter 21 — see the book-8:21 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.8.viii.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-8-ch-24",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book VIII never carried Chapter 24 at all (its page stops earlier in this same book, at chapter 21 — see the book-8:21 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.8.viii.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-8-ch-25",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book VIII never carried Chapter 25 at all (its page stops earlier in this same book, at chapter 21 — see the book-8:21 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.8.viii.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-8-ch-26",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book VIII never carried Chapter 26 at all (its page stops earlier in this same book, at chapter 21 — see the book-8:21 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.8.viii.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-8-ch-27",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book VIII never carried Chapter 27 at all (its page stops earlier in this same book, at chapter 21 — see the book-8:21 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.8.viii.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-8-ch-28",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book VIII never carried Chapter 28 at all (its page stops earlier in this same book, at chapter 21 — see the book-8:21 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.8.viii.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-8-ch-29",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book VIII never carried Chapter 29 at all (its page stops earlier in this same book, at chapter 21 — see the book-8:21 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.8.viii.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-8-ch-30",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book VIII never carried Chapter 30 at all (its page stops earlier in this same book, at chapter 21 — see the book-8:21 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.8.viii.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-40",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 40 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-41",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 41 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-42",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 42 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-43",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 43 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-44",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 44 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-45",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 45 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-46",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 46 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-47",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 47 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-48",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 48 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-49",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 49 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  },
+  {
+    "where": "historia-animalium-en / book-9-ch-50",
+    "note": "SUPPLEMENTED: Wikisource's transcription of Book IX never carried Chapter 50 at all (its page stops earlier in this same book, at chapter 39 — see the book-9:39 tail anomaly above). This whole chapter is supplied verbatim from a complete Wayback Machine capture (2000-08-18) of MIT's own page for this book (raw/mit/history_anim.9.ix.wayback-20000818.html), which carries the on-page credit \"Translated by D'Arcy Wentworth Thompson\" matching Wikisource's own translator, mechanically extracted from its HTML (never hand-retyped or paraphrased)."
+  }
+]

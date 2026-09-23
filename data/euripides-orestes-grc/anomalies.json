@@ -1,0 +1,202 @@
+[
+  {
+    "where": "euripides-orestes-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-orestes-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-orestes-grc / card-1 / sp[Ἠλέκτρα]/l[n=33]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Πυλάδης θʼ, ὃς ἡμῖν συγκατείργασται τάδε.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-34 / sp[Ἠλέκτρα]/l[n=34]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"νοσεῖ\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-34 / sp[Ἠλέκτρα]/l[n=51]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ φάσγανον θήξαντʼ ἐπʼ αὐχένος βαλεῖν.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-71 / sp[Ἠλέκτρα]/l[n=82]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐν συμφοραῖσι τὸν Ἀγαμέμνονος δόμον\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-71 / sp[Ἠλέκτρα]/l[n=87]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἥκετον ἐφʼ ἡμᾶς ἀθλίως πεπραγότας\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-110 / sp[Ἑλένη]/l[n=111]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ πέμψομέν γε θυγατέρʼ· εὖ γάρ τοι λέγεις.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-110 / sp[Ἠλέκτρα]/l[n=136]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὦ φίλταται γυναῖκες, ἡσύχῳ ποδὶ\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-110 / sp[Ἠλέκτρα]/l[n=137]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"χωρεῖτε, μὴ ψοφεῖτε, μηδʼ ἔστω κτύπος.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-110 / sp[Ἠλέκτρα]/l[n=138]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"φιλία γὰρ ἡ σὴ πρευμενὴς μέν, ἀλλʼ ἐμοὶ\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-110 / sp[Ἠλέκτρα]/l[n=139]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τόνδʼ ἐξεγεῖραι συμφορὰ γενήσεται.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-187 / sp[Ἠλέκτρα]/l[n=188]",
+    "note": "<add> included in reading text: \"θανεῖν\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-187 / sp[Ἠλέκτρα]/l[n=206]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐπὶ δʼ\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-385 / sp[Ὀρέστης]/l[n=424]",
+    "note": "<add> included in reading text: \"ἔφυν φίλος.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-470 / sp[Τυνδάρεως]/l[n=497]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πληγεὶς θυγατρὸς τῆς ἐμῆς ὑπὲρ κάρα\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-507 / sp[Τυνδάρεως]/l[n=530]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-682 / sp[Μενέλαος]/l[n=695]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πόνοισιν; ἀμαθὲς καὶ τὸ βούλεσθαι τάδε.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-682 / sp[Μενέλαος]/l[n=716]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δούλοισιν εἶναι τοῖς σοφοῖσι τῆς τύχης\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-763 / sp[Ὀρέστης]/l[n=784]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-orestes-grc / card-898 / sp[Ἄγγελος]/l[n=907]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὅταν γὰρ ἡδύς τις λόγοις φρονῶν κακῶς\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-898 / sp[Ἄγγελος]/l[n=908]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πείθῃ τὸ πλῆθος, τῇ πόλει κακὸν μέγα·\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-898 / sp[Ἄγγελος]/l[n=909]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὅσοι δὲ σὺν νῷ χρηστὰ βουλεύουσʼ ἀεί,\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-898 / sp[Ἄγγελος]/l[n=910]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κἂν μὴ παραυτίκʼ, αὖθίς εἰσι χρήσιμοι\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-898 / sp[Ἄγγελος]/l[n=911]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πόλει. θεᾶσθαι δʼ ὧδε χρὴ τὸν προστάτην\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-898 / sp[Ἄγγελος]/l[n=912]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἰδόνθʼ· ὅμοιον γὰρ τὸ χρῆμα γίγνεται\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-898 / sp[Ἄγγελος]/l[n=913]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τῷ τοὺς λόγους λέγοντι καὶ τιμωμένῳ.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-931 / sp[Ἄγγελος]/l[n=933]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πάλαι Πελασγοί, Δαναΐδαι δεύτερον,\""
+  },
+  {
+    "where": "euripides-orestes-grc / speaker",
+    "note": "<delSpan spanTo=\"#a001\"/> marker present (source-editor athetesis/interpolation bracketing a suspect multi-line span, often crossing <l>/<sp> boundaries). Judgment call: treated as transparent bookkeeping only - the text it brackets is NOT excluded from the reading text, since both Perseus's own edition and translation still print/display it as running text and it carries the play's standard line citation; excluding it would silently truncate the play. The marker itself contributes no text."
+  },
+  {
+    "where": "euripides-orestes-grc / card-931 / sp[Χορός]/l[n=959]",
+    "note": "<anchor xml:id=\"a001\"/> marker present (source-editor athetesis/interpolation bracketing a suspect multi-line span, often crossing <l>/<sp> boundaries). Judgment call: treated as transparent bookkeeping only - the text it brackets is NOT excluded from the reading text, since both Perseus's own edition and translation still print/display it as running text and it carries the play's standard line citation; excluding it would silently truncate the play. The marker itself contributes no text."
+  },
+  {
+    "where": "euripides-orestes-grc / card-982 / sp[Ἠλέκτρα]/l[n=983]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-982 / sp[Ἠλέκτρα]/l[n=1007]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-orestes-grc / card-1013 / sp[Χορός]/l[n=1016]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Ὀρέστου\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1018 / sp[Ὀρέστης]/l[n=1024]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"φέρειν σʼ ἀνάγκη τὰς παρεστώσας τύχας\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1018 / sp[Ὀρέστης]/l[n=1051]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"προσφθέγματʼ ἀμφοῖν τοῖς ταλαιπώροις πάρα\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1069 / sp[Πυλάδης]/l[n=1092]",
+    "note": "<add> included in reading text: \"γε\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1204 / sp[Ὀρέστης]/l[n=1224]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Πυλάδη· σὺ γὰρ δὴ συμπονεῖς ἐμοὶ πόνους.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1204 / sp[Πυλάδης]/l[n=1236]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἐπεβούλευσα\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1266 / sp[Ἡμίχορος Α]/l[n=1268]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"προσέρχεται\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1366 / sp[Χορός]/l[n=1366]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀλλὰ κτυπεῖ γὰρ κλῇθρα βασιλείων δόμων,\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1366 / sp[Χορός]/l[n=1367]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σιγήσατʼ· ἔξω γάρ τις ἐκβαίνει Φρυγῶν,\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1366 / sp[Χορός]/l[n=1368]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὗ πευσόμεσθα τἀν δόμοις ὅπως ἔχει.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1366 / sp[Φρύξ]/l[n=1384]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἁρμάτειον ἁρμάτειον μέλος\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1393 / sp[Χορός]/l[n=1394]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὰ γὰρ πρὶν οὐκ εὔγνωστα συμβαλοῦσʼ ἔχω.\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1425 / sp[Φρύξ]/l[n=1450]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἄλλον ἄλ-\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1425 / sp[Φρύξ]/l[n=1451]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"λοσε\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1537 / sp[Χορός]/l[n=1546]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"διʼ ἀλαστόρων\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1537 / sp[Χορός]/l[n=1547]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἔπεσʼ ἔπεσε μέλαθρα τάδε διʼ αἱμάτων\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1625 / sp[Ἀπόλλων]/l[n=1631]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἥδʼ ἐστίν, ἣν ὁρᾶτʼ ἐν αἰθέρος πτυχαῖς,\""
+  },
+  {
+    "where": "euripides-orestes-grc / card-1625 / sp[Ἀπόλλων]/l[n=1632]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σεσῳσμένη τε κοὐ θανοῦσα πρὸς σέθεν.\""
+  }
+]

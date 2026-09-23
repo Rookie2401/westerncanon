@@ -1,0 +1,47 @@
+{
+  "workId": "plato-menexenus-en",
+  "title": "Menexenus",
+  "author": "Plato",
+  "language": "en",
+  "edition": "R.G. Bury, 1929 (Loeb Classical Library)",
+  "translator": "R.G. Bury",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0059.tlg028.perseus-eng2); imported by scripts/import-plato-menexenus-en.",
+  "license": "Public domain (Burnet 1900s OCT text; 1929 Loeb translation, 95+ years old). Digital transcription CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).",
+  "sections": [
+    {
+      "heading": "Plato's Menexenus, in English",
+      "paragraphs": [
+        "This is R.G. Bury's English translation of Plato's Menexenus (Greek Μενέξενος), covering Stephanus pages 234–249 — the same citation scheme as this app's companion Greek edition of the same dialogue, so the two line up page for page and can be read side by side.",
+        "The text here is the translation, verbatim. Nothing is re-translated, modernised, or silently corrected."
+      ]
+    },
+    {
+      "heading": "The translation",
+      "paragraphs": [
+        "R.G. Bury, in Plato in Twelve Volumes, vol. 9 (Cambridge, MA: Harvard University Press / London: William Heinemann Ltd., 1929) — the Loeb Classical Library edition.",
+        "The translation is made from Burnet's OCT Greek text (see this app's companion Greek edition of the same dialogue), the standard scholarly Greek Plato. Public-domain scan: https://archive.org/details/b2900049x_0009."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0059.tlg028.perseus-eng2 from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit GitHub repository (CTS urn:cts:greekLit:tlg0059.tlg028.perseus-eng2). It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The source divides the dialogue into one level of Stephanus-page divisions only (no Book division, unlike this app’s Republic/Laws imports) — each numbered exactly as the traditional printed citation gives it. Within a page, one or more paragraphs are each a single speaker’s turn; every paragraph is kept as its own paragraph (never merged with a neighbouring turn), joined by a blank line, and — where the source prints one — starts with the speaker’s printed abbreviation exactly as typeset (e.g. \"ΣΩ.\" / \"Soc.\") rather than repeating it on every paragraph of a longer speech, matching the print.",
+        "Finer Stephanus sub-page lettering (172a, 172b, 172c…) is stripped from the reading text — it is not a Division boundary in this app’s scheme, only the page level is. Quotation, citation and cross-reference markup used inline in the running text (quoted verse, citations like \"Hom. Il. 19.92\", technical/foreign-word glosses) is unwrapped to plain text and kept; nothing of this is commentary. Where the source itself prints no literal quotation-mark character around reported speech, none is added here — only what the source actually contains."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 16 Stephanus pages (234–249) are present, verified against an independently-checked page count for this dialogue and confirmed strictly monotonic (no gap, no duplicate) in the source markup itself.",
+        "This witness carries no <del>/<add>/<gap>/<corr>/<sic> editorial-apparatus markup at all in the source transcription.",
+        "Reference scheme: every passage and division ref is null. The Stephanus page number IS the citation (e.g. \"Menexenus 234\"); this source’s finer a/b/c/d sub-page lettering is stripped as transport scaffolding (see “How it was imported” above), not tracked as a separate ref field."
+      ]
+    }
+  ]
+}

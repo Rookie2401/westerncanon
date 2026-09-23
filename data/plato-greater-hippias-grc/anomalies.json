@@ -1,0 +1,26 @@
+[
+  {
+    "where": "sec-283",
+    "note": "<del> excluded from the reading text: \"περὶ Ἀναξαγόρου λέγεται\""
+  },
+  {
+    "where": "sec-291",
+    "note": "<del> excluded from the reading text: \"ᾗ\""
+  },
+  {
+    "where": "sec-294",
+    "note": "<del> excluded from the reading text: \"πότερα\""
+  },
+  {
+    "where": "sec-294",
+    "note": "<del> excluded from the reading text: \"ποιεῖν\""
+  },
+  {
+    "where": "plato-greater-hippias-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-greater-hippias-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "where": "euripides-trojan-women-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-1 / sp[Ποσειδῶν]/l[n=13]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὅθεν πρὸς ἀνδρῶν ὑστέρων κεκλήσεται\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-1 / sp[Ποσειδῶν]/l[n=14]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Δούρειος Ἵππος, κρυπτὸν ἀμπισχὼν δόρυ.\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-98 / sp[Ἑκάβη]/l[n=111]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τί δὲ θρηνῆσαι;\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-122 / sp[Ἑκάβη]/l[n=144a]",
+    "note": "<add> included in reading text: \"κοῦραι\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-153 / sp[Ἑκάβη]/l[n=159]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-153 / sp[Ἡμιχόριον Α]/l[n=166]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κομίζεσθʼ\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-197 / sp[Χορός]/l[n=202]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-197 / sp[Χορός]/l[n=203]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-214 / sp[Χορός]/l[n=225]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Ἰονίῳ ναύται πόντῳ,\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-239 / sp[Ἑκάβη]/l[n=239]",
+    "note": "<add> included in reading text: \"αἰαῖ,\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-278 / sp[Ἑκάβη]/l[n=285]",
+    "note": "<add> included in reading text: \"ε στρέφει, τὰ δʼ\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-278 / sp[Ἑκάβη]/l[n=289]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οἴχομαι\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-341 / sp[Ἑκάβη]/l[n=346]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-341 / sp[Ἑκάβη]/l[n=350]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἐσωφρονήκασʼ\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-341 / sp[Κασάνδρα]/l[n=360]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-424 / sp[Κασάνδρα]/l[n=430]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-424 / sp[Κασάνδρα]/l[n=434a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-462 / sp[Ἑκάβη]/l[n=469]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-531 / sp[Χορός]/l[n=550]",
+    "note": "<add> included in reading text: \"ἄκος\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-595 / sp[Ἀνδρομάχη]/l[n=595]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-595 / sp[Ἀνδρομάχη]/l[n=596]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-601 / sp[Ἑκάβη]/l[n=601]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-601 / sp[Ἑκάβη]/l[n=604a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-601 / sp[Ἑκάβη]/l[n=607]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀδάκρυτος\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-634 / sp[Ἀνδρομάχη]/l[n=634]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ὦ τεκοῦσα\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-634 / sp[Ἀνδρομάχη]/l[n=638]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τῶν κακῶν ᾐσθημένος·\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-709 / sp[Ταλθύβιος]/l[n=711]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-709 / sp[Ταλθύβιος]/l[n=713]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-709 / sp[Ταλθύβιος]/l[n=721]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-709 / sp[Ταλθύβιος]/l[n=723]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-740 / sp[Ἀνδρομάχη]/l[n=774]",
+    "note": "<add> included in reading text: \"ἀλλʼ\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-799 / sp[Χορός]/l[n=803]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-799 / sp[Χορός]/l[n=807]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὅτʼ ἔβας ἀφʼ Ἑλλάδος\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-809 / sp[Χορός]/l[n=815]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-809 / sp[Χορός]/l[n=818]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"περὶ\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-809 / sp[Χορός]/l[n=819]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"φοινία\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-809 / sp[Χορός]/l[n=819]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"αἰχμά.\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-860 / sp[Μενέλαος]/l[n=862]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Ἑλένην· ὁ γὰρ δὴ πολλὰ μοχθήσας ἐγὼ\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-860 / sp[Μενέλαος]/l[n=863]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Μενέλαός εἰμι καὶ στράτευμʼ Ἀχαιϊκόν.\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-945 / sp[Ἑλένη]/l[n=959]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"βίᾳ δʼ ὁ καινός μʼ οὗτος ἁρπάσας πόσις\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-945 / sp[Ἑλένη]/l[n=960]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Δηίφοβος ἄλοχον εἶχεν ἀκόντων Φρυγῶν.\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-945 / sp[Ἑλένη]/l[n=961a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-987 / sp[Ἑκάβη]/l[n=998]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-1226 / sp[Χορός]/l[n=1226]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-1226 / sp[Ἑκάβη]/l[n=1230b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μοι\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-1235 / sp[Ἑκάβη]/l[n=1238]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-1302 / sp[Ἑκάβη]/l[n=1310]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-1317 / sp[Χορός]/l[n=1325b]",
+    "note": "<add> included in reading text: \"γε\""
+  },
+  {
+    "where": "euripides-trojan-women-grc / card-1317 / sp[Ἑκάβη]/l[n=1326]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  }
+]

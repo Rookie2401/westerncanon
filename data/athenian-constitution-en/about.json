@@ -1,0 +1,32 @@
+{
+  "workId": "athenian-constitution-en",
+  "title": "The Athenian Constitution",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "Sir Frederic G. Kenyon",
+  "edition": "The Athenian Constitution (Oxford, 1920 revision of Kenyon's 1891 editio princeps translation)",
+  "provenance": "Text: Project Gutenberg ebook #26095 (www.gutenberg.org/ebooks/26095), fetched directly and cached at scripts/import-athenian-constitution-en/raw/pg26095.txt. Sir Frederic G. Kenyon's translation - Kenyon was the first editor of the papyrus (discovered 1890, first published by him in 1891) and revised his own translation for this 1920 Oxford printing; Kenyon died in 1952.",
+  "license": "Kenyon's translation is in the public domain (this printing dates from 1920; Kenyon died in 1952, over 70 years ago). The Project Gutenberg transcription of it is also in the public domain in the United States; see gutenberg.org/ebooks/26095 for Project Gutenberg's own terms on redistributing their specific eBook file, which this importer respects by keeping the text itself rather than Gutenberg's licence header/footer.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is Sir Frederic G. Kenyon's English translation of Aristotle's Athenian Constitution, via Project Gutenberg ebook #26095 (Oxford, 1920 revision).",
+        "Navigation is by chapter only (69 chapters, flat - this work has no Book-level grouping). Kenyon's own heading for each division in this translation is \"Part N\"; this library's single-book-work convention maps that directly to ch-N.",
+        "The work survives only on a papyrus roll discovered in Egypt in 1890 (first identified and published by Kenyon himself in 1891) - its own beginning is lost, so even the best translation necessarily opens mid-sentence; this is a fact about every surviving witness to the work, not a gap introduced by this import."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "This work carries no Bekker-style page apparatus at all (it was recovered decades after Bekker's edition of Aristotle's other works was compiled, so it was never assigned Bekker pagination), so Division.ref is null throughout and navigation is by chapter number only."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the complete machine-readable log: the papyrus's own fragmentary opening (preserved verbatim, including Kenyon's own editorial bracketed supplement), one genuine Project Gutenberg transcriber's note preserved verbatim in Part 8 rather than silently stripped, the absent Bekker reference scheme, and this printing's minimal front/back matter."
+      ]
+    }
+  ]
+}

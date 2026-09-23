@@ -1,0 +1,65 @@
+{
+  "workId": "de-generatione-et-corruptione-en",
+  "title": "On Generation and Corruption",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "H. H. Joachim",
+  "edition": "The Works of Aristotle, Vol. II (Oxford: Clarendon Press, 1922), ed. W. D. Ross",
+  "provenance": "The MIT Internet Classics Archive (classics.mit.edu/Aristotle/gener_corr.html), fetched once (table-of-contents page plus both book sub-pages) and committed to this repository under scripts/import-de-generatione-et-corruptione-en/raw/; imported by scripts/import-de-generatione-et-corruptione-en.",
+  "license": "Joachim's 1922 translation is in the public domain (published well over 95 years ago; first published 1922, translator died 1938). The MIT Internet Classics Archive's own HTML presentation is copyright (C) 1994-2009 Daniel C. Stevenson / Web Atomics per its site footer; only the public-domain translated text itself (not MIT's page design, navigation or any other site furniture) is reproduced here, consistent with the Archive's own stated permissions practice for this kind of non-commercial reuse of a public-domain text (see classics.mit.edu/Help/permissions.html).",
+  "sections": [
+    {
+      "heading": "Aristotle's On Generation and Corruption — English, trans. Joachim",
+      "paragraphs": [
+        "This is Aristotle's On Generation and Corruption (De Generatione et Corruptione) in the English translation made by H. H. Joachim for the Oxford \"Works of Aristotle\" series (Vol. II, ed. W. D. Ross), first published 1922. Book II is reproduced from the MIT Internet Classics Archive; Book I is reproduced from MIT as far as MIT's own source goes and completed from a public-domain archive.org scan of the same translation - see \"Text completeness\" below.",
+        "The text here is the translation, verbatim throughout, whichever of the two sources a given word comes from. Nothing is modernised, paraphrased or silently corrected in either source."
+      ]
+    },
+    {
+      "heading": "Translator verification",
+      "paragraphs": [
+        "Condition (a) of this import's verification requirement is met directly for the MIT text: both fetched MIT book pages carry the explicit on-page credit line \"Translated by H. H. Joachim\" (confirmed by direct inspection of the raw HTML, e.g. scripts/import-de-generatione-et-corruptione-en/raw/gener_corr.1.i.html). For the archive.org supplement (Book I Chapter 8's tail, and the whole of Chapters 9-10), condition (a) is met by an exact, word-for-word match against MIT's own surviving text at the overlap point (\"Such an assertion would commit him to doctrines like those which Plato has set forth in the Timaeus.\") - see \"Text completeness\" below for the full verification account, including a source that was checked and rejected as the wrong book."
+      ]
+    },
+    {
+      "heading": "Text completeness",
+      "paragraphs": [
+        "MIT's own live HTML page for Book I (gener_corr.1.i.html) ends mid-sentence, mid-word, part-way through Part 8: \"...Such an assertion would commit him to doctrines like those which Plato has set forth in the Ti\" - the response simply stops there, with no closing navigation footer at all, and MIT's page never carried Chapters 9 or 10 at all (Joachim's Book I in fact has 10 chapters, not 8). This was confirmed genuine on MIT's side (not a download error) via a direct HTTP fetch, whose received byte count exactly matches the server's own declared Content-Length header, and independently re-confirmed via a second, unrelated fetch path that reported the identical cutoff point.",
+        "This edition is nonetheless complete: the rest of Chapter 8 (from \"Timaeus.\" onward) and the whole of Chapters 9 and 10 are supplied from a public-domain archive.org scan of the very same Joachim translation (identifier worksofaristotle0002unse_a5k0, \"The Works of Aristotle Translated into English\", ed. W. D. Ross, Vol. II, Oxford: Clarendon Press, 1930). A different archive.org identifier that nominally looked like \"the 1922 Joachim edition\" (oncomingtobepass00arisuoft) was checked first and rejected, because direct inspection showed it to be a different book - Joachim's own separate Greek critical text with English introduction and commentary, which never prints a continuous English translation at all. Every page of the scan actually used, that contributes text (printed pp. 325b-328b), was proof-read by eye against its own archive.org page image before transcription, correcting several OCR errors along the way (see this importer's module doc for the list).",
+        "Nothing is fabricated, summarised, or paraphrased in either source. Book I Chapter 8's Passage carries an `anomaly` field disclosing exactly where MIT's text ends and the archive.org text begins; Chapters 9 and 10's Passages carry an `anomaly` field disclosing that they come from archive.org entirely, since MIT never had them. See anomalies.json for the full account, including the exact last surviving MIT words and a note on the small \"k\" vs \"c\" transliteration-spelling difference between the two sources (e.g. Empedokles vs Empedocles) which is preserved exactly as each source prints it rather than normalised. Book II is complete from MIT alone, with no supplementing needed."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The work is divided into 2 Books and, within each Book, numbered chapters (MIT labels them \"Part N\"; rendered here as \"Chapter N\" per this library's standing terminology for Aristotle) - Book I has 10 chapters, Book II has 11, matching Joachim's own numbering and the traditional Bekker book division."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is (i) the raw HTML of classics.mit.edu/Aristotle/gener_corr.html (table of contents) and its 2 linked book sub-pages (gener_corr.1.i.html, gener_corr.2.ii.html), fetched once via a direct HTTPS request and committed under scripts/import-de-generatione-et-corruptione-en/raw/, and (ii) for the small part of Book I that MIT's own source lacks, three hand-transcribed plain-text files (scripts/import-de-generatione-et-corruptione-en/raw/supplement-gc-1-8-tail.txt, supplement-gc-1-9.txt, supplement-gc-1-10.txt) taken from the archive.org scan described under \"Text completeness\" above, each carrying its own provenance header. Nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer locates each MIT book page's real content between its own `<A NAME=\"start\"></A>` and (where present) `<A NAME=\"end\"></A>` markers, splits it into chapters at each `<B>Part N</B>` heading, and splits each chapter into paragraphs at every `<BR><BR>` line-break pair. Only HTML transport scaffolding is removed: the invisible `<A NAME=\"n\">` deep-link anchors (no reference scheme - see below) and the paragraph/line-break markup itself; the words are otherwise untouched. Where Book I's MIT page genuinely runs out mid-tag, the importer strips only the dangling unterminated tag fragment, not any actual text. No entities or footnotes were found anywhere in the MIT source. The three archive.org supplement files are then read, their own `#`-prefixed provenance header stripped, and merged in: the Chapter 8 supplement's opening word-fragment is joined directly onto MIT's own cut-off last word with no space and no invented punctuation, and Chapters 9-10 are appended as whole new chapters in the same shape as MIT's own."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter only. Neither MIT's Internet Classics Archive nor the archive.org supplement text (as transcribed here) carries Bekker page/column/line markers in-line with the prose - Division.ref is null throughout, for both Books and Chapters, and Passage.ref is null throughout as well. This is a genuine limitation of this specific digital presentation, not something this importer fabricates around."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "This edition is complete (Book I: 10/10 chapters; Book II: 11/11) - see \"Text completeness\" above for the full account of how Book I's Chapter 8 tail and Chapters 9-10 were supplemented from archive.org, and anomalies.json for the complete machine-readable log.",
+        "No Bekker apparatus. See \"Reference scheme\" above.",
+        "No footnotes in the MIT-sourced text. The archive.org scan does carry the translator's own footnotes on the pages used, but only the running prose translation was transcribed into the supplement files - footnotes are dropped for consistency with the rest of this corpus (Passage.text is plain prose throughout, with no footnote field)."
+      ]
+    }
+  ]
+}

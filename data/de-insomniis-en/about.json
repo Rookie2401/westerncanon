@@ -1,0 +1,59 @@
+{
+  "workId": "de-insomniis-en",
+  "title": "On Dreams",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "John Isaac Beare",
+  "editor": "John Alexander Smith and William David Ross",
+  "edition": "The Works of Aristotle Translated into English, Volume III: Parva Naturalia (Oxford: Clarendon Press, 1908)",
+  "provenance": "English Wikisource, page \"On Dreams (Aristotle)\", fetched once via the MediaWiki action=query&prop=revisions&rvslots=main&rvprop=content API and cached under scripts/import-de-insomniis-en/raw/. NOTE the disambiguated title: the undisambiguated Wikisource page \"On Dreams\" is a DIFFERENT WORK ENTIRELY — Sir Thomas Browne's essay of that name, from Simon Wilkin's 1835-36 edition of Browne — and is not used here. This page is ORDINARY WIKITEXT rather than a djvu page-scan transclusion, so the wikitext itself is the text; imported by scripts/import-de-insomniis-en.",
+  "license": "Beare's 1908 translation is in the public domain (published before 1929). The digital transcription is distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Aristotle's On Dreams in J. I. Beare's English translation, made for the Oxford Works of Aristotle Translated into English and published in 1908 as part of that series' volume III, the Parva Naturalia. Its three chapters argue that dreaming belongs to the faculty of sense rather than to opinion or intelligence, and explain dreams as the persistence of sense-impressions stirred by residual movements in the blood once the senses are at rest.",
+        "The text here is the translation, verbatim. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "A note on the title",
+      "paragraphs": [
+        "English Wikisource has two quite different works called \"On Dreams\". The undisambiguated one is Sir Thomas Browne's essay of that name, printed from Simon Wilkin's 1835-36 edition of Browne — seventeenth-century English, and not Aristotle at all. Aristotle's treatise sits at the disambiguated title \"On Dreams (Aristotle)\", and that is the only page this edition draws on.",
+        "The distinction was caught by fetching and reading the page rather than trusting its title. Nothing by Browne appears anywhere in this edition."
+      ]
+    },
+    {
+      "heading": "Completeness",
+      "paragraphs": [
+        "This edition is complete: all three chapters of the standard division, with no gaps and no truncation."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the raw wikitext of the English Wikisource page \"On Dreams (Aristotle)\", fetched once and committed under the importer's raw/ directory. This batch's brief expected djvu page-scan transclusions (for which only the rendered HTML carries any text); direct inspection found ordinary wikitext instead, so the simpler wikitext route was used and the difference is disclosed here rather than described as a page-scan provenance it does not have. The text is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The page opens with a `{{header}}` template (title, translator, navigation) which is transport furniture and is dropped, and ends with interwiki links and a licence template that are likewise skipped and counted. Chapters are marked by a bare \"Part N\" text line carrying no wiki markup at all — a shape a headings-driven parser would read as zero chapters — and the `{{dhr}}` spacing templates and the closing \"THE END\" mark are furniture and are dropped. Every paragraph under a chapter marker, in document order, becomes part of that chapter's single Passage, joined by blank lines.",
+        "The importer refuses to ship a division it has not been told to expect: the exact chapter numbers are declared in advance, and a mismatch stops the run rather than silently producing a different text. An unrecognised wiki template also stops the run rather than being guessed at as either furniture or reading text."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by chapter only. This digitisation prints no Bekker page/column markers anywhere, so every Division.ref and every Passage.ref is null. No Bekker reference has been reconstructed or estimated, because doing so would mean inventing a citation the source does not support."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "There are no gaps in the text. anomalies.json records the mechanical departures, the rejected Thomas Browne page, the bare-line chapter markers, the furniture dropped, the null reference scheme, and the plaintext-rather-than-page-scan provenance.",
+        "A word on trust: this is a plaintext digitisation rather than a page-by-page proofread against a scan, so isolated transcription slips are possible despite this importer's care. That is a disclosed limitation of the source, not something quietly corrected here."
+      ]
+    }
+  ]
+}

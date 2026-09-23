@@ -1,0 +1,53 @@
+{
+  "workId": "rhetoric-en",
+  "title": "The \"Art\" of Rhetoric",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "John Henry Freese",
+  "edition": "Loeb Classical Library, 1926 printing (1947 reprint)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0086.tlg038.perseus-eng2), which digitises John Henry Freese’s translation \"The ‘Art’ of Rhetoric\" (London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1926 Loeb Classical Library printing, reprinted 1947); per this work’s own __cts__.xml (<ti:translation urn=\"urn:cts:greekLit:tlg0086.tlg038.perseus-eng2\">: \"Aristotle. The ‘Art’ of Rhetoric. Freese, John Henry, translator. London: William Heinemann, Ltd.; Cambridge, MA, Harvard University Press, 1926 (printing).\"); imported by scripts/import-rhetoric-en.",
+  "license": "Freese’s translation was first published in 1926 (Loeb Classical Library), well before 1931, so it is in the public domain in the United States. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Aristotle’s Rhetoric — English, trans. Freese",
+      "paragraphs": [
+        "This is Aristotle’s Rhetoric in the English translation made by John Henry Freese for the Loeb Classical Library, first published in 1926 (reprinted 1947). It stands alongside the Greek text already in this library (when present) as a facing English rendering of the same three-book treatise.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected. Freese’s own footnotes (translator’s commentary and source citations, not part of the translated running text) are excluded - see \"How it was imported\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "John Henry Freese, trans., \"The ‘Art’ of Rhetoric\", Loeb Classical Library (London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1926; reprinted 1947). This translation is in the public domain.",
+        "The work is divided into 3 Books and, within each Book, numbered chapters (15 in Book I, 26 in Book II, 19 in Book III - 60 in total, matching the traditionally cited counts exactly). This source prints Bekker page/line milestones inline throughout, so citation here is by Bekker page range as well as by chapter; see \"Reference scheme\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0086.tlg038.perseus-eng2.xml (CTS urn:cts:greekLit:tlg0086.tlg038.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once (together with this work’s __cts__.xml metadata record) and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and chapter <div>s and collects every <p> paragraph found anywhere under each chapter div - including inside the extra Freese-sub-numbering \"section\" divs this source nests between chapter and paragraph (see the importer’s module doc) - in document order, into that chapter’s single Passage (joined with a blank line when a chapter has more than one paragraph). XML transport scaffolding only is removed: the inline Bekker <milestone> markers (their \"page\" values instead seed each chapter’s Division.ref) and purely typographic wrapper tags (<quote>/<lg>/<l> verse quotations, <foreign>, <q>, <title>, <emph>, <placeName>, <persName>, <surname>, <term>) are unwrapped, their text flowing into the surrounding prose. Entities are decoded and runs of whitespace collapsed; the words are otherwise untouched.",
+        "639 <note resp=\"Freese\"> footnotes - Freese’s own translator’s commentary, cross-references and citations (including 147 <bibl> elements) - are embedded as full inline content in this TEI (not merely a marker), so they are excluded from the reading text entirely, tag and content; they are apparatus, not Aristotle’s (translated) text, mirroring how this library already treats Rackham’s Loeb footnotes in the Nicomachean Ethics."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter, plus the Bekker page range each chapter covers (e.g. \"1354a–1355a\"), reconstructed from this source’s own inline Bekker page milestones. A chapter’s Division.ref is the first–last page value the source prints within that chapter, in document order. Passage.ref is null throughout: no Bekker marker is printed at the per-paragraph level, only per-page. Passage.n is also always empty: Freese’s own paragraph sub-numbering (the \"section\" divs, e.g. \"1.1.1\") is not preserved in this two-level schema - see \"How it was imported\"."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 3 Books and all 60 chapters are present and in order (15 + 26 + 19), matching the traditionally cited counts exactly. No paragraph is dropped, merged or reordered except for the rare paragraph that cleans to empty text; the bundled TEI file is identical to the current Perseus canonical-greekLit release.",
+        "Extra section level. Like the Nicomachean Ethics English witness, this source nests an extra <div subtype=\"section\"> level (Freese’s own paragraph sub-numbering) between chapter and paragraph - here explicitly labelled \"section\" rather than \"subsection\". It is read straight through - every paragraph under a chapter, at any section depth, becomes part of that chapter’s single Passage - since this app’s Book->Chapter schema has no field for a third tier here. A small minority of section divs (31 of 882) hold two <p> elements rather than one; both are kept.",
+        "Footnotes. 639 <note resp=\"Freese\"> footnotes (translator’s commentary, cross-references, citations, including 147 <bibl> elements) were excluded entirely; they are Freese’s apparatus, not his translated running text."
+      ]
+    }
+  ]
+}

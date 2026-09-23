@@ -1,0 +1,58 @@
+{
+  "workId": "de-incessu-animalium-en",
+  "title": "On the Gait of Animals",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "A. S. L. Farquharson",
+  "editor": "John Alexander Smith and William David Ross",
+  "edition": "The Works of Aristotle Translated into English, Volume V (Oxford: Clarendon Press, 1912)",
+  "provenance": "English Wikisource, page \"On the Progression of Animals\" (reached from the redirect \"On the Gait of Animals\"), fetched once via the MediaWiki action=query&prop=revisions&rvslots=main&rvprop=content API and cached under scripts/import-de-incessu-animalium-en/raw/. This page is ORDINARY WIKITEXT rather than a djvu page-scan transclusion, so the wikitext itself is the text; imported by scripts/import-de-incessu-animalium-en.",
+  "license": "Farquharson's 1912 translation is in the public domain (published before 1929). The digital transcription is distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Aristotle's On the Gait of Animals in A. S. L. Farquharson's English translation, made for the Oxford Works of Aristotle Translated into English and published in 1912 as part of that series' volume V. It asks why animals move as they do: why limbs come in even numbers, why the joints bend as they bend, why birds and fishes and crabs are built as they are, and why every animal has an above and below, a front and back, a right and left, with movement starting from the right.",
+        "The text here is the translation, verbatim. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "Completeness",
+      "paragraphs": [
+        "This edition is complete: all nineteen chapters of the standard division, with no gaps and no truncation. The page was checked for real transcribed content — not merely for the existence of a link — before anything was imported."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the raw wikitext of the English Wikisource page \"On the Progression of Animals\", fetched once and committed under the importer's raw/ directory. This batch's brief expected djvu page-scan transclusions (for which only the rendered HTML carries any text); direct inspection found ordinary wikitext instead, so the simpler wikitext route was used and the difference is disclosed here rather than described as a page-scan provenance it does not have. The text is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The page opens with a `{{header}}` template (title, translator, navigation) which is transport furniture and is dropped, and ends with interwiki links and a licence template that are likewise skipped and counted. Chapters are marked by `===Part N===` wiki headings. The centred title banner at the head of the page — built from nested sizing and small-caps templates — is page furniture rather than Aristotle's words, and is skipped and counted along with the closing licence templates and interwiki links. Every paragraph under a chapter marker, in document order, becomes part of that chapter's single Passage, joined by blank lines.",
+        "The importer refuses to ship a division it has not been told to expect: the exact chapter numbers are declared in advance, and a mismatch stops the run rather than silently producing a different text. An unrecognised wiki template also stops the run rather than being guessed at as either furniture or reading text."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by chapter only. This digitisation prints no Bekker page/column markers anywhere, so every Division.ref and every Passage.ref is null. That is a real difference from its companion edition of On the Motion of Animals, whose source does print them: the two pages were checked independently rather than assumed to behave alike. No Bekker reference has been reconstructed or estimated here, because doing so would mean inventing a citation the source does not support."
+      ]
+    },
+    {
+      "heading": "A note on the title",
+      "paragraphs": [
+        "On English Wikisource, \"On the Gait of Animals\" is a redirect; the page itself is titled \"On the Progression of Animals\". Both titles name the same treatise, usually cited by its Latin name De incessu animalium. The redirect was followed and confirmed rather than assumed."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "There are no gaps in the text. anomalies.json records the mechanical departures: the content verification and its result, the redirect followed, the title banner and other furniture skipped, the null reference scheme, and the plaintext-rather-than-page-scan provenance.",
+        "A word on trust: this is a plaintext digitisation rather than a page-by-page proofread against a scan, so isolated transcription slips are possible despite this importer's care. That is a disclosed limitation of the source, not something quietly corrected here."
+      ]
+    }
+  ]
+}

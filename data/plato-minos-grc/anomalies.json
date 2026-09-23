@@ -1,0 +1,30 @@
+[
+  {
+    "where": "sec-316",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ ἐν Πέρσαις\""
+  },
+  {
+    "where": "sec-319",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 19.179\""
+  },
+  {
+    "where": "sec-319",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 11.569\""
+  },
+  {
+    "where": "sec-320",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. fr. 144\""
+  },
+  {
+    "where": "sec-321",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἃ\""
+  },
+  {
+    "where": "plato-minos-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-minos-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "where": "sec-128",
+    "note": "<del> excluded from the reading text: \"τὰ γράμματα\""
+  },
+  {
+    "where": "sec-130",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-130",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τι\""
+  },
+  {
+    "where": "sec-131",
+    "note": "<del> excluded from the reading text: \"ἓν εἶναι\""
+  },
+  {
+    "where": "sec-131",
+    "note": "<del> excluded from the reading text: \"εἰ\""
+  },
+  {
+    "where": "sec-131",
+    "note": "<del> excluded from the reading text: \"εἴη\""
+  },
+  {
+    "where": "sec-132",
+    "note": "<del> excluded from the reading text: \"εἴδους\""
+  },
+  {
+    "where": "sec-134",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ᾖ\""
+  },
+  {
+    "where": "sec-141",
+    "note": "<del> excluded from the reading text: \"τοῦ μέλλοντος\""
+  },
+  {
+    "where": "sec-144",
+    "note": "<del> excluded from the reading text: \"τοι\""
+  },
+  {
+    "where": "sec-144",
+    "note": "<del> excluded from the reading text: \"ἑκάστῳ\""
+  },
+  {
+    "where": "sec-148",
+    "note": "<del> excluded from the reading text: \"ἕδρα\""
+  },
+  {
+    "where": "sec-154",
+    "note": "<del> excluded from the reading text: \"ἑνὸς\""
+  },
+  {
+    "where": "sec-157",
+    "note": "<del> excluded from the reading text: \"εἶναι\""
+  },
+  {
+    "where": "sec-160",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"γὰρ\""
+  },
+  {
+    "where": "sec-162",
+    "note": "<del> excluded from the reading text: \"εἶναι\""
+  },
+  {
+    "where": "sec-162",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"μὴ\""
+  },
+  {
+    "where": "sec-162",
+    "note": "<del> excluded from the reading text: \"μὴ\""
+  },
+  {
+    "where": "sec-164",
+    "note": "<del> excluded from the reading text: \"ὄντος\""
+  },
+  {
+    "where": "plato-parmenides-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-parmenides-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

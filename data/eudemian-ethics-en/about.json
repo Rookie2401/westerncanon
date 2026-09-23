@@ -1,0 +1,63 @@
+{
+  "workId": "eudemian-ethics-en",
+  "title": "Eudemian Ethics",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "Joseph Solomon",
+  "editor": "William David Ross",
+  "edition": "The Works of Aristotle Translated into English, Volume IX: Ethica Eudemia, trans. Joseph Solomon, ed. W. D. Ross (Oxford: Clarendon Press)",
+  "provenance": "English Wikisource, pages \"Eudemian Ethics/Book 1\", \"/Book 2\", \"/Book 3\" and \"/Book 7\", each fetched once via the MediaWiki action=parse&prop=text API. These are page-scan transclusions of \"Works of Aristotle v9 (ed. Ross).djvu\": action=parse&prop=wikitext returns only a few hundred bytes of <pages/> markup rather than the text, so the rendered HTML was fetched and parsed with jsdom instead. The raw per-book dumps are committed under scripts/import-eudemian-ethics-en/raw/. There are no pages for Books 4, 5 or 6 — see \"IMPORTANT\" below.",
+  "license": "Solomon's translation is in the public domain (published before 1929; the Oxford 'Works of Aristotle' volumes of this period are long out of copyright). The digital transcription and page-scan proofreading are distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Aristotle's Eudemian Ethics in Joseph Solomon's English translation, made for the Oxford Works of Aristotle Translated into English under the general editorship of W. D. Ross. It is the less-read of Aristotle's two major ethical treatises, and in places the more direct: on happiness and the goods of fortune, on the voluntary and choice, on the particular virtues, and — in its long seventh book — on friendship.",
+        "The text here is the translation, verbatim. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "IMPORTANT: there are no Books IV, V or VI — and none has been invented",
+      "paragraphs": [
+        "This edition contains Books I, II, III and VII. That is the whole of what Solomon translated, and the jump in the numbering is real rather than a defect here. In the Greek tradition itself, Eudemian Ethics IV, V and VI are not separate books at all: they are the very same three books as Nicomachean Ethics V, VI and VII — the so-called common books, shared between the two treatises — so there was nothing distinct for Solomon to translate, and he did not.",
+        "The source says so in as many words. The work's Wikisource page carries the note that \"Books IV, V, VI of the Eudemian Ethics are identical to Nicomachean Ethics Books V, VI, VII, so were not translated by Solomon\"; its contents list prints that equation in place of the missing book links; the printed text of Book VII opens with the same statement as a running line; and the subpages for Books 4, 5 and 6 simply do not exist on Wikisource, not even as blank placeholders.",
+        "Those three books have deliberately NOT been filled in from this library's Nicomachean Ethics or from anywhere else. That text is a different translator's work from a different edition, and presenting it here as Solomon's Eudemian Ethics would be a fabrication, however tidy the resulting numbering might look. If you want the common books, read them where they belong, in the Nicomachean Ethics.",
+        "Book VIII is likewise absent as a separate book, for a different reason: following one manuscript tradition, Solomon's edition appends its material to Book VII as sections 13 to 15. It is present, inside Book VII — you will find it as that book's chapters 13, 14 and 15."
+      ]
+    },
+    {
+      "heading": "Completeness of what is here",
+      "paragraphs": [
+        "The four books that do exist are complete and untruncated, in gapless chapter runs: Book I 1-8, Book II 1-11, Book III 1-7, Book VII 1-15. Every page-scan behind them is fully proofread, with no red links and no missing pages anywhere in the transclusion.",
+        "Book VII runs to fifteen chapters because its last three carry the material of Book VIII, appended there by the edition itself following one manuscript tradition — the source even tags chapter 13 with an internal anchor named for Book VIII. So nothing of Solomon's translation is absent from this edition."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the rendered HTML of each of the four Wikisource book subpages, fetched once each through the MediaWiki action=parse&prop=text API and committed under the importer's raw/ directory. Unlike most of the works imported alongside it, this one genuinely is a djvu page-scan transclusion — its wikitext holds only a few hundred bytes of transclusion markup and no text at all — so the already-rendered HTML was fetched and parsed with jsdom, exactly as this library's Metaphysics import does. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Chapters are marked in this source by a bold number standing at the head of a paragraph, immediately before that chapter's first words. Only a bold element that is the paragraph's first child and contains a bare one- or two-digit number is treated as a marker — a deliberately narrow rule, because the same source renders its Bekker page references as bold numbers too (1219a, 1220b and so on) in the middle of paragraphs, and a looser rule would shred the text into hundreds of false chapters.",
+        "Running titles (\"ETHICA EUDEMIA\", \"BOOK II\", and the printed note about Books IV-VI) are page furniture rather than Aristotle's words and are skipped and counted. The translator's footnote markers are stripped from the reading text; the notes themselves are editorial apparatus, are rendered by the source in a separate block, and are not preserved here, matching this library's other English translations. The importer refuses to ship a division it has not been told to expect: each book declares its exact chapter numbers in advance, and a mismatch stops the run."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by book and chapter, plus a Bekker page reference. Unlike most of the Aristotle translations bundled alongside it, this source does print Bekker page markers, and it prints them throughout: each chapter's markers are gathered in document order to give that chapter a real page or page range (1214a, 1216a–1216b, and so on). Passage.ref is null throughout, since no marker is printed at every paragraph break and a paragraph-level citation would have to be invented.",
+        "The book numbering is the source's own: 1, 2, 3, 7. It has not been compressed to 1, 2, 3, 4 — doing so would misrepresent every citation and hide the relationship with the Nicomachean Ethics."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See \"IMPORTANT: there are no Books IV, V or VI\" above for the headline account. anomalies.json carries the complete machine-readable log: the absence of Books IV-VI with all the evidence for it and the explicit record that nothing was copied in to replace them, the treatment of Book VIII, the two unprinted chapter numbers, the furniture lines skipped, the footnote markers stripped, and the Bekker reference scheme.",
+        "A word on trust: Wikisource's page-scan proofreading for this volume is complete for the four books used here (no red links), but community validation is an ongoing process, so isolated transcription slips remain possible. That is a disclosed limitation of the source rather than something quietly corrected in this build."
+      ]
+    }
+  ]
+}

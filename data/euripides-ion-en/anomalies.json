@@ -1,0 +1,42 @@
+[
+  {
+    "where": "euripides-ion-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-ion-en / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-ion-en / card-82 / sp[Ion]/l[n=85]",
+    "note": "<corr> included in reading text: \"Up mounts\""
+  },
+  {
+    "where": "euripides-ion-en / card-82 / sp[Ion]/l[n=90]",
+    "note": "<corr> included in reading text: \"to Phoebus’ roof;\""
+  },
+  {
+    "where": "euripides-ion-en / card-128 / sp[Ion]/l[n=135]",
+    "note": "<corr> included in reading text: \"Whom I call by that helpful name of father,\""
+  },
+  {
+    "where": "euripides-ion-en / card-128 / sp[Ion]/l[n=140]",
+    "note": "<corr> included in reading text: \"Tis Phoebus, who dwelleth in the temple,\""
+  },
+  {
+    "where": "euripides-ion-en / card-998 / sp[Creusa]/l[n=1035]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"not for all, but for him alone, providing a separate draught,\""
+  },
+  {
+    "where": "euripides-ion-en / card-1132 / sp[Servant]/l[n=1135]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"so that it contained ten thousand feet within that measure’s square, as science phrases it\""
+  },
+  {
+    "where": "euripides-ion-en / card-1395 / sp[Creusa]/l[n=1397]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"in the cavern of\""
+  },
+  {
+    "where": "euripides-ion-en / card-1395 / sp[Creusa]/l[n=1400]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Cecrops, ’neath the rocky roof of Macrae\""
+  }
+]

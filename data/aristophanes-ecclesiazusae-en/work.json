@@ -1,0 +1,2601 @@
+{
+  "workId": "aristophanes-ecclesiazusae-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "dramatis-personae",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "Dramatis Personae",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "PRAXAGORA.\nBLEPYRUS, husband of Praxagora.\nWOMEN.\nA MAN.\nCHREMES.\nTWO CITIZENS.\nHERALD.\nAN OLD MAN.\nA GIRL.\nA YOUNG MAN.\nTHREE OLD WOMEN.\nA SERVANT MAID.\nHER MASTER.\nCHORUS OF WOMEN.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "text",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "The Ecclesiazusae",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "[SCENE: Before a house in a Public Square at Athens; a lamp is burning over the door. Time: a little after midnight.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\n[enters carrying a lamp in her hand] Oh! thou shining light of my earthenware lamp, from this high spot shalt thou look abroad. Oh! lamp, I will tell thee thine origin and thy future; 'tis the rapid whirl of the potter's wheel that has lent thee thy shape, and thy wick counterfeits the glory of the sun; mayst thou send the agreed signal flashing afar! In thee alone do we confide, and thou art worthy, for thou art near us when we practise the various postures in which Aphrodité delights upon our couches, and none dream even in the midst of her sports of seeking to avoid thine eye that watches our swaying bodies. Thou alone shinest into the depths of our most secret charms, and with thy flame dost singe the hairy growth of our privates. If we open some cellar stored with fruits and wine, thou art our companion, and never dost thou betray or reveal to a neighbour the secrets thou hast learned about us. Therefore thou shalt know likewise the whole of the plot that I have planned with my friends, the women, at the festival of the Scirophoria. I see none of those I was expecting, though dawn approaches; the Assembly is about to gather and we must take our seats in spite of Phyromachus, who forsooth would say, \"It is meet the women sit apart and hidden from the eyes of the men.\" Why, have they not been able then to procure the false beards that they must wear, or to steal their husbands cloaks? Ah! I see a light approaching; let us draw somewhat aside, for fear it should be a man.\n[Note 1: A parody of the pompous addresses to inanimate objects so frequent in the prologues and monodies of Euripides.]\n[Note 2: A festival which was kept in Athens in the month of scirophorion (June), whence its name; the statues of Athené, Demeter, Persephoné, Apollo and Posidon were borne through the city with great pomp with banners or canopies (σκίρα) over them.]\n[Note 3: Unknown.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nLet us start, it is high time; as we left our dwellings, the cock was crowing for the second time.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nAnd I have spent the whole night waiting for you. But come, let us call our neighbour by scratching at her door; and gently too, so that her husband may hear nothing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nI was putting on my shoes, when I heard you scratching, for I was not asleep, so there! Oh! my dear, my husband [he is a Salaminian] never left me an instant's peace, but was at me, for ever at me, all night long, so that it was only just now that I was able to filch his cloak.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nI see Clinareté coming too, along with Sostraté and their next-door neighbour Philæneté.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nHurry yourselves then, for Glycé has sworn that the last comer shall forfeit three measures of wine and a chœnix of pease.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nDon't you see Melisticé, the wife of Smicythion, hurrying hither in her great shoes? Methinks she is the only one of us all who has had no trouble in getting rid of her husband.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nAnd can't you see Gusistraté, the tavern-keeper's wife, with a lamp in her hand, and the wives of Philodoretus and Chæretades?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nI can see many others too, indeed the whole of the flower of Athens.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD WOMAN\nOh! my dear, I have had such trouble in getting away! My husband ate such a surfeit of sprats last evening that he was coughing and choking the whole night long.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nTake your seats, and, since you are all gathered here at last, let us see if what we decided on at the feast of the Scirophoria has been duly done.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FOURTH WOMAN\nYes. Firstly, as agreed, I have let the hair under my armpits grow thicker than a bush; furthermore, whilst my husband was at the Assembly, I rubbed myself from head to foot with oil and then stood the whole day long in the sun.\n[Note 4: So as to get sunburnt and thus have a more manly appearance.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIFTH WOMAN\nSo did I. I began by throwing away my razor, so that I might get quite hairy, and no longer resemble a woman.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nHave you the beards that we had all to get ourselves for the Assembly?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FOURTH WOMAN\nYea, by Hecaté! Is this not a fine one?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIFTH WOMAN\nAye, much finer than Epicrates'.\n[Note 5: A demagogue, well known on account of his long flowing beard; he was nicknamed by his fellow-citizens Σακεσφόρος that is, shield-bearer, because his beard came down to his waist and covered his body like a shield.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\n[to the other women] And you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FOURTH WOMAN\nYes, yes; look, they all nod assent.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nI see that you have got all the rest too, Spartan shoes, staffs and men's cloaks, as 'twas arranged.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SIXTH WOMAN\nI have brought Lamias' club, which I stole from him while he slept.\n[Note 6: Unknown.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWhat, the club that makes him puff and pant with its weight?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SIXTH WOMAN\nBy Zeus the Deliverer, if he had the skin of Argus, he would know better than any other how to shepherd the popular herd.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nBut come, let us finish what has yet to be done, while the stars are still shining; the Assembly, at which we mean to be present, will open at dawn.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nGood; you must take up your place at the foot of the platform and facing the Prytanes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SIXTH WOMAN\nI have brought this with me to card during the Assembly. [She shows some wool.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nDuring the Assembly, wretched woman?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SIXTH WOMAN\nAye, by Artemis! shall I hear any less well if I am doing a bit of carding? My little ones are all but naked.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThink of her wanting to card! whereas we must not let anyone see the smallest part of our bodies. 'Twould be a fine thing if one of us, in the midst of the discussion, rushed on to the speaker's platform and, flinging her cloak aside, showed her hairy privates. If, on the other hand, we are the first to take our seats closely muffled in our cloaks, none will know us. Let us fix these beards on our chins, so that they spread all over our bosoms. How can we fail then to be mistaken for men? Agyrrhius has deceived everyone, thanks to the beard of Pronomus; yet he was no better than a woman, and you see how he now holds the first position in the city. Thus, I adjure you by this day that is about to dawn, let us dare to copy him and let us be clever enough to possess ourselves of the management of affairs. Let us save the vessel of State, which just at present none seems able either to sail or row.\n[Note 7: Whereas the arms must be extended to do carding, and folk could not fail to recognize her as a woman by their shape.]\n[Note 8: Agyrrhius was an Athenian general, who commanded at Lesbos; he was effeminate and of depraved habits. No doubt he had let his beard grow to impose on the masses and to lend himself that dignity which he was naturally wanting in.—Pronomus was a flute-player, who had a fine beard.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SIXTH WOMAN\nBut where shall we find orators in an Assembly of women?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nNothing simpler. Is it not said, that the cleverest speakers are those who submit themselves oftenest to men? Well, thanks to the gods, we are that by nature.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SIXTH WOMAN\nThere's no doubt of that; but the worst of it is our inexperience.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThat's the very reason we are gathered here, in order to prepare the speech we must make in the Assembly. Hasten, therefore, all you who know aught of speaking, to fix on your beards.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEVENTH WOMAN\nOh! you great fool! is there ever a one among us cannot use her tongue?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nCome, look sharp, on with your beard and become a man. As for me, I will do the same in case I should have a fancy for getting on to the platform. Here are the chaplets.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nOh! great gods! my dear Praxagora, do look here! Is it not laughable?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nHow laughable?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nOur beards look like broiled cuttle-fishes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThe priest is bringing in—the cat. Make ready, make ready! Silence, Ariphrades! Go and take your seat. Now, who wishes to speak?\n[Note 9: Young pigs were sacrificed at the beginning of the sittings; here the comic writer substitutes a cat for the pig, perhaps because of its lasciviousness.]\n[Note 10: A pathic; Aristophanes classes him with the women, because of his effeminacy.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEVENTH WOMAN\nI do.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThen put on this chaplet and success be with you.\n[Note 11: The orators wore green chaplets, generally of olive leaves; guests also wore them at feasts, but then flowers were mingled with the leaves.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEVENTH WOMAN\nThere, 'tis done!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWell then! begin.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEVENTH WOMAN\nBefore drinking?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nHah! she wants to drink!\n[Note 12: An allusion to the rapacity of the orators, who only meddled in political discussions with the object of getting some personal gain through their influence; also to the fondness for strong drink we find attributed in so many passages to the Athenian women.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEVENTH WOMAN\nWhy, what else is the meaning of this chaplet?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nGet you hence! you would probably have played us this trick also before the people.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEVENTH WOMAN\nWell! don't the men drink then in the Assembly?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nNow she's telling us the men drink!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEVENTH WOMAN\nAye, by Artemis, and neat wine too. That's why their decrees breathe of drunkenness and madness. And why libations, why so many ceremonies, if wine plays no part in them? Besides, they abuse each other like drunken men, and you can see the archers dragging more than one uproarious drunkard out of the Agora.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nGo back to your seat, you are wandering.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEVENTH WOMAN\nAh! I should have done better not to have muffled myself in this beard; my throat's afire and I feel I shall die of thirst.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWho else wishes to speak?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EIGHTH WOMAN\nI do.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nQuick then, take the chaplet, for time's running short. Try to speak worthily, let your language be truly manly, and lean on your staff with dignity.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EIGHTH WOMAN\nI had rather have seen one of your regular orators giving you wise advice; but, as that is not to be, it behoves me to break silence; I cannot, for my part indeed, allow the tavern-keepers to fill up their wine-pits with water. No, by the two goddesses….\n[Note 13: A sort of cistern dug in the ground, in which the ancients kept their wine.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWhat? by the two goddesses! Wretched woman, where are your senses?\n[Note 14: This was a form of oath that women made use of; hence it is barred by Praxagora.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EIGHTH WOMAN\nEh! what?… I have not asked you for a drink!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nNo, but you want to pass for a man, and you swear by the two goddesses. Otherwise 'twas very well.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EIGHTH WOMAN\nWell then. By Apollo….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nStop! All these details of language must be adjusted; else it is quite useless to go to the Assembly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEVENTH WOMAN\nPass me the chaplet; I wish to speak again, for I think I have got hold of something good. You women who are listening to me….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWomen again; why, wretched creature, 'tis men that you are addressing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEVENTH WOMAN\n'Tis the fault of Epigonus; I caught sight of him over yonder, and I thought I was speaking to women.\n[Note 15: Another pathic, like Ariphrades, mentioned above.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nCome, withdraw and remain seated in future. I am going to take this chaplet myself and speak in your name. May the gods grant success to my plans! My country is as dear to me as it is to you, and I groan, I am grieved at all that is happening in it. Scarcely one in ten of those who rule it is honest, and all the others are bad. If you appoint fresh chiefs, they will do still worse. It is hard to correct your peevish humour; you fear those who love you and throw yourselves at the feet of those who betray you. There was a time when we had no assemblies, and then we all thought Agyrrhius a dishonest man; now they are established, he who gets money thinks everything is as it should be, and he who does not, declares all who sell their votes to be worthy of death.\n[Note 16: Before the time of Pericles, when manners had not yet become corrupt, the fame of each citizen was based on fact; worthy men were honoured, and those who resembled Agyrrhius, already mentioned, were detested. For this general, see note a little above.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nBy Aphrodité, that is well spoken.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWhy, wretched woman, you have actually called upon Aphrodité. Oh! what a fine thing 'twould have been had you said that in the Assembly!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nI should never have done that!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWell, mind you don't fall into the habit.—When we were discussing the alliance, it seemed as though it were all over with Athens if it fell through. No sooner was it made than we were vexed and angry, and the orator who had caused its adoption was compelled to seek safety in flight. Is there talk of equipping a fleet? The poor man says, yes, but the rich citizen and the countryman say, no. You were angered against the Corinthians and they with you; now they are well disposed towards you, be so towards them. As a rule the Argives are dull, but the Argive Hieronymus is a distinguished chief. Herein lies a spark of hope; but Thrasybulus is far from Athens and you do not recall him.\n[Note 17: The alliance with Corinth, Bœotia and Argolis against Sparta in 393 B.C.]\n[Note 18: Conon, who went to Asia Minor and was thrown into prison at Sardis by the Persian Satrap.]\n[Note 19: An Argive to whom Conon entrusted the command of his fleet when he went to the court of the King of Persia.—In this passage the poet is warning his fellow-citizens not to alienate the goodwill of the allies by their disdain, but to know how to honour those among them who had distinguished themselves by their talents.]\n[Note 20: The Lacedæmonians, after having recalled their king, Agesilas, who gained the victory of Coronea, were themselves beaten at sea off Cnidus by Conon and Pharnabazus. 'Twas no doubt this victory which gave a spark of hope to the Athenians, who had suffered so cruelly during so many years; but Aristophanes declares that, in order to profit by this return of fortune, they must recall Thrasybulus, the deliverer of Athens in 401 B.C. He was then ostensibly employed in getting the islands of the Ægean sea and the towns of the Asiatic coast to return under the Athenian power, but this was really only an honourable excuse for thrusting him aside for reasons of jealousy.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nOh! what a brilliant man!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThat's better! that's fitting applause.—Citizens, 'tis you who are the cause of all this trouble. You vote yourselves salaries out of the public funds and care only for your own personal interests; hence the State limps along like Æsimus. But if you hearken to me, you will be saved. I assert that the direction of affairs must be handed over to the women, for 'tis they who have charge and look after our households.\n[Note 21: Unknown.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nVery good, very good, 'tis perfect! Say on, say on.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThey are worth more than you are, as I shall prove. First of all they wash all their wool in warm water, according to the ancient practice; you will never see them changing their method. Ah! if Athens only acted thus, if it did not take delight in ceaseless innovations, would not its happiness be assured? Then the women sit down to cook, as they always did; they carry things on their head as was their wont; they keep the Thesmophoria, as they have ever done; they knead their cakes just as they used to; they make their husbands angry as they have always done; they receive their lovers in their houses as was their constant custom; they buy dainties as they always did; they love unmixed wine as well as ever; they delight in being loved just as much as they always have. Let us therefore hand Athens over to them without endless discussions, without bothering ourselves about what they will do; let us simply hand them over the power, remembering that they are mothers and will therefore spare the blood of our soldiers; besides, who will know better than a mother how to forward provisions to the front? Woman is adept at getting money for herself and will not easily let herself be deceived; she understands deceit too well herself. I omit a thousand other advantages. Take my advice and you will live in perfect happiness.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nHow beautiful this is, my dearest Praxagora, how clever! But where, pray, did you learn all these pretty things?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWhen the countryfolk were seeking refuge in the city, I lived on the Pnyx with my husband, and there I learnt to speak through listening to the orators.\n[Note 22: During the earlier years of the Peloponnesian war, when the annual invasion of Attica by the Lacedæmonians drove the country population into the city.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nThen, dear, 'tis not astonishing that you are so eloquent and clever; henceforward you shall be our leader, so put your great ideas into execution. But if Cephalus belches forth insults against you, what answer will you give him in the Assembly?\n[Note 23: A demagogue, otherwise unknown.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nI shall say that he drivels.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nBut all the world knows that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nI shall furthermore say that he is a raving madman.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nThere's nobody who does not know it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThat he, as excellent a statesman as he is, is a clumsy tinker.\n[Note 24: Cephalus' father was said to have been a tinker.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nAnd if the blear-eyed Neoclides comes to insult you?\n[Note 25: The comic poets accused him of being an alien by birth and also an informer and a rogue. See the 'Plutus.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nTo him I shall say, \"Go and look at a dog's backside\".\n[Note 26: There was a Greek saying, \"Look into the backside of a dog and of three foxes\" which, says the Scholiast, used to be addressed to those who had bad eyes. But the precise point of the joke here is difficult to see.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nAnd if they fly at you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nOh! I shall shake them off as best I can; never fear, I know how to use this tool.\n[Note 27: An obscene allusion; ὑποκρούειν means both pulsare and subagitare,—to strike, and also to move to the man in sexual intercourse.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nBut there is one thing we don't think of. If the archers drag you away, what will you do?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWith my arms akimbo like this, I will never, never let myself be taken round the middle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nIf they seize you, we will bid them let you go.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nThat's the best way. But how are we going to lift up our arm in the Assembly, we, who only know how to lift our legs in the act of love?\n[Note 28: In order to vote.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\n'Tis difficult; yet it must be done, and the arm shown naked to the shoulder in order to vote. Quick now, put on these tunics and these Laconian shoes, as you see the men do each time they go to the Assembly or for a walk. Then this done, fix on your beards, and when they are arranged in the best way possible, dress yourselves in the cloaks you have abstracted from your husbands; finally start off leaning on your staffs and singing some old man's song as the villagers do.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nWell spoken; and let us hurry to get to the Pnyx before the women from the country, for they will no doubt not fail to come there.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nQuick, quick, for 'tis all the custom that those who are not at the Pnyx early in the morning, return home empty-handed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nMove forward, citizens, move forward; let us not forget to give ourselves this name and may that of woman never slip out of our mouths; woe to us, if it were discovered that we had laid such a plot in the darkness of night. Let us go to the Assembly then, fellow-citizens; for the Thesmothetæ have declared that only those who arrive at daybreak with haggard eye and covered with dust, without having snatched time to eat anything but a snack of garlic-pickle, shall alone receive the triobolus. Walk up smartly, Charitimides, Smicythus and Draces, and do not fail in any point of your part; let us first demand our fee and then vote for all that may perchance be useful for our partisans…. Ah! what am I saying? I meant to say, for our fellow-citizens. Let us drive away these men of the city, who used to stay at home and chatter round the table in the days when only an obolus was paid, whereas now one is stifled by the crowds at the Pnyx. No! during the Archonship of generous Myronides, none would have dared to let himself be paid for the trouble he spent over public business; each one brought his own meal of bread, a couple of onions, three olives and some wine in a little wine-skin. But nowadays we run here to earn the three obols, for the citizen has become as mercenary as the stonemason. [The Chorus marches away.]\n[Note 29: The Chorus addresses the leaders amongst the women by the names of men. Charitimides was commander of the Athenian navy.]\n[Note 30: The countryfolk affected to despise the townspeople, whom they dubbed idle and lazy.]\n[Note 31: The fee of the citizens who attended the Assembly had varied like that of the dicasts, or jurymen.]\n[Note 32: An Athenian general, who gained brilliant victories over the Thebans during the period prior to the Peloponnesian war.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\n[husband of Praxagora] What does this mean? My wife has vanished! it is nearly daybreak and she does not return! Wanting to relieve myself, lo! I awake and hunt in the darkness for my shoes and my cloak; but grope where I will, I cannot find them. Meanwhile my need grew each moment more urgent and I had only just time to seize my wife's little mantle and her Persian slippers. But where shall I find a spot suitable for my purpose. Bah! One place is as good as another at night-time, for no one will see me. Ah! what fatal folly 'twas to take a wife at my age, and how I could thrash myself for having acted so foolishly! 'Tis a certainty she's not gone out for any honest purpose. However, that's not our present business.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A MAN\nWho's there? Is that not my neighbour Blepyrus? Why, yes, 'tis himself and no other. Tell me, what's all that yellow about you? Can it be Cinesias who has befouled you so?\n[Note 33: A dithyrambic poet, and notorious for his dissoluteness; he was accused of having daubed the statues of Hecate at the Athenian cross-roads with ordure.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nNo, no, I only slipped on my wife's tunic to come out in.\n[Note 34: The women wore yellow tunics, called κροκωτοί, because of their colour.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAN\nAnd where is your cloak?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nI cannot tell you, for I hunted for it vainly on the bed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAN\nAnd why did you not ask your wife for it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAh! why indeed! because she is not in the house; she has run away, and I greatly fear that she may be doing me an ill turn.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAN\nBut, by Posidon, 'tis the same with myself. My wife has disappeared with my cloak, and what is still worse, with my shoes as well, for I cannot find them anywhere.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nNor can I my Laconian shoes; but as I had urgent need, I popped my feet into these slippers, so as not to soil my blanket, which is quite new.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAN\nWhat does it mean? Can some friend have invited her to a feast?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nI expect so, for she does not generally misconduct herself, as far as I know.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAN\nCome, I say, you seem to be making ropes. Are you never going to be done? As for myself, I would like to go to the Assembly, and it is time to start, but the thing is to find my cloak, for I have only one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nI am going to have a look too, when I have done; but I really think there must be a wild pear obstructing my rectum.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAN\nIs it the one which Thrasybulus spoke about to the Lacedæmonians?\n[Note 35: This Thrasybulus, not to be confounded with the more famous Thrasybulus, restorer of the Athenian democracy, in 403 B.C., had undertaken to speak against the Spartans, who had come with proposals of peace, but afterwards excused himself, pretending to be labouring under a sore throat, brought on by eating wild pears (B.C. 393). The Athenians suspected him of having been bribed by the Spartans.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nOh! oh! oh! how the obstruction holds! Whatever am I to do? 'Tis not merely for the present that I am frightened; but when I have eaten, where is it to find an outlet now? This cursed Achradusian fellow has bolted the door. Let a doctor be fetched; but which is the cleverest in this branch of the science? Amynon? Perhaps he would not come. Ah! Antithenes! Let him be brought to me, cost what it will. To judge by his noisy sighs, that man knows what a rump wants, when in urgent need. Oh! venerated Ilithyia! I shall burst unless the door gives way. Have pity! pity! Let me not become the night-stool of the comic poets.\n[Note 36: A coined word, derived from ἀχράς, a wild pear.]\n[Note 37: Amynon was not a physician, according to the Scholiast, but one of those orators called εὐροπρωκτοί (laticuli) 'wide-arsed,' because addicted to habits of pathic vice, and was invoked by Blepyrus for that reason.]\n[Note 38: A doctor notorious for his dissolute life.]\n[Note 39: The Grecian goddess who presided over child-birth.]\n[Note 40: He is afraid lest some comic poet should surprise him in his ridiculous position and might cause a laugh at his expense upon the stage.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nHi! friend, what are you after there? Easing yourself!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nOh! there! it is over and I can get up again at last.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nWhat's this? You have your wife's tunic on.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAye, 'twas the first thing that came to my hand in the darkness. But where do you hail from?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nFrom the Assembly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nIs it already over then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nCertainly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWhy, it is scarcely daylight.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nI did laugh, ye gods, at the vermilion rope-marks that were to be seen all about the Assembly.\n[Note 41: In accordance with a quaint Athenian custom a rope daubed with vermilion was drawn across from end to end of the Agora (market-place) by officials of the city at the last moment before the Ecclesia, or Public Assembly, was to meet. Any citizen trying to evade his duty to be present was liable to have his white robe streaked red, and so be exposed to general ridicule on finally putting in an appearance on the Pnyx.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nDid you get the triobolus?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nWould it had so pleased the gods! but I arrived just too late, and am quite ashamed of it; I bring back nothing but this empty wallet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBut why is that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nThere was a crowd, such as has never been seen at the Pnyx, and the folk looked pale and wan, like so many shoemakers, so white were they in hue; both I and many another had to go without the triobolus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nThen if I went now, I should get nothing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nNo, certainly not, nor even had you gone at the second cock-crow.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nOh! what a misfortune! Oh, Antilochus! no triobolus! Even death would be better! I am undone! But what can have attracted such a crowd at that early hour?\n[Note 42: A parody on a verse in 'The Myrmidons' of Æschylus.—Antilochus was the son of Nestor; he was killed by Memnon, when defending his father.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nThe Prytanes started the discussion of measures nearly concerning the safety of the State; immediately, that blear-eyed fellow, the son of Neoclides, was the first to mount the platform. Then the folk shouted with their loudest voice, \"What! he dares to speak, and that, too, when the safety of the State is concerned, and he a man who has not known how to save even his own eyebrows!\" He, however, shouted louder than they all, and looking at them asked, \"Why, what ought I to have done?\"\n[Note 43: See above.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nPound together garlic and laserpitium juice, add to this mixture some Laconian spurge, and rub it well into the eyelids at night. That's what I should have answered, had I been there.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nAfter him that clever rascal Evæon began to speak; he was naked, so far as we all could see, but he declared he had a cloak; he propounded the most popular, the most democratic, doctrines. \"You see,\" he said, \"I have the greatest need of sixteen drachmæ, the cost of a new cloak, my health demands it; nevertheless I wish first to care for that of my fellow-citizens and of my country. If the fullers were to supply tunics to the indigent at the approach of winter, none would be exposed to pleurisy. Let him who has neither beds nor coverlets go to sleep at the tanners' after taking a bath; and if they shut the door in winter, let them be condemned to give him three goat-skins.\"\n[Note 44: He was very poor, and his cloak was such a mass of holes that one might doubt his having one at all. This surname, Evæon (ευ αἰών, delicious life) had doubtless been given him on the 'lucus a non' principle because of his wretchedness.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBy Dionysus, a fine, a very fine notion! Not a soul will vote against his proposal, especially if he adds that the flour-sellers must supply the poor with three measures of corn, or else suffer the severest penalties of the law; 'tis only in this way that Nausicydes can be of any use to us.\n[Note 45: Apparently a wealthy corn-factor.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nThen we saw a handsome young man rush into the tribune, he was all pink and white like young Nicias, and he began to say that the direction of matters should be entrusted to the women; this the crowd of shoemakers began applauding with all their might, while the country-folk assailed him with groans.\n[Note 46: Presumably this refers to the grandson of Nicias, the leader of the expedition to Sicily; he must have been sixteen or seventeen years old about that time, since, according to Lysias, Niceratus, the son of the great Nicias, was killed in 405 B.C. and had left a son of tender age behind him, who bore the name of his grandfather.]\n[Note 47: That is, the pale-faced folk in the Assembly already referred to—really the women there present surreptitiously.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd, 'faith, they did well.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nBut they were outnumbered, and the orator shouted louder than they, saying much good of the women and much ill of you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd what did he say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nFirst he said you were a rogue…",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nLet me speak … and a thief….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nI alone?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nAnd an informer.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nI alone?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nWhy, no, by the gods! all of us.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd who avers the contrary?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nHe maintained that women were both clever and thrifty, that they never divulged the Mysteries of Demeter, while you and I go about babbling incessantly about whatever happens at the Senate.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBy Hermes, he was not lying!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nThen he added, that the women lend each other clothes, trinkets of gold and silver, drinking-cups, and not before witnesses too, but all by themselves, and that they return everything with exactitude without ever cheating each other; whereas, according to him, we are ever ready to deny the loans we have effected.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAye, by Posidon, and in spite of witnesses.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nAgain, he said that women were not informers, nor did they bring lawsuits, nor hatch conspiracies; in short, he praised the women in every possible manner.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd what was decided?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nTo confide the direction of affairs to them; 'tis the one and only innovation that has not yet been tried at Athens.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd it was voted?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nYes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd everything that used to be the men's concern has been given over to the women?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nYou express it exactly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nThus 'twill be my wife who will go to the Courts now in my stead.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nAnd it will be she who will keep your children in your place.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nI shall no longer have to tire myself out with work from daybreak onwards?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nNo, 'twill be the women's business, and you can stop at home and take your ease.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWell, what I fear for us fellows now is, that, holding the reins of government, they will forcibly compel us …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nTo do what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\n… to work them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nAnd if we are not able?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nThey will give us no dinner.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nWell then, do your duty; dinner and love form a double enjoyment.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAh! but I hate compulsion.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMES\nBut if it be for the public weal, let us resign ourselves. 'Tis an old saying, that our absurdest and maddest decrees always somehow turn out for our good. May it be so in this case, oh gods, oh venerable Pallas! But I must be off; so, good-bye to you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nGood-bye, Chremes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nMarch along, go forward. Is there some man following us? Turn round, examine everywhere and keep a good look-out; be on your guard against every trick, for they might spy on us from behind. Let us make as much noise as possible as we tramp. It would be a disgrace for all of us if we allowed ourselves to be caught in this deed by the men. Come, wrap yourselves up well, and search both right and left, so that no mischance may happen to us. Let us hasten our steps; here we are close to the meeting-place, whence we started for the Assembly, and here is the house of our leader, the author of this bold scheme, which is now decreed by all the citizens. Let us not lose a moment in taking off our false beards, for we might be recognized and denounced. Let us stand under the shadow of this wall; let us glance round sharply with our eye to beware of surprises, while we quickly resume our ordinary dress. Ah! here is our leader, returning from the Assembly. Hasten to relieve your chins of these flowing manes. Look at your comrades yonder; they have already made themselves women again some while ago.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nFriends, success has crowned our plans. But off with these cloaks and these boots quick, before any man sees you; unbuckle the Laconian straps and get rid of your staffs; and do you help them with their toilet. As for myself, I am going to slip quietly into the house and replace my husband's cloak and other gear where I took them from, before he can suspect anything.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThere! 'tis done according to your bidding. Now tell us how we can be of service to you, so that we may show you our obedience, for we have never seen a cleverer woman than you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWait! I only wish to use the power given me in accordance with your wishes; for, in the market-place, in the midst of the shouts and danger, I appreciated your indomitable courage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nEh, Praxagora! where do you come from?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nHow does that concern you, friend?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWhy, greatly! what a silly question!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nYou don't think I have come from a lover's?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nNo, perhaps not from only one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nYou can make yourself sure of that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd how?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nYou can see whether my hair smells of perfume.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWhat? cannot a woman possibly be loved without perfume, eh!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThe gods forfend, as far as I am concerned.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWhy did you go off at early dawn with my cloak?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nA companion, a friend who was in labour, had sent to fetch me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nCould you not have told me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nOh, my dear, would you have me caring nothing for a poor woman in that plight?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nA word would have been enough. There's something behind all this.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nNo, I call the goddesses to witness! I went running off; the poor woman who summoned me begged me to come, whatever might betide.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd why did you not take your mantle? Instead of that, you carry off mine, you throw your dress upon the bed and you leave me as the dead are left, bar the chaplets and perfumes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\n'Twas cold, and I am frail and delicate; I took your cloak for greater warmth, leaving you thoroughly warm yourself beneath your coverlets.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd my shoes and staff, those too went off with you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nI was afraid they might rob me of the cloak, and so, to look like a man, I put on your shoes and walked with a heavy tread and struck the stones with your staff.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nD'you know you have made us lose a sextary of wheat, which I should have bought with the triobolus of the Assembly?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nBe comforted, for she had a boy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWho? the Assembly?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nNo, no, the woman I helped. But has the Assembly taken place then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nDid I not tell you of it yesterday?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nTrue; I remember now.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd don't you know the decrees that have been voted?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nNo indeed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nGo to! you can eat cuttle-fish now, for 'tis said the government is handed over to you.\n[Note 48: To eat cuttle-fish was synonymous with enjoying the highest felicity.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nTo do what—to spin?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nNo, that you may rule …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWhat?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\n… over all public business.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nOh! by Aphrodité! how happy Athens will be!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWhy so?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nFor a thousand reasons. None will dare now to do shameless deeds, to give false testimony or lay informations.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nStop! in the name of the gods! Do you want me to die of hunger?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nGood sir, let your wife speak.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThere will be no more thieves, nor envious people, no more rags nor misery, no more abuse and no more prosecutions and lawsuits.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBy Posidon! 'tis grand, if true.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThe results will prove it; you will confess it, and even these good people [pointing to the spectators] will not be able to say a word.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nYou have served your friends, but now it behoves you to apply your ability and your care to the welfare of the people. Devote the fecundity of your mind to the public weal; adorn the citizens' lives with a thousand enjoyments and teach them to seize every favourable opportunity. Devise some ingenious method to secure the much-needed salvation of Athens; but let neither your acts nor your words recall anything of the past, for 'tis only innovations that please. Don't delay the realization of your plans, for speedy execution is greatly esteemed by the public.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nI believe my ideas are good, but what I fear is, that the public will cling to the old customs and refuse to accept my reforms.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nHave no fear about that. Love of novelty and disdain for the past, these are the dominating principles among us.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nLet none contradict nor interrupt me until I have explained my plan. I want all to have a share of everything and all property to be in common; there will no longer be either rich or poor; no longer shall we see one man harvesting vast tracts of land, while another has not ground enough to be buried in, nor one man surround himself with a whole army of slaves, while another has not a single attendant; I intend that there shall only be one and the same condition of life for all.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBut how do you mean for all?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nGo and eat your excrements!\n[Note 49: A common vulgar saying, used among the Athenians, as much as to say, To the devil with interruptions!]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nCome, share and share alike!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nNo, no, but you shall not interrupt me. This is what I was going to say: I shall begin by making land, money, everything that is private property, common to all. Then we shall live on this common wealth, which we shall take care to administer with wise thrift.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd how about the man who has no land, but only gold and silver coins, that cannot be seen?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nHe must bring them to the common stock, and if he fails he will be a perjured man.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nThat won't worry him much, for has he not gained them by perjury?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nBut his riches will no longer be of any use to him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWhy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThe poor will no longer be obliged to work; each will have all that he needs, bread, salt fish, cakes, tunics, wine, chaplets and chick-pease; of what advantage will it be to him not to contribute his share to the common wealth? What do you think of it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBut is it not the folk who rob most that have all these things?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nYes, formerly, under the old order of things; but now that all goods are in common, what will he gain by not bringing his wealth into the general stock?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nIf someone saw a pretty wench and wished to satisfy his fancy for her, he would take some of his reserve store to make her a present and stay the night with her; this would not prevent him claiming his share of the common property.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nBut he can sleep with her for nothing; I intend that women shall belong to all men in common, and each shall beget children by any man that wishes to have her.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBut all will go to the prettiest woman and beseech her to go with him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThe ugliest and the most flat-nosed will be side by side with the most charming, and to win the latter's favours, a man will first have to get into the former.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBut we old men, shall we have penis enough if we have to satisfy the ugly first?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThey will make no resistance.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nTo what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nNever fear; they will make no resistance.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nResistance to what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nTo the pleasure of the thing. 'Tis thus that matters will be ordered for you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\n'Tis right well conceived for you women, for every wench's hole will be occupied; but as regards us poor men, you will leave those who are ugly to run after the handsome fellows.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThe ugly will follow the handsomest into the public places after supper and see to it that the law, which forbids the women to sleep with the big, handsome men before having satisfied the ugly shrimps, is complied with.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nThus ugly Lysicrates' nose will be as proud as the handsomest face?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nYes, by Apollo! this is a truly popular decree, and what a set-back 'twill be for one of those elegants with their fingers loaded with rings, when a man with heavy shoes says to him, \"Give way to me and wait till I have done; you will pass in after me.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBut if we live in this fashion, how will each one know his children?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThe youngest will look upon the oldest as their fathers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAh! how heartily they will strangle all the old men, since even now, when each one knows his father, they make no bones about strangling him! then, my word! won't they just scorn and shit upon the old folks!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nBut those around will prevent it. Hitherto, when anyone saw an old man beaten, he would not meddle, because it did not concern him; but now each will fear the sufferer may be his own father and such violence will be stopped.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWhat you say is not so silly after all; but 'twould be highly unpleasant were Epicurus and Leucolophas to come up and call me father.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nBut 'twould be far worse, were …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWere what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\n… Aristyllus to embrace you and style you his father.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAh! let him look to himself if he dares!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nFor you would smell vilely of mint if he kissed you. But he was born before the decree was carried, so that you have not to fear his kiss.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\n'Twould be awful. But who will do the work?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThe slaves. Your only cares will be to scent yourself, and to go and dine, when the shadow of the gnomon is ten feet long on the dial.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBut how shall we obtain clothing? Tell me that!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nYou will first wear out those you have, and then we women will weave you others.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nNow another point: if the magistrates condemn a citizen to the payment of a fine, how is he going to do it? Out of the public funds? That would not be right surely.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nBut there will be no more lawsuits.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWhat a disaster for many people!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nI have decreed it. Besides, friend, why should there be lawsuits?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nOh! for a thousand reasons, on my faith! Firstly, because a debtor denies his obligation.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nBut where will the lender get the money to lend, if all is in common? unless he steals it out of the treasury?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nThat's true, by Demeter! But then again, tell me this; here are some men who are returning from a feast and are drunk and they strike some passer-by; how are they going to pay the fine? Ah! you are puzzled now!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThey will have to take it out of their pittance; and being thus punished through their belly, they will not care to begin again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nThere will be no more thieves then, eh?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWhy steal, if you have a share of everything?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nPeople will not be robbed any more at night?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nNo, whether you sleep at home or in the street, there will be no more danger, for all will have the means of living. Besides, if anyone wanted to steal your cloak, you would give it him yourself. Why not? You will only have to go to the common store and be given a better one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nThere will be no more playing at dice?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWhat object will there be in playing?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nBut what kind of life is it you propose to set up?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThe life in common. Athens will become nothing more than a single house, in which everything will belong to everyone; so that everybody will be able to go from one house to the other at pleasure.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd where will the meals be served?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nThe law-courts and the porticoes will be turned into dining-halls.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd what will the speaker's platform be used for?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nI shall place the bowls and the ewers there; and young children will sing the glory of the brave from there, also the infamy of cowards, who out of very shame will no longer dare to come to the public meals.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nWell thought of, by Apollo! And what will you do with the urns?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nI shall have them taken to the market-place, and standing close to the statue of Harmodius, I shall draw a lot for each citizen, which by its letter will show the place where he must go to dine. Thus, those for whom I have drawn a Beta, will go to the royal portico; if 'tis a Theta, they will go to the portico of Theseus; if 'tis a Kappa, to that of the flour-market.\n[Note 50: This stood in the centre of the market-place.]\n[Note 51: It was the custom at Athens to draw lots to decide in which Court each dicast should serve; Praxagora proposes to apply the same system to decide the dining station for each citizen.]\n[Note 52: In Greek ἡ Βασίλειος(στοά, understood), the first letter a Βῇτα]\n[Note 53: Commencing with a θῇτα.]\n[Note 54: Ἁ ἀλφιτόμωλις στοά; why κάππα, it is hard to say; from some popular nickname probably, which is unknown to us.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nTo cram himself there like a capon?\n[Note 55: The pun cannot be kept in English; it is between κάπτειν, to gobble, to cram oneself, and κάππα, the designating letter.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nNo, to dine there.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd the citizen whom the lot has not given a letter showing where he is to dine will be driven off by everyone?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nBut that will not occur. Each man will have plenty; he will not leave the feast until he is well drunk, and then with a chaplet on his head and a torch in his hand; and then the women running to meet you in the cross-roads will say, \"This way, come to our house, you will find a beautiful young girl there.\"—\"And I,\" another will call from her balcony, \"have one so pretty and as white as milk; but before touching her, you must sleep with me.\" And the ugly men, watching closely after the handsome fellows, will say, \"Hi! friend, where are you running to? Go in, but you must do nothing, for 'tis the ugly and the flat-nosed to whom the law gives the first right of admission; amuse yourself in the porch while you wait, in handling your fig-leaves and playing with your tool.\" Well, tell me, does that picture suit you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nMarvellously well.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nI must now go to the market-place to receive the property that is going to be placed in common and to choose a woman with a loud voice as my herald. I have all the cares of State on my shoulders, since the power has been entrusted to me. I must likewise go to busy myself about establishing the common meals, and you will attend your first banquet to-day.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAre we going to banquet?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\nWhy, undoubtedly! Furthermore, I propose abolishing the courtesans.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAnd what for?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRAXAGORA\n'Tis clear enough why; so that, instead of them, we may have the first-fruits of the young men. It is not meet that tricked-out slaves should rob free-born women of their pleasures. Let the courtesans be free to sleep with the slaves and to depilate their privates for them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nI will march at your side, so that I may be seen and that everyone may say, \"Admire our leader's husband!\" [Exeunt Blepyrus and Praxagora. [The Chorus which followed this scene is lost.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nCome, let us collect and examine all my belongings before taking them to the market-place. Come hither, my beautiful sieve, I have nothing more precious than you, come, all clotted with the flour of which I have poured so many sacks through you; you shall act the part of Canephoros in the procession of my chattels. Where is the sunshade carrier? Ah! this stew-pot shall take his place. Great gods, how black it is! it could not be more so if Lysicrates had boiled the drugs in it with which he dyes his hair. Hither, my beautiful mirror. And you, my tripod, bear this urn for me; you shall be the waterbearer; and you, cock, whose morning song has so often roused me in the middle of the night to send me hurrying to the Assembly, you shall be my flute-girl. Scaphephoros, do you take the large basin, place in it the honeycombs and twine the olive-branches over them, bring the tripods and the phial of perfume; as for the humble crowd of little pots, I will just leave them behind.\n[Note 56: That is, one of the beautiful maidens selected to bear the baskets containing the sacred implements in procession at the Festival of Demeter, Bacchus and Athené.]\n[Note 57: The slave-girl who attended each Canephoros, and sheltered her from the sun's rays.]\n[Note 58: Mentioned a little above for his ugliness; the Scholiast says he was a general.]\n[Note 59: Hydriaphoros; the wives of resident aliens (μέτοικοι) were allowed to take part in these processions, but in a subordinate position; they carried vessels full of water for the service of the sacrifice.]\n[Note 60: Scaphephoros, bearer of the vases containing the honey required for the sacrifices. The office was assigned to the μέτοικοι as a recognition of their semi-citizenship.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nWhat folly to carry one's goods to the common store; I have a little more sense than that. No, no, by Posidon, I want first to ponder and calculate over the thing at leisure. I shall not be fool enough to strip myself of the fruits of my toil and thrift, if it is not for a very good reason; let us see first, which way things turn. Hi! friend, what means this display of goods? Are you moving or are you going to pawn your stuff?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nNeither.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nWhy then are you setting all these things out in line? Is it a procession that you are starting off to the public crier, Hiero?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nNo, but in accordance with the new law, that has been decreed, I am going to carry all these things to the marketplace to make a gift of them to the State.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nOh! bah! you don't mean that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nCertainly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nOh! Zeus the Deliverer! you unfortunate man!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nWhy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nWhy? 'Tis as clear as noonday.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nMust the laws not be obeyed then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nWhat laws, you poor fellow?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nThose that have been decreed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nDecreed! Are you mad, I ask you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nAm I mad?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nOh! this is the height of folly!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nBecause I obey the law? Is that not the first duty of an honest man?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nSay rather of a ninny.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nDon't you propose taking what belongs to you to the common stock?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nI'll take good care I don't until I see what the majority are doing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nThere's but one opinion, namely, to contribute every single thing one has.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nI am waiting to see it, before I believe that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nAt least, so they say in every street.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAnd they will go on saying so.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nEveryone talks of contributing all he has.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAnd will go on talking of it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nYou weary me with your doubts and dubitations.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nEverybody else will doubt it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nThe pest seize you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nIt will take you. What? give up your goods! Is there a man of sense who will do such a thing? Giving is not one of our customs. Receiving is another matter; 'tis the way of the gods themselves. Look at the position of their hands on their statues; when we ask a favour, they present their hands turned palm up so as not to give, but to receive.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nWretch, let me do what is right. Come, I'll make a bundle of all these things. Where is my strap?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAre you really going to carry them in?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nUndoubtedly, and there are my three tripods strung together already.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nWhat folly! Not to wait to see what the others do, and then …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nWell, and then what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\n… wait and put it off again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nWhat for?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nThat an earthquake may come or an ill-omened flash of lightning, that a weasel may run across the street and that none carry in anything more, you fool!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\n'Twould be a fine matter, were I to find no room left for placing all this.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nYou are much more likely to lose your stuff. As for placing it, you can be at ease, for there will be room enough as long as a month hence.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nWhy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nI know these folk; a decree is soon passed, but it is not so easily attended to.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nAll will contribute their property, my friend.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nBut what if they don't?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nBut there is no doubt that they will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nBut anyhow, what if they don't?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nWe shall compel them to do so.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAnd what if they prove the stronger?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nI shall leave my goods and go off.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAnd what if they sell them for you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nThe plague take you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAnd if it does?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\n'Twill be a good riddance.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nYou are bent on contributing then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\n'Pon my soul, yes! Look, there are all my neighbours carrying in all they have.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nHa, ha! 'Tis no doubt Antisthenes. He's a fellow who would rather sit on his pot for thirty days than not!\n[Note 61: A miser, who, moreover, was obstinately constipated.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nThe pest seize you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAnd perhaps Callimachus is going to take in more money than Callias owns? That man want to ruin himself!\n[Note 62: Presumably a man in extreme poverty.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nHow you weary me!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAh! I weary you! But, wretch, see what comes of decrees of this kind. Don't you remember the one reducing the price of salt, eh?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nWhy, certainly I do.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAnd do you remember that about the copper coinage?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nAh! that cursed money did me enough harm. I had sold my grapes and had my mouth stuffed with pieces of copper; indeed I was going to the market to buy flour, and was in the act of holding out my bag wide open, when the herald started shouting, \"Let none in future accept pieces of copper; those of silver are alone current.\"\n[Note 63: The ancients carried small coins in their mouth; this custom still obtains to-day in the East.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAnd quite lately, were we not all swearing that the impost of one-fortieth, which Euripides had conceived, would bring five talents to the State, and everyone was vaunting Euripides to the skies? But when the thing was looked at closely, it was seen that this fine decree was mere moonshine and would produce nothing, and you would have willingly burnt this very same Euripides alive.\n[Note 64: This Euripides was the son of the tragic poet.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nThe cases are quite different, my good fellow. We were the rulers then, but now 'tis the women.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nWhom, by Posidon, I will never allow to piss on my nose.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nI don't know what the devil you're chattering about. Slave, pick up that bundle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nLet all citizens come, let them hasten at our leader's bidding! 'Tis the new law. The lot will teach each citizen where he is to dine; the tables are already laid and loaded with the most exquisite dishes; the couches are covered with the softest of cushions; the wine and water is already being mixed in the ewers; the slaves are standing in a row and waiting to pour scent over the guests; the fish is being grilled, the hares are on the spit and the cakes are being kneaded, chaplets are being plaited and the fritters are frying; the youngest women are watching the pea-soup in the saucepans, and in the midst of them all stands Smæus, dressed as a knight, washing the crockery. And Geres has come, dressed in a grand tunic and finely shod; he is joking with another young fellow and has already divested himself of his heavy shoes and his cloak. The pantryman is waiting, so come and use your jaws.\n[Note 65: This Smæus was a notorious debauchee; the phrase contains obscene allusions, implying that he was ready both to ride a woman or to lick her privates—κελητίζειν or λεσβιάζειν.]\n[Note 66: Geres, an old fop, who wanted to pass as a young man.]\n[Note 67: According to Greek custom, these were left at the entrance of the banqueting-hall.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nAye, I'll go. Why should I delay, since the Republic commands me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nAnd where are you going to, since you have not deposited your belongings?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nTo the feast.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nIf the women have any wits, they will first insist on your depositing your goods.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nBut I am going to deposit them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nWhen?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nI am not the man to make delays.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nHow do you mean?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nThere will be many less eager than I.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nIn the meantime you are going to dine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nWhat else should I do? Every sensible man must give his help to the State.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nBut if admission is forbidden you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nI shall duck my head and slip in.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nAnd if the women have you beaten?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nI shall summon them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nAnd if they laugh you in the face?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nI shall stand near the door …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nAnd then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\n… and seize upon the dishes as they pass.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nThen go there, but after me. Sicon and Parmeno, pick up all the baggage.\n[Note 68: The names of his slaves.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nCome, I will help you carry it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST CITIZEN\nNo, no, I should be afraid of your pretending to the leader that what I am depositing belonged to you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND CITIZEN\nLet me see! let me think of some good trick by which I can keep my goods and yet take my share of the common feast. Ha! that's a good notion! Quick! I'll go and dine, ha, ha! [Exit laughing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nHow is this? no men are coming? And yet it must be fully time! 'Tis then for naught that I have painted myself with white lead, dressed myself in my beautiful yellow robe, and that I am here, frolicking and humming between my teeth to attract some passer-by! Oh, Muses, alight upon my lips, inspire me with some soft Ionian love-song!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A YOUNG GIRL\nYou rotten old thing, you have placed yourself at the window before me. You were expecting to strip my vines during my absence and to trap some man in your snares with your songs. If you sing, I shall follow suit; all this singing will weary the spectators, but is nevertheless very pleasant and very diverting.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nHa! here is an old man; take him and lead him away. As for you, you young flute-player, let us hear some airs that are worthy of you and me. Let him who wishes to taste pleasure come to my side. These young things know nothing about it; 'tis only the women of ripe age who understand the art of love, and no one could know how to fondle the lover who possessed me so well as myself; the young girls are all flightiness.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nDon't be jealous of the young girls; voluptuousness resides in the pure outline of their beautiful limbs and blossoms on their rounded bosoms; but you, old woman, you who are tricked out and perfumed as if for your own funeral, are an object of love only for grim Death himself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nMay your hole be stopped; may you be unable to find your couch when you want to be fucked. And on your couch, when your lips seek a lover, may you embrace only a viper!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nAlas! alas! what is to become of me? There is no lover! I am left here alone; my mother has gone out and the rest care little for me. Oh! my dear nurse, I adjure you to call Orthagoras, and may heaven bless you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nAh! poor child, desire is consuming you like an Ionian woman; I think you are no stranger to the wanton arts of the Lesbian women, but you shall not rob me of my pleasures; you will not be able to reduce or filch the time that first belongs to me, for your own gain. Sing as much as you please, peep out like a cat lying in wait, but none shall pass through your door without first having been to see me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nIf anyone enter your house, 'twill be to carry out your corpse.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nThat's new to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nWhat! you rotten wretch, can anything be new to an old hag like you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nMy old age will not harm you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nAh! shame on your painted cheeks!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nWhy do you speak to me at all?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nAnd why do you place yourself at the window?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nI am singing to myself about my lover, Epigenes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nCan you have any other lover than that old fop Geres?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nEpigenes will show you that himself, for he is coming to me. See, here he is.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nHe's not thinking of you in the least, you old witch.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nAye, but he is, you little pest.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nLet's see what he will do. I will leave my window.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nAnd I likewise. You will see I am not far wrong.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A YOUNG MAN\nAh! could I but sleep with the young girl without first satisfying the old flat-nose! 'Tis intolerable for a free-born man.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nWilly nilly, you must first gratify my desire. There shall be no nonsense about that, for my authority is the law and the law must be obeyed in a democracy. But come, let me hide, to see what he's going to do.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nAh! ye gods, if I were to find the sweet child alone! for the wine has fired my lust.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nI have tricked that cursed old wretch; she has left her window, thinking I would stay at home.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nAh! here is the lover we were talking of. This way, my love, this way, come here and haste to rest the whole night in my arms. I worship your lovely curly hair; I am consumed with ardent desire. Oh! Eros, in thy mercy, compel him to my bed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\n[standing beneath the young girl's window and singing] Come down and haste to open the door unless you want to see me fall dead with desire. Dearest treasure, I am burning to yield myself to most voluptuous sport, lying on your bosom, to let my hands play with your buttocks. Aphrodité, why dost thou fire me with such delight in her? Oh! Eros, I beseech thee, have mercy and make her share my couch. Words cannot express the tortures I am suffering. Oh! my adored one, I adjure you, open your door for me and press me to your heart; 'tis for you that I am suffering. Oh! my jewel, my idol, you child of Aphrodité, the confidante of the Muses, the sister of the Graces, you living picture of Voluptuousness, oh! open for me, press me to your heart, 'tis for you that I am suffering.\n[Note 69: A specimen of the serenades (παρακγαυσίθυρα) of the Greeks.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nAre you knocking? Is it I you seek?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nWhat an idea!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nBut you were tapping at the door.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nDeath would be sweeter.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nWhy do you come with that torch in your hand?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nI am looking for a man from Anaphlystia.\n[Note 70: An Attic deme. There is an obscene jest here; the word ἀναφλᾶν means to masturbate.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nWhat's his name?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nOh! 'tis not Sebinus, whom no doubt you are expecting.\n[Note 71: Τὸν Σεβῖνον, a coined name, representing τόν σε βινοῦντα, 'the man who is to tread you.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nBy Aphrodité, you must, whether you like it or not.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nWe are not now concerned with cases dated sixty years back; they are remanded for a later day; we are dealing only with those of less than twenty.\n[Note 72: The passage is written in the language of the Bar. It is an allusion to the slowness of justice at Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nThat was under the old order of things, sweetheart, but now you must first busy yourself with us.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nAye, if I want to, according to the rules of draughts, where we may either take or leave.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nBut 'tis not according to the rules of draughts that you take your seat at the banquet.\n[Note 73: i.e. the new law must be conformed to all round.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nI don't know what you mean; 'tis at this door I want to knock.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nNot before knocking at mine first.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nFor the moment I really have no need for old leather.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nI know that you love me; perhaps you are surprised to find me at the door. But come, let me kiss you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nNo, no, my dear, I am afraid of your lover.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nOf whom?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nThe most gifted of painters.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nWhy, whom do you mean to speak of?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nThe artist who paints the little bottles on coffins. But get you indoors, lest he should find you at the door.\n[Note 74: It was customary to paint phials or little bottles on the coffins of the poor; these emblems took the place of the perfumes that were sprinkled on the bodies of the rich.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nI know what you want.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nI can say as much of you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nBy Aphrodité, who has granted me this good chance, I won't let you go.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nYou are drivelling, you little old hag.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nRubbish! I am going to lead you to my couch.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nWhat need for buying hooks? I will let her down to the bottom of the well and pull up the buckets with her old carcase, for she's crooked enough for that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nA truce to your jeering, poor boy, and follow me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nNothing compels me to do so, unless you have paid the levy of five hundredths for me.\n[Note 75: i.e. unless I am your slave; no doubt this tax of five hundredths was paid by the master on the assumed value of his slave.—We have, however, no historical data to confirm this.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nLook, by Aphrodité, there is nothing that delights me as much as sleeping with a lad of your years.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nAnd I abhor such as you, and I will never, never consent.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nBut, by Zeus, here is something will force you to it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nWhat's that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nA decree, which orders you to enter my house.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nRead it out then, and let's hear.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nListen. \"The women have decreed, that if a young man desires a young girl, he can only possess her after having satisfied an old woman; and if he refuses and goes to seek the maiden, the old women are authorized to seize him by his privates and so drag him in.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nAlas! I shall become a Procrustes.\n[Note 76: Nickname of the notorious brigand. The word means 'one who stretches and tortures,' from προκρούειν, and refers to his habit of fitting all his captives to the same bedstead—the 'bed of Procrustes'—stretching them if too short to the required length, lopping their limbs as required if they were too long. Here a further pun is involved, προκρούειν meaning also 'to go with a woman first.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nObey the law.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nBut if a fellow-citizen, a friend, came to pay my ransom?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nNo man may dispose of anything above a medimnus.\n[Note 77: Athenian law declared it illegal for a woman to contract any debt exceeding the price of a medimnus of corn; this law is now supposed to affect the men.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nBut may I not enter an excuse?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nThere's no evasion.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nI shall declare myself a merchant and so escape service.\n[Note 78: Merchants were exempt from military service; in this case, it is another kind of service that the old woman wants to exact from the young man.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nBeware what you do!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nWell! what is to be done?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nFollow me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nIs it absolutely necessary?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nYes, as surely as if Diomedes had commanded it.\n[Note 79: A Thracian brigand, who forced strangers to share his daughters' bed, or be devoured by his horses.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nWell then, first spread out a layer of origanum upon four pieces of wood; bind fillets round your head, bring phials of scent and place a bowl filled with lustral water before your door.\n[Note 80: Dead bodies were laid out on a layer of origanum, which is an aromatic plant.]\n[Note 81: The young man is here describing the formalities connected with the laying out of the dead.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nWill you buy a chaplet for me too?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nAye, if you outlast the tapers; for I expect to see you fall down dead as you go in.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nWhere are you dragging this unfortunate man to?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\n'Tis my very own property that I am leading in.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG GIRL\nYou do ill. A young fellow like him is not of the age to suit you. You ought to be his mother rather than his wife. With these laws in force, the earth will be filled with Œdipuses.\n[Note 82: Who had married his mother Jocasta without knowing it.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST OLD WOMAN\nOh! you cursed pest! 'tis envy that makes you say this; but I will be revenged.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nBy Zeus the Deliverer, what a service you have done me, by freeing me of this old wretch! with what ardour I will show you my gratitude in a form both long and thick!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nHi! you there! where are you taking that young man to, in spite of the law? The decree ordains that he must first sleep with me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nOh! what a misfortune! Where does this hag come from? 'Tis a more frightful monster than the other even.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nCome here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\n[to the young girl] Oh! I adjure you, don't let me be led off by her!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\n'Tis not I; 'tis the law that leads you off.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nNo, 'tis not the law, but an Empusa with a body covered with blemishes and blotches.\n[Note 83: A hideous spectre that Hecaté was supposed to send to frighten men.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nFollow me, my handsome little friend, come along quick without any more ado.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nOh! let me first do the needful, so that I may gather my wits somewhat. Else I should be so terrified that you would see me letting out something yellow.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nNever mind! you can stool, if you want, in my house.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nOh! I fear doing more than I want to; but I offer you two good securities.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nI don't require them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD OLD WOMAN\nHi! friend, where are you off to with that woman?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nI am not going with her, but am being dragged by force. Oh! whoever you are, may heaven bless you for having had pity on me in my dire misfortune. [Turns round and sees the Third Old Woman.] Oh Heracles! oh Heracles! oh Pan! Oh ye Corybantes! oh ye Dioscuri! Why, she is still more awful! Oh! what a monster! great gods! Are you an ape plastered with white lead, or the ghost of some old hag returned from the dark borderlands of death?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD OLD WOMAN\nNo jesting! Follow me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nNo, come this way.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD OLD WOMAN\nI will never let you go.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nNor will I.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nBut you will rend me asunder, you cursed wretches.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\n'Tis I he must go with according to the law.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD OLD WOMAN\nNot if an uglier old woman than yourself appears.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nBut if you kill me at the outset, how shall I afterwards go to find this beautiful girl of mine?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD OLD WOMAN\nThat's your business. But begin by obeying.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nOf which one must I rid myself first?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nDon't you know? Come here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nThen let the other one release me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD OLD WOMAN\nCome to my house.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nIf this dame will let me go.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nNo, by all the gods, I'll not let you go.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD OLD WOMAN\nNor will I.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nYou would make very bad boatwomen.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nWhy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nBecause you would tear your passengers to pieces in dragging them on board.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nThen come along, do, and hold your tongue.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD OLD WOMAN\nNo, by Zeus, come with me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\n'Tis clearly a case of the decree of Cannonus; I must cut myself in two in order to fuck you both. But how am I to work two oars at once?\n[Note 84: Which provided that where a number of criminals were charged with the same offence, each must be tried separately.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND OLD WOMAN\nEasily enough; you have only to eat a full pot of onions.\n[Note 85: As an aphrodisiac.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nOh! great gods! here I am close to the door and being dragged in!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD OLD WOMAN\n[to Second Old Woman] You will gain nothing by this, for I shall rush into your house with you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nOh, no! no! 'twould be better to suffer a single misfortune than two.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THIRD OLD WOMAN\nAh! by Hecaté, 'twill be all the same whether you wish it or not.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUNG MAN\nWhat a fate is mine, that I must gratify such a stinking harridan the whole night through and all day; then, when I am rid of her, I have still to tackle a hag of brick-colour hue! Am I not truly unfortunate? Ah! by Zeus the Deliverer! under what fatal star must I have been born, that I must sail in company with such monsters! But if my bark sinks in the sewer of these strumpets, may I be buried at the very threshold of the door; let this hag be stood upright on my grave, let her be coated alive with pitch and her legs covered with molten lead up to the ankles, and let her be set alight as a funeral lamp.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A SERVANT-MAID TO PRAXAGORA\n[she comes from the banquet] What happiness is the people's! what joy is mine, and above all that of my mistress! Happy are ye, who form choruses before our house! Happy all ye, both neighbours and fellow-citizens! Happy am I myself! I am but a servant, and yet I have poured on my hair the most exquisite essences. Let thanks be rendered to thee, oh, Zeus! But a still more delicious aroma is that of the wine of Thasos; its sweet bouquet delights the drinker for a long enough, whereas the others lose their bloom and vanish quickly. Therefore, long life to the wine-jars of Thasos! Pour yourselves out unmixed wine, it will cheer you the whole night through, if you choose the liquor that possesses most fragrance. But tell me, friends, where is my mistress's husband?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWait for him here; he will no doubt pass this way.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAID-SERVANT\nAh! there he is just going to dinner. Oh! master! what joy! what blessedness is yours!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nAh! d'you think so?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAID-SERVANT\nNone can compare his happiness to yours; you have reached its utmost height, you who, alone out of thirty thousand citizens, have not yet dined. CHORUS Aye, here is undoubtedly a truly happy man.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAID-SERVANT\nWhere are you off to?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPYRUS\nI am going to dine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAID-SERVANT\nBy Aphrodité, you will be the last of all, far and away the last. Yet my mistress has bidden me take you and take with you these young girls. Some Chian wine is left and lots of other good things. Therefore hurry, and invite likewise all the spectators whom we have pleased, and such of the judges as are not against us, to follow us; we will offer them everything they can desire. Let our hospitality be large and generous; forget no one, neither old nor young men, nor children. Dinner is ready for them all; they have but to go … home.\n[Note 86: We have already seen similar waggish endings to phrases in the 'Lysistrata'; the figure is called παρὰ προσδοκίαν—'contrary to expectation.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nI am betaking myself to the banquet with this torch in my hand according to custom. But why do you tarry, Blepyrus? Take these young girls with you and, while you are away a while, I will whet my appetite with some dining-song. I have but a few words to say: let the wise judge me because of whatever is wise in this piece, and those who like a laugh by whatever has made them laugh. In this way I address pretty well everyone. If the lot has assigned my comedy to be played first of all, don't let that be a disadvantage to me; engrave in your memory all that shall have pleased you in it and judge the competitors equitably as you have bound yourselves by oath to do. Don't act like vile courtesans, who never remember any but their last lover. It is time, friends, high time to go to the banquet, if we want to have our share of it. Open your ranks and let the Cretan rhythms regulate your dances.\n[Note 87: Nothing is known as to these Cretan rhythms. According to the Scholiast, this is a jest, because the Cretans, who were great eaters, sat down to table early in the morning. This is what the Chorus supposes it is going to do, since 'The Ecclesiazusæ' was played first, i.e. during the forenoon.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEMI-CHORUS\nReady; we are ready!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAnd you others, let your light steps too keep time. Very soon will be served a very fine menu—oysters-saltfish-skate-sharks'-heads left-over-vinegar-dressing-laserpitium-leek-with-honey-sauce-thrush blackbird-pigeon-dove-roast-cock's-brains-wagtail-cushat-hare-stewed in-new-wine-gristle-of-veal-pullet's-wings. Come, quick, seize hold of a plate, snatch up a cup, and let's run to secure a place at table. The rest will have their jaws at work by this time.\n[Note 88: Transcriber's note: In the original, all following words until 'wings' are connected with hyphens, i.e. they form one word.]\n[Note 89: This wonderful word consists, in the original Greek, of seventy-seven syllables. For similar burlesque compounds see the 'Lysistrata,' Lysistrata, 458; 'Wasps,' Wasps and 520. Compare Shakespeare, 'Love's Labour's Lost,' Act V. sc. 1: \"I marvel thy master hath not eaten thee for a word; for thou art not so long by the head as honorificabilitudinitatibus.\" This is outdone by Rabelais' Antipericatametaanaparbeugedamphicribrationibus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SEMI-CHORUS\nLet up leap and dance, Io! evoë! Let us to dinner, Io! evoë. For victory is ours, victory is ours! Ho! Victory! Io! evoë!",
+          "ref": null
+        }
+      ]
+    }
+  ]
+}

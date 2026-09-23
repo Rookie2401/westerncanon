@@ -1,0 +1,138 @@
+[
+  {
+    "where": "plato-theaetetus-grc / <sic>",
+    "note": "<sic> — Burnet's transcription explicitly flags \"νέον ὂν\" as printed exactly as the manuscript/tradition gives it (a marked but unemended reading); kept verbatim."
+  },
+  {
+    "where": "plato-theaetetus-grc / <sic>",
+    "note": "<sic> — Burnet's transcription explicitly flags \"οἷον ἀκίνητον τελέθει τῷ παντὶ ὄνομʼ εἶναι\" as printed exactly as the manuscript/tradition gives it (a marked but unemended reading); kept verbatim."
+  },
+  {
+    "where": "plato-theaetetus-grc / <sic>",
+    "note": "<sic> — Burnet's transcription explicitly flags \"καὶ δικαστήρια\" as printed exactly as the manuscript/tradition gives it (a marked but unemended reading); kept verbatim."
+  },
+  {
+    "where": "sec-147",
+    "note": "<del> excluded from the reading text: \"ἀποφαίνων\""
+  },
+  {
+    "where": "sec-152",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὃς\""
+  },
+  {
+    "where": "sec-152",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"ηομ. ιλ. 14.201, 302.\""
+  },
+  {
+    "where": "sec-153",
+    "note": "<del> excluded from the reading text: \"ἀναγκάζω\""
+  },
+  {
+    "where": "sec-158",
+    "note": "<del> excluded from the reading text: \"οἱ\""
+  },
+  {
+    "where": "sec-169",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-169",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-172",
+    "note": "<del> excluded from the reading text: \"ἣν ἀντωμοσίαν καλοῦσιν\""
+  },
+  {
+    "where": "sec-175",
+    "note": "<del> excluded from the reading text: \"ἀληθῆ\""
+  },
+  {
+    "where": "sec-179",
+    "note": "<del> excluded from the reading text: \"αὑτῷ\""
+  },
+  {
+    "where": "sec-180",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὄντα\""
+  },
+  {
+    "where": "sec-180",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Parmenides, line 98 (ed. Mullach).\""
+  },
+  {
+    "where": "sec-181",
+    "note": "<del> excluded from the reading text: \"ἔμοιγε δοκεῖ\""
+  },
+  {
+    "where": "sec-182",
+    "note": "<del> excluded from the reading text: \"ἔτι\""
+  },
+  {
+    "where": "sec-183",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "sec-183",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "sec-183",
+    "note": "<del> excluded from the reading text: \"δʼ οὕτως\""
+  },
+  {
+    "where": "sec-183",
+    "note": "<del> excluded from the reading text: \"ἢ\""
+  },
+  {
+    "where": "sec-183",
+    "note": "<del> excluded from the reading text: \"τί\""
+  },
+  {
+    "where": "sec-185",
+    "note": "<del> excluded from the reading text: \"τὸ\""
+  },
+  {
+    "where": "sec-188",
+    "note": "<del> excluded from the reading text: \"ὁ\""
+  },
+  {
+    "where": "sec-189",
+    "note": "<del> excluded from the reading text: \"ἀκούει\""
+  },
+  {
+    "where": "sec-189",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τι\""
+  },
+  {
+    "where": "sec-190",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "sec-190",
+    "note": "<del> excluded from the reading text: \"περὶ τοῦ ἑτέρου\""
+  },
+  {
+    "where": "sec-192",
+    "note": "<del> excluded from the reading text: \"ὃ\""
+  },
+  {
+    "where": "sec-196",
+    "note": "<del> excluded from the reading text: \"μᾶλλον\""
+  },
+  {
+    "where": "sec-197",
+    "note": "<del> excluded from the reading text: \"γὰρ\""
+  },
+  {
+    "where": "sec-200",
+    "note": "<del> excluded from the reading text: \"αὐτὴν\""
+  },
+  {
+    "where": "plato-theaetetus-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-theaetetus-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

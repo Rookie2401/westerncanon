@@ -1,0 +1,130 @@
+[
+  {
+    "where": "plutarch-solon-en / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (0 code point(s) remapped in this file). Entity decoding found 0 XML entities in this witness (verified corpus-wide: the tlg0007 texts use literal Unicode characters throughout, never &...; escapes)."
+  },
+  {
+    "where": "plutarch-solon-en / apparatus excluded",
+    "note": "65 <note> element(s) and 66 <bibl> element(s) (Perseus's own editorial/critical apparatus and citation-linking, never Perrin's printed prose) were excluded entirely, tag and content, at every nesting depth."
+  },
+  {
+    "where": "plutarch-solon-en / structural markers dropped",
+    "note": "0 <pb/> page-break marker(s) and 0 <milestone/> marker(s) were dropped (zero-width; this work's citation scheme is by chapter number alone, carried in the Division id/number - see about.json \"Reference scheme\")."
+  },
+  {
+    "where": "plutarch-solon-en / ch-2",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-3",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-4",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-5",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-6",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-7",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-8",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-9",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-10",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-11",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-12",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-15",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-16",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-17",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-18",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-19",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-20",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-21",
+    "note": "3 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-22",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-23",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-24",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-25",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-26",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-27",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-28",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-29",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-30",
+    "note": "3 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-31",
+    "note": "1 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  },
+  {
+    "where": "plutarch-solon-en / ch-32",
+    "note": "2 paragraph(s) cleaned to empty text (no surviving content after markup removal); dropped from the joined passage rather than emitted empty."
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "workId": "thucydides-history-en",
+  "title": "History of the Peloponnesian War",
+  "author": "Thucydides",
+  "language": "en",
+  "translator": "Richard Crawley",
+  "edition": "The Peloponnesian War, trans. Richard Crawley (London/Toronto: J. M. Dent and Sons Ltd.; New York: E. P. Dutton and Co., 1914)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0003.tlg001.perseus-eng6), digitising Richard Crawley's translation \"The Peloponnesian War\" (London/Toronto: J. M. Dent and Sons Ltd.; New York: E. P. Dutton and Co., 1914) - confirmed to be Crawley's translation by direct inspection of this file's own <sourceDesc>; imported by scripts/import-thucydides-history-en. The raw file is fetched once (cached at scripts/import-thucydides-history-en/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Crawley's 1914 translation is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Thucydides's History of the Peloponnesian War - English, trans. Crawley",
+      "paragraphs": [
+        "This is Richard Crawley's English translation of Thucydides's history of the war between Athens and Sparta (431-411 BC, the narrative breaking off unfinished), first published in 1874 and revised for this 1914 Dent/Dutton edition - the standard public-domain English Thucydides, still widely read and quoted today (e.g. \"The strong do what they can and the weak suffer what they must\", from the Melian Dialogue). It stands alongside the Greek text (data/thucydides-history-grc) already in this library as a facing English rendering.",
+        "The text here is Crawley's translation, verbatim. Nothing is further modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "Why Crawley, not Hobbes or Jowett",
+      "paragraphs": [
+        "Perseus's canonical-greekLit repository carries three complete English translations of Thucydides under this same CTS work (tlg0003.tlg001): perseus-eng4 (Thomas Hobbes, 1843), perseus-eng5 (Benjamin Jowett, 1900), and perseus-eng6 (Richard Crawley, 1914). This import uses eng6, Crawley's - the edition specified for this library, confirmed by direct inspection of the file's own <sourceDesc> to genuinely be Crawley's 1914 Dent/Dutton translation (not Hobbes's 1843 or Jowett's 1900 versions, which are not bundled here)."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Richard Crawley, trans., The Peloponnesian War (London/Toronto: J. M. Dent and Sons Ltd.; New York: E. P. Dutton and Co., 1914). This translation is in the public domain.",
+        "The work is divided into 8 Books and, within each Book, numbered chapters (917 total, matching the Greek sibling exactly, chapter for chapter)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0003.tlg001.perseus-eng6.xml (CTS urn:cts:greekLit:tlg0003.tlg001.perseus-eng6) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "This file's <text> element opens with a <front> before <body> - <front><div type=\"textpart\" subtype=\"speaker\"><list><item xml:id=\"...\">Name</item>...</list></div></front>, a 9-item dramatis-personae-style index of the who=\"...\" values <said> uses later (Corinthians, Corcyreans, Pericles, Athenians, Archidamus, Sthenelaidas, Pausanias, Themistocles, Xerxes) - which the importer never even sees: it only reads between <body> and </body>, so this front matter is excluded automatically, by construction.",
+        "The importer walks the book, chapter and section <div>s and collects each section's reading text - ordinarily a single <p>, but in the Melian Dialogue and the Corcyra/Corinth debate a <said who=\"...\"> wrapper instead (103 of 104 wrap a <p>; 1 carries bare text with no <p> at all) - into that chapter's single Passage, joined with a blank line. 2 <note resp=\"Crawley\"> elements (short source citations) and 6 <bibl> citations (Perseus's own apparatus) are excluded entirely. 65 self-closing <milestone> markers are dropped. Purely semantic wrapper tags (<placeName>, <persName>) and quotation/verse wrappers (<cit>, <quote>, <l>) are unwrapped, their text flowing into the surrounding prose unchanged. Entities are decoded and runs of whitespace collapsed; the words themselves are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter number, matching this edition's own numbering exactly and the Greek sibling's. This source carries no finer, page-marker-style citation scheme, so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 8 Books and all 917 chapters are present and in order, matching the Greek sibling exactly, chapter for chapter - independently confirmed, since this importer never reads the Greek file or its output.",
+        "The History is unfinished. Like the Greek, Crawley's translation breaks off abruptly at the end of Book 8 (411 BC); its final sentence is rendered with the same literal square brackets the Greek edition prints around a passage many scholars judge a later, non-Thucydidean addition.",
+        "Dialogue markup. The Melian Dialogue and Corcyra/Corinth debate render each speech turn as a <said who=\"...\"> wrapper rather than the Greek's <sp>/<speaker> dramatic markup; Crawley's own prose already names the speaker in full sentences (e.g. \"The Melian commissioners answered:-\"), so no label text needed to be synthesised.",
+        "Perseus editorial apparatus. 2 <note> elements and 6 <bibl> citations were dropped entirely, not part of Crawley's translated text.",
+        "Front-matter speaker index. This file's <text> carries a <front> before <body> - <front><div type=\"textpart\" subtype=\"speaker\"><list> of 9 <item xml:id=\"...\"> entries (Corinthians, Corcyreans, Pericles, Athenians, Archidamus, Sthenelaidas, Pausanias, Themistocles, Xerxes; 713 raw characters, confirmed the ONLY content of <front>) - a dramatis-personae-style index of the who=\"...\" values <said> uses, not running text. Never reaches the parser: this importer only reads between <body> and </body>."
+      ]
+    }
+  ]
+}

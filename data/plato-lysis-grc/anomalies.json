@@ -1,0 +1,78 @@
+[
+  {
+    "where": "plato-lysis-grc / <gap/>",
+    "note": "<gap reason=\"lost\"/> marks a genuine lacuna in a quoted verse fragment near \"...5d\"/> <cit><quote type=\"verse\"><l met=\"c\">καὶ πτωχὸς πτωχῷ,\" — no text recoverable, nothing substituted."
+  },
+  {
+    "where": "sec-204",
+    "note": "<del> excluded from the reading text: \"αὐτοῦ\""
+  },
+  {
+    "where": "sec-209",
+    "note": "<del> excluded from the reading text: \"ἐμβάλλειν\""
+  },
+  {
+    "where": "sec-211",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"δὲ\""
+  },
+  {
+    "where": "sec-212",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Solon 21.2\""
+  },
+  {
+    "where": "sec-213",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"μὴ\""
+  },
+  {
+    "where": "sec-214",
+    "note": "<del> excluded from the reading text: \"τὰ\""
+  },
+  {
+    "where": "sec-214",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.218\""
+  },
+  {
+    "where": "sec-215",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 25\""
+  },
+  {
+    "where": "sec-215",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"πρὸς\""
+  },
+  {
+    "where": "sec-216",
+    "note": "<del> excluded from the reading text: \"φίλῳ\""
+  },
+  {
+    "where": "sec-217",
+    "note": "<del> excluded from the reading text: \"οὗ\""
+  },
+  {
+    "where": "sec-217",
+    "note": "<del> excluded from the reading text: \"τι\""
+  },
+  {
+    "where": "sec-218",
+    "note": "<del> excluded from the reading text: \"ψευδέσιν\""
+  },
+  {
+    "where": "sec-219",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὄν\""
+  },
+  {
+    "where": "sec-219",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τοῦ φίλου\""
+  },
+  {
+    "where": "sec-220",
+    "note": "<del> excluded from the reading text: \"δὲ\""
+  },
+  {
+    "where": "plato-lysis-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-lysis-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

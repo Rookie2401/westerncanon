@@ -1,0 +1,10 @@
+[
+  {
+    "where": "sophistical-refutations-grc / whole work",
+    "note": "No Bekker page/column citation of any kind was found anywhere in this source file; Division.ref is null throughout (not guessed at)."
+  },
+  {
+    "where": "sophistical-refutations-grc / whole work",
+    "note": "1 passage(s) contain a standalone combining diacritic (typically U+0304 COMBINING MACRON or U+0306 COMBINING BREVE over omicron/nu, marking vowel quantity) that survives NFC normalisation because Unicode has no precomposed Greek letter for it - genuine philological notation, not a digitisation artefact, and kept verbatim."
+  }
+]

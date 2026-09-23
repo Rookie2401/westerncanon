@@ -1,0 +1,22 @@
+[
+  {
+    "where": "sophocles-oedipus-at-colonus-en / card-33 / sp[Stranger]/l[n=65]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Colonus\""
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-en / card-33 / sp[Oedipus]/l[n=66]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"in assembly\""
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-en / card-176 / sp[Antigone]/l[n=181a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-en / card-176 / sp[Oedipus]/l[n=181b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-en / card-176 / sp[Oedipus]/l[n=183]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  }
+]

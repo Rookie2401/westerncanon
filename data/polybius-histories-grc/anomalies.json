@@ -1,0 +1,694 @@
+[
+  {
+    "where": "book-1-ch-2",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-5-ch-50",
+    "note": "<gap reason=\"ellipsis\" (extent=\"7\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-6-ch-1",
+    "note": "<note> editorial apparatus excluded entirely (tag and content) - not part of Polybius's own text: \"θυαε συντ ϝ, 111\""
+  },
+  {
+    "where": "book-6-ch-1",
+    "note": "<note> editorial apparatus excluded entirely (tag and content) - not part of Polybius's own text: \"ολ. 140\""
+  },
+  {
+    "where": "book-6-ch-1",
+    "note": "<add> editorial supplement (Büttner-Wobst's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"οἱ Ῥωμαῖοι\""
+  },
+  {
+    "where": "book-6-ch-1",
+    "note": "<note> editorial apparatus excluded entirely (tag and content) - not part of Polybius's own text: \"ρει μιλιταρις παρτες θυασδαμ αττιγερατ\""
+  },
+  {
+    "where": "book-6-ch-1",
+    "note": "<note> editorial apparatus excluded entirely (tag and content) - not part of Polybius's own text: \"σαλιι\""
+  },
+  {
+    "where": "book-6-ch-11a",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-6-ch-11a",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-7-ch-11",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-8-ch-1",
+    "note": "<gap reason=\"ellipsis\" (extent=\"8\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-8-ch-8a",
+    "note": "<gap reason=\"ellipsis\" (extent=\"2\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-8-ch-8a",
+    "note": "<note> editorial apparatus excluded entirely (tag and content) - not part of Polybius's own text: \"δεμετριυς\""
+  },
+  {
+    "where": "book-8-ch-37",
+    "note": "<note> editorial apparatus excluded entirely (tag and content) - not part of Polybius's own text: \"σξιλ.\""
+  },
+  {
+    "where": "book-9-ch-9",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-9-ch-24",
+    "note": "<gap reason=\"ellipsis\" (extent=\"4\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-9-ch-25",
+    "note": "<gap reason=\"ellipsis\" (extent=\"4\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-9-ch-30",
+    "note": "<gap reason=\"ellipsis\" (extent=\"4\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-9-ch-40",
+    "note": "<gap reason=\"ellipsis\" (extent=\"4\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-9-ch-45",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-11-ch-26",
+    "note": "<gap reason=\"ellipsis\" (extent=\"8\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-12-ch-1",
+    "note": "<gap reason=\"ellipsis\" (extent=\"2\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-12-ch-25d",
+    "note": "<gap reason=\"ellipsis\" (extent=\"5\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-12-ch-25k",
+    "note": "<gap reason=\"ellipsis\" (extent=\"15\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-12-ch-26a",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-13-ch-10",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-13-ch-10",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-14-ch-11",
+    "note": "<add> editorial supplement (Büttner-Wobst's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"Πολύβιος\""
+  },
+  {
+    "where": "book-14-ch-11",
+    "note": "<add> editorial supplement (Büttner-Wobst's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"φησὶν\""
+  },
+  {
+    "where": "book-14-ch-11",
+    "note": "<add> editorial supplement (Büttner-Wobst's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"κόλακα γενέσθαι\""
+  },
+  {
+    "where": "book-14-ch-11",
+    "note": "<add> editorial supplement (Büttner-Wobst's own reconstruction filling a manuscript gap), kept verbatim in the reading text: \"Πτολεμαίῳ τῷ Φιλαδέλφῳ\""
+  },
+  {
+    "where": "book-16-ch-40",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-16-ch-40",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-16-ch-40",
+    "note": "<note> editorial apparatus excluded entirely (tag and content) - not part of Polybius's own text: \"Nihil huius libri superest.\""
+  },
+  {
+    "where": "book-18-ch-41a",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-32c",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-40",
+    "note": "<gap reason=\"ellipsis\" (extent=\"7\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-40",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-40",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-40",
+    "note": "<gap reason=\"ellipsis\" (extent=\"7\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\" (extent=\"19\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\" (extent=\"30\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\" (extent=\"26\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-21-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-22-ch-16",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-23-ch-10",
+    "note": "A paragraph cleaned to empty text; dropped from the reading text rather than emitted empty."
+  },
+  {
+    "where": "book-23-ch-12",
+    "note": "<gap reason=\"ellipsis\" (extent=\"8\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-24-ch-12",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-24-ch-12",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-24-ch-13",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-24-ch-13",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-24-ch-13",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-26-ch-1",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-29-ch-12",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-29-ch-12",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-29-ch-12",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-32-ch-11",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-34-ch-1",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-34-ch-8",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-34-ch-10",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-34-ch-11",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-34-ch-11",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-34-ch-12",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-35-ch-5",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\" (extent=\"6\")/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-36-ch-17",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-3",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-3",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-3",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-3",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-3",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-3",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-3",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-3",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-20",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-21",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-38-ch-22",
+    "note": "<gap reason=\"ellipsis\"/> in the source - a manuscript lacuna, printed with no literal rendering in this edition (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "polybius-histories-grc / completeness",
+    "note": "Only Books 1-5 survive complete. Books 6-39 survive only as excerpts and fragments (chiefly the Byzantine excerpt-collections compiled under Constantine VII Porphyrogenitus), so their chapter numbering is genuinely non-contiguous in this edition - numbers are sometimes skipped outright and sometimes carry a lettered suffix for inserted material; a lettered chapter is not always printed after its unlettered neighbour (Book 11 prints \"1a\" before \"1\"). All preserved exactly as printed - see about.json."
+  },
+  {
+    "where": "book-17",
+    "note": "Book 17 does not survive at all - not a single word of Polybius's own text. The source represents this with a single paragraph holding only the editor's own Latin apparatus note, \"Nihil huius libri superest.\" (\"Nothing of this book survives\"), wrapped in <note> and discarded like every other <note> in this source. book-17 is therefore imported with zero Chapters and no reading text - a genuine fact about the source, not a parsing failure."
+  },
+  {
+    "where": "polybius-histories-grc / reading text",
+    "note": "7 <note> editorial apparatus span(s) were excluded entirely (tag and content) - never part of Polybius's own text; every occurrence is logged individually above."
+  },
+  {
+    "where": "polybius-histories-grc / reading text",
+    "note": "5 <add> editorial supplement(s) (Büttner-Wobst's own reconstruction filling a manuscript gap) were kept verbatim in the reading text; every occurrence is logged individually above and flagged on its Passage."
+  },
+  {
+    "where": "polybius-histories-grc / completeness",
+    "note": "151 <gap reason=\"ellipsis\"/> manuscript lacuna(e) were found across the fragmentary books; each is kept as nothing extra (no literal rendering is given in this edition) and logged individually above and flagged on its Passage."
+  },
+  {
+    "where": "polybius-histories-grc / reading text",
+    "note": "104 <foreign xml:lang=\"lat\"> span(s) were unwrapped with their text kept in place - almost always Büttner-Wobst's own inline bracketed source-citation for a fragment (e.g. \"[Πολύβ. ΙΙΙ, 2, 6]\"), genuinely printed inline in the edition's running text. Note that both these and every <head> in this source are Latin words transliterated into look-alike Greek letters by Perseus's digitisation process (an encoding quirk of this specific digital edition, confirmed by direct inspection) - kept exactly as the source prints them, not \"corrected\" to actual Latin script."
+  },
+  {
+    "where": "polybius-histories-grc / reading text",
+    "note": "1 paragraph(s) cleaned to empty text were dropped rather than joined as an empty segment."
+  },
+  {
+    "where": "polybius-histories-grc / structure",
+    "note": "This witness nests an extra <div subtype=\"section\"> level between chapter and paragraph (12153 sections total). Every <p> under a chapter div is read straight through regardless of its section-nesting depth, in document order, into that chapter's single Passage - matching this app's established de-bello-gallico-la precedent. Section-level citation (the third element of the traditional \"book.chapter.section\" reference) is therefore not separately preserved as its own Division."
+  },
+  {
+    "where": "polybius-histories-grc / passage & division refs",
+    "note": "Division.ref and Passage.ref are null throughout: this source carries no page-marker or milestone citation scheme."
+  }
+]

@@ -66,9 +66,10 @@ describe('Library', () => {
     }
 
     // Collapsed families keep their editions mounted (for the height animation)
-    // but inside a closed .collapsible and marked inert.
+    // but inside a closed .collapsible and marked inert. ('Greek · Bekker' is
+    // no longer a family-only label: Greek-only Aristotle works such as De
+    // Anima render as direct links, so it is not probed here.)
     for (const el of [
-      ...screen.queryAllByText('Greek · Bekker'),
       ...screen.queryAllByText('Greek · Busse'),
       ...screen.queryAllByText('Latin · trans. Boethius'),
     ]) {

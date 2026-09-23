@@ -1,0 +1,234 @@
+[
+  {
+    "where": "plato-sophist-en",
+    "note": "<head> (the work's own title, \"The Sophist\") stripped - the app's own UI already shows the work title; kept out of the reading text to avoid duplicating it inline."
+  },
+  {
+    "where": "sec-216",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 9.271;\""
+  },
+  {
+    "where": "sec-216",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.485-7\""
+  },
+  {
+    "where": "sec-216",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"A modified quotation from Hom. Od. 9.271; Hom. Od. 17.485-7\""
+  },
+  {
+    "where": "sec-216",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Od. 17.485-7\""
+  },
+  {
+    "where": "sec-216",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Cf. Od. 17.485-7\""
+  },
+  {
+    "where": "sec-216",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.485-7\""
+  },
+  {
+    "where": "sec-216",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Cf. Hom. Od. 17.485-7 .\""
+  },
+  {
+    "where": "sec-216",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.485-7\""
+  },
+  {
+    "where": "sec-221",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Plato’s etymology— ἀσπαλιευτική from ἀνασπᾶσθαι — is hardly less absurd than that suggested in the translation. The words at an angle are in…\""
+  },
+  {
+    "where": "sec-224",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The word μουσική , here rendered liberal arts, is much more inclusive than the English word music, designating, as it does, nearly all educa…\""
+  },
+  {
+    "where": "sec-226",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Crat. 338b\""
+  },
+  {
+    "where": "sec-226",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Apparently a term descriptive of some part of the process of weaving; cf. Plat. Crat. 338b .\""
+  },
+  {
+    "where": "sec-228",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The connection between disproportion and missing the mark is not obvious. The explanation that a missile (e.g. an arrow) which is not evenly…\""
+  },
+  {
+    "where": "sec-233",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Theaet. 232d\""
+  },
+  {
+    "where": "sec-233",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Cf. Plat. Theaet. 232d .\""
+  },
+  {
+    "where": "sec-234",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hes. WD 216\""
+  },
+  {
+    "where": "sec-234",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Apparently a reference to a proverbial expression. Cf. Hes. WD 216 ἔγνω παθών ; Herodotus, 1.207 τὰ παθήματα μαθήματα .\""
+  },
+  {
+    "where": "sec-237",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Parmenides Fr. 7\""
+  },
+  {
+    "where": "sec-242",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"This refers apparently to Pherecydes and the early lonians.\""
+  },
+  {
+    "where": "sec-242",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Heracleitus and his followers.\""
+  },
+  {
+    "where": "sec-242",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Empedocles and his disciples.\""
+  },
+  {
+    "where": "sec-243",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"In both cases, i.e. whether you say that one only is or that both are, they would both be one, namely being.\""
+  },
+  {
+    "where": "sec-244",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The Eleatic Zeno and his school.\""
+  },
+  {
+    "where": "sec-244",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"In other words, one, considered as a word, will be the name of unity, but considered as a reality, it will be the unity of which the word on…\""
+  },
+  {
+    "where": "sec-244",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Parmenides Fr. 8.43\""
+  },
+  {
+    "where": "sec-246",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The Ionic philosophers, the Eleatics, Heracleitus, Empedocles, the Megarians, Gorgias, Protagoras, and Antisthenes all discussed the problem…\""
+  },
+  {
+    "where": "sec-246",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The atomists (Leucippus, Democritus, and their followers), who taught that nothing exists except atoms and the void. Possibly there is a cov…\""
+  },
+  {
+    "where": "sec-247",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"This refers to the story of Cadmus, who killed a dragon and then sowed its teeth, from which sprang fierce warriors to be his companions. Bo…\""
+  },
+  {
+    "where": "sec-248",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"i.e., between the process of coming into existence and existence itself. It is difficult to determine exactly who the idealists are whose do…\""
+  },
+  {
+    "where": "sec-249",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Nothing further seems to he known about this prayer. Stallbaum thought the reference was to a game in which the children said ὅσα ἀκίνητα κα…\""
+  },
+  {
+    "where": "sec-250",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Cf. 242d above.\""
+  },
+  {
+    "where": "sec-251",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Those are here satirized who deny the possibillty of all except identical predication. Such were Antisthenes, Euthydemus, and Dionysodorus. …\""
+  },
+  {
+    "where": "sec-252",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Aristoph. Wasps 1019\""
+  },
+  {
+    "where": "sec-252",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Eurycles was a ventriloquist and soothsayer of the fifth century, cf. Aristoph. Wasps 1019\""
+  },
+  {
+    "where": "sec-254",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"By practice, i.e., by empirical knowledge as opposed to reason.\""
+  },
+  {
+    "where": "sec-255",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"i.e., sameness and difference can he predicated of both.\""
+  },
+  {
+    "where": "sec-256",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Theaet. 251e ff\""
+  },
+  {
+    "where": "sec-256",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"See Plat. Theaet. 251e ff\""
+  },
+  {
+    "where": "sec-256",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Being is many, for each and every thing in all the classes is; but not-being is infinite, for not only is it true that everything in each of…\""
+  },
+  {
+    "where": "sec-257",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"i.e., if he will not accept our proof that being is not, etc., he must disprove our arguuents respecting the participation of idea in one an…\""
+  },
+  {
+    "where": "sec-257",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The two particles οὐ and μή in Greek.\""
+  },
+  {
+    "where": "sec-258",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Parmenides Fr. 7.1\""
+  },
+  {
+    "where": "sec-259",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The denial, that is to say, of all the interrelations of ideas leads to purely negative results. Examples of this are the exclusive antithes…\""
+  },
+  {
+    "where": "sec-261",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The English word fancy, though etymologically identical with the Greek φαντασία , has lost the close connection with seeming ( φαίνεσθαι ) w…\""
+  },
+  {
+    "where": "sec-261",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Perhaps a sort of pun is intended, for πρόβλημα was already beginning to have the meaning of problem.\""
+  },
+  {
+    "where": "sec-262",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Theaet. 203\""
+  },
+  {
+    "where": "sec-262",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Soph. 253\""
+  },
+  {
+    "where": "sec-262",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The science of language, in all its branches, was young in the time of Plato. Words of general meaning were necessarily used in a technical …\""
+  },
+  {
+    "where": "sec-264",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Theaet. 235d ff\""
+  },
+  {
+    "where": "sec-264",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"See Plat. Theaet. 235d ff\""
+  },
+  {
+    "where": "sec-265",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Theaet. 219\""
+  },
+  {
+    "where": "sec-265",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"See Plat. Theaet. 219\""
+  },
+  {
+    "where": "sec-266",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Tim. 46a\""
+  },
+  {
+    "where": "sec-266",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Theaet. 193c\""
+  },
+  {
+    "where": "sec-266",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"This was the current explanation of reflection. Mirrors and smooth objects were supposed to contain a luminous principle which met on the sm…\""
+  },
+  {
+    "where": "plato-sophist-en / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-sophist-en / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "where": "euripides-rhesus-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-rhesus-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-rhesus-grc / speaker",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Χορός\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-1 / sp[[Χορός]]/l[n=17b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὐκ ἔστι.\""
+  },
+  {
+    "where": "euripides-rhesus-grc / speaker",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Ἕκτωρ\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-34 / sp[Ἕκτωρ]/l[n=37]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"φυλακὰς δὲ λιπὼν\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-34 / sp[Ἕκτωρ]/l[n=38]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κινεῖς στρατιάν.\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-201 / sp[Δόλων]/l[n=201]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-242 / sp[Χορός]/l[n=245]",
+    "note": "<add> included in reading text: \"τις\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-422 / sp[Ῥῆσος]/l[n=435]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-454 / sp[Χορός]/l[n=466]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἀποινάσαιο\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-565 / sp[Διομήδης]/l[n=573]",
+    "note": "<add> included in reading text: \"Φοῖβον\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-683 / sp[Χορός]/l[n=686b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-rhesus-grc / card-710 / sp[Χορός]/l[n=726]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-rhesus-grc / card-820 / sp[Χορός]/l[n=829]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-rhesus-grc / card-833 / sp[Ἕκτωρ]/l[n=877]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-882 / sp[Χορός]/l[n=885]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὦ ὦ.\""
+  },
+  {
+    "where": "euripides-rhesus-grc / card-906 / sp[Μοῦσα]/l[n=912]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ὑπʼ Ἰλίῳ\""
+  }
+]

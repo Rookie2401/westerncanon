@@ -1,0 +1,1190 @@
+[
+  {
+    "tlg": "tlg001",
+    "engTitle": "Theseus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg001.perseus-grc2",
+        "label": "Θησεύς",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg001.perseus-eng3",
+        "label": "Theseus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg002",
+    "engTitle": "Romulus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg002.perseus-grc2",
+        "label": "Ῥωμύλος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg002.perseus-eng2",
+        "label": "Romulus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg003",
+    "engTitle": "Comparison of Theseus and Romulus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg003.perseus-grc2",
+        "label": "Θησέως καὶ Ῥωμύλου σύγκρισις",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg003.perseus-eng2",
+        "label": "Comparison of Theseus and Romulus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg004",
+    "engTitle": "Lycurgus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg004.perseus-grc2",
+        "label": "Λυκοῦργος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg004.perseus-eng2",
+        "label": "Lycurgus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg005",
+    "engTitle": "Numa",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg005.perseus-grc2",
+        "label": "Νομᾶς",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg005.perseus-eng2",
+        "label": "Numa",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg006",
+    "engTitle": "Comparison of Lycurgus and Numa",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg006.perseus-grc2",
+        "label": "Λυκούργου καὶ Νομᾶ σύγκρισις",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg006.perseus-eng2",
+        "label": "Comparison of Lycurgus and Numa",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg007",
+    "engTitle": "Solon",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg007.perseus-grc2",
+        "label": "Σόλων",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg007.perseus-eng2",
+        "label": "Solon",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg008",
+    "engTitle": "Publicola",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg008.perseus-grc2",
+        "label": "Ποπλικόλας",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg008.perseus-eng2",
+        "label": "Publicola",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg009",
+    "engTitle": "Comparison of Solon and Publicola",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg009.perseus-grc2",
+        "label": "Σόλωνος καὶ Ποπλικόλα σύγκρισις",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg009.perseus-eng2",
+        "label": "Comparison of Solon and Publicola",
+        "desc": "Plutarch. Plutarch's Lives, Vol. I. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg010",
+    "engTitle": "Themistocles",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg010.perseus-grc2",
+        "label": "Θεμιστοκλῆς",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg010.perseus-eng2",
+        "label": "Themistocles",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg011",
+    "engTitle": "Camillus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg011.perseus-grc2",
+        "label": "Κάμιλλος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg011.perseus-eng2",
+        "label": "Camillus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg012",
+    "engTitle": "Pericles",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg012.perseus-grc2",
+        "label": "Περικλῆς",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg012.perseus-eng2",
+        "label": "Pericles",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg013",
+    "engTitle": "Fabius Maximus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg013.perseus-grc2",
+        "label": "Φάβιος Μάξιμος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg013.perseus-eng2",
+        "label": "Fabius Maximus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg014",
+    "engTitle": "Comparison of Pericles and Fabius Maximus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg014.perseus-grc2",
+        "label": "Περικλέους καὶ Φαβίου σύγκρισις",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg014.perseus-eng2",
+        "label": "Comparison of Pericles and Fabius Maximus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg015",
+    "engTitle": "Alcibiades",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg015.perseus-grc2",
+        "label": "Ἀλκιβιάδης",
+        "desc": "Plutarch. Alcibiades, Plutarch's Lives, Vol. IV. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg015.perseus-eng2",
+        "label": "Alcibiades",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg016",
+    "engTitle": "Caius Marcius Coriolanus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg016.perseus-grc2",
+        "label": "Γάϊος Μάρκιος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg016.perseus-eng2",
+        "label": "Caius Marcius Coriolanus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg017",
+    "engTitle": "Comparison of Alcibiades and Coriolanus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg017.perseus-grc2",
+        "label": "Ἀλκιβιάδου καὶ Κοριολὰνου σύγκρισις",
+        "desc": "Plutarch. Perrin, Bernadotte, editor. Plutarch's Lives, Vol. IV. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg017.perseus-eng2",
+        "label": "Comparison of Alcibiades and Coriolanus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg018",
+    "engTitle": "Timoleon",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg018.perseus-grc2",
+        "label": "Τιμολέων",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg018.perseus-eng2",
+        "label": "Timoleon",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg019",
+    "engTitle": "Aemilius Paulus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg019.perseus-grc2",
+        "label": "Αἰμίλιος Παῦλλος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, editor. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg019.perseus-eng2",
+        "label": "Aemilius Paulus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg020",
+    "engTitle": "Comparison of Timoleon and Aemilius",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg020.perseus-grc2",
+        "label": "Σύγκρισις Τιμολέοντος καὶ Αἰμιλίου",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, editor. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg020.perseus-eng2",
+        "label": "Comparison of Timoleon and Aemilius",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg021",
+    "engTitle": "Pelopidas",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg021.perseus-grc2",
+        "label": "Πελοπίδας",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg021.perseus-eng2",
+        "label": "Pelopidas",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg022",
+    "engTitle": "Marcellus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg022.perseus-grc2",
+        "label": "Μάρκελλος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg022.perseus-eng2",
+        "label": "Marcellus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg023",
+    "engTitle": "Comparison of Pelopidas and Marcellus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg023.perseus-grc2",
+        "label": "Πελοπίδου καὶ Μαρκέλλου σύγκρισις",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg023.perseus-eng2",
+        "label": "Comparison of Pelopidas and Marcellus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg024",
+    "engTitle": "Aristides",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg024.perseus-grc2",
+        "label": "Ἀριστείδης",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg024.perseus-eng2",
+        "label": "Aristides",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg025",
+    "engTitle": "Marcus Cato",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg025.perseus-grc2",
+        "label": "Μάρκος Κάτων",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg025.perseus-eng2",
+        "label": "Marcus Cato",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg026",
+    "engTitle": "Comparison of Aristides and Marcus Cato",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg026.perseus-grc2",
+        "label": "Ἀριστείδου καὶ Κάτωνος σύγκρισις",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg026.perseus-eng2",
+        "label": "Comparison of Aristides and Marcus Cato",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg027",
+    "engTitle": "Philopoemen",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg027.perseus-grc2",
+        "label": "Φιλοποίμην",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg027.perseus-eng2",
+        "label": "Philopoemen",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg028",
+    "engTitle": "Titus Flamininus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg028.perseus-grc2",
+        "label": "Τίτος Φλαμινῖνος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg028.perseus-eng2",
+        "label": "Titus Flamininus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg029",
+    "engTitle": "Comparison of Philopoemen and Titus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg029.perseus-grc2",
+        "label": "Φιλοποίμενος καὶ Τίτου σύγκρισις",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg029.perseus-eng2",
+        "label": "Comparison of Philopoemen and Titus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg030",
+    "engTitle": "Pyrrhus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg030.perseus-grc2",
+        "label": "Πύρρος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg030.perseus-eng2",
+        "label": "Pyrrhus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1920."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg031",
+    "engTitle": "Caius Marius",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg031.perseus-grc2",
+        "label": "Γάιος Μάριος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg031.perseus-eng2",
+        "label": "Caius Marius",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1920."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg032",
+    "engTitle": "Lysander",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg032.perseus-grc2",
+        "label": "Λύσανδρος",
+        "desc": "Plutarch. Perrin, Bernadotte, editor. Plutarch's Lives, Vol. IV. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg032.perseus-eng2",
+        "label": "Lysander",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg033",
+    "engTitle": "Sulla",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg033.perseus-grc2",
+        "label": "Σύλλας",
+        "desc": "Plutarch. Perrin, Bernadotte, editor. Plutarch's Lives, Vol. IV. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg033.perseus-eng2",
+        "label": "Sulla",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg034",
+    "engTitle": "Comparison of Lysander and Sulla",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg034.perseus-grc2",
+        "label": "Σύγκρισις Λυσάνδρου καὶ Σύλλα",
+        "desc": "Plutarch. Perrin, Bernadotte, editor. Plutarch's Lives, Vol. IV. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg034.perseus-eng2",
+        "label": "Comparison of Lysander and Sulla",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IV. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg035",
+    "engTitle": "Cimon",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg035.perseus-grc2",
+        "label": "Κίμων",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg035.perseus-eng2",
+        "label": "Cimon",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg036",
+    "engTitle": "Lucullus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg036.perseus-grc2",
+        "label": "Λούκουλλος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg036.perseus-eng2",
+        "label": "Lucullus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg037",
+    "engTitle": "Comparison of Lucullus and Cimon",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg037.perseus-grc2",
+        "label": "Κίμωνος καὶ Λουκούλλος σύγκρισις",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, editor. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg037.perseus-eng2",
+        "label": "Comparison of Lucullus and Cimon",
+        "desc": "Plutarch. Plutarch's Lives, Vol. II. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg038",
+    "engTitle": "Nicias",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg038.perseus-grc2",
+        "label": "Νικίας",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg038.perseus-eng2",
+        "label": "Nicias",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg039",
+    "engTitle": "Crassus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg039.perseus-grc2",
+        "label": "Κράσσος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg039.perseus-eng2",
+        "label": "Crassus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg040",
+    "engTitle": "Comparison of Nicias and Crassus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg040.perseus-grc2",
+        "label": "Νικίου καὶ Κράσσου σύγκρισις",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg040.perseus-eng2",
+        "label": "Comparison of Nicias and Crassus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. III. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1914."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg041",
+    "engTitle": "Eumenes",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg041.perseus-grc2",
+        "label": "Εὐμένης",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, editor. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg041.perseus-eng2",
+        "label": "Eumenes",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg042",
+    "engTitle": "Sertorius",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg042.perseus-grc2",
+        "label": "Σερτώριος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg042.perseus-eng2",
+        "label": "Sertorius",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg043",
+    "engTitle": "Comparison of Sertorius and Eumenes",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg043.perseus-grc2",
+        "label": "Σύγκρισις Σερτωρίου καὶ Εὐμένους",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg043.perseus-eng2",
+        "label": "Comparison of Sertorius and Eumenes",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg044",
+    "engTitle": "Agesilaus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg044.perseus-grc2",
+        "label": "Ἀγησίλαος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg044.perseus-eng2",
+        "label": "Agesilaus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg045",
+    "engTitle": "Pompey",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg045.perseus-grc2",
+        "label": "Πομπήϊος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg045.perseus-eng2",
+        "label": "Pompey",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg046",
+    "engTitle": "Comparison of Agesilaus and Pompey",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg046.perseus-grc2",
+        "label": "Ἀγησιλάου καὶ Πομπηΐου σύγκρισις",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg046.perseus-eng2",
+        "label": "Comparison of Agesilaus and Pompey",
+        "desc": "Plutarch. Plutarch's Lives, Vol. V. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1917."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg047",
+    "engTitle": "Alexander",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg047.perseus-grc2",
+        "label": "Ἀλέξανδρος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg047.perseus-eng2",
+        "label": "Alexander",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg048",
+    "engTitle": "Caesar",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg048.perseus-grc2",
+        "label": "Καῖσαρ",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg048.perseus-eng2",
+        "label": "Caesar",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg049",
+    "engTitle": "Phocion",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg049.perseus-grc2",
+        "label": "Φωκίων",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg049.perseus-eng2",
+        "label": "Phocion",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg050",
+    "engTitle": "Cato the Younger",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg050.perseus-grc2",
+        "label": "Κάτων",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg050.perseus-eng2",
+        "label": "Cato the Younger",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VIII. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg051",
+    "engTitle": "Agis and Cleomenes",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg051.perseus-grc1",
+        "label": "Ἄγις καὶ Κλεομένης",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg051.perseus-eng1",
+        "label": "Agis and Cleomenes",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg052",
+    "engTitle": "Tiberius and Caius Gracchus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg052.perseus-grc1",
+        "label": "Tιβέριος καὶ Γάιος Γράκχοι",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg052.perseus-eng1",
+        "label": "Tiberius and Caius Gracchus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg053",
+    "engTitle": "Comparison of Agis and Cleomenes and the Gracchi",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg053.perseus-grc2",
+        "label": "Σύγκρισις Ἄγιδος καὶ Κλεομένους καὶ τῶν Γράκχων",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg053.perseus-eng2",
+        "label": "Comparison of Agis and Cleomenes and the Gracchi",
+        "desc": "Plutarch. Plutarch's Lives, Vol. X. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1921."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg054",
+    "engTitle": "Demosthenes",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg054.perseus-grc2",
+        "label": "Δημοσθένης",
+        "desc": "Plutarch. Perrin, Bernadotte, editor. Plutarch's Lives, Vol. VII. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg054.perseus-eng2",
+        "label": "Demosthenes",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg055",
+    "engTitle": "Cicero",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg055.perseus-grc2",
+        "label": "Κικέρων",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg055.perseus-eng2",
+        "label": "Cicero",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg056",
+    "engTitle": "Comparison of Demosthenes and Cicero",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg056.perseus-grc2",
+        "label": "Σύγκρισις Δημοσθένους καὶ Κικέρωνος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg056.perseus-eng2",
+        "label": "Comparison of Demosthenes and Cicero",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VII. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1919."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg057",
+    "engTitle": "Demetrius",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg057.perseus-grc2",
+        "label": "Δημήτριος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg057.perseus-eng2",
+        "label": "Demetrius",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg058",
+    "engTitle": "Antony",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg058.perseus-grc2",
+        "label": "Ἀντώνιος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg058.perseus-eng2",
+        "label": "Antony",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg059",
+    "engTitle": "Comparison of Demetrius and Antony",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg059.perseus-grc2",
+        "label": "Σύγκρισις Δημητρίου καὶ Ἀντωνίου",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg059.perseus-eng2",
+        "label": "Comparison of Demetrius and Antony",
+        "desc": "Plutarch. Plutarch's Lives, Vol. IX. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1920."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg060",
+    "engTitle": "Dion",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg060.perseus-grc2",
+        "label": "Δίων",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg060.perseus-eng2",
+        "label": "Dion",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg061",
+    "engTitle": "Brutus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg061.perseus-grc2",
+        "label": "Βροῦτος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg061.perseus-eng2",
+        "label": "Brutus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg062",
+    "engTitle": "Comparison of Dion and Brutus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg062.perseus-grc2",
+        "label": "Σύγκρισις Δίωνος καὶ Βρούτου",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg062.perseus-eng2",
+        "label": "Comparison of Dion and Brutus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. VI. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1918."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg063",
+    "engTitle": "Aratus",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg063.perseus-grc2",
+        "label": "Ἄρατος",
+        "desc": "Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1926."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg063.perseus-eng2",
+        "label": "Aratus",
+        "desc": "Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1926."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg064",
+    "engTitle": "Artaxerxes",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg064.perseus-grc2",
+        "label": "Ἀρταξέρξης",
+        "desc": "Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1926."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg064.perseus-eng2",
+        "label": "Artaxerxes",
+        "desc": "Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1926."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg065",
+    "engTitle": "Galba",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg065.perseus-grc2",
+        "label": "Γάλβας",
+        "desc": "Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1926."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg065.perseus-eng2",
+        "label": "Galba",
+        "desc": "Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1926."
+      }
+    ]
+  },
+  {
+    "tlg": "tlg066",
+    "engTitle": "Otho",
+    "editions": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg066.perseus-grc2",
+        "label": "Ὄθων",
+        "desc": "Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1926."
+      }
+    ],
+    "translations": [
+      {
+        "urn": "urn:cts:greekLit:tlg0007.tlg066.perseus-eng2",
+        "label": "Otho",
+        "desc": "Plutarch. Plutarch's Lives, Vol. XI. Perrin, Bernadotte, translator. Cambridge,\n         MA: Harvard University Press; London: William Heinemann Ltd., 1926."
+      }
+    ]
+  }
+]

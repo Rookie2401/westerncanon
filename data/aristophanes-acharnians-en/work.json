@@ -1,0 +1,2381 @@
+{
+  "workId": "aristophanes-acharnians-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "dramatis-personae",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "Dramatis Personae",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "DICÆOPOLIS.\nHERALD.\nAMPHITHEUS.\nAMBASSADORS.\nPSEUDARTABAS.\nTHEORUS.\nWIFE OF DICÆOPOLIS.\nDAUGHTER OF DICÆOPOLIS.\nEURIPIDES.\nCEPHISOPHON, servant of Euripides.\nLAMACHUS.\nATTENDANT OF LAMACHUS.\nA MEGARIAN.\nMAIDENS, daughters of the Megarian.\nA BŒOTIAN.\nNICARCHUS.\nA HUSBANDMAN.\nA BRIDESMAID.\nAN INFORMER.\nMESSENGERS.\nCHORUS OF ACHARNIAN ELDERS.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "text",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "The Acharnians",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "[SCENE: The Athenian Ecclesia on the Pnyx; afterwards Dicæopolis' house in the country.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\n[alone] What cares have not gnawed at my heart and how few have been the pleasures in my life! Four, to be exact, while my troubles have been as countless as the grains of sand on the shore! Let me see of what value to me have been these few pleasures? Ah! I remember that I was delighted in soul when Cleon had to disgorge those five talents; I was in ecstasy and I love the Knights for this deed; 'it is an honour to Greece.' But the day when I was impatiently awaiting a piece by Æschylus, what tragic despair it caused me when the herald called, \"Theognis, introduce your Chorus!\" Just imagine how this blow struck straight at my heart! On the other hand, what joy Dexitheus caused me at the musical competition, when he played a Bœotian melody on the lyre! But this year by contrast! Oh! what deadly torture to hear Chæris perform the prelude in the Orthian mode!—Never, however, since I began to bathe, has the dust hurt my eyes as it does to-day. Still it is the day of assembly; all should be here at daybreak, and yet the Pnyx is still deserted. They are gossiping in the market-place, slipping hither and thither to avoid the vermilioned rope. The Prytanes even do not come; they will be late, but when they come they will push and fight each other for a seat in the front row. They will never trouble themselves with the question of peace. Oh! Athens! Athens! As for myself, I do not fail to come here before all the rest, and now, finding myself alone, I groan, yawn, stretch, break wind, and know not what to do; I make sketches in the dust, pull out my loose hairs, muse, think of my fields, long for peace, curse town life and regret my dear country home, which never told me to 'buy fuel, vinegar or oil'; there the word 'buy,' which cuts me in two, was unknown; I harvested everything at will. Therefore I have come to the assembly fully prepared to bawl, interrupt and abuse the speakers, if they talk of aught but peace. But here come the Prytanes, and high time too, for it is midday! As I foretold, hah! is it not so? They are pushing and fighting for the front seats.\n[Note 1: A name invented by Aristophanes and signifying 'a just citizen.']\n[Note 2: Cleon had received five talents from the islanders subject to Athens, on condition that he should get the tribute payable by them reduced; when informed of this transaction, the Knights compelled him to return the money.]\n[Note 3: A hemistich borrowed from Euripides' 'Telephus.']\n[Note 4: The tragedies of Æschylus continued to be played even after the poet's death, which occurred in 436 B.C., ten years before the production of the Acharnians.]\n[Note 5: A tragic poet, whose pieces were so devoid of warmth and life that he was nicknamed χιών, i.e. snow.]\n[Note 6: A bad musician, frequently ridiculed by Aristophanes; he played both the lyre and the flute.]\n[Note 7: A lively and elevated method.]\n[Note 8: A hill near the Acropolis, where the Assemblies were held.]\n[Note 9: Several means were used to force citizens to attend the assemblies; the shops were closed; circulation was only permitted in those streets which led to the Pnyx; finally, a rope covered with vermilion was drawn round those who dallied in the Agora (the marketplace), and the late-comers, ear-marked by the imprint of the rope, were fined.]\n[Note 10: Magistrates who, with the Archons and the Epistatæ, shared the care of holding and directing the assemblies of the people; they were fifty in number.]\n[Note 11: The Peloponnesian War had already, at the date of the representation of the 'Acharnians,' lasted five years, 431-426 B.C.; driven from their lands by the successive Lacedæmonian invasions, the people throughout the country had been compelled to seek shelter behind the walls of Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nMove on up, move on, move on, to get within the consecrated area.\n[Note 12: Shortly before the meeting of the Assembly, a number of young pigs were immolated and a few drops of their blood were sprinkled on the seats of the Prytanes; this sacrifice was in honour of Ceres.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nHas anyone spoken yet?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nWho asks to speak?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nI do.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nYour name?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nAmphitheus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nYou are no man.\n[Note 13: The name, Amphitheus, contains the word, Θεός, god.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nNo! I am an immortal! Amphitheus was the son of Ceres and Triptolemus; of him was born Celeus. Celeus wedded Phæncreté, my grandmother, whose son was Lucinus, and, being born of him, I am an immortal; it is to me alone that the gods have entrusted the duty of treating with the Lacedæmonians. But, citizens, though I am immortal, I am dying of hunger; the Prytanes give me naught.\n[Note 14: Amongst other duties, it was the office of the Prytanes to look after the wants of the poor.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A PRYTANIS\nGuards!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nOh, Triptolemus and Ceres, do ye thus forsake your own blood?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nPrytanes, in expelling this citizen, you are offering an outrage to the Assembly. He only desired to secure peace for us and to sheathe the sword.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRYTANIS\nSit down and keep silence!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNo, by Apollo, will I not, unless you are going to discuss the question of peace.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nThe ambassadors, who are returned from the Court of the King!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOf what King? I am sick of all those fine birds, the peacock ambassadors and their swagger.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nSilence!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh! oh! by Ecbatana, what assumption!\n[Note 15: The summer residence of the Great King.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AN AMBASSADOR\nDuring the archonship of Euthymenes, you sent us to the Great King on a salary of two drachmæ per diem.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! those poor drachmæ!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nWe suffered horribly on the plains of the Caÿster, sleeping under a tent, stretched deliciously on fine chariots, half dead with weariness.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd I was very much at ease, lying on the straw along the battlements!\n[Note 16: Referring to the hardships he had endured garrisoning the walls of Athens during the Lacedæmonian invasions early in the War.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nEverywhere we were well received and forced to drink delicious wine out of golden or crystal flagons….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh, city of Cranaus, thy ambassadors are laughing at thee!\n[Note 17: Cranaus, the second king of Athens, the successor of Cecrops.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nFor great feeders and heavy drinkers are alone esteemed as men by the barbarians.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nJust as here in Athens, we only esteem the most drunken debauchees.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nAt the end of the fourth year we reached the King's Court, but he had left with his whole army to ease himself, and for the space of eight months he was thus easing himself in midst of the golden mountains.\n[Note 18: Lucian, in his 'Hermotimus,' speaks of these golden mountains as an apocryphal land of wonders and prodigies.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd how long was he replacing his dress?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nThe whole period of a full moon; after which he returned to his palace; then he entertained us and had us served with oxen roasted whole in an oven.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWho ever saw an oxen baked in an oven? What a lie!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nOn my honour, he also had us served with a bird three times as large as Cleonymus, and called the Boaster.\n[Note 19: Cleonymus was an Athenian general of exceptionally tall stature; Aristophanes incessantly rallies him for his cowardice; he had cast away his buckler in a fight.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd do we give you two drachmæ, that you should treat us to all this humbug?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nWe are bringing to you, Pseudartabas, the King's Eye.\n[Note 20: A name borne by certain officials of the King of Persia. The actor of this part wore a mask, fitted with a single eye of great size.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nI would a crow might pluck out thine with his beak, thou cursed ambassador!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nThe King's Eye!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nEh! Great gods! Friend, with thy great eye, round like the hole through which the oarsman passes his sweep, you have the air of a galley doubling a cape to gain the port.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nCome, Pseudartabas, give forth the message for the Athenians with which you were charged by the Great King.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PSEUDARTABAS\nJartaman exarx 'anapissonnai satra.\n[Note 21: Jargon, no doubt meaningless in all languages.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nDo you understand what he says?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBy Apollo, not I!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nHe says, that the Great King will send you gold. Come, utter the word 'gold' louder and more distinctly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThou shalt not have gold, thou gaping-arsed Ionian.\n[Note 22: The Persians styled all Greeks 'Ionians' without distinction; here the Athenians are intended.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! may the gods forgive me, but that is clear enough.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nWhat does he say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThat the Ionians are debauchees and idiots, if they expect to receive gold from the barbarians.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMBASSADOR\nNot so, he speaks of medimni of gold.\n[Note 23: A Greek measure, containing about six modii.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat medimni? Thou art but a great braggart; but get your way, I will find out the truth by myself. Come now, answer me clearly, if you do not wish me to dye your skin red. Will the Great King send us gold? [Pseudartabas makes a negative sign.] Then our ambassadors are seeking to deceive us? [Pseudartabas signs affirmatively.] These fellows make signs like any Greek; I am sure that they are nothing but Athenians. Oh, ho! I recognize one of these eunuchs; it is Clisthenes, the son of Sibyrtius. Behold the effrontery of this shaven rump! How! great baboon, with such a beard do you seek to play the eunuch to us? And this other one? Is it not Straton?\n[Note 24: Noted for his extreme ugliness and his obscenity. Aristophanes frequently holds him to scorn in his comedies.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nSilence! Let all be seated. The Senate invites the King's Eye to the Prytaneum.\n[Note 25: Ambassadors were entertained there at the public expense.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nIs this not sufficient to drive one to hang oneself? Here I stand chilled to the bone, whilst the doors of the Prytaneum fly wide open to lodge such rascals. But I will do something great and bold. Where is Amphitheus? Come and speak with me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nHere I am.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nTake these eight drachmæ and go and conclude a truce with the Lacedæmonians for me, my wife and my children; I leave you free, my dear citizens, to send out embassies and to stand gaping in the air.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nBring in Theorus, who has returned from the Court of Sitalces.\n[Note 26: King of Thrace.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THEORUS\nI am here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnother humbug!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THEORUS\nWe should not have remained long in Thrace….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nForsooth, no, if you had not been well paid.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THEORUS\n… If the country had not been covered with snow; the rivers were ice-bound at the time that Theognis brought out his tragedy here; during the whole of that time I was holding my own with Sitalces, cup in hand; and, in truth, he adored you to such a degree, that he wrote on the walls, \"How beautiful are the Athenians!\" His son, to whom we gave the freedom of the city, burned with desire to come here and eat chitterlings at the feast of the Apaturia; he prayed his father to come to the aid of his new country and Sitalces swore on his goblet that he would succour us with such a host that the Athenians would exclaim, \"What a cloud of grasshoppers!\"\n[Note 27: The tragic poet.]\n[Note 28: A feast lasting three days and celebrated during the month Pyanepsion (November). The Greek word contains the suggestion of fraud (ἀπάτη).]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nMay I die if I believe a word of what you tell us! Excepting the grasshoppers, there is not a grain of truth in it all!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THEORUS\nAnd he has sent you the most warlike soldiers of all Thrace.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNow we shall begin to see clearly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nCome hither, Thracians, whom Theorus brought.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat plague have we here?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THEORUS\n'Tis the host of the Odomanti.\n[Note 29: A Thracian tribe from the right bank of the Strymon.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOf the Odomanti? Tell me what it means. Who has mutilated their tools like this?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THEORUS\nIf they are given a wage of two drachmæ, they will put all Bœotia to fire and sword.\n[Note 30: The Bœotians were the allies of Sparta.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nTwo drachmæ to those circumcised hounds! Groan aloud, ye people of rowers, bulwark of Athens! Ah! great gods! I am undone; these Odomanti are robbing me of my garlic! Will you give me back my garlic?\n[Note 31: Dicæopolis had brought a clove of garlic with him to eat during the Assembly.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "THEORUS\nOh! wretched man! do not go near them; they have eaten garlic.\n[Note 32: Garlic was given to game-cocks, before setting them at each other, to give them pluck for the fight.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nPrytanes, will you let me be treated in this manner, in my own country and by barbarians? But I oppose the discussion of paying a wage to the Thracians; I announce an omen; I have just felt a drop of rain.\n[Note 33: At the least unfavourable omen, the sitting of the Assembly was declared at an end.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nLet the Thracians withdraw and return the day after to-morrow; the Prytanes declare the sitting at an end.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nYe gods, what garlic I have lost! But here comes Amphitheus returned from Lacedæmon. Welcome, Amphitheus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nNo, there is no welcome for me and I fly as fast as I can, for I am pursued by the Acharnians.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhy, what has happened?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nI was hurrying to bring your treaty of truce, but some old dotards from Acharnæ got scent of the thing; they are veterans of Marathon, tough as oak or maple, of which they are made for sure—rough and ruthless. They all set to a-crying, \"Wretch! you are the bearer of a treaty, and the enemy has only just cut our vines!\" Meanwhile they were gathering stones in their cloaks, so I fled and they ran after me shouting.\n[Note 34: The deme of Acharnæ was largely inhabited by charcoal-burners, who supplied the city with fuel.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nLet 'em shout as much as they please! But have you brought me a treaty?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nMost certainly, here are three samples to select from, this one is five years old; take it and taste.\n[Note 35: He presents them in the form of wines contained in three separate skins.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nFaugh!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nWell?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nIt does not please me; it smells of pitch and of the ships they are fitting out.\n[Note 36: Meaning, preparations for war.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nHere is another, ten years old; taste it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nIt smells strongly of the delegates, who go round the towns to chide the allies for their slowness.\n[Note 37: Meaning, securing allies for the continuance of the war.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nThis last is a truce of thirty years, both on sea and land.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh! by Bacchus! what a bouquet! It has the aroma of nectar and ambrosia; this does not say to us, \"Provision yourselves for three days.\" But it lisps the gentle numbers, \"Go whither you will.\" I accept it, ratify it, drink it at one draught and consign the Acharnians to limbo. Freed from the war and its ills, I shall keep the Dionysia in the country.\n[Note 38: When Athens sent forth an army, the soldiers were usually ordered to assemble at some particular spot with provisions for three days.]\n[Note 39: These feasts were also called the Anthesteria or Lenæa; the Lenæum was a temple to Bacchus, erected outside the city. They took place during the month Anthesterion (February).]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AMPHITHEUS\nAnd I shall run away, for I'm mortally afraid of the Acharnians.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThis way all! Let us follow our man; we will demand him of everyone we meet; the public weal makes his seizure imperative. Ho, there! tell me which way the bearer of the truce has gone; he has escaped us, he has disappeared. Curse old age! When I was young, in the days when I followed Phayllus, running with a sack of coals on my back, this wretch would not have eluded my pursuit, let him be as swift as he will; but now my limbs are stiff; old Lacratides feels his legs are weighty and the traitor escapes me. No, no, let us follow him; old Acharnians like ourselves shall not be set at naught by a scoundrel, who has dared, great gods! to conclude a truce, when I wanted the war continued with double fury in order to avenge my ruined lands. No mercy for our foes until I have pierced their hearts like a sharp reed, so that they dare never again ravage my vineyards. Come, let us seek the rascal; let us look everywhere, carrying our stones in our hands; let us hunt him from place to place until we trap him; I could never, never tire of the delight of stoning him.\n[Note 40: A celebrated athlete from Croton and a victor at Olympia; he was equally good as a runner and at the 'five exercises' (πένταθλον).]\n[Note 41: He had been Archon at the time of the battle of Marathon.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nPeace! profane men!\n[Note 42: A sacred formula, pronounced by the priest before offering the sacrifice (κανηφορία).]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nSilence all! Friends, do you hear the sacred formula? Here is he, whom we seek! This way, all! Get out of his way, surely he comes to offer an oblation.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nPeace, profane men! Let the basket-bearer come forward, and thou, Xanthias, hold the phallus well upright.\n[Note 43: The maiden who carried the basket filled with fruits at the Dionysia in honour of Bacchus.]\n[Note 44: The emblem of the fecundity of nature; it consisted of a representation, generally grotesquely exaggerated, of the male genital organs; the phallophori crowned with violets and ivy and their faces shaded with green foliage, sang improvised airs, called 'Phallics,' full of obscenity and suggestive 'double entendres.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE OF DICÆOPOLIS\nDaughter, set down the basket and let us begin the sacrifice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DAUGHTER OF DICÆOPOLIS\nMother, hand me the ladle, that I may spread the sauce on the cake.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nIt is well! Oh, mighty Bacchus, it is with joy that, freed from military duty, I and all mine perform this solemn rite and offer thee this sacrifice; grant, that I may keep the rural Dionysia without hindrance and that this truce of thirty years may be propitious for me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE OF DICÆOPOLIS\nCome, my child, carry the basket gracefully and with a grave, demure face. Happy he, who shall be your possessor and embrace you so firmly at dawn, that you belch wind like a weasel. Go forward, and have a care they don't snatch your jewels in the crowd.\n[Note 45: The most propitious moment for Love's gambols, observes the scholiast.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nXanthias, walk behind the basket-bearer and hold the phallus well erect; I will follow, singing the Phallic hymn; thou, wife, look on from the top of the terrace. Forward! Oh, Phales, companion of the orgies of Bacchus, night reveller, god of adultery, friend of young men, these past six years I have not been able to invoke thee. With what joy I return to my farmstead, thanks to the truce I have concluded, freed from cares, from fighting and from Lamachuses! How much sweeter, Phales, oh, Phales, is it to surprise Thratta, the pretty wood-maid, Strymodorus' slave, stealing wood from Mount Phelleus, to catch her under the arms, to throw her on the ground and possess her! Oh, Phales, Phales! If thou wilt drink and bemuse thyself with me, we will to-morrow consume some good dish in honour of the peace, and I will hang up my buckler over the smoking hearth.\n[Note 46: Married women did not join in the processions.]\n[Note 47: The god of generation, worshipped in the form of a phallus.]\n[Note 48: A remark, which fixes the date of the production of the 'Acharnians,' viz. the sixth year of the Peloponnesian War, 426 B.C.]\n[Note 49: Lamachus was an Athenian general, who figures later in this comedy.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nIt is he, he himself. Stone him, stone him, stone him, strike the wretch. All, all of you, pelt him, pelt him!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat is this? By Heracles, you will smash my pot.\n[Note 50: At the rural Dionysia a pot of kitchen vegetables was borne in the procession along with other emblems.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nIt is you that we are stoning, you miserable scoundrel.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd for what sin, Acharnian Elders, tell me that!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nYou ask that, you impudent rascal, traitor to your country; you alone amongst us all have concluded a truce, and you dare to look us in the face!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBut you do not know why I have treated for peace. Listen!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nListen to you? No, no, you are about to die, we will annihilate you with our stones.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBut first of all, listen. Stop, my friends.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nI will hear nothing; do not address me; I hate you more than I do Cleon, whom one day I shall flay to make sandals for the Knights. Listen to your long speeches, after you have treated with the Laconians! No, I will punish you.\n[Note 51: Cleon the Demagogue was a currier originally by trade. He was the sworn foe and particular detestation of the Knights or aristocratic party generally.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nFriends, leave the Laconians out of debate and consider only whether I have not done well to conclude my truce.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nDone well! when you have treated with a people who know neither gods, nor truth, nor faith.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWe attribute too much to the Laconians; as for myself, I know that they are not the cause of all our troubles.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh, indeed, rascal! You dare to use such language to me and then expect me to spare you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNo, no, they are not the cause of all our troubles, and I who address you claim to be able to prove that they have much to complain of in us.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThis passes endurance; my heart bounds with fury. Thus you dare to defend our enemies.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWere my head on the block I would uphold what I say and rely on the approval of the people.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nComrades, let us hurl our stones and dye this fellow purple.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat black fire-brand has inflamed your heart! You will not hear me? You really will not, Acharnians?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nNo, a thousand times, no.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThis is a hateful injustice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nMay I die, if I listen.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNay, nay! have mercy, have mercy, Acharnians.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nYou shall die.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWell, blood for blood! I will kill your dearest friend. I have here the hostages of Acharnæ; I shall disembowel them.\n[Note 52: That is, the baskets of charcoal.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAcharnians, what means this threat? Has he got one of our children in his house? What gives him such audacity?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nStone me, if it please you; I shall avenge myself on this. [Shows a basket.] Let us see whether you have any love for your coals.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nGreat gods! this basket is our fellow-citizen. Stop, stop, in heaven's name!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nI shall dismember it despite your cries; I will listen to nothing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHow! will you kill this coal-basket, my beloved comrade?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nJust now, you did not listen to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWell, speak now, if you will; tell us, tell us you have a weakness for the Lacedæmonians. I consent to anything; never will I forsake this dear little basket.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nFirst, throw down your stones.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThere! 'tis done. And you, do you put away your sword.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nLet me see that no stones remain concealed in your cloaks.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThey are all on the ground; see how we shake our garments. Come, no haggling, lay down your sword; we threw away everything while crossing from one side of the stage to the other.\n[Note 53: The stage of the Greek theatre was much broader, and at the same time shallower, than in a modern playhouse.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat cries of anguish you would have uttered had these coals of Parnes been dismembered, and yet it came very near it; had they perished, their death would have been due to the folly of their fellow-citizens. The poor basket was so frightened, look, it has shed a thick black dust over me, the same as a cuttle-fish does. What an irritable temper! You shout and throw stones, you will not hear my arguments—not even when I propose to speak in favour of the Lacedæmonians with my head on the block; and yet I cling to my life.\n[Note 54: A mountain in Attica, in the neighbourhood of Acharnæ.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWell then, bring out a block before your door, scoundrel, and let us hear the good grounds you can give us; I am curious to know them. Now mind, as you proposed yourself, place your head on the block and speak.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHere is the block; and, though I am but a very sorry speaker, I wish nevertheless to talk freely of the Lacedæmonians and without the protection of my buckler. Yet I have many reasons for fear. I know our rustics; they are delighted if some braggart comes, and rightly or wrongly loads both them and their city with praise and flattery; they do not see that such toad-eaters are traitors, who sell them for gain. As for the old men, I know their weakness; they only seek to overwhelm the accused with their votes. Nor have I forgotten how Cleon treated me because of my comedy last year; he dragged me before the Senate and there he uttered endless slanders against me; 'twas a tempest of abuse, a deluge of lies. Through what a slough of mud he dragged me! I nigh perished. Permit me, therefore, before I speak, to dress in the manner most likely to draw pity.\n[Note 55: Orators in the pay of the enemy.]\n[Note 56: Satire on the Athenians' addiction to lawsuits.]\n[Note 57: 'The Babylonians.' Cleon had denounced Aristophanes to the senate for having scoffed at Athens before strangers, many of whom were present at the performance. The play is now lost.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWhat evasions, subterfuges and delays! Hold! here is the sombre helmet of Pluto with its thick bristling plume; Hieronymus lends it to you; then open Sisyphus' bag of wiles; but hurry, hurry, pray, for our discussion does not admit of delay.\n[Note 58: A tragic poet; we know next to nothing of him or his works.]\n[Note 59: Son of Æolus, renowned in fable for his robberies, and for the tortures to which he was put by Pluto. He was cunning enough to break loose out of hell, but Hermes brought him back again.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThe time has come for me to manifest my courage, so I will go and seek Euripides. Ho! slave, slave!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SLAVE\nWho's there?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nIs Euripides at home?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SLAVE\nHe is and he isn't; understand that, if you have wit for't.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHow? He is and he isn't!\n[Note 60: This whole scene is directed at Euripides; Aristophanes ridicules the subtleties of his poetry and the trickeries of his staging, which, according to him, he only used to attract the less refined among his audience.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SLAVE\nCertainly, old man; busy gathering subtle fancies here and there, his mind is not in the house, but he himself is; perched aloft, he is composing a tragedy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh, Euripides, you are indeed happy to have a slave so quick at repartee! Now, fellow, call your master.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SLAVE\nImpossible!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nSo much the worse. But I will not go. Come, let us knock at the door. Euripides, my little Euripides, my darling Euripides, listen; never had man greater right to your pity. It is Dicæopolis of the Chollidan Deme who calls you. Do you hear?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nI have no time to waste.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nVery well, have yourself wheeled out here.\n[Note 61: \"Wheeled out\"—that is, by means of the ἐκκύκλημα, a mechanical contrivance of the Greek stage, by which an interior was shown, the set scene with performers, etc., all complete, being in some way, which cannot be clearly made out from the descriptions, swung out or wheeled out on to the main stage.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nImpossible.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNevertheless….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWell, let them roll me out; as to coming down, I have not the time.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nEuripides….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhat words strike my ear?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nYou perch aloft to compose tragedies, when you might just as well do them on the ground. I am not astonished at your introducing cripples on the stage. And why dress in these miserable tragic rags? I do not wonder that your heroes are beggars. But, Euripides, on my knees I beseech you, give me the tatters of some old piece: for I have to treat the Chorus to a long speech, and if I do it ill it is all over with me.\n[Note 62: Having been lamed, it is of course implied, by tumbling from the lofty apparatus on which the Author sat perched to write his tragedies.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhat rags do you prefer? Those in which I rigged out Æneus on the stage, that unhappy, miserable old man?\n[Note 63: Euripides delighted, or was supposed by his critic Aristophanes to delight, in the representation of misery and wretchedness on the stage. 'Æneus,' 'Phœnix,' 'Philoctetes,' 'Bellerophon,' 'Telephus,' 'Ino' are titles of six tragedies of his in this genre of which fragments are extant.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNo, I want those of some hero still more unfortunate.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nOf Phœnix, the blind man?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNo, not of Phœnix, you have another hero more unfortunate than him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nNow, what tatters does he want? Do you mean those of the beggar Philoctetes?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNo, of another far more the mendicant.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nIs it the filthy dress of the lame fellow, Bellerophon?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNo, 'tis not Bellerophon; he, whom I mean, was not only lame and a beggar, but boastful and a fine speaker.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nAh! I know, it is Telephus, the Mysian.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nYes, Telephus. Give me his rags, I beg of you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nSlave! give him Telephus' tatters; they are on top of the rags of Thyestes and mixed with those of Ino.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SLAVE\nCatch hold! here they are.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh! Zeus, whose eye pierces everywhere and embraces all, permit me to assume the most wretched dress on earth. Euripides, cap your kindness by giving me the little Mysian hat, that goes so well with these tatters. I must to-day have the look of a beggar; \"be what I am, but not appear to be\"; the audience will know well who I am, but the Chorus will be fools enough not to, and I shall dupe 'em with my subtle phrases.\n[Note 64: Line borrowed from Euripides. A great number of verses are similarly parodied in this scene.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nI will give you the hat; I love the clever tricks of an ingenious brain like yours.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nRest happy, and may it befall Telephus as I wish. Ah! I already feel myself filled with quibbles. But I must have a beggar's staff.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nHere you are, and now get you gone from this porch.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh, my soul! You see how you are driven from this house, when I still need so many accessories. But let us be pressing, obstinate, importunate. Euripides, give me a little basket with a lamp alight inside.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhatever do you want such a thing as that for?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nI do not need it, but I want it all the same.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nYou importune me; get you gone!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAlas! may the gods grant you a destiny as brilliant as your mother's.\n[Note 65: Report said that Euripides' mother had sold vegetables on the market.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nLeave me in peace.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh! just a little broken cup.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nTake it and go and hang yourself. What a tiresome fellow!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! you do not know all the pain you cause me. Dear, good Euripides, nothing beyond a small pipkin stoppered with a sponge.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nMiserable man! You are robbing me of an entire tragedy. Here, take it and be off.\n[Note 66: Aristophanes means, of course, to imply that the whole talent of Euripides lay in these petty details of stage property.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nI am going, but, great gods! I need one thing more; unless I have it, I am a dead man. Hearken, my little Euripides, only give me this and I go, never to return. For pity's sake, do give me a few small herbs for my basket.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nYou wish to ruin me then. Here, take what you want; but it is all over with my pieces!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nI won't ask another thing; I'm going. I am too importunate and forget that I rouse against me the hate of kings.—Ah! wretch that I am! I am lost! I have forgotten one thing, without which all the rest is as nothing. Euripides, my excellent Euripides, my dear little Euripides, may I die if I ask you again for the smallest present; only one, the last, absolutely the last; give me some of the chervil your mother left you in her will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nInsolent hound! Slave, lock the door.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh, my soul! I must go away without the chervil. Art thou sensible of the dangerous battle we are about to engage upon in defending the Lacedæmonians? Courage, my soul, we must plunge into the midst of it. Dost thou hesitate and art thou fully steeped in Euripides? That's right! do not falter, my poor heart, and let us risk our head to say what we hold for truth. Courage and boldly to the front. I wonder I am so brave!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWhat do you purport doing? what are you going to say? What an impudent fellow! what a brazen heart! To dare to stake his head and uphold an opinion contrary to that of us all! And he does not tremble to face this peril! Come, it is you who desired it, speak!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nSpectators, be not angered if, although I am a beggar, I dare in a Comedy to speak before the people of Athens of the public weal; Comedy too can sometimes discern what is right. I shall not please, but I shall say what is true. Besides, Cleon shall not be able to accuse me of attacking Athens before strangers; we are by ourselves at the festival of the Lenæa; the period when our allies send us their tribute and their soldiers is not yet. Here is only the pure wheat without chaff; as to the resident strangers settled among us, they and the citizens are one, like the straw and the ear. I detest the Lacedæmonians with all my heart, and may Posidon, the god of Tænarus, cause an earthquake and overturn their dwellings! My vines also have been cut. But come [there are only friends who hear me], why accuse the Laconians of all our woes? Some men [I do not say the city, note particularly, that I do not say the city], some wretches, lost in vices, bereft of honour, who were not even citizens of good stamp, but strangers, have accused the Megarians of introducing their produce fraudulently, and not a cucumber, a leveret, a sucking-pig, a clove of garlic, a lump of salt was seen without its being said, \"Halloa! these come from Megara,\" and their being instantly confiscated. Thus far the evil was not serious, and we were the only sufferers. But now some young drunkards go to Megara and carry off the courtesan Simætha; the Megarians, hurt to the quick, run off in turn with two harlots of the house of Aspasia; and so for three gay women Greece is set ablaze. Then Pericles, aflame with ire on his Olympian height, let loose the lightning, caused the thunder to roll, upset Greece and passed an edict, which ran like the song, \"That the Megarians be banished both from our land and from our markets and from the sea and from the continent.\" Meanwhile the Megarians, who were beginning to die of hunger, begged the Lacedæmonians to bring about the abolition of the decree, of which those harlots were the cause; several times we refused their demand; and from that time there was a horrible clatter of arms everywhere. You will say that Sparta was wrong, but what should she have done? Answer that. Suppose that a Lacedæmonian had seized a little Seriphian dog on any pretext and had sold it, would you have endured it quietly? Far from it, you would at once have sent three hundred vessels to sea, and what an uproar there would have been through all the city! there 'tis a band of noisy soldiery, here a brawl about the election of a Trierarch; elsewhere pay is being distributed, the Pallas figure-heads are being regilded, crowds are surging under the market porticos, encumbered with wheat that is being measured, wine-skins, oar-leathers, garlic, olives, onions in nets; everywhere are chaplets, sprats, flute-girls, black eyes; in the arsenal bolts are being noisily driven home, sweeps are being made and fitted with leathers; we hear nothing but the sound of whistles, of flutes and fifes to encourage the work-folk. That is what you assuredly would have done, and would not Telephus have done the same? So I come to my general conclusion; we have no common sense.\n[Note 67: 'The Babylonians' had been produced at a time of year when Athens was crowded with strangers; 'The Acharnians,' on the contrary, was played in December.]\n[Note 68: Sparta had been menaced with an earthquake in 427 B.C. Posidon was 'The Earthshaker,' god of earthquakes, as well as of the sea.]\n[Note 69: A song by Timocreon the Rhodian, the words of which were practically identical with Pericles' decree.]\n[Note 70: A small and insignificant island, one of the Cyclades, allied with the Athenians, like most of these islands previous to and during the first part of the Peloponnesian War.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST SEMI-CHORUS\nOh! wretch! oh! infamous man! You are naught but a beggar and yet you dare to talk to us like this! you insult their worships the informers!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND SEMI-CHORUS\nBy Posidon! he speaks the truth; he has not lied in a single detail.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST SEMI-CHORUS\nBut though it be true, need he say it? But you'll have no great cause to be proud of your insolence!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND SEMI-CHORUS\nWhere are you running to? Don't you move; if you strike this man I shall be at you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST SEMI-CHORUS\nLamachus, whose glance flashes lightning, whose plume petrifies thy foes, help! Oh! Lamachus, my friend, the hero of my tribe and all of you, both officers and soldiers, defenders of our walls, come to my aid; else is it all over with me!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nWhence comes this cry of battle? where must I bring my aid? where must I sow dread? who wants me to uncase my dreadful Gorgon's head?\n[Note 71: A figure of Medusa's head, forming the centre of Lamachus' shield.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh, Lamachus, great hero! Your plumes and your cohorts terrify me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThis man, Lamachus, incessantly abuses Athens.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nYou are but a mendicant and you dare to use language of this sort?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh, brave Lamachus, forgive a beggar who speaks at hazard.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nBut what have you said? Let us hear.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nI know nothing about it; the sight of weapons makes me dizzy. Oh! I adjure you, take that fearful Gorgon somewhat farther away.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nThere.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNow place it face downwards on the ground.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nIt is done.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nGive me a plume out of your helmet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nHere is a feather.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd hold my head while I vomit; the plumes have turned my stomach.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nHah! what are you proposing to do? do you want to make yourself vomit with this feather?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nIs it a feather? what bird's? a braggart's?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nAh! ah! I will rip you open.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNo, no, Lamachus! Violence is out of place here! But as you are so strong, why did you not circumcise me? You have all you want for the operation there.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nA beggar dares thus address a general!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHow? Am I a beggar?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nWhat are you then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWho am I? A good citizen, not ambitious; a soldier, who has fought well since the outbreak of the war, whereas you are but a vile mercenary.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nThey elected me….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nYes, three cuckoos did! If I have concluded peace, 'twas disgust that drove me; for I see men with hoary heads in the ranks and young fellows of your age shirking service. Some are in Thrace getting an allowance of three drachmæ, such fellows as Tisameophœnippus and Panurgipparchides. The others are with Chares or in Chaonia, men like Geretotheodorus and Diomialazon; there are some of the same kidney, too, at Camarina and at Gela, the laughing-stock of all and sundry.\n[Note 72: Indicates the character of his election, which was arranged, so Aristophanes implies, by his partisans.]\n[Note 73: Towns in Sicily. There is a pun on the name Gela—Γέλα and Καταγέλα (ridiculous)—which it is impossible to keep in English. Apparently the Athenians had sent embassies to all parts of the Greek world to arrange treaties of alliance in view of the struggle with the Lacedæmonians; but only young debauchees of aristocratic connections had been chosen as envoys.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nThey were elected.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd why do you always receive your pay, when none of these others ever get any? Speak, Marilades, you have grey hair; well then, have you ever been entrusted with a mission? See! he shakes his head. Yet he is an active as well as a prudent man. And you, Dracyllus, Euphorides or Prinides, have you knowledge of Ecbatana or Chaonia? You say no, do you not? Such offices are good for the son of Cæsyra and Lamachus, who, but yesterday ruined with debt, never pay their shot, and whom all their friends avoid as foot passengers dodge the folks who empty their slops out of window.\n[Note 74: A contemporary orator apparently, otherwise unknown.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nOh! in freedom's name! are such exaggerations to be borne?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nLamachus is well content; no doubt he is well paid, you know.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nBut I propose always to war with the Peloponnesians, both at sea, on land and everywhere to make them tremble, and trounce them soundly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nFor my own part, I make proclamation to all Peloponnesians, Megarians and Bœotians, that to them my markets are open; but I debar Lamachus from entering them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nConvinced by this man's speech, the folk have changed their view and approve him for having concluded peace. But let us prepare for the recital of the parabasis. Never since our poet presented Comedies, has he praised himself upon the stage; but, having been slandered by his enemies amongst the volatile Athenians, accused of scoffing at his country and of insulting the people, to-day he wishes to reply and regain for himself the inconstant Athenians. He maintains that he has done much that is good for you; if you no longer allow yourselves to be too much hoodwinked by strangers or seduced by flattery, if in politics you are no longer the ninnies you once were, it is thanks to him. Formerly, when delegates from other cities wanted to deceive you, they had but to style you, \"the people crowned with violets,\" and, at the word \"violets\" you at once sat erect on the tips of your bums. Or, if to tickle your vanity, someone spoke of \"rich and sleek Athens,\" in return for that 'sleekness' he would get all, because he spoke of you as he would have of anchovies in oil. In cautioning you against such wiles, the poet has done you great service as well as in forcing you to understand what is really the democratic principle. Thus, the strangers, who came to pay their tributes, wanted to see this great poet, who had dared to speak the truth to Athens. And so far has the fame of his boldness reached that one day the Great King, when questioning the Lacedæmonian delegates, first asked them which of the two rival cities was the superior at sea, and then immediately demanded at which it was that the comic poet directed his biting satire. \"Happy that city,\" he added, \"if it listens to his counsel; it will grow in power, and its victory is assured.\" This is why the Lacedæmonians offer you peace, if you will cede them Ægina; not that they care for the isle, but they wish to rob you of your poet. As for you, never lose him, who will always fight for the cause of justice in his Comedies; he promises you that his precepts will lead you to happiness, though he uses neither flattery, nor bribery, nor intrigue, nor deceit; instead of loading you with praise, he will point you to the better way. I scoff at Cleon's tricks and plotting; honesty and justice shall fight my cause; never will you find me a political poltroon, a prostitute to the highest bidder. I invoke thee, Acharnian Muse, fierce and fell as the devouring fire; sudden as the spark that bursts from the crackling oaken coal when roused by the quickening fan to fry little fishes, while others knead the dough or whip the sharp Thasian pickle with rapid hand, so break forth, my Muse, and inspire thy tribesmen with rough, vigorous, stirring strains. We others, now old men and heavy with years, we reproach the city; so many are the victories we have gained for the Athenian fleets that we well deserve to be cared for in our declining life; yet far from this, we are ill-used, harassed with law-suits, delivered over to the scorn of stripling orators. Our minds and bodies being ravaged with age, Posidon should protect us, yet we have no other support than a staff. When standing before the judge, we can scarcely stammer forth the fewest words, and of justice we see but its barest shadow, whereas the accuser, desirous of conciliating the younger men, overwhelms us with his ready rhetoric; he drags us before the judge, presses us with questions, lays traps for us; the onslaught troubles, upsets and rends poor old Tithonus, who, crushed with age, stands tongue-tied; sentenced to a fine, he weeps, he sobs and says to his friend, \"This fine robs me of the last trifle that was to have bought my coffin.\" Is this not a scandal? What! the clepsydra is to kill the white-haired veteran, who, in fierce fighting, has so oft covered himself with glorious sweat, whose valour at Marathon saved the country! 'Twas we who pursued on the field of Marathon, whereas now 'tis wretches who pursue us to the death and crush us! What would Marpsias reply to this? What an injustice, that a man, bent with age like Thucydides, should be brow-beaten by this braggart advocate, Cephisodemus, who is as savage as the Scythian desert he was born in! Is it not to convict him from the outset? I wept tears of pity when I saw an Archer maltreat this old man, who, by Ceres, when he was young and the true Thucydides, would not have permitted an insult from Ceres herself! At that date he would have floored ten miserable orators, he would have terrified three thousand Archers with his shouts; he would have pierced the whole line of the enemy with his shafts. Ah! but if you will not leave the aged in peace, decree that the advocates be matched; thus the old man will only be confronted with a toothless greybeard, the young will fight with the braggart, the ignoble with the son of Clinias; make a law that in future, the old man can only be summoned and convicted at the courts by the aged and the young man by the youth.\n[Note 75: The parabasis in the Old Comedy was a sort of address or topical harangue addressed directly by the poet, speaking by the Chorus, to the audience. It was nearly always political in bearing, and the subject of the particular piece was for the time being set aside altogether.]\n[Note 76: It will be remembered that Aristophanes owned land in Ægina.]\n[Note 77: Everything was made the object of a law-suit at Athens. The old soldiers, inexpert at speaking, often lost the day.]\n[Note 78: A water-clock used to limit the length of speeches in the courts.]\n[Note 79: A braggart speaker, fiery and pugnacious.]\n[Note 80: Cephisodemus was an Athenian, but through his mother possessed Scythian blood.]\n[Note 81: The city of Athens was policed by Scythian archers.]\n[Note 82: Alcibiades.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThese are the confines of my market-place. All Peloponnesians, Megarians, Bœotians, have the right to come and trade here, provided they sell their wares to me and not to Lamachus. As market-inspectors I appoint these three whips of Leprean leather, chosen by lot. Warned away are all informers and all men of Phasis. They are bringing me the pillar on which the treaty is inscribed and I shall erect it in the centre of the market, well in sight of all.\n[Note 83: The leather market was held at Lepros, outside the city.]\n[Note 84: Meaning an informer (φάινω, to denounce).]\n[Note 85: According to the Athenian custom.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A MEGARIAN\nHail! market of Athens, beloved of Megarians. Let Zeus, the patron of friendship, witness, I regretted you as a mother mourns her son. Come, poor little daughters of an unfortunate father, try to find something to eat; listen to me with the full heed of an empty belly. Which would you prefer? To be sold or to cry with hunger.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DAUGHTERS\nTo be sold, to be sold!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nThat is my opinion too. But who would make so sorry a deal as to buy you? Ah! I recall me a Megarian trick; I am going to disguise you as little porkers, that I am offering for sale. Fit your hands with these hoofs and take care to appear the issue of a sow of good breed, for, if I am forced to take you back to the house, by Hermes! you will suffer cruelly of hunger! Then fix on these snouts and cram yourselves into this sack. Forget not to grunt and to say wee-wee like the little pigs that are sacrificed in the Mysteries. I must summon Dicæopolis. Where is he? Dicæopolis, will you buy some nice little porkers?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWho are you? a Megarian?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nI have come to your market.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWell, how are things at Megara?\n[Note 86: Megara was allied to Sparta and suffered during the war more than any other city, because of its proximity to Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nWe are crying with hunger at our firesides.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThe fireside is jolly enough with a piper. But what else is doing at Megara, eh?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nWhat else? When I left for the market, the authorities were taking steps to let us die in the quickest manner.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThat is the best way to get you out of all your troubles.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nTrue.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat other news of Megara? What is wheat selling at?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nWith us it is valued as highly as the very gods in heaven!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nIs it salt that you are bringing?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nAre you not holding back the salt?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\n'Tis garlic then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nWhat! garlic! do you not at every raid grub up the ground with your pikes to pull out every single head?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat do you bring then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nLittle sows, like those they immolate at the Mysteries.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! very well, show me them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nThey are very fine; feel their weight. See! how fat and fine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBut what is this?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nA sow, for a certainty.\n[Note 87: Throughout this whole scene there is an obscene play upon the word χοιρος, which means in Greek both 'sow' and 'a woman's organs of generation.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nYou say a sow! of what country, then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nFrom Megara. What! is that not a sow then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNo, I don't believe it is.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nThis is too much! what an incredulous man! He says 'tis not a sow; but we will stake, an you will, a measure of salt ground up with thyme, that in good Greek this is called a sow and nothing else.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBut a sow of the human kind.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nWithout question, by Diocles! of my own breed! Well! What think you? will you hear them squeal?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWell, yes, i' faith, I will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nCry quickly, wee sowlet; squeak up, hussy, or by Hermes! I take you back to the house.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "GIRL\nWee-wee, wee-wee!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nIs that a little sow, or not?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nYes, it seems so; but let it grow up, and it will be a fine fat cunt.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nIn five years it will be just like its mother.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBut it cannot be sacrificed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nAnd why not?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nIt has no tail.\n[Note 88: Sacrificial victims were bound to be perfect in every part; an animal, therefore, without a tail could not be offered.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nBecause it is quite young, but in good time it will have a big one, thick and red.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThe two are as like as two peas.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nThey are born of the same father and mother; let them be fattened, let them grow their bristles, and they will be the finest sows you can offer to Aphrodité.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBut sows are not immolated to Aphrodité.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nNot sows to Aphrodité! Why, 'tis the only goddess to whom they are offered! the flesh of my sows will be excellent on the spit.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nCan they eat alone? They no longer need their mother!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nCertainly not, nor their father.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat do they like most?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nWhatever is given them; but ask for yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nSpeak! little sow.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DAUGHTER\nWee-wee, wee-wee!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nCan you eat chick-pease?\n[Note 89: The Greek word, ἐρέβινθος, also means the male sexual organ. Observe the little pig-girl greets this question with three affirmative squeaks!]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DAUGHTER\nWee-wee, wee-wee, wee-wee!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd Attic figs?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DAUGHTER\nWee-wee, wee-wee!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat sharp squeaks at the name of figs. Come, let some figs be brought for these little pigs. Will they eat them? Goodness! how they munch them, what a grinding of teeth, mighty Heracles! I believe those pigs hail from the land of the Voracians. But surely, 'tis impossible they have bolted all the figs!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nYes, certainly, bar this one that I took from them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! what funny creatures! For what sum will you sell them?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nI will give you one for a bunch of garlic, and the other, if you like, for a quart measure of salt.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nI buy them of you. Wait for me here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nThe deal is done. Hermes, god of good traders, grant I may sell both my wife and my mother in the same way!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AN INFORMER\nHi! fellow, what countryman are you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nI am a pig-merchant from Megara.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nI shall denounce both your pigs and yourself as public enemies.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nAh! here our troubles begin afresh!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nLet go that sack. I will punish your Megarian lingo.\n[Note 90: The Megarians used the Doric dialect.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nDicæopolis, Dicæopolis, they want to denounce me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWho dares do this thing? Inspectors, drive out the Informers. Ah! you offer to enlighten us without a lamp!\n[Note 91: A play upon the word φαίνειν, which both means to light and to denounce.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nWhat! I may not denounce our enemies?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHave a care for yourself, if you don't go off pretty quick to denounce elsewhere.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nWhat a plague to Athens!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBe reassured, Megarian. Here is the value of your two swine, the garlic and the salt. Farewell and much happiness!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nAh! we never have that amongst us.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWell! may the inopportune wish apply to myself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MEGARIAN\nFarewell, dear little sows, and seek, far from your father, to munch your bread with salt, if they give you any.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHere is a man truly happy. See how everything succeeds to his wish. Peacefully seated in his market, he will earn his living; woe to Ctesias, and all other informers, who dare to enter there! You will not be cheated as to the value of wares, you will not again see Prepis wiping his foul rump, nor will Cleonymus jostle you; you will take your walks, clothed in a fine tunic, without meeting Hyperbolus and his unceasing quibblings, without being accosted on the public place by any importunate fellow, neither by Cratinus, shaven in the fashion of the debauchees, nor by this musician, who plagues us with his silly improvisations, Artemo, with his arm-pits stinking as foul as a goat, like his father before him. You will not be the butt of the villainous Pauson's jeers, nor of Lysistratus, the disgrace of the Cholargian deme, who is the incarnation of all the vices, and endures cold and hunger more than thirty days in the month.\n[Note 92: An informer (sycophant), otherwise unknown.]\n[Note 93: A debauchee of vile habits; a pathic.]\n[Note 94: Mentioned above; he was as proud as he was cowardly.]\n[Note 95: An Athenian general, quarrelsome and litigious, and an Informer into the bargain.]\n[Note 96: A comic poet of vile habits.]\n[Note 97: A painter.]\n[Note 98: A debauchee, a gambler, and always in extreme poverty.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A BŒOTIAN\nBy Heracles! my shoulder is quite black and blue. Ismenias, put the penny-royal down there very gently, and all of you, musicians from Thebes, pipe with your bone flutes into a dog's rump.\n[Note 99: This kind of flute had a bellows, made of dog-skin, much like the bagpipes of to-day.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nEnough, enough, get you gone. Rascally hornets, away with you! Whence has sprung this accursed swarm of Cheris fellows which comes assailing my door?\n[Note 100: A flute-player, mentioned above.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nAh! by Iolas! Drive them off, my dear host, you will please me immensely; all the way from Thebes, they were there piping behind me and have completely stripped my penny-royal of its blossom. But will you buy anything of me, some chickens or some locusts?\n[Note 101: A hero, much honoured in Thebes; nephew of Heracles.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! good day, Bœotian, eater of good round loaves. What do you bring?\n[Note 102: A form of bread peculiar to Bœotia.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nAll that is good in Bœotia, marjoram, penny-royal, rush-mats, lamp-wicks, ducks, jays, woodcocks, waterfowl, wrens, divers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\n'Tis a very hail of birds that beats down on my market.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nI also bring geese, hares, foxes, moles, hedgehogs, cats, lyres, martins, otters and eels from the Copaic lake.\n[Note 103: A lake in Bœotia.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! my friend, you, who bring me the most delicious of fish, let me salute your eels.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nCome, thou, the eldest of my fifty Copaic virgins, come and complete the joy of our host.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh! my well-beloved, thou object of my long regrets, thou art here at last then, thou, after whom the comic poets sigh, thou, who art dear to Morychus. Slaves, hither with the stove and the bellows. Look at this charming eel, that returns to us after six long years of absence. Salute it, my children; as for myself, I will supply coal to do honour to the stranger. Take it into my house; death itself could not separate me from her, if cooked with beet leaves.\n[Note 104: He was the Lucullus of Athens.]\n[Note 105: This again fixes the date of the presentation of the 'Acharnians' to 426 B.C., the sixth year of the War, since the beginning of which Bœotia had been closed to the Athenians.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nAnd what will you give me in return?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nIt will pay for your market dues. And as to the rest, what do you wish to sell me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nWhy, everything.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOn what terms? For ready-money or in wares from these parts?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nI would take some Athenian produce, that we have not got in Bœotia.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nPhaleric anchovies, pottery?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nAnchovies, pottery? But these we have. I want produce that is wanting with us and that is plentiful here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! I have the very thing; take away an Informer, packed up carefully as crockery-ware.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nBy the twin gods! I should earn big money, if I took one; I would exhibit him as an ape full of spite.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHah! here we have Nicarchus, who comes to denounce you.\n[Note 106: An Informer.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nHow small he is!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBut in his case the whole is one mass of ill-nature.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICARCHUS\nWhose are these goods?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nMine; they come from Bœotia, I call Zeus to witness.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICARCHUS\nI denounce them as coming from an enemy's country.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nWhat! you declare war against birds?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICARCHUS\nAnd I am going to denounce you too.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nWhat harm have I done you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICARCHUS\nI will say it for the benefit of those that listen; you introduce lamp-wicks from an enemy's country.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThen you go as far as denouncing a wick.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICARCHUS\nIt needs but one to set an arsenal afire.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nA wick set an arsenal ablaze! But how, great gods?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICARCHUS\nShould a Bœotian attach it to an insect's wing, and, taking advantage of a violent north wind, throw it by means of a tube into the arsenal and the fire once get hold of the vessels, everything would soon be devoured by the flames.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! wretch! an insect and a wick would devour everything. [He strikes him.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICARCHUS\n[to the Chorus] You will bear witness, that he mishandles me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nShut his mouth. Give him some hay; I am going to pack him up as a vase, that he may not get broken on the road.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nPack up your goods carefully, friend; that the stranger may not break it when taking it away.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nI shall take great care with it, for one would say he is cracked already; he rings with a false note, which the gods abhor.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nBut what will be done with him?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThis is a vase good for all purposes; it will be used as a vessel for holding all foul things, a mortar for pounding together law-suits, a lamp for spying upon accounts, and as a cup for the mixing up and poisoning of everything.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nNone could ever trust a vessel for domestic use that has such a ring about it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh! it is strong, my friend, and will never get broken, if care is taken to hang it head downwards.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThere! it is well packed now!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nMarry, I will proceed to carry off my bundle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nFarewell, worthiest of strangers, take this Informer, good for anything, and fling him where you like.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBah! this rogue has given me enough trouble to pack! Here! Bœotian, pick up your pottery.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BŒOTIAN\nStoop, Ismenias, that I may put it on your shoulder, and be very careful with it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nYou carry nothing worth having; however, take it, for you will profit by your bargain; the Informers will bring you luck.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A SERVANT OF LAMACHUS\nDicæopolis!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat do want crying this gait?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SERVANT\nLamachus wants to keep the Feast of Cups, and I come by his order to bid you one drachma for some thrushes and three more for a Copaic eel.\n[Note 107: The second day of the Dionysia or feasts of Bacchus, kept in the month Anthesterion (February), and called the Anthesteria. They lasted three days; the second being the Feast of Cups, a description of which is to be found at the end of this comedy, the third the Feast of Pans. Vases, filled with grain of all kinds, were borne in procession and dedicated to Hermes.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd who is this Lamachus, who demands an eel?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SERVANT\n'Tis the terrible, indefatigable Lamachus, he, who is always brandishing his fearful Gorgon's head and the three plumes which o'ershadow his helmet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNo, no, he will get nothing, even though he gave me his buckler. Let him eat salt fish, while he shakes his plumes, and, if he comes here making any din, I shall call the inspectors. As for myself, I shall take away all these goods; I go home on thrushes' wings and blackbirds' pinions.\n[Note 108: A parody of some verses from a lost poet.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nYou see, citizens, you see the good fortune which this man owes to his prudence, to his profound wisdom. You see how, since he has concluded peace, he buys what is useful in the household and good to eat hot. All good things flow towards him unsought. Never will I welcome the god of war in my house; never shall he chant the 'Harmodius' at my table; he is a sot, who comes feasting with those who are overflowing with good things and brings all sorts of mischief at his heels. He overthrows, ruins, rips open; 'tis vain to make him a thousand offers, \"be seated, pray, drink this cup, proffered in all friendship,\" he burns our vine-stocks and brutally pours out the wine from our vineyards on the ground. This man, on the other hand, covers his table with a thousand dishes; proud of his good fortunes, he has had these feathers cast before his door to show us how he lives.\n[Note 109: A feasting song in honour of Harmodius, the assassin of Hipparchus the Tyrant, son of Pisistratus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh! Peace! companion of fair Aphrodité and of the sweet Graces, how charming are your features and yet I never knew it! Would that Eros might join me to thee, Eros, crowned with roses as Zeuxis shows him to us! Perhaps I seem somewhat old to you, but I am yet able to make you a threefold offering; despite my age, I could plant a long row of vines for you; then beside these some tender cuttings from the fig; finally a young vine-stock, loaded with fruit and all round the field olive trees, which would furnish us with oil, wherewith to anoint us both at the New Moons.\n[Note 110: The celebrated painter, born at Heraclea, a contemporary of Aristophanes.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nList, ye people! As was the custom of your forebears, empty a full pitcher of wine at the call of the trumpet; he, who first sees the bottom, shall get a wine-skin as round and plump as Ctesiphon's belly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWomen, children, have you not heard? Faith! do you not heed the herald? Quick! let the hares boil and roast merrily; keep them a-turning; withdraw them from the flame; prepare the chaplets; reach me the skewers that I may spit the thrushes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nI envy you your wisdom and even more your good cheer.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat then will you say when you see the thrushes roasting?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAh! true indeed!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nSlave! stir up the fire.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nSee, how he knows his business, what a perfect cook! How well he understands the way to prepare a good dinner!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A HUSBANDMAN\nAh! woe is me!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHeracles! What have we here?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HUSBANDMAN\nA most miserable man.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nKeep your misery for yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HUSBANDMAN\nAh! friend! since you alone are enjoying peace, grant me a part of your truce, were it but five years.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat has happened to you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HUSBANDMAN\nI am ruined; I have lost a pair of steers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHow?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HUSBANDMAN\nThe Bœotians seized them at Phylé.\n[Note 111: A deme and frontier fortress of Attica, near the Bœotian border.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! poor wretch! and yet you have not left off white?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HUSBANDMAN\nTheir dung made my wealth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat can I do in the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HUSBANDMAN\nCrying for my beasts has lost me my eyesight. Ah! if you care for poor Dercetes of Phylé, anoint mine eyes quickly with your balm of peace.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBut, my poor fellow, I do not practise medicine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HUSBANDMAN\nCome, I adjure you; perchance I shall recover my steers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\n'Tis impossible; away, go and whine to the disciples of Pittalus.\n[Note 112: An Athenian physician of the day.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HUSBANDMAN\nGrant me but one drop of peace; pour it into this reedlet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nNo, not a particle; go a-weeping elsewhere.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HUSBANDMAN\nOh! oh! oh! my poor beasts!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThis man has discovered the sweetest enjoyment in peace; he will share it with none.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nPour honey over this tripe; set it before the fire to dry.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWhat lofty tones he uses! Did you hear him?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nGet the eels on the gridiron!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nYou are killing me with hunger; your smoke is choking your neighbours, and you split our ears with your bawling.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHave this fried and let it be nicely browned.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A BRIDESMAID\nDicæopolis! Dicæopolis!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWho are you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BRIDESMAID\nA young bridegroom sends you these viands from the marriage feast.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhoever he be, I thank him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BRIDESMAID\nAnd in return, he prays you to pour a glass of peace into this vase, that he may not have to go to the front and may stay at home to do his duty to his young wife.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nTake back, take back your viands; for a thousand drachmæ I would not give a drop of peace; but who are you, pray?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BRIDESMAID\nI am the bridesmaid; she wants to say something to you from the bride privately.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nCome, what do you wish to say? [The bridesmaid whispers in his ear.] Ah! what a ridiculous demand! The bride burns with longing to keep by her her husband's weapon. Come! bring hither my truce; to her alone will I give some of it, for she is a woman, and, as such, should not suffer under the war. Here, friend, reach hither your vial. And as to the manner of applying this balm, tell the bride, when a levy of soldiers is made to rub some in bed on her husband, where most needed. There, slave, take away my truce! Now, quick hither with the wine-flagon, that I may fill up the drinking bowls!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nI see a man, striding along apace, with knitted brows; he seems to us the bearer of terrible tidings.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nOh! toils and battles! 'tis Lamachus!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nWhat noise resounds around my dwelling, where shines the glint of arms.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nThe Generals order you forthwith to take your battalions and your plumes, and, despite the snow, to go and guard our borders. They have learnt that a band of Bœotians intend taking advantage of the feast of Cups to invade our country.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nAh! the Generals! they are numerous, but not good for much! It's cruel, not to be able to enjoy the feast!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nOh! warlike host of Lamachus!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nWretch! do you dare to jeer me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nDo you want to fight this four-winged Geryon?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nOh! oh! what fearful tidings!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! ah! I see another herald running up; what news does he bring me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nDicæopolis!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat is the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERALD\nCome quickly to the feast and bring your basket and your cup; 'tis the priest of Bacchus who invites you. But hasten, the guests have been waiting for you a long while. All is ready—couches, tables, cushions, chaplets, perfumes, dainties and courtesans to boot; biscuits, cakes, sesamé-bread, tarts, and—lovely dancing women, the sweetest charm of the festivity. But come with all haste.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nOh! hostile gods!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nThis is not astounding; you have chosen this huge, great ugly Gorgon's head for your patron. You, shut the door, and let someone get ready the meal.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nSlave! slave! my knapsack!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nSlave! slave! a basket!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nTake salt and thyme, slave, and don't forget the onions.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nGet some fish for me; I cannot bear onions.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nSlave, wrap me up a little stale salt meat in a fig-leaf.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd for me some good greasy tripe in a fig-leaf; I will have it cooked here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nBring me the plumes for my helmet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBring me wild pigeons and thrushes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nHow white and beautiful are these ostrich feathers!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHow fat and well browned is the flesh of this wood-pigeon!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nBring me the case for my triple plume.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nPass me over that dish of hare.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nOh! the moths have eaten the hair of my crest!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nI shall always eat hare before dinner.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nHi! friend! try not to scoff at my armour.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHi! friend! will you kindly not stare at my thrushes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nHi! friend! will you kindly not address me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nI do not address you; I am scolding my slave. Shall we wager and submit the matter to Lamachus, which of the two is the best to eat, a locust or a thrush?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nInsolent hound!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHe much prefers the locusts.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nSlave, unhook my spear and bring it to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nSlave, slave, take the sausage from the fire and bring it to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nCome, let me draw my spear from its sheath. Hold it, slave, hold it tight.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd you, slave, grip, grip well hold of the skewer.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nSlave, the bracings for my shield.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nPull the loaves out of the oven and bring me these bracings of my stomach.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nMy round buckler with the Gorgon's head.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nMy round cheese-cake.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nWhat clumsy wit!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nWhat delicious cheese-cake!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nPour oil on the buckler. Hah! hah! I can see an old man who will be accused of cowardice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nPour honey on the cake. Hah! hah! I can see an old man who makes Lamachus of the Gorgon's head weep with rage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nSlave, full war armour.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nSlave, my beaker; that is my armour.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nWith this I hold my ground with any foe.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd I with this with any tosspot.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nFasten the strappings to the buckler; personally I shall carry the knapsack.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nPack the dinner well into the basket; personally I shall carry the cloak.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nSlave, take up the buckler and let's be off. It is snowing! Ah! 'tis a question of facing the winter.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nTake up the basket, 'tis a question of getting to the feast.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWe wish you both joy on your journeys, which differ so much. One goes to mount guard and freeze, while the other will drink, crowned with flowers, and then sleep with a young beauty, who will rub his tool for him. I say it freely; may Zeus confound Antimachus, the poet-historian, the son of Psacas! When Choregus at the Lenæa, alas! alas! he dismissed me dinnerless. May I see him devouring with his eyes a cuttle-fish, just served, well cooked, hot and properly salted; and the moment that he stretches his hand to help himself, may a dog seize it and run off with it. Such is my first wish. I also hope for him a misfortune at night. That returning all-fevered from horse practice, he may meet an Orestes, mad with drink, who breaks open his head; that wishing to seize a stone, he, in the dark, may pick up a fresh stool, hurl his missile, miss aim and hit Cratinus.\n[Note 113: An allusion to the paroxysms of rage, as represented in many tragedies familiar to an Athenian audience, of Orestes, the son of Agamemnon, after he had killed his mother.]\n[Note 114: No doubt the comic poet, rival of Aristophanes.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SLAVE OF LAMACHUS\nSlaves of Lamachus! Water, water in a little pot! Make it warm, get ready cloths, cerate, greasy wool and bandages for his ankle. In leaping a ditch, the master has hurt himself against a stake; he has dislocated and twisted his ankle, broken his head by falling on a stone, while his Gorgon shot far away from his buckler. His mighty braggadocio plume rolled on the ground; at this sight he uttered these doleful words, \"Radiant star, I gaze on thee for the last time; my eyes close to all light, I die.\" Having said this, he falls into the water, gets out again, meets some runaways and pursues the robbers with his spear at their backsides. But here he comes, himself. Get the door open.\n[Note 115: Unexpected wind-up of the story. Aristophanes intends to deride the boasting of Lamachus, who was always ascribing to himself most unlikely exploits.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nOh! heavens! oh! heavens! What cruel pain! I faint, I tremble! Alas! I die! the foe's lance has struck me! But what would hurt me most would be for Dicæopolis to see me wounded thus and laugh at my ill-fortune.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\n[enters with two courtesans] Oh! my gods! what bosoms! Hard as a quince! Come, my treasures, give me voluptuous kisses! Glue your lips to mine. Haha! I was the first to empty my cup.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nOh! cruel fate! how I suffer! accursed wounds!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nHah! hah! hail! Knight Lamachus! [Embraces Lamachus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nBy the hostile gods! [Bites Dicæopolis.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAh! great gods!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nWhy do you embrace me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd why do you bite me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\n'Twas a cruel score I was paying back!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nScores are not evened at the feast of Cups!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nOh! Pæan, Pæan!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nBut to-day is not the feast of Pæan.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nOh! support my leg, do; ah! hold it tenderly, my friends!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAnd you, my darlings, take hold of my tool both of you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nThis blow with the stone makes me dizzy; my sight grows dim.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nFor myself, I want to get to bed; I am bursting with lustfulness, I want to be fucking in the dark.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nCarry me to the surgeon Pittalus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nTake me to the judges. Where is the king of the feast? The wine-skin is mine!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LAMACHUS\nThat spear has pierced my bones; what torture I endure!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nYou see this empty cup! I triumph! I triumph!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOld man, I come at your bidding! You triumph! you triumph!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nAgain I have brimmed my cup with unmixed wine and drained it at a draught!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nYou triumph then, brave champion; thine is the wine-skin!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DICÆOPOLIS\nFollow me, singing \"Triumph! Triumph!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAye! we will sing of thee, thee and thy sacred wine-skin, and we all, as we follow thee, will repeat in thine honour, \"Triumph, Triumph!\"",
+          "ref": null
+        }
+      ]
+    }
+  ]
+}

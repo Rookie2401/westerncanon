@@ -1,0 +1,52 @@
+{
+  "workId": "xenophon-hellenica-en",
+  "title": "Hellenica",
+  "author": "Xenophon",
+  "language": "en",
+  "edition": "Xenophon in Seven Volumes, vol. 1-2 (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918-1921)",
+  "translator": "Carleton L. Brownson",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0032.tlg001.perseus-eng2), digitising Carleton L. Brownson's Loeb Classical Library translation (vol. 1-2, 1918-1921); imported by scripts/import-xenophon. The raw file is fetched once (cached at scripts/import-xenophon/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Carleton L. Brownson's 1918-1921 translation is in the public domain (pre-1931 publication). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Xenophon's Hellenica",
+      "paragraphs": [
+        "The English text here is Carleton L. Brownson's Loeb Classical Library translation, verbatim (\"Xenophon in Seven Volumes\", vol. 1-2, Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1918-1921). Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "E. C. Marchant, ed., Xenophontis Opera Omnia, vol. 1 (Oxford: Clarendon Press, 1900), an Oxford Classical Text - Greek title \"Ἑλληνικά\". The Loeb English translation used here is by Carleton L. Brownson (vol. 1-2, 1918-1921).",
+        "Structure: book, then chapter, then section. This edition carries 7 book(s), 38 chapter(s), 1146 section(s) total in this witness."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0032.tlg001.perseus-eng2.xml (CTS urn:cts:greekLit:tlg0032.tlg001.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once (cached at scripts/import-xenophon/raw/) and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book, chapter and section <div>s. Each Book becomes a container Division (`book-N`, its verbatim Greek rubric captured as sourceHeading on the Greek sibling only - the English witness prints no book rubric); each Chapter becomes a leaf Division (`book-N-ch-M`) with exactly one Passage, collecting every <p> under that chapter's section children, in citation-number order, joined with a blank line. This mirrors this app's established de-bello-gallico-la convention for an uninformative extra nesting level (Xenophon's sections ARE independently citation-meaningful, unlike Caesar's, but this app's schema still folds them into the chapter Passage rather than exposing them as separate Divisions - see \"Reference scheme\" below).",
+        "Only transport/editorial scaffolding is removed: entities are decoded, whitespace collapsed, and Unicode normalised to NFC (a no-op for every one of these 14 source files - independently verified 0 code points remapped). <milestone unit=\"para\"/> markers (always redundant with an immediately-following <p> start) are dropped as zero-width. Editorial supplements (<add>) and corrections (<corr>, standalone or the printed half of a <choice><sic>/<corr> pair) ARE part of what this edition prints as its running text and are kept verbatim; text the editor brackets as suspected spurious or an interpolation (<del>) is likewise KEPT, wrapped in square brackets exactly as a critical edition prints editor-bracketed text - NOT excluded (only the unemended half of a <choice><sic> pair, and any translator footnote nested inside a <del>, are ever excluded); all logged individually in anomalies.json, full span verbatim. Translator/editorial footnotes (<note>, up to ~1450 in one file) and inline source-attribution labels for embedded quotations (<bibl>, e.g. \"Theognis\") are excluded entirely as apparatus, not Xenophon's own words, and counted."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by Book, Chapter and Section (e.g. \"Hellenica 1.1.1\"), Xenophon's and this edition's own numbering. This app's schema folds each chapter's sections into one Passage (see \"How it was imported\"), so Division.ref and Passage.ref are null throughout - the section-level citation survives only as the paragraph-break structure within a chapter's joined text, in citation-number order, not as a separate addressable Division."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 7 books, 38 chapters and 1146 sections of this edition are present and in order.",
+        "695 translator/editorial footnote(s) (<note>) were excluded entirely as apparatus - never Xenophon's own words.",
+        "5 inline source-attribution label(s) (<bibl>, e.g. naming the poet a quoted line traces to) were excluded from the reading text as editorial apparatus - confirmed by direct inspection to be glued onto the surrounding text with no separating whitespace, i.e. never part of Xenophon's own sentence."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "where": "sophocles-antigone-en / card-441",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Creon\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "sophocles-antigone-en / card-883 / sp[Antigone]/l[n=900]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"And yet I honored you rightly, as the wise understand.\""
+  },
+  {
+    "where": "sophocles-antigone-en / card-883 / sp[Antigone]/l[n=905]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Never, if I had been a mother of children, or if a husband had been rotting after death, would I have taken that burden upon myself in violation of the citizens’ will. For the sake of what law, you ask, do I say that? A husband lost, another might have been found,\""
+  },
+  {
+    "where": "sophocles-antigone-en / card-883 / sp[Antigone]/l[n=910]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and if bereft of a child, there could be a second from some other man. But when father and mother are hidden in Hades, no brother could ever bloom for me again. Such was the law whereby I held you first in honor, but for that Creon judged me guilty of wrongdoing\""
+  },
+  {
+    "where": "sophocles-antigone-en / card-883 / sp[Antigone]/l[n=915]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and of dreadful outrage, dear brother! And now he leads me thus in his hands’ strong grasp, when I have enjoyed no marriage bed or bridal song and have not received any portion of marriage or the nurture of children. But deserted by friends,\""
+  },
+  {
+    "where": "sophocles-antigone-en / card-883 / sp[Antigone]/l[n=920]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"in misery I go living to the hollow graves of the dead.\""
+  },
+  {
+    "where": "sophocles-antigone-en / card-1219",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Messenger\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  }
+]

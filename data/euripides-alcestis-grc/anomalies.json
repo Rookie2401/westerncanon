@@ -1,0 +1,90 @@
+[
+  {
+    "where": "euripides-alcestis-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-alcestis-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-alcestis-grc / card-77 / sp[Χορός]/l[n=81]",
+    "note": "<add> included in reading text: \"μʼ\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-93 / sp[Χορός]/l[n=96a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-alcestis-grc / card-112 / sp[Χορός]/l[n=116]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἕδρας\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-136 / sp[Θεράπαινα]/l[n=204a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-alcestis-grc / card-136 / sp[Θεράπαινα]/l[n=208]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀκτῖνα κύκλον θ’ ἡλίου προσόψεται.\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-213 / sp[Χορός]/l[n=213]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πῶς\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-213 / sp[Χορός]/l[n=223]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τοῦδ’ ἐφεῦρες\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-226 / sp[Χορός]/l[n=226]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-alcestis-grc / card-259 / sp[Ἄλκηστις]/l[n=262]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"αἵδας\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-259 / sp[Ἄλκηστις]/l[n=263]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μέθες με·\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-273 / sp[Ἄδμητος]/l[n=275]",
+    "note": "<add> included in reading text: \"σε\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-280 / sp[Ἄλκηστις]/l[n=312]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὃν καὶ προσεῖπε καὶ προσερρήθη πάλιν.\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-406 / sp[Παῖς]/l[n=411]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-alcestis-grc / card-466 / sp[Χορός]/l[n=468a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-alcestis-grc / card-466 / sp[Χορός]/l[n=473]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀλόχου\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-588 / sp[Χορός]/l[n=593]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-alcestis-grc / card-629 / sp[Ἄδμητος]/l[n=651]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κἀγώ τ’ ἂν ἔζων χἥδε τὸν λοιπὸν χρόνον,\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-629 / sp[Ἄδμητος]/l[n=652]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κοὐκ ἂν μονωθεὶς ἔστενον κακοῖς ἐμοῖς.\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-984 / sp[Χορός]/l[n=992]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"καὶ θανοῦσ’ ἔσται,\""
+  },
+  {
+    "where": "euripides-alcestis-grc / card-1118 / sp[Ἄδμητος]/l[n=1153]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δόμον.\""
+  }
+]

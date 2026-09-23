@@ -1,0 +1,94 @@
+[
+  {
+    "where": "aristophanes-wasps-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-136 / sp[Σωσίας]/l[n=152]",
+    "note": "<add> included in reading text: \"ὅδε\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-291 / sp[Χορός]/l[n=302]",
+    "note": "<add> included in reading text: \"ἒ ἔ.\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-303 / sp[Παίς]/l[n=308]",
+    "note": "<add> included in reading text: \"εὑρεῖν\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-303 / sp[Χορός]/l[n=309]",
+    "note": "<add> included in reading text: \"ἀπαπαῖ φεῦ,\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-316 / sp[Φιλοκλέων]/l[n=323]",
+    "note": "<add> included in reading text: \"Ζεῦ\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-336 / sp[Χορός]/l[n=339]",
+    "note": "<add> included in reading text: \"καὶ\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-342 / sp[Χορός]/l[n=342a]",
+    "note": "<add> included in reading text: \"ὅδʼ,\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-342 / sp[Χορός]/l[n=343]",
+    "note": "<add> included in reading text: \"σύ\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-348 / sp[Φιλοκλέων]/l[n=348]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-381 / sp[Ξανθίας]/l[n=396]",
+    "note": "<add> included in reading text: \"αὖ\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-526 / sp[Χορός]/l[n=536]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-605 / sp[Φιλοκλέων]/l[n=609]",
+    "note": "<add> included in reading text: \"τὸ\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-631 / sp[Χορός]/l[n=646a]",
+    "note": "<add> included in reading text: \"νεανίᾳ\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-885 / sp[Χορός]/l[n=885]",
+    "note": "<add> included in reading text: \"ταὐτά\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-885 / sp[Χορός]/l[n=890a]",
+    "note": "<add> included in reading text: \"ἰήιε Παιάν.\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-885 / sp[Φιλοκλέων]/l[n=902]",
+    "note": "<add> included in reading text: \"ἔσθʼ\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-1060 / sp[Χορός]/l[n=1064]",
+    "note": "<add> included in reading text: \"ἔτι\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-1224 / sp[Φιλοκλέων]/l[n=1227]",
+    "note": "<add> included in reading text: \"οὐδὲ\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-1283a / sp[Χορός]/l[n=1283a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-1335 / sp[Φιλοκλέων]/l[n=1340]",
+    "note": "<add> included in reading text: \"ἡμῖν\""
+  },
+  {
+    "where": "aristophanes-wasps-grc / card-1518 / sp[Χορός]/l[n=1519]",
+    "note": "<add> included in reading text: \"θεοῦ\""
+  }
+]

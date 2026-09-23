@@ -1,0 +1,242 @@
+[
+  {
+    "where": "euripides-phoenician-women-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 1 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1 / sp[Ἰοκάστη]/l[n=22]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"βρέφος\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-32 / sp[Ἰοκάστη]/l[n=51]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὅθεν τύραννος τῆσδε γῆς καθίσταται\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / delSpan",
+    "note": "<delSpan spanTo=\"#a001\"/> marker present (source-editor athetesis/interpolation bracketing a suspect multi-line span, often crossing <l>/<sp> boundaries). Judgment call: treated as transparent bookkeeping only - the text it brackets is NOT excluded from the reading text, since both Perseus's own edition and translation still print/display it as running text and it carries the play's standard line citation; excluding it would silently truncate the play. The marker itself contributes no text."
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-103 / sp[Παιδαγωγός]/l[n=144]",
+    "note": "<anchor xml:id=\"a001\"/> marker present (source-editor athetesis/interpolation bracketing a suspect multi-line span, often crossing <l>/<sp> boundaries). Judgment call: treated as transparent bookkeeping only - the text it brackets is NOT excluded from the reading text, since both Perseus's own edition and translation still print/display it as running text and it carries the play's standard line citation; excluding it would silently truncate the play. The marker itself contributes no text."
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-145 / sp[Ἀντιγόνη]/l[n=166]",
+    "note": "<add> included in reading text: \"ἐν\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-145 / sp[Ἀντιγόνη]/l[n=169]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀελίου\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-250 / sp[Χορός]/l[n=259]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"παῖς\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-293 / sp[Ἰοκάστη]/l[n=315]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐκεῖσε καὶ τὸ δεῦρο\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-293 / sp[Ἰοκάστη]/l[n=324]",
+    "note": "<add> included in reading text: \"ὦ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-327 / sp[Ἰοκάστη]/l[n=337]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-327 / sp[Ἰοκάστη]/l[n=346]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὡς πρέπει\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-355 / sp[Πολυνείκης]/l[n=372]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κάρα ξυρῆκες καὶ πέπλους μελαγχίμους\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-355 / sp[Πολυνείκης]/l[n=375]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ δυσλύτους ἔχουσα τὰς διαλλαγάς\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-427 / sp[Πολυνείκης]/l[n=428]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Τυδεῖ τε κἀμοί· σύγγαμος γάρ ἐστʼ ἐμός·\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-469 / sp[Πολυνείκης]/l[n=487]",
+    "note": "<add> included in reading text: \"αὖ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-549 / sp[Ἰοκάστη]/l[n=558]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὁ δʼ ὄλβος οὐ βέβαιος, ἀλλʼ ἐφήμερος.\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-549 / sp[Ἰοκάστη]/l[n=562]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Ἀργεῖά τʼ ἔγχη δόρυ τὸ Καδμείων ἕλῃ,\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-657 / sp[Χορός]/l[n=666]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-657 / sp[Χορός]/l[n=667]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Παλλάδος\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-676 / sp[Χορός]/l[n=679]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐκάλεσʼ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-690 / sp[Κρέων]/l[n=710]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πέριξ πύργοισι Καδμείων πόλιν\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-690 / sp[Κρέων]/l[n=711]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὅπλοις\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-737 / sp[Κρέων]/l[n=739]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"λόχων ἀνάσσειν\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-737 / sp[Κρέων]/l[n=745]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-737 / sp[Ἐτεοκλῆς]/l[n=756]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κτανεῖν θʼ, ὃς ἦλθε πατρίδα πορθήσων ἐμήν.\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-737 / sp[Ἐτεοκλῆς]/l[n=778]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σοὶ μὲν τάδʼ εἶπον· προσπόλοις δʼ ἐμοῖς λέγω·\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-801 / sp[Χορός]/l[n=816]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"παῖδες ματρὶ λόχευμα, μίασμα πατρός·\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-801 / sp[Χορός]/l[n=817]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἣ δὲ συναίμονος ἐς λέχος ἦλθεν.\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-801 / sp[Χορός]/l[n=817a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-865 / sp[Τειρεσίας]/l[n=878]",
+    "note": "<add> included in reading text: \"οὐ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-911 / sp[Τειρεσίας]/l[n=912]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἃ δρῶντες ἂν σώσαιτε Καδμείων πόλιν\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-960 / sp[Κρέων]/l[n=974]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πύλας ἐφʼ ἑπτὰ καὶ λοχαγέτας μολών·\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-960 / sp[Μενοικεύς]/l[n=989]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"προσηγορήσων εἶμι καὶ σῴσων βίον.\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1067 / sp[Ἰοκάστη]/l[n=1075]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τί μοί ποθʼ ἥκεις καινὸν ἀγγελῶν ἔπος;\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1067 / sp[Ἄγγελος]/l[n=1077]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1067 / sp[Ἄγγελος]/l[n=1095]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1104 / sp[Ἄγγελος]/l[n=1136]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὕδρας ἔχων λαιοῖσιν ἐν βραχίοσιν\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1153 / sp[Ἄγγελος]/l[n=1183]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐσφενδονᾶτο χωρὶς ἀλλήλων μέλη,\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1153 / sp[Ἄγγελος]/l[n=1184]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κόμαι μὲν εἰς Ὄλυμπον, αἷμα δʼ ἐς χθόνα,\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1153 / sp[Ἄγγελος]/l[n=1185]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"χεῖρες δὲ καὶ κῶλʼ ὡς κύκλωμʼ Ἰξίονος\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1202 / sp[Ἄγγελος]/l[n=1225]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἔλεξε δʼ· ὦ γῆς Ἑλλάδος στρατηλάται\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1310 / sp[Κρέων]/l[n=1312]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τοιοῦτον ὥστε διʼ Ἀχέροντος ἱέναι;\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1340 / sp[Κρέων]/l[n=1346]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οἴμοι κακῶν δύστηνος· ὦ τάλας ἐγώ.\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1340 / sp[Ἄγγελος]/l[n=1358]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὥστʼ οὐχ ἅπαντά σʼ εἰδέναι τὰ δρώμενα.\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1340 / sp[Ἄγγελος]/l[n=1362]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δισσὼ στρατηγὼ καὶ διπλὼ στρατηλάτα\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1340 / sp[Ἄγγελος]/l[n=1369]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"αἴσχιστον αἰτῶν στέφανον, ὁμογενῆ κτανεῖν.\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1340 / sp[Ἄγγελος]/l[n=1370]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πολλοῖς δʼ ἐπῄει δάκρυα τῆς τύχης ὅση,\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1340 / sp[Ἄγγελος]/l[n=1371]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κἄβλεψαν ἀλλήλοισι διαδόντες κόρας.\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1485 / sp[Ἀντιγόνη]/l[n=1522]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἰαχήσω\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1530 / sp[Ἀντιγόνη]/l[n=1533]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἐπὶ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1530 / sp[Ἀντιγόνη]/l[n=1534]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δώμασιν ἀέριον σκότον ὄμμασι\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1530 / sp[Ἀντιγόνη]/l[n=1550]",
+    "note": "<add> included in reading text: \"ὦ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1582 / sp[Οἰδίπους]/l[n=1606]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1582 / sp[Οἰδίπους]/l[n=1606a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1625 / sp[Κρέων]/l[n=1634]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐᾶν δʼ ἄκλαυτον, ἄταφον, οἰωνοῖς βοράν.\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1710 / sp[Οἰδίπους]/l[n=1713]",
+    "note": "<add> included in reading text: \"ἰδοὺ\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1710 / sp[Οἰδίπους]/l[n=1730]",
+    "note": "<add> included in reading text: \"μειξο\""
+  },
+  {
+    "where": "euripides-phoenician-women-grc / card-1710 / sp[Ἀντιγόνη]/l[n=1743]",
+    "note": "<add> included in reading text: \"σῶν\""
+  }
+]

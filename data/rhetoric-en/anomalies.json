@@ -1,0 +1,22 @@
+[
+  {
+    "where": "book-2-ch-15",
+    "note": "No Bekker page milestone found in this chapter; Division.ref left null rather than fabricated."
+  },
+  {
+    "where": "rhetoric-en / chapter counts",
+    "note": "All 3 books parse to exactly the traditionally cited chapter counts (I: 15, II: 26, III: 19) - no mismatch to reconcile."
+  },
+  {
+    "where": "rhetoric-en / reading text",
+    "note": "639 <note resp=\"Freese\"> footnotes (translator's commentary, cross-references and source citations - not the translated running text) were excluded entirely, tag and content, including the 147 <bibl> elements they contain; not logged individually given their number."
+  },
+  {
+    "where": "rhetoric-en / structure",
+    "note": "This source nests an extra <div type=\"textpart\" subtype=\"section\"> level (Freese's own Bekker-line-keyed sub-numbering, e.g. \"1.1.1\") between chapter and paragraph, labelled explicitly (unlike the unlabelled \"subsection\" level in the Nicomachean Ethics English witness). It carries no information this app's two-level Book->Chapter schema needs, so every <p> under a chapter div is read straight through regardless of its section nesting depth, in document order, into that chapter's single Passage. A small number of section divs (31 of 882) contain two <p> elements rather than one; both are kept, joined with the rest."
+  },
+  {
+    "where": "rhetoric-en / passage & division refs",
+    "note": "134 Bekker page milestones captured; each chapter's Division.ref is the first–last page value seen in that chapter's own document order. Every Passage.ref is null: no Bekker milestone is printed at the per-paragraph level, only per-page."
+  }
+]

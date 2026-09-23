@@ -1,0 +1,65 @@
+{
+  "workId": "de-respiratione-en",
+  "title": "On Breathing",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "G. R. T. Ross",
+  "editor": "John Alexander Smith and William David Ross",
+  "edition": "The Works of Aristotle Translated into English, Volume III: Parva Naturalia (Oxford: Clarendon Press, 1908)",
+  "provenance": "English Wikisource, page \"On Breathing\" (Parts 7-22), fetched once via the MediaWiki action=query&prop=revisions&rvslots=main&rvprop=content API and cached under scripts/import-de-respiratione-en/raw/. The surrounding Parts 1-6 and 23-27 are the treatises On Youth and Old Age and On Life and Death, which the source keeps on separate pages of their own and which are bundled here as data/de-iuventute-en. This page is ORDINARY WIKITEXT rather than a djvu page-scan transclusion, so the wikitext itself is the text; imported by scripts/import-de-respiratione-en.",
+  "license": "G. R. T. Ross's 1908 translation is in the public domain (published before 1929). The digital transcription is distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Aristotle's On Breathing in G. R. T. Ross's English translation, made for the Oxford Works of Aristotle Translated into English and published in 1908 as part of that series' volume III, the Parva Naturalia. It surveys and criticises earlier accounts of respiration — Democritus, Anaxagoras, Diogenes, Plato and Empedocles among them — before setting out Aristotle's own view of breathing as the cooling of the vital heat around the heart, and of gills as performing the same office for fishes.",
+        "The text here is the translation, verbatim. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "IMPORTANT: why the chapters start at 7",
+      "paragraphs": [
+        "This edition's chapters run 7 to 22. Nothing is missing before chapter 7: those numbers are the source's own. In the Oxford volume, On Youth and Old Age, On Breathing and On Life and Death share one continuous run of twenty-seven chapter numbers, and English Wikisource preserves that numbering while giving each treatise its own page — Parts 1-6, 7-22 and 23-27 respectively, with each page's header saying as much.",
+        "Chapters 1-6 and 23-27 are complete in this library's companion edition of On Youth and Old Age, On Life and Death. Renumbering this treatise 1-16 would have looked tidier while silently breaking every citation and concealing the link between the two editions, so the source's numbering is kept exactly as printed."
+      ]
+    },
+    {
+      "heading": "Completeness",
+      "paragraphs": [
+        "This edition is complete: all sixteen chapters of the treatise (the source's Parts 7 to 22), with no gaps and no truncation."
+      ]
+    },
+    {
+      "heading": "The Empedocles verses",
+      "paragraphs": [
+        "Aristotle quotes Empedocles' hexameters on respiration at length, and Ross translated them along with the surrounding argument. They arrive in the source wrapped in a poem-formatting template. Because they are a quotation inside Aristotle's own text rather than a translator's note or editorial apparatus, they are kept in full as reading matter; only the template's formatting directives are stripped."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the raw wikitext of the English Wikisource page \"On Breathing\", fetched once and committed under the importer's raw/ directory. This batch's brief expected djvu page-scan transclusions (for which only the rendered HTML carries any text); direct inspection found ordinary wikitext instead, so the simpler wikitext route was used and the difference is disclosed here rather than described as a page-scan provenance it does not have. The text is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The page opens with a `{{header}}` template (title, translator, navigation) which is transport furniture and is dropped, and ends with interwiki links and a licence template that are likewise skipped and counted. Chapters are marked by `===Part N===` wiki headings. The page also opens with a banner heading carrying the treatise title, and carries `{{no scan}}` and licence templates; those are page furniture rather than Aristotle's words, and are skipped and counted. The `{{ppoem}}` block quoting Empedocles is genuine translated content and is kept, with only its `1=` and `{italic}` formatting directives removed. Every paragraph under a chapter marker, in document order, becomes part of that chapter's single Passage, joined by blank lines.",
+        "The importer refuses to ship a division it has not been told to expect: the exact chapter numbers are declared in advance, and a mismatch stops the run rather than silently producing a different text. An unrecognised wiki template also stops the run rather than being guessed at as either furniture or reading text."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by chapter, using the source's own continuous Part numbering (7-22). This digitisation prints no Bekker page/column markers anywhere, so every Division.ref and every Passage.ref is null. No Bekker reference has been reconstructed or estimated, because doing so would mean inventing a citation the source does not support."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "There are no gaps in the text; the chapter numbering simply begins at 7, for the reason explained above. anomalies.json carries the complete machine-readable log: the relationship to data/de-iuventute-en, the preserved numbering, the Empedocles quotation kept as content, the furniture skipped, the null reference scheme, and the plaintext-rather-than-page-scan provenance.",
+        "A word on trust: this is a plaintext digitisation rather than a page-by-page proofread against a scan, so isolated transcription slips are possible despite this importer's care. That is a disclosed limitation of the source, not something quietly corrected here."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "where": "euripides-medea-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-medea-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-medea-grc / card-96 / sp[Μήδεια]/stage",
+    "note": "<add> included in reading text: \"ἔνδοθεν\""
+  },
+  {
+    "where": "euripides-medea-grc / card-139 / sp[Μήδεια]/l[n=144]",
+    "note": "<add> included in reading text: \"ὦ Ζεῦ καὶ Γᾶ καὶ Φῶς·\""
+  },
+  {
+    "where": "euripides-medea-grc / card-173 / sp[Χορός]/l[n=183]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"σπεῦσον πρίν τι\""
+  },
+  {
+    "where": "euripides-medea-grc / card-214 / sp[Μήδεια]/l[n=246]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ πρὸς φίλον τιν’ ἢ πρὸς ἥλικα τραπείς·\""
+  },
+  {
+    "where": "euripides-medea-grc / card-252 / sp[Μήδεια]/l[n=262]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὸν δόντα τ’ αὐτῷ θυγατέρ’ ἥ τ’ ἐγήματο\""
+  },
+  {
+    "where": "euripides-medea-grc / card-357 / sp[Χορός]/l[n=357]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δύστανε γύναι,\""
+  },
+  {
+    "where": "euripides-medea-grc / card-446 / sp[Μήδεια]/l[n=468]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"θεοῖς τε κἀμοὶ παντί τ’ ἀνθρώπων γένει;\""
+  },
+  {
+    "where": "euripides-medea-grc / card-522 / sp[Ἰάσων]/l[n=531]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τόξοις ἀφύκτοις\""
+  },
+  {
+    "where": "euripides-medea-grc / card-731 / sp[Μήδεια]/l[n=738]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"φίλος γένοι’ ἂν τἀπικηρυκεύματα·—\""
+  },
+  {
+    "where": "euripides-medea-grc / card-731 / sp[Αἰγεύς]/l[n=741]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πολλὴν ἔλεξας ἐν λόγοις προμηθίαν·\""
+  },
+  {
+    "where": "euripides-medea-grc / card-731 / sp[Αἰγεύς]/l[n=752]",
+    "note": "<add> included in reading text: \"Ἡλίου θ’ ἁγνὸν σέβας\""
+  },
+  {
+    "where": "euripides-medea-grc / card-764 / sp[Μήδεια]/l[n=767]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δ’\""
+  },
+  {
+    "where": "euripides-medea-grc / card-846 / sp[Χορός]/l[n=847]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἢ πόλις\""
+  },
+  {
+    "where": "euripides-medea-grc / card-856 / sp[Χορός]/l[n=856]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἢ φρενὸς ἢ\""
+  },
+  {
+    "where": "euripides-medea-grc / card-856 / sp[Χορός]/l[n=857]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"χειρὶ τέκνων σέθεν\""
+  },
+  {
+    "where": "euripides-medea-grc / card-856 / sp[Χορός]/l[n=858]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"καρδίᾳ τε λήψῃ\""
+  },
+  {
+    "where": "euripides-medea-grc / card-908 / sp[Ἰάσων]/l[n=910]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"γάμου παρεμπολῶντος ἀλλοίου πόσει.\""
+  },
+  {
+    "where": "euripides-medea-grc / card-976 / sp[Χορός]/l[n=981]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"λαβοῦσα.\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1002 / sp[Παιδαγωγός]/l[n=1006]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τί σὴν ἔστρεψας ἔμπαλιν παρηίδα\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1002 / sp[Παιδαγωγός]/l[n=1007]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κοὐκ ἀσμένη τόνδ’ ἐξ ἐμοῦ δέχῃ λόγον;\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1049 / sp[Μήδεια]/l[n=1062]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πάντως σφ’ ἀνάγκη κατθανεῖν· ἐπεὶ δὲ χρή,\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1049 / sp[Μήδεια]/l[n=1063]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἡμεῖς κτενοῦμεν οἵπερ ἐξεφύσαμεν.\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1049 / sp[Μήδεια]/l[n=1077]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πρὸς ὑμᾶς\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1081 / sp[Χορός]/l[n=1087]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δὲ δὴ\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1081 / sp[Χορός]/l[n=1088]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"γένος ἐν πολλαῖς εὕροις ἂν ἴσως\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1081 / sp[Χορός]/l[n=1099]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"βλάστημ’, ὁρῶ\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1136 / sp[Ἄγγελος]/l[n=1158]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σέθεν\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1251 / sp[Χορός]/l[n=1256]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"αἷμά τι\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1261 / sp[Χορός]/l[n=1269]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἐπὶ γαῖαν αὐτοφόνταις ξυνῳ-\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1261 / sp[Χορός]/l[n=1270]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δὰ θεόθεν πίτνοντ’ ἐπὶ δόμοις ἄχη.\""
+  },
+  {
+    "where": "euripides-medea-grc / speaker",
+    "note": "<add> included in reading text: \"Παῖδες\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1261 / sp[Παῖδες]/stage",
+    "note": "<add> included in reading text: \"ἔνδοθεν.\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1261 / sp[Παῖδες]/l[n=1270a]",
+    "note": "<add> included in reading text: \"αἰαῖ.\""
+  },
+  {
+    "where": "euripides-medea-grc / card-1323 / sp[Μήδεια]/l[n=1359]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ᾤκησεν πέδον·\""
+  }
+]

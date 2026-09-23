@@ -1,0 +1,78 @@
+[
+  {
+    "where": "aeschylus-persians-grc / card-532 / sp[Χορός]/l[n=532]",
+    "note": "<add> included in reading text: \"γὰρ\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-568 / sp[Χορός]/l[n=571]",
+    "note": "<add> included in reading text: \"σύρονται\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-673 / sp[Χορός]/l[n=675]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τί τάδε δυνάτα δυνάτα\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-673 / sp[Χορός]/l[n=676]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"διαγόεν\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-673 / sp[Χορός]/l[n=676]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"περὶ τᾷ σᾷ δίδυμα διαγόεν ἁμάρτια;\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-759 / sp[Δαρεῖος]/l[n=778]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἕκτος δὲ Μάραφις, ἕβδομος δʼ Ἀρταφρένης.\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-858 / sp[Χορός]/l[n=863]",
+    "note": "<add> included in reading text: \"ἀνέρας\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-941 / sp[Ξέρξης]/l[n=941]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-941 / sp[Χορός]/l[n=948]",
+    "note": "<add> included in reading text: \"κλάγξω\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-950 / sp[Χορός]/l[n=959]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-962 / sp[Χορός]/l[n=967]",
+    "note": "<add> included in reading text: \"βόα\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-974 / sp[Χορός]/l[n=981b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-persians-grc / card-974 / sp[Χορός]/l[n=985]",
+    "note": "<add> included in reading text: \"ὢ\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-988 / sp[Ξέρξης]/l[n=988]",
+    "note": "<add> included in reading text: \"ἰὼ ἰὼ\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-988 / sp[Ξέρξης]/l[n=989]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὑπομιμνήσκεις\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-988 / sp[Ξέρξης]/l[n=990]",
+    "note": "<add> included in reading text: \"κινεῖς\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-988 / sp[Ξέρξης]/l[n=991]",
+    "note": "<add> included in reading text: \"μοι\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-988 / sp[Χορός]/l[n=1001]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δʼ·\""
+  },
+  {
+    "where": "aeschylus-persians-grc / card-1066 / sp[Χορός]/l[n=1070]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Περσὶς αἶα δύσβατος\""
+  }
+]

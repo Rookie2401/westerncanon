@@ -1,0 +1,634 @@
+[
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Theog. 255f\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰς\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἐπισκεπτέον\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐπισκεπτέον\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"εὐδαι\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὐδὲ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[4]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οὐδʼ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[4]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἕτερος\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"διʼ ἃ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τίς\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[5]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μὲν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[7]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[8]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸ ἀγαθὸν μᾶλλον ἀγαθὸν τῷ ἀίδιον εἶναι· οὐδὲ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[8]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[1]/section[8]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἔτι καὶ τὸ ἐν τῷ λόγῳ γεγραμμένον· ἢ γὰρ οὐδεμιᾷ χρήσιμον αὐτὸ τὸ τοῦ ἀγαθοῦ εἶδος ἢ πάσαις ὁμοίως· ἔτι οὐ πρακτόν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἐν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ταὐτὸ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[1]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τοῦ ἀλόγου μέν,\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὰς\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τρυφερότης\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καρτερία.\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πανουργία\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"φρόνησις\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὁ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἔτι δʼ ὁ μὲν μηδεμίαν ὑπομένων λύπην, μηδʼ εἰ βέλτιον, τρυφερός, ὁ δὲ πᾶσαν ὁμοίως ὡς μὲν ἁπλῶς εἰπεῖν ἀνώνυμος, μεταφορᾷ δὲ λέγεται σκληρὸς καὶ ταλαίπωρος καὶ κακοπαθητικός·\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ ὁ μὲν πανοῦργος πάντως καὶ πάντοθεν πλεονεκτικός, ὁ δʼ εὐήθης οὐδʼ ὅθεν δεῖ·\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐπὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὃς\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[5]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[7]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[7]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Evenus of Paros = Theog. 472\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[8]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"αὗται\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[8]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μὴ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[8]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μὴ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[9]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[10]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ταὐτὸν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[10]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"γὰρ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[10]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[10]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[11]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"γὰρ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[2]/section[11]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὗ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οὖν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Agathon Fr. 7\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Theog. 177\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δʼ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"source unknown\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Il. 22.100\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"μὴ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἃ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[5]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ον\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"μικρῶν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[5]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἂν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[6]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὃ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[7]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τε\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[7]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὁ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[3]/section[7]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"μὴ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Od. 17.218\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Eur. Orest. 234\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hes. WD 25\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Eur. Phoen. 539\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Il. 18.107\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὅμοιον\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"μὲν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Eur. Tro. 1051\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τῷ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"γὰρ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὸ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰς\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"διὰ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Fr. Eleg. Adespota 6 (Bergk)\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἡ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ᾗ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὅ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὐ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Theog. 125f.\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δʼ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Eur. El. 941\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δὲ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Eur. Fr. 298 Bellerophontes\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ᾗ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[6]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὡς\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[6]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὡς\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[6]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μὴ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[6]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸ γὰρ χαίρειν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[6]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μὴ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[6]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οὔ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[6]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\"**\"\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[7]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\"**\"\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[8]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[9]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἡ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[9]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὐδέν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[9]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[9]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δημοκρατικὴ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[10]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[10]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Soph. Fr. 755 (Jebb and Pearson) 684 (Nauck)\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[10]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Fr. Eleg. Adespota 6 (Bergk)\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[10]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hes. WD 371\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[10]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ᾖ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[10]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[10]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Theog. 14\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[10]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὸν\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[11]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὁ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[11]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὃς\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[11]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Eur. Fr. 882 (Nauck)\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[11]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οὐ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[12]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[12]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸν φίλον γνωρίζειν τὸ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[12]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δεῖ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[12]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οὐκ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[12]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"μὴ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[7]/section[12]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[1]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"φίλῳ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καθʼ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"αἱ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἃ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[1]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ νοῦς\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[1]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἡ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οὐ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἃ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"εως\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"εὖ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"κατὰ τὸ εἶναι τοιονδὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἡ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὅτι\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"πολὺ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δὲ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀλλʼ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὁ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ ἡ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἐν οἷς\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δʼ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἡ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"διὰ τί\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἣ δὲ φύσει\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καλῷ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τε\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"περὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / edition[urn:cts:greekLit:tlg0086.tlg009.perseus-grc2]/book[8]/section[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ περὶ\""
+  },
+  {
+    "where": "eudemian-ethics-grc / book-4",
+    "note": "The source's own book/part label for this book is \"7\", not \"4\"; renumbered sequentially by document position (this app's Book/Chapter id scheme requires arabic numerals) - nothing besides the numeral itself changed."
+  },
+  {
+    "where": "eudemian-ethics-grc / book-5",
+    "note": "The source's own book/part label for this book is \"8\", not \"5\"; renumbered sequentially by document position (this app's Book/Chapter id scheme requires arabic numerals) - nothing besides the numeral itself changed."
+  },
+  {
+    "where": "eudemian-ethics-grc / whole work",
+    "note": "2 passage(s) contain a standalone combining diacritic (typically U+0304 COMBINING MACRON or U+0306 COMBINING BREVE over omicron/nu, marking vowel quantity) that survives NFC normalisation because Unicode has no precomposed Greek letter for it - genuine philological notation, not a digitisation artefact, and kept verbatim."
+  }
+]

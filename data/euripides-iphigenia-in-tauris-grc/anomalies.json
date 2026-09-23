@@ -1,0 +1,190 @@
+[
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1 / sp[Ἰφιγένεια]/l[n=38]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"θύω γὰρ ὄντος τοῦ νόμου καὶ πρὶν πόλει,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1 / sp[Ἰφιγένεια]/l[n=39]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὃς ἂν κατέλθῃ τήνδε γῆν Ἕλλην ἀνήρ.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-42 / sp[Ἰφιγένεια]/l[n=59]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὐδʼ αὖ συνάψαι τοὔναρ ἐς φίλους ἔχω·\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-42 / sp[Ἰφιγένεια]/l[n=60]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Στροφίῳ γὰρ οὐκ ἦν παῖς, ὅτʼ ὠλλύμην ἐγώ.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-123 / sp[Χορός]/l[n=142]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τῶν κλεινῶν;\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-143 / sp[Ἰφιγένεια]/l[n=146]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"βοὰν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-143 / sp[Ἰφιγένεια]/l[n=150]",
+    "note": "<add> included in reading text: \"οἵαν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-143 / sp[Ἰφιγένεια]/l[n=154]",
+    "note": "<add> included in reading text: \"μοι\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-178 / sp[Χορός]/l[n=192]",
+    "note": "<add> included in reading text: \"ῥιφαὶ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-178 / sp[Χορός]/l[n=193]",
+    "note": "<add> included in reading text: \"Πέλοπος\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-178 / sp[Χορός]/l[n=194]",
+    "note": "<add> included in reading text: \"ἱερὸν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-178 / sp[Χορός]/l[n=197]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"φόνος ἐπὶ φόνῳ, ἄχεα ἄχεσιν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-203 / sp[Ἰφιγένεια]/l[n=224]",
+    "note": "<add> included in reading text: \"καὶ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-203 / sp[Ἰφιγένεια]/l[n=226]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"αἱμάσσουσʼ ἄταν βωμούς,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-260 / sp[Βουκόλος]/l[n=294]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἃς φᾶσʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-421 / sp[Χορός]/l[n=428]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-421 / sp[Χορός]/l[n=433]",
+    "note": "<add> included in reading text: \"σὺν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-456 / sp[Χορός]/l[n=466]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Ἕλλησι διδοὺς\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-467 / sp[Ἰφιγένεια]/l[n=477a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-467 / sp[Ἰφιγένεια]/l[n=477a]",
+    "note": "<add> included in reading text (empty)"
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-492 / sp[Ὀρέστης]/l[n=510]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-492 / sp[Ἰφιγένεια]/l[n=511]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-540 / sp[Ἰφιγένεια]/l[n=553]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-578 / sp[Ἰφιγένεια]/l[n=589]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-658 / sp[Πυλάδης]/l[n=675]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-725 / sp[Ἰφιγένεια]/l[n=729]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-827 / sp[Ἰφιγένεια]/l[n=828]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"χθονὸς\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-827 / sp[Ἰφιγένεια]/l[n=856]",
+    "note": "<add> included in reading text: \"ὦ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-827 / sp[Ἰφιγένεια]/l[n=861]",
+    "note": "<add> included in reading text: \"τῶν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-868 / sp[Ἰφιγένεια]/l[n=898]",
+    "note": "<add> included in reading text: \"φαίνοι\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-939 / sp[Ὀρέστης]/l[n=964]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-987 / sp[Ὀρέστης]/l[n=1014a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-987 / sp[Ὀρέστης]/l[n=1014a]",
+    "note": "<add> included in reading text (empty)"
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1123 / sp[Χορός]/l[n=1134]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἱστία\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1203 / sp[Ἰφιγένεια]/l[n=1214]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1234 / sp[Χορός]/l[n=1236]",
+    "note": "<add> included in reading text: \"ἔτικτε,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1234 / sp[Χορός]/l[n=1239]",
+    "note": "<add> included in reading text: \"δʼ αὐτά\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1259 / sp[Χορός]/l[n=1260]",
+    "note": "<add> included in reading text: \"Πυθῶνος\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1259 / sp[Χορός]/l[n=1262]",
+    "note": "<add> included in reading text: \"νείρων\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1259 / sp[Χορός]/l[n=1273a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"νυχίους τʼ ἐνοπὰς.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1364 / sp[Ἄγγελος]/l[n=1380]",
+    "note": "<add> included in reading text: \"παρθένῳ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1364 / sp[Ἄγγελος]/l[n=1385]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1390 / sp[Ἄγγελος]/l[n=1404]",
+    "note": "<add> included in reading text: \"πέπλων\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1435 / sp[Ἀθήνα]/l[n=1469a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-grc / card-1435 / sp[Ἀθήνα]/l[n=1469a]",
+    "note": "<add> included in reading text (empty)"
+  }
+]

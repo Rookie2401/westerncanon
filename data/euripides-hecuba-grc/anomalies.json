@@ -1,0 +1,186 @@
+[
+  {
+    "where": "euripides-hecuba-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-hecuba-grc / dramatis-personae",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Αἰχμαλωτίδων Γυναικών\""
+  },
+  {
+    "where": "euripides-hecuba-grc / dramatis-personae",
+    "note": "duplicate heading paragraph \"τὰ τοῦ δράματος πρόσωπα\" found immediately after the note's own heading (the source nests a second <note> with a repeated heading <p> inside the first - verified in Euripides' Hecuba); the duplicate is dropped, the heading kept once."
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1 / sp[Πολυδώρου εἴδωλον]/l[n=8]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-59 / sp[Ἑκάβη]/l[n=76]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"εἶδον γὰρ\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-59 / sp[Ἑκάβη]/l[n=76]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὄψιν ἔμαθον\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-98 / sp[Χορός]/l[n=100]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ προσετάχθην\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-154 / sp[Ἑκάβη]/l[n=157]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τᾶς\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-154 / sp[Ἑκάβη]/l[n=158]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τᾶς\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-154 / sp[Ἑκάβη]/l[n=163]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ποῖ δʼ ἥσω;\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-154 / sp[Ἑκάβη]/l[n=164]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἢ δαιμόνων\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-154 / sp[Ἑκάβη]/l[n=172]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ματέρος\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-154 / sp[Ἑκάβη]/l[n=175]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὦ τέκνον ὡς εἰδῇς οἵαν οἵαν\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-154 / sp[Ἑκάβη]/l[n=176]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀίω φάμαν περὶ σᾶς ψυχᾶς.\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-177 / sp[Πολυξένη]/l[n=185]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-hecuba-grc / card-177 / sp[Ἑκάβη]/l[n=186]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὦ\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-177 / sp[Ἑκάβη]/l[n=186]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-hecuba-grc / card-177 / sp[Πολυξένη]/l[n=187]",
+    "note": "<add> included in reading text: \"δὲ\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-197 / sp[Πολυξένη]/l[n=207]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-hecuba-grc / card-342 / sp[Πολυξένη]/l[n=355]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"παρθένοις τʼ ἀπόβλεπτος μέτα,\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-402 / sp[Ἑκάβη]/l[n=440]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-hecuba-grc / card-484 / sp[Ταλθύβιος]/l[n=490]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ψευδῆ, δοκοῦντας δαιμόνων εἶναι γένος\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-518 / sp[Ταλθύβιος]/l[n=540]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πρευμενοῦς\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-553 / sp[Ταλθύβιος]/l[n=555]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οἳ δʼ, ὡς τάχιστʼ ἤκουσαν ὑστάτην ὄπα,\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-553 / sp[Ταλθύβιος]/l[n=556]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μεθῆκαν, οὗπερ καὶ μέγιστον ἦν κράτος.\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-648 / sp[Χορός]/l[n=655]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τίθεται χέρα δρύπτεται παρειάν,\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-681 / sp[Ἑκάβη]/l[n=692]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μʼ\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-681 / sp[Θεράπαινα]/l[n=698]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-hecuba-grc / card-722 / sp[Ἑκάβη]/l[n=753]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-hecuba-grc / card-767 / sp[Ἑκάβη]/l[n=807]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"γραφεύς\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-767 / sp[Ἑκάβη]/l[n=811]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-hecuba-grc / card-812 / sp[Ἑκάβη]/l[n=831]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐκ τοῦ σκότου τε τῶν τε νυκτερησίων\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-812 / sp[Ἑκάβη]/l[n=832]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"φίλτρων μεγίστη γίγνεται βροτοῖς χάρις.\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-986 / sp[Ἑκάβη]/l[n=992]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1025 / sp[Χορός]/l[n=1026]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"λέχριος ἐκπεσῇ φίλας καρδίας,\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1025 / sp[Χορός]/l[n=1027]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἀμέρσας βίοτον. τὸ γὰρ ὑπέγγυον\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1025 / sp[Χορός]/l[n=1029]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Δίκᾳ καὶ θεοῖσιν οὐ συμπίτνει·\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1025 / sp[Χορός]/l[n=1030]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ὀλέθριον ὀλέθριον κακόν.\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1034 / sp[Πολυμήστωρ]/l[n=1034]",
+    "note": "<add> included in reading text: \"ἔσωθεν\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1056 / sp[Πολυμήστωρ]/l[n=1080]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πᾷ βῶ,\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1085 / sp[Χορός]/l[n=1087]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δαίμων ἔδωκεν ὅστις ἐστί σοι βαρύς.\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1145 / sp[Πολυμήστωρ]/l[n=1174]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τοῖχον ὡς κυνηγέτης\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1145 / sp[Χορός]/l[n=1185]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πολλαὶ γὰρ ἡμῶν, αἳ μέν εἰσʼ ἐπίφθονοι,\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1145 / sp[Χορός]/l[n=1186]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"αἳ δʼ εἰς ἀριθμὸν τῶν κακῶν πεφύκαμεν.\""
+  },
+  {
+    "where": "euripides-hecuba-grc / card-1217 / sp[Ἑκάβη]/l[n=1237]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "where": "plato-philebus-en",
+    "note": "<head> (the work's own title, \"Philebus\") stripped - the app's own UI already shows the work title; kept out of the reading text to avoid duplicating it inline."
+  },
+  {
+    "where": "sec-12",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The goddess of Pleasure, Ἡδονή personified.\""
+  },
+  {
+    "where": "sec-15",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Apparently foreigners are considered among the lower animals.\""
+  },
+  {
+    "where": "sec-26",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"This goddess may be Μουσική (in which case ἐγγενομένη the reading of T and G, would be preferable to ἐγγενόμενα above), not music in the res…\""
+  },
+  {
+    "where": "sec-30",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Anaxagoras and probably some now unknown precursors.\""
+  },
+  {
+    "where": "sec-36",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Phaedo 58b\""
+  },
+  {
+    "where": "sec-36",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Son of that man may mean son of Philebus, in so far as Protarchus is a pupil of Philebus, or (so Bury) son of Gorgias, the orator and teache…\""
+  },
+  {
+    "where": "sec-43",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Heracleitus and his followers.\""
+  },
+  {
+    "where": "sec-45",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"This paradox means what those say it is who deny that it is really pleasure.\""
+  },
+  {
+    "where": "sec-48",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 18.108-109\""
+  },
+  {
+    "where": "sec-62",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 4.453\""
+  },
+  {
+    "where": "sec-62",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Hom. Il. 4.453 .\""
+  },
+  {
+    "where": "plato-philebus-en / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-philebus-en / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "workId": "de-plantis-en",
+  "title": "On Plants",
+  "author": "Aristotle (attributed)",
+  "language": "en",
+  "translator": "Edward Seymour Forster",
+  "editor": "John Alexander Smith and William David Ross",
+  "edition": "The Works of Aristotle Translated into English, Volume VI: Opuscula — De plantis, trans. E. S. Forster (Oxford: Clarendon Press, 1913)",
+  "provenance": "English Wikisource, page \"On Plants\", fetched once via the MediaWiki action=parse&prop=text API. This is a page-scan transclusion of \"The Works of Aristotle - Vol. 6 - Opuscula (1913).djvu\" (pages 77-120): action=parse&prop=wikitext returns only 663 bytes of <pages/> markup rather than the text, so the rendered HTML was fetched and parsed with jsdom instead. The raw dump is committed at scripts/import-de-plantis-en/raw/on-plants.parse.json.",
+  "license": "Forster's 1913 translation is in the public domain (published before 1929; the Oxford 'Works of Aristotle' volumes of this period are long out of copyright). The digital transcription and page-scan proofreading are distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "On Plants in E. S. Forster's English translation, made for the Oxford Works of Aristotle Translated into English and published in 1913 in that series' volume VI, the Opuscula. Its two books ask whether plants have life, desire and sex; how they are nourished and how they grow; and then work through their parts, juices, colours and fruits, the effects of soil and water and climate, and why leaves fall.",
+        "The text here is the translation, verbatim. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "Authorship, and a badly travelled text",
+      "paragraphs": [
+        "This treatise is not Aristotle's. The Wikisource page describes it as widely believed spurious and probably the work of Nicolaus of Damascus, and Forster's own preface — which this edition does not include as text — explains why it reads so strangely: the Greek original is lost, and what survives reached Latin by a chain of translation through Arabic and back into Greek, with the damage one would expect. Forster translated from the Latin version of Alfredus as edited by E. H. F. Meyer.",
+        "It is filed here under Aristotle's name because that is how the Oxford edition transmits it, with the doubt recorded rather than hidden. Readers should treat its oddities as features of a much-mangled transmission rather than as Aristotle writing badly."
+      ]
+    },
+    {
+      "heading": "Structure: two books",
+      "paragraphs": [
+        "On Plants divides into two books, and this edition follows the source's own marking: the page prints \"BOOK I\" and \"BOOK II\" as headings, and the chapters run 1 to 7 under the first and 1 to 10 under the second.",
+        "One wrinkle is preserved rather than smoothed over: the source prints no chapter number at the start of Book II — its marginal numbering resumes visibly at 2 — so Book II chapter 1 is the text standing between the BOOK II heading and the first printed \"2\". That is exactly what the source gives at that point; no text has been moved, invented, or renumbered."
+      ]
+    },
+    {
+      "heading": "What is deliberately NOT included",
+      "paragraphs": [
+        "The Wikisource page begins with the 1913 title page, then Forster's own signed preface, then a contents heading. None of that is the treatise, and none of it is Aristotle or his imitator: it is the translator's editorial front matter. This edition therefore starts at the first words of the text proper and leaves the front matter out, recording the omission rather than quietly dropping it.",
+        "Translator's footnotes are likewise not preserved. This source is heavily annotated — Forster tracks the Latin's corruptions closely — and every footnote marker is stripped from the reading text, counted, with the notes themselves left behind, matching this library's other English translations."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the rendered HTML of the English Wikisource page \"On Plants\", fetched once through the MediaWiki action=parse&prop=text API and committed under the importer's raw/ directory. This page genuinely is a djvu page-scan transclusion — its wikitext holds only a few hundred bytes of transclusion markup and no text at all — so the already-rendered HTML was fetched and parsed with jsdom. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "This source is unusual in putting two quite different things in the same margin: its Bekker page references and its chapter numbers share one sidenote element. They are therefore told apart by shape — a bare one- or two-digit number is a chapter, a page-and-column token such as 815a is a reference, and a line range such as \"9–11\" is neither and is ignored. Both are removed from the reading text, where they are marginalia rather than words.",
+        "Book boundaries come from the source's own \"BOOK I\" and \"BOOK II\" headings. The importer refuses to ship a division it has not been told to expect: each book declares its exact chapter numbers in advance, and a mismatch stops the run rather than silently producing a different structure."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by book and chapter, plus a Bekker page reference. This source prints Bekker page markers throughout, so each chapter's markers are gathered in document order to give it a real page or page range (815a–816b, and so on). Passage.ref is null throughout, since no marker is printed at every paragraph break. Two chapters carry no marker of their own, falling wholly within a page already marked; their reference is null rather than guessed."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "The treatise text is complete: the only red link on the page falls inside Forster's preface, which this edition does not import, so no reading text is truncated. anomalies.json records the rest: the excluded front matter, the unmarked first chapter of Book II, the shared sidenote container and how the two kinds of marker are distinguished, the footnote markers stripped, the questionable attribution, and two transcription oddities preserved verbatim at the end of the work.",
+        "A word on trust: this treatise reached English through an exceptionally damaged transmission, and Wikisource's community validation is an ongoing process, so both the text's own oddities and isolated transcription slips should be expected. Neither is corrected here — this library never edits a source into looking better than it is."
+      ]
+    }
+  ]
+}

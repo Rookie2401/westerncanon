@@ -1,0 +1,62 @@
+[
+  {
+    "where": "aeschylus-agamemnon-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-1 / sp[Watchman]/l[n=0]",
+    "note": "<l n=\"0\"> Perseus-added display-only duplicate speaker label (not source text, \"for display purposes only\" per the source's own comment) skipped: \"Watchman\""
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-1 / sp[Watchman]/l[n=5]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"the constellations, when they rise and set\""
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-167",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-281 / sp[Clytaemestra]/l[n=285]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-355",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-782 / sp[Chorus]/l[n=805]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-855 / sp[Clytaemestra]/l[n=870]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ample that above, of that below I speak not\""
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-1348",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-1455",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-1489",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-1513",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-1521 / sp[Clytaemestra]/l[n=1521]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Neither do I think he met an ignoble death.\""
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-1537",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-agamemnon-en / card-1577 / sp[Aegisthus]/l[n=1595]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "where": "plato-alcibiades-2-grc",
+    "note": "<head> (the work's own title, \"Ἀλκιβιάδης β\") stripped - the app's own UI already shows the work title; kept out of the reading text to avoid duplicating it inline."
+  },
+  {
+    "where": "sec-141",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ τοῦτο\""
+  },
+  {
+    "where": "sec-141",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἀλλʼ\""
+  },
+  {
+    "where": "sec-141",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 2.303\""
+  },
+  {
+    "where": "sec-142",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 1.32\""
+  },
+  {
+    "where": "sec-142",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 1.32\""
+  },
+  {
+    "where": "sec-142",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 1.32\""
+  },
+  {
+    "where": "sec-142",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Anth. Pal. 10.108\""
+  },
+  {
+    "where": "sec-146",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. Antiope\""
+  },
+  {
+    "where": "sec-147",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Margites\""
+  },
+  {
+    "where": "sec-148",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"οὐ\""
+  },
+  {
+    "where": "sec-148",
+    "note": "<del> excluded from the reading text: \"τῶν πρεσβυτέρων\""
+  },
+  {
+    "where": "sec-148",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "sec-149",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 8.548\""
+  },
+  {
+    "where": "sec-149",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 8.550-2\""
+  },
+  {
+    "where": "sec-150",
+    "note": "<del> excluded from the reading text: \"ἢ\""
+  },
+  {
+    "where": "sec-150",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 5.127\""
+  },
+  {
+    "where": "sec-151",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"σὰ\""
+  },
+  {
+    "where": "sec-151",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. Phoen. 858-9\""
+  },
+  {
+    "where": "plato-alcibiades-2-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-alcibiades-2-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

@@ -1,0 +1,3111 @@
+{
+  "workId": "sophocles-oedipus-tyrannus-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "card-1",
+      "number": "1",
+      "ref": "1–10",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "[Before the palace of Oedipus in Thebes. Suppliants of all ages are seated on the steps of the altars. Oedipus enters, in the robes of a king: for a moment he gazes silently on the groups at the altars, then speaks.]",
+          "ref": null
+        },
+        {
+          "n": "1",
+          "text": "Oedipus\nMy children, latest-born wards of old Cadmus, why do you sit before me like this with wreathed branches of suppliants, while the city reeks with incense, rings with prayers for health and cries of woe? I thought it unbefitting, my children, to hear these things from the mouths of others, and have come here myself, I, Oedipus renowned by all. Tell me, then, venerable old man—since it is proper that you speak for these—in what mood you sit here, one of fear or of desire? Be sure that I will gladly give you all my help. I would be hard-hearted indeed if I did not pity such suppliants as these.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-14",
+      "number": "14",
+      "ref": "14–55",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "14",
+          "text": "Priest of Zeus\nOedipus, ruler of my land, you see the age of those who sit on your altars—some, nestlings still too tender for flight, others, bowed with age, priests, like me of Zeus, and some, these here, the chosen youth. The rest of the folk sit with wreathed branches in the market-place, and before the shrines of Pallas, and where Ismenus gives answer by fire. For the city, as you yourself see, is now sorely vexed, and can no longer lift her head from beneath the angry waves of death. A blight has fallen on the fruitful blossoms of the land, the herds among the pastures, the barren pangs of women. And the flaming god, the malign plague, has swooped upon us, and ravages the town: he lays waste to the house of Cadmus, but enriches Hades with groans and tears. It is not because we rank you with the gods that I and these children are suppliants at your hearth, but because we deem you the first among men in life’s common fortunes and in dealings with the divinities: when you came to the city of the Cadmeans, you freed us from the tax that we rendered to the hard songstress, and that when you knew no more than anyone else, nor had you been taught, but rather by the assistance of a god, as the story goes, you uplifted our life. Now, Oedipus, king glorious in our eyes, we, your suppliants, beseech you to find some defence for us, whether you hear it from some divine omen, or learn of it from some mortal. For I see that the outcome of the councils of experienced men most often have effect. On, best of mortals, uplift our state! On, guard your fame, since now this land calls you savior on account of your former zeal. Let us not remember of your reign that we were first restored and then cast down: lift this state so that it falls no more! With good omen you provided us that past happiness: show yourself the same now too, since if you are to rule this land just as you do now, it is better to be lord of men than of a wasteland. Neither walled town nor ship is anything, if it is empty and no men dwell within.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-58",
+      "number": "58",
+      "ref": "58–75",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "58",
+          "text": "Oedipus\nMy piteous children, I know quite well the desires with which you have come: I know well that you all are sick, and though you are sick I know well that there is not one of you who is as sick as I. Your pain comes on each of you for himself alone, and for no other, but my soul is in pain at once for the city, for myself, and for you. Thus you are not awakening me from sleep: no, be sure that I have wept many tears, wandered far and wide in my thought. I have made use of the only remedy which I could find after close consideration: I sent my relative Creon, Menoeceus’ son, to Apollo’s Pythian residence to learn what we might do or say to protect this city. And now, when the lapse of days is reckoned, I am troubled about what he is doing, for he has been away an unreasonably long time beyond what is fitting. But when he arrives, I would be no true man if did not perform all that the god reveals.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-78",
+      "number": "78",
+      "ref": "78–100",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "78",
+          "text": "Priest\nYou have spoken opportunely, since at this time these people here indicate that Creon is drawing near.",
+          "ref": null
+        },
+        {
+          "n": "80",
+          "text": "Oedipus\nLord Apollo, may he come to us in the brightness of saving fortune, even as his face is bright!",
+          "ref": null
+        },
+        {
+          "n": "82",
+          "text": "Priest\nHe seems to bring comfort, since otherwise he would not be coming crowned so thickly with berry-laden bay.",
+          "ref": null
+        },
+        {
+          "n": "84",
+          "text": "Oedipus\nWe will soon know: he is within hearing-range.",
+          "ref": null
+        },
+        {
+          "n": "85",
+          "text": "[To Creon.]",
+          "ref": null
+        },
+        {
+          "n": "85",
+          "text": "Oedipus (cont.)\nPrince, my kinsman, child of Menoeceus, what news have you brought us from the god?",
+          "ref": null
+        },
+        {
+          "n": "87",
+          "text": "Creon\nGood news. I tell you that even troubles hard to bear will end in perfect peace if they find the right issue.",
+          "ref": null
+        },
+        {
+          "n": "89",
+          "text": "Oedipus\nBut what is the oracle ? So far, your words neither encourage nor frighten me.",
+          "ref": null
+        },
+        {
+          "n": "91",
+          "text": "Creon\nIf you want to hear in the presence of these people, I am ready to speak: otherwise we can go inside.",
+          "ref": null
+        },
+        {
+          "n": "93",
+          "text": "Oedipus\nSpeak to all. The sorrow that I bear for these is more than for my own life.",
+          "ref": null
+        },
+        {
+          "n": "95",
+          "text": "Creon\nI will tell you what I heard from the god. Phoebus our lord clearly commands us to drive out the defilement which he said was harbored in this land, and not to nourish it so that it cannot be healed.",
+          "ref": null
+        },
+        {
+          "n": "99",
+          "text": "Oedipus\nWith what sort of purification? What is the manner of the misfortune?",
+          "ref": null
+        },
+        {
+          "n": "100",
+          "text": "Creon\nBy banishing the man, or by paying back bloodshed with bloodshed, since it is this blood which brings the tempest on our city.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-102",
+      "number": "102",
+      "ref": "102–130",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "102",
+          "text": "Oedipus\nAnd who is the man whose fate he thus reveals?",
+          "ref": null
+        },
+        {
+          "n": "103",
+          "text": "Creon\nLaius, my lord, was the leader of our land before you assumed control of this state.",
+          "ref": null
+        },
+        {
+          "n": "105",
+          "text": "Oedipus\nI know it well—by hearsay, for I never saw him.",
+          "ref": null
+        },
+        {
+          "n": "106",
+          "text": "Creon\nHe was slain, and the god now bids us to take vengeance on his murderers, whoever they are.",
+          "ref": null
+        },
+        {
+          "n": "108",
+          "text": "Oedipus\nWhere on earth are they? Where shall the dim track of this old crime be found?",
+          "ref": null
+        },
+        {
+          "n": "110",
+          "text": "Creon\nIn this land, the god said. What is sought for can be caught; only that which is not watched escapes.",
+          "ref": null
+        },
+        {
+          "n": "112",
+          "text": "Oedipus\nWas it in the house, or in the field, or on foreign soil that Laius met his bloody end?",
+          "ref": null
+        },
+        {
+          "n": "114",
+          "text": "Creon\nHe left our land, as he said, on a mission to Delphi. And once he had set forth, he never again returned.",
+          "ref": null
+        },
+        {
+          "n": "116",
+          "text": "Oedipus\nAnd was there none to tell? Was there no travelling companion who saw the deed, from whom tidings might have been gained, and used?",
+          "ref": null
+        },
+        {
+          "n": "118",
+          "text": "Creon\nAll perished, save one who fled in fear, and he could tell with assurance only one thing of all that he saw.",
+          "ref": null
+        },
+        {
+          "n": "120",
+          "text": "Oedipus\nAnd what was that? One thing might hold the clue to many, if we could only get a small beginning for hope.",
+          "ref": null
+        },
+        {
+          "n": "122",
+          "text": "Creon\nHe said that robbers fell upon them, not one man alone, but with a great force.",
+          "ref": null
+        },
+        {
+          "n": "124",
+          "text": "Oedipus\nHow then, unless some intrigue had been worked with bribes from here in Thebes, would the robbers have been so bold?",
+          "ref": null
+        },
+        {
+          "n": "126",
+          "text": "Creon\nSuch things were surmised. But once Laius was slain no avenger arose in the midst of our troubles.",
+          "ref": null
+        },
+        {
+          "n": "128",
+          "text": "Oedipus\nBut when royalty had fallen in this way, what trouble prevented a full search?",
+          "ref": null
+        },
+        {
+          "n": "130",
+          "text": "Creon\nThe riddling Sphinx had forced us to let things that were obscure go, and to investigate the pressing trouble.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-132",
+      "number": "132",
+      "ref": "132–150",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "132",
+          "text": "Oedipus\nI will start afresh, and once more make dark things plain. Worthily has Phoebus Apollo—and worthily have you—bestowed this care on behalf of the dead. And so, as is fitting, you will find me allied with you in seeking vengeance for this land, and for the god as well. I will dispel this taint not on behalf of far-off friends, but for my own benefit. For whoever killed Laius might wish to take vengeance on me also with a hand as fierce. Avenging Laius, therefore, I serve myself. Come, my children, as quickly as possible rise from the altar-steps, and lift these suppliant boughs. Let someone summon here Cadmus’ people, warning them that I will leave nothing untried. For with the god’s help our good fortune—or our ruin—will be made certain.",
+          "ref": null
+        },
+        {
+          "n": "147",
+          "text": "Priest\nMy children, let us rise. What we came to seek, this man promises of his own accord. And may Phoebus, who sent these oracles, come to us as savior and deliverer from the pestilence.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-151",
+      "number": "151",
+      "ref": "151–155",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "151",
+          "text": "[The chorus of Theban elders enters.]",
+          "ref": null
+        },
+        {
+          "n": "151",
+          "text": "Chorus\nO sweetly-speaking message of Zeus, in what spirit have you come to glorious Thebes from golden Pytho? I am on the rack, terror shakes my soul, O Delian healer to whom wild cries rise, in holy fear of you, wondering what debt you will extract from me, perhaps unknown before, perhaps renewed with the revolving years. Tell me, immortal Voice, child of golden Hope.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-159",
+      "number": "159",
+      "ref": "159–165",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "159",
+          "text": "Chorus\nFirst I call on you, daughter of Zeus, immortal Athena, and on your sister, Artemis, guardian of our earth, who sits on her glorious throne above the circle of our market-place, and on far-shooting Apollo: oh shine forth for me, my three-fold help against death! If ever before you drove a fiery pest from our borders to stop ruin rushing upon our city, come now also!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-169",
+      "number": "169",
+      "ref": "169–175",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "169",
+          "text": "Chorus\nAlas, countless are the sorrows I bear. A plague is on all our people, and thought can find no weapon for defense. The fruits of the glorious earth do not grow; by no birth of offspring do women surmount the pangs in which they shriek. You can see life after life speed away, like a bird on the wing, swifter than irresistible fire, to the shore of the western god.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-179",
+      "number": "179",
+      "ref": "179–185",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "179",
+          "text": "Chorus\nWith such deaths, past numbering, the city perishes. Unpitied, her children lie on the ground, spreading pestilence, with no one to mourn them. Meanwhile young wives and grey-haired mothers raise a wail at the steps of the altars, some here, some there, and groan in supplication for their terrible woes. The prayers to the Healer ring clear, and with them the voice of lamentation. For which things, golden daughter of Zeus, send us the bright face of comfort.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-190",
+      "number": "190",
+      "ref": "190–200",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "190",
+          "text": "Chorus\nGrant that the fierce god of death, who now without the bronze of shields, though among cries like those of battle, wraps me in the flames of his onset, may turn his back in speedy flight from our land, borne by a favorable wind to the great chamber of Amphitrite, or to the Thracian waves, those waters where none find haven. For if night leaves anything undone in the working of destruction, day follows to accomplish it. You who wield the powers of fiery lightning, Zeus our father, slay him beneath your thunder-bolt.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-203",
+      "number": "203",
+      "ref": "203–215",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "203",
+          "text": "Chorus\nLycean Lord, would that the shafts from your bent bow’s string of woven gold might go forth in their might, our champions in the face of the foe, and the flashing fires of Artemis too, with which she darts through the Lycian hills. I call him whose locks are bound with gold, who is named with the name of this land, ruddy Bacchus to whom Bacchants cry, to draw near with the blaze of his shining torch, our ally against the god unhonored among the gods.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-216",
+      "number": "216",
+      "ref": "216–250",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "216",
+          "text": "Oedipus\nYou pray. And in answer to your prayer, if you will give a loyal reception to my words and minister to your own disease, you may hope to find help and relief from woes. These words I will speak publicly, as one who was a stranger to the report, a stranger to the deed. I would not go far on the trail if I were tracing it alone, without a clue. But as it is—since it was only after the event that I was counted a Theban among Thebans—to you, Cadmeans all, I do thus proclaim: Whoever knows by whom Laius son of Labdacus was slain, I order him to declare all to me. And if he is afraid, I order him to remove the danger of indictment from his path by denouncing himself: he will suffer no other punishment, but will only leave this land, unhurt. If anyone knows the assassin to be an alien, from another land, let him not keep silent. I will reward him, and my thanks shall rest with him besides. But if he keeps silent, if anyone, through fear, seeks to screen himself or a friend from my orders, then hear what I shall do: I charge you that no resident of this land, which I rule, give shelter to or address that murderer, whoever he is, or make him a partner in prayer or sacrifice, or give him a share of the lustral rite. Ban him from your houses, all of you, knowing that this is the defilement, as the oracle of the Pythian god has recently shown to me. In this way I am an ally both to the god and to the dead man. And I pray solemnly that the slayer, whoever he is, whether he alone is guilty or he has partners, may, in the horrible way he deserves, wear out his unblest life. And for myself I pray that if he should, with my knowledge, become a resident of my house, I may suffer the same things which I have just called down on others. And I order you to make all these words good, for my sake, for the sake of the god, and for the sake of our land, thus rendered unfruitful and ungodly.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-255",
+      "number": "255",
+      "ref": "255–275",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "255",
+          "text": "Oedipus (cont.)\nFor even if the matter had not been urged upon us by a god, it still would not have been fit that you should leave the guilt unpunished as it is, when one so noble—and he your king—had perished. You should have searched it out. But now, since I hold the powers which he once held, possessing his bed and the wife who bore his children, and since, had his hope of offspring not been unsuccessful, children born of one mother would have tied us with a common bond—as it was, fate swooped upon his head—I will uphold this cause, as though it were that of my own father, and will leave no stone unturned in my search for the one who shed the blood, for the honor of the son of Labdacus and of Polydorus and the elder Cadmus and Agenor of old. And for those who do not obey me, I pray that the gods send them neither harvest of the earth nor fruit of the womb, but that they perish with the present fate, or one still worse. But to all you, the loyal Cadmeans who are satisfied by these things, may justice, our ally, and all the gods be gracious always.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-276",
+      "number": "276",
+      "ref": "276–297",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "276",
+          "text": "Chorus\nAs you have put me under oath, on my oath, my king, I will speak. I am not the slayer, nor can I reveal him. As for the investigation, it was for Phoebus, who enjoined it, to tell us who did the deed.",
+          "ref": null
+        },
+        {
+          "n": "280",
+          "text": "Oedipus\nJustly said. But no man on earth can force the gods to do what they do not want.",
+          "ref": null
+        },
+        {
+          "n": "282",
+          "text": "Chorus\nI would like to say what seems to me the next best course.",
+          "ref": null
+        },
+        {
+          "n": "283",
+          "text": "Oedipus\nAnd if there is a third course, do not hesitate to reveal it too.",
+          "ref": null
+        },
+        {
+          "n": "284",
+          "text": "Chorus\nI know that our lord Teiresias is the seer most like our lord Apollo: from him, my king, an investigator might learn most clearly about these affairs.",
+          "ref": null
+        },
+        {
+          "n": "287",
+          "text": "Oedipus\nNot even this have I neglected. On Creon’s suggestion, I sent a man twice to bring him. And I have been wondering for some time why he is not here.",
+          "ref": null
+        },
+        {
+          "n": "290",
+          "text": "Chorus\nIndeed—his skill apart—the rumors are but faint and old.",
+          "ref": null
+        },
+        {
+          "n": "291",
+          "text": "Oedipus\nWhat are the rumors? I am investigating every tale.",
+          "ref": null
+        },
+        {
+          "n": "292",
+          "text": "Chorus\nHe was said to have been killed by some wayfarers.",
+          "ref": null
+        },
+        {
+          "n": "293",
+          "text": "Oedipus\nI too have heard that. But no one sees the one who saw it.",
+          "ref": null
+        },
+        {
+          "n": "294",
+          "text": "Chorus\nIf he knows what fear is, he will not hesitate to come forward when he hears your curses, so dire are they.",
+          "ref": null
+        },
+        {
+          "n": "296",
+          "text": "Oedipus\nWhen a man does not shrink from a deed, he is not scared by a word.",
+          "ref": null
+        },
+        {
+          "n": "297",
+          "text": "Chorus\nBut there is one to convict him. But here they bring at last the godlike prophet, the only man in whom truth lives.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-300",
+      "number": "300",
+      "ref": "300–328",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "300",
+          "text": "[Teiresias enters, led by a boy.]",
+          "ref": null
+        },
+        {
+          "n": "300",
+          "text": "Oedipus\nTeiresias, whose soul grasps all things, both that which may be told and that which is unspeakable, the Olympian secrets and the affairs of the earth, you feel, though you cannot see, what a huge plague haunts our state. From which, great prophet, we find you to be our protector and only savior. Now, Phoebus—if indeed you have not already heard the news—sent answer to our question that the only way to rid ourselves of this pest that afflicts us is to discover the slayers of Laius, and then to slay them or banish them from our land. So do not begrudge us the voice of the birds or any other path of prophecy, but save yourself and your state, save me, save all that is defiled by the dead. We are in your hands, and man’s noblest task is to help others to the best of his means and powers.",
+          "ref": null
+        },
+        {
+          "n": "316",
+          "text": "Teiresias\nAlas, how terrible it is to have wisdom when it does not benefit those who have it. I knew this well, but let it slip from my mind: otherwise I would not have come here.",
+          "ref": null
+        },
+        {
+          "n": "319",
+          "text": "Oedipus\nWhat now? How disheartened you have come!",
+          "ref": null
+        },
+        {
+          "n": "320",
+          "text": "Teiresias\nLet me go home. For you will bear your own burden to the end, and I will bear mine, if you consent.",
+          "ref": null
+        },
+        {
+          "n": "322",
+          "text": "Oedipus\nYour words are strange and unkind to the state which nurtured you, since you withhold this response.",
+          "ref": null
+        },
+        {
+          "n": "324",
+          "text": "Teiresias\nI see that you, for your part, speak inappropriately. Therefore do not speak, so I will not suffer the same.",
+          "ref": null
+        },
+        {
+          "n": "326",
+          "text": "Oedipus\nFor the love of the gods, do not turn away, if you have knowledge: all we suppliants implore you on our knees.",
+          "ref": null
+        },
+        {
+          "n": "328",
+          "text": "Teiresias\nFor all of you are without knowledge. But never will I reveal my troubles—not to call them yours.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-330",
+      "number": "330",
+      "ref": "330–350",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "330",
+          "text": "Oedipus\nWhat are you saying? Do you know the secret and refuse to tell it? Will you betray and destroy the state?",
+          "ref": null
+        },
+        {
+          "n": "332",
+          "text": "Teiresias\nI will grieve neither myself nor you. Why do you ask these things in vain? You will not learn the answers from me.",
+          "ref": null
+        },
+        {
+          "n": "334",
+          "text": "Oedipus\nWill you not, basest of the base— you would anger a stone—speak out? can nothing touch you? Will you never make an end?",
+          "ref": null
+        },
+        {
+          "n": "337",
+          "text": "Teiresias\nYou blame my anger, but do not perceive your own: no, you blame me.",
+          "ref": null
+        },
+        {
+          "n": "339",
+          "text": "Oedipus\nWho would not be angry hearing such words, with which you now are slighting the city?",
+          "ref": null
+        },
+        {
+          "n": "341",
+          "text": "Teiresias\nThe future will come of itself, though I shroud it in silence.",
+          "ref": null
+        },
+        {
+          "n": "342",
+          "text": "Oedipus\nSince it must come anyway, it is right that you tell it to me.",
+          "ref": null
+        },
+        {
+          "n": "343",
+          "text": "Teiresias\nI will speak no further: rage, if you wish, with the fiercest wrath your heart knows.",
+          "ref": null
+        },
+        {
+          "n": "345",
+          "text": "Oedipus\nIn my anger I will not spare to speak all my thoughts. Know that you seem to me to have helped in plotting the deed, and to have done it, short of performing the actual murder with your own hands: if you had eyesight, I would have said that you had done even this by yourself.",
+          "ref": null
+        },
+        {
+          "n": "350",
+          "text": "Teiresias\nIn truth? I order you to abide by you own decree, and from this day forth not to speak to these men or to me: you are the accursed defiler of this land.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-354",
+      "number": "354",
+      "ref": "354–379",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "354",
+          "text": "Oedipus\nSo brazen with your blustering taunt? Where do you think to escape to?",
+          "ref": null
+        },
+        {
+          "n": "356",
+          "text": "Teiresias\nI have escaped. There is strength in my truth.",
+          "ref": null
+        },
+        {
+          "n": "357",
+          "text": "Oedipus\nWho taught you this? Not your skill, at any rate.",
+          "ref": null
+        },
+        {
+          "n": "358",
+          "text": "Teiresias\nYou yourself. For you spurred me on to speak against my will.",
+          "ref": null
+        },
+        {
+          "n": "359",
+          "text": "Oedipus\nWhat did you say? Speak again, so I may learn it better.",
+          "ref": null
+        },
+        {
+          "n": "360",
+          "text": "Teiresias\nDid you not understand before, or are you talking to test me?",
+          "ref": null
+        },
+        {
+          "n": "361",
+          "text": "Oedipus\nI cannot say I understood fully. Tell me again.",
+          "ref": null
+        },
+        {
+          "n": "362",
+          "text": "Teiresias\nI say that you are the killer of the man whose slayer you seek.",
+          "ref": null
+        },
+        {
+          "n": "363",
+          "text": "Oedipus\nNow you will regret that you have said such dire words twice.",
+          "ref": null
+        },
+        {
+          "n": "364",
+          "text": "Teiresias\nShould I tell you more, that you might get more angry?",
+          "ref": null
+        },
+        {
+          "n": "365",
+          "text": "Oedipus\nSay as much as you want: it will be said in vain.",
+          "ref": null
+        },
+        {
+          "n": "366",
+          "text": "Teiresias\nI say that you have been living in unguessed shame with your closest kin, and do not see into what woe you have fallen.",
+          "ref": null
+        },
+        {
+          "n": "368",
+          "text": "Oedipus\nDo you think that you will always be able to speak like this without smarting for it?",
+          "ref": null
+        },
+        {
+          "n": "369",
+          "text": "Teiresias\nYes, if indeed there is any strength in truth.",
+          "ref": null
+        },
+        {
+          "n": "370",
+          "text": "Oedipus\nBut there is, except not for you. You do not have that strength, since you are maimed in your ears, in your wit, and in your eyes.",
+          "ref": null
+        },
+        {
+          "n": "372",
+          "text": "Teiresias\nAnd you are a poor wretch to utter taunts that every man here will soon hurl at you.",
+          "ref": null
+        },
+        {
+          "n": "374",
+          "text": "Oedipus\nNight, endless night has you in her keeping, so that you can never hurt me, or any man that sees the light of the sun.",
+          "ref": null
+        },
+        {
+          "n": "376",
+          "text": "Teiresias\nNo, it is not your fate to fall at my hands, since Apollo, to whom this matter is a concern, is sufficient.",
+          "ref": null
+        },
+        {
+          "n": "378",
+          "text": "Oedipus\nAre these Creon’s devices, or your own?",
+          "ref": null
+        },
+        {
+          "n": "379",
+          "text": "Teiresias\nCreon is no trouble for you: you are your own.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-380",
+      "number": "380",
+      "ref": "380–405",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "380",
+          "text": "Oedipus\nO wealth, and empire, and skill surpassing skill in life’s keen rivalries, how great is the envy in your keeping, if for the sake of this office which the city has entrusted to me, a gift unsought, Creon the trustworthy, Creon, my old friend, has crept upon me by stealth, yearning to overthrow me, and has suborned such a scheming juggler as this, a tricky quack, who has eyes only for profit, but is blind in his art! Come, tell me, where have you proved yourself a seer? Why, when the watchful dog who wove dark song was here, did you say nothing to free the people? Yet the riddle, at least, was not for the first comer to read: there was need of a seer’s help, and you were discovered not to have this art, either from birds, or known from some god. But rather I, Oedipus the ignorant, stopped her, having attained the answer through my wit alone, untaught by birds. It is I whom you are trying to oust, assuming that you will have great influence in Creon’s court. But I think that you and the one who plotted these things will rue your zeal to purge the land: if you did not seem to be an old man, you would have learned to your cost how haughty you are.",
+          "ref": null
+        },
+        {
+          "n": "404",
+          "text": "Chorus\nTo our way of thinking, these words, both his and yours, Oedipus, have been said in anger. We have no need of this, but rather we must seek how we shall best discharge the mandates of the god.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-408",
+      "number": "408",
+      "ref": "408–425",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "408",
+          "text": "Teiresias\nThough you are king, the right of reply must be considered the same for both: over that I have control. For I do not live as your slave, but as Loxias’. I will not stand enrolled as Creon’s client. And I tell you, since you have taunted my blindness, that though you have sight, you do not see what a state of misery you are in, or where you dwell, or with whom. Do you know who your parents are? You have been an unwitting enemy to your own kin, both in the Underworld and on the earth above, and the double lash of your mother’s and your father’s curse will one day drive you from this land in dreadful haste, with darkness upon those eyes of yours which now can see. What place will be harbor to your cries, what part of all Cithaeron will not ring with them soon, when you have learned the meaning of the nuptials in which, within that house, you found a fatal haven, after a voyage so fair? And you have not guessed at a throng of other ills which will bring you level with your true self and with your own children. Therefore heap your scorn upon Creon and upon my message: for no man will ever be crushed more miserably than you.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-429",
+      "number": "429",
+      "ref": "429–445",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "429",
+          "text": "Oedipus\nAre these taunts to be endured from him? Be gone, to your ruin; be gone this instant! Will you not turn your back and leave this house?",
+          "ref": null
+        },
+        {
+          "n": "432",
+          "text": "Teiresias\nI would not have come if you had not called me.",
+          "ref": null
+        },
+        {
+          "n": "433",
+          "text": "Oedipus\nI did not know you would speak foolishly, for otherwise it would have been a long time before I summoned you to my home.",
+          "ref": null
+        },
+        {
+          "n": "435",
+          "text": "Teiresias\nI was born like this—as you think, a fool, but in the opinion of the parents who bore you, quite sane.",
+          "ref": null
+        },
+        {
+          "n": "437",
+          "text": "Oedipus\nWhat parents? Wait. What man is my father?",
+          "ref": null
+        },
+        {
+          "n": "438",
+          "text": "Teiresias\nThis day will reveal your birth and bring your ruin.",
+          "ref": null
+        },
+        {
+          "n": "439",
+          "text": "Oedipus\nWhat riddles, what dark words you always say.",
+          "ref": null
+        },
+        {
+          "n": "440",
+          "text": "Teiresias\nAre you not the best at unravelling mysteries?",
+          "ref": null
+        },
+        {
+          "n": "441",
+          "text": "Oedipus\nReproach me in what you will find me to be great.",
+          "ref": null
+        },
+        {
+          "n": "442",
+          "text": "Teiresias\nYet it was just that fortune that undid you.",
+          "ref": null
+        },
+        {
+          "n": "443",
+          "text": "Oedipus\nBut if it saved this city I care not.",
+          "ref": null
+        },
+        {
+          "n": "444",
+          "text": "Teiresias\nI will take my leave. You, boy, lead me.",
+          "ref": null
+        },
+        {
+          "n": "445",
+          "text": "Oedipus\nYes, let him take you: while here, you are a hindrance, a source of trouble. When you have gone, you will vex me no more.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-447",
+      "number": "447",
+      "ref": "447–460",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "447",
+          "text": "Teiresias\nI will go when I have performed the errand for which I came, fearless of your frown: you can never destroy me. I tell you: the man whom you have been seeking this long while, uttering threats and proclaiming a search into the murder of Laius, is here, ostensibly an alien sojourner, but soon to be found a native of Thebes; nor will he enjoy his fortune. A blind man, though now he sees, a beggar, though now rich, he will make his way to a foreign land, feeling the ground before him with his staff. And he will be discovered to be at once brother and father of the children with whom he consorts; son and husband of the woman who bore him; heir to his father’s bed, shedder of his father’s blood. So go in and evaluate this, and if you find that I am wrong, say then that I have no wit in prophecy.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-463",
+      "number": "463",
+      "ref": "463–470",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "463",
+          "text": "Chorus\nWho is he of whom the divine voice from the Delphian rock has said to have wrought with blood-red hands horrors that no tongue can tell? It is time that he ply in flight a foot stronger than the feet of storm-swift steeds. The son of Zeus is springing upon him with fiery lightning, and with him come the dread unerring Fates.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-473",
+      "number": "473",
+      "ref": "473–480",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "473",
+          "text": "Chorus\nRecently the message has flashed forth from snowy Parnassus ordering all to search for the unknown man. He wanders under cover of the wild wood, among caves and rocks, fierce as a bull, wretched and forlorn on his joyless path, still seeking to separate himself from the doom revealed at the central shrine of the earth. But that doom lives forever, forever flits around him.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-483",
+      "number": "483",
+      "ref": "483–495",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "483",
+          "text": "Chorus\nThe wise augur moves me, neither approving nor denying, with dread, with dread indeed. I am at a loss what to say. I am flustered in my expectations, seeing neither the present nor the future clearly. Never in past days or in these have I heard how the house of Labdacus or the son of Polybus had any quarrel with one another that I could bring as proof in assailing the public reputation of Oedipus, seeking to avenge the line of Labdacus for the undiscovered murder.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-496",
+      "number": "496",
+      "ref": "496–510",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "496",
+          "text": "Chorus\nZeus and Apollo indeed are keen of thought and know the affairs of the earth. But there is no sure test of whether a mortal seer attains more knowledge than I do, though man may surpass man in wisdom. But until I see the word made good, I will never assent when men blame Oedipus. Before all eyes the winged maiden came against him once upon a time, and he was seen to be wise, and bore the test in welcome service to the state. Never, therefore, will he be adjudged guilty of evil.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-513",
+      "number": "513",
+      "ref": "513–540",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "513",
+          "text": "Creon\nFellow citizens, having learned that Oedipus the king lays dire charges against me, I have come in indignation. If he thinks that in the present troubles he has suffered from me, by word or by deed, anything harmful, truly I do not desire my full term of years, when I must bear such blame as this. The wrong of this rumor touches me not in one point alone, but has the largest scope, if I am to be called a traitor in the city, a traitor by you and by my friends.",
+          "ref": null
+        },
+        {
+          "n": "523",
+          "text": "Chorus\nBut perhaps this taunt came under the stress of anger, rather than from the purpose of his heart.",
+          "ref": null
+        },
+        {
+          "n": "525",
+          "text": "Creon\nWas the opinion given that my counsels had brought the seer to utter his falsehoods?",
+          "ref": null
+        },
+        {
+          "n": "527",
+          "text": "Chorus\nSuch things were said—I do not know with what meaning.",
+          "ref": null
+        },
+        {
+          "n": "529",
+          "text": "Creon\nAnd was this charge laid against me with steady eyes and steady mind?",
+          "ref": null
+        },
+        {
+          "n": "530",
+          "text": "Chorus\nI do not know. I see not what my masters do. But here comes our lord from the house.",
+          "ref": null
+        },
+        {
+          "n": "532",
+          "text": "[Oedipus enters.]",
+          "ref": null
+        },
+        {
+          "n": "532",
+          "text": "Oedipus\nYou, how did you get here? Are you so boldfaced that you have come to my house, you who are manifestly the murderer of its master, the palpable thief of its crown? Come, tell me, in the name of the gods, was it cowardice or folly which you saw in me and which led you to plot this thing? Did you think that I would not notice this deed of yours creeping upon me by stealth, or that if I became aware of it I would not ward it off? Is your attempt not foolish, to seek the throne without followers or friends—a prize which followers and wealth must win?",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-543",
+      "number": "543",
+      "ref": "543–582",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "543",
+          "text": "Creon\nMark me now: hear a fair reply in answer to your words, and then judge for yourself on the basis of knowledge.",
+          "ref": null
+        },
+        {
+          "n": "545",
+          "text": "Oedipus\nYou are apt in speech, but I have a poor wit for lessons, since I have found you a malignant foe.",
+          "ref": null
+        },
+        {
+          "n": "547",
+          "text": "Creon\nNow hear first how I will explain this very thing.",
+          "ref": null
+        },
+        {
+          "n": "548",
+          "text": "Oedipus\nOne thing—that you are not false—do not bother to explain to me.",
+          "ref": null
+        },
+        {
+          "n": "549",
+          "text": "Creon\nIf you think that stubbornness without sense is a virtue, you are not wise.",
+          "ref": null
+        },
+        {
+          "n": "551",
+          "text": "Oedipus\nIf you think you can wrong a kinsman and escape the penalty, you are not sane.",
+          "ref": null
+        },
+        {
+          "n": "553",
+          "text": "Creon\nJustly said, I grant you: but tell me what the wrong is that you say you are suffering at my hands.",
+          "ref": null
+        },
+        {
+          "n": "555",
+          "text": "Oedipus\nDid you, or did you not, advise me to send for that reverend seer?",
+          "ref": null
+        },
+        {
+          "n": "557",
+          "text": "Creon\nEven now I am of the same mind.",
+          "ref": null
+        },
+        {
+          "n": "558",
+          "text": "Oedipus\nHow long is it, then, since Laius . . .",
+          "ref": null
+        },
+        {
+          "n": "559",
+          "text": "Creon\nDid what? I do not understand.",
+          "ref": null
+        },
+        {
+          "n": "560",
+          "text": "Oedipus\nwas swept out of sight by deadly violence?",
+          "ref": null
+        },
+        {
+          "n": "561",
+          "text": "Creon\nThe count of years would run far into the past.",
+          "ref": null
+        },
+        {
+          "n": "562",
+          "text": "Oedipus\nDid this seer possess this skill in those days?",
+          "ref": null
+        },
+        {
+          "n": "563",
+          "text": "Creon\nHe was wise as now, and held in equal honor.",
+          "ref": null
+        },
+        {
+          "n": "564",
+          "text": "Oedipus\nDid he make mention of me at that time?",
+          "ref": null
+        },
+        {
+          "n": "565",
+          "text": "Creon\nNever, certainly, when I was within hearing.",
+          "ref": null
+        },
+        {
+          "n": "566",
+          "text": "Oedipus\nDid you never investigate the murder?",
+          "ref": null
+        },
+        {
+          "n": "567",
+          "text": "Creon\nDue search we made, of course, though we learned nothing.",
+          "ref": null
+        },
+        {
+          "n": "568",
+          "text": "Oedipus\nAnd how was it that this sage did not tell this story then.",
+          "ref": null
+        },
+        {
+          "n": "569",
+          "text": "Creon\nI do not know: where I lack insight it is my custom to be silent.",
+          "ref": null
+        },
+        {
+          "n": "570",
+          "text": "Oedipus\nThis much, at least, you know, and could declare with insight enough.",
+          "ref": null
+        },
+        {
+          "n": "571",
+          "text": "Creon\nWhat is that? If I know it, I will not deny it.",
+          "ref": null
+        },
+        {
+          "n": "572",
+          "text": "Oedipus\nThat, if he had not conferred with you, he would not have named me as Laius’ slayer.",
+          "ref": null
+        },
+        {
+          "n": "574",
+          "text": "Creon\nIf he says this, you know best: but I deem it just to learn from you as much as you have from me now.",
+          "ref": null
+        },
+        {
+          "n": "576",
+          "text": "Oedipus\nLearn your fill. I will never be found guilty of the bloodshed.",
+          "ref": null
+        },
+        {
+          "n": "577",
+          "text": "Creon\nSay, then—have you married my sister?",
+          "ref": null
+        },
+        {
+          "n": "578",
+          "text": "Oedipus\nThe question allows no denial.",
+          "ref": null
+        },
+        {
+          "n": "579",
+          "text": "Creon\nAnd you rule the land as she does, with equal sway.",
+          "ref": null
+        },
+        {
+          "n": "580",
+          "text": "Oedipus\nShe obtains from me all that she wishes.",
+          "ref": null
+        },
+        {
+          "n": "581",
+          "text": "Creon\nAnd do I not rank as a third peer of you two?",
+          "ref": null
+        },
+        {
+          "n": "582",
+          "text": "Oedipus\nIt is just in this that you are seen to be a false friend.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-583",
+      "number": "583",
+      "ref": "583–615",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "583",
+          "text": "Creon\nNot so, if you would reason with your heart as I do with mine. Weigh this first—whether you think that anyone would choose to rule amid terrors rather than in unruffled peace, granted that he is to have the same powers. Now I, for one, have by nature no yearning to rule as a king rather than to do kingly deeds, and neither does any man I know who has a sound mind. For now I attain all everything from you without fear, but, if I were ruler myself, I would have to do much that went against my own pleasure. How, then, could royalty be sweeter to me to have than painless rule and influence? I am not yet so misguided that I desire other honors than those which bring profit. Now, every man has a greeting for me; now, all that have a request of you crave to speak with me, since in me lies all their hope of success. Why then should I give up these things and take those others? No mind will become false while it is wise. No, I am no lover of such a policy, and if another put it into action, I could never bear to go along with him. And, in proof of this, first go to Pytho, and ask whether I brought a true report of the oracle. Then next, if you have found that I have planned anything in concert with the soothsayer, take and slay me, by the sentence not of one mouth, but of two—by my own no less than yours. But do not assume my guilt on unproven inference. It is not just to judge bad men good at random, or good men bad. I think that casting off a true friend is for a man like casting away the life in his own bosom, which he most loves. You will surely learn about these affairs in time, since time alone reveals a just man. But you can discern a bad man even in one day alone.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-616",
+      "number": "616",
+      "ref": "616–631",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "616",
+          "text": "Chorus\nHe has spoken well, my king, for one who is taking care not to fall: those who are quick in counsel are not sure.",
+          "ref": null
+        },
+        {
+          "n": "618",
+          "text": "Oedipus\nWhen the stealthy plotter is moving on me quickly, I, too, must be quick in my counterplot. If I await him in repose, his ends will have been gained, and mine lost.",
+          "ref": null
+        },
+        {
+          "n": "622",
+          "text": "Creon\nWhat do you want then? To banish me from the land?",
+          "ref": null
+        },
+        {
+          "n": "623",
+          "text": "Oedipus\nHardly. I desire your death, not your exile, so that I might show what a thing envy is.",
+          "ref": null
+        },
+        {
+          "n": "625",
+          "text": "Creon\nAre you resolved not to yield or believe?",
+          "ref": null
+        },
+        {
+          "n": "625a",
+          "text": "Oedipus\n[No, for you persuade me that you are unworthy of trust.]",
+          "ref": null
+        },
+        {
+          "n": "626",
+          "text": "Creon\nNo, for I see you are not sane.",
+          "ref": null
+        },
+        {
+          "n": "626a",
+          "text": "Oedipus\nSane, at least, in my own interest.",
+          "ref": null
+        },
+        {
+          "n": "627",
+          "text": "Creon\nBut you should be so in mine also.",
+          "ref": null
+        },
+        {
+          "n": "627a",
+          "text": "Oedipus\nYou are false.",
+          "ref": null
+        },
+        {
+          "n": "628",
+          "text": "Creon\nBut if you understand nothing?",
+          "ref": null
+        },
+        {
+          "n": "628a",
+          "text": "Oedipus\nStill I must rule.",
+          "ref": null
+        },
+        {
+          "n": "629",
+          "text": "Creon\nNot if you rule badly.",
+          "ref": null
+        },
+        {
+          "n": "629a",
+          "text": "Oedipus\nHear him, city of Thebes!",
+          "ref": null
+        },
+        {
+          "n": "630",
+          "text": "Creon\nThe city is mine too, not yours alone.",
+          "ref": null
+        },
+        {
+          "n": "631",
+          "text": "Chorus\nCease, lords. In good time I see Iocasta coming from the house, with whose help you should resolve your present feud.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-634",
+      "number": "634",
+      "ref": "634–646",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "634",
+          "text": "[Iocasta enters.]",
+          "ref": null
+        },
+        {
+          "n": "634",
+          "text": "Iocasta\nMisguided men, why have you raised such a foolish argument? Are you not ashamed, while the land is so sick, to stir up troubles of your own? Come, go into the house—and you, Creon, go to yours—and stop making so much of a petty grief.",
+          "ref": null
+        },
+        {
+          "n": "639",
+          "text": "Creon\nKinswoman, Oedipus, your husband, wants to do one of two terrible things to me, either to thrust me from the land of my fathers or to arrest and slay me.",
+          "ref": null
+        },
+        {
+          "n": "642",
+          "text": "Oedipus\nYes indeed, for I have caught him, lady, working evil against my person with his wicked craft.",
+          "ref": null
+        },
+        {
+          "n": "644",
+          "text": "Creon\nMay I derive no benefit, but perish accursed, if I have done any of the things of which you charge me.",
+          "ref": null
+        },
+        {
+          "n": "646",
+          "text": "Iocasta\nIn the name of the gods, believe it, Oedipus, first for the sake of this awful oath to the gods, then for my sake and for the sake of those who stand before you.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-649",
+      "number": "649",
+      "ref": "649–658",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "649",
+          "text": "Chorus\nConsent, reflect, listen, my king, I beg you.",
+          "ref": null
+        },
+        {
+          "n": "650",
+          "text": "Oedipus\nWhat would you have me grant you?",
+          "ref": null
+        },
+        {
+          "n": "651",
+          "text": "Chorus\nRespect him who was in the past not foolish, and who now is strong in his oath.",
+          "ref": null
+        },
+        {
+          "n": "653",
+          "text": "Oedipus\nDo you understand what you crave?",
+          "ref": null
+        },
+        {
+          "n": "654",
+          "text": "Chorus\nI do.",
+          "ref": null
+        },
+        {
+          "n": "655",
+          "text": "Oedipus\nTell me, then, what you mean.",
+          "ref": null
+        },
+        {
+          "n": "656",
+          "text": "Chorus\nThat you should never use an unproved rumor to cast a dishonoring charge on the friend who has bound himself with a curse.",
+          "ref": null
+        },
+        {
+          "n": "658",
+          "text": "Oedipus\nThen be quite aware that when you seek this you are seeking death or exile from this land for me.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-660",
+      "number": "660",
+      "ref": "660–676a",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "660",
+          "text": "Chorus\nNo, by the god that stands at the head of all the host of the gods, no, by the sun. Unblest, unbefriended, may I die the worst possible death, if I have this thought! But my unhappy soul is worn by the withering of the land, as well as by the thought that our old sorrows should be crowned by new ones arising from the two of you.",
+          "ref": null
+        },
+        {
+          "n": "669",
+          "text": "Oedipus\nThen let him go, though I am surely doomed to be killed or thrust dishonored from the land. Your words, not his, move me to compassion; but he, wherever he be, shall be hated.",
+          "ref": null
+        },
+        {
+          "n": "673",
+          "text": "Creon\nYou are truly sullen in yielding, as you are vehement in the excesses of your wrath. But such natures are justly most difficult for themselves to bear.",
+          "ref": null
+        },
+        {
+          "n": "676",
+          "text": "Oedipus\nWill you not be gone and leave me in peace?",
+          "ref": null
+        },
+        {
+          "n": "676a",
+          "text": "Creon\nI will go on my way. I have found you undiscerning, but in the view of these men I am just. He exits.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-678",
+      "number": "678",
+      "ref": "678–698",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "678",
+          "text": "Chorus\nLady, why do you hesitate to take this man into the house?",
+          "ref": null
+        },
+        {
+          "n": "680",
+          "text": "Iocasta\nI will, when I have learned what has happened.",
+          "ref": null
+        },
+        {
+          "n": "681",
+          "text": "Chorus\nBlind suspicion, bred of talk, arose, and injustice inflicts wounds.",
+          "ref": null
+        },
+        {
+          "n": "682",
+          "text": "Iocasta\nOn both sides?",
+          "ref": null
+        },
+        {
+          "n": "683",
+          "text": "Chorus\nYes.",
+          "ref": null
+        },
+        {
+          "n": "684",
+          "text": "Iocasta\nAnd what was the story?",
+          "ref": null
+        },
+        {
+          "n": "685",
+          "text": "Chorus\nIt is enough, I think, enough, when our land is already vexed, that the matter should rest where it stopped.",
+          "ref": null
+        },
+        {
+          "n": "687",
+          "text": "Oedipus\nDo you see to what you have come, for all your noble intent, in seeking to slacken and blunt my zeal?",
+          "ref": null
+        },
+        {
+          "n": "689",
+          "text": "Chorus\nKing, I have said it more than once— be sure that I would have proved myself a madman, bankrupt in sane counsel, if I forsook you—you, who gave a true course to my beloved country when it was distraught with troubles, and who now are likely to prove our prospering guide.",
+          "ref": null
+        },
+        {
+          "n": "698",
+          "text": "Iocasta\nIn the name of the gods, tell me, king, the reason that you have conceived this steadfast wrath.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-700",
+      "number": "700",
+      "ref": "700–725",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "700",
+          "text": "Oedipus\nThat I will do, for I honor you, lady, above these men. Creon is the cause, and the plots he has laid against me.",
+          "ref": null
+        },
+        {
+          "n": "702",
+          "text": "Iocasta\nCome, tell me how the argument began.",
+          "ref": null
+        },
+        {
+          "n": "703",
+          "text": "Oedipus\nHe says that I stand guilty of Laius’ blood.",
+          "ref": null
+        },
+        {
+          "n": "704",
+          "text": "Iocasta\nOn his own knowledge or on hearsay from another?",
+          "ref": null
+        },
+        {
+          "n": "705",
+          "text": "Oedipus\nHe has made a rascal seer his mouth piece: as for himself, he keeps his lips wholly pure.",
+          "ref": null
+        },
+        {
+          "n": "707",
+          "text": "Iocasta\nThen absolve yourself of the things about which you are speaking. Listen to me, and take comfort in learning that nothing of mortal birth shares in the science of the seer. I will give you a pithy proof of this. An oracle came to Laius once—I will not say from Phoebus himself, but from his ministers—saying that he would suffer his doom at the hands of the child to be born to him and me. And Laius—as, at least, the rumor goes—was murdered one day by foreign robbers at a place where the three highways meet. And the child’s birth was not yet three days past, when Laius pinned his ankles together and had him thrown, by others’ hands, on a remote mountain. So, in that case, Apollo did not bring it to pass that the child should become the slayer of his father, or that Laius should suffer that which he feared, death at the hands of his child: thus the messages of the seer’s art had mapped out the future. Pay them no regard. Whatever necessary event the god seeks, he himself will easily bring to light.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-726",
+      "number": "726",
+      "ref": "726–749",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "726",
+          "text": "Oedipus\nWhat restlessness of soul, lady, what tumult has come upon me since I heard you speak!",
+          "ref": null
+        },
+        {
+          "n": "728",
+          "text": "Iocasta\nWhat anxiety has startled you, that you say this?",
+          "ref": null
+        },
+        {
+          "n": "729",
+          "text": "Oedipus\nI thought that I heard this from you—that Laius was slain where the three roads meet.",
+          "ref": null
+        },
+        {
+          "n": "731",
+          "text": "Icasta\nYes, that was the report, and so it is still thought.",
+          "ref": null
+        },
+        {
+          "n": "732",
+          "text": "Oedipus\nAnd where is the place where this occurred?",
+          "ref": null
+        },
+        {
+          "n": "733",
+          "text": "Iocasta\nThe land is called Phocis; the branching forks lead to the same spot from Delphi and from Daulia.",
+          "ref": null
+        },
+        {
+          "n": "735",
+          "text": "Oedipus\nAnd how much time has passed since these events took place?",
+          "ref": null
+        },
+        {
+          "n": "736",
+          "text": "Iocasta\nThe news was announced to the town shortly before you first attained power over this land.",
+          "ref": null
+        },
+        {
+          "n": "738",
+          "text": "Oedipus\nO Zeus, what have you decreed for me?",
+          "ref": null
+        },
+        {
+          "n": "739",
+          "text": "Iocasta\nWhy, Oedipus, does this matter weigh upon your heart?",
+          "ref": null
+        },
+        {
+          "n": "740",
+          "text": "Oedipus\nDo not ask me yet. Tell me rather what stature Laius had, and how ripe his manhood was.",
+          "ref": null
+        },
+        {
+          "n": "742",
+          "text": "Iocasta\nHe was tall—the silver just lightly strewn among his hair—and his form was not greatly unlike your own.",
+          "ref": null
+        },
+        {
+          "n": "744",
+          "text": "Oedipus\nUnhappy that I am! I think that I have laid myself under a terrible curse without realizing it.",
+          "ref": null
+        },
+        {
+          "n": "746",
+          "text": "Iocasta\nHow do you mean? I tremble when I look at you, my lord.",
+          "ref": null
+        },
+        {
+          "n": "747",
+          "text": "Oedipus\nI have dread fears that the seer can see. But you will reveal the matter better if you tell me one thing more.",
+          "ref": null
+        },
+        {
+          "n": "749",
+          "text": "Iocasta\nIndeed, though I tremble, I will hear and answer all that you ask.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-750",
+      "number": "750",
+      "ref": "750–770",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "750",
+          "text": "Oedipus\nDid he go with a small force, or like a chieftain, with many armed followers?",
+          "ref": null
+        },
+        {
+          "n": "753",
+          "text": "Iocasta\nFive they were in all—a herald among them—and there was one carriage which bore Laius.",
+          "ref": null
+        },
+        {
+          "n": "755",
+          "text": "Oedipus\nAlas! It is all clear now! Who gave you this information, lady?",
+          "ref": null
+        },
+        {
+          "n": "756",
+          "text": "Iocasta\nA servant, the only survivor who returned home.",
+          "ref": null
+        },
+        {
+          "n": "757",
+          "text": "Oedipus\nIs he by any chance in the house now?",
+          "ref": null
+        },
+        {
+          "n": "758",
+          "text": "Iocasta\nNo. Soon after he returned and found you ruling in Laius’ stead, he pled with me, with hand laid on mine, to send him to the fields, to the pastures of the flocks, that he might be far from the sight of this town. And I sent him; he was worthy, for a slave, to win even a larger favor than that.",
+          "ref": null
+        },
+        {
+          "n": "765",
+          "text": "Oedipus\nWould, then, that he return to us without delay!",
+          "ref": null
+        },
+        {
+          "n": "766",
+          "text": "Iocasta\nThat is easy. But why do you enjoin this?",
+          "ref": null
+        },
+        {
+          "n": "767",
+          "text": "Oedipus\nI fear, lady, that my words have been rash, and therefore I wish to see him.",
+          "ref": null
+        },
+        {
+          "n": "769",
+          "text": "Iocasta\nHe will come. But I think that I too have a claim to learn what lies heavy on your heart, my king.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-771",
+      "number": "771",
+      "ref": "771–795",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "771",
+          "text": "Oedipus\nIt will not be kept from you, now that my forebodings have advanced so far. To whom more than to you would I speak in suffering such a fortune as this? My father was Polybus of Corinth, my mother the Dorian Merope. I was considered the greatest of the folk in that town, until a chance event befell me, worthy, indeed, of wonder, though not of my overreaction regarding it. At a banquet, a man drunk with wine cast it at me that I was not the true son of my father. And I, vexed, restrained myself for that day as best as I could, but on the next went to my mother and father and questioned them. They were angry at the one who had let this taunt fly. So I had comfort about them, but the matter rankled in my heart, for such a rumor still spread widely. I went to Delphi without my parents’ knowledge, and Phoebus sent me forth disappointed of the knowledge for which I had come, but in his response set forth other things, full of sorrow and terror and woe: that I was fated to defile my mother’s bed, that I would reveal to men a brood which they could not endure to behold, and that I would slay the father that sired me. When I heard this, I turned in flight from the land of Corinth, from then on thinking of it only by its position under the stars, to some spot where I should never see fulfillment of the infamies foretold in my evil fate. And on my way I came to the land in which you say that this prince perished.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-800",
+      "number": "800",
+      "ref": "800–830",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "800",
+          "text": "Oedipus\nNow, lady, I will tell you the truth. When on my journey I was near those three roads, there I met a herald, and a man in a carriage drawn by colts, as you have described. The leader and the old man himself tried to thrust me rudely from the path. Then, in anger, I struck the one pushing me aside, the driver, and the old man, when he saw this, watched for the moment I was passing, and from his carriage, brought his double goad straight down on my head. Yet he was paid back with interest: with one swift blow from the staff in this hand he rolled right out of the carriage onto his back. I slew every one of them. But if this stranger had any tie of kinship to Laius, who is now more wretched than this man before you? What mortal could be proved more hateful to the gods? No stranger, no citizen, is allowed to receive him at home, it is unlawful for anyone to accost him, and all must push him from their homes. And this—this curse— was laid on me by no other mouth than my own. And I pollute the bed of the slain man with the hands by which he perished. Am I now vile? Oh, am I not utterly unclean, seeing that I must be banished, and in banishment neither see my own people, nor set foot in my own land, or else be joined in wedlock to my mother, and slay my father Polybus, who sired and reared me? Then would he who judged these things to be sent down by some cruel divinity not be right about Oedipus? Prevent, prevent, you pure and awful gods, me from ever seeing that day! No, may I be swept away from all men, before I see myself visited with that brand of doom.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-834",
+      "number": "834",
+      "ref": "834–861",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "834",
+          "text": "Chorus\nTo us, king, these things are fraught with fear. Yet have hope, until at least you have gained full knowledge from the one who saw the deed.",
+          "ref": null
+        },
+        {
+          "n": "836",
+          "text": "Oedipus\nI have, in truth, this much hope alone: I await the man summoned from the pastures.",
+          "ref": null
+        },
+        {
+          "n": "838",
+          "text": "Iocasta\nAnd what do you want from him when he appears?",
+          "ref": null
+        },
+        {
+          "n": "839",
+          "text": "Oedipus\nI will tell you. If his story is found to match withwith yours, I at least, will stand clear of disaster.",
+          "ref": null
+        },
+        {
+          "n": "841",
+          "text": "Iocasta\nAnd what special note did you hear from me?",
+          "ref": null
+        },
+        {
+          "n": "842",
+          "text": "Oedipus\nYou said that he spoke of Laius as slain by robbers. If, then, he still speaks of several as before, I was not the slayer: a solitary man could not be considered the same as that band. But if he names one lonely wayfarer, then beyond doubt this guilt rests upon me.",
+          "ref": null
+        },
+        {
+          "n": "848",
+          "text": "Iocasta\nBe assured that thus, at least, the tale was first told. He cannot revoke that, for the city heard it, not I alone. But even if he should diverge somewhat from his former story, never, king, can he show that the murder of Laius, at least, is truly square with the prophecy, for Loxias plainly said that he was to die at the hand of my child. How was it then that that poor innocent never slew him, but perished first? From now on then, as far as divination goes, I would not look to my right hand or my left.",
+          "ref": null
+        },
+        {
+          "n": "859",
+          "text": "Oedipus\nYou are right. But nevertheless send someone to fetch the peasant, and do not neglect this matter.",
+          "ref": null
+        },
+        {
+          "n": "861",
+          "text": "Iocasta\nI will send for him without delay. But let us go into the house: I will do nothing which does not please you. Exeunt Oedipus and Iocasta.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-863",
+      "number": "863",
+      "ref": "863–870",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "863",
+          "text": "Chorus\nMay destiny still find me winning the praise of reverent purity in all words and deeds sanctioned by those laws of sublime range, called into life through the high clear aether, whose father is Olympus alone. Their parent was no race of mortal men, no, nor shall oblivion ever lay them to sleep: the god is mighty in them, and he does not grow old.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-873",
+      "number": "873",
+      "ref": "873–880",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "873",
+          "text": "Chorus\nInsolence breeds the tyrant. Insolence, once vainly stuffed with wealth that is not proper or good for it, when it has scaled the topmost ramparts, is hurled to a dire doom, where one’s feet cannot serve to good advantage. But I pray that the god never quell such rivalry as benefits the state. I will always hold the god as our protector.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-884",
+      "number": "884",
+      "ref": "884–895",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "884",
+          "text": "Chorus\nBut if any man walks haughtily in deed or word, with no fear of Justice, no reverence for the images of gods, may an evil doom seize him for his ill-starred pride, if he does not gain his advantage fairly, or avoid unholy deeds, but seeks to lay profaning hands on sanctities. Where such things occur, what mortal shall boast any more that he can ward off the arrow of the gods from his life? No. For if such deeds are held in honor, why should we join in the sacred dance?",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-897",
+      "number": "897",
+      "ref": "897–910",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "897",
+          "text": "Chorus\nNo longer will I go reverently to the earth’s central and inviolate shrine, no more to Abae’s temple or to Olympia, if these oracles do not fit the outcome, so that all mortals shall point at them with their fingers. No, King—if this you are rightly called—Zeus all ruling, may it not escape you and your deathless power! The old prophecies concerning Laius are fading; already men give them no value, and nowhere is Apollo glorified with honors; the worship of the gods is perishing.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-911",
+      "number": "911",
+      "ref": "911–945",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "911",
+          "text": "Iocasta\nPrinces of the land, I am planning to visit the shrines of the gods, with this wreathed branch and these gifts of incense in my hands. For Oedipus excites his soul excessively with all sorts of grief, as he does not judge the new things from the old, like a man of sense, but is under the control of the speaker, if he speaks of frightful things. Since, then, I can do no good by counsel, to you, Lycean Apollo—for you are nearest— I have come as a suppliant with these symbols of prayer, that you may find us some escape from uncleanliness. For now we are all afraid, like those who see fear in the helmsman of their ship.",
+          "ref": null
+        },
+        {
+          "n": "924",
+          "text": "[Enter a messenger.]",
+          "ref": null
+        },
+        {
+          "n": "924",
+          "text": "Messenger\nCan you tell me, strangers, where the house of King Oedipus is? Or better still, tell me where he himself is, if you know.",
+          "ref": null
+        },
+        {
+          "n": "927",
+          "text": "Chorus\nThis is his dwelling, and he himself, stranger, is within. This lady here is the mother of his children.",
+          "ref": null
+        },
+        {
+          "n": "929",
+          "text": "Messenger\nThen may she be ever happy in a happy home, since she is his blessed queen.",
+          "ref": null
+        },
+        {
+          "n": "931",
+          "text": "Iocasta\nHappiness to you also, stranger! Your fair greeting deserves this. But say what you have come to seek or to tell.",
+          "ref": null
+        },
+        {
+          "n": "934",
+          "text": "Messenger\nGood tidings, lady, for your house and your husband.",
+          "ref": null
+        },
+        {
+          "n": "935",
+          "text": "Iocasta\nWhat are they? From whom have you come?",
+          "ref": null
+        },
+        {
+          "n": "936",
+          "text": "Messenger\nFrom Corinth, and at the message I will give now you will doubtless rejoice, though you may perhaps grieve too.",
+          "ref": null
+        },
+        {
+          "n": "938",
+          "text": "Iocasta\nWhat is it? Why has it this double potency?",
+          "ref": null
+        },
+        {
+          "n": "939",
+          "text": "Messenger\nThe people will make him king of the Isthmian land, as it was said there.",
+          "ref": null
+        },
+        {
+          "n": "941",
+          "text": "Iocasta\nHow then? Is the aged Polybus no longer in power?",
+          "ref": null
+        },
+        {
+          "n": "942",
+          "text": "Messenger\nNo. For death holds him in the tomb.",
+          "ref": null
+        },
+        {
+          "n": "943",
+          "text": "Iocasta\nWhat do you mean? Is Polybus dead, old man?",
+          "ref": null
+        },
+        {
+          "n": "944",
+          "text": "Messenger\nIf I do not speak the truth, I am content to die.",
+          "ref": null
+        },
+        {
+          "n": "945",
+          "text": "Iocasta\nHandmaid, away with all speed, and tell this to your master! Oracles of the gods, where do you stand now? It is this man that Oedipus long feared he would slay. And now this man has died in the course of destiny, not by his hand.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-950",
+      "number": "950",
+      "ref": "950–976",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "950",
+          "text": "[Enter Oedipus.]",
+          "ref": null
+        },
+        {
+          "n": "950",
+          "text": "Oedipus\nIocasta, dearest wife, why have you summoned me forth from these doors?",
+          "ref": null
+        },
+        {
+          "n": "952",
+          "text": "Iocasta\nHear this man, and judge, as you listen, what the awful oracles have come to.",
+          "ref": null
+        },
+        {
+          "n": "954",
+          "text": "Oedipus\nWho is he and what news does he have for me?",
+          "ref": null
+        },
+        {
+          "n": "955",
+          "text": "Iocasta\nHe comes from Corinth to tell you that your father Polybus lives no longer, but has perished.",
+          "ref": null
+        },
+        {
+          "n": "957",
+          "text": "Oedipus\nHow, stranger? Let me have it from your own mouth.",
+          "ref": null
+        },
+        {
+          "n": "958",
+          "text": "Messenger\nIf I must first make these tidings plain, know indeed that he is dead and gone.",
+          "ref": null
+        },
+        {
+          "n": "960",
+          "text": "Oedipus\nBy treachery, or from illness?",
+          "ref": null
+        },
+        {
+          "n": "961",
+          "text": "Messenger\nA light tilt of the scale brings the aged to their rest.",
+          "ref": null
+        },
+        {
+          "n": "962",
+          "text": "Oedipus\nAh, he died, it seems, of sickness?",
+          "ref": null
+        },
+        {
+          "n": "963",
+          "text": "Messenger\nYes, and of the long years that he had lived.",
+          "ref": null
+        },
+        {
+          "n": "964",
+          "text": "Oedipus\nAlas, alas! Why indeed, my wife, should one look to the hearth of the Pythian seer, or to the birds that scream above our heads, who declared that I was doomed to slay my father? But he is dead, and lies beneath the earth, and here I am, not having put my hand to any spear—unless, perhaps, he died out of longing for me: thus, indeed, I would be the cause of his death. But as the oracles stand, at least, Polybus has swept them with him to his rest in Hades. They are worth nothing.",
+          "ref": null
+        },
+        {
+          "n": "973",
+          "text": "Iocasta\nDid I not long ago foretell this to you?",
+          "ref": null
+        },
+        {
+          "n": "974",
+          "text": "Oedipus\nYou did, but I was mislead by my fear.",
+          "ref": null
+        },
+        {
+          "n": "975",
+          "text": "Iocasta\nNow no longer take any of those things to heart.",
+          "ref": null
+        },
+        {
+          "n": "976",
+          "text": "Oedipus\nBut surely I must fear my mother’s bed.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-977",
+      "number": "977",
+      "ref": "977–995",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "977",
+          "text": "Iocasta\nWhat should a mortal man fear, for whom the decrees of Fortune are supreme, and who has clear foresight of nothing? It is best to live at random, as one may. But fear not that you will wed your mother. Many men before now have slept with their mothers in dreams. But he to whom these things are as though nothing bears his life most easily.",
+          "ref": null
+        },
+        {
+          "n": "984",
+          "text": "Oedipus\nAll these words of yours would have been well said, were my mother not alive. But as it is, since she lives, I must necessarily fear, though you do speak well.",
+          "ref": null
+        },
+        {
+          "n": "987",
+          "text": "Iocasta\nYour father’s death is a great sign for us to take cheer.",
+          "ref": null
+        },
+        {
+          "n": "988",
+          "text": "Oedipus\nGreat, I know. But my fear is of her who lives.",
+          "ref": null
+        },
+        {
+          "n": "989",
+          "text": "Messenger\nAnd who is the woman about whom you fear?",
+          "ref": null
+        },
+        {
+          "n": "990",
+          "text": "Oedipus\nMerope, old man, the consort of Polybus.",
+          "ref": null
+        },
+        {
+          "n": "991",
+          "text": "Messenger\nAnd what is it in her that moves your fear?",
+          "ref": null
+        },
+        {
+          "n": "992",
+          "text": "Oedipus\nA divine oracle of dread import, stranger.",
+          "ref": null
+        },
+        {
+          "n": "993",
+          "text": "Messenger\nProper, or improper, for another to know?",
+          "ref": null
+        },
+        {
+          "n": "994",
+          "text": "Oedipus\nProper, surely. Loxias once said that I was doomed to marry my own mother, and to shed with my own hands my father’s blood. For which reasons I long shirked my home in Corinth—with a happy outcome, to be sure, but still it is sweet to see the face of one’s parents.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-999",
+      "number": "999",
+      "ref": "999–1025",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "999",
+          "text": "Messenger\nWas it really for fear of this that you became an exile from that city?",
+          "ref": null
+        },
+        {
+          "n": "1000",
+          "text": "Oedipus\nAnd because I did not wish, old man, to be the murderer of my father.",
+          "ref": null
+        },
+        {
+          "n": "1001",
+          "text": "Messenger\nWhy have I not relieved you of this second fear, my lord, since I came to give you pleasure?",
+          "ref": null
+        },
+        {
+          "n": "1002",
+          "text": "Oedipus\nAnd indeed you will have worthy thanks from me.",
+          "ref": null
+        },
+        {
+          "n": "1004",
+          "text": "Messenger\nAnd indeed I came specially for this, that I might profit from your returning home.",
+          "ref": null
+        },
+        {
+          "n": "1007",
+          "text": "Oedipus\nBut by no means will I ever go near my parents again.",
+          "ref": null
+        },
+        {
+          "n": "1008",
+          "text": "Messenger\nMy son, it is crystal clear that you do not know what you are doing.",
+          "ref": null
+        },
+        {
+          "n": "1009",
+          "text": "Oedipus\nHow so, old man? In the name of the gods, tell me.",
+          "ref": null
+        },
+        {
+          "n": "1010",
+          "text": "Messenger\nIf on account of this you are fleeing from returning home.",
+          "ref": null
+        },
+        {
+          "n": "1011",
+          "text": "Oedipus\nFearing indeed lest Apollo’s prophecy come true in me.",
+          "ref": null
+        },
+        {
+          "n": "1012",
+          "text": "Messenger\nLest you acquire some pollution from your parents?",
+          "ref": null
+        },
+        {
+          "n": "1013",
+          "text": "Oedipus\nThis very thing, old man, this constantly frightens me.",
+          "ref": null
+        },
+        {
+          "n": "1014",
+          "text": "Messenger\nDo you know, then, that your fears are wholly in vain?",
+          "ref": null
+        },
+        {
+          "n": "1015",
+          "text": "Oedipus\n⟨…⟩How so, if I was born of those parents?",
+          "ref": null
+        },
+        {
+          "n": "1016",
+          "text": "Messenger\nBecause you had no blood in common with Polybus.",
+          "ref": null
+        },
+        {
+          "n": "1017",
+          "text": "Oedipus\nWhat are you saying? Was Polybus not my father?",
+          "ref": null
+        },
+        {
+          "n": "1018",
+          "text": "Messenger\nJust as much, and no more, than he who speaks to you.",
+          "ref": null
+        },
+        {
+          "n": "1019",
+          "text": "Oedipus\nAnd how can my father be equal to him who is as though nothing to me?",
+          "ref": null
+        },
+        {
+          "n": "1020",
+          "text": "Messenger\nBut he did not father you, any more than I did.",
+          "ref": null
+        },
+        {
+          "n": "1021",
+          "text": "Oedipus\nHow, then, did he call me his son?",
+          "ref": null
+        },
+        {
+          "n": "1022",
+          "text": "Messenger\nLong ago he received you as a gift from my hands.",
+          "ref": null
+        },
+        {
+          "n": "1023",
+          "text": "Oedipus\nAnd yet he loved me so dearly, who came from another’s hand?",
+          "ref": null
+        },
+        {
+          "n": "1024",
+          "text": "Messenger\nHis former childlessness won him over.",
+          "ref": null
+        },
+        {
+          "n": "1025",
+          "text": "Oedipus\nAnd had you bought me or found me by chance, when you gave me to him?",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1026",
+      "number": "1026",
+      "ref": "1026–1051",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1026",
+          "text": "Messenger\nI found you in Cithaeron’s winding glens.",
+          "ref": null
+        },
+        {
+          "n": "1027",
+          "text": "Oedipus\nAnd why were you roaming those regions?",
+          "ref": null
+        },
+        {
+          "n": "1028",
+          "text": "Messenger\nI was in charge of mountain flocks.",
+          "ref": null
+        },
+        {
+          "n": "1029",
+          "text": "Oedipus\nWhat, you were a shepherd—a vagrant hireling?",
+          "ref": null
+        },
+        {
+          "n": "1030",
+          "text": "Messenger\nBut your savior, my son, in that hour.",
+          "ref": null
+        },
+        {
+          "n": "1031",
+          "text": "Oedipus\nAnd what was my pain when you took me in your arms?",
+          "ref": null
+        },
+        {
+          "n": "1032",
+          "text": "Messenger\nThe ankles of your feet might bear witness.",
+          "ref": null
+        },
+        {
+          "n": "1033",
+          "text": "Oedipus\nAh me, why do you speak of that old trouble?",
+          "ref": null
+        },
+        {
+          "n": "1034",
+          "text": "Messenger\nI freed you when you had your ankles pinned together.",
+          "ref": null
+        },
+        {
+          "n": "1035",
+          "text": "Oedipus\nIt was a dread brand of shame that I took from my cradle.",
+          "ref": null
+        },
+        {
+          "n": "1036",
+          "text": "Messenger\nSo much so that from that fortune you were called by that name which you still bear.",
+          "ref": null
+        },
+        {
+          "n": "1037",
+          "text": "Oedipus\nOh, in the name of the gods, was the deed my mother’s or father’s? Speak!",
+          "ref": null
+        },
+        {
+          "n": "1038",
+          "text": "Messenger\nI know not. He who gave you to me knows better of that than I.",
+          "ref": null
+        },
+        {
+          "n": "1039",
+          "text": "Oedipus\nWhat, you got me from another? You did not find me yourself?",
+          "ref": null
+        },
+        {
+          "n": "1040",
+          "text": "Messenger\nNo. Another shepherd gave you to me.",
+          "ref": null
+        },
+        {
+          "n": "1041",
+          "text": "Oedipus\nWho was he? Can you tell clearly?",
+          "ref": null
+        },
+        {
+          "n": "1042",
+          "text": "Messenger\nI think he was said to be one of the household of Laius.",
+          "ref": null
+        },
+        {
+          "n": "1043",
+          "text": "Oedipus\nThe king who ruled this country long ago?",
+          "ref": null
+        },
+        {
+          "n": "1044",
+          "text": "Messenger\nThe same. The man was a herdsman in his service.",
+          "ref": null
+        },
+        {
+          "n": "1045",
+          "text": "Oedipus\nIs he still alive, that I might see him?",
+          "ref": null
+        },
+        {
+          "n": "1046",
+          "text": "Messenger\nYou natives of this country should know best.",
+          "ref": null
+        },
+        {
+          "n": "1047",
+          "text": "Oedipus\nIs there any of you here present that knows the herdsman of whom he speaks, having seen him either in the pastures or here in town? Answer! The hour has come for these things to be revealed finally.",
+          "ref": null
+        },
+        {
+          "n": "1051",
+          "text": "Chorus\nI think he speaks of no other than the peasant you already wanted to see. But our lady Iocasta might best tell you that.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1054",
+      "number": "1054",
+      "ref": "1054–1085",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1054",
+          "text": "Oedipus\nLady, do you know the one whom we summoned just now? Is it of him that this man speaks?",
+          "ref": null
+        },
+        {
+          "n": "1056",
+          "text": "Iocasta\nWhy ask of whom he spoke? Regard it not; waste not a thought on what he said; it would be vain.",
+          "ref": null
+        },
+        {
+          "n": "1058",
+          "text": "Oedipus\nIt must not happen that, with such clues in my grasp, I fail to bring my birth to light.",
+          "ref": null
+        },
+        {
+          "n": "1060",
+          "text": "Iocasta\nFor the gods’ sake, if you have any care for your own life, do not continue this search! My anguish is enough.",
+          "ref": null
+        },
+        {
+          "n": "1062",
+          "text": "Oedipus\nBe of good courage. Even if I should be found the son of a servile mother—a slave by three descents—you will not be proven baseborn.",
+          "ref": null
+        },
+        {
+          "n": "1064",
+          "text": "Iocasta\nHear me, I implore you: do not do this.",
+          "ref": null
+        },
+        {
+          "n": "1065",
+          "text": "Oedipus\nI will not hear of not discovering the whole truth.",
+          "ref": null
+        },
+        {
+          "n": "1066",
+          "text": "Iocasta\nYet I wish you well—I counsel you for the best.",
+          "ref": null
+        },
+        {
+          "n": "1067",
+          "text": "Oedipus\nThese best counsels, then, vex my patience.",
+          "ref": null
+        },
+        {
+          "n": "1068",
+          "text": "Iocasta\nOh ill-fated man, may you never know who you are!",
+          "ref": null
+        },
+        {
+          "n": "1069",
+          "text": "Oedipus\nGo, some one, fetch me the herdsman. Leave this woman to glory in her princely stock.",
+          "ref": null
+        },
+        {
+          "n": "1071",
+          "text": "Iocasta\nAlas, alas, miserable man—that word alone can I say to you—and no other word ever again. She rushes into the palace.",
+          "ref": null
+        },
+        {
+          "n": "1073",
+          "text": "Chorus\nWhy has this woman gone, Oedipus, rushing off in wild grief? I fear a storm of sorrow will soon break forth from this silence.",
+          "ref": null
+        },
+        {
+          "n": "1076",
+          "text": "Oedipus\nBreak forth what will! Be my race ever so lowly, I crave to learn it. That woman perhaps—for she is proud with more than a woman’s pride—feels ashamed of my lowly origin. But I, who hold myself son of Fortune that gives good, will not be dishonored. She is the mother from whom I spring, and the months, my kinsmen, have marked me sometimes lowly, sometimes great. Such being my heritage, never more can I prove false to it, or keep from searching out the secret of my birth.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1086",
+      "number": "1086",
+      "ref": "1086–1095",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1086",
+          "text": "Chorus\nIf I am a seer or wise of heart, Cithaeron, you will not fail—by heaven, you will not—to know at tomorrow’s full moon that Oedipus honors you as native to him, as his nurse, and his mother, and that you are celebrated in our dance and song, because you are well-pleasing to our prince. O Phoebus to whom we cry, may these things find favor in your sight!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1098",
+      "number": "1098",
+      "ref": "1098–1105",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1098",
+          "text": "Chorus\nWho was it, my son, who of the race whose years are many, that bore you in wedlock with Pan, the mountain-roaming father? Or was it a bride of Loxias that bore you? For dear to him are all the upland pastures. Or perhaps it was Cyllene’s lord, or the Bacchants’ god, dweller on the hill-tops, that received you, a new-born joy, from one of the nymphs of Helicon, with whom he most often sports.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1110",
+      "number": "1110",
+      "ref": "1110–1140",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1110",
+          "text": "Oedipus\nElders, if it is right for me, who have never met the man, to guess, I think I see the herdsman we have been looking for for a long time. In his venerable old age he tallies with this stranger’s years, and moreover I recognize those who bring him, I think, as servants of mine. But perhaps you have an advantage in knowledge over me, if you have seen the herdsman before.",
+          "ref": null
+        },
+        {
+          "n": "1117",
+          "text": "Chorus\nYes, I know him, be sure. He was in the service of Laius—trusty as any shepherd.",
+          "ref": null
+        },
+        {
+          "n": "1119",
+          "text": "[The herdsman is brought in.]",
+          "ref": null
+        },
+        {
+          "n": "1119",
+          "text": "Oedipus\nI ask you first, Corinthian stranger, if this is the man you mean.",
+          "ref": null
+        },
+        {
+          "n": "1120",
+          "text": "Messenger\nHe is, the one you are looking at.",
+          "ref": null
+        },
+        {
+          "n": "1121",
+          "text": "Oedipus\nYou, old man—look this way and answer all that I ask—were you once in the service of Laius?",
+          "ref": null
+        },
+        {
+          "n": "1123",
+          "text": "Servant\nI was—not a bought slave, but reared in his house.",
+          "ref": null
+        },
+        {
+          "n": "1124",
+          "text": "Oedipus\nEmployed in what labor, or what way of life?",
+          "ref": null
+        },
+        {
+          "n": "1125",
+          "text": "Servant\nFor the better part of my life I tended the flocks.",
+          "ref": null
+        },
+        {
+          "n": "1126",
+          "text": "Oedipus\nAnd what regions did you most frequently haunt?",
+          "ref": null
+        },
+        {
+          "n": "1127",
+          "text": "Servant\nSometimes Cithaeron, sometimes the neighboring ground.",
+          "ref": null
+        },
+        {
+          "n": "1128",
+          "text": "Oedipus\nAre you aware of ever having seen this man in these parts?",
+          "ref": null
+        },
+        {
+          "n": "1129",
+          "text": "Servant\nDoing what? What man do you mean?",
+          "ref": null
+        },
+        {
+          "n": "1130",
+          "text": "Oedipus\nThis man here. Have you ever met him before?",
+          "ref": null
+        },
+        {
+          "n": "1131",
+          "text": "Servant\nNot so that I could speak at once from memory.",
+          "ref": null
+        },
+        {
+          "n": "1132",
+          "text": "Messenger\nAnd no wonder, master. But I will bring clear recollection to his ignorance. I am sure he knows well of the time we dwelled in the region of Cithaeron for six month periods, from spring to Arcturus, he with two flocks, and I, his comrade, with one. And then for the winter I used to drive my flock to my own fold, and he took his to the fold of Laius. Did any of this happen as I tell it, or did it not?",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1141",
+      "number": "1141",
+      "ref": "1141–1170",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1141",
+          "text": "Servant\nYou speak the truth, though it was long ago.",
+          "ref": null
+        },
+        {
+          "n": "1142",
+          "text": "Messenger\nCome, tell me now: do you remember having given me a boy in those days, to be reared as my own foster-son?",
+          "ref": null
+        },
+        {
+          "n": "1144",
+          "text": "Servant\nWhat now? Why do you ask the question?",
+          "ref": null
+        },
+        {
+          "n": "1145",
+          "text": "Messenger\nThis man, my friend, is he who then was young.",
+          "ref": null
+        },
+        {
+          "n": "1146",
+          "text": "Servant\nDamn you! Be silent once and for all!",
+          "ref": null
+        },
+        {
+          "n": "1147",
+          "text": "Oedipus\nDo not rebuke him, old man. Your words need rebuking more than his.",
+          "ref": null
+        },
+        {
+          "n": "1148",
+          "text": "Servant\nAnd in what way, most noble master, do I offend?",
+          "ref": null
+        },
+        {
+          "n": "1150",
+          "text": "Oedipus\nIn not telling of the boy about whom he asks.",
+          "ref": null
+        },
+        {
+          "n": "1151",
+          "text": "Servant\nHe speaks without knowledge, but is busy to no purpose.",
+          "ref": null
+        },
+        {
+          "n": "1152",
+          "text": "Oedipus\nYou will not speak with good grace, but will in pain.",
+          "ref": null
+        },
+        {
+          "n": "1153",
+          "text": "Servant\nNo, in the name of the gods, do not mistreat an old man.",
+          "ref": null
+        },
+        {
+          "n": "1154",
+          "text": "Oedipus\nSomeone, quick—tie his hands him this instant!",
+          "ref": null
+        },
+        {
+          "n": "1155",
+          "text": "Servant\nAlas, why? What do you want to learn?",
+          "ref": null
+        },
+        {
+          "n": "1156",
+          "text": "Oedipus\nDid you give this man the child about whom he asks?",
+          "ref": null
+        },
+        {
+          "n": "1157",
+          "text": "Servant\nI did. Would that I had perished that day!",
+          "ref": null
+        },
+        {
+          "n": "1158",
+          "text": "Oedipus\nWell, you will come to that, unless you tell the honest truth.",
+          "ref": null
+        },
+        {
+          "n": "1159",
+          "text": "Servant\nBut if I speak I will be destroyed all the more.",
+          "ref": null
+        },
+        {
+          "n": "1160",
+          "text": "Oedipus\nThis man is bent, I think, on more delays.",
+          "ref": null
+        },
+        {
+          "n": "1161",
+          "text": "Servant\nNo, no! I said before that I gave it to him.",
+          "ref": null
+        },
+        {
+          "n": "1162",
+          "text": "Oedipus\nWhere did you get it from? From your own house, or from another?",
+          "ref": null
+        },
+        {
+          "n": "1163",
+          "text": "Servant\nIt was not my own: I received it from another.",
+          "ref": null
+        },
+        {
+          "n": "1164",
+          "text": "Oedipus\nFrom whom of the citizens here? From what home?",
+          "ref": null
+        },
+        {
+          "n": "1165",
+          "text": "Servant\nFor the love of the gods, master, ask no more!",
+          "ref": null
+        },
+        {
+          "n": "1166",
+          "text": "Oedipus\nYou are dead if I have to question you again.",
+          "ref": null
+        },
+        {
+          "n": "1167",
+          "text": "Servant\nIt was a child, then, of the house of Laius.",
+          "ref": null
+        },
+        {
+          "n": "1168",
+          "text": "Oedipus\nA slave? Or one of his own clan?",
+          "ref": null
+        },
+        {
+          "n": "1169",
+          "text": "Servant\nAlas! I am on the brink of speaking the dreaded words.",
+          "ref": null
+        },
+        {
+          "n": "1170",
+          "text": "Oedipus\nAnd I of hearing: I must hear nevertheless.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1171",
+      "number": "1171",
+      "ref": "1171–1185",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1171",
+          "text": "Servant\nYou must know then, that it was said to be his own child. But your lady within could say best how these matters lie.",
+          "ref": null
+        },
+        {
+          "n": "1173",
+          "text": "Oedipus\nHow? Did she give it to you?",
+          "ref": null
+        },
+        {
+          "n": "1173a",
+          "text": "Servant\nYes, my lord.",
+          "ref": null
+        },
+        {
+          "n": "1174",
+          "text": "Oedipus\nFor what purpose?",
+          "ref": null
+        },
+        {
+          "n": "1174a",
+          "text": "Servant\nThat I should do away with it.",
+          "ref": null
+        },
+        {
+          "n": "1175",
+          "text": "Oedipus\nHer own child, the wretched woman?",
+          "ref": null
+        },
+        {
+          "n": "1175a",
+          "text": "Servant\nYes, from fear of the evil prophecies.",
+          "ref": null
+        },
+        {
+          "n": "1176",
+          "text": "Oedipus\nWhat were they?",
+          "ref": null
+        },
+        {
+          "n": "1176a",
+          "text": "Servant\nThe tale ran that he would slay his father.",
+          "ref": null
+        },
+        {
+          "n": "1177",
+          "text": "Oedipus\nWhy, then, did you give him to this old man?",
+          "ref": null
+        },
+        {
+          "n": "1178",
+          "text": "Servant\nOut of pity, master, thinking that he would carry him to another land, from where he himself came. But he saved him for the direst woe. For if you are what this man says, be certain that you were born ill-fated.",
+          "ref": null
+        },
+        {
+          "n": "1182",
+          "text": "Oedipus\nOh, oh! All brought to pass, all true. Light, may I now look on you for the last time—I who have been found to be accursed in birth, accursed in wedlock, accursed in the shedding of blood. He rushes into the palace.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1186",
+      "number": "1186",
+      "ref": "1186–1195",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1186",
+          "text": "Chorus\nAlas, generations of mortals, how mere a shadow I count your life! Where, where is the mortal who attains a happiness which is more than apparent and doomed to fall away to nothing? Your fate warns me—yours, unhappy Oedipus—to call no earthly creature blessed.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1196",
+      "number": "1196",
+      "ref": "1196–1200",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1196",
+          "text": "Chorus\nFor he, O Zeus, shot his shaft with peerless skill, and won the prize of an all-prosperous fortune, having slain the maiden with crooked talons, who sang darkly. He arose for our land like a tower against death. And from that time, Oedipus, you have been called our king, and have been honored supremely, holding power in great Thebes.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1204",
+      "number": "1204",
+      "ref": "1204–1210",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1204",
+          "text": "Chorus\nBut now whose story is more grievous in men’s ears? Who is a more wretched slave to fierce plagues and troubles, with all his life reversed? Alas, renowned Oedipus! The same bounteous harbor was sufficient for you, both as child and as father, to make your nuptial couch in. Oh, how can the soil in which your father sowed, unhappy man, have endured you in silence for so long?",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1212",
+      "number": "1212",
+      "ref": "1212–1220",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1212",
+          "text": "Chorus\nTime the all-seeing has found you out, against your will: he judges the monstrous marriage in which parent and child have long been one. Alas, child of Laius, would that I had never seen you. I wail as one who pours a dirge from his lips. It was you who gave me new life, to speak directly, and through you darkness has fallen upon my eyes.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1223",
+      "number": "1223",
+      "ref": "1223–1236",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1223",
+          "text": "[A second messenger enters from the house.]",
+          "ref": null
+        },
+        {
+          "n": "1223",
+          "text": "Second Messenger\nYou who are most honored in this land, what deeds you will hear, what deeds you will behold, what burden of sorrow will be yours, if, true to your race, you still care for the house of Labdacus. For I think that neither the Ister nor the Phasis could wash this house clean, so many are the ills that it shrouds, or will soon bring to light, ills wrought not unwittingly, but on purpose. And those griefs smart the most which are seen to be of our own choice.",
+          "ref": null
+        },
+        {
+          "n": "1232",
+          "text": "Chorus\nIndeed the troubles which we knew before are far from being easy to bear. Besides them, what do you have to announce?",
+          "ref": null
+        },
+        {
+          "n": "1234",
+          "text": "Second Messenger\nThis is the shortest tale to tell and hear: our royal lady Iocasta is dead.",
+          "ref": null
+        },
+        {
+          "n": "1236",
+          "text": "Chorus\nAlas, wretched lady! From what cause?",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1237",
+      "number": "1237",
+      "ref": "1237–1280",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1237",
+          "text": "Second Messenger\nBy her own hand. You will not suffer the worst part of the painful event, since you do not behold the events. Nevertheless, so far as my memory serves, you will learn that unhappy woman’s fate. When, frantic, she passed within the vestibule, she rushed straight towards her marriage couch, clutching her hair with the fingers of both hands. Once within the chamber, she dashed the doors together behind her, then called on the name of Laius, long since a corpse, thinking of that son, born long ago, by whose hand the father was slain, leaving the mother to breed accursed offspring with his own child. And she bewailed the marriage in which, wretched woman, she had given birth to a twofold brood, husband by husband, children by her child. And how she perished is more than I know. For with a shriek Oedipus burst in, and did not allow us to watch her woe until the end: on him, as he rushed around, our eyes were set. To and fro he went, asking us to give him a sword, asking where he could find the wife who was no wife, but a mother whose womb had borne both him and his children. And in his frenzy a power greater than mortal man was his guide, for it was none of us mortals who were near. With a dread cry, as though someone beckoned him on, he sprang at the double doors, forced the bending bolts from the sockets, and rushed into the room. There we beheld the woman hanging by the neck in a twisted noose of swinging cords. And when he saw her, with a dread deep cry he released the halter by which she hung. And when the hapless woman was stretched out on the ground, then the sequel was horrible to see: for he tore from her raiment the golden brooches with which she had decorated herself, and lifting them struck his own eye-balls, uttering words like these: No longer will you behold such horrors as I was suffering and performing! Long enough have you looked on those whom you ought never to have seen, having failed in the knowledge of those whom I yearned to know—henceforth you shall be dark! With such a dire refrain, he struck his eyes with raised hand not once but often. At each blow the bloody eye-balls bedewed his beard, and sent forth not sluggish drops of gore, but all at once a dark shower of blood came down like hail. From the deeds of the two of them such ills have broken forth, not on one alone, but with mingled woe for man and wife. The old happiness of their ancestral fortune was once happiness indeed. But now today lamentation, ruin, death, shame,",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1285",
+      "number": "1285",
+      "ref": "1285",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1285",
+          "text": "Second Messenger (cont.)\nand every earthly ill that anyone could name are all theirs.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1286",
+      "number": "1286",
+      "ref": "1286–1295",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1286",
+          "text": "Chorus\nAnd does the sufferer have any respite from pain now?",
+          "ref": null
+        },
+        {
+          "n": "1287",
+          "text": "Second Messenger\nHe cries for some one to unbar the gates and show to all the Cadmeans his father’s slayer, his mother’s—the words must not pass my lips— in order to banish himself from the land and not to put the house under his own curse by waiting here. And yet he lacks strength, and one to guide his steps, for the anguish is more than he can bear. He will soon show this to you: look, the bars of the gates are withdrawn, and soon you will behold a sight which even he who abhors it must pity.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1297",
+      "number": "1297",
+      "ref": "1297–1312",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1297",
+          "text": "Chorus\nO dread fate for men to see, O most dreadful of all that I have set my eyes on! Unhappy one, what madness has come upon you? Who is the unearthly foe who, with a leap of more than mortal range has made your ill-starred life his prey? Alas, alas, you hapless man! I cannot even look on you, though there is much I desire to ask, much I desire to learn, much that draws my wistful gaze: with such a shuddering do you fill me!",
+          "ref": null
+        },
+        {
+          "n": "1308",
+          "text": "Oedipus\nWoe is me! Alas, alas, wretched that I am! Where, where am I carried in my misery? How is my voice swept abroad on the wings of the air? Oh, my fate, how far you have sprung!",
+          "ref": null
+        },
+        {
+          "n": "1312",
+          "text": "Chorus\nTo a dread place, dire in men’s ears, dire in their sight.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1313",
+      "number": "1313",
+      "ref": "1313–1320",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1313",
+          "text": "Oedipus\nOh horror of darkness that enfolds me, unspeakable visitant, resistless, sped by a wind too favorable! Oh, me! and once again, Oh, me! How my soul is pierced by the stab of these goads and by the memory of sorrows!",
+          "ref": null
+        },
+        {
+          "n": "1319",
+          "text": "Chorus\nNo wonder that amidst these woes you mourn and bear a double pain.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1321",
+      "number": "1321",
+      "ref": "1321–1327",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1321",
+          "text": "Oedipus\nAh, friend, you still are steadfast in your care for me, and still have patience to tend to the blind man! Ah, me! Your presence is not hidden from me—no, blind though I am, nevertheless I know your voice full well.",
+          "ref": null
+        },
+        {
+          "n": "1327",
+          "text": "Chorus\nMan of dread deeds, how could you quench your vision in this way? What divinity urged you on?",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1329",
+      "number": "1329",
+      "ref": "1329–1347",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1329",
+          "text": "Oedipus\nIt was Apollo, friends, Apollo who brought these troubles to pass, these terrible, terrible troubles. But the hand that struck my eyes was none other than my own, wretched that I am! Why should I see, when sight showed me nothing sweet?",
+          "ref": null
+        },
+        {
+          "n": "1336",
+          "text": "Chorus\nThese things were just as you say.",
+          "ref": null
+        },
+        {
+          "n": "1337",
+          "text": "Oedipus\nWhat, my friends, can I behold anymore, what can I love, what greeting can touch my ear with joy? Hurry, friends, lead me from the land, lead me from here, the utterly lost, the thrice-accursed, the mortal most hateful to the gods!",
+          "ref": null
+        },
+        {
+          "n": "1347",
+          "text": "Chorus\nWretched alike for your fortune and for your understanding of it, would that I had never known you!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1349",
+      "number": "1349",
+      "ref": "1349–1365",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1349",
+          "text": "Oedipus\nPerish the man, whoever he was, who freed me in the past years from the cruel shackle on my feet—a thankless deed! Had I died then, I would not have been so sore a grief to my friends and to my own soul.",
+          "ref": null
+        },
+        {
+          "n": "1356",
+          "text": "Chorus\nI too would have had it thus.",
+          "ref": null
+        },
+        {
+          "n": "1357",
+          "text": "Oedipus\nIn this way I would not have come to shed my father’s blood, or been known among men as the husband of the woman from whom I was born. Now I am forsaken by the gods, son of a defiled mother, successor to the bed of the man who gave me my own wretched being: if there is a woe surpassing all woes, it has become Oedipus’ lot.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1367",
+      "number": "1367",
+      "ref": "1367–1415",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1367",
+          "text": "Chorus\nI cannot agree that you have counseled well: you would have been better dead than living and blind.",
+          "ref": null
+        },
+        {
+          "n": "1369",
+          "text": "Oedipus\nDo not tell me that things have not been best done in this way: give me counsel no more. If I had sight, I know not with what eyes I could even have looked on my father, when I came to the house of Hades, or on my miserable mother, since against both I have sinned such sins as hanging myself could not punish. But do you think that the sight of children, born as mine were, was lovely for me to look upon? No, no, never lovely to my eyes! No, neither was this town with its towering walls, nor the sacred statues of the gods, since I, thrice wretched that I am— I, noblest of the sons of Thebes—have doomed myself to know them no more by commanding that all should reject the impious one, the one whom the gods have revealed as unholy, a member of Laius’ own race! After bearing such a stain upon myself, was I to look with steady eyes on this folk? No indeed: were there a way to choke the source of hearing, I would not have hesitated to make a fast prison of this wretched frame, so that I should have known neither sight nor sound. It is sweet for our thought to dwell beyond the sphere of grief. Alas, Cithaeron, why did you provide a shelter for me? When I was given to you, why did you not slay me straightway, that I might never reveal my origin to men. Ah, Polybus, ah, Corinth, and you that were called the ancient house of my father, how fair-seeming was I, your nurseling, and what evils were festering underneath! Now I am found to be evil and of evil birth. Oh you three roads, and you secret glen, you, thicket, and narrow way where three paths met— you who drank my father’s blood from my own hands—do you remember, perhaps, what deeds I have performed in your sight, and then what fresh deeds I went on to do when I came here? Oh marriage rites, you gave me birth, and when you had brought me forth, you again bore children to your child, you created an incestuous kinship of fathers, brothers, sons, brides, wives, and mothers—all the foulest deeds that are wrought among men! But it is improper to mention what it is improper to do— hurry, for the love of the gods, hide me somewhere beyond the land, or slay me, or cast me into the sea, where you will never behold me any longer! Approach—deign to lay your hands on a wretched man—listen and fear not: my plague can rest on no other mortal.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1416",
+      "number": "1416",
+      "ref": "1416–1445",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1416",
+          "text": "Chorus\nBut here is Creon in good time to plan and perform that which you request. He alone is left to guard the land in your place.",
+          "ref": null
+        },
+        {
+          "n": "1419",
+          "text": "Oedipus\nAh, me, how will I address him? What claim to credence can be shown on my part? For in the past I proved to be wholly false to him.",
+          "ref": null
+        },
+        {
+          "n": "1422",
+          "text": "[Enter Creon.]",
+          "ref": null
+        },
+        {
+          "n": "1422",
+          "text": "Creon\nI have not come to mock or reproach you with any any past fault.",
+          "ref": null
+        },
+        {
+          "n": "1424",
+          "text": "[To the Attendants.]",
+          "ref": null
+        },
+        {
+          "n": "1424",
+          "text": "Creon\nBut you, if you no longer respect the children of men, revere at least the all-nurturing flame of our lord the Sun, and don’t show so openly such a pollution as this, one which neither earth, nor holy rain, nor the light itself can welcome. Take him into the house as quickly as you can: it best accords with pity that kinfolk alone should see and hear a kinsman’s woes.",
+          "ref": null
+        },
+        {
+          "n": "1432",
+          "text": "Oedipus\nFor the gods’ love—since you have done a gentle violence to my prediction and come in a spirit so noble to me, a man most vile—grant me a favor: I will speak for your own good, not mine.",
+          "ref": null
+        },
+        {
+          "n": "1435",
+          "text": "Creon\nAnd what do you wish so eagerly to get from me?",
+          "ref": null
+        },
+        {
+          "n": "1436",
+          "text": "Oedipus\nCast me out of this land with all speed, to a place where no mortal shall be found to greet me.",
+          "ref": null
+        },
+        {
+          "n": "1438",
+          "text": "Creon\nThis I could have done, to be sure, except I craved first to learn from the god all my duty.",
+          "ref": null
+        },
+        {
+          "n": "1440",
+          "text": "Oedipus\nBut his pronouncement has been set forth in full—to let me perish, the parricide, unholy one that I am.",
+          "ref": null
+        },
+        {
+          "n": "1442",
+          "text": "Creon\nThus it was said. But since we have come to such a pass, it is better to learn clearly what should be done.",
+          "ref": null
+        },
+        {
+          "n": "1444",
+          "text": "Oedipus\nWill you, then, seek a response on behalf of such a wretch as I?",
+          "ref": null
+        },
+        {
+          "n": "1445",
+          "text": "Creon\nYes, for even you yourself will now surely put faith in the god.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1446",
+      "number": "1446",
+      "ref": "1446–1476",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1446",
+          "text": "Oedipus\nYes. And on you I lay this charge, to you I make this entreaty: give to the woman within such burial as you wish—you will properly render the last rites to your own. But never let this city of my father be condemned to have me dwelling within, as long as I live. No, allow me to live in the hills, where Cithaeron, famed as mine, sits, which my mother and father, while they lived, fixed as my appointed tomb, so that I may die according to the decree of those who sought to slay me. And yet I know this much, that neither sickness nor anything else can destroy me; for I would never have been snatched from death, except in order to suffer some strange doom. But let my fate go where it will. Regarding my children, Creon, I beg you to take no care of my sons: they are men, so that they will never lack the means to live wherever they should be. My two girls, poor hapless ones—who never knew my table spread separately, or lacked their father’s presence, but always had a share of all that reached my hands—I implore you to take care of them. And, if you can, allow me to touch them with my hands, and to indulge my grief. Grant it, prince, grant it, noble heart. Ah, if I could but once touch them with my hands, I would think that I had them just as when I had sight.",
+          "ref": null
+        },
+        {
+          "n": "1471",
+          "text": "[Creon’s Attendants lead in the children, Antigone and Ismene.]",
+          "ref": null
+        },
+        {
+          "n": "1471",
+          "text": "Oedipus (cont.)\nWhat is this? Oh, gods, can it be my loved ones that I hear sobbing, can Creon have taken pity on me and sent my children, my darlings? Am I right?",
+          "ref": null
+        },
+        {
+          "n": "1476",
+          "text": "Creon\nYou are. I have brought this about, for I knew the joy which you have long had from them—the joy you now have.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1478",
+      "number": "1478",
+      "ref": "1478–1515",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1478",
+          "text": "Oedipus\nBless you, and for this errand may the god prove a kinder guardian to you than he has to me. My children, where are you? Come, here, here to the hands of the one whose mother was your own, the hands that have made your father’s once bright eyes to be such orbs as these—his, who seeing nothing, knowing nothing, became your father by her from whom he was born! For you also do I weep, though I cannot see you, when I think of the bitter life that men will make you live in days to come. To what company of the citizens will you go, to what festival, from which you will not return home in tears, not sharing in the holiday? But when you reach a ripe age for marriage, who shall he be, who shall be the man, my daughters, to risk taking upon himself the reproaches that will certainly be baneful to my offspring and yours? What misery is lacking? Your father killed his own father, and bore you from the source of his own being! Such are the taunts that will be cast at you. And who then will wed you? The man does not live, no, it cannot be, my children, but you will wither in barren maidenhood. Son of Menoeceus, hear me: since you are the only father left to them—we, their parents, are both gone— do not allow them to wander poor and unwed, for they are your own kin, nor abase them to the level of my woes. Pity them, seeing them deprived of everything but you at such an age. Promise, noble man, and touch them with your hand. To you, children, I would have given much counsel, if your minds were mature. But now pray that you may live where occasion allows, and that the life which is your lot may be happier than your father’s.",
+          "ref": null
+        },
+        {
+          "n": "1515",
+          "text": "Creon\nYour grief has had a sufficient scope: move on into the house.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1516",
+      "number": "1516",
+      "ref": "1516–1530",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1516",
+          "text": "Oedipus\nI must obey, though I do it in no way gladly.",
+          "ref": null
+        },
+        {
+          "n": "1516a",
+          "text": "Creon\nYes, for it is in season that all things are good.",
+          "ref": null
+        },
+        {
+          "n": "1517",
+          "text": "Oedipus\nDo you know on what terms I will go?",
+          "ref": null
+        },
+        {
+          "n": "1517a",
+          "text": "Creon\nYou will tell me, and then I will know when I have heard them.",
+          "ref": null
+        },
+        {
+          "n": "1518",
+          "text": "Oedipus\nSee that you send me to dwell outside this land.",
+          "ref": null
+        },
+        {
+          "n": "1518a",
+          "text": "Creon\nYou ask for what the god must give.",
+          "ref": null
+        },
+        {
+          "n": "1519",
+          "text": "Oedipus\nBut to the gods I have become most hateful.",
+          "ref": null
+        },
+        {
+          "n": "1519a",
+          "text": "Creon\nThen you will quickly get your wish.",
+          "ref": null
+        },
+        {
+          "n": "1520",
+          "text": "Oedipus\nSo you consent?",
+          "ref": null
+        },
+        {
+          "n": "1520a",
+          "text": "Creon\nIt is not my way to say idly what I do not mean.",
+          "ref": null
+        },
+        {
+          "n": "1521",
+          "text": "Oedipus\nThen it is time to lead me away.",
+          "ref": null
+        },
+        {
+          "n": "1521a",
+          "text": "Creon\nCome, then, but let your children go.",
+          "ref": null
+        },
+        {
+          "n": "1522",
+          "text": "Oedipus\nNo, do not take them from me!",
+          "ref": null
+        },
+        {
+          "n": "1523",
+          "text": "Creon\nDo not wish to be master in all things: the mastery which you did attain has not followed you through life.",
+          "ref": null
+        },
+        {
+          "n": "1524",
+          "text": "Chorus\nResidents of our native Thebes, behold, this is Oedipus, who knew the renowned riddle, and was a most mighty man. What citizen did not gaze on his fortune with envy? See into what a stormy sea of troubles he has come! Therefore, while our eyes wait to see the final destined day, we must call no mortal happy until he has crossed life’s border free from pain.",
+          "ref": null
+        }
+      ]
+    }
+  ]
+}

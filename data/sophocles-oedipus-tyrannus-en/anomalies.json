@@ -1,0 +1,18 @@
+[
+  {
+    "where": "sophocles-oedipus-tyrannus-en / card-616 / sp[Oedipus]/l[n=625a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"No, for you persuade me that you are unworthy of trust.\""
+  },
+  {
+    "where": "sophocles-oedipus-tyrannus-en / card-800",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Oedipus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "sophocles-oedipus-tyrannus-en / card-999 / sp[Oedipus]/l[n=1015]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-oedipus-tyrannus-en / card-1416",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Creon\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  }
+]

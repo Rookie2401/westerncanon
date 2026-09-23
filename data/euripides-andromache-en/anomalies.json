@@ -1,0 +1,30 @@
+[
+  {
+    "where": "euripides-andromache-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-andromache-en / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-andromache-en / card-1 / sp[Andromache]/l[n=5]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"that have been or yet shall be\""
+  },
+  {
+    "where": "euripides-andromache-en / card-642 / sp[Menelaus]/l[n=645]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"son of a famous father, connected with me by marriage,Nauck regards this as an interpolation, not improbably.\""
+  },
+  {
+    "where": "euripides-andromache-en / card-1166 / sp[Chorus]/l[n=1170]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"by this sad mischanceκύρσας is probably corrupt. Nauck omits it, and marks a lacuna.\""
+  },
+  {
+    "where": "euripides-andromache-en / card-1226 / sp[Chorus]/l[n=1226]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"A dim form of divine appearance in seen hovering in mid air.\""
+  },
+  {
+    "where": "euripides-andromache-en / card-1231 / sp[Thetis]/l[n=1250]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"a goddess born and daughter of a god, This line is probably interpolated.\""
+  }
+]

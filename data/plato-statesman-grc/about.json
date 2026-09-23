@@ -1,0 +1,48 @@
+{
+  "workId": "plato-statesman-grc",
+  "title": "Πολιτικός",
+  "author": "Plato",
+  "language": "grc",
+  "edition": "Burnet 1905 (OCT, vol. 1)",
+  "editor": "John Burnet",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0059.tlg008.perseus-grc2); imported by scripts/import-plato-statesman-grc.",
+  "license": "Public domain (Burnet 1900s OCT text; ancient text). Digital transcription CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).",
+  "sections": [
+    {
+      "heading": "Plato's Statesman",
+      "paragraphs": [
+        "This is the Greek text of Plato's Πολιτικός (“Statesman”), covering Stephanus pages 257–311 — the traditional citation scheme for Plato, used by every modern edition and translation, running continuously from the printed 1578 Estienne (Stephanus) edition's own pagination rather than restarting per dialogue.",
+        "The text here is the original Greek, verbatim. Nothing is translated, modernised, normalised or silently corrected. Where the source is irregular — an editorially deleted word or clause, an editorial insertion, a manuscript reading Burnet flags but keeps — the irregularity is preserved and noted below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "John Burnet, ed., Platonis Opera, vol. 1 (Oxford: Clarendon Press, 1905). This Oxford Classical Texts (OCT) edition is the standard critical Greek text of Plato and the basis of nearly every modern translation, including the Loeb English translation bundled alongside it in this app.",
+        "Public-domain scan: https://archive.org/details/operarecognovitb01platuoft."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0059.tlg008.perseus-grc2 from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit GitHub repository (CTS urn:cts:greekLit:tlg0059.tlg008.perseus-grc2). It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The source divides the dialogue into one level of Stephanus-page divisions only (no Book division, unlike this app’s Republic/Laws imports) — each numbered exactly as the traditional printed citation gives it. Within a page, one or more paragraphs are each a single speaker’s turn; every paragraph is kept as its own paragraph (never merged with a neighbouring turn), joined by a blank line, and — where the source prints one — starts with the speaker’s printed abbreviation exactly as typeset (e.g. \"ΣΩ.\" / \"Soc.\") rather than repeating it on every paragraph of a longer speech, matching the print.",
+        "Finer Stephanus sub-page lettering (172a, 172b, 172c…) is stripped from the reading text — it is not a Division boundary in this app’s scheme, only the page level is. Quotation, citation and cross-reference markup used inline in the running text (quoted verse, citations like \"Hom. Il. 19.92\", technical/foreign-word glosses) is unwrapped to plain text and kept; nothing of this is commentary. Where the source itself prints no literal quotation-mark character around reported speech, none is added here — only what the source actually contains."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 55 Stephanus pages (257–311) are present, verified against an independently-checked page count for this dialogue and confirmed strictly monotonic (no gap, no duplicate) in the source markup itself.",
+        "18 <del> span(s) — text Burnet’s critical edition marks as a later interpolation or scribal error, not Plato’s own wording — are excluded from the reading text; every occurrence is logged individually in anomalies.json with its verbatim excerpt.",
+        "6 <add> editorial insertion(s) — a word or short phrase Burnet supplies where the manuscript tradition is defective — are kept verbatim in the reading text; every occurrence is logged individually.",
+        "Reference scheme: every passage and division ref is null. The Stephanus page number IS the citation (e.g. \"Statesman 257\"); this source’s finer a/b/c/d sub-page lettering is stripped as transport scaffolding (see “How it was imported” above), not tracked as a separate ref field."
+      ]
+    }
+  ]
+}

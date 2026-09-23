@@ -1,0 +1,18 @@
+[
+  {
+    "where": "sophocles-philoctetes-en / card-285",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Philoctetes\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "sophocles-philoctetes-en / card-1218 / sp[Odysseus]/l[n=1251a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-philoctetes-en / card-1257",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Neoptolemus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "sophocles-philoctetes-en / card-1348 / sp[Philoctetes]/l[n=1365]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"when, in the suit for the weapons, they judged unhappy Ajax inferior to Odysseus\""
+  }
+]

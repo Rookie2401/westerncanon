@@ -1,0 +1,126 @@
+[
+  {
+    "where": "euripides-phoenician-women-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-32 / sp[Jocasta]/l[n=50]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and so he became king of this land\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / speaker",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Antigone\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-103 / sp[[Antigone]]/l[n=141]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"How do you know them so clearly, old man?\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / speaker",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Old servant\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-103 / sp[[Old servant]]/l[n=142]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"I saw and learned the devices on their shields before, when I went with the terms of the truce to your brother, since I looked closely at them, I know the armed men.\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-355 / sp[Polyneices]/l[n=370]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"with hair cut short and in black robes\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-355 / sp[Polyneices]/l[n=375]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and how hard it makes reconciliation\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-426 / sp[Polyneices]/l[n=427]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Tydeus and myself; for he is my relative by marriage\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-549 / sp[Jocasta]/l[n=555]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Prosperity is not secure, but as transient as the day.\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-549 / sp[Jocasta]/l[n=562]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and his Argive warriors take the army of Cadmus,\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-657 / sp[Chorus]/l[n=665]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"PalIas,\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-690 / sp[Creon]/l[n=710]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"the city of Thebes and its towers, with their army.\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-737 / sp[Eteocles]/l[n=755]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and kill him, for coming to waste my country!\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-737 / sp[Eteocles]/l[n=775]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"This I say to you; and this to my servants\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-911 / sp[Teiresias]/l[n=911]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"if you observe it, you will save the city of Cadmus\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-960 / sp[Creon]/l[n=970]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"going to the seven gates and the captains\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-960 / sp[Menoeceus]/l[n=985b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"to give her greeting and then I will save my life\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1067 / sp[Jocasta]/l[n=1075]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"What tidings are you here to bring me?\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1104 / sp[Messenger]/l[n=1135]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"as he bore on his left arm the hydra\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1153 / sp[Messenger]/l[n=1180]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"his limbs were slung far apart, his head toward Olympus, his blood toward earth,\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1153 / sp[Messenger]/l[n=1185]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"while his legs and arms went spinning round like Ixion’s wheel\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1202 / sp[Messenger]/l[n=1225]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and said: O captains of Hellas,\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1310 / sp[Creon]/l[n=1310]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"as if it went through Acheron\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1340 / sp[Creon]/l[n=1345]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \":Alas for my sorrows! Oh, alas!\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1340 / sp[Messenger]/l[n=1356]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"so as to prevent your learning each event as it occurred\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1340 / sp[Messenger]/l[n=1360]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"chieftains both and two generals\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1340 / sp[Messenger]/l[n=1365]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Asking for a shameful crown, to kill his brother.\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1340 / sp[Messenger]/l[n=1370]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"And tears came to the eyes of many at their sad fate, and men looked at one another, casting their glances round.\""
+  },
+  {
+    "where": "euripides-phoenician-women-en / card-1625 / sp[Creon]/l[n=1630]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"let him be unwept, unburied, a meal for birds.\""
+  }
+]

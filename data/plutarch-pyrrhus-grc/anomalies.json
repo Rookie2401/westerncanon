@@ -1,0 +1,22 @@
+[
+  {
+    "where": "plutarch-pyrrhus-grc / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (0 code point(s) remapped in this file). Entity decoding found 0 XML entities in this witness (verified corpus-wide: the tlg0007 texts use literal Unicode characters throughout, never &...; escapes)."
+  },
+  {
+    "where": "plutarch-pyrrhus-grc / apparatus excluded",
+    "note": "17 <note> element(s) and 0 <bibl> element(s) (Perseus's own editorial/critical apparatus and citation-linking, never Perrin's printed prose) were excluded entirely, tag and content, at every nesting depth."
+  },
+  {
+    "where": "plutarch-pyrrhus-grc / structural markers dropped",
+    "note": "82 <pb/> page-break marker(s) and 30 <milestone/> marker(s) were dropped (zero-width; this work's citation scheme is by chapter number alone, carried in the Division id/number - see about.json \"Reference scheme\")."
+  },
+  {
+    "where": "plutarch-pyrrhus-grc / ch-7",
+    "note": "This chapter's text contains a standalone combining diacritic already present in the source XML (a dangling elision/breathing mark or misplaced accent) - preserved verbatim, not corrected."
+  },
+  {
+    "where": "plutarch-pyrrhus-grc / ch-29",
+    "note": "This chapter's text contains a standalone combining diacritic already present in the source XML (a dangling elision/breathing mark or misplaced accent) - preserved verbatim, not corrected."
+  }
+]

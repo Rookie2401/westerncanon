@@ -1,0 +1,30 @@
+[
+  {
+    "where": "euripides-suppliants-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-suppliants-en / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-suppliants-en / card-162 / sp[Adrastus]/l[n=162]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"True; and many a general owes defeat to that.\""
+  },
+  {
+    "where": "euripides-suppliants-en / card-162 / sp[Adrastus]/l[n=180]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"likewise, who maketh songs should take a pleasure in their making; for if it be not so with him, he will in no wise avail to gladden others, if himself have sorrow in his home; nay, ’tis not even right to expect it.\""
+  },
+  {
+    "where": "euripides-suppliants-en / card-286 / sp[Aethra]/l[n=300]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Probably spurious. for in this one single point thou failest, though well-advised in all else.\""
+  },
+  {
+    "where": "euripides-suppliants-en / card-726 / sp[Adrastus]/l[n=763a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-suppliants-en / card-798 / sp[Chorus]/l[n=806b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  }
+]

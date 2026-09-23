@@ -1,0 +1,22 @@
+[
+  {
+    "where": "euripides-heracles-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-heracles-en / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-heracles-en / card-359 / sp[Chorus]/l[n=360]",
+    "note": "<sic> excluded from reading text (rejected manuscript reading inside <choice>, editor prefers <corr>): \"auburn\""
+  },
+  {
+    "where": "euripides-heracles-en / card-359 / sp[Chorus]/l[n=360]",
+    "note": "<corr> included in reading text: \"yellow\""
+  },
+  {
+    "where": "euripides-heracles-en / card-442 / sp[Megara]/l[n=451]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"or rob me of my wretched life?\""
+  }
+]

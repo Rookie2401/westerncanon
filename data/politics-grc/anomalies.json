@@ -1,0 +1,482 @@
+[
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1252b]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Eur. IA 1400\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1252b]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hes. WD 405\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1252b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"παῖδάς τε καὶ παίδων παῖδας\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1252b]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Od. 9.114\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1253a]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Il. 9.63\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1253b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1254b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"αἰσθανόμενα\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1255a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὂν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1255b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ δίκαιον\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1255b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τις\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1256b]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Solon 13.71\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1257a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἦσαν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1259b]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Il. 1.544\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1260a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1260a]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Soph. Aj. 293\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1260b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δεσποτικήν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[1]/bekker_page[1260b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1261a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὴν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1261a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1262a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1264a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τοὺς\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1266b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τε\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1267a]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Il. 9.319\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1267a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἂν ἐπιθυμοῖεν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1267a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἂν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1268b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"αὐτῆς\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1269b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ταῖς\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1270b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"αὐτοὺς\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1273a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[2]/bekker_page[1273b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἡ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1275a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ γὰρ ταῦτα τούτοις ὑπάρχει\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1275a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὁ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1277a]",
+    "note": "<gap reason=\"ellipsis\"> kept as its literal printed text: \" . . . \""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1277a]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Eur. fr. 16\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1278a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"· αὐτὸ γὰρ φανὲν τὸ λεχθὲν ποιεῖ δῆλον\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1278a]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Il. 9.648\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1278a]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Il. 16.59\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1278b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ τῆς οἰκίας πάσης, ἣν δὴ καλοῦμεν οἰκονομικήν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1279b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"αἰτίας\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1283a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μέγεθος\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1283b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οἱ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1285a]",
+    "note": "<gap reason=\"ellipsis\"> kept as its literal printed text: \". . .\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1285a]",
+    "note": "<gap reason=\"ellipsis\"> kept as its literal printed text: \". . .\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1285a]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Il. 2.391\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1287a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δέ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1287b]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Il. 10.224\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1287b]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Il. 2.372\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1288a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[3]/bekker_page[1288b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀνάγκη δὴ τὸν μέλλοντα περὶ αὐτῆς ποιήσασθαι τὴν προσήκουσαν σκέψιν.\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1290a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἁρμονίασ?\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1291a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1291b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πολιτῶν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1293b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ καλοῦνται ἀριστοκρατίαι\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1293b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὡς\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1294a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τῆς ἀριστοκρατίας\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1294b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1295a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1295b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὄντα\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1297b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δεῖν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1298a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"αἱρησομένους\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1299a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δεῖ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1299a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δʼ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1300a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐκ πάντων\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1300a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ τὰ μὲν ἐκ τινῶν αἱρέσει τὰ δὲ κληρῷ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1300a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γίνεσθαι\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1300b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"αἱρέσει\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[4]/bekker_page[1300b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1302a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἡ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1306b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ τοῦτο\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1308b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ ἐν μοναρχίᾳ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1309a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἔστι\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1309b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἄλλας\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1310a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ ἴσον\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1310b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τε\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1311b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1314a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τοῦ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1314b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"εἰς\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1316a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οὔτʼ εἰ ἔσται\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[5]/bekker_page[1316a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ ἐν Καρχηδόνι\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[6]/bekker_page[1317b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὴν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[6]/bekker_page[1318a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κατʼ ἀριθμόν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[6]/bekker_page[1319a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὴν χώραν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[6]/bekker_page[1319b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἔργον\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[6]/bekker_page[1320b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἐν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[6]/bekker_page[1321b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὰ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1323a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"φίλους\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1323a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὥσπερ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1323b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ταύτας\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1324a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τοῦ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1324a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὴν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1326b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δʼ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1327a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οὖν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1328a]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Eur. fr. 965\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1328a]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Αnon. fr. 78 (Nauck)\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1328a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἔν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1328b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰς\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1329a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τοῦ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1329a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"περὶ αὐτοὺς\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1329a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὑπάρχειν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1329b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἀεὶ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1330a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἰδίους\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1330a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"αἱ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1333a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τε\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1334b]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\"**\"\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1334b]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\"**\"\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1335a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἢ μικρόν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1336a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἡ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1336a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐθίζειν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[7]/bekker_page[1337a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"εἶναι\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1337b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ τὴν ψυχὴν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1338a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σχολὴν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1338a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὁ\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1338a]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hom. Od. 9.5-6\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1338b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οὐδὲν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1339b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὅτι\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1341b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τρίτον\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1341b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὴν\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1342b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δηλοῖ δʼ ἡ ποίησις\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1342b]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δηλοῖ δʼ ἡ ποίησις,\""
+  },
+  {
+    "where": "politics-grc / edition[urn:cts:greekLit:tlg0086.tlg035.perseus-grc2]/book[8]/bekker_page[1342b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"διθύραμβον\""
+  }
+]

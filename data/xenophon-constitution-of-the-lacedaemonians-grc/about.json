@@ -1,0 +1,54 @@
+{
+  "workId": "xenophon-constitution-of-the-lacedaemonians-grc",
+  "title": "Λακεδαιμονίων Πολιτεία",
+  "author": "Xenophon",
+  "language": "grc",
+  "edition": "Marchant, Xenophontis Opera Omnia, vol. 5 (Oxford: Clarendon Press, 1920)",
+  "editor": "E. C. Marchant",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0032.tlg010.perseus-grc2), digitising E. C. Marchant's Oxford Classical Text edition (vol. 5, 1920); imported by scripts/import-xenophon. The raw file is fetched once (cached at scripts/import-xenophon/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Marchant's 1920 critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Xenophon's Constitution of the Lacedaemonians",
+      "paragraphs": [
+        "The Greek text here is E. C. Marchant's, verbatim (Xenophontis Opera Omnia, vol. 5, Oxford: Clarendon Press, 1920). Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "E. C. Marchant, ed., Xenophontis Opera Omnia, vol. 5 (Oxford: Clarendon Press, 1920), an Oxford Classical Text - Greek title \"Λακεδαιμονίων Πολιτεία\". The Loeb English translation used here is by E. C. Marchant (vol. 7, 1925).",
+        "Structure: chapter, then section (no book level). This edition carries 15 chapter(s), 119 section(s) total in this witness. (Perseus/CTS's own English work-title metadata reads \"Constitution of the Lacedaimonians\"; this app uses the more familiar \"Constitution of the Lacedaemonians\".)"
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0032.tlg010.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0032.tlg010.perseus-grc2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once (cached at scripts/import-xenophon/raw/) and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the flat sequence of chapter <div>s (no book wrapper in this source). Each Chapter becomes a leaf Division (`ch-N`) with exactly one Passage, collecting every <p> under that chapter's section children, in citation-number order, joined with a blank line.",
+        "Only transport/editorial scaffolding is removed: entities are decoded, whitespace collapsed, and Unicode normalised to NFC (a no-op for every one of these 14 source files - independently verified 0 code points remapped). <milestone unit=\"para\"/> markers (always redundant with an immediately-following <p> start) are dropped as zero-width. Editorial supplements (<add>) and corrections (<corr>, standalone or the printed half of a <choice><sic>/<corr> pair) ARE part of what this edition prints as its running text and are kept verbatim; text the editor brackets as suspected spurious or an interpolation (<del>) is likewise KEPT, wrapped in square brackets exactly as a critical edition prints editor-bracketed text - NOT excluded (only the unemended half of a <choice><sic> pair, and any translator footnote nested inside a <del>, are ever excluded); all logged individually in anomalies.json, full span verbatim. Translator/editorial footnotes (<note>, up to ~1450 in one file) and inline source-attribution labels for embedded quotations (<bibl>, e.g. \"Theognis\") are excluded entirely as apparatus, not Xenophon's own words, and counted."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by Chapter and Section (e.g. \"Constitution of the Lacedaemonians 1.1\"), Xenophon's and this edition's own numbering. This app's schema folds each chapter's sections into one Passage (see \"How it was imported\"), so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 15 chapters and 119 sections of this edition are present and in order.",
+        "20 <del> span(s) - text the editor brackets as suspected spurious or a later interpolation - are KEPT in the reading text, wrapped in square brackets exactly as the critical edition itself prints such text (e.g. this edition's bracketed recapitulation passages). This is NOT an exclusion: bracketed text is still Xenophon's edition's own printed text, just flagged by the editor as doubtful. Every occurrence is logged individually in anomalies.json, in full.",
+        "7 <add> editorial supplement(s) (filling a manuscript gap) were kept verbatim, since they ARE part of what this edition prints; logged individually.",
+        "1 standalone <sic> reading(s) (printed exactly as transmitted despite an apparent irregularity) and 0 <corr> editorial correction(s) were kept verbatim; 0 <choice><sic>/<corr></choice> pair(s) resolve to the printed <corr> reading, with the unemended <sic> reading excluded. All logged individually.",
+        "3 <gap reason=\"lost\"/> manuscript lacuna marker(s) were found; this edition prints no literal rendering at any of them (no \"rend\" attribute anywhere in this corpus), so nothing is fabricated. Logged individually."
+      ]
+    }
+  ]
+}

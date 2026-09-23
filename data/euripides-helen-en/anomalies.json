@@ -1,0 +1,34 @@
+[
+  {
+    "where": "euripides-helen-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-helen-en / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-helen-en / card-1 / sp[Helen]/l[n=5]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"because he spent his life in reverence of the gods,\""
+  },
+  {
+    "where": "euripides-helen-en / card-253 / sp[Helen]/l[n=255]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"For no other woman, Hellene or barbarian, gives birth to a white vessel of chicks, in which they say Leda bore me to Zeus.\""
+  },
+  {
+    "where": "euripides-helen-en / card-293 / sp[Helen]/l[n=295]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"To hang oneself, high in the air, is unseemly,\""
+  },
+  {
+    "where": "euripides-helen-en / card-293 / sp[Helen]/l[n=300]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"even slaves consider it undignified; but to stab oneself is noble and good, and the moment of rending life from the body is short.\""
+  },
+  {
+    "where": "euripides-helen-en / card-894 / sp[Helen]/l[n=905]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Wealth that is unjust, though it may bring some power, ought to be avoided.\""
+  },
+  {
+    "where": "euripides-helen-en / card-1512 / sp[Second Messenger]/l[n=1512]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"at last have I found thee in the palace; for new\""
+  }
+]

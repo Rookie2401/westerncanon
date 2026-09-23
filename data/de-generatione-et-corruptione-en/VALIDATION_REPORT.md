@@ -1,0 +1,39 @@
+# On Generation and Corruption (English, Joachim) validation report
+
+Generated: 2026-09-23T05:20:42.278Z
+
+**Result: PASS** — 0 error(s), 0 warning(s).
+
+## Counts
+
+- books: 2
+- chapters: 21
+- total passage chars: 155039
+- Book 1: 10 chapters (chapters 8-10 supplemented from archive.org — see anomalies)
+- Book 2: 11 chapters
+
+## Verbatim spot-check
+
+- OK — book-1 ch-1 incipit
+  - got: `Our next task is to study coming-to-be and passing-away. We are to distinguish the causes,`
+- OK — book endings
+  - got: `book1-join: ...Plato has set forth in the Timaeus. For although... | book1-tail:  and 'combination' is unification of the 'combinables', resulting from their 'alteration'. | book2-tail: stance' comes-to-be-whose 'substance' is such that it is essentially capable of not-being.`
+
+## Anomalies (preserved, not corrected)
+
+- **de-generatione-et-corruptione-en / book-1-ch-8** — Mid-sentence/mid-word cutoff in MIT's own source, supplemented from archive.org: MIT's live HTML response for gener_corr.1.i.html ends here, with no closing navigation footer, confirmed via direct HTTP fetch (received bytes exactly match the server's own declared Content-Length) and independently re-confirmed via a second fetch path. Last surviving MIT words: "...Such an assertion would commit him to doctrines like those which Plato has set forth in the Ti". Everything from "Timaeus." onward is supplied from a public-domain archive.org scan of the same H. H. Joachim translation (identifier worksofaristotle0002unse_a5k0, "The Works of Aristotle Translated into English", ed. W. D. Ross, Vol. II, Oxford: Clarendon Press, 1930), proof-read by eye against the scan's own page images; see this importer's module doc for the full verification account.
+- **de-generatione-et-corruptione-en / book-1-ch-9** — Chapter absent from MIT's own source entirely, supplemented from archive.org: MIT's Book I page never carried this chapter (it stops mid-way through Chapter 8). The whole chapter is supplied from a public-domain archive.org scan of the same H. H. Joachim translation (identifier worksofaristotle0002unse_a5k0, "The Works of Aristotle Translated into English", ed. W. D. Ross, Vol. II, Oxford: Clarendon Press, 1930), proof-read by eye against the scan's own page images; see this importer's module doc for the full verification account.
+- **de-generatione-et-corruptione-en / book-1-ch-10** — Chapter absent from MIT's own source entirely, supplemented from archive.org: MIT's Book I page never carried this chapter (it stops mid-way through Chapter 8). The whole chapter is supplied from a public-domain archive.org scan of the same H. H. Joachim translation (identifier worksofaristotle0002unse_a5k0, "The Works of Aristotle Translated into English", ed. W. D. Ross, Vol. II, Oxford: Clarendon Press, 1930), proof-read by eye against the scan's own page images; see this importer's module doc for the full verification account.
+- **de-generatione-et-corruptione-en / reference scheme** — MIT's Internet Classics Archive prints NO Bekker page/column/line markers anywhere in this work (verified by direct inspection of both book pages) - only silent, invisible `<A NAME="n">` deep-link anchors, sequentially numbered across each book with no relation to Bekker numbering and no visible rendering. Division.ref is null throughout for both Books and Chapters; nothing is fabricated to supply a citation scheme this source does not carry.
+- **de-generatione-et-corruptione-en / footnotes** — No footnotes or translator apparatus of any kind were found anywhere in this source (confirmed by direct inspection of both book pages) - there is nothing to strip or disclose beyond the ordinary transport scaffolding (page navigation, `<A NAME>` anchors).
+- **de-generatione-et-corruptione-en / completeness** — Book II is complete (11/11 chapters, confirmed both start and end markers present) with no supplementing needed. Book I is now also complete (10/10 chapters, matching Joachim's own numbering) but only because it is supplemented: MIT's own live source stops mid-word inside Chapter 8 and never carried Chapters 9-10 at all - see the book-1-ch-8, book-1-ch-9 and book-1-ch-10 entries above and this importer's module doc for the full verification account of the archive.org source used to complete it. Total: 21 chapters across 2 books, 18 of them wholly from MIT, 1 (book-1-ch-8) part MIT / part archive.org, and 2 (book-1-ch-9, book-1-ch-10) wholly from archive.org.
+- **de-generatione-et-corruptione-en / archive.org source verification** — The archive.org identifier nominally matching "the 1922 Joachim edition" (oncomingtobepass00arisuoft, "On coming-to-be and passing-away ... A revised text with introduction and commentary by Harold H. Joachim", Clarendon Press, 1922) was checked first and rejected: direct inspection shows it is Joachim's own separate Greek critical text with English introduction and commentary, which never prints a continuous English translation at all (his own preface explains the book grew from an attempted plain translation into a text-and-commentary edition instead) - not one word of it was used. The scan actually used, worksofaristotle0002unse_a5k0 ("The Works of Aristotle Translated into English", ed. W. D. Ross, Vol. II, Oxford: Clarendon Press, 1930), was verified to be the correct translation by an exact, word-for-word match against MIT's own surviving text at the overlap point ("Such an assertion would commit him to doctrines like those which Plato has set forth in the Timaeus."), continuing seamlessly from MIT's own mid-word cutoff.
+- **de-generatione-et-corruptione-en / angle-bracket supplements (Joachim's own editorial convention)** — In the archive.org scan, Joachim marks his own editorial supplements to the Greek - short words or clauses he has added to make the English read sensibly, distinct from Aristotle's own parenthetical asides - with angle brackets ⟨ ⟩, keeping ordinary round parentheses ( ) for Aristotle's own parentheses. This distinction is preserved verbatim in the three archive.org-sourced passages here (book-1-ch-8's tail and all of book-1-ch-9 and book-1-ch-10), each pair verified by eye against its own page image: ⟨the visual ray⟩ (book-1-ch-8, p. 326^b, flagged by the scan's own footnote "I have added these words..."), ⟨is only possible for those who hold an erroneous view concerning the divisibility of magnitudes. For us⟩ (book-1-ch-9, spanning pp. 326^b-327^a), and ⟨but not to another,⟩ (book-1-ch-10, p. 327^b, nested inside one of Aristotle's own round-bracketed asides, which stays round). MIT's own HTML for this work contains no "<" or "&lt;" anywhere (confirmed by direct inspection) - MIT's digitization has no equivalent marking at all for this convention, so a reader relying on MIT's surviving text alone cannot recover which of Joachim's own words were his added supplements; only the archive.org-sourced portion of this edition preserves that distinction.
+
+## Errors
+
+_none_
+
+## Warnings
+
+_none_

@@ -1,0 +1,34 @@
+[
+  {
+    "where": "de-divinatione-per-somnum-en / page",
+    "note": "Wikisource furniture templates dropped from the reading text (transport scaffolding only, no translated words removed): {{pd-old}} x2, {{translation license}} x1."
+  },
+  {
+    "where": "de-divinatione-per-somnum-en / page",
+    "note": "2 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): {{center|'''THE END'''}} | [[el:Περί της καθ΄ ύπνον μαντικής]]."
+  },
+  {
+    "where": "de-divinatione-per-somnum-en / source technique",
+    "note": "Every page of this work is ORDINARY WIKITEXT on English Wikisource (action=parse&prop=wikitext returns the real prose), not a djvu page-scan transclusion like data/metaphysics-en or data/categoriae-en. The translation is the same public-domain Oxford text, but the digitisation is a plaintext one: it prints no page-scan/proofreading markup, and marks its chapters with wiki-heading-Part-N marker(s). Disclosed rather than described as a page-scan provenance it does not have."
+  },
+  {
+    "where": "de-divinatione-per-somnum-en / footnotes stripped",
+    "note": "0 inline <ref>...</ref> footnote marker(s) were removed from the reading text across the whole work; the footnotes are translator/editorial apparatus, not Aristotle's text, and their content is not preserved anywhere in this build."
+  },
+  {
+    "where": "de-divinatione-per-somnum-en / completeness",
+    "note": "COMPLETE: both chapters of the standard division are present and untruncated. The page is real transcribed prose, not a stub."
+  },
+  {
+    "where": "de-divinatione-per-somnum-en / SIC reading preserved",
+    "note": "The page carries a {{SIC|he|be}} template — Wikisource's marker for \"the printed text really reads 'he' here, which looks like an error for 'be'\". Per this repo's rule never to silently correct a source, the reading the print actually carries is kept in the text and the suggested emendation is discarded, not applied."
+  },
+  {
+    "where": "de-divinatione-per-somnum-en / reference scheme",
+    "note": "Division.ref and Passage.ref are null throughout: this plaintext digitisation prints no Bekker page/column markers at all. No Bekker reference was reconstructed, because any such citation would be invented rather than read from the source."
+  },
+  {
+    "where": "de-divinatione-per-somnum-en / relation to the Greek sibling",
+    "note": "This English edition was parsed entirely independently of any Greek edition of the same treatise in this library; the two are not forced to agree on chapter boundaries, and no division in de-divinatione-per-somnum-en was adjusted to match a Greek text."
+  }
+]

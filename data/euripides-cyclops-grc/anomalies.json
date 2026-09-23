@@ -1,0 +1,166 @@
+[
+  {
+    "where": "euripides-cyclops-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 1 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-cyclops-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-cyclops-grc / card-1 / sp[Σιληνός]/l[n=13]",
+    "note": "<add> included in reading text: \"ἐγὼ\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-55 / sp[Χορός]/l[n=56]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"σπορὰς\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-55 / sp[Χορός]/l[n=62a]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"—νύττ’· οὐ τᾷδ’ οὔ; οὐ τᾷδε νεμῇ\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-55 / sp[Χορός]/l[n=62b]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κλιτὺν δροσεράν;\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-55 / sp[Χορός]/l[n=62c]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ὠή, ῥίψω πέτρον τάχα σου\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-55 / sp[Χορός]/l[n=62d]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"—ὕπαγ’ ὦ ὕπαγ’ ὦ κεράστα—\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-55 / sp[Χορός]/l[n=62e]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"μηλοβότα στασιωρὸν\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-55 / sp[Χορός]/l[n=62f]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Κύκλωπος ἀγροβάτα.\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-63 / sp[Χορός]/l[n=75]",
+    "note": "<add> included in reading text: \"ποῖ\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-131 / sp[Ὀδυσσεύς]/l[n=147a]",
+    "note": "<add> included in reading text: \"γὰρ\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-131 / sp[Σιληνός]/l[n=172]",
+    "note": "<add> included in reading text: \"οὐ\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-203 / sp[Σιληνός]/l[n=235a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-cyclops-grc / card-273 / sp[Ὀδυσσεύς]/l[n=296]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δύσφρον’ ὀνείδη Φρυξὶν οὐκ ἐδώκαμεν·\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-316 / sp[Κύκλωψ]/l[n=340]",
+    "note": "<add> included in reading text: \"δ’\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-356 / sp[Χορός]/l[n=358]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-cyclops-grc / card-361 / sp[Χορός]/l[n=365]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἔχει θυσίαν\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-369 / sp[Χορός]/l[n=369]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δωμάτων\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-369 / sp[Χορός]/l[n=370]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ξενικοὺς\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-369 / sp[Χορός]/l[n=374]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀνθρώπων\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-369 / sp[Χορός]/l[n=374a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-cyclops-grc / addSpan",
+    "note": "<addSpan spanTo=\"#a001\"/> marker present (source-editor athetesis/interpolation bracketing a suspect multi-line span, often crossing <l>/<sp> boundaries). Judgment call: treated as transparent bookkeeping only - the text it brackets is NOT excluded from the reading text, since both Perseus's own edition and translation still print/display it as running text and it carries the play's standard line citation; excluding it would silently truncate the play. The marker itself contributes no text."
+  },
+  {
+    "where": "euripides-cyclops-grc / card-369 / sp[Χορός]/l[n=374f]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἔχει θυσίαν\""
+  },
+  {
+    "where": "euripides-cyclops-grc / anchor",
+    "note": "<anchor xml:id=\"a001\"/> marker present (source-editor athetesis/interpolation bracketing a suspect multi-line span, often crossing <l>/<sp> boundaries). Judgment call: treated as transparent bookkeeping only - the text it brackets is NOT excluded from the reading text, since both Perseus's own edition and translation still print/display it as running text and it carries the play's standard line citation; excluding it would silently truncate the play. The marker itself contributes no text."
+  },
+  {
+    "where": "euripides-cyclops-grc / card-375 / sp[Ὀδυσσεύς]/l[n=382]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἐσήλθομεν χθόνα,\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-375 / sp[Ὀδυσσεύς]/l[n=395]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Αἰτναῖά τε σφαγεῖα πελέκεων γνάθοις.\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-375 / sp[Ὀδυσσεύς]/l[n=402]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"καθαρπάσας\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-409 / sp[Ὀδυσσεύς]/l[n=417]",
+    "note": "<add> included in reading text: \"τ’\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-409 / sp[Χορός]/l[n=439]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τὸν σίφωνα τὸν φίλον\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-409 / sp[Χορός]/l[n=440]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"χηρεύομεν. —τὸν δ’ οὐκ ἔχομεν κατ’ αὗ φαγεῖν.\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-441 / sp[Ὀδυσσεύς]/l[n=456]",
+    "note": "<add> included in reading text: \"’γὼ\""
+  },
+  {
+    "where": "euripides-cyclops-grc / speaker",
+    "note": "<add> included in reading text: \"Ημιχ.\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-503 / sp[Κύκλωψ]/l[n=504]",
+    "note": "<add> included in reading text: \"δὲ\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-511 / sp[Χορός]/l[n=513]",
+    "note": "<add> included in reading text: \"παπαπᾶ·\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-511 / sp[Χορός]/l[n=514]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἀμμένον δαΐα σὸν\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-511 / sp[Χορός]/l[n=515]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"χρόα χὡς\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-519 / sp[Σιληνός]/l[n=560b]",
+    "note": "<add> included in reading text: \"οὐ\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-566 / sp[Ὀδυσσεύς]/l[n=593]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ὠθεῖ\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-566 / sp[Ὀδυσσεύς]/l[n=604]",
+    "note": "<add> included in reading text: \"τα\""
+  },
+  {
+    "where": "euripides-cyclops-grc / card-663 / sp[Κύκλωψ]/l[n=707]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"προσβαίνων ποδί.\""
+  }
+]

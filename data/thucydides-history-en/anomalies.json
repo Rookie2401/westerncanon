@@ -1,0 +1,34 @@
+[
+  {
+    "where": "thucydides-history-en / front matter",
+    "note": "This file's <text> element carries a <front> before <body>: <front><div type=\"textpart\" subtype=\"speaker\"><list><item xml:id=\"corinthians\">Corinthians</item>...</list></div></front>, a 9-item dramatis-personae-style index of the who=\"...\" values used later by <said who=\"...\"> (Corinthians, Corcyreans, Pericles, Athenians, Archidamus, Sthenelaidas, Pausanias, Themistocles, Xerxes; 713 raw characters), not running text. Confirmed the ONLY content of <front>. Excluded automatically, by construction: this importer only ever reads between <body> and </body>; no <front> content of any kind reaches the parser."
+  },
+  {
+    "where": "thucydides-history-en / dialogue markup",
+    "note": "104 <said who=\"...\"> speech-turn wrappers (the Melian Dialogue, Book 5, and the Corcyra/Corinth debate, Book 1) were unwrapped like any other structural container. 1 of them (Book 5 section 86.1) carries bare text directly (\"The Melian commissioners answered:-\") with no inner <p> at all; captured the same way via this importer's union <p>/<said> depth tracking (mirrors scripts/import-plato-shared/parse.ts's said/label handling)."
+  },
+  {
+    "where": "thucydides-history-en / reading text",
+    "note": "2 <note resp=\"Crawley\"> element(s) (Crawley's own short source citations for quoted verse) were excluded entirely, tag and content."
+  },
+  {
+    "where": "thucydides-history-en / reading text",
+    "note": "3 <bibl> citation(s) (Perseus's own citation apparatus - a Homeric source reference inside <cit>, or a citation inside an already-excluded <note>) were excluded entirely, not part of Crawley's translated text."
+  },
+  {
+    "where": "thucydides-history-en / reading text",
+    "note": "65 <milestone unit=\"para\" ed=\"P\"/> markers (self-closing paragraph milestones, no text content) were dropped, not counted individually."
+  },
+  {
+    "where": "thucydides-history-en / reading text",
+    "note": "2 tag-boundary spacing artifact(s) (a redundant space directly before a closing punctuation mark, never legitimate English typesetting) were cleaned up - the leftover whitespace from a now-excluded/unwrapped tag boundary in this source's pretty-printed XML. Only the spacing is touched; no word is ever added, removed or changed."
+  },
+  {
+    "where": "thucydides-history-en / completeness",
+    "note": "Like the Greek sibling, this translation is unfinished at the very end of Book 8 (Thucydides's own narrative breaks off in the middle of 411 BC) - Crawley translates the source's final bracketed sentence (\"[When the winter after this summer is over the twenty-first year of this war will be completed.]\") with the same literal square brackets the Greek edition prints. See about.json."
+  },
+  {
+    "where": "thucydides-history-en / passage & division refs",
+    "note": "Division.ref and Passage.ref are null throughout: this source carries no page-marker or milestone citation scheme distinct from its own Book/Chapter numbering (matching the Greek sibling)."
+  }
+]

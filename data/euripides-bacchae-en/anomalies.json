@@ -1,0 +1,58 @@
+[
+  {
+    "where": "euripides-bacchae-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 1 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-bacchae-en / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-bacchae-en / card-170 / sp[Kadmos]/l[n=180]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Dionysus, who has appeared as a god to men\""
+  },
+  {
+    "where": "euripides-bacchae-en / card-215 / sp[Pentheus]/l[n=225]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"I mean Ino and Agave, who bore me to Echion, and\""
+  },
+  {
+    "where": "euripides-bacchae-en / card-215 / sp[Pentheus]/l[n=230]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Autonoe, the mother of Actaeon.\""
+  },
+  {
+    "where": "euripides-bacchae-en / card-266 / sp[Teiresias]/l[n=290]",
+    "note": "<add> included in reading text: \"protecting the real\""
+  },
+  {
+    "where": "euripides-bacchae-en / card-266 / sp[Teiresias]/l[n=315]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"modesty dwells always\""
+  },
+  {
+    "where": "euripides-bacchae-en / card-519 / sp[Chorus]/l[n=519]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-en / card-642 / sp[Pentheus]/l[n=651a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-en / card-1024 / sp[Second Messenger]/l[n=1025]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"the masters’ affairs are a concern to good servants\""
+  },
+  {
+    "where": "euripides-bacchae-en / card-1168 / sp[Chorus]/l[n=1183a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-en / card-1280 / sp[Kadmos]/l[n=1300a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-en / card-1280 / sp[Agave]/l[n=1329]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-en / card-1368 / sp[Kadmos]/l[n=1371]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  }
+]

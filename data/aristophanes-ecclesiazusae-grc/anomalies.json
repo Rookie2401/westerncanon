@@ -1,0 +1,74 @@
+[
+  {
+    "where": "aristophanes-ecclesiazusae-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-41 / sp[Πραξάγορα]/l[n=57]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-483 / sp[Χορός]/l[n=487a]",
+    "note": "<add> included in reading text: \"τἀνθένδε καὶ\""
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-504 / sp[Χορός]/l[n=514]",
+    "note": "<add> included in reading text: \"καὶ\""
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-604 / sp[Πραξάγορα]/l[n=628]",
+    "note": "<add> included in reading text: \"καὶ τοῖς μεγάλοις\""
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-604 / sp[Πραξάγορα]/l[n=629]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-635 / sp[Πραξάγορα]/l[n=636b]",
+    "note": "<add> included in reading text: \"γὰρ\""
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-746 / sp[Ἀνὴρ Β]/l[n=752]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-906 / sp[Γραῦς Α]/l[n=910]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-918 / sp[Γραῦς Α]/l[n=919a]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-918 / sp[Γραῦς Α]/l[n=919a]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-918 / sp[Γραῦς Α]/l[n=919aa]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-918 / sp[Γραῦς Α]/l[n=919aa]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-976 / sp[Γραῦς Α]/l[n=1008]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-1163 / sp[Χορός]/l[n=1164]",
+    "note": "<add> included in reading text: \"ὦ\""
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-1163 / sp[Χορός]/l[n=1166c]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "aristophanes-ecclesiazusae-grc / card-1163 / sp[Χορός]/l[n=1167]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  }
+]

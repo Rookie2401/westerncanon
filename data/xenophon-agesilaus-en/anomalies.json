@@ -1,0 +1,14 @@
+[
+  {
+    "where": "agesilaus-en / apparatus",
+    "note": "22 <bibl> inline source-attribution label(s) (e.g. naming the poet a quoted line traces to, such as \"Theognis\") excluded from the reading text - confirmed by direct inspection to be glued onto the surrounding text with no separating whitespace, i.e. editorial apparatus, never part of Xenophon's own sentence. Not logged individually."
+  },
+  {
+    "where": "agesilaus-en / apparatus",
+    "note": "38 <note> translator/editorial footnote(s) excluded entirely, at every nesting depth - never Xenophon's own words. Not logged individually (too numerous to be useful per-occurrence)."
+  },
+  {
+    "where": "ch 2 sec 20",
+    "note": "<gap reason=\"lost\"/> - a manuscript lacuna; this edition prints no literal rendering here (no \"rend\" attribute), so nothing is fabricated."
+  }
+]

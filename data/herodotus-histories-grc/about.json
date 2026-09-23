@@ -1,0 +1,56 @@
+{
+  "workId": "herodotus-histories-grc",
+  "title": "Ἱστορίαι",
+  "author": "Herodotus",
+  "language": "grc",
+  "editor": "A. D. Godley",
+  "edition": "Herodotus, with an English translation by A. D. Godley, 4 vols. (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920-1925), Loeb Classical Library",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0016.tlg001.perseus-grc2), digitising the Greek text as printed in A. D. Godley, ed. and trans., Herodotus, 4 vols. (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920-1925), Loeb Classical Library - citation taken verbatim from this file's own <sourceDesc> (the work-level __cts__.xml carries no description); imported by scripts/import-herodotus-histories-grc. The raw file is fetched once (cached at scripts/import-herodotus-histories-grc/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Godley's Greek text (from a 1920-1925 Loeb Classical Library edition) is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Herodotus's Histories - Greek",
+      "paragraphs": [
+        "This is the Greek text of Herodotus's Ἱστορίαι (\"Histories\" or \"Inquiries\"), the foundational work of Western historiography, recounting the causes and course of the Greco-Persian Wars alongside a vast ethnographic and geographic survey of the ancient world, in nine Books.",
+        "The text here is Godley's Greek, verbatim. Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "A. D. Godley, ed. and trans., Herodotus, 4 vols. (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920-1925), Loeb Classical Library. This edition is in the public domain.",
+        "The work is divided into 9 Books and, within each Book, numbered chapters (1578 total in this edition). 45 chapters across the work carry a single uppercase-letter suffix in this edition's own numbering (e.g. \"121A\"..\"121F\" in Book 2, \"7A\"/\"7B\" in Book 9) - a genuine subdivision of an existing chapter without renumbering what follows; see \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0016.tlg001.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0016.tlg001.perseus-grc2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book, chapter and (Perseus/Godley's own) section <div>s and collects EVERY <p> paragraph found anywhere under a chapter - regardless of how many sections lie between it and the chapter - in document order, into that chapter's single Passage (joined with a blank line when a chapter has more than one). Only transport scaffolding is removed: <q> (direct speech) and <quote>/ <cit>/<l> (quoted Homeric verse) are unwrapped, their text flowing into the surrounding prose. This edition's own apparatus is excluded from the reading text: <note> (short numbered footnote markers, 85 total, dropped entirely) and <bibl> (a citation of the Homeric source of a quotation, 4 total, dropped entirely). Two content-affecting decisions are individually logged: 19 <del> spans (text this edition's apparatus brackets as a probable interpolation) are KEPT in the reading text, wrapped in square brackets \"[...]\" - this app's corpus-wide policy for editor-bracketed text, matching how printed Oxford/Loeb texts render it, applied uniformly across Herodotus, Thucydides, the Greek drama corpus and Xenophon; 2 <choice><sic>/<corr></choice> pairs are resolved to the corrected reading, the literal transcription dropped. 15 <gap reason=\"ellipsis\"/> markers (an editorial ellipsis, no literal rendering given in this edition) are preserved as nothing extra. Entities are decoded and runs of whitespace collapsed; the words themselves are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter number, matching this edition's own numbering exactly (the standard scheme used across virtually all editions and translations of Herodotus). This source carries no finer, page-marker-style citation scheme, so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 9 Books and all 1578 chapters of this edition are present and in order, agreeing exactly, chapter for chapter, with the independently-parsed English sibling edition.",
+        "Letter-suffixed chapter numbers. 45 chapters across the work (e.g. Book 2's \"121A\"..\"121F\", Book 9's \"7A\"/\"7B\") carry a single uppercase-letter suffix in this edition's own numbering - a genuine subdivision of an existing chapter, confirmed by direct inspection and identical in the English sibling. Preserved verbatim, never renumbered; see anomalies.json for the full list.",
+        "Editor-bracketed text (<del>) is KEPT, not excluded. 19 <del> spans (text this edition's apparatus brackets as a probable interpolation or gloss) are kept in the reading text, wrapped in square brackets \"[...]\" exactly as printed Oxford/Loeb texts render editor-bracketed passages - this app's corpus-wide policy, applied uniformly across Herodotus, Thucydides, the Greek drama corpus and Xenophon. None of the 19 spans contains a nested tag or a literal \"[\"/\"]\" of its own, so no double-bracketing question arises. 2 <choice><sic>/<corr></choice> pairs are resolved to the corrected reading, the literal transcription dropped. Every occurrence of both is logged individually, with the <del> spans' FULL text (never truncated), in anomalies.json.",
+        "Book 6 chapter 122 is entirely bracketed as suspect. This one chapter's ENTIRE content - both its sections, the \"Alcmaeonid digression\" (Hdt. 6.121-124) defending that family against charges of Medism - sits inside <del> in this edition's apparatus. Under the bracket-and-keep policy above, this needs no special handling at all: the chapter's Passage text is simply \"[...]\", its two <del> spans kept whole - matching how published editions of this passage actually present it (printed, flagged as suspect, not blanked out).",
+        "15 <gap reason=\"ellipsis\"/> markers (scattered across Books 1, 2, 3, 4, 6, 7 and 8, not concentrated in any one passage) mark a point where this edition prints an editorial ellipsis with no literal rendering; nothing is fabricated to fill them. Every occurrence is logged individually.",
+        "85 <note> apparatus elements (short numbered footnote markers) and 4 <bibl> citations (of a quoted Homeric passage's source) were excluded entirely as scholarly apparatus, not part of Herodotus's own text.",
+        "Character encoding. The transcription uses precomposed polytonic Greek code points. The bytes are preserved exactly as transmitted; no normalisation was applied."
+      ]
+    }
+  ]
+}

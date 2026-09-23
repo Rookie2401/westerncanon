@@ -1,0 +1,50 @@
+{
+  "workId": "plutarch-comparison-of-pericles-and-fabius-maximus-grc",
+  "title": "Περικλέους καὶ Φαβίου σύγκρισις",
+  "author": "Plutarch",
+  "language": "grc",
+  "edition": "Perrin 1916 (Loeb Classical Library, vol. III)",
+  "editor": "Bernadotte Perrin",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0007.tlg014.perseus-grc2), digitising Bernadotte Perrin's Loeb Classical Library edition/translation of Plutarch's Comparison of Pericles and Fabius Maximus (vol. III, 1916); imported by scripts/import-plutarch (table-driven over all 66 works - see scripts/import-plutarch-shared/WORKS.md).",
+  "license": "Perrin's 1914-1926 Loeb edition and translation are in the public domain. The digital transcription is distributed by the Perseus Digital Library / Open Greek and Latin canonical-greekLit repository under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Plutarch's Comparison of Pericles and Fabius Maximus",
+      "paragraphs": [
+        "Part of Plutarch's Parallel Lives (Bioi Parálleloi), the original Greek of \"Comparison of Pericles and Fabius Maximus\", presented here in 3 chapters.",
+        "The text here is Bernadotte Perrin's Greek text, verbatim. Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Bernadotte Perrin, ed. and trans., Plutarch's Lives, Loeb Classical Library, Vol. III (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1916).",
+        "The Loeb Classical Library prints Perrin's Greek text and his facing English translation together; both are reproduced here as separate editions of the same underlying work, each verbatim in its own language."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0007.tlg014.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0007.tlg014.perseus-grc2) from the Perseus Digital Library / Open Greek and Latin canonical-greekLit repository. It was fetched once (cached at scripts/import-plutarch/raw/) and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Imported by a single table-driven importer (scripts/import-plutarch/index.ts + scripts/import-plutarch-shared/) shared across all 66 works of the corpus (132 language editions), not a per-work script. The importer walks the source's chapter divisions and, for each chapter, joins every paragraph found anywhere in its subtree - across whatever section divisions the source uses - into that chapter's single Passage (separated by a blank line). Only transport/editorial scaffolding is removed: Perseus's own critical/citation apparatus (every <note> and <bibl>, 2 and 0 respectively in this file - never Perrin's own prose), self-closing page and editorial paragraph markers (<pb>, <milestone>, dropped as zero-width), and purely typographic wrapper tags (<q>, <quote>, <foreign>, <cit>, <gloss>, <emph>, <hi>, <l>, <sp>/<speaker>) are unwrapped or dropped per the rules in the importer's own module docs (see scripts/import-plutarch-shared/teiWalker.ts). Entities are decoded and runs of whitespace collapsed; the words themselves are untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by chapter number only (Division.number, e.g. \"Comparison of Pericles and Fabius Maximus 3.2\"), matching how the Lives are traditionally cited (chapter.section, e.g. \"Theseus 3.2\") - Division id is `ch-N`, and its `number` renders as \"§ N\" in this app (intentional - see src/library/genericCorpus.ts). The source's own section subdivisions are preserved as paragraph breaks within each chapter's single joined Passage, not as separately addressable divisions; Passage.n is '' and Passage.ref is null throughout, and Division.ref is always null (this source carries no page-marker citation scheme independent of the chapter/section numbers already captured in the id)."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the full machine-readable list. In summary: 3 chapters, a clean 1..N sequence, matching the traditionally cited chapter count. 0 editorial gap(s) (<gap reason=\"lost\"/>), 0 editorial supplement(s) (<add>), and 0 manuscript correction(s) (<choice><sic>/<corr>) were preserved and logged exactly as the source marks them; none are silently smoothed over."
+      ]
+    }
+  ]
+}

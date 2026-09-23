@@ -1,0 +1,2501 @@
+{
+  "workId": "aristophanes-wasps-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "dramatis-personae",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "Dramatis Personae",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "PHILOCLEON, a Dicast.\nBDELYCLEON, his Son.\nSOSIAS, House-servant of Philocleon.\nXANTHIAS, House-servant of Philocleon.\nBOYS.\nA DOG.\nA BAKER'S WIFE.\nACCUSER.\nCHORUS OF ELDERS, costumed as Wasps.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "text",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "The Wasps",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "[SCENE: Philocleon's house at Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nWhy, Xanthias! what are you doing, wretched man?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nI am teaching myself how to rest; I have been awake and on watch the whole night.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nSo you want to earn trouble for your ribs, eh? Don't you know what sort of an animal we are guarding here?\n[Note 1: Meaning, Bdelycleon will thrash you if you do not keep a good watch on his father.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nAye indeed! but I want to put my cares to sleep for a while.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nBeware what you do. I too feel soft sleep spreading over my eyes. Resist it, for you must be as mad as a Corybant if you fall asleep.\n[Note 2: The Corybantes, priests of Cybelé, comported themselves like madmen in the celebration of their mysteries and made the air resound with the noise of their drums.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nNo! 'Tis Bacchus who lulls me off.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nThen you serve the same god as myself. Just now a heavy slumber settled on my eyelids like a hostile Mede; I nodded and, faith! I had a wondrous dream.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nIndeed! and so had I. A dream such as I never had before. But first tell me yours.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nMethinks I saw an eagle, a gigantic bird, descend upon the market-place; it seized a brazen buckler with its talons and bore it away into the highest heavens; then I saw 'twas Cleonymus had thrown it away.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nThis Cleonymus is a riddle worth propounding among guests. How can one and the same animal have cast away his buckler both on land, in the sky and at sea?\n[Note 3: Cleonymus had shown himself equally cowardly on all occasions; he is frequently referred to by Aristophanes, both in this and other comedies.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nAlas! what ill does such a dream portend for me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nRest undisturbed! An it please the gods, no evil will befall you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nNevertheless, 'tis a fatal omen when a man throws away his weapons. But what was your dream? Let me hear.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nOh! it is a dream of high import. It has reference to the hull of the State; to nothing less.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nTell it me quickly; show me its very keel.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nIn my first slumber I thought I saw sheep, wearing cloaks and carrying staves,met in assembly on the Pnyx; a rapacious whale was haranguing them and screaming like a pig that is being grilled.\n[Note 4: The cloak and the staff were the insignia of the dicasts; the poet describes them as sheep, because they were Cleon's servile tools.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nFaugh! faugh!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nWhat's the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nEnough, enough, spare me. Your dream stinks vilely of old leather.\n[Note 5: An allusion to Cleon, who was a tanner.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nThen this scoundrelly whale seized a balance and set to weighing ox-fat.\n[Note 6: In Greek, δημος (δημός, fat; δημος, people) means both fat and people.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nAlas! 'tis our poor Athenian people, whom this accursed beast wished to cut up and despoil of their fat.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nSeated on the ground close to it, I saw Theorus,who had the head of a crow. The Alcibiades said to me in his lisping way, \"Do you thee? Theoruth hath a crow'th head.\"\n[Note 7: A tool of Cleon's; he had been sent on an embassy to Persia (see 'The Acharnians'). The crow is a thief and rapacious, just as Theorus was.]\n[Note 8: In his life of Alcibiades, Plutarch mentions this defect in his speech; or it may have been a 'fine gentleman' affectation.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nAh! 'twas very well lisped indeed!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nThis is might strange; Theorus turning into a crow!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nNo, it is glorious.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nWhy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nWhy? He was a man and now he has suddenly become a crow; does it not foretoken that he will take his flight from here and go to the crows?\n[Note 9: Among the Greeks, going to the crows was equivalent to our going to the devil.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nInterpreting dreams so aptly certainly deserves two obols.\n[Note 10: No doubt the fee generally given to the street diviners who were wont to interpret dreams.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nCome, I must explain the matter to the spectators. But first a few words of preamble: expect nothing very high-flown from us, nor any jests stolen from Megara;we have no slaves, who throw baskets of nuts to the spectators, nor any Heracles to be robbed of his dinner,nor is Euripides loaded with contumely; and despite the happy chance that gave Cleon his fame we shall not go out of our way to belabour him again. Our little subject is not wanting in sense; it is well within your capacity and at the same time cleverer than many vulgar Comedies.—We have a master of great renown, who is now sleeping up there on the other story. He has bidden us keep guard over his father, whom he has locked in, so that he may not go out. This father has a curious complaint; not one of you could hit upon or guess it, if I did not tell you.—Well then, try! I hear Amynias, the son of Pronapus, over there, saying, \"He is addicted to gambling.\"\n[Note 11: Coarse buffoonery was welcomed at Megara, where, by the by, it is said that Comedy had its birth.]\n[Note 12: To gain the favour of the audience, the Comic poets often caused fruit and cakes to be thrown to them.]\n[Note 13: The gluttony of Heracles was a constant subject of jest with the Comic poets.]\n[Note 14: The incident of Pylos (see 'The Knights').]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nHe's wrong! He is imputing his own malady to others.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nNo, yet love is indeed the principal part of his disease. Ah! here is Sosias telling Dercylus, \"He loves drinking.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nNot at all! The love of wine is the complaint of good men.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\n\"Well then,\" says Nicostratus of the Scambonian deme, \"he either loves sacrifices or else strangers.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nAh! great gods! no, he is not fond of strangers, Nicostratus, for he who says \"Philoxenus\" means a dirty fellow.\n[Note 15: The Greek word for friend of strangers is Φιλόξενος, which happened also to be the name of one of the vilest debauchees in Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\n'Tis mere waste of time, you will not find it out. If you want to know it, keep silence! I will tell you our master's complaint: of all men, it is he who is fondest of the Heliaea.Thus, to be judging is his hobby, and he groans if he is not sitting on the first seat. He does not close an eye at night, and if he dozes off for an instant his mind flies instantly to the clepsydra.He is so accustomed to hold the balloting pebble, that he awakes with his three fingers pinched together as if he were offering incense to the new moon. If he sees scribbled on some doorway, \"How charming is Demos,the son of Pyrilampes!\" he will write beneath it, \"How charming is Cemos!\"His cock crowed one evening; said he, \"He has had money from the accused to awaken me too late.\"As soon as he rises from supper he bawls for his shoes and away he rushes down there before dawn to sleep beforehand, glued fast to the column like an oyster.He is a merciless judge, never failing to draw the convicting line and return home with his nails full of wax like a bumble-bee. Fearing he might run short of pebbles he keeps enough at home to cover a sea-beach, so that he may have the means of recording his sentence. Such is his madness, and all advice is useless; he only judges the more each day. So we keep him under lock and key, to prevent his going out; for his son is broken-hearted over this mania. At first he tried him with gentleness, wanted to persuade him to wear the cloak no longer,to go out no more; unable to convince him, he had him bathed and purified according to the ritual without any greater success, and then handed him over to the Corybantes;but the old man escaped them, and carrying off the kettle-drum,rushed right into the midst of the Heliasts. As Cybelé could do nothing with her rites, his son took him again to Aegina and forcibly made him lie one night in the temple of Asclepius, the God of Healing, but before daylight there he was to be seen at the gate of the tribunal. Since then we let him go out no more, but he escaped us by the drains or by the skylights, so we stuffed up every opening with old rags and made all secure; then he drove short sticks into the wall and sprang from rung to rung like a magpie. Now we have stretched nets all round the court and we keep watch and ward. The old man's name is Philocleon,'tis the best name he could have, and the son is called Bdelycleon,for he is a man very fit to cure an insolent fellow of his boasting.\n[Note 16: The tribunal of the Heliasts came next in dignity only to the Areopagus. The dicasts, or jurymen, generally numbered 500; at times it would call in the assistance of one or two other tribunals, and the number of judges would then rise to 1000 or even 1500.]\n[Note 17: A water-clock, used in the courts for limiting the time of the pleaders.]\n[Note 18: The pebble was held between the thumb and two fingers, in the same way as one would hold a pinch of incense.]\n[Note 19: A young Athenian of great beauty, also mentioned by Plato in his 'Gorgias.' Lovers were fond of writing the name of the object of their adoration on the walls (see 'The Acharnians').]\n[Note 20: Κημός, the Greek term for the funnel-shaped top of the voting urn, into which the judges dropped their voting pebbles.]\n[Note 21: Racine has introduced this incident with some modification into his 'Plaideurs.']\n[Note 22: Although called Heliasts (Ἥλιος, the sun), the judges sat under cover. One of the columns that supported the roof is here referred to.]\n[Note 23: The juryman gave his vote for condemnation by tracing a line horizontally across a waxed tablet. This was one method in use; another was by means of pebbles placed in one or other of two voting urns.]\n[Note 24: Used for the purpose of voting. There were two urns, one for each of the two opinions, and each heliast placed a pebble in one of them.]\n[Note 25: The Heliast's badge of office.]\n[Note 26: To prepare him for initiation into the mysteries of the Corybantes.]\n[Note 27: Who pretended to cure madness; they were priests of Cybelé.]\n[Note 28: The sacred instrument of the Corybantes.]\n[Note 29: Friend of Cleon, who had raised the daily salary of the Heliasts to three obols.]\n[Note 30: Enemy of Cleon.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nXanthias! Sosias! Are you asleep?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nOh! oh!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nWhat is the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nWhy, Bdelycleon is rising.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWill neither of you come here? My father has got into the stove-chamber and is ferreting about like a rat in his hole. Take care he does not escape through the bath drain. You there, put all your weight against the door.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nAye, aye, master.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nBy Zeus! what is that noise in the chimney? Hullo! who are you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI am the smoke going up.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nSmoke? smoke of what wood?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOf fig-wood.\n[Note 31: The smoke of fig-wood is very acrid, like the character of the Heliasts.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAh! 'this the most acrid of all. But you shall not get out. Where is the chimney cover?Come down again. Now, up with another cross-bar. Now look out some fresh dodge. But am I not the most unfortunate of men? Henceforward, I shall only be called the son of the smoky old man. Slave, hold the door stoutly, throw your weight upon it, come, put heart into the work. I will come and help you. Watch both lock and bolt. Take care he does not gnaw through the peg.\n[Note 32: Used for closing the chimney, when needed.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWhat are you doing, you wretches? Let me go out; it is imperative that I go and judge, or Dracontides will be acquitted.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhat a dreadful calamity for you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOnce at Delphi, the god, whom I was consulting, foretold, that if an accused man escaped me, I should die of consumption.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nApollo, the Saviour, what a prophecy!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh! I beseech you, if you do not want my death, let me go.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNo, Philocleon, no never, by Posidon!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWell then, I shall gnaw through the net with my teeth.\n[Note 33: Which had been stretched all round the courtyard to prevent his escape.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nBut you have no teeth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh! you rascal, how can I kill you? How? Give me a sword, quick, or a conviction tablet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nOur friend is planning some great crime.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nNo, by Zeus! but I want to go and sell my ass and its panniers, for 'this the first of the month.\n[Note 34: Market-day.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCould I not sell it just as well?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nNot as well as I could.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNo, but better. Come, bring it here, bring it here by all means—if you can.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nWhat a clever excuse he has found now! What cunning to get you to let him go out!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nYes, but I have not swallowed the hook; I scented the trick. I will go in and fetch the ass, so that the old man may not point his weapons that way again….Stupid old ass, are you weeping because you are going to be sold? Come, go a bit quicker. Why, what are you moaning and groaning for? You might be carrying another Odysseus.\n[Note 35: He enters the courtyard, returning with the ass, under whose belly Philocleon is clinging.]\n[Note 36: In the Odyssey (Bk. IX) Homer makes his hero, 'the wily' Odysseus, escape from the Cyclops' cave by clinging on under a ram's belly, which slips past its blinded master without noticing the trick played on him. Odysseus, when asked his name by the Cyclops, replies, Outis, Nobody.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nWhy, certainly, so he is! someone has crept beneath his belly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWho, who? Let us see.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\n'Tis he.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhat does this mean? Who are you? Come, speak!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI am Nobody.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNobody? Of what country?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOf Ithaca, son of Apodrasippides.\n[Note 37: A name formed out of two Greek words, meaning, running away on a horse.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHa! Mister Nobody, you will not laugh presently. Pull him out quick! Ah! the wretch, where has be crept to? Does he not resemble a she-ass to the life?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nIf you do not leave me in peace, I shall commence proceedings.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAnd what will the suit be about?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThe shade of an ass.\n[Note 38: The story goes that a traveller who had hired an ass, having placed himself in its shadow to escape the heat of the sun, was sued by the driver, who had pretended that he had let the ass, not but its shadow; hence the Greek proverb, to quarrel about the shade of an ass, i.e. about nothing at all.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nYou are a poor man of very little wit, but thoroughly brazen.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nA poor man! Ah! by Zeus! you know not now what I am worth; but you will know when you disembowel the old Heliast's money bag.\n[Note 39: When you inherit from me.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCome, get back indoors, both you and your ass.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh! my brethren of the tribunal! oh! Cleon! to the rescue!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nGo and bawl in there under lock and key. And you there, pile plenty of stones against the door, thrust the bolt home into the staple, and to keep this beam in its place roll that great mortar against it. Quick's the word.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nOh! my god! whence did this brick fall on me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nPerhaps a rat loosened it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nA rat? 'tis surely our gutter-judge,who has crept beneath the tiles of the roof.\n[Note 40: There is a similar incident in the 'Plaideurs.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nAh! woe to us! there he is, he has turned into a sparrow; he will be flying off. Where is the net? where? pschit! pschit! get back!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAh! by Zeus! I would rather have to guard Scioné than such a father.\n[Note 41: A Macedonian town in the peninsula of Pallené; it had shaken off the Athenian yoke and was not retaken for two years.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nAnd how that we have driven him in thoroughly and he can no longer escape without our knowledge, can we not have a few winks of sleep, no matter how few?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhy, wretch! the other jurymen will be here almost directly to summon my father!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nWhy, 'tis scarcely dawn yet!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAh, they must have risen late to-day. Generally it is the middle of the night when they come to fetch him. They arrive here, carrying lanterns in their hands and singing the charming old verses of Phrynichus' \"Sidonian Women\";'tis their way of calling him.\n[Note 42: A disciple of Thespis, who even in his infancy devoted himself to the dramatic art. He was the first to introduce female characters on the stage. He flourished about 500 B.C., having won his first prize for Tragedy in 511 B.C., twelve years before Aeschylus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nWell, if need be, we will chase them off with stones.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhat! you dare to speak so? Why, this class of old men, if irritated, becomes as terrible as a swarm of wasps. They carry below their loins the sharpest of stings, with which to sting their foe; they shout and leap and their stings burn like so many sparks.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nHave no fear! If I can find stones to throw into this nest of jurymen-wasps, I shall soon have them cleared off.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nMarch on, advance boldly and bravely! Comias, your feet are dragging; once you were as tough as a dog-skin strap and now even Charinades walks better than you. Ha! Strymodorus of Conthylé, you best of mates, where is Euergides and where is Chales of Phyla? Ha, ha, bravo! there you are, the last of the lads with whom we mounted guard together at Byzantium.Do you remember how, one night, prowling round, we noiselessly stole the kneading-trough of a baker's-wife; we split it in two and cooked our green-stuff with it.—But let us hasten, for the case of the Laches comes on to-day, and they all say he has embezzled a pot of money. Hence Cleon, our protector, advised us yesterday to come early and with a three days' stock of fiery rage so as to chastise him for his crimes. Let us hurry, comrades, before it is light; come, let us search every nook with our lanterns to see whether those who wish us ill have not set us some trap.\n[Note 43: Originally subjected to Sparta by Pausanias in 478 B.C., it was retaken by Cimon in 471, or forty-eight years previous to the production of 'The Wasps.' The old Heliasts refer to this latter event.]\n[Note 44: An Athenian general, who had been defeated when sent to Sicily with a fleet to the succour of Leontini; no doubt Cleon had charged him with treachery.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BOY\nAh! here is mud! Father, take care!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nPick up a blade of straw and trim the lamp of your lantern.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BOY\nNo, I can trim it quite well with my finger.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWhy do you pull out the wick, you little dolt? Oil is scarce, and 'tis not you who suffer when it has to be paid for. [Strikes him.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BOY\nIf you teach us again with your fists, we shall put out the lamps and go home; then you will have no light and will squatter about in the mud like ducks in the dark.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nI know how to punish other offenders bigger than you. But I think I am treading in some mud. Oh! 'tis certain it will rain in torrents for four days at least; look, what thieves are in our lamps; that is always a sign of heavy rain; but the rain and the north wind will be good for the crops that are still standing…. Why, what can have happened to our mate, who lives here? Why does he not come to join our party? There used to be no need to haul him in our wake, for he would march at our head singing the verses of Phrynichus; he was a lover of singing. Should we not, friends, make a halt here and sign to call him out? The charm of my voice will fetch him out, if he hears it. Why does the old man not show himself before the door? why does he not answer? Has he lost his shoes? has he stubbed his toe in the dark and thus got a swollen ankle? Perhaps he has a tumour in his groin. He was the hardest of us all; he alone never allowed himself to be moved. If anyone tried to move him, he would lower his head, saying, \"You might just as well try to boil a stone.\" But I bethink me, an accused man escaped us yesterday through his false pretence that he loved Athens and had been the first to unfold the Samian plot.Perhaps his acquittal has so distressed Philocleon that he is abed with fever—he is quite capable of such a thing.—Friend, arise, do not thus vex your hear, but forget your wrath. Today we have to judge a man made wealthy by treason, one of those who set Thrace free;we have to prepare him a funeral urn … so march on, my boy, get a-going.\n[Note 45: The Samians were in league with the Persians, but a certain Carystion betrayed the plot, and thanks to this the Athenians were able to retake Samos before the island had obtained help from Asia.]\n[Note 46: The towns of Thrace, up to that time the faithful allies of Athens, were beginning to throw off her yoke.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BOY\nFather, would you give me something if I asked for it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAssuredly, my child, but tell me what nice thing do you want me to buy you? A set of knuckle-bones, I suppose.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BOY\nNo, dad, I prefer figs; they are better.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nNo, by Zeus! even if you were to hang yourself with vexation.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BOY\nWell then, I will lead you no farther.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWith my small pay, I am obliged to buy bread, wood, stew; and now you ask me for figs!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BOY\nBut, father, if the Archon should not form a court to-day, how are we to buy our dinner? Have you some good hope to offer us or merely \"Hellé's sacred waves\"?\n[Note 47: Who fulfilled the office of president.]\n[Note 48: Meaning, \"Will it only remain for us to throw ourselves into the water?\" Hellé, taken by a ram across the narrow strait, called the Hellespont after her name, fell into the waves and was drowned.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAlas! alas! I have not a notion how we shall dine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BOY\nOh! my poor mother! why did you let me see this day?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh! my little wallet! you seem like to be a mere useless ornament!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BOY\n'Tis our destiny to groan. PHILOCLEON.My friends, I have long been pining away while listening to you from my window, but I absolutely know not what do do. I am detained here, because I have long wanted to go with you to the law court and do all the harm I can. Oh! Zeus! cause the peals of thy thunder to roll, change me quickly into smoke or make me into a Proxenides, a perfect braggart, like the son of Sellus. Oh, King of Heaven! hesitate not to grant me this favour, pity my misfortune or else may thy dazzling lightning instantly reduce me to ashes; then carry me hence, and may thy breath hurl me into some burning pickle or turn me into one of the stones on which the votes are counted.\n[Note 49: He is a prisoner inside, and speaks through the closed doors.]\n[Note 50: This boiling, acid pickle reminds him of the fiery, acrid temper of the heliasts.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWho is it detains you and shuts you in? Speak, for you are talking to friends.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\n'Tis my son. But no bawling, he is there in front asleep; lower your voice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nBut, poor fellow, what is his aim? what is his object?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nMy friends, he will not have me judge nor do anyone any ill, but he wants me to stay at home and enjoy myself, and I will not.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThis wretch, this Demolochocleon dares to say such odious things, just because you tell the truth about our navy!\n[Note 51: A name invented for the occasion; it really means, Cleon who holds the people in his snares.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHe would not have dared, had he not been a conspirator.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nMeanwhile, you must devise some new dodge, so that you can come down here without his knowledge.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut what? Try to find some way. For myself, I am ready for anything, so much do I burn to run along the tiers of the tribunal with my voting-pebble in my hand.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThere is surely some hole through which you could manage to squeeze from within, and escape dressed in rags, like the crafty Odysseus.\n[Note 52: When he entered Troy as a spy.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nEverything is sealed fast; not so much as a gnat could get through. Think of some other plan; there is no possible hold of escape.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nDo you recall how, when you were with the army at the taking of Naxos,you descended so readily from the top of the wall by means of the spits you have stolen?\n[Note 53: The island of Naxos was taken by Cimon, in consequence of sedition in the town of Naxos, about fifty years before the production of 'The Wasps.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI remember that well enough, but what connection is there with present circumstances? I was young, clever at thieving, I had all my strength, none watched over me, and I could run off without fear. But to-day men-at-arms are placed at every outlet to watch me, and two of them are lying in wait for me at this very door armed with spits, just as folk lie in wait for a cat that has stolen a piece of meat.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nCome, discover some way as quick as possible. Here is the dawn come, my dear little friend.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThe best way is to gnaw through the net. Oh! goddess, who watches over the nets,forgive me for making a hole in this one.\n[Note 54: One of the titles under which Artemis, the goddess of the chase, was worshipped.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n'Tis acting like a man eager for his safety. Get your jaws to work!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThere! 'tis gnawed through! But no shouting! let Bdelycleon notice nothing!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHave no fear, have no fear! if he breathes a syllable, 'twill be to bruise his own knuckles; he will have to fight to defend his own head. We shall teach him not to insult the mysteries of the goddesses.But fasten a rope to the window, tie it around your body and let yourself down to the ground, with your heart bursting with the fury of Diopithes.\n[Note 55: Demeter and Persephone. This was an accusation frequently brought against people in Athens.]\n[Note 56: An orator of great violence of speech and gesture.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut if these notice it and want to fish me up and drag me back into the house, what will you do? Tell me that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWe shall call up the full strength of our courage to your aid. That is what we will do.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI trust myself to you and risk the danger. If misfortune overtakes me, take away my body, bathe it with your tears and bury it beneath the bar of the tribunal.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nNothing will happen to you, rest assured. Come friend, have courage and let yourself slide down while you invoke your country's gods.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh! mighty Lycus!noble hero and my neighbour, thou, like myself, takest pleasure in the tears and the groans of the accused. If thou art come to live near the tribunal, 'tis with the express design of hearing them incessantly; thou alone of all the heroes hast wished to remain among those who weep. Have pity on me and save him, who lives close to thee; I swear I will never make water, never, nor relieve my belly with a fart against the railing of thy statue.\n[Note 57: For Philocleon, the titulary god was Lycus, the son of Pandion, the King of Athens, because a statue stood erected to him close to the spot where the tribunals sat, and because he recognized no other fatherland but the tribunals.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHo there! ho! get up!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nWhat's the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nMethought I heard talking close to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nIs the old man at it again, escaping through some loophole?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNo, by Zeus! no, but he is letting himself down by a rope.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nHa, rascal! what are you doing there? You shall not descend.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nMount quick to the other window, strike him with the boughs that hang over the entrance; perchance he will turn back when he feels himself being thrashed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nTo the rescue! all you, who are going to have lawsuits this year—Smicythion, Tisiades, Chremon and Pheredipnus. 'Tis now or never, before they force me to return, that you must help.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWhy do we delay to let loose that fury, that is so terrible, when our nests are attacked? I feel my angry sting is stiffening, that sharp sting, with which we punish our enemies. Come, children, cast your cloaks to the winds, run, shout, tell Cleon what is happening, that he may march against this foe to our city, who deserves death, since he proposes to prevent the trial of lawsuits.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nFriends, listen to the truth, instead of bawling.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nBy Zeus! we will shout to heaven and never forsake our friend. Why, this is intolerable, 'tis manifest tyranny. Oh! citizens, oh! Theorus,the enemy of the gods! and all you flatterers, who rule us! come to our aid.\n[Note 58: A debauchee and an embezzler of public funds, already mentioned a little above.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nBy Heracles! they have stings. Do you see them, master?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\n'Twas with these weapons that they killed Philippus the son of Gorgias when he was put on trial.\n[Note 59: Aristophanes speaks of him in 'The Birds' as a traitor and as an alien who usurped the rights of the city.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAnd you too shall die. Turn yourselves this way, all, with your stings out for attack and throw yourselves upon him in good and serried order, and swelled up with wrath and rage. Let him learn to know the sort of foes he has dared to irritate.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nThe fight will be fast and furious, by great Zeus! I tremble at the sight of their stings.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nLet this man go, unless you want to envy the tortoise his hard shell.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nCome, my dear companions, wasps with relentless hearts, fly against him, animated with your fury. Sting him in the back, in his eyes and on his fingers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nMidas, Phryx, Masyntias, here! Come and help. Seize this man and hand him over to no one, otherwise you shall starve to death in chains. Fear nothing, I have often heard the crackling of fig-leaves in the fire.\n[Note 60: A Greek proverb signifying \"Much ado about nothing.\"]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nIf you won't let him go, I shall bury this sting in your body.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh, Cecrops, mighty hero with the tail of a dragon! Seest thou how these barbarians ill-use me—me, who have many a time made them weep a full bushel of tears?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nIs not old age filled with cruel ills? What violence these two slaves offer to their old master! they have forgotten all bygones, the fur-coats and the jackets and the caps he bought for them; in winter he watched that their feet should not get frozen. And only see them now; there is no gentleness in their look nor any recollection of the slippers of other days.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWill you let me go, you accursed animal? Don't you remember the day when I surprised you stealing the grapes; I tied you to an olive-tree and I cut open your bottom with such vigorous lashes that folks thought you had been pedicated. Get away, you are ungrateful. But let go of me, and you too, before my son comes up.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nYou shall repay us for all this and 'twill not be long first. Tremble at our ferocious glance; you shall taste our just anger.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nStrike! strike, Xanthias! Drive these wasps away from the house.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nThat's just what I am doing; but do you smoke them out thoroughly too.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nYou will not go? The plague seize you! Will you not clear off? Xanthias, strike them with your stick!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nAnd you, to smoke them out better, throw Aeschinus, the son of Selartius, on the fire. Ah! we were bound to drive you off in the end.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nEh! by Zeus! you would not have put them to flight so easily if they had fed on the verses of Philocles.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nIt is clear to all the poor that tyranny has attacked us sorely. Proud emulator of Amynias, you, who only take pleasure in doing ill, see how you are preventing us from obeying the laws of the city; you do not even seek a pretext or any plausible excuse, but claim to rule alone.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHold! A truce to all blows and brawling! Had we not better confer together and come to some understanding?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nConfer with you, the people's foe! with you, a royalist, the accomplice of Brasidas!with you, who wear woollen fringes on your cloak and let your beard grow!\n[Note 61: A Spartan general, who perished in the same battle as Cleon, before Amphipolis, in 422 B.C.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAh! it were better to separate altogether from my father than to steer my boat daily through such stormy seas!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh! you have but reached the parsley and the rue, to use the common saying.What you are suffering is nothing! but welcome the hour when the advocate shall adduce all these same arguments against you and shall summon your accomplices to give witness.\n[Note 62: Meaning, the mere beginnings of any matter.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nIn the name of the gods! withdraw or we shall fight you the whole day long.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nNo, not as long as I retain an atom of breath. Ha! your desire is to tyrannize over us!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nEverything is now tyranny with us, no matter what is concerned, whether it be large or small. Tyranny! I have not heard the word mentioned once in fifty years, and now it is more common than salt-fish, the word is even current on the market. If you are buying gurnards and don't want anchovies, the huckster next door, who is selling the latter, at once exclaims, \"That is a man, whose kitchen savours of tyranny!\" If you ask for onions to season your fish, the green-stuff woman winks one eye and asks, \"Ha! you ask for onions! are you seeking to tyrannize, or do you think that Athens must pay you your seasonings as a tribute?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nYesterday I went to see a gay girl about noon and suggested she should mount and ride me; she flew into a rage, pretending I wanted to restore the tyranny of Hippias.\n[Note 63: This 'figure of love'—woman atop of the man—is known in Greek as Ἵππος (Latin equus, 'the horse'); note the play upon words with the name Hippias.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nThat's the talk that pleases the people! As for myself, I want my father to lead a joyous life like Morychus instead of going away before dawn to basely calumniate and condemn; and for this I am accused of conspiracy and tyrannical practice!\n[Note 64: A tragic poet, who was a great lover of good cheer, it appears.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAnd quite right too, by Zeus! The most exquisite dishes do not make up to me for the life of which you deprive me. I scorn your red mullet and your eels, and would far rather eat a nice little law suitlet cooked in the pot.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\n'Tis because you have got used to seeking your pleasure in it; but if you will agree to keep silence and hear me, I think I could persuade you that you deceive yourself altogether.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI deceive myself, when I am judging?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nYou do not see that you are the laughing-stock of these men, whom you are ready to worship. You are their slave and do not know it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI a slave, I, who lord it over all!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNot at all, you think you are ruling when you are only obeying. Tell me, father, what do you get out of the tribute paid by so many Greek towns?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nMuch, and I appoint my colleagues jurymen.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAnd I also. Release him, all of you, and bring me a sword. If my arguments do not prevail I will fall upon this blade. As for you, tell me whether you accept the verdict of the Court.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nMay I never drink my Heliast's pay in honour of the good Genius, if I do not.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nTis now we have to draw upon our arsenal for some fresh weapon; above all do not side with this youth in his opinions. You see how serious the question has become; 'twill be all over with us, which the gods forfend, if he should prevail.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nLet someone bring me my tablets with all speed!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nYour tablets? Ha, ha! what an importance you would fain assume!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nI merely wish to note down my father's points.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut what will you say of it, if he should triumph in the debate?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThat old men are no longer good for anything; we shall be perpetually laughed at in the streets, shall be called thallophores,mere brief-bags. You are to be the champion of all our rights and sovereignty. Come, take courage! Bring into action all the resources of your wit.\n[Note 65: Old men, who carried olive branches in the processions of the Panathenaea. Those whose great age or infirmity forbade their being used for any other purpose were thus employed.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAt the outset I will prove to you that there exists no king whose might is greater than ours. Is there a pleasure, a blessing comparable with that of a juryman? Is there a being who lives more in the midst of delights, who is more feared, aged though he be? From the moment I leave my bed, men of power, the most illustrious in the city, await me at the bar of the tribunal; the moment I am seen from the greatest distance, they come forward to offer me a gentle hand,—that has pilfered the public funds; they entreat me, bowing right low and with a piteous voice, \"Oh! father,\" they say, \"pity me, I adjure you by the profit you were able to make in the public service or in the army, when dealing with the victuals.\" Why, the man who thus speaks would not know of my existence, had I not let him off on some former occasion.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nLet us note this first point, the supplicants.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThese entreaties have appeased my wrath, and I enter—firmly resolved to do nothing that I have promised. Nevertheless I listen to the accused. Oh! what tricks to secure acquittal! Ah! there is no form of flattery that is not addressed to the heliast! Some groan over their poverty and they exaggerate the truth in order to make their troubles equal to my own. Others tell us anecdotes or some comic story from Aesop. Others, again, cut jokes; they fancy I shall be appeased if I laugh. If we are not even then won over, why, then they drag forward their young children by the hand, both boys and girls, who prostrate themselves and whine with one accord, and then the father, trembling as if before a god, beseeches me not to condemn him out of pity for them, \"If you love the voice of the lamb, have pity on my son's\"; and because I am fond of little sows,I must yield to his daughter's prayers. Then we relax the heat of our wrath a little for him. Is not this great power indeed, which allows even wealth to be disdained?\n[Note 66: An obscene pun. Χοῖρος means both a sow and the female organ.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nA second point to note, the disdain of wealth. And now recall to me what are the advantages you enjoy, you, who pretend to rule over Greece?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBeing entrusted with the inspection of the young men, we have a right to examine their organs. Is Aeagrus accused, he is not acquitted before he has recited a passage from 'Niobe'and he chooses the finest. If a flute-player gains his case, he adjusts his mouth-strap in return and plays us the final air while we are leaving. A father on his death-bed names some husband for his daughter, who is his sole heir; but we care little for his will or for the shell so solemnly placed over the seal;we give the young maiden to him who has best known how to secure our favour. Name me another duty that is so important and so irresponsible.\n[Note 67: A celebrated actor.]\n[Note 68: There were two tragedies named 'Niobé,' one by Aeschylus and the other by Sophocles, both now lost.]\n[Note 69: A double strap, which flute-players applied to their lips and was said to give softness to the tones.]\n[Note 70: The shell was fixed over the seal to protect it.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAye, 'tis a fine privilege, and the only one on which I can congratulate you; but surely to violate the will is to act badly towards the heiress.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAnd if the Senate and the people have trouble in deciding some important case, it is decreed to send the culprits before the heliasts; then Euathlus and the illustrious Colaconymus,who cast away his shield, swear not to betray us and to fight for the people. Did ever an orator carry the day with his opinion if he had not first declared that the jury should be dismissed for the day as soon as they had given their first verdict? We are the only ones whom Cleon, the great bawler, does not badger. On the contrary, he protects and caresses us; he keeps off the flies, which is what you have never done for your father. Theorus, who is a man not less illustrious than Euphemius,takes the sponge out of the pot and blacks our shoes. See then what good things you deprive and despoil me of. Pray, is this obeying or being a slave, as you pretended to be able to prove?\n[Note 71: A calumniator and a traitor (see 'The Acharnians').]\n[Note 72: Cleonymus, whose name the poet modifies, so as to introduce the idea of a flatterer (κόλαξ).]\n[Note 73: Another flatterer, a creature of Cleon's.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nTalk away to your heart's content; you must come to a stop at last and then you shall see that this grand power only resembles one of those things that, wash 'em as you will, remain as foul as ever.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut I am forgetting the most pleasing thing of all. When I return home with my pay, everyone runs to greet me because of my money. First my daughter bathes me, anoints my feet, stoops to kiss me and, while she is calling me \"her dearest father,\" fishes out my triobolus with her tongue;then my little wife comes to wheedle me and brings a nice light cake; she sits beside me and entreats me in a thousand ways, \"Do take this now; do have some more.\" All this delights me hugely, and I have no need to turn towards you or the steward to know when it shall please him to serve my dinner, all the while cursing and grumbling. But if he does not quickly knead my cake, I have this,which is my defence, my shield against all ills. If you do not pour me out drink, I have brought this long-eared jar full of wine. How it brays, when I bend back and bury its neck in my mouth! What terrible and noisy gurglings, and how I laugh at your wine-skins. As to power, am I not equal to the king of the gods? If our assembly is noisy, all say as they pass, \"Great gods! the tribunal is rolling out its thunder!\" If I let loose the lightning, the richest, aye, the noblest are half dead with fright and shit themselves with terror. You yourself are afraid of me, yea, by Demeter! you are afraid.\n[Note 74: Athenian poor, having no purse, would put small coins into mouth for safety. We know that the triobolus was the daily of the judges. Its value was about 41/2d.]\n[Note 75: A jar of wine, which he had bought with his pay.]\n[Note 76: A jar with two long ears or handles, in this way resembling an ass.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nMay I die if you frighten me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nNever have I heard speech so elegant or so sensible.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh! he thought he had only to turn me round his finger; he should, however, have known the vigour of my eloquence.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHe has said everything without omission. I felt myself grow taller while I listened to him. Methought myself meting out justice in the Islands of the Blest, so much was I taken with the charm of his words.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHow overjoyed they are! What extravagant delight! Ah! ah! you are going to get a thrashing to-day.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nCome, plot everything you can to beat him; 'tis not easy to soften me if you do not talk on my side, and if you have nothing but nonsense to spout, 'tis time to buy a good millstone, freshly cut withal, to crush my anger.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nThe cure of a disease, so inveterate and so widespread in Athens, is a difficult task and of too great importance for the scope of Comedy. Nevertheless, my old father….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nCease to call me by that name, for, if you do not prove me a slave and that quickly too, you must die by my hand, even if I must be deprived of my share in the sacred feasts.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nListen to me, dear little father, unruffle that frowning brow and reckon, you can do so without trouble, not with pebbles, but on your fingers, what is the sum-total of the tribute paid by the allied towns; besides this we have the direct imposts, a mass of percentage dues, the fees of the courts of justice, the produce from the mines, the markets, the harbours, the public lands and the confiscations. All these together amount to close on two thousand talents. Take from this sum the annual pay of the dicasts; they number six thousand, and there have never been more in this town; so therefore it is one hundred and fifty talents that come to you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWhat! our pay is not even a tithe of the State revenue?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhy no, certainly not.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAnd where does the rest go then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nTo those who say: \"I shall never betray the interests of the masses; I shall always fight for the people.\" And 'tis you, father, who let yourself be caught with their fine talk, who give them all power over yourself. They are the men who extort fifty talents at a time by threat and intimidation from the allies. \"Pay tribute to me,\" they say, \"or I shall loose the lightning on your town and destroy it.\" And you, you are content to gnaw the crumbs of your own might. What do the allies do? They see that the Athenian mob lives on the tribunal in niggard and miserable fashion, and they count you for nothing, for not more than the vote of Connus;'tis on those wretches that they lavish everything, dishes of salt fish, wine, tapestries, cheese, honey, sesame-fruit, cushions, flagons, rich clothing, chaplets, necklets, drinking-cups, all that yields pleasure and health. And you, their master, to you as a reward for all your toil both on land and sea, nothing is given, not even a clove of garlic to eat with your little fish.\n[Note 77: A well-known flute-player.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nNo, undoubtedly not; I have had to send and buy some from Eucharides. But you told me I was a slave. Prove it then, for I am dying with impatience.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nIs it not the worst of all slaveries to see all these wretches and their flatterers, whom they gorge with gold, at the head of affairs? As for you, you are content with the three obols they give you and which you have so painfully earned in the galleys, in battles and sieges. But what I stomach least is that you go to sit on the tribunal by order. Some lewd stripling, the son of Chereas, to wit, enters your house balancing his body, rotten with debauchery, on his straddling legs and charges you to come and judge at daybreak, and precisely to the minute. \"He who only presents himself after the opening of the Court,\" says he, \"will not get the triobolus.\" But he himself, though he arrives late, will nevertheless get his drachma as a public advocate. If an accused man makes him some present, he shares it with a colleague and the pair agree to arrange the matter like two sawyers, one of whom pulls and the other pushes. As for you, you have only eyes for the public pay-clerk, and you see nothing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nCan it be I am treated thus? Oh! what is it you are saying? You stir me to the bottom of my heart! I am all ears! I cannot syllable what I feel.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nConsider then; you might be rich, both you and all the others; I know not why you let yourself be fooled by these folk who call themselves the people's friends. A myriad of towns obey you, from the Euxine to Sardis. What do you gain thereby? Nothing but this miserable pay, and even that is like the oil with which the flock of wool is impregnated and is doled to you drop by drop, just enough to keep you from dying of hunger. They want you to be poor, and I will tell you why. 'Tis so that you may know only those who nourish you, and so that, if it pleases them to loose you against one of their foes, you shall leap upon him with fury. If they wished to assure the well-being of the people, nothing would be easier for them. We have now a thousand towns that pay us tribute; let them command each of these to feed twenty Athenians; then twenty thousand of our citizens would be eating nothing but hare, would drink nothing but the purest of milk, and always crowned with garlands, would be enjoying the delights to which the great name of their country and the trophies of Marathon give them the right; whereas to-day you are like the hired labourers who gather the olives; you follow him who pays you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAlas! my hand is benumbed; I can no longer draw my sword. What has become of my strength?\n[Note 78: We have already seen that when accepting his son's challenge he swore to fall upon his sword if defeated in the debate.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhen they are afraid, they promise to divide Euboea among you and to give each fifty bushels of wheat, but what have they given you? Nothing excepting, quite recently, five bushels of barley, and even these you have only obtained with great difficulty, on proving you were not aliens, and then choenix by choenix.That is why I always kept you shut in; I wanted you to be fed by me and no longer at the beck of these blustering braggarts. Even now I am ready to let you have all you want, provided you no longer let yourself be suckled by the pay-clerk.\n[Note 79: Pericles had first introduced the custom of sending poor citizens, among whom the land was divided, into the conquered countries. The island of Aegina had been mainly divided in this way among Athenian colonists.]\n[Note 80: The choenix was a measure corresponding to our quart.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHe was right who said, \"Decide nothing till you have heard both sides,\" for it seems to me, that 'tis you who now gain the complete victory. My wrath is appeased, I throw away my sticks. Come, comrade, our contemporary, let yourself be gained over by his words; come, do not be too obstinate or too perverse. Why have I no relation, no ally to speak to me like this? Do not doubt it, 'tis a god who is now protecting you and loading you with his benefits. Accept them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nI will feed him, I will give him everything that is suitable for an old man, oatmeal gruel, a cloak, soft furs and a maid to rub his loins and play with his tool. But he is silent and utters not a word; 'tis a bad sign.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHe has thought the thing over and has recognized his folly; he reproaches himself for not having followed your advice always. But there he is, converted by your words, and has no doubt become wiser to alter his ways in future and to believe in none but you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAlas! alas!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNow why this lamentation?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nA truce to your promises! What I love is down there, 'tis down there I want to be, there, where the herald cries, \"Who has not yet voted? Let him rise!\" I want to be the last to leave the urn of all. Oh, my soul, my soul! where art thou? come! oh! dark shadows, make way for me!By Heracles, may I reach the Court in time to convict Cleon of theft.\n[Note 81: A verse borrowed from Euripides' 'Bellerophon.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCome, father, in the name of the gods, believe me!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBelieve you! Ask me anything, anything, except one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhat is it? Let us hear.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nNot to judge any more! Before I consent, I shall have appeared before Pluto.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nVery well then, since you find so much pleasure in it, go down there no more, but stay here and deal out justice to your slaves.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut what is there to judge? Are you mad?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nEverything as in a tribunal. If a servant opens a door secretly, you inflict upon him a simple fine; 'tis what you have repeatedly done down there. Everything can be arranged to suit you. If it is warm in the morning, you can judge in the sunlight; if it is snowing, then seated at your fire; if it rains, you go indoors; and if you only rise at noon, there will be no Thesmothetes to exclude you from the precincts.\n[Note 82: i.e. a legislator. The name given in Athens to the last six of the nine Archons, because it was their special duty to see the laws respected.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThe notion pleases me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nMoreover, if a pleader is long-winded, you will not be fasting and chafing and seeking vengeance on the accused.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut could I judge as well with my mouth full?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nMuch better. Is it not said, that the dicasts, when deceived by lying witnesses, have need to ruminate well in order to arrive at the truth?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWell said, but you have not told me yet who will pay salary.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nI will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nSo much the better; in this way I shall be paid by myself. Because that cursed jester, Lysistratus,played me an infamous trick the other day. He received a drachma for the two of us and went on the fish-market to get it changed and then brought me back three mullet scales. I took them for obols and crammed them into my mouth;but the smell choked me and I quickly spat them out. So I dragged him before the Court.\n[Note 83: Mentioned both in 'The Acharnians' and 'The Knights.']\n[Note 84: The drachma was worth six obols, or twice the pay of a heliast.]\n[Note 85: We have already seen that the Athenians sometimes kept their small money in their mouth.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAnd what did he say to that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWell, he pretended I had the stomach of a cock. \"You have soon digested the money,\" he said with a laugh.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nYou see, that is yet another advantage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAnd no small one either. Come, do as you will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWait! I will bring everything here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nYou see, the oracles are coming true; I have heard it foretold, that one day the Athenians would dispense justice in their own houses, that each citizen would have himself a little tribunal constructed in his porch similar to the altars of Hecaté,and that there would be such before every door.\n[Note 86: Which were placed in the courts; dogs were sacrificed on them.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHold! what do you say? I have brought you everything needful and much more into the bargain. See, here is an article, should you want to piss; it shall be hung beside you on a nail.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nGood idea! Right useful at my age. You have found the true preventive of bladder troubles.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHere is fire, and near to it are lentils, should you want to take a snack.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\n'Tis admirably arranged. For thus, even when feverish, I shall nevertheless receive my pay; and besides, I could eat my lentils without quitting my seat. But why this cock?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nSo that, should you doze during some pleading, he may awaken you by crowing up there.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI want only for one thing more; all the rest is as good as can be.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhat is that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nIf only they could bring me an image of the hero Lycus.\n[Note 87: As already stated, the statue of Lycus stood close to the place where the tribunals sat.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHere it is! Why, you might think it was the god himself!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh! hero, my master! how repulsive you are to look at! 'Tis an exact portrait of Cleonymus!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nThat is why, hero though he be, he has no weapon.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nThe sooner you take your seat, the sooner I shall call a case.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nCall it, for I have been seated ever so long.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nLet us see. What case shall we bring up first? Is there a slave who has done something wrong? Ah! you Thracian there, who burnt the stew-pot t'other day.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHold, hold! Here is a fine state of things! you had almost made me judge without a bar,and that is the thing of all others most sacred among us.\n[Note 88: The barrier in the Heliaea, which separated the heliasts from the public.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nBy Zeus! I had forgotten it, but I will run indoors and bring you one immediately. What is this after all, though, but mere force of habit!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nPlague take the brute! Can anyone keep such a dog?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHullo! what's the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nWhy, 'tis Labes,who has just rushed into the kitchen and has seized a whole Sicilian cheese and gobbled it up.\n[Note 89: The whole of this comic trial of the dog Labes is an allusion to the general Laches, already mentioned, who had failed in Sicily. He was accused of taking bribes of money from the Sicilians.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nGood! this will be the first offence I shall make my father try. [To Xanthias.] Come along and lay your accusation.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nNo, not I; the other dog vows he will be accuser, if the matter is set down for trial.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWell then, bring them both along.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nI am coming.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWhat is this?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\n'Tis the pig-trough of the swine dedicated to Hestia.\n[Note 90: To serve for a bar.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut it's sacrilege to bring it here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNo, no, by addressing Hestia first,I might, thanks to her, crush an adversary.\n[Note 91: This was a customary formula, ἀφ' Ἑστίας ἂρχου, \"begin from Hestia,\" first adore Vesta, the god of the family hearth. In similar fashion, the Romans said, ab Jove principium.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nPut an end to delay by calling up the case. My verdict is already settled.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWait! I must yet bring out the tablets and the scrolls.\n[Note 92: For conviction and acquittal.]\n[Note 93: On which the sentence was entered.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh! I am boiling, I am dying with impatience at your delays. I could have traced the sentence in the dust.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nThere you are.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThen call the case.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nI am here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nFirstly, who is this?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAh! my god! why, this is unbearable! I have forgotten the urns.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWell now! where are you off to?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nTo look for the urns.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nUnnecessary, I shall use these vases.\n[Note 94: No doubt the stew-pot and the wine-jar.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nVery well, then we have all we need, except the clepsydra.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWell then! and this? what is it if not a clepsydra?\n[Note 95: The article Bdelycleon had brought.—The clepsydra was a kind of water-clock; the other vessel is compared to it, because of the liquid in it.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nTrue again! 'Tis calling things by their right name! Let fire be brought quickly from the house with myrtle boughs and incense, and let us invoke the gods before opening the sitting.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOffer them libations and your vows and we will thank them that a noble agreement has put an end to your bickerings and strife.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAnd first let there be a sacred silence.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh! god of Delphi! oh! Phoebus Apollo! convert into the greatest blessing for us all what is now happening before this house, and cure us of our error, oh, Paean,our helper!\n[Note 96: A title of Apollo, worshipped as the god of healing.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nOh! Powerful god, Apollo Aguieus,who watchest at the door of my entrance hall, accept this fresh sacrifice; I offer it that you may deign to soften my father's excessive severity; he is as hard as iron, his heart is like sour wine; do thou pour into it a little honey. Let him become gentle like other men, let him take more interest in the accused than in the accusers, may he allow himself to be softened by entreaties; calm his acrid humour and deprive his irritable mind of all sting.\n[Note 97: A title of Apollo, because of the sacrifices, which the Athenians offered him in the streets, from ἀγυιά, a street.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWe unite our vows and chants to those of this new magistrate.His words have won our favour and we are convinced that he loves the people more than any of the young men of the present day.\n[Note 98: Bdelycleon.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nIf there be any judge near at hand, let him enter; once the proceedings have opened, we shall admit him no more.\n[Note 99: The formula used by the president before declaring the sitting of the Court opened.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWho is the defendant? Ha! what a sentence he will get! XANTHIAS [Prosecuting Council]. Listen to the indictment. A dog of Cydathenea doth hereby charge Labes of Aexonia with having devoured a Sicilian cheese by himself without accomplices. Penalty demanded, a collar of fig-tree wood.\n[Note 100: That is, by way of fine.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nNay, a dog's death, if convicted.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nThis is Labes, the defendant.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh! what a wretched brute! how entirely he looks the rogue! He thinks to deceive me by keeping his jaws closed. Where is the plaintiff, the dog of Cydathenea?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DOG\nBow wow! bow wow!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHere he is.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWhy, 'tis a second Labes, a great barker and a licker of dishes. SOSIAS [Herald]. Silence! Keep your seats! [To Xanthias.] And you, up on your feet and accuse him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nGo on, and I will help myself and eat these lentils.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nMen of the jury, listen to this indictment I have drawn up. He has committed the blackest of crimes, both against me and the seamen.He sought refuge in a dark corner to glutton on a big Sicilian cheese, with which he sated his hunger.\n[Note 101: A reference to the peculations Laches was supposed to have practised in keeping back part of the pay of the Athenian sailors engaged in the Sicilian Expedition.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWhy, the crime is clear; the foul brute this very moment belched forth a horrible odour of cheese right under my nose.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nAnd he refused to share with me. And yet can anyone style himself your benefactor, when he does not cast a morsel to your poor dog?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThen he has not shared?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nNot with me, his comrade.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThen his madness is as hot as my lentils.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nIn the name of the gods, father! No hurried verdict without hearing the other side!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut the evidence is plain; the fact speaks for itself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nThen beware of acquitting the most selfish of canine gluttons, who has devoured the whole cheese, rind and all, prowling round the platter.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThere is not even enough left for me to fill up the chinks in my pitcher.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nBesides, you must punish him, because the same house cannot keep two thieves. Let me not have barked in vain, else I shall never bark again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh! the black deeds he has just denounced! What a shameless thief! Say, cock, is not that your opinion too? Ha, ha! He thinks as I do. Here, Thesmothetes!where are you? Hand me the vessel. SOSIAS [Thesmothetes]. Take it yourself. I go to call the witnesses; these are a plate, a pestle, a cheese knife, a brazier, a stew-pot and other half-burnt utensils. [To Philocleon.] But you have not finished? you are piddling away still! Have done and be seated.\n[Note 102: The Θεομοθέται at Athens were the six junior Archons, who judged cases assigned to no special Court, presided at the allotment of magistrates, etc.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHa, ha! I reckon I know somebody who will shit himself with fright today.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWill you never cease showing yourself hard and intractable, and especially to the accused? You tear them to pieces tooth and nail.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nCome forward and defend yourself. What means this silence? Answer.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SOSIAS\nNo doubt he has nothing to say.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNot so, but I think he has got what happened once to Thucydides, when accused;his jaws suddenly set fast. Get away! I will undertake your defence.—Gentlemen of the jury, 'tis a difficult thing to speak for a dog who has been calumniated, but nevertheless I will try. 'Tis a good dog, and he chivies the wolves finely.\n[Note 103: Thucydides, son of Milesias, when accused by Pericles, could not say a word in his own defence. One would have said his tongue was paralysed. He was banished.—He must not be confounded with Thucydides the historian, whose exile took place after the production of 'The Wasps.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHe! that thief and conspirator!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nBut 'tis the best of all our dogs; he is capable of guarding a whole flock.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAnd what good is that, if he eats the cheese?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhat? he fights for you, he guards your door; 'tis an excellent dog in every respect. Forgive him his larceny; he is wretchedly ignorant, he cannot play the lyre.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI wish he did not know how to write either; then the rascal would not have drawn up his pleadings.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWitnesses, I pray you, listen. Come forward, grafting-knife, and speak up; answer me clearly. You were paymaster at the time. Did you grate out to the soldiers what was given you?—He says he did so.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut, by Zeus! he lies.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nOh! have patience. Take pity on the unfortunate. Labes feeds only on fish-bones and fishes' heads and has not an instant of peace. The other is good only to guard the house; he never moves from here, but demands his share of all that is brought in and bites those who refuse.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh! Heaven! have I fallen ill? I feel my anger cooling! Woe to me! I am softening!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHave pity, father, pity, I adjure you; you would not have him dead. Where are his puppies? Come, poor little beasties, yap, up on your haunches, beg and whine!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nDescend, descend, descend, descend!\n[Note 104: When the judges were touched by the pleading of the orator and were decided on acquittal, they said to the defending advocate, \"Cease speaking, descend from the rostrum.\"]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nI will descend, although that word, \"descend,\" has too often raised false hope. None the less, I will descend.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nPlague seize it! Have I then done wrong to eat! What! I to be crying! Ah! I certainly should not be weeping, if I were not blown out with lentils.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nThen he is acquitted?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI did not say so.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAh! my dear father, be good! be humane! Take this voting pebble and rush with your eyes closed to that second urn and, father, acquit him.\n[Note 105: There were two urns, one called that of Conviction, the other of Acquittal.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nNo, I know no more how to acquit than to play the lyre.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCome quickly, I will show you the way.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nIs this the first urn?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nYes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThen I have voted. BDELYCLEON [aside]. I have fooled him and he has acquitted in spite of himself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nCome, I will turn out the urns. What is the result?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWe shall see.—Labes, you stand acquitted.—Eh! father, what's the matter, what is it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh me! ah me! water! water!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nPull yourself together, sir!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nTell me! Is he really acquitted?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nYes, certainly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThen it's all over with me!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCourage, dear father, don't let this afflict you so terribly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAnd so I have charged my conscience with the acquittal of an accused being! What will become of me? Sacred gods! forgive me. I did it despite myself; it is not in my character.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nDo not vex yourself, father; I will feed you well, will take you everywhere to eat and drink with me; you shall go to every feast; henceforth your life shall be nothing but pleasure, and Hyperbolus shall no longer have you for a tool. But come, let us go in.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nSo be it; if you will, let us go in. CHORUS [Parabasis]. Go where it pleases you and may your happiness be great. You meanwhile, oh! countless myriads, listen to the sound counsels I am going to give you and take care they are not lost upon you. 'Twould be the fate of vulgar spectators, not that of such an audience. Hence, people, lend me your ear, if you love frank speaking. The poet has a reproach to make against his audience; he says you have ill-treated him in return for the many services he has rendered you. At first he kept himself in the background and lent help secretly to other poets,and like the prophetic Genius, who hid himself in the belly of Eurycles,slipped within the spirit of another and whispered to him many a comic hit. Later he ran the risks of the theatre on his own account, with his face uncovered, and dared to guide his Muse unaided. Though overladen with success and honours more than any of your poets, indeed despite all his glory, he does not yet believe he has attained his goal; his heart is not swollen with pride and he does not seek to seduce the young folk in the wrestling school.If any lover runs up to him to complain because he is furious at seeing the object of his passion derided on the stage, he takes no heed of such reproaches, for he is only inspired with honest motives and his Muse is no go-between. From the very outset of his dramatic career he has disdained to assail those who were men, but with a courage worthy of Heracles himself he attacked the most formidable monsters, and at the beginning went straight for that beast with the sharp teeth, with the terrible eyes that flashed lambent fire like those of Cynna,surrounded by a hundred lewd flatterers who spittle-licked him to his heart's content; it had a voice like a roaring torrent, the stench of a seal, a foul Lamia's testicles,and the rump of a camel. Our poet did not tremble at the sight of this horrible monster, nor did he dream of gaining him over; and again this very day he is fighting for your good. Last year besides, he attacked those pale, shivering and feverish beings who strangled your fathers in the dark, throttled your grandfathers,and who, lying in the beds of the most inoffensive, piled up against them lawsuits, summonses and witnesses to such an extent, that many of them flew in terror to the Polemarch for refuge.Such is the champion you have found to purify your country of all its evil, and last year you betrayed him,when he sowed the most novel ideas, which, however, did not strike root, because you did not understand their value; notwithstanding this, he swears by Bacchus, the while offering him libations, that none ever heard better comic verses. 'Tis a disgrace to you not to have caught their drift at once; as for the poet, he is none the less appreciated by the enlightened judges. He shivered his oars in rushing boldly forward to board his foe.But in future, my dear fellow-citizens, love and honour more those of your poets who seek to imagine and express some new thought. Make their ideas your own, keep them in your caskets like sweet-scented fruit.If you do, your clothing will emit an odour of wisdom the whole year through. Formerly we were untiring, especially in other exercises,but 'tis over now; our brow is crowned with hair whiter than the swan. We must, however, rekindle a youthful ardour in these remnants of what was, and for myself, I prefer my old age to the curly hair and the finery of all these lewd striplings. Should any among you spectators look upon me with wonder, because of this wasp waist, or not know the meaning of this sting, I will soon dispel his ignorance. We, who wear this appendage, are the true Attic men, who alone are noble and native to the soil, the bravest of all people. 'Tis we who, weapon in hand, have done so much for the country, when the Barbarian shed torrents of fire and smoke over our city in his relentless desire to seize our nests by force. At once we ran up, armed with lance and buckler, and, drunk with the bitter wine of anger, we gave them battle, man standing to man and rage distorting our lips.A hail of arrows hid the sky. However, by the help of the gods, we drove off the foe towards evening. Before the battle an owl had flown over our army.Then we pursued them with our lance point in their loins as one hunts the tunny-fish; they fled and we stung them in the jaw and in the eyes, so that even now the barbarians tell each other that there is nothing in the world more to be feared than the Attic wasp. Oh! at that time I was terrible, I feared nothing; forth on my galleys I went in search of my foe and subjected him.Then we never thought of rounding fine phrases, we never dreamt of calumny; 'twas who should prove the strongest rower. And thus we took many a town from the Medes,and 'tis to us that Athens owes the tributes that our young men thieve to-day. Look well at us, and you will see that we have all the character and habits of the wasp. Firstly, if roused, no beings are more irascible, more relentless than we are. In all other things, too, we act like wasps. We collect in swarms, in a kind of nests,and some go a-judging with the Archon,some with the Eleven,others at the Odeon;there are yet others, who hardly move at all, like the grubs in the cells, but remain glued to the walls and bent double to the ground. We also pay full attention to the discovery of all sorts of means of existing and sting the first who comes, so as to live at his expense. Finally, we have among us drones,who have no sting and who, without giving themselves the least trouble, seize on our revenues as they flow past them and devour them. 'Tis this that grieves us most of all, to see men who have never served or held either lance or oar in defence of their country, enriching themselves at our expense without ever raising a blister on their hands. In short, I give it as my deliberate opinion that in future every citizen not possessed of a sting shall not receive the triobolus.\n[Note 106: Meaning, that he had at first produced pieces under the name of other poets, such as Callistrates and Phidonides.]\n[Note 107: Eurycles, an Athenian diviner, surnamed the Engastromythes (μυθος, speech, ἐν γαστρί, in the belly), because he was believed to be inspired by a genius within him.—The same name was also given to the priestesses of Apollo, who spoke their oracles without moving their lips.]\n[Note 108: Some poets misused their renown as a means of seduction among young men.]\n[Note 109: Cleon, whom he attacked in 'The Knights,' the first Comedy that Aristophanes had produced in his own name.]\n[Note 110: Cynna, like Salabaccha, was a shameless courtesan of the day.]\n[Note 111: The lamiae were mysterious monsters, to whom the ancients ascribed the most varied forms. They were depicted most frequently with the face and bosom of a woman and the body of a serpent. Here Aristophanes endows them with organs of virility. It was said that the blood of young men had a special attraction for them. These lines, abusive of Cleon, occur again in the 'Peace,' II. 738-42.]\n[Note 112: Socrates and the sophists, with whom the poet confounds him in his attacks.]\n[Note 113: He likens them to vampires.]\n[Note 114: The third Archon, whose duty was the protection of strangers. All cases involving the rights of citizenship were tried before him. These were a frequent cause of lawsuit at Athens.]\n[Note 115: 'The Clouds' had not been well received.]\n[Note 116: Aristophanes lets it be understood that the refusal to crown him arose from the fact that he had been too bold in his attack.]\n[Note 117: To perfume their caskets, etc., the Ancients placed scented fruit, especially oranges, in them.]\n[Note 118: The pastimes of love.]\n[Note 119: At Marathon, where the Athenians defeated the Persian invaders, 490 B.C. The battle-field is a plain on the north-east coast of Attica, about twenty-seven miles from Athens.]\n[Note 120: A favourable omen, of course. The owl was the bird of Athené.]\n[Note 121: An allusion to Cimon's naval victories.]\n[Note 122: The Cyclades islands and many towns on the coast of Asia Minor.]\n[Note 123: The tribunals.]\n[Note 124: The six last Archons presided over the civil courts and were styled Thesmothetae (see above).]\n[Note 125: Magistrates, who had charge of criminal cases.]\n[Note 126: Built by Pericles. Musical contests were held there. Here also took place distributions of flour, and the presence of the magistrates was no doubt necessary to decide on the spot any disputes that might arise regarding this.]\n[Note 127: This, says the Scholiast, refers to magistrates appointed for the upkeep of the walls. They were selected by ballot from amongst the general body of Heliasts.]\n[Note 128: The demagogues and their flatterers.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAs long as I live, I will never give up this cloak; 'tis the one I wore in that battle when Boreas delivered us from such fierce attacks,\n[Note 129: The battle of Artemisium on the Euboean coast; a terrible storm arose and almost destroyed the barbarian fleet, while sparing that of the Athenians.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nYou do not know what is good for you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh! I know not how to use fine clothing! T'other day, when cramming myself with fried fish, I dropped so many grease spots that I had to pay three obols to the cleaner.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAt least have a try, since you have once for all handed the care for your well-being over to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nVery well then! what must I do?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nTake off your cloak, and put on this tunic in its stead.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\n'Twas well worth while to beget and bring up children, so that this one should now wish to choke me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCome, take this tunic and put it on without so much talk.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nGreat gods! what sort of a cursed garment is this?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nSome call it a pelisse, others a Persian cloak.\n[Note 130: A mantle trimmed with fur.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh! I thought it was a wraprascal like those made at Thymaetia.\n[Note 131: A rural deme of Attica. Rough coats were made there, formed of skins sewn together.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nPray, how should you know such garments? 'Tis only at Sardis you could have seen them, and you have never been there.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI' faith, no! but it seems to me exactly like the mantle Morychus sports.\n[Note 132: An effeminate poet.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNot at all; I tell you they are woven at Ecbatana.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWhat! are there woollen ox-guts then at Ecbatana?\n[Note 133: He compares the thick, shaggy stuff of the pelisse to the intestines of a bullock, which have a sort of crimped and curled look.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhatever are you talking about? These are woven by the Barbarians at great cost. I am certain this pelisse has consumed more than a talent of wool.\n[Note 134: An Attic talent was equal to about fifty-seven pounds avoirdupois.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nIt should be called wool-waster then instead of pelisse.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCome, father, just hold still for a moment and put it on.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh! horrors! what a waft of heat the hussy wafts up my nose!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWill you have done with this fooling?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nNo, by Zeus! if need be, I prefer you should put me in the oven.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCome! I will put it round you. There!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAt all events, bring out a crook.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhy, whatever for?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nTo drag me out of it before I am quite melted.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNow take off those wretched clogs and put on these nice Laconian slippers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI put on odious slippers made by our foes! Never!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCome! put your foot in and push hard. Quick!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\n'Tis ill done of you. You want me to put my foot on Laconian ground.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNow the other.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh! no, not that one; one of its toes holds the Laconians in horror.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nPositively you must.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAlas! alas! Then I shall have no chilblains in my old age.\n[Note 135: He grumbles over his own good fortune, as old men will.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNow, hurry up and get them on; and now imitate the easy effeminate gait of the rich. See, like this.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThere!… Look at my get-up and tell me which rich man I most resemble in my walk.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhy, you look like a garlic plaster on a boil.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh! I am longing to swagger and sway my rump about.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNow, will you know how to talk gravely with well-informed men of good class?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nUndoubtedly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhat will you say to them?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh, lots of things. First of all I shall say, that Lamia,seeing herself caught, let fly a fart; then, that Cardopion and her mother….\n[Note 136: Lamia, the daughter of Belus and Libya, was loved by Zeus. Heré deprived her of her beauty and instilled her with a passion for blood; she is said to have plucked babes from their mothers' breast to devour them. Weary of her crimes, the gods turned her into a beast of prey.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCome, no fabulous tales, pray! talk of realities, of domestic facts, as is usually done.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh! I know something that is indeed most domestic. Once upon a time there was a rat and a cat….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\n\"Oh, you ignorant fool,\" as Theagenes said to the scavenger in a rage. Are you going to talk of cats and rats among high-class people?\n[Note 137: Theagenes, of the Acharnian deme, was afflicted with a weakness which caused him to be constantly letting off loud, stinking farts, even in public—the cause of many gibes on the part of the Comic poets and his contemporaries.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThen what should I talk about?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nTell some dignified story. Relate how you were sent on a solemn mission with Androcles and Clisthenes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOn a mission! never in my life, except once to Paros,a job which brought me in two obols a day.\n[Note 138: He had been sent on a mission as an armed ambassador, i.e. as a common soldier, whose pay was two obols.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAt least say, that you have just seen Ephudion making good play in the pancratium with Ascondas and, that despite his age and his white hair, he is still robust in loin and arm and flank and that his chest is a very breastplate.\n[Note 139: The παγκράτιον was a combined exercise, including both wrestling and boxing.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nStop! stop! what nonsense! Who ever contested at the pancratium with a breast-plate on?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nThat is how well-behaved folk like to talk. But another thing. When at wine, it would be fitting to relate some good story of your youthful days. What is your most brilliant feat?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nMy best feat? Ah! 'twas when I stole Ergasion's vine-props.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nYou and your vine-props! you'll be the death of me! Tell of one of your boar-hunts or of when you coursed the hare. Talk about some torch-race you were in; tell of some deed of daring.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh! my most daring deed was when, quite a young man still, I prosecuted Phayllus, the runner, for defamation, and he was condemned by a majority of two votes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nEnough of that! Now recline there, and practise the bearing that is fitting at table in society.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHow must I recline? Tell me quick!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nIn an elegant style.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nLike this?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNot at all.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHow then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nSpread your knees on the tapestries and give your body the most easy curves, like those taught in the gymnasium. Then praise some bronze vase, survey the ceiling, admire the awning stretched over the court. Water is poured over our hands; the tables are spread; we sup and, after ablution, we now offer libations to the gods.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut, by Zeus! this supper is but a dream, it appears!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nThe flute-player has finished the prelude. The guests are Theorus, Aeschines, Phanus, Cleon, Acestor;and beside this last, I don't know who else. You are with them. Shall you know exactly how to take up the songs that are started?\n[Note 140: All these names have been already mentioned.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBetter than any born mountaineer of Attica.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nThat we shall see. Suppose me to be Cleon. I am the first to begin the song of Harmodius, and you take it up: \"There never was yet seen in Athens …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\n… such a rogue or such a thief.\"\n[Note 141: Each time Philocleon takes up the song with words that are a satire on the guest who begins the strain.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhy, you wretched man, 'twill be the end of you if you sing that. He will vow your ruin, your destruction, to chase you out of the country.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWell! then I shall answer his threats with another song: \"With your madness for supreme power, you will end by overthrowing the city, which even now totters towards ruin.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAnd when Theorus, prone at Cleon's feet, takes his hand and sings, \"Like Admetus, love those who are brave,\"what reply will you make him?\n[Note 142: King Admetus (Euripides' 'Alcestis') had suffered his devoted wife Alcestis to die to save his life when ill to death. Heracles, however, to repay former benefits received, descended into Hades and rescued Alcestis from Pluto's clutches.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI shall sing, \"I know not how to play the fox, nor call myself the friend of both parties.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nThen comes the turn of Aeschines, the son of Sellus, and a well-trained and clever musician, who will sing, \"Good things and riches for Clitagoras and me and eke for the Thessalians!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\n\"The two of us have squandered a deal between us.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAt this game you seem at home. But come, we will go and dine with Philoctemon.—Slave! slave! place our dinner in a basket, and let us go for a good long drinking bout.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBy no means, it is too dangerous; for after drinking, one breaks in doors, one comes to blows, one batters everything. Anon, when the wine is slept off, one is forced to pay.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nNot if you are with decent people. Either they undertake to appease the offended person or, better still, you say something witty, you tell some comic story, perhaps one of those you have yourself heard at table, either in Aesop's style or in that of Sybaris; all laugh and the trouble is ended.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nFaith! 'tis worth while learning many stories then, if you are thus not punished for the ill you do. But come, no more delay!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nMore than once have I given proof of cunning and never of stupidity, but how much more clever is Amynias, the son of Sellus and of the race of forelock-wearers; him we saw one day coming to dine with Leogaras,bringing as his share one apple and a pomegranate, and bear in mind he was as hungry as Antiphon.He went on an embassy to Pharsalus,and there he lived solely among the Thessalian mercenaries;indeed, is he not the vilest of mercenaries himself? Oh! blessed, oh! fortunate Automenes, how enviable is your fortune! You have three sons, the most industrious in the world; one is the friend of all, a very able man, the first among the lyre-players, the favourite of the Graces. The second is an actor, and his talent is beyond all praise. As for Ariphrades, he is by far the most gifted; his father would swear to me, that without any master whatever and solely through the spontaneous effort of his happy nature, he taught himself the use of his tongue in the lewd places where he spends the whole of his time. Some have said that I and Cleon were reconciled. This is the truth of the matter: Cleon was harassing me, persecuting and belabouring me in every way; and, when I was being fleeced, the public laughed at seeing me uttering such loud cries; not that they cared about me, but simply curious to know whether, when trodden down by my enemy, I would not hurl at him some taunt. Noticing this, I have played the wheedler a bit; but now, look! the prop is deceiving the vine!\n[Note 143: A famous epicure, the Lucullus of Athens (see 'The Acharnians').]\n[Note 144: A parasite renowned for his gluttony.]\n[Note 145: A town in Thessaly.]\n[Note 146: Because of his poverty.]\n[Note 147: Four lines in 'The Knights' describe the infamous habits of Ariphrades in detail.]\n[Note 148: That is, it ceases to support it; Aristophanes does the same to Cleon.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nOh! tortoises! happy to have so hard a skin, thrice happy to carry this roof that protects your backs! Oh! creatures full of sense! what a happy thought to cover your bodies with this shell, which shields it from blows! As for me, I can no longer move; the stick has so belaboured my body.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nEh, what's the matter, child? for, old as he may be, one has the right to call anyone a child who has let himself be beaten.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nAlas! my master is really the worst of all plagues. He was the most drunk of all the guests, and yet among them were Hippyllus, Antiphon, Lycon, Lysistratus, Theophrastus and Phrynichus. But he was a hundred times more insolent than any. As soon as he had stuffed himself with a host of good dishes, he began to leap and spring, to laugh and to let wind like a little ass well blown out with barley. Then he set to a-beating me with all his heart, shouting, \"Slave! slave!\" Lysistratus, as soon as he saw him, let fly this comparison at him. \"Old fellow,\" said he, \"you resemble one of the scum assuming the airs of a rich man or a stupid ass that has broken loose from its stable.\" \"As for you,\" bawled the other at the top of his voice, \"you are like a grasshopper,whose cloak is worn to the thread, or like Sthenelus after his clothes had been sold.\" All applauded excepting Theophrastus, who made a grimace as behoved a well-bred man like him. The old man called to him, \"Hi! tell me then what you have to be proud of? Not so much mouthing, you, who so well know how to play the buffoon and to lick-spittle the rich!\" 'Twas thus he insulted each in turn with the grossest of jests, and he reeled off a thousand of the most absurd and ridiculous speeches. At last, when he was thoroughly drunk, he started towards here, striking everyone he met. Hold, here he comes reeling along. I will be off for fear of his blows. PHILOCLEON.Halt! and let everyone begone, or I shall do an evil turn to some of those who insist on following me. Clear off, rascals, or I shall roast you with this torch!\n[Note 149: Referring to Lysistratus' leanness.]\n[Note 150: A tragic actor, whose wardrobe had been sold up, so the story went, by his creditors.]\n[Note 151: He enters, followed closely by the persons he has ill-used, and leading a flute-girl by the hand.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWe shall all make you smart to-morrow for your youthful pranks. We shall come in a body to summon you to justice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHo! ho! summon me! what old women's babble! Know that I can no longer bear to hear even the name of suits. Ha! ha! ha! this is what pleases me, \"Down with the urns!\" Won't you begone? Down with the dicasts! away with them, away with them! [To the flute-girl.] Mount up there, my little gilded cock-chafer; seize hold of this rope's end in your hand.Hold it tight, but have a care; the rope's a bit old and worn, but it loves a nice rubbing still. Do you see how opportunely I got you away from the solicitations of those fellows, who wanted to make you work their tools in your mouth? You therefore owe me this return to gratify mine by masturbating it. But will you pay the debt? Oh! I know well you will not even try; you will play with me, you will laugh heartily at my poor old weapon as you have done at many another man's. And yet, if you would not be a naughty girl, I would redeem you, when my son is dead, and you should be my concubine, my little cuntling. At present I am not my own master; I am very young and am watched very closely. My dear son never lets me out of his sight; 'tis an unbearable creature, who would quarter a thread and skin a flint; he is afraid I should get lost, for I am his only father. But here he comes running towards us. But be quick, don't stir, hold these torches. I am going to play him a young man's trick, the same as he played me before I was initiated into the mysteries.\n[Note 152: Meaning his penis.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nOh! oh! you debauched old dotard! you desire and, meseems, you love pretty baggages; but, by Apollo, it shall not be with impunity!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh! you would be very glad to eat a lawsuit in vinegar, you would.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\n'Tis a rascally trick to steal the flute-girl away from the other guests.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWhat flute-girl? Are you distraught, as if you had just returned from Pluto?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nBy Zeus! But here is the Dardanian wench in person.\n[Note 153: Dardanus, a district of Asia Minor, north of the Troad, supplied many flute-girls to the cities of Greece.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nNonsense. This is a torch that I have lit in the public square in honour of the gods.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nIs this a torch?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nA torch? Certainly. Do you not see it is of several different colours?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAnd what is that black part in the middle?\n[Note 154: Pointing to the flute-girl's motte.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\n'Tis the pitch running out while it burns.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAnd there, on the other side, surely that is a girl's bottom?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nNo. 'Tis a small bit of the torch, that projects.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhat do you mean? what bit? Hi! you woman! come here!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAh! ah! What do you want to do?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nTo take her from you and lead her away. You are too much worn out and can do nothing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHear me! One day, at Olympia, I saw Euphudion boxing bravely against Ascondas;he was already aged, and yet with a blow from his fist he knocked down his young opponent. So beware lest I blacken your eyes.\n[Note 155: He tells his son the very story the latter had taught him.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nBy Zeus! you have Olympia at your finger-ends! A BAKER'S WIFE [to Bdelycleon]. Come to my help, I beg you, in the name of the gods! This cursed man, when striking out right and left with his torch, knocked over ten loaves worth an obolus apiece, and then, to cap the deal, four others.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nDo you see what lawsuits you are drawing upon yourself with your drunkenness? You will have to plead.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh, no, no! a little pretty talk and pleasant tales will soon settle the matter and reconcile her with me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BAKER'S WIFE\nNot so, by the goddesses twain! It shall not be said that you have with impunity spoilt the wares of Myrtia,the daughter of Ancylion and Sostraté.\n[Note 156: The name of the baker's wife.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nListen, woman, I wish to tell you a lovely anecdote.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BAKER'S WIFE\nOh! friend, no anecdotes for me, thank you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOne night Aesop was going out to supper. A drunken bitch had the impudence to bark near him. Aesop said to her, \"Oh, bitch, bitch! you would do well to sell your wicked tongue and buy some wheat.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BAKER'S WIFE\nYou make a mock of me! Very well! Be you who you like, I shall summons you before the market inspectors for damage done to my business. Chaerephon here shall be my witness.\n[Note 157: Or Agoranomi, who numbered ten at Athens.]\n[Note 158: The disciple of Socrates.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nBut just listen, here's another will perhaps please you better. Lasus and Simonides were contesting against each other for the singing prize. Lasus said, \"Damn me if I care.\"\n[Note 159: Lasus, a musician and dithyrambic poet, born about 500 B.C. in Argolis, was the rival of Simonides and thought himself his superior.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BAKER'S WIFE\nAh! really, did he now!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAs for you, Chaerephon, can you be witness to this woman, who looks as pale and tragic as Ino when she throws herself from her rock… at the feet of Euripides?\n[Note 160: Ino, the daughter of Cadmus and Harmonia. Being pursued by her husband, Athamas, whom the Fury Tisiphoné had driven mad, she threw herself into the sea with Melicerta, whereupon they were both changed into sea-goddesses.—This is the subject of one of Euripides' tragedies.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHere, methinks, comes another to summons you; he has his witness too. Ah! unhappy indeed we are!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "ACCUSER\nI summons you, old man, for outrage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nFor outrage? Oh! in the name of the gods, do not summons him! I will be answerable for him; name the penalty and I will be more grateful still.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI ask for nothing better than to be reconciled with him; for I admit I struck him and threw stones at him. So, first come here. Will you leave it in my hands to name the indemnity I must pay, if I promise you my friendship as well, or will you fix it yourself?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "ACCUSER\nFix it; I like neither lawsuits nor disputes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nA man of Sybaris fell from his chariot and wounded his head most severely; he was a very poor driver. One of his friends came up to him and said, \"Every man to his trade.\" Well then, go you to Pittalus to get mended.\n[Note 161: A famous town in Magna Graecia, south coast of Italy.]\n[Note 162: A celebrated physician.—Philocleon means, \"Instead of starting an action, go and have yourself cared for; that is better worth your while.\"]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nYou are incorrigible. ACCUSER [to his witness]. At all events, make a note of his reply.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nListen, instead of going off so abruptly. A woman at Sybaris broke a box. ACCUSER [to his witness]. I again ask you to witness this.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nThe box therefore had the fact attested, but the woman said, \"Never worry about witnessing the matter, but hurry off to buy a cord to tie it together with; 'twill be the more sensible course.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "ACCUSER\nOh! go on with your ribaldry until the Archon calls the case. BDELYCLEON [to Philocleon]. No, by Demeter! you stay here no longer! I take you and carry you off.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAnd what for?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nWhat for? I shall carry you to the house; else there would not be enough witnesses for the accusers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOne day at Delphi, Aesop …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nI don't care a fig for that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\n… was accused of having stolen a sacred vase. But he replied, that the horn beetle … [Philocleon goes on with his fable while Bdelycleon is carrying him off the scene by main force.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nOh, dear, dear! You drive me crazy with your horn-beetle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nI envy you your happiness, old man. What a contrast to his former frugal habits and his very hard life! Taught now in quite another school, he will know nothing but the pleasures of ease. Perhaps he will jib at it, for indeed 'tis difficult to renounce what has become one's second nature. However, many have done it, and adopting the ideas of others, have changed their use and wont. As for Philocleon's son, I, like all wise and judicious men, cannot sufficiently praise his filial tenderness and his tact. Never have I met a more amiable nature, and I have conceived the greatest fondness for him. How he triumphed on every point in his discussion with his father, when he wanted to bring him back to more worthy and honourable tastes!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nBy Bacchus! 'Tis some Evil Genius has brought this unbearable disorder into our house. The old man, full up with wine and excited by the sound of the flute, is so delighted, so enraptured, that he spends the night executing the old dances that Thespis first produced on the stage,and just now he offered to prove to the modern tragedians, by disputing with them for the dancing prize, that they are nothing but a lot of old dotards.\n[Note 163: The dances that Thespis, the originator of Tragedy, interspersed with the speaking parts of his plays.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\n\"Who loiters at the door of the vestibule?\"\n[Note 164: A verse borrowed from an unknown Tragedy.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nHere comes our pest, our plague!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nLet down the barriers.The dance is now to begin.\n[Note 165: As was done in the stadia when the races were to be started.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nOr rather the madness.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nImpetuous movement already twists and racks my sides. How my nostrils wheeze! how my back cracks!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nGo and fill yourself with hellebore.\n[Note 166: The ancients considered it a specific against madness.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nPhrynichus is as bold as a cock and terrifies his rivals.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nOh! oh! have a care he does not kick you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHis leg kicks out sky-high, and his arse gapes open.\n[Note 167: Phrynichus, like all the ancient tragic writers, mingled many dances with his pieces.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\nDo have a care.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nLook how easily my leg-joints move.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nGreat gods! What does all this mean? Is it actual, downright madness?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nAnd now I summon and challenge my rivals. If there be a tragic poet who pretends to be a skilful dancer, let him come and contest the matter with me. Is there one? Is there not one?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nHere comes one, and one only.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWho is the wretch?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\n'Tis the younger son of Carcinus.\n[Note 168: Tragic poet. His three sons had also written tragedies and were dancers into the bargain.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nI will crush him to nothing; in point of keeping time, I will knock him out, for he knows nothing of rhythm.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nAh! ah! here comes his brother too, another tragedian, and another son of Carcinus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHim I will devour for my dinner.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nOh! ye gods! I see nothing but crabs.Here is yet another son of Carcinus.\n[Note 169: Carcinus, by a mere transposition of the accent (καρκίνος), means crab in Greek; hence the pun.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nWhat is't comes here? A shrimp or a spider?\n[Note 170: Carcinus' sons were small and thin.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\n'Tis a crab,—a crabkin, the smallest of its kind; he writes tragedies.\n[Note 171: The third son of Carcinus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nOh! Carcinus, how proud you should be of your brood! What a crowd of kinglets have come swooping down here!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BDELYCLEON\nCome, come, my poor father, you will have to measure yourself against them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PHILOCLEON\nHave pickle prepared for seasoning them, if I am bound to prove the victor.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nLet us stand out of the way a little, so that they may twirl at their ease. Come, illustrious children of this inhabitant of the briny, brothers of the shrimps, skip on the sand and the shore of the barren sea; show us the lightning whirls and twirls of your nimble limbs. Glorious offspring of Phrynichus,let fly your kicks, so that the spectators may be overjoyed at seeing your legs so high in air. Twist, twirl, tap your bellies, kick your legs to the sky. Here comes your famous father, the ruler of the sea,delighted to see his three lecherous kinglets.Go on with your dancing, if it pleases you, but as for us, we shall not join you. Lead us promptly off the stage, for never a Comedy yet was seen where the Chorus finished off with a dance.\n[Note 172: Meaning, the three sons of Carcinus, the dancers, because, as mentioned before, Phrynichus often introduced a chorus of dancers into his Tragedies.]\n[Note 173: Carcinus himself.]\n[Note 174: The Greek word is τριόρχοι—possessed of three testicles, of three-testicle power, inordinately lecherous; with the change of a letter (τριαρχόι) it means 'three rulers,' 'three kinglets.']",
+          "ref": null
+        }
+      ]
+    }
+  ]
+}

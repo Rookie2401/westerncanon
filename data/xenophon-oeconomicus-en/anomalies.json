@@ -1,0 +1,10 @@
+[
+  {
+    "where": "oeconomicus-en / apparatus",
+    "note": "3 <bibl> inline source-attribution label(s) (e.g. naming the poet a quoted line traces to, such as \"Theognis\") excluded from the reading text - confirmed by direct inspection to be glued onto the surrounding text with no separating whitespace, i.e. editorial apparatus, never part of Xenophon's own sentence. Not logged individually."
+  },
+  {
+    "where": "oeconomicus-en / apparatus",
+    "note": "25 <note> translator/editorial footnote(s) excluded entirely, at every nesting depth - never Xenophon's own words. Not logged individually (too numerous to be useful per-occurrence)."
+  }
+]

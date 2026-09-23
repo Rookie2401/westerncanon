@@ -1,0 +1,66 @@
+[
+  {
+    "where": "plato-laches-grc / <sic>",
+    "note": "<sic> — Burnet's transcription explicitly flags \"εἰπεῖν\" as printed exactly as the manuscript/tradition gives it (a marked but unemended reading); kept verbatim."
+  },
+  {
+    "where": "sec-182",
+    "note": "<del> excluded from the reading text: \"τὸν\""
+  },
+  {
+    "where": "sec-185",
+    "note": "<del> excluded from the reading text: \"οὗ\""
+  },
+  {
+    "where": "sec-185",
+    "note": "<del> excluded from the reading text: \"καὶ σκεπτόμεθα\""
+  },
+  {
+    "where": "sec-186",
+    "note": "<del> excluded from the reading text: \"ἡμῶν γεγόνασιν\""
+  },
+  {
+    "where": "sec-188",
+    "note": "<del> excluded from the reading text: \"λόγῳ ὥσπερ γένει\""
+  },
+  {
+    "where": "sec-188",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-188",
+    "note": "<del> excluded from the reading text: \"ζῆν ἡρμοσμένος οὗ\""
+  },
+  {
+    "where": "sec-191",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 8.107-108\""
+  },
+  {
+    "where": "sec-191",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 8.107-108\""
+  },
+  {
+    "where": "sec-191",
+    "note": "<del> excluded from the reading text: \"τὸ ἐκείνων\""
+  },
+  {
+    "where": "sec-191",
+    "note": "<del> excluded from the reading text: \"τό γε τῶν Ἑλλήνων\""
+  },
+  {
+    "where": "sec-192",
+    "note": "<del> excluded from the reading text: \"περὶ ἀνδρείας\""
+  },
+  {
+    "where": "sec-201",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.347\""
+  },
+  {
+    "where": "plato-laches-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-laches-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

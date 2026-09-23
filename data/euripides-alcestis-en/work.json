@@ -1,0 +1,2366 @@
+{
+  "workId": "euripides-alcestis-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "dramatis-personae",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "Dramatis Personae",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "Apollo\nDeath\nChorus of Old Men of Pherae\nMaid\nAlcestis\nAttendant\nAdmetus\nEumelus\nHeracles\nPheres",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1",
+      "number": "1",
+      "ref": "1–25",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1",
+          "text": "Apollo\nHalls of Admetus, wherein I steeled my heart to be content with a servant’s board, god though I was. Zeus was to blame; he slew my son Asclepius, piercing his bosom with a thunderbolt; whereat I was enraged and smote his Cyclopes, forgers of the heavenly fire; so my sire in recompense for this forced me to become a slave in a mortal’s home. Then came I to this land and kept a stranger’s flocks, and to this day have been the saviour of this house. For in Pheres’ son I found a man as holy as myself, and him I saved from death by cheating Destiny, for they promised me, those goddesses of fate, that Admetus should escape the impending doom, if he found a substitute for the powers below. So he went through all his list of friends, made trial of each, his father and the aged mother that bare him, but none he found save his wife alone that was willing to die for him and forego the light of life; she now within the house is upheld in his arms, gasping out her life; for to-day is she doomed to die and pass from life to death. But I, for fear pollution overtake me in the house, am leaving the shelter of this roof I love so well, for already I see Death hard by, the priest of souls departed, who is on his way to lead her to the halls of Hades; true to time he comes, watching this day that calls her to her doom.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-28",
+      "number": "28",
+      "ref": "28–35",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "28",
+          "text": "Death\nHa! What dost thou at this house? why is it thou art ranging here, Phoebus? Once again thou wrongest me, circumscribing and limiting the honours of the nether world. Wert thou not content to hinder the death of Admetus, by thy knavish cunning baulking Destiny? but now again hast thou armed thee with thy bow and art keeping guard o’er her, this daughter of Pelias, who undertook, of her free will, to die for her lord and set him free.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-38",
+      "number": "38",
+      "ref": "38–75",
+      "sourceHeading": "Anapests",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "38",
+          "text": "Apollo\nNever fear; I have, be sure, justice and fair pleas to urge.",
+          "ref": null
+        },
+        {
+          "n": "39",
+          "text": "Death\nWhat has that bow to do, if thou hast justice on thy side?",
+          "ref": null
+        },
+        {
+          "n": "40",
+          "text": "Apollo\n’Tis my habit ever to carry it.",
+          "ref": null
+        },
+        {
+          "n": "41",
+          "text": "Death\nAy, and to help this house more than is right.",
+          "ref": null
+        },
+        {
+          "n": "42",
+          "text": "Apollo\nThe reason is, I cannot bear a friend’s distress.",
+          "ref": null
+        },
+        {
+          "n": "43",
+          "text": "Death\nWilt rob me of this second corpse likewise?",
+          "ref": null
+        },
+        {
+          "n": "44",
+          "text": "Apollo\nCome! I did not take the other from thee by violence.",
+          "ref": null
+        },
+        {
+          "n": "45",
+          "text": "Death\nThen how is it he lives above the earth and not beneath?",
+          "ref": null
+        },
+        {
+          "n": "46",
+          "text": "Apollo\nHe gave his wife instead, her whom now thou art come to fetch.",
+          "ref": null
+        },
+        {
+          "n": "47",
+          "text": "Death\nYea, and I will bear her hence to the nether world.",
+          "ref": null
+        },
+        {
+          "n": "48",
+          "text": "Apollo\nTake her and go, for I do not suppose I can persuade thee.",
+          "ref": null
+        },
+        {
+          "n": "49",
+          "text": "Death\nTo slay my rightful victim? Why, that is my appointed task.",
+          "ref": null
+        },
+        {
+          "n": "50",
+          "text": "Apollo\nNay, but to lay thy deadly hand on those who soon would die.",
+          "ref": null
+        },
+        {
+          "n": "51",
+          "text": "Death\nI see thy drift, thy eager plea.",
+          "ref": null
+        },
+        {
+          "n": "52",
+          "text": "Apollo\nIs it then possible that Alcestis should attain old age?",
+          "ref": null
+        },
+        {
+          "n": "53",
+          "text": "Death\nIt is not possible; I too, methinks, find a pleasure in my rights.",
+          "ref": null
+        },
+        {
+          "n": "54",
+          "text": "Apollo\nThou canst not anyhow take more than one life.",
+          "ref": null
+        },
+        {
+          "n": "55",
+          "text": "Death\nWhen young lives die I reap a higher honour.",
+          "ref": null
+        },
+        {
+          "n": "56",
+          "text": "Apollo\nShould she die old, a sumptuous funeral will she have.",
+          "ref": null
+        },
+        {
+          "n": "57",
+          "text": "Death\nPhoebus, the law thou layest down is all in favour of the rich.",
+          "ref": null
+        },
+        {
+          "n": "58",
+          "text": "Apollo\nWhat mean’st thou? art so wise, and I never knew it?",
+          "ref": null
+        },
+        {
+          "n": "59",
+          "text": "Death\nThose who have wealth would buy the chance of their dying old.",
+          "ref": null
+        },
+        {
+          "n": "60",
+          "text": "Apollo\nIt seems then thou wilt not grant me this favour.",
+          "ref": null
+        },
+        {
+          "n": "61",
+          "text": "Death\nNot I; my customs well thou knowest.",
+          "ref": null
+        },
+        {
+          "n": "62",
+          "text": "Apollo\nThat I do, customs men detest and gods abhor.",
+          "ref": null
+        },
+        {
+          "n": "63",
+          "text": "Death\nThou canst not realise every lawless wish.",
+          "ref": null
+        },
+        {
+          "n": "64",
+          "text": "Apollo\nMark me, thou shalt have a check for all thy excessive fierceness; such a hero shall there come to Pheres’ halls, by Eurystheus sent to fetch a team of steeds from the wintry world of Thrace; he, a guest awhile in these halls of Admetus, will wrest this woman from thee by sheer force. So wilt thou get no thanks from me but yet wilt do this all the same, and earn my hatred too.",
+          "ref": null
+        },
+        {
+          "n": "72",
+          "text": "Death\nThou wilt not gain thy purpose any the more for all thy many words; that woman shall to Hades’ halls go down, I tell thee. Lo! I am going for her, that with the sword I may begin my rites, for he whose hair this sword doth hallow is sacred to the gods below.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-77",
+      "number": "77",
+      "ref": "77–85",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "77",
+          "text": "First Semichorus\nWhat means this silence in front of the palace? why is the house of Admetus stricken dumb?",
+          "ref": null
+        },
+        {
+          "n": "79",
+          "text": "Second Semichorus\nNot one friend near to say if we must mourn our queen as dead, or if she liveth yet and sees the sun, Alcestis, daughter of Pelias, by me and all esteemed the best of wives to her husband.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-86",
+      "number": "86",
+      "ref": "86–90",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "86",
+          "text": "First Semichorus\nDoth any of you hear a groan, or sound of hands that smite together, or the voice of lamentation, telling all is over and done? Yet is there no servant stationed about the gate, no, not one. O come, thou saving god, to smooth the swelling waves of woe!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-93",
+      "number": "93",
+      "ref": "93–96",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "93",
+          "text": "Second Semichorus\nSurely, were she dead, they would not be so still.",
+          "ref": null
+        },
+        {
+          "n": "94",
+          "text": "First Semichorus\nMaybe her corpse is not yet from the house borne forth.",
+          "ref": null
+        },
+        {
+          "n": "95",
+          "text": "Second Semichorus\nWhence that inference? I am not so sanguine. What gives thee confidence?",
+          "ref": null
+        },
+        {
+          "n": "96",
+          "text": "First Semichorus\nHow could Admetus let his noble wife go unattended to the grave?",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-98",
+      "number": "98",
+      "ref": "98–100",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "98",
+          "text": "Second Semichorus\nBefore the gates I see no lustral water from the spring, as custom doth ordain should be at the gates of the dead, no shorn lock lies on the threshold, which, as thou knowest, falls in mourning for the dead, no choir of maidens smites its youthful palms together.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-105",
+      "number": "105",
+      "ref": "105–110",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "105",
+          "text": "First Semichorus\nAnd yet this is the appointed day.",
+          "ref": null
+        },
+        {
+          "n": "106",
+          "text": "Second Semichorus\nWhat meanest thou by this?",
+          "ref": null
+        },
+        {
+          "n": "107",
+          "text": "First Semichorus\nThe day appointed for the journey to the world below.",
+          "ref": null
+        },
+        {
+          "n": "108",
+          "text": "Second Semichorus\nThou hast touched me to the heart, e’en to the soul.",
+          "ref": null
+        },
+        {
+          "n": "109",
+          "text": "Chorus\nWhoso from his youth up has been accounted virtuous, needs must weep to see the good suddenly cut off.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-112",
+      "number": "112",
+      "ref": "112–120",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "112",
+          "text": "Chorus\n’Tis done; no single spot in all the world remains whither one might steer a course, either to Lycia or to the parched abodes of Ammon to release the hapless lady’s soul; on comes death with step abrupt, nor know I to whom I should go of all who at the gods’ altars offer sacrifice.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-122",
+      "number": "122",
+      "ref": "122–130",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "122",
+          "text": "Chorus\nOnly the son of Phoebus, if he yet saw this light of day— Ah! then then might she have left the dark abode and gates of Hades and have come again, for he would raise the dead to life, till that the thunderbolt’s forked flame, hurled by Zeus, smote him. But now what further hope of life can I welcome to me?",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-132",
+      "number": "132",
+      "ref": "132–135",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "132",
+          "text": "Chorus\nOur lords have ere this done all they could; on every altar streams the blood of abundant sacrifice; yet our sorrows find no cure.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-136",
+      "number": "136",
+      "ref": "136–210",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "136",
+          "text": "Chorus\nLo! from the house cometh a handmaid weeping; what shall I be told hath chanced? Grief may well be pardoned, if aught happeneth to one’s master; yet I fain would learn whether our lady still is living or haply is no more.",
+          "ref": null
+        },
+        {
+          "n": "141",
+          "text": "Maid\nAlive, yet dead thou may’st call her.",
+          "ref": null
+        },
+        {
+          "n": "142",
+          "text": "Chorus\nWhy, how can the same person be alive, yet dead?",
+          "ref": null
+        },
+        {
+          "n": "143",
+          "text": "Maid\nShe is sinking even now, and at her last gasp.",
+          "ref": null
+        },
+        {
+          "n": "144",
+          "text": "Chorus\nMy poor master! how sad thy lot to lose so good a wife!",
+          "ref": null
+        },
+        {
+          "n": "145",
+          "text": "Maid\nHe did not know his loss, until the blow fell on him.",
+          "ref": null
+        },
+        {
+          "n": "146",
+          "text": "Chorus\nIs there then no more a hope of saving her?",
+          "ref": null
+        },
+        {
+          "n": "147",
+          "text": "Maid\nNone; the fated day comes on so fast.",
+          "ref": null
+        },
+        {
+          "n": "148",
+          "text": "Chorus\nAre then the fitting rites already taking place o’er her body?",
+          "ref": null
+        },
+        {
+          "n": "149",
+          "text": "Maid\nDeath’s garniture is ready, wherewith her lord will bury her.",
+          "ref": null
+        },
+        {
+          "n": "150",
+          "text": "Chorus\nWell let her know, though die she must, her fame ranks far above any other wife’s beneath the sun.",
+          "ref": null
+        },
+        {
+          "n": "152",
+          "text": "Maid\nFar above! of course it does; who will gainsay it? What must the woman be who hath surpassed her? For how could any wife have shown a clearer regard for her lord than by offering in his stead to die? Thus much the whole city knows right well; but thou shalt hear with wonder what she did within the house. For when she knew the fatal day was come, she washed her fair white skin with water from the stream, then from her cedar chests drew forth vesture and ornaments and robed herself becomingly; next, standing before the altar-hearth, she prayed, Mistress mine, behold! I pass beneath the earth; to thee in suppliant wise will I my latest prayer address; be mother to my orphans, and to my boy unite a loving bride, to my daughter a noble husband. Let them not die, as I, their mother, perish now, untimely in their youth, but let them live their glad lives out, happy in their native land. To every altar in Admetus’ halls she went and crowned them and prayed, plucking from myrtle boughs their foliage, with never a tear or groan, nor did her coming trouble change the colour of her comely face. Anon into her bridal bower she burst, and then her tears brake forth and thus she cried, O couch, whereon I loosed my maiden state for the man in whose cause I die, farewell! no hate I feel for thee; for me alone hast thou undone, dying as I die from fear of betraying thee and my lord. Some other wife will make thee hers, more blest maybe than me, but not more chaste. And she fell upon her knees and kissed it, till with her gushing tears the whole bed was wet. At last, when she had had her fill of weeping, she tore herself from the bed and hurried headlong forth, and oft as she was leaving the chamber turned she back and cast herself once more upon the couch; while her children were weeping as they clung to their mother’s robes; but she took them each in turn in her arms and kissed them fondly, as a dying mother might. And all the servants in the house fell a-crying in sorrow for their mistress; but she held out her hand to each, nor was there one so mean but she gave him a word and took his answer back. Such are the sorrows in the halls of Admetus. Dying he had died once for all, but by avoiding death he hath a legacy of grief that he will ne’er forget.",
+          "ref": null
+        },
+        {
+          "n": "199",
+          "text": "Chorus\nDoubtless Admetus sorrows in this calamity, if he must lose so good a wife.",
+          "ref": null
+        },
+        {
+          "n": "201",
+          "text": "Maid\nAh yes! he weeps, holding in his arms his darling wife, and prays her not to leave him, impossible request! for she is worn and wasted with illness, and lies exhausted, a sad burden in his arms. Still, though her breath comes short and scant, she yearns to gaze yet on the sunshine, for nevermore, but now the last and latest time her eye shall see his radiant orb. But I will go, thy presence to announce, for ’tis not all who have the goodwill to stand by their masters with kindly hearts in adversity. But thou of old hast been my master’s friend.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-213",
+      "number": "213",
+      "ref": "213–225",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "213",
+          "text": "Chorus\nO Zeus, what way out of these sorrows can be found? how can we loose the bonds of fate that bind our lord? Comes some one forth? Am I at once to cut my hair, and cast the sable robe about me? Too plainly, ay too plainly, friends; still let us to heaven pray; for the gods’ power is very great. O king Paean, devise for Admetus some means of escape from his sorrows. Yes, yes, contrive it; for thou in days gone by didst find salvation for him, so now be thou a saviour from the toils of death and stay bloodthirsty Hades.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-226",
+      "number": "226",
+      "ref": "226–235",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "226",
+          "text": "Chorus\nWoe! woe! alas! Thou son of Pheres, woe! Ah, thy fate in losing thy wife! Is not this enough to make thee slay thyself, ah! more than cause enough to tie the noose aloft and fit it to the neck? Yea, for to-day wilt thou witness the death of her that was not merely dear, but dearest of the dear. Look, look! she cometh even now, her husband with her, from the house. Cry aloud and wail, O land of Pherae, wail for the best of women, as with sickness worn she passes ’neath the earth to Hades, lord below.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-238",
+      "number": "238",
+      "ref": "238–240",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "238",
+          "text": "Chorus\nNever, never will I say that marriage brings more joy than grief, as I conjecture by the past and witness these misfortunes of our king, for he when widowed of this noble wife will for the future lead a life that is no life at all.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-244",
+      "number": "244",
+      "ref": "244–245",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "244",
+          "text": "Alcestis\nO sun-god, lamp of day! O scudding clouds that dance along the sky!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-246",
+      "number": "246",
+      "ref": "246",
+      "sourceHeading": "Strophe",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "246",
+          "text": "Admetus\nHe sees us both with anguish bowed, albeit guiltless of any crime against the gods, for the which thy death is due.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-248",
+      "number": "248",
+      "ref": "248",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "248",
+          "text": "Alcestis\nO earth, O sheltering roof, and ye my maiden chambers in my native land Iolcos!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-250",
+      "number": "250",
+      "ref": "250",
+      "sourceHeading": "Antistrophe",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "250",
+          "text": "Admetus\nLift thyself, unhappy wife, forsake me not; entreat the mighty gods to pity us.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-252",
+      "number": "252",
+      "ref": "252–255",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "252",
+          "text": "Alcestis\nI see the two-oared skiff, I see it; and Charon, death’s ferryman, his hand upon the boatman’s pole, is calling me e’en now, Why lingerest thou? Hasten. Thou art keeping me. Thus in his eager haste he hurries me.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-257",
+      "number": "257",
+      "ref": "257",
+      "sourceHeading": "Strophe",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "257",
+          "text": "Admetus\nAh me! bitter to me is this voyage thou speakest of. Unhappy wife, what woes are ours!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-259",
+      "number": "259",
+      "ref": "259–260",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "259",
+          "text": "Alcestis\nOne draws me, draws me hence, seest thou not? to the courts of death, winged Hades glaring from beneath his dark brows. What wilt thou with me? Unhand me. On what a journey am I setting out, most wretched woman I!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-264",
+      "number": "264",
+      "ref": "264–265",
+      "sourceHeading": "Antistrophe",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "264",
+          "text": "Admetus\nBitter journey to thy friends, yet most of all to me and to thy babes, the partners in this sorrow.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-266",
+      "number": "266",
+      "ref": "266–270",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "266",
+          "text": "Alcestis\nHands off! hands off at once! Lay me down, I cannot stand. Hades standeth near; and with its gloom steals night upon my eyes. O my children, my children, ye have no mother now. Fare ye well, my babes, live on beneath the light!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-273",
+      "number": "273",
+      "ref": "273–275",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "273",
+          "text": "Admetus\nWoe is me! this is a message of sorrow to me, worse than aught that death can do. Steel not thy heart to leave me, I implore, by heaven, by thy babes whom thou wilt make orphans; nay, raise thyself, have courage. For if thou die I can no longer live; my life, my death are in thy hands; thy love is what I worship.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-280",
+      "number": "280",
+      "ref": "280–326",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "280",
+          "text": "Alcestis\nAdmetus, lo! thou seest how it is with me; to thee I fain would tell my wishes ere I die. Thee I set before myself, and instead of living have ensured thy life, and so I die, though I need not have died for thee, but might have taken for my husband whom I would of the Thessalians, and have had a home blest with royal power; reft of thee, with my children orphans, I cared not to live, nor, though crowned with youth’s fair gifts, wherein I used to joy, did I grudge them. Yet the father that begat thee, the mother that bare thee, gave thee up, though they had reached a time of life when to die were well, so saving thee their child, and winning noble death. For thou wert their only son, nor had they any hope, when thou wert dead, of other offspring. And I should have lived and thou the remnant of our days, nor wouldst thou have wept thy wife’s loss, nor have had an orphan family. But some god hath caused these things to be even as they are. Enough! Remember thou the gratitude due to me for this; yea, for I shall never ask thee for an adequate return, for naught is prized more highly than our life; but just is my request, as thou thyself must say, since thou no less than I dost love these children, if so be thou think’st aright. Be content to let them rule my house, and do not marry a new wife to be a stepmother to these children, for she from jealousy, if so she be a woman worse than me, will stretch out her hand against the children of our union. Then do not this, I do beseech thee. For the stepmother that succeeds, hateth children of a former match, cruel as the viper’s are her tender mercies. A son, ’tis true, hath in his sire a tower of strength, [to whom he speaks and has his answer back]; but thou, my daughter, how shall thy maidenhood be passed in honour? What shall thy experience be of thy father’s wife? She may fasten on thee some foul report in thy youthful bloom, and frustrate thy marriage. Never shall thy mother lead thee to the bridal bed, nor by her presence in thy travail hearten thee, my child, when a mother’s kindness triumphs over all. No, for I must die; and lo! this evil cometh to me not to-morrow nor yet on the third day of the month, but in a moment shall I be counted among the souls that are no more. Fare ye well, be happy; and thou, husband, canst boast thou hadst a peerless wife, and you, children, that you had such an one for mother.",
+          "ref": null
+        },
+        {
+          "n": "326",
+          "text": "Chorus\nTake heart; I do not hesitate to answer for him; he will perform all this, unless his mind should go astray.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-328",
+      "number": "328",
+      "ref": "328–370",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "328",
+          "text": "Admetus\nIt shall be so, fear not, it shall; alive thou wert the only wife I had, and dead shalt thou, none else, be called mine; no Thessalian maid shall ever take thy place and call me lord; not though she spring from lineage high nor though besides she be the fairest of her sex. Of children I have enough; god grant I may in them be blessed! for in thee has it been otherwise. No year-long mourning will I keep for thee, but all my life through, lady: loathing the mother that bare me, and hating my father, for they were friends in word but not in deed. But thou didst give thy dearest for my life and save it. May I not then mourn to lose a wife like thee? And I will put an end to revelry, to social gatherings o’er the wine, forego the festal crown and music which once reigned in my halls. For nevermore will I touch the lyre nor lift my soul in song to the Libyan flute, for thou hast taken with thee all my joy in life. But in my bed thy figure shall be laid full length, by cunning artists fashioned; thereon will I throw myself and, folding my arms about thee, call upon thy name, and think I hold my dear wife in my embrace, although I do not; chill comfort this, no doubt, but still I shall relieve my soul of its sad weight; and thou wilt come to me in dreams and gladden me. For sweet it is to see our friends, come they when they will, e’en by night. Had I the tongue, the tuneful voice of Orpheus to charm Demeter’s daughter or her husband by my lay and bring thee back from Hades, I had gone down, nor Pluto’s hound, nor Charon, ferryman of souls, whose hand is on the oar, had held me back, till to the light I had restored thee alive. At least do thou await me there, against the hour I die, prepare a home for me to be my true wife still. For in this same cedar coffin I will bid these children lay me with thee and stretch my limbs by thine; for never even in death may I be severed from thee, alone found faithful of them all.",
+          "ref": null
+        },
+        {
+          "n": "369",
+          "text": "Chorus\nLo! I too will share with thee thy mourning for her, friend with friend; for this is but her due.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-371",
+      "number": "371",
+      "ref": "371–392",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "371",
+          "text": "Alcestis\nMy children, ye with your own ears have heard your father’s promise, that he will never wed another wife to set her over you, nor e’er dishonour me.",
+          "ref": null
+        },
+        {
+          "n": "374",
+          "text": "Admetus\nYea, so I promise now, and accomplish it I will.",
+          "ref": null
+        },
+        {
+          "n": "375",
+          "text": "Alcestis\nOn these conditions receive the children from my hand.",
+          "ref": null
+        },
+        {
+          "n": "376",
+          "text": "Admetus\nI receive them, dear pledges by a dear hapd given.",
+          "ref": null
+        },
+        {
+          "n": "377",
+          "text": "Alcestis\nTake thou my place and be a mother to these babes.",
+          "ref": null
+        },
+        {
+          "n": "378",
+          "text": "Admetus\nSore will be their need when they are reft of thee.",
+          "ref": null
+        },
+        {
+          "n": "379",
+          "text": "Alcestis\nO my children, I am passing to that world below, when my life was needed most.",
+          "ref": null
+        },
+        {
+          "n": "380",
+          "text": "Admetus\nAh me, what can I do bereft of thee?",
+          "ref": null
+        },
+        {
+          "n": "381",
+          "text": "Alcestis\nThy sorrow Time will soothe; ’tis the dead who are as naught.",
+          "ref": null
+        },
+        {
+          "n": "382",
+          "text": "Admetus\nTake me, O take me, I beseech, with thee ’neath the earth.",
+          "ref": null
+        },
+        {
+          "n": "383",
+          "text": "Alcestis\nEnough that I in thy stead am dying.",
+          "ref": null
+        },
+        {
+          "n": "384",
+          "text": "Admetus\nO Destiny! of what a wife art thou despoiling me!",
+          "ref": null
+        },
+        {
+          "n": "385",
+          "text": "Alcestis\nLo! the darkness deepens on my drooping eyes.",
+          "ref": null
+        },
+        {
+          "n": "386",
+          "text": "Admetus\nLost indeed am I, if thou, dear wife, wilt really leave me.",
+          "ref": null
+        },
+        {
+          "n": "387",
+          "text": "Alcestis\nThou mayst speak of me as naught, as one whose life is o’er.",
+          "ref": null
+        },
+        {
+          "n": "388",
+          "text": "Admetus\nLift up thy face, leave not thy children.",
+          "ref": null
+        },
+        {
+          "n": "389",
+          "text": "Alcestis\n’Tis not my own free will; O my babes, farewell!",
+          "ref": null
+        },
+        {
+          "n": "390",
+          "text": "Admetus\nLook, look on them but once.",
+          "ref": null
+        },
+        {
+          "n": "390b",
+          "text": "Alcestis\nMy end is come.",
+          "ref": null
+        },
+        {
+          "n": "391",
+          "text": "Admetus\nWhat mean’st thou? art leaving us?",
+          "ref": null
+        },
+        {
+          "n": "391b",
+          "text": "Alcestis\nFarewell!",
+          "ref": null
+        },
+        {
+          "n": "391c",
+          "text": "Admetus\nLost! lost! woe is me!",
+          "ref": null
+        },
+        {
+          "n": "392",
+          "text": "Chorus\nShe is gone, the wife of Admetus is no more.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-393",
+      "number": "393",
+      "ref": "393–400",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "393",
+          "text": "Eumelus\nO my hard fate! My mother has passed to the realms below; she lives no more, dear father, ’neath the sun. Alas for her! she leaves us ere her time and to me bequeaths an orphan’s life. Behold that staring eye, those nerveless hands! Hear me, mother, hear me, I implore! ’tis I who call thee now, I thy tender chick, printing my kisses on thy lips.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-404",
+      "number": "404",
+      "ref": "404–405",
+      "sourceHeading": "Strophe",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "404",
+          "text": "Admetus\nShe cannot hear, she cannot see; a heavy blow hath fortune dealt us, you children and me.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-406",
+      "number": "406",
+      "ref": "406–415",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "406",
+          "text": "Eumelus\nO father, I am but a child to have my loving mother leave me here alone; O cruel my fate, alas! and thine, my sister, sharer in my cup of woe. Woe to thee, father! in vain, in vain didst thou take a wife and hast not reached the goal of eld with her; for she is gone before, and now that thou art dead, my mother, our house is all undone.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-416",
+      "number": "416",
+      "ref": "416–430",
+      "sourceHeading": "Antistrophe",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "416",
+          "text": "Chorus\nAdmetus, these misfortunes thou must bear. Thou art by no means the first nor yet shalt be the last of men to lose a wife of worth; know this, we all of us are debtors unto death.",
+          "ref": null
+        },
+        {
+          "n": "420",
+          "text": "Admetus\nI understand; this is no sudden flight of ill hither; I was ware of it and long have pined. But since I am to. carry the dead forth to her burial, stay here with me and to that inexorable god in Hades raise your antiphone. While raise your antiphone. While to all Thessalians in my realm I do proclaim a general mourning for this lady, with hair shorn off and robes of sable hue; all ye who harness steeds for cars, or single horses ride, cut off their manes with the sharp steel. Hush’d be every pipe, silent every lyre throughout the city till twelve full moons are past; for never again shall I bury one whom I love more, no! nor one more loyal to me; honour from me is her due, for she for me hath died, she and she alone. [Exeunt ADMETUS and EUMELUS, with the other children.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-435",
+      "number": "435",
+      "ref": "435–440",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "435",
+          "text": "Chorus\nDaughter of Pelias, be thine a happy life in that sunless home in Hades’ halls! Let Hades know, that swarthy god, and that old man who sits to row and steer alike at his death-ferry, that he hath carried o’er the lake of Acheron in his two-oared skiff a woman peerless amidst her sex.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-445",
+      "number": "445",
+      "ref": "445–450",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "445",
+          "text": "Chorus\nOft of thee the Muses’ votaries shall sing on the seven-stringed mountain shell and in hymns that need no harp, glorifying thee, oft as the season in his cycle cometh round at Sparta in that Carnean month when all night long the moon sails high o’erhead, yea, and in splendid Athens, happy town. So glorious a theme has thy death bequeathed to tuneful bards.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-455",
+      "number": "455",
+      "ref": "455–465",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "455",
+          "text": "Chorus\nWould it were in my power and range to bring thee to the light from the chambers of Hades and the streams of Cocytus with the oar that sweeps yon nether flood! For thou, and thou alone, most dear of women, hadst the courage to redeem thy husband from Hades in exchange for thy own life. Light lie the earth above thee, lady! And if ever thy lord take to him a new wife, I vow he will earn my hatred and thy children’s too.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-466",
+      "number": "466",
+      "ref": "466–475",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "466",
+          "text": "Chorus\nHis mother had no heart to plunge into the darkness of the tomb for her son, no! nor his aged sire. Their own child they had not the courage to rescue, the wretches! albeit they were grey-headed. But thou in thy youth and beauty hast died for thy lord and gone thy way. O be it mine to have for partner such a loving wife! for this lot is rare in life. Surely she should be my help-meet all my life and never cause one tear.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-476",
+      "number": "476",
+      "ref": "476–505",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "476",
+          "text": "Heracles\nMine hosts, dwellers on this Phersean soil! say, shall I find Admetus in the house?",
+          "ref": null
+        },
+        {
+          "n": "478",
+          "text": "Chorus\nThe son of Pheres is within, Heracles. Tell me what need is bringing thee to the Thessalian land, to visit this city of the Pheraeans?",
+          "ref": null
+        },
+        {
+          "n": "481",
+          "text": "Heracles\nI am performing a labour for Tirynthian Eurystheus.",
+          "ref": null
+        },
+        {
+          "n": "482",
+          "text": "Chorus\nAnd whither art thou journeying? on what wandering art thou forced to go?",
+          "ref": null
+        },
+        {
+          "n": "483",
+          "text": "Heracles\nTo fetch the chariot-steeds of Thracian Diomedes.",
+          "ref": null
+        },
+        {
+          "n": "484",
+          "text": "Chorus\nHow canst thou? art a stranger to the ways of thy host?",
+          "ref": null
+        },
+        {
+          "n": "485",
+          "text": "Heracles\nI am; for never yet have I gone to the land of the Bistones.",
+          "ref": null
+        },
+        {
+          "n": "486",
+          "text": "Chorus\nThou canst not master his horses without fighting.",
+          "ref": null
+        },
+        {
+          "n": "487",
+          "text": "Heracles\nStill I cannot refuse these labours.",
+          "ref": null
+        },
+        {
+          "n": "488",
+          "text": "Chorus\nThen shalt thou slay them and return, or thyself be slain and stay there.",
+          "ref": null
+        },
+        {
+          "n": "489",
+          "text": "Heracles\nIt will not be the first hard course that I have run.",
+          "ref": null
+        },
+        {
+          "n": "490",
+          "text": "Chorus\nAnd what will be thy gain, suppose thou master their lord?",
+          "ref": null
+        },
+        {
+          "n": "491",
+          "text": "Heracles\nThe steeds will I drive away to the Tirynthian king.",
+          "ref": null
+        },
+        {
+          "n": "492",
+          "text": "Chorus\nNo easy task to bit their jaws.",
+          "ref": null
+        },
+        {
+          "n": "493",
+          "text": "Heracles\nEasy enough, unless their nostrils vomit fire.",
+          "ref": null
+        },
+        {
+          "n": "494",
+          "text": "Chorus\nWith ravening jaws they rend the limbs of men.",
+          "ref": null
+        },
+        {
+          "n": "495",
+          "text": "Heracles\nThou speakest of the food of mountain beasts, not of horses.",
+          "ref": null
+        },
+        {
+          "n": "496",
+          "text": "Chorus\nTheir mangers blood-bedabbled thou shalt see.",
+          "ref": null
+        },
+        {
+          "n": "497",
+          "text": "Heracles\nWhose son doth he who feeds them boast to be?",
+          "ref": null
+        },
+        {
+          "n": "498",
+          "text": "Chorus\nAres’ son, king of the golden targe of Thrace.",
+          "ref": null
+        },
+        {
+          "n": "499",
+          "text": "Heracles\nThis toil again is but a piece of my ill-luck; hard it ever is and still is growing steeper, if I with Ares’ own-begotten sons must fight, first with Lycaon, next with Cycnus, while now I am bound on this third contest to engage the horses and their master. Yet shall no man ever see Alcmena’s son trembling at his foemen’s prowess.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-507",
+      "number": "507",
+      "ref": "507–536",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "507",
+          "text": "Chorus\nSee where Admetus, lord of this land, comes in person from the palace forth.",
+          "ref": null
+        },
+        {
+          "n": "509",
+          "text": "Admetus\nHail! son of Zeus, from Perseus sprung.",
+          "ref": null
+        },
+        {
+          "n": "510",
+          "text": "Heracles\nJoy to thee also, Admetus, king of Thessaly.",
+          "ref": null
+        },
+        {
+          "n": "511",
+          "text": "Admetus\nWould there were! yet thy kindly heart I know full well.",
+          "ref": null
+        },
+        {
+          "n": "512",
+          "text": "Heracles\nWhy dost thou appear with head shorn thus in mourning?",
+          "ref": null
+        },
+        {
+          "n": "513",
+          "text": "Admetus\nTo-day I am to bury one who is dead.",
+          "ref": null
+        },
+        {
+          "n": "514",
+          "text": "Heracles\nHeaven avert calamity from thy children!",
+          "ref": null
+        },
+        {
+          "n": "515",
+          "text": "Admetus\nThe children I have begotten are alive within my house.",
+          "ref": null
+        },
+        {
+          "n": "516",
+          "text": "Heracles\nThy father maybe is gone; well, he was ripe to go.",
+          "ref": null
+        },
+        {
+          "n": "517",
+          "text": "Admetus\nNo, Heracles, he lives; my mother too.",
+          "ref": null
+        },
+        {
+          "n": "518",
+          "text": "Heracles\nIt cannot be thy wife is dead, thy Alcestis?",
+          "ref": null
+        },
+        {
+          "n": "519",
+          "text": "Admetus\nI can a twofold tale tell about her.",
+          "ref": null
+        },
+        {
+          "n": "520",
+          "text": "Heracles\nDost mean that she is dead, or living still?",
+          "ref": null
+        },
+        {
+          "n": "521",
+          "text": "Admetus\nShe lives, yet lives no more; that is my grief.",
+          "ref": null
+        },
+        {
+          "n": "522",
+          "text": "Heracles\nI am no wiser yet; thy words are riddles to me.",
+          "ref": null
+        },
+        {
+          "n": "523",
+          "text": "Admetus\nKnowest thou not the doom she must undergo?",
+          "ref": null
+        },
+        {
+          "n": "524",
+          "text": "Heracles\nI know she did submit to die in thy stead.",
+          "ref": null
+        },
+        {
+          "n": "525",
+          "text": "Admetus\nHow then is she still alive, if so she promised?",
+          "ref": null
+        },
+        {
+          "n": "526",
+          "text": "Heracles\nAh! weep not thy wife before the day, put that off till then.",
+          "ref": null
+        },
+        {
+          "n": "527",
+          "text": "Admetus\nThe doomed is dead; the dead no more exists.",
+          "ref": null
+        },
+        {
+          "n": "528",
+          "text": "Heracles\nMen count to be and not to be something apart.",
+          "ref": null
+        },
+        {
+          "n": "529",
+          "text": "Admetus\nThy verdict this, O Heracles, mine another.",
+          "ref": null
+        },
+        {
+          "n": "530",
+          "text": "Heracles\nWhy weepest then? which of thy dear ones is the dead?",
+          "ref": null
+        },
+        {
+          "n": "531",
+          "text": "Admetus\n’Tis a woman; I spoke of a woman just now.",
+          "ref": null
+        },
+        {
+          "n": "532",
+          "text": "Heracles\nA stranger, or one of thine own kin?",
+          "ref": null
+        },
+        {
+          "n": "533",
+          "text": "Admetus\nA stranger, yet in another sense related to my house.",
+          "ref": null
+        },
+        {
+          "n": "534",
+          "text": "Heracles\nHow then came she by her death in house of thine?",
+          "ref": null
+        },
+        {
+          "n": "535",
+          "text": "Admetus\nHer father dead, she lived here as an orphan.",
+          "ref": null
+        },
+        {
+          "n": "536",
+          "text": "Heracles\nAh! would I had found thee free from grief, Admetus!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-536",
+      "number": "536",
+      "ref": "537–565",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "537",
+          "text": "Admetus\nWith what intent dost thou devise this speech?",
+          "ref": null
+        },
+        {
+          "n": "538",
+          "text": "Heracles\nI will seek some other friendly hearth.",
+          "ref": null
+        },
+        {
+          "n": "539",
+          "text": "Admetus\nNever, O prince! Heaven forefend such dire disgrace!",
+          "ref": null
+        },
+        {
+          "n": "540",
+          "text": "Heracles\nA guest is a burden to sorrowing friends, if come he should.",
+          "ref": null
+        },
+        {
+          "n": "541",
+          "text": "Admetus\nThe dead are dead. Come in.",
+          "ref": null
+        },
+        {
+          "n": "542",
+          "text": "Heracles\nTo feast in a friend’s house of sorrow is shameful.",
+          "ref": null
+        },
+        {
+          "n": "543",
+          "text": "Admetus\nThe guest chambers lie apart, whereto we will conduct thee.",
+          "ref": null
+        },
+        {
+          "n": "544",
+          "text": "Heracles\nLet me go; ten thousandfold shall be my thanks to thee.",
+          "ref": null
+        },
+        {
+          "n": "545",
+          "text": "Admetus\nThou must not go to any other hearth. (To a Servant.) Go before, open the guest-rooms that face not these chambers, and bid my stewards see there is plenty of food; then shut the doors that lead into the courtyard; for ’tis not seemly that guests when at their meat should hear the voice of weeping or be made sad. [Exit HERACLES.",
+          "ref": null
+        },
+        {
+          "n": "551",
+          "text": "Chorus\nWhat doest thou? With such calamity before thee, hast thou the heart, Admetus, to welcome visitors? What means this folly?",
+          "ref": null
+        },
+        {
+          "n": "553",
+          "text": "Admetus\nWell, and if I had driven him from my house and city when he came to be my guest, wouldst thou have praised me more? No indeed! for my calamity would have been no whit less, while I should have been more churlish. And this would have been another woe to add to mine, that my house should be called no friend to guests. Yea, and I find him myself the best of hosts whene’er to Argos’ thirsty land I come.",
+          "ref": null
+        },
+        {
+          "n": "561",
+          "text": "Chorus\nWhy then didst thou conceal thy present misfortune, if, as thy own lips declare, it was a friend that came?",
+          "ref": null
+        },
+        {
+          "n": "563",
+          "text": "Admetus\nHe would never have entered my house, had he known aught of my distress. Maybe there are who think me but a fool for acting thus, and these will blame me; but my halls have never learnt to drive away or treat with scorn my guests.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-568",
+      "number": "568",
+      "ref": "569–575",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "569",
+          "text": "Chorus\nO home of hospitality, thrown open by thy lord to all now and ever! In thee it was that Pythian Apollo, the sweet harper, deigned to make his home, and in thy halls was content to lead a shepherd’s life, piping o’er the sloping downs shepherd’s madrigals to thy flocks.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-578",
+      "number": "578",
+      "ref": "578–585",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "578",
+          "text": "Chorus\nAnd spotted lynxes couched amid his sheep in joy to hear his melody, and the lions’ tawny troop left the glen of Othrys and came; came too the dappled fawn on nimble foot from beyond the crested pines and frisked about thy lyre, O Phoebus, for very joy at thy gladsome minstrelsy.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-588",
+      "number": "588",
+      "ref": "588–595",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "588",
+          "text": "Chorus\nAnd so it is thy lord inhabits a home rich in countless flocks by Boebe’s lovely mere, bounding his tilled corn-land and his level pastures with the clime of the Molossi near the sun’s dark stable, and holding sway as far as the harbourless strand of the Aegean ’neath Pelion’s shadow.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-597",
+      "number": "597",
+      "ref": "597–605",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "597",
+          "text": "Chorus\nNow too hath he opened wide his house and welcomed a guest although his eye is wet with tears in mourning for his wife so dear but lately dead within his halls; yea, for noble birth to noble feeling is inclined. And in the good completest wisdom dwells; and at my heart sits the bold belief that heaven’s servant will be blessed.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-606",
+      "number": "606",
+      "ref": "606–625",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "606",
+          "text": "Admetus\nMen of Pherae, kindly gathered here, lo! even now my servants are bearing the corpse with all its trappings shoulder-high to the funeral pyre for burial; do ye, as custom bids, salute the dead on her last journey starting.",
+          "ref": null
+        },
+        {
+          "n": "611",
+          "text": "Chorus\nLook! I see thy father advancing with aged step, and servants too bearing in their arms adornment for thy wife, offerings for the dead.",
+          "ref": null
+        },
+        {
+          "n": "614",
+          "text": "Pheres\nMy son, I come to share thy sorrow, for thou hast lost a noble, peerless wife; that no man will deny. Yet must thou needs bear this blow, hard though it be. Accept this garniture, and let it go beneath the earth, for rightly is her body honoured, since she died to save thy life, my son, and gave me back my child, suffering me not to lose thee and pine away in an old age of sorrow. Thus by the generous deed she dared, hath she made her life a noble example for all her sex. Farewell to thee, who hast saved this son of mine and raised me up when falling; be thine a happy lot even in Hades’ halls! Such marriages I declare are gain to man, else to wed is not worth while.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-629",
+      "number": "629",
+      "ref": "629–674",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "629",
+          "text": "Admetus\nThou hast come uncalled by me to this burial, nor do I count thy presence as a friendly act. Never shall she be clad in any garniture of thine, nor in her burial will she need aught of thine. Thou shouldst have shewn thy sympathy at the time my doom was sealed. But thou didst stand aloof and let another die, though thou wert old, the victim young; shalt thou then mourn the dead? Methinks thou wert no real sire of mine nor was she my true mother who calls herself and is called so, but I was sprung of slave’s blood and privily substituted at thy wife’s breast. Brought to the test thou hast shewn thy nature; I cannot think I am thy child by birth. By heaven, thou art the very pattern of cowards, who at thy age, on the borderland of life, wouldst not, nay! couldst not find the heart to die for thy own son; but ye, my parents, left to this stranger, whom I henceforth shall justly hold e’en as mother and as father too, and none but her. And yet ’twas a noble exploit to achieve, to die to save thy son, and in any case the remnant of thy time to live was but short; and I and she would have lived the days that were to be, nor had I lost my wife and mourned my evil fate. Moreover thou hast had all treatment that a happy man should have; in princely pomp thy youth was spent, thou hadst a son, myself, to be the heir of this thy home, so thou hadst no fear of dying childless and leaving thy house desolate, for strangers to pillage. Nor yet canst thou say I did dishonour thy old age and give thee up to die, seeing I have ever been to thee most dutiful, and for this thou, my sire, and she, my mother, have made me this return. Go then, get other sons to tend thy closing years, prepare thy body for the grave, and lay out thy corpse. For I will never bury thee with hand of mine; for I am dead for all thou didst for me; but if I found a saviour in another and still live, his son I say I am, and his fond nurse in old age will be. ’Tis vain, I see, the old man’s prayer for death, his plaints at age and life’s long weariness. For if death do but draw near, not one doth wish to die; old age no more they count so burdensome.",
+          "ref": null
+        },
+        {
+          "n": "674",
+          "text": "Chorus\nPeace! enough the present sorrow, O my son; goad not thy father’s soul to fury.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-675",
+      "number": "675",
+      "ref": "675–706",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "675",
+          "text": "Pheres\nChild, whom think’st thou art reviling? some Lydian or Phrygian bought with thy money? Art not aware I am a freebom Thessalian, son of a Thessalian sire? Thou art too insolent; yet from hence thou shalt not go as thou earnest, after shooting out thy braggart tongue at me. To rule my house I begat and bred thee up; I own no debt of dying in thy stead; this is not the law that I received from my ancestors that fathers should die for children, nor is it a custom in Hellas. For weal or woe, thy life must be thine own; whate’er was due from me to thee, thou hast. Dominion wide is thine, and acres broad I will leave to thee, for from my father did I inherit them. How, pray, have I wronged thee? of what am I robbing thee? Die not thou for me, nor I for thee. Thy joy is in the light; think’st thou thy sire’s is not? By Heaven! ’tis a weary while, I trow, that time beneath the earth, and life, though short, is sweet. Thou at least didst struggle hard to ’scape thy death, lost to shame, and by her death dost live beyond thy destined term. Dost thou then speak of cowardice in me, thou craven heart! no match for thy wife, who hath died for thee, her fine young lord? A clever scheme hast thou devised to stave off death for ever, if thou canst persuade each new wife to die instead of thee; and dost thou then taunt thy friends, who will not do the like, coward as thou art thyself? Hold thy peace; reflect, if thou dost love thy life so well, this love by all is shared; yet if thou wilt speak ill of me, thyself shalt hear a full and truthful list of thy own crimes.",
+          "ref": null
+        },
+        {
+          "n": "706",
+          "text": "Chorus\nToo long that list both now and heretofore; cease, father, to revile thy son.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-708",
+      "number": "708",
+      "ref": "708–740",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "708",
+          "text": "Admetus\nSay on, for I have said my say; but if it vexes thee to hear the truth, thou shouldst not have sinned against me.",
+          "ref": null
+        },
+        {
+          "n": "710",
+          "text": "Pheres\nMy sin had been the deeper, had I died for thee.",
+          "ref": null
+        },
+        {
+          "n": "711",
+          "text": "Admetus\nWhat! is it all one for young or old to die?",
+          "ref": null
+        },
+        {
+          "n": "712",
+          "text": "Pheres\nTo live one life, not twain, is all our due.",
+          "ref": null
+        },
+        {
+          "n": "713",
+          "text": "Admetus\nOutlive then Zeus himself!",
+          "ref": null
+        },
+        {
+          "n": "714",
+          "text": "Pheres\nDost curse thy parents, though unharmed by them?",
+          "ref": null
+        },
+        {
+          "n": "715",
+          "text": "Admetus\nYea, for I see thy heart is set on length of days.",
+          "ref": null
+        },
+        {
+          "n": "716",
+          "text": "Pheres\nIs it not to save thyself thou art carrying to the tomb this corpse?",
+          "ref": null
+        },
+        {
+          "n": "717",
+          "text": "Admetus\nA proof of thy cowardice, thou craven heart!",
+          "ref": null
+        },
+        {
+          "n": "718",
+          "text": "Pheres\nAt any rate her death was not due to me; this thou canst not say.",
+          "ref": null
+        },
+        {
+          "n": "719",
+          "text": "Admetus\nAh! mayst thou some day come to need my aid!",
+          "ref": null
+        },
+        {
+          "n": "720",
+          "text": "Pheres\nWoo many wives, that there may be the more to die.",
+          "ref": null
+        },
+        {
+          "n": "721",
+          "text": "Admetus\nThat is thy reproach, for thou didst refuse to die.",
+          "ref": null
+        },
+        {
+          "n": "722",
+          "text": "Pheres\nDear is the light of the sun-god, dear to all.",
+          "ref": null
+        },
+        {
+          "n": "723",
+          "text": "Admetus\nA coward soul is thine, not to be reckoned among men.",
+          "ref": null
+        },
+        {
+          "n": "724",
+          "text": "Pheres\nNo laughing now for thee at bearing forth my aged corpse.",
+          "ref": null
+        },
+        {
+          "n": "725",
+          "text": "Admetus\nThy death will surely be a death of shame, come when it will.",
+          "ref": null
+        },
+        {
+          "n": "726",
+          "text": "Pheres\nOnce dead I little reck of foul report.",
+          "ref": null
+        },
+        {
+          "n": "727",
+          "text": "Admetus\nAlas! how void of shame the old can be!",
+          "ref": null
+        },
+        {
+          "n": "728",
+          "text": "Pheres\nHers was no want of shame; ’twas want of sense in her that thou didst find.",
+          "ref": null
+        },
+        {
+          "n": "729",
+          "text": "Admetus\nBegone! and leave me to bury my dead.",
+          "ref": null
+        },
+        {
+          "n": "730",
+          "text": "Pheres\nI go; bury thy victim, thyself her murderer. Her kinsmen yet will call for an account. Else surely has Acastus ceased to be a man, if he avenge not on thee his sister’s blood.",
+          "ref": null
+        },
+        {
+          "n": "734",
+          "text": "Admetus\nPerdition seize thee and that wife of thine! grow old, as ye deserve, childless, though your son yet lives, for ye shall never enter the same abode with me; nay! were it needful I should disown thy paternal hearth by heralds’ voice, I had disowned it. (Exit PHERES). Now, since we must bear our present woe, let us go and lay the dead upon the pyre. [Exit ADMETUS.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-741",
+      "number": "741",
+      "ref": "741–745",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "741",
+          "text": "Chorus\nWoe, woe for thee! Alas, for thy hardihood! Noble spirit, good beyond compare, farewell! May Hermes in the nether world, and Hades, too, give thee a kindly welcome! and if even in that other life the good are rewarded, mayst thou have thy share therein and take thy seat by Hades’ bride!",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-747",
+      "number": "747",
+      "ref": "747–770",
+      "sourceHeading": "Anapests",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "747",
+          "text": "Attendant\nMany the guests ere now from every comer of the world I have seen come to the halls of Admetus, for whom I have spread the board, but never yet have I welcomed to this hearth a guest so shameless as this; a man who, in the first place, though he saw my master’s grief, yet entered and presumed to pass the gates, then took what cheer we had in no sober spirit, though he knew our sorrow; no! was there aught we failed to bring? he called for it. Next in his hands he took a goblet of ivy-wood and drank the pure juice of the black grape, till the mounting fumes of wine heated him, and he crowned his head with myrtle-sprays, howling discordantly, while two-fold strains were there to hear, for he would sing without a thought for the troubles in Admetus’ halls, while we servants mourned our mistress, though we did not let the stranger see our streaming eyes, for such was the bidding of Admetus. So now here am I entertaining as a guest some miscreant thief maybe, or robber, while she is gone forth from the house, nor did I follow her nor stretch my hand towards her bier, in mourning for my lady, who, to me, and all her servants, was a mother, for she would save us from countless trouble, appeasing her husband’s angry mood. Have I not good cause then to loathe this guest who cometh in our hour of woe?",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-773",
+      "number": "773",
+      "ref": "773–815",
+      "sourceHeading": "Anapests",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "773",
+          "text": "Heracles\nHo! sirrah, why that solemn, thoughtful look? ’Tis not the way for servants to scowl on guests, but with courteous soul to welcome them. But thou, seeing a friend of thy master arrive, receivest him with sullen, lowering brow, though ’tis but a stranger that is the object of thy mourning. Come hither, that thou too mayst learn more wisdom. Dost know the nature of this mortal state? I trow not; how shouldst thou? Well, lend an ear to me. Death is the common debt of man; no mortal really knows if he will live to see the morrow’s light; for Fortune’s issues are not in our ken, beyond the teacher’s rule they lie, no art can master them. Hearken then to this and learn of me, be merry, drink thy cup, and count the present day thine own, the rest to Fortune yield. And to Cypris too, sweetest of the gods by far to man, thy tribute pay, for kindly is her mood. Let be those other cares, and heed my counsel if thou think’st I speak aright; methinks I do. Come, banish this excessive grief, and drink a cup with me when thou hast passed beyond these doors and wreathed thy brow; and I feel sure the plash of wine within the cup will bring thee to a better haven from this crabbed mood, this cabined state of mind. Mortals we are, and mortals’ thoughts should have; for all they who frown and scowl do miss,—leastways I think so,—the true life and get themselves misfortune.",
+          "ref": null
+        },
+        {
+          "n": "803",
+          "text": "Attendant\nI know all that, but our present state has little claim on revelry or laughter.",
+          "ref": null
+        },
+        {
+          "n": "805",
+          "text": "Heracles\nThe dead was a stranger woman; grieve not to excess; for the rulers of thy house are living.",
+          "ref": null
+        },
+        {
+          "n": "807",
+          "text": "Attendant\nHow, living? Thou knowest not the trouble in the house.",
+          "ref": null
+        },
+        {
+          "n": "808",
+          "text": "Heracles\nI do, unless thy master did in aught deceive me.",
+          "ref": null
+        },
+        {
+          "n": "809",
+          "text": "Attendant\nToo hospitable is he.",
+          "ref": null
+        },
+        {
+          "n": "810",
+          "text": "Heracles\nWas I to miss good cheer because a stranger had died?",
+          "ref": null
+        },
+        {
+          "n": "811",
+          "text": "Attendant\nA stranger surely! quite a stranger she!",
+          "ref": null
+        },
+        {
+          "n": "812",
+          "text": "Heracles\nIs there some trouble that he withheld from me?",
+          "ref": null
+        },
+        {
+          "n": "813",
+          "text": "Attendant\nFarewell, go thy way! my master’s troubles are my care.",
+          "ref": null
+        },
+        {
+          "n": "814",
+          "text": "Heracles\nThis word of thine heralds not a grief for strangers felt.",
+          "ref": null
+        },
+        {
+          "n": "815",
+          "text": "Attendant\nHad it been, the sight of thy merriment had not grieved me so.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-816",
+      "number": "816",
+      "ref": "816–860",
+      "sourceHeading": "Anapests",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "816",
+          "text": "Heracles\nCan it be mine host hath strangely wronged me?",
+          "ref": null
+        },
+        {
+          "n": "817",
+          "text": "Attendant\nThou earnest at no proper time for our house to welcome thee, for sorrow is come upon us; lo! thou seest our shorn heads and robes of sable hue.",
+          "ref": null
+        },
+        {
+          "n": "819b",
+          "text": "Heracles\nWho is it that is dead? Is it a child or his aged sire that hat hath passed away?",
+          "ref": null
+        },
+        {
+          "n": "821",
+          "text": "Attendant\nNay, sir guest, ’tis Admetus’ wife that is no more.",
+          "ref": null
+        },
+        {
+          "n": "822",
+          "text": "Heracles\nWhat sayest thou? and did ye then in spite of that admit me to your cheer?",
+          "ref": null
+        },
+        {
+          "n": "823",
+          "text": "Attendant\nYes, for his regard would not let him send thee from his door.",
+          "ref": null
+        },
+        {
+          "n": "824",
+          "text": "Heracles\nUnhappy husband, what a wife hast thou lost!",
+          "ref": null
+        },
+        {
+          "n": "825",
+          "text": "Attendant\nWe are all undone, not she alone.",
+          "ref": null
+        },
+        {
+          "n": "826",
+          "text": "Heracles\nI knew it when I saw his streaming eye, shorn head and downcast look, yet did he persuade me, saying it was a stranger he was bearing to burial. So I did constrain myself and passed his gates and sat drinking in his hospitable halls, when he was suffering thus. And have I wreathed my head and do I revel still? But—thou to hold thy peace when such a crushing sorrow lay upon the house! Where is he burying her? Whither shall I go to find her?",
+          "ref": null
+        },
+        {
+          "n": "835",
+          "text": "Attendant\nBeside the road that leadeth straight to Larissa, shalt thou see her carved tomb outside the suburb.",
+          "ref": null
+        },
+        {
+          "n": "837",
+          "text": "Heracles\nO heart, O soul, both sufferers oft, now show the mettle of that son Tirynthian Alcmena, daughter of Electryon, bare to Zeus. For I must save this woman, dead but now, setting Alcestis once again within this house, and to Admetus this kind service render. So I will go and watch for death the black-robed monarch of the dead, and him methinks I shall find as he drinks of the blood-offering near the tomb. And if, from ambush rushing, once I catch and fold him in my arms’ embrace, none shall ever wrest him thence with smarting ribs, ere he give up the woman unto me. But should I fail to find my prey and he come not to the clotted blood, I will go to the sunless home of those beneath the earth, to Persephone and her king, and make to them my prayer, sure that I shall bring Alcestis up again, to place her in the hands of him, my host, who welcomed me to his house nor drove me thence, though fortune smote him hard, but this his noble spirit strove to hide out of regard for me. What host more kind than him in Thessaly? or in in the homes of Hellas? Wherefore shall he never say his generous deeds were lavished on a worthless wretch. [Exeunt HERACLES and Servant.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-861",
+      "number": "861",
+      "ref": "861–870",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "861",
+          "text": "Admetus\nAh me! I loathe this entering in, and loathe to see my widowed home. Woe, woe is me! Whither shall I go? Where stand? what say? or what suppress? Would God that I were dead! Surely in an evil hour my mother gave me birth. The dead I envy, and would fain be as they, and long to dwell within their courts. No joy to me to see the light, no joy to tread the earth; such a hostage death hath reft me of and handed o’er to Hades.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-872",
+      "number": "872",
+      "ref": "872–876",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "872",
+          "text": "Chorus\nMove forward, go within the shelter of thy house.",
+          "ref": null
+        },
+        {
+          "n": "872b",
+          "text": "Admetus\nWoe is me!",
+          "ref": null
+        },
+        {
+          "n": "873",
+          "text": "Chorus\nThy sufferings claim these cries of woe.",
+          "ref": null
+        },
+        {
+          "n": "873b",
+          "text": "Admetus\nAh me!",
+          "ref": null
+        },
+        {
+          "n": "874",
+          "text": "Chorus\nThrough anguish hast thou gone, full well I know.",
+          "ref": null
+        },
+        {
+          "n": "874b",
+          "text": "Admetus\nAlas! alas!",
+          "ref": null
+        },
+        {
+          "n": "875",
+          "text": "Chorus\nThou wilt not help the dead one whit.",
+          "ref": null
+        },
+        {
+          "n": "875b",
+          "text": "Admetus\nO misery!",
+          "ref": null
+        },
+        {
+          "n": "876",
+          "text": "Chorus\nNevermore to see thy dear wife face to face is grief indeed.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-878",
+      "number": "878",
+      "ref": "878–885",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "878",
+          "text": "Admetus\nThy words have probed the sore place in my heart. What greater grief can come to man than the loss of a faithful wife? Would I had never married or shared with her my home! I envy those ’mongst men who have nor wife nor child. Theirs is but one life; to grieve for that is no excessive burden; but to see children fall ill and bridal beds emptied by death’s ravages is too much to bear, when one might go through life without wife or child.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-889",
+      "number": "889",
+      "ref": "889–893",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "889",
+          "text": "Chorus\nA fate we cannot cope with is come upon us.",
+          "ref": null
+        },
+        {
+          "n": "889b",
+          "text": "Admetus\nWoe is me!",
+          "ref": null
+        },
+        {
+          "n": "890",
+          "text": "Chorus\nBut thou to sorrow settest no limit.",
+          "ref": null
+        },
+        {
+          "n": "890b",
+          "text": "Admetus\nAh! ah!",
+          "ref": null
+        },
+        {
+          "n": "891",
+          "text": "Chorus\n’Tis hard to bear, but still—",
+          "ref": null
+        },
+        {
+          "n": "891b",
+          "text": "Admetus\nWoe is me!",
+          "ref": null
+        },
+        {
+          "n": "892",
+          "text": "Chorus\nThou art not the first to lose—",
+          "ref": null
+        },
+        {
+          "n": "892b",
+          "text": "Admetus\nO! woe is me!",
+          "ref": null
+        },
+        {
+          "n": "893",
+          "text": "Chorus\nA wife; misfortune takes a different shape for every man she plagues.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-895",
+      "number": "895",
+      "ref": "895–900",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "895",
+          "text": "Admetus\nO the weary sorrow! O the grief for dear ones dead and gone! Why didst thou hinder me from plung-ing into the gaping grave, there to lay me down and die with her, my peerless bride? Then would Hades for that one have gotten these two faithful souls at once, crossing the nether lake together.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-903",
+      "number": "903",
+      "ref": "903–910",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "903",
+          "text": "Chorus\nI had a kinsman once, within whose home died his only son, worthy of a father’s tears; yet in spite of that he bore his grief resignedly, childless though he was, his hair already turning grey, himself far on in years, upon life’s downward track.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-912",
+      "number": "912",
+      "ref": "912–925",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "912",
+          "text": "Admetus\nO house of mine, how can I enter thee? how can I live here, now that fortune turns against me? Ah me! How wide the gulf ’twixt then and now! Then with torches cut from Pelion’s pines, with marriage hymns I entered in, holding my dear wife’s hand; and at our back a crowd of friends with cheerful cries, singing the happy lot of my dead wife and me, calling us a noble pair made one, children both of highborn lineage; but now the voice of woe instead of wedding hymns, and robes of black instead of snowy white usher me into my house to my deserted couch.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-926",
+      "number": "926",
+      "ref": "926–930",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "926",
+          "text": "Chorus\nHard upon prosperous fortune came this sorrow to thee, a stranger to adversity; yet hast thou saved thy soul alive. Thy wife is dead and gone; her love she leaves with thee. What new thing is here? Death ere now from many a man hath torn a wife.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-935",
+      "number": "935",
+      "ref": "935–960",
+      "sourceHeading": "Antistrophe",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "935",
+          "text": "Admetus\nMy friends, I count my dead wife’s lot more blest than mine, for all it seems not so; for nevermore can sorrow touch her for ever; all her toil is over, and glorious is her fame. While I, who had no right to live, have passed the bounds of fate only to live a life of misery; I know it now. For how shall I endure to enter this my house? Whom shall I address, by whom be answered back, to find aught joyful in my entering in? Whither shall I turn? Within, the desolation will drive me forth, whensoe’er I see my widowed couch, the seat whereon she sat, the floor ail dusty in the house, and my babes falling at my knees with piteous tears for their mother, while my servants mourn the good mistress their house hath lost. These are the sorrows in my home, while abroad the marriages among Thessalians and the thronging crowds of women will drive me mad, for I can never bear to gaze upon the compeers of my wife. And whoso is my foe will taunt me thus, Behold him living in his shame, a wretch who quailed at death himself, but of his coward heart gave up his wedded wife instead, and escaped from Hades; doth he deem himself a man after that? And he loathes his parents, though himself refused to die. Such ill report shall I to my evils add. What profit, then, my friends, for me to live, in fame and fortune ruined.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-962",
+      "number": "962",
+      "ref": "962–970",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "962",
+          "text": "Chorus\nMyself have traced the Muses’ path, have soared amid the stars, have laid my hold on many a theme, and yet have found naught stronger than necessity, no spell inscribed on Thracian tablets written there by Orpheus, the sweet singer, no! nor aught among the simples culled by Phoebus for the toiling race of men, and given to Asclepius’ sons.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-973",
+      "number": "973",
+      "ref": "973–980",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "973",
+          "text": "Chorus\nThe only goddess she, whose altar or whose image man cannot approach; victims she heedeth not. O come not to me, dread goddess, in greater might than heretofore in my career. Even Zeus requires thy aid to bring to pass whatso he wills. Thou too it is that by sheer force dost bend the steel among the Chalybes; nor is there any pity in thy relentless nature.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-984",
+      "number": "984",
+      "ref": "984–990",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "984",
+          "text": "Chorus\nThis is the goddess that hath gripped thee too in chains thou canst not ’scape; yet steel thy heart, for all thy weeping ne’er will bring to light again the dead from the realms below. Even sons of gods perish in darkness in the hour of death. We loved her while she was with us, we love her still though dead; noblest of her sex was she, the wife thou tookest to thy bed.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-995",
+      "number": "995",
+      "ref": "995–1005",
+      "sourceHeading": "Choral ode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "995",
+          "text": "Chorus\nHer tomb let none regard as the graves of those who die and are no more, but let her have honours equal with the gods, revered by every traveller; and many a one will cross the road and read this verse aloud, This is she that died in days gone by to save her lord; now is she a spirit blest. Hail, lady revered; be kind to us! Such glad greeting shall she have.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1006",
+      "number": "1006",
+      "ref": "1006–1035",
+      "sourceHeading": null,
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1006",
+          "text": "Chorus\nBut see, Admetus! yonder, I believe, comes Alcmena’s son toward thy hearth.",
+          "ref": null
+        },
+        {
+          "n": "1008",
+          "text": "Heracles\nAdmetus, to a friend we should speak freely, not hold our peace and harbour in our hearts complaints. I came to thee in thy hour of sorrow and claimed the right to prove myself thy friend, but thou wouldst not tell me that she, thy wife, lay stretched in death; but didst make me a welcome guest in thy halls, as though thy whole concern was centred on a stranger’s loss. So I crowned my head and poured drink-offerings to the gods in that thy house of sorrow. Wherefore I do blame thee for this treatment of me, yet would not grieve thee in thy trouble. So now the reason I have turned my steps and come hither again, I will tell. This lady take and keep for me until I come bringing hither the steeds of Thrace, after I have slain the lord of the Bistones. But should I fare as fare I fain would not, I give her to thee to serve within thy halls. With no small toil she came into my hands. ’Twas thus: I found folk just appointing an open contest for athletes, well worth a struggle, and there I won her as a prize and brought her thence; now those who were successful in the lighter contests had horses for their prize, but those who conquered in severer feats, in boxing and wrestling, won herds of oxen, and this woman was to be added thereto; with such a chance ’twere shame indeed to pass so fair a guerdon by. So thou must take her in thy charge, as I said; for not by theft but honest toil I won the prize I bring; and maybe e’en thou in time wilt thank me.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1037",
+      "number": "1037",
+      "ref": "1037–1070",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1037",
+          "text": "Admetus\n’Twas not because of any slight or unkind thought of thee that I concealed my wife’s sad fate; but this were adding grief to grief if thou hadst gone from hence to the halls of some other friend; and it sufficed that I should mourn my sorrow. But I do beseech thee, prince, if ’tis possible, bid some other Thessalian, one who hath not suffered as I have, keep the maiden for thee,—and thou hast many friends in Pherae; remind me not of my misfortune. For I could not see her in my house and stay my tears. Oh! add not new affliction to my stricken heart, for sure by sorrow am I bowed enough. And where within my halls could a tender maiden live? for such she is, as her dress and vesture show. Is she to dwell where men consort? Then how shall she retain her maiden purity, if ’mid our youths she come and go? O Heracles, it is no easy task to check a young man’s fancy, and I am anxious for thy sake. Or am I to take her to my dead wife’s bower and care for her? How can I bring her there to fill the other’s bed? Twofold reproach I fear; first, some fellow-townsman may taunt me with betraying my benefactress in eagerness to wed a new young bride; next, there is my dead wife, whom I should much regard, for she doth merit all my reverence. Thou too, lady, whosoe’er thou art, believe me, art the very counterfeit presentment of Alcestis, the picture of her form, ah me! O take this maiden, I conjure thee, from my sight; slay me not already slain. For in her I seem once more to see my wife; and my heart is darkly troubled, and the fountains of my eyes are loosed. Ah, woe is me! Now do I taste the bitterness of this my grief.",
+          "ref": null
+        },
+        {
+          "n": "1070",
+          "text": "Chorus\nIndeed I cannot call thy fortune blest, yet heaven’s gift must thou endure, whoe’er the god that comes to bring it.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1072",
+      "number": "1072",
+      "ref": "1072–1117",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1072",
+          "text": "Heracles\nWould I had the power to bring thy wife up to the light from the halls of death, and confer this kindness on thee!",
+          "ref": null
+        },
+        {
+          "n": "1075",
+          "text": "Admetus\nRight well I know thou wouldst. But what of that? The dead can never come to life again.",
+          "ref": null
+        },
+        {
+          "n": "1077",
+          "text": "Heracles\nDo not exceed the mark, but bear thy grief with moderation.",
+          "ref": null
+        },
+        {
+          "n": "1078",
+          "text": "Admetus\n’Tis easier to advise than to suffer and endure.",
+          "ref": null
+        },
+        {
+          "n": "1079",
+          "text": "Heracles\nYet what thy gain, if thou for aye wilt mourn?",
+          "ref": null
+        },
+        {
+          "n": "1080",
+          "text": "Admetus\nI too know that myself, but some strange yearning leads me on.",
+          "ref": null
+        },
+        {
+          "n": "1081",
+          "text": "Heracles\nLove for the dead compels a tear.",
+          "ref": null
+        },
+        {
+          "n": "1082",
+          "text": "Admetus\nHer death was mine, more than any words of mine can tell.",
+          "ref": null
+        },
+        {
+          "n": "1083",
+          "text": "Heracles\nThou hast lost a noble wife; who shall gainsay it?",
+          "ref": null
+        },
+        {
+          "n": "1084",
+          "text": "Admetus\nLife henceforth hath lost all charm for me.",
+          "ref": null
+        },
+        {
+          "n": "1085",
+          "text": "Heracles\nTime will soothe the smart; as yet thy grief is young.",
+          "ref": null
+        },
+        {
+          "n": "1086",
+          "text": "Admetus\nTime! use that word, if death and time are one.",
+          "ref": null
+        },
+        {
+          "n": "1087",
+          "text": "Heracles\nA new wife and a longing for a fresh marriage will stay thy sorrow.",
+          "ref": null
+        },
+        {
+          "n": "1088",
+          "text": "Admetus\nPeace! What words are thine? I ne’er of thee had thought it.",
+          "ref": null
+        },
+        {
+          "n": "1089",
+          "text": "Heracles\nWhat! wilt never wed, but preserve thy widowed state?",
+          "ref": null
+        },
+        {
+          "n": "1090",
+          "text": "Admetus\nThere is no woman living that shall share my couch.",
+          "ref": null
+        },
+        {
+          "n": "1091",
+          "text": "Heracles\nDost think that this will help the dead at all?",
+          "ref": null
+        },
+        {
+          "n": "1092",
+          "text": "Admetus\nMy reverence she deserves, where’er she is.",
+          "ref": null
+        },
+        {
+          "n": "1093",
+          "text": "Heracles\nI praise thee, yes; but still thou bringest on thyself the charge of folly.",
+          "ref": null
+        },
+        {
+          "n": "1094",
+          "text": "Admetus\nSo that thou never call’st me bridegroom, praise me if thou wilt.",
+          "ref": null
+        },
+        {
+          "n": "1095",
+          "text": "Heracles\nI praise thee for thy loyalty to thy wife.",
+          "ref": null
+        },
+        {
+          "n": "1096",
+          "text": "Admetus\nCome death! if ever I betray her, dead though she be.",
+          "ref": null
+        },
+        {
+          "n": "1097",
+          "text": "Heracles\nWell, take this maiden to the shelter of thy noble house.",
+          "ref": null
+        },
+        {
+          "n": "1098",
+          "text": "Admetus\nSpare me, I entreat thee by Zeus, thy sire.",
+          "ref": null
+        },
+        {
+          "n": "1099",
+          "text": "Heracles\nBe sure, if thou refuse, ’twill be a sad mistake.",
+          "ref": null
+        },
+        {
+          "n": "1100",
+          "text": "Admetus\nIf I comply, remorse will gnaw my heart.",
+          "ref": null
+        },
+        {
+          "n": "1101",
+          "text": "Heracles\nYield; for in god’s good time maybe thou wilt give me thanks.",
+          "ref": null
+        },
+        {
+          "n": "1102",
+          "text": "Admetus\nAh! would thou hadst never won her in the games!",
+          "ref": null
+        },
+        {
+          "n": "1103",
+          "text": "Heracles\nYet thou too sharest in my victory.",
+          "ref": null
+        },
+        {
+          "n": "1104",
+          "text": "Admetus\nTrue; still let this maiden go away.",
+          "ref": null
+        },
+        {
+          "n": "1105",
+          "text": "Heracles\nGo she shall, if go she must; but first see if this is needful.",
+          "ref": null
+        },
+        {
+          "n": "1106",
+          "text": "Admetus\nI needs must, else wilt thou be wroth with me.",
+          "ref": null
+        },
+        {
+          "n": "1107",
+          "text": "Heracles\nI have a reason good to press the matter thus.",
+          "ref": null
+        },
+        {
+          "n": "1108",
+          "text": "Admetus\nHave thy way then. Yet know well thy deed I disapprove.",
+          "ref": null
+        },
+        {
+          "n": "1109",
+          "text": "Heracles\nA day will come that thou wilt praise me; only yield.",
+          "ref": null
+        },
+        {
+          "n": "1110",
+          "text": "Admetus\n(to his servants). Take her in, if I needs must give her welcome in my house.",
+          "ref": null
+        },
+        {
+          "n": "1111",
+          "text": "Heracles\nTo thy servants will I not hand her over.",
+          "ref": null
+        },
+        {
+          "n": "1112",
+          "text": "Admetus\nConduct her then thyself within, if so thou thinkest good.",
+          "ref": null
+        },
+        {
+          "n": "1113",
+          "text": "Heracles\nNay, but into thy hands shall mine consign her.",
+          "ref": null
+        },
+        {
+          "n": "1114",
+          "text": "Admetus\nI will not touch her, though she is free to go within my halls.",
+          "ref": null
+        },
+        {
+          "n": "1115",
+          "text": "Heracles\nTo thy hand, and thine alone I her entrust.",
+          "ref": null
+        },
+        {
+          "n": "1116",
+          "text": "Admetus\nPrince, against my will thou dost constrain me to this deed.",
+          "ref": null
+        },
+        {
+          "n": "1117",
+          "text": "Heracles\nBoldly stretch out thy hand and touch the stranger maid.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1118",
+      "number": "1118",
+      "ref": "1118–1155",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1118",
+          "text": "Admetus\nThere, then, I stretch it out as toward the Gorgon’s severed head.",
+          "ref": null
+        },
+        {
+          "n": "1119",
+          "text": "Heracles\nHast hold of her?",
+          "ref": null
+        },
+        {
+          "n": "1119b",
+          "text": "Admetus\nI have.",
+          "ref": null
+        },
+        {
+          "n": "1119c",
+          "text": "Heracles\n(removes the veil). So; keep her safely then, and in days to come thou wilt confess the son of Zeus proved himself a noble guest. Look well at her, if haply to thy gaze she have a semblance of thy wife; and now that thou art blest, cease from sorrowing.",
+          "ref": null
+        },
+        {
+          "n": "1123",
+          "text": "Admetus\nGreat gods, what shall I say? a marvel past all hope is here! My wife, my own true wife I see, or is some mocking rapture sent by heaven to drive me mad?",
+          "ref": null
+        },
+        {
+          "n": "1126",
+          "text": "Heracles\nNo, no; ’tis thy own wife thou seest here.",
+          "ref": null
+        },
+        {
+          "n": "1127",
+          "text": "Admetus\nBeware it be not a phantom from that nether world.",
+          "ref": null
+        },
+        {
+          "n": "1128",
+          "text": "Heracles\nNo necromancer was this guest whom thou didst welcome.",
+          "ref": null
+        },
+        {
+          "n": "1129",
+          "text": "Admetus\nDo I behold my wife, her whom I buried?",
+          "ref": null
+        },
+        {
+          "n": "1130",
+          "text": "Heracles\nBe well assured thereof; still I marvel not thou dost distrust thy luck.",
+          "ref": null
+        },
+        {
+          "n": "1131",
+          "text": "Admetus\nMay I touch her, may I speak to her as my living wife?",
+          "ref": null
+        },
+        {
+          "n": "1132",
+          "text": "Heracles\nSpeak to her. For thou hast all thy heart’s desire.",
+          "ref": null
+        },
+        {
+          "n": "1133",
+          "text": "Admetus\nO form and features of my well-loved wife! past all hope I hold thee, never expecting to see thee again.",
+          "ref": null
+        },
+        {
+          "n": "1135",
+          "text": "Heracles\nSo thou dost; may no jealous god rise against thee!",
+          "ref": null
+        },
+        {
+          "n": "1136",
+          "text": "Admetus\nO noble son of almighty Zeus, good luck to thee! may the father that begat thee hold thee in his keeping; for thou and none else hast raised my fallen fortunes. How didst thou bring her from the world below to this light of day?",
+          "ref": null
+        },
+        {
+          "n": "1140",
+          "text": "Heracles\nBy encountering the god who had her in his power.",
+          "ref": null
+        },
+        {
+          "n": "1141",
+          "text": "Admetus\nWhere didst thou engage with Death? tell me this.",
+          "ref": null
+        },
+        {
+          "n": "1142",
+          "text": "Heracles\nJust by the tomb I from my ambush sprang and caught him in my grip.",
+          "ref": null
+        },
+        {
+          "n": "1143",
+          "text": "Admetus\nBut why thus speechless stands my wife?",
+          "ref": null
+        },
+        {
+          "n": "1144",
+          "text": "Heracles\n’Tis not lawful yet for thee to hear her speak, ere she be purified from the gods below and the third day be come. So lead her in; and hereafter, e’en as now, be just and kind to guests, Admetus. Now farewell! for I must go to perform my appointed task for the lordly son of Sthenelus.",
+          "ref": null
+        },
+        {
+          "n": "1151",
+          "text": "Admetus\nAbide with us and be our welcome guest.",
+          "ref": null
+        },
+        {
+          "n": "1152",
+          "text": "Heracles\nAnother time; now must I use all haste.",
+          "ref": null
+        },
+        {
+          "n": "1153",
+          "text": "Admetus\nGood luck to thee! and mayst thou come again! To the citizens and ail my realm I make this proclamation, that they institute dances in honour of the glad event, and make the altars steam with sacrifice, and offer prayers; for now have I moored my bark of life in a happier haven than before, and so will own myself a happy man.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "card-1159",
+      "number": "1159",
+      "ref": "1159–1160",
+      "sourceHeading": "Episode",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "1159",
+          "text": "Chorus\nMany are the shapes that fortune takes, and oft the gods bring things to pass beyond our expectation. That which we deemed so sure is not fulfilled, while for that we never thought would be, God finds out a way. And such hath been the issue in the present case.",
+          "ref": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+[
+  {
+    "where": "plato-philebus-grc / <corr>",
+    "note": "<corr> — Burnet silently corrects the manuscript reading here; the corrected text \"ἀίδιον\" is what is kept (this importer never overrides an editor's own critical text)."
+  },
+  {
+    "where": "sec-12",
+    "note": "<del> excluded from the reading text: \"μὴ\""
+  },
+  {
+    "where": "sec-14",
+    "note": "<del> excluded from the reading text: \"τοῦ ἀγαθοῦ\""
+  },
+  {
+    "where": "sec-15",
+    "note": "<del> excluded from the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-18",
+    "note": "<del> excluded from the reading text: \"ἐπʼ\""
+  },
+  {
+    "where": "sec-19",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἃ\""
+  },
+  {
+    "where": "sec-22",
+    "note": "<del> excluded from the reading text: \"λέγω\""
+  },
+  {
+    "where": "sec-22",
+    "note": "<del> excluded from the reading text: \"γε\""
+  },
+  {
+    "where": "sec-23",
+    "note": "<del> excluded from the reading text: \"βίον\""
+  },
+  {
+    "where": "sec-24",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τε\""
+  },
+  {
+    "where": "sec-25",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"εἰ\""
+  },
+  {
+    "where": "sec-26",
+    "note": "<del> excluded from the reading text: \"ἐγγιγνόμενα\""
+  },
+  {
+    "where": "sec-27",
+    "note": "<del> excluded from the reading text: \"ὁ\""
+  },
+  {
+    "where": "sec-27",
+    "note": "<del> excluded from the reading text: \"μικτὸς ἐκεῖνος\""
+  },
+  {
+    "where": "sec-29",
+    "note": "<del> excluded from the reading text: \"διὰ\""
+  },
+  {
+    "where": "sec-30",
+    "note": "<del> excluded from the reading text: \"τῶν τεττάρων, ὧν ἦν ἡμῖν ἓν τοῦτο\""
+  },
+  {
+    "where": "sec-32",
+    "note": "<del> excluded from the reading text: \"καὶ λύσις\""
+  },
+  {
+    "where": "sec-32",
+    "note": "<del> excluded from the reading text: \"ὡς\""
+  },
+  {
+    "where": "sec-33",
+    "note": "<del> excluded from the reading text: \"τῷ\""
+  },
+  {
+    "where": "sec-33",
+    "note": "<del> excluded from the reading text: \"ἑλομένῳ\""
+  },
+  {
+    "where": "sec-34",
+    "note": "<del> excluded from the reading text: \"καὶ μνήμας\""
+  },
+  {
+    "where": "sec-34",
+    "note": "<del> excluded from the reading text: \"τὴν\""
+  },
+  {
+    "where": "sec-34",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "sec-36",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὧν\""
+  },
+  {
+    "where": "sec-36",
+    "note": "<del> excluded from the reading text: \"τοῖς χρόνοις\""
+  },
+  {
+    "where": "sec-36",
+    "note": "<del> excluded from the reading text: \"ἐστιν\""
+  },
+  {
+    "where": "sec-37",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"σκεπτέον\""
+  },
+  {
+    "where": "sec-39",
+    "note": "<del> excluded from the reading text: \"τοῦτο τὸ πάθημα\""
+  },
+  {
+    "where": "sec-40",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "sec-46",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἐν τοῖς\""
+  },
+  {
+    "where": "sec-46",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "sec-47",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "sec-47",
+    "note": "<del> excluded from the reading text: \"αὖ\""
+  },
+  {
+    "where": "sec-48",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"\""
+  },
+  {
+    "where": "sec-48",
+    "note": "<del> excluded from the reading text: \"τὸ ἐν τοῖς θυμοῖς καὶ ταῖς ὀργαῖς,\""
+  },
+  {
+    "where": "sec-48",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 18.108-109\""
+  },
+  {
+    "where": "sec-49",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"φῶμεν\""
+  },
+  {
+    "where": "sec-50",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"καὶ κωμῳδίαις\""
+  },
+  {
+    "where": "sec-51",
+    "note": "<del> excluded from the reading text: \"καθαρὰς λυπῶν\""
+  },
+  {
+    "where": "sec-51",
+    "note": "<del> excluded from the reading text: \"καλὰ καὶ ἡδονάς\""
+  },
+  {
+    "where": "sec-51",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὧν\""
+  },
+  {
+    "where": "sec-52",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὰς\""
+  },
+  {
+    "where": "sec-52",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"δεχομένας\""
+  },
+  {
+    "where": "sec-52",
+    "note": "<del> excluded from the reading text: \"προς\""
+  },
+  {
+    "where": "sec-54",
+    "note": "<del> excluded from the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-55",
+    "note": "<del> excluded from the reading text: \"δυνατὸν\""
+  },
+  {
+    "where": "sec-57",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἡ\""
+  },
+  {
+    "where": "sec-59",
+    "note": "<del> excluded from the reading text: \"δεύτερος\""
+  },
+  {
+    "where": "sec-63",
+    "note": "<del> excluded from the reading text: \"αὖ τὴν\""
+  },
+  {
+    "where": "sec-63",
+    "note": "<del> excluded from the reading text: \"ἡδονάς\""
+  },
+  {
+    "where": "sec-64",
+    "note": "<del> excluded from the reading text: \"ἃς\""
+  },
+  {
+    "where": "sec-64",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "sec-64",
+    "note": "<del> excluded from the reading text: \"τῆς τοῦ τοιούτου\""
+  },
+  {
+    "where": "sec-65",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ὡς\""
+  },
+  {
+    "where": "sec-66",
+    "note": "<del> excluded from the reading text: \"ἢ\""
+  },
+  {
+    "where": "plato-philebus-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-philebus-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

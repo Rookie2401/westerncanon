@@ -1,0 +1,106 @@
+[
+  {
+    "where": "aristophanes-birds-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aristophanes-birds-grc / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "aristophanes-birds-grc / card-49 / sp[Πισθέταιρος]/l[n=58]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-125 / sp[Ἐυελπίδης]/l[n=126]",
+    "note": "<add> included in reading text: \"γὰρ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-164 / sp[Πισθέταιρος]/l[n=180b]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-164 / sp[Πισθέταιρος]/l[n=192]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"διὰ τῆς πόλεως τῆς ἀλλοτρίας καὶ τοῦ χάους\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-267 / sp[Πισθέταιρος]/l[n=268]",
+    "note": "<add> included in reading text: \"εἶς\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-267 / sp[Ἔποψ]/l[n=273]",
+    "note": "<add> included in reading text: \"γε\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-267 / sp[Ἐυελπίδης]/l[n=285]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-407 / sp[Χορός]/l[n=419a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-birds-grc / card-407 / sp[Ἔποψ]/l[n=424]",
+    "note": "<add> included in reading text: \"τὰ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-499 / sp[Πισθέταιρος]/l[n=520]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-539 / sp[Χορός]/l[n=544]",
+    "note": "<add> included in reading text: \"τινα\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-550 / sp[Πισθέταιρος]/l[n=584]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-611 / sp[Πισθέταιρος]/l[n=612]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-708 / sp[Χορός]/l[n=713]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-737 / sp[Χορός]/l[n=740]",
+    "note": "<add> included in reading text: \"καὶ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-801 / sp[Ἔποψ]/l[n=820a]",
+    "note": "<add> included in reading text: \"σὺ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-1058 / sp[Χορός]/l[n=1069]",
+    "note": "<add> included in reading text: \"πάνθʼ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-1072 / sp[Χορός]/l[n=1078]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-1088 / sp[Χορός]/l[n=1094]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-1196 / sp[Χορός]/l[n=1196]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-birds-grc / card-1263 / sp[Χορός]/l[n=1265]",
+    "note": "<add> included in reading text: \"γέ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-1470 / sp[Χορός]/l[n=1478]",
+    "note": "<add> included in reading text: \"τοῦ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-1553 / sp[Χορός]/l[n=1561]",
+    "note": "<add> included in reading text: \"ποθʼ\""
+  },
+  {
+    "where": "aristophanes-birds-grc / card-1731 / sp[Χορός]/l[n=1736a]",
+    "note": "<add> included in reading text: \"Ὑμὴν ὦ Ὑμέναιʼ ὦ.\""
+  }
+]

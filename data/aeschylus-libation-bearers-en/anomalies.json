@@ -1,0 +1,34 @@
+[
+  {
+    "where": "aeschylus-libation-bearers-en / card-1 / sp[Orestes]/l[n=5]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-libation-bearers-en / card-1 / sp[Orestes]/l[n=5]",
+    "note": "<add> included in reading text: \"Look, I bring\""
+  },
+  {
+    "where": "aeschylus-libation-bearers-en / card-55",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-libation-bearers-en / card-71",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-libation-bearers-en / card-730",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-libation-bearers-en / card-942a / sp[Chorus]/l[n=942a]",
+    "note": "<add> included in reading text: \"Oh raise a shout of triumph over the escape of our master’s house from its mi...\""
+  },
+  {
+    "where": "aeschylus-libation-bearers-en / card-942a / sp[Chorus]/l[n=945a]",
+    "note": "<add> included in reading text: \"its grievous fortune!\""
+  },
+  {
+    "where": "aeschylus-libation-bearers-en / card-1065",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  }
+]

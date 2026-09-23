@@ -1,0 +1,186 @@
+[
+  {
+    "where": "aeschylus-agamemnon-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1 / sp[Φύλαξ]/l[n=0]",
+    "note": "<l n=\"0\"> Perseus-added display-only duplicate speaker label (not source text, \"for display purposes only\" per the source's own comment) skipped: \"Φύλαξ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1 / sp[Φύλαξ]/l[n=7]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀστέρας, ὅταν φθίνωσιν, ἀντολάς τε τῶν\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-140 / sp[Χορός]/l[n=145]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"στρουθῶν\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-192 / sp[Χορός]/l[n=194]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-248 / sp[Χορός]/l[n=252]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-281 / sp[Κλυταιμήστρα]/l[n=288]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-281 / sp[Κλυταιμήστρα]/l[n=288]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πεύκη\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-320 / sp[Κλυταιμήστρα]/l[n=334]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-367 / sp[Χορός]/l[n=369]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὡς\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-403 / sp[Χορός]/l[n=405]",
+    "note": "<add> included in reading text: \"θʼ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-420 / sp[Χορός]/l[n=433]",
+    "note": "<add> included in reading text: \"τις\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-475 / sp[Χορός]/l[n=483]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐν\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-538 / sp[Κῆρυξ]/l[n=539]",
+    "note": "<add> included in reading text: \"γε\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-538 / sp[Χορός]/l[n=546]",
+    "note": "<add> included in reading text: \"μʼ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-538 / sp[Κῆρυξ]/l[n=557]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"οὐ λαχόντες\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-727 / sp[Χορός]/l[n=730]",
+    "note": "<add> included in reading text: \"ἐν\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-737 / sp[Χορός]/l[n=740]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-772 / sp[Χορός]/l[n=775]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"βίον\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-782 / sp[Χορός]/l[n=800]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-782 / sp[Χορός]/l[n=806]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-855 / sp[Κλυταιμήστρα]/l[n=871]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πολλὴν ἄνωθεν, τὴν κάτω γὰρ οὐ λέγω,\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1001 / sp[Χορός]/l[n=1006]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1125 / sp[Κασάνδρα]/l[n=1128]",
+    "note": "<add> included in reading text: \"ἐν\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1146 / sp[Χορός]/l[n=1150]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τʼ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1156 / sp[Χορός]/l[n=1165]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κακὰ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1202 / sp[Κασάνδρα]/l[n=1216]",
+    "note": "<add> included in reading text: \"δυσφροιμίοις\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1295 / sp[Κασάνδρα]/l[n=1324]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τοῖς ἐμοῖς τιμαόροις\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1295 / sp[Κασάνδρα]/l[n=1325]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἐχθροῖς φονεῦσι τοῖς ἐμοῖς τίνειν ὁμοῦ,\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1331 / sp[Χορός]/l[n=1341]",
+    "note": "<add> included in reading text: \"ἐξ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1448 / sp[Χορός]/l[n=1452]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1455 / sp[Χορός]/l[n=1455]",
+    "note": "<add> included in reading text: \"ἰὼ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1455 / sp[Χορός]/l[n=1458]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δὲ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1468 / sp[Χορός]/l[n=1470]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1468 / sp[Χορός]/l[n=1472]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μοι\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1468 / sp[Χορός]/l[n=1474]",
+    "note": "<add> included in reading text: \"˘¯\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1489 / sp[Χορός]/l[n=1495]",
+    "note": "<add> included in reading text: \"δάμαρτος\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1521 / sp[Κλυταιμήστρα]/l[n=1521]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὔτʼ ἀνελεύθερον οἶμαι θάνατον\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1521 / sp[Κλυταιμήστρα]/l[n=1522]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τῷδε γενέσθαι.\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1577 / sp[Αἴγισθος]/l[n=1595]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1577 / sp[Αἴγισθος]/l[n=1595a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1577 / sp[Αἴγισθος]/l[n=1595b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1649 / sp[Κλυταιμήστρα]/l[n=1657]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τούσδε\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1649 / sp[Αἴγισθος]/l[n=1664]",
+    "note": "<add> included in reading text: \"θʼ ὑβρίσαι\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1649 / sp[Κλυταιμήστρα]/l[n=1672]",
+    "note": "<add> included in reading text: \"ἐγὼ\""
+  },
+  {
+    "where": "aeschylus-agamemnon-grc / card-1649 / sp[Κλυταιμήστρα]/l[n=1673]",
+    "note": "<add> included in reading text: \"καλῶς\""
+  }
+]

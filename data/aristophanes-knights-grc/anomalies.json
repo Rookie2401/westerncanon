@@ -1,0 +1,58 @@
+[
+  {
+    "where": "aristophanes-knights-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aristophanes-knights-grc / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "aristophanes-knights-grc / card-367 / sp[Κλέων]/l[n=367]",
+    "note": "<add> included in reading text: \"ʼνʼ\""
+  },
+  {
+    "where": "aristophanes-knights-grc / card-384 / sp[Χορός]/l[n=386]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-knights-grc / card-441 / sp[Κλέων]/l[n=442]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-knights-grc / card-691 / sp[Κλέων]/l[n=726b]",
+    "note": "<add> included in reading text: \"ὦ\""
+  },
+  {
+    "where": "aristophanes-knights-grc / card-887 / sp[Ἀλλαντοπώλης]/l[n=893]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "aristophanes-knights-grc / card-911 / sp[Κλέων]/l[n=913]",
+    "note": "<add> included in reading text: \"ἀναλίσκοντα τῶν\""
+  },
+  {
+    "where": "aristophanes-knights-grc / card-911 / sp[Κλέων]/l[n=914]",
+    "note": "<add> included in reading text: \"σαυτοῦ,\""
+  },
+  {
+    "where": "aristophanes-knights-grc / card-1191 / sp[Ἀλλαντοπώλης]/l[n=1218]",
+    "note": "<add> included in reading text: \"τάδʼ;\""
+  },
+  {
+    "where": "aristophanes-knights-grc / card-1264 / sp[Χορός]/l[n=1268]",
+    "note": "<add> included in reading text: \"ἀεὶ\""
+  },
+  {
+    "where": "aristophanes-knights-grc / card-1290 / sp[Χορός]/l[n=1295]",
+    "note": "<add> included in reading text: \"μὲν\""
+  },
+  {
+    "where": "aristophanes-knights-grc / card-1316 / sp[Χορός]/l[n=1324]",
+    "note": "<add> included in reading text: \"τινʼ\""
+  },
+  {
+    "where": "aristophanes-knights-grc / card-1390 / sp[Δῆμος]/l[n=1409]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  }
+]

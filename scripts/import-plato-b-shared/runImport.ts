@@ -57,9 +57,12 @@ export function runImport(opts: RunImportOptions): void {
   }
   for (const d of divisions) {
     if (d.id !== `sec-${d.number}`) fail(`${workId}: division id ${d.id} does not match sec-${d.number}`);
-    if (d.passages.length !== 1) fail(`${workId}: division ${d.id} has ${d.passages.length} passages, expected exactly 1`);
+    // Exactly one passage per Stephanus page, except where a page is shared
+    // by several letters in the Epistles (see parse.ts) - then one per
+    // letter-part, in source order (page 358 carries three).
+    if (d.passages.length < 1) fail(`${workId}: division ${d.id} has no passages`);
     if (d.children.length !== 0) fail(`${workId}: division ${d.id} unexpectedly has children`);
-    if (d.passages[0]!.text.length === 0) fail(`${workId}: division ${d.id} has empty passage text`);
+    for (const p of d.passages) if (p.text.length === 0) fail(`${workId}: division ${d.id} has empty passage text`);
   }
 
   // --- corpus-level anomalies -------------------------------------------

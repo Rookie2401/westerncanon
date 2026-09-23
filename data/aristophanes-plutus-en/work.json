@@ -1,0 +1,3156 @@
+{
+  "workId": "aristophanes-plutus-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "dramatis-personae",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "Dramatis Personae",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "Chremylus.\nCario, Servant of Chremylus.\nPlutus, God of Riches.\nBlepsidemus, friend of Chremylus.\nWife of Chremylus.\nPoverty.\nA Just Man.\nAn Informer, or Sycophant.\nAn Old Woman.\nA Youth.\nHermes.\nA Priest of Zeus.\nChorus of Rustics.\nScene: In front of a farmhouse—a road leading up to it.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "text",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "Plutus",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "CHREMYLUS\nI call the gods to witness that you have naught to fear if you will only speak.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nWell then, first unhand me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThere! we set you free.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nListen then, since I must reveal what I had intended to keep a secret. I am Plutus.\n[Note 1: Plutus, the god of riches, was included amongst the infernal deities, because riches are extracted from the earth's bosom, which is their dwelling-place. According to Hesiod, he was the son of Demeter; agriculture is in truth the most solid foundation of wealth. He was generally represented as an old blind man, halting in gait and winged, coming with slow steps but going away on a rapid flight and carrying a purse in his hand. At Athens the statue of Peace bore Plutus represented as still a child on her bosom as a symbol of the wealth that peace brings.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOh! you wretched rascal! You Plutus all the while, and you never said so!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nYou, Plutus, and in this piteous guise! Oh, Phœbus Apollo! oh, ye gods of heaven and hell! Oh, Zeus! is it really and truly as you say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nAye.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nPlutus' very own self?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nHis own very self and none other.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBut tell me, whence come you to be so squalid?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nI have just left Patrocles' house, who has not had a bath since his birth.\n[Note 2: A rich man, who affected the sordid habits of Lacedæmon, because of his greed. \"More sordid than Patrocles\" had become a byword at Athens. Even the public baths were too dear for Patrocles, because, in addition to the modest fee that was given to the bath-man, it was necessary to use a little oil for the customary friction after the bath.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBut your infirmity; how did that happen? Tell me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nZeus inflicted it on me, because of his jealousy of mankind. When I was young, I threatened him that I would only go to the just, the wise, the men of ordered life; to prevent my distinguishing these, he struck me with blindness! so much does he envy the good!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd yet, 'tis only the upright and just who honour him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nQuite true.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nTherefore, if ever you recovered your sight, you would shun the wicked?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nUndoubtedly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYou would visit the good?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nAssuredly. It is a very long time since I saw them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThat's not astonishing. I, who see clearly, don't see a single one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nNow let me leave you, for I have told you everything.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nNo, certainly not! we shall fasten ourselves on to you faster than ever.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nDid I not tell you, you were going to plague me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOh! I adjure you, believe what I say and don't leave me; for you will seek in vain for a more honest man than myself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThere is only one man more worthy; and that is I.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nAll talk like this, but as soon as they secure my favours and grow rich, their wickedness knows no bounds.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd yet all men are not wicked.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nAll. There's no exception.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nYou shall pay for that opinion.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nListen to what happiness there is in store for you, if you but stay with us. I have hope; aye, I have good hope with the god's help to deliver you from that blindness, in fact to restore your sight.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nOh! do nothing of the kind, for I don't wish to recover it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhat's that you say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThis fellow hugs his own misery.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nIf you were mad enough to cure me, and Zeus heard of it, he would overwhelm me with his anger.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd is he not doing this now by leaving you to grope your wandering way?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nI don't know; but I'm horribly afraid of him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIndeed? Ah! you are the biggest poltroon of all the gods! Why, Zeus with his throne and his lightnings would not be worth an obolus if you recovered your sight, were it but for a few instants.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nImpious man, don't talk like that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nFear nothing! I will prove to you that you are far more powerful and mightier than he.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nI mightier than he?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAye, by heaven! [To CAIRO] For instance, what is the origin of the power that Zeus wields over the other gods?\n[Note 3: This catechizing is completely in the manner of the sophistical teaching of the times, and has its parallel in other comedies. It reminds us in many ways of the Socratic 'Elenchus' as displayed in the Platonic dialogues.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\n'Tis money; he has so much of it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd who gives it to him?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\n[pointing to Plutus] This fellow.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIf sacrifices are offered to him, is not Plutus their cause?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nUndoubtedly, for 'tis wealth that all demand and clamour most loudly for.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThus 'tis Plutus who is the fount of all the honours rendered to Zeus, whose worship he can wither up at the root, if it so pleases him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nAnd how so?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nNot an ox, nor a cake, nor indeed anything at all could be offered, if you did not wish it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nWhy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhy? but what means are there to buy anything if you are not there to give the money? Hence if Zeus should cause you any trouble, you will destroy his power without other help.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nSo 'tis because of me that sacrifices are offered to him?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nMost assuredly. Whatever is dazzling, beautiful or charming in the eyes of mankind, comes from you. Does not everything depend on wealth?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nI myself was bought for a few coins; if I'm a slave, 'tis only because I was not rich.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd what of the Corinthian courtesans? If a poor man offers them proposals, they do not listen; but if it be a rich one, instantly they offer their buttocks for his pleasure.\n[Note 4: Corinth was the most corrupt as well as the most commercial of Greek cities, and held a number of great courtesans, indeed some of the most celebrated, e.g. Laïs, Cyrené, Sinopé, practised their profession there; they, however, set a very high value on their favours, and hence the saying, \"Non cuivis homini contingit adire Corinthum\"—\"it is not for every man to go to Corinth.\"]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\n'Tis the same with the lads; they care not for love, to them money means everything.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYou speak of those who accept all comers; yet some of them are honest, and 'tis not money they ask of their patrons.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nWhat then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nA fine horse, a pack of hounds.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nYes, they would blush to ask for money and cleverly disguise their shame.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n'Tis in you that every art, all human inventions, have had their origin; 'tis through you that one man sits cutting leather in his shop.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThat another fashions iron or wood.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThat yet another chases the gold he has received from you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThat one is a fuller.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThat the other washes wool.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThat this one is a tanner.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd that other sells onions.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAnd if the adulterer, caught red-handed, is depilated, 'tis on account of you.\n[Note 5: This was the mild punishment inflicted upon the adulterer by Athenian custom. The laws of Solon were very indulgent to this kind of crime; they only provided that the guilty woman might be repudiated by her husband, but were completely silent concerning her accomplice.]\n[Note 6: Cario means to convey that women often paid their lovers, or at all events made it their business to open up the road to fortune for them.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nOh! great gods! I knew naught of all this!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\n[to CHREMYLUS] Is it not he who lends the Great King all his pride?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIs it not he who draws the citizens to the Assembly?\n[Note 7: In order to receive the triobolus, the fee for attendance.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAnd tell me, is it not you who equip the triremes?\n[Note 8: The richest citizens were saddled with this expense and were called trierarchs.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd who feed our mercenaries at Corinth?\n[Note 9: Athens had formed an alliance with Corinth and Thebes against Sparta in 393 B.C., a little before the production of the 'Plutus.' Corinth, not feeling itself strong enough to resist the attacks of the Spartans unaided, had demanded the help of an Athenian garrison, and hence Athens maintained some few thousand mercenaries there.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAre not you the cause of Pamphilus' sufferings?\n[Note 10: A civil servant, who had been exiled for embezzling State funds.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd of the needle-seller's with Pamphilus?\n[Note 11: No doubt an accomplice of Pamphilus in his misdeeds; the Scholiast says he was one of his parasites.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nIs it not because of you that Agyrrhius farts so loudly?\n[Note 12: An upstart and, through the favour of the people, an admiral in the year 389 B.C., after Thrasybulus; he had enriched himself through some rather equivocal state employments and was insolent, because of his wealth, 'as a well-fed ass.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd that Philepsius rolls off his fables?\n[Note 13: A buffoon, so the Scholiasts inform us, who was in the habit of visiting the public places of the city in order to make a little money by amusing the crowd with ridiculous stories. Others say he was a statesman of the period, who was condemned for embezzlement of public money; in his defence he may well have invented some fabulous tales to account for the disappearance of the money out of the Treasury.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThat troops are sent to succour the Egyptians?\n[Note 14: The precise historical reference here is obscure.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd that Laïs is kept by Philonides?\n[Note 15: Laïs, a celebrated courtesan.—Of Philonides little is known, except that he was a native of Melita and a rich and profligate character.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThat the tower of Timotheus …\n[Note 16: The reference is no doubt to a pretentious construction that had been built for the rich and over-proud Timotheus, the son of Conon. He was a clever general of great integrity; when the 'Plutus' was produced, he was still very young.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n… [To Cario.] May it fall upon your head! [To Plutus.] In short, Plutus, 'tis through you that everything is done; be it known to you that you are the sole cause both of good and evil.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nIn war, 'tis the flag under which you serve that victory favours.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nWhat! I can do so many things by myself and unaided?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd many others besides; wherefore men are never tired of your gifts. They get weary of all else,—of love …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nOf bread.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOf music.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nOf sweetmeats.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOf honours.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nOf cakes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOf battles.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nOf figs.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOf ambition.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nOf gruel.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOf military advancement.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nOf lentil soup.\n[Note 17: Chremylus rises in a regular climax from love to military glory; the slave in as direct an anti-climax comes from bread, sweetmeats, etc., down to lentils.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBut of you they never tire. If a man has thirteen talents, he has all the great ardour to possess sixteen; if that wish is achieved, he will want forty or will complain that he knows not how to make both ends meet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nAll this, methinks, is very true; there is but one point that makes me feel a bit uneasy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd that is?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nHow could I use this power, which you say I have?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAh! they were quite right who said, there's nothing more timorous than Plutus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nNo, no; it was a thief who calumniated me. Having broken into a house, he found everything locked up and could take nothing, so he dubbed my prudence fear.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nDon't be disturbed; if you support me zealously, I'll make you more sharp-sighted than Lynceus.\n[Note 18: The son of Aphareus, the King of Messenia; according to the legends, he had such piercing sight that he could see through walls, and could even discover what was going on in heaven and in the nether world. He took part in the expedition of the Argonauts.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nAnd how should you be able to do that, you, who are but a mortal?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nI have great hope, after the answer Apollo gave me, shaking his sacred laurels the while.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nIs he in the plot then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAye, truly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nTake care what you say.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nNever fear, friend; for, be well assured, that if it has to cost me my life, I will carry out what I have in my head.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAnd I will help you, if you permit it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWe shall have many other helpers as well—all the worthy country folk who are wanting for bread.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nAh! ha! they'll prove sorry helpers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nNo, not so, once they've grown rich. But you, Cario, run quick …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nWhere?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n… to call my comrades, the other husbandmen [you'll probably find the poor fellows toiling away in the fields], that each of them may come here to take his share of the gifts of Plutus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nI'm off. But let someone come from the house to take this morsel of meat.\n[Note 19: A part of the victim which Cario was bringing back from the Temple; it was customary to present the remains of a sacrifice to friends and relations.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nI'll see to that; you run your hardest. As for you, Plutus, the most excellent of all the gods, come in here with me; this is the house you must fill with riches today, by fair means or foul.\n[Note 20: As soon as Chremylus sees himself assured of wealth he adopts less honest principles.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nI don't like at all going into other folks' houses in this manner; I have never got any good from it. If I got inside a miser's house, straightway he would bury me deep underground; if some honest fellow among his friends came to ask him for the smallest coin, he would deny ever having seen me. Then if I went to a fool's house, he would sacrifice me as a prey to gaming and to girls, and very soon I should be completely stripped and pitched out of doors.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThat's because you have never met a man who knew how to avoid the two extremes; moderation is the strong point in my character. I love saving as much as anybody, and I know how to spend, when 'tis needed. But let us go in; I want to make you known to my wife and to my only son, whom I love most of all after yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nAye, after myself, I'm very sure of that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhy should I hide the truth from you? [They enter CHREMYLUS' house.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\n[to the CHORUS, which has followed him in] Come, you active workers, who, like my master, eat nothing but garlic and the poorest food, you who are his friends and his neighbours, hasten your steps, hurry yourselves; there's not a moment to lose; this is the critical hour, when your presence and your support is needed by him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nWhy, don't you see we are speeding as fast as men can, who are already enfeebled by age? But do you deem it fitting to make us run like this before ever telling us why your master has called us?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nI've grown hoarse with the telling, but you won't listen. My master is going to drag you all out of the stupid, sapless life you are leading and ensure you one full of all delights.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nAnd how is he going to manage that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nMy poor friends, he has brought with him a disgusting old fellow, all bent and wrinkled, with a most pitiful appearance, bald and toothless; upon my word, I even believe he is circumcised like some vile barbarian.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nThese are news worth their weight in gold! What are you saying? Repeat it to me; no doubt it means he is bringing back a heap of wealth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nNo, but a heap of all the infirmities attendant on old age.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nIf you are tricking us, you shall pay us for it. Beware of our sticks!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nDo you deem me so brazen as all that, and my words mere lies?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nWhat serious airs the rascal puts on! Look! his legs are already shrieking, \"oh! oh!\" they are asking for the shackles and wedges.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\n'Tis in the tomb that 'tis your lot to judge. Why don't you go there? Charon has given you your ticket.\n[Note 21: The citizens appointed to act as dicasts, or jurymen, drew lots each year to decide in which Court they should sit. There were ten Courts, each of which was indicated by one of the first ten letters of the alphabet, and the urn contained as many tickets marked with these letters as there were dicasts. Cario means to say here that the old men of the Chorus should remember that they have soon to die themselves instead of bothering about punishing him.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nPlague take you! you cursed rascal, who rail at us and have not even the heart to tell us why your master has made us come. We were pressed for time and tired out, yet we came with all haste, and in our hurry we have passed by lots of wild onions without even gathering them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nI will no longer conceal the truth from you. Friends, 'tis Plutus whom my master brings, Plutus, who will give you riches.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nWhat! we shall really all become rich!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAye, certainly; you will then be Midases, provided you grow ass's ears.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nWhat joy, what happiness! If what you tell me is true, I long to dance with delight.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\n[singing, with appropriate gestures] And I too, threttanello! I want to imitate Cyclops and lead your troop by stamping like this. Do you, my dear little ones, cry, aye, cry again and bleat forth the plaintive song of the sheep and of the stinking goats; follow me with erected organs like lascivious goats ready for action.\n[Note 22: A word invented to imitate the sound of a lyre.]\n[Note 23: The Cyclops let his flocks graze while he played the lyre; it was thus that Philoxenus had represented him in a piece to which Aristophanes is here alluding.—Cario assumes the part of the Cyclops and leaves that of the flock to the Chorus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\n[singing, to the same tune and with similar mimicry] As for us, threttanello! we will seek you, dear Cyclops, bleating, and if we find you with your wallet full of fresh herbs, all disgusting in your filth, sodden with wine and sleeping in the midst of your sheep, we will seize a great flaming stake and burn out your eye.\n[Note 24: In allusion to Ulysses' adventures in the cave of Polyphemus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nI will copy that Circé of Corinth, whose potent philtres compelled the companions of Philonides to swallow balls of dung, which she herself had kneaded with her hands, as if they were swine; and do you too grunt with joy and follow your mother, my little pigs.\n[Note 25: Laïs.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nOh! Circé with the potent philtres, who besmear your companions so filthily, what pleasure I shall have in imitating the son of Laertes! I will hang you up by your testicles, I will rub your nose with dung like a goat, and like Aristyllus you shall say through your half-opened lips, \"Follow your mother, my little pigs.\"\n[Note 26: i.e. Cario, who is assuming the rôle of Circé of Corinth.]\n[Note 27: This was the torture which Odysseus inflicted on Melanthius, one of the goatherds.]\n[Note 28: A poet of debauched and degraded life, one of those who, like Ariphrades mentioned in 'The Knights,' \"defiled his tongue with abominable sensualities,\" that is to say, was a fellator and a cunnilingue.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nEnough of tomfoolery, assume a grave demeanour; unknown to my master I am going to take bread and meat; and when I have fed well, I shall resume my work. [Interlude of dancing by the CHORUS.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n[coming out of his house] To say, \"Hail! my dear neighbours!\" is an old form of greeting and well worn with use; so therefore I embrace you, because you have not crept like tortoises, but have come rushing here in all haste. Now help me to watch carefully and closely over the god.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nBe at ease. You shall see with what martial zeal I will guard him. What! we jostle each other at the Assembly for three obols, and am I going to let Plutus in person be stolen from me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBut I see Blepsidemus; by his bearing and his haste I can readily see he knows or suspects something.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nWhat has happened then? Whence, how has Chremylus suddenly grown rich? I don't believe a word of it. Nevertheless, nothing but his sudden fortune was being talked about in the barbers' booths. But I am above all surprised that his good fortune has not made him forget his friends; that is not the usual way!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBy the gods, Blepsidemus, I will hide nothing from you. To-day things are better than yesterday; let us share, for are you not my friend?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nHave you really grown rich as they say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nI shall be soon, if the god agrees to it. But there is still some risk to run.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nWhat risk?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWel …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nWhat do you mean? Explain.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIf we succeed, we are happy for ever, but if we fail, it is all over with us.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\n'Tis a bad business, and one that doesn't please me! To grow rich all at once and yet to be fearful! ah! I suspect something that's little good.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhat do you mean, that's little good?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nNo doubt you have just stolen some gold and silver from some temple and are repenting.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nNay! heaven preserve me from that!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nA truce to idle phrases! the thing is only too apparent, my friend.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nDon't suspect such a thing of me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nAlas! then there is no honest man! not one, that can resist the attraction of gold!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBy Demeter, you have no common sense.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nTo have to persist like this in denial one's whole life long!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBut, good gods, you are mad, my dear fellow!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\n[aside] His very look is distraught; he has done some crime!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAh! I know the tune you are playing now; you think I have stolen, and want your share.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nMy share of what, pray?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYou are beside the mark; the thing is quite otherwise.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\n'Tis perhaps not a theft, but some piece of knavery!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYou are insane!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nWhat? You have done no man an injury?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nNo! assuredly not!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nBut, great gods, what am I to think? You won't tell me the truth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYou accuse me without really knowing anything.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nListen, friend, no doubt the matter can yet be hushed up, before it gets noised abroad, at trifling expense; I will buy the orators' silence.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAye, you will lay out three minæ and, as my friend, you will reckon twelve against me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nI know someone who will come and seat himself at the foot of the tribunal, holding a supplicant's bough in his hand and surrounded by his wife and children, for all the world like the Heraclidæ of Pamphilus.\n[Note 29: It is uncertain whether Pamphilus, a tragedian, is meant here, who, like Euripides and Æschylus, made the Heraclidæ the subject of a tragedy, or the painter of that name, so celebrated in later times, who painted that subject in the Poecilé Stoa.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nNot at all, poor fool! But, thanks to me, worthy folk, intelligent and moderate men alone shall be rich henceforth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nWhat are you saying? Have you then stolen so much as all that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOh! your insults will be the death of me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\n'Tis rather you yourself who are courting death.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nNot so, you wretch, since I have Plutus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nYou have Plutus? Which one?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThe god himself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nAnd where is he?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThere.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nWhere?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIndoors.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nIndoors?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAye, certainly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nGet you gone! Plutus in your house?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYes, by the gods!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nAre you telling me the truth?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nI am.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nSwear it by Hestia.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nI swear it by Posidon.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nThe god of the sea?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAye, and by all the other Posidons, if such there be.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nAnd you don't send him to us, to your friends?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWe've not got to that point yet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nWhat do you say? Is there no chance of sharing?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhy, no. We must first …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nDo what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n… restore him his sight.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nRestore whom his sight? Speak!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nPlutus. It must be done, no matter how.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nIs he then really blind?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYes, undoubtedly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nI am no longer surprised he never came to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIf it please the gods, he'll come there now.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nMust we not go and seek a physician?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nSeek physicians at Athens? Nay! there's no art where there's no fee.\n[Note 30: Physicians at Athens were paid very indifferently, and hence the most skilled sought their practice in other cities.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nLet's bethink ourselves well.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThere is not one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\n'Tis a positive fact, I don't know of one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBut I have thought the matter well over, and the best thing is to make Plutus lie in the Temple of Æsculapius.\n[Note 31: The Temple of Æsculapius stood on the way from the theatre to the citadel and near the tomb of Talos. A large number of invalids were taken there to pass a night; it was believed that the god visited them without being seen himself, because of the darkness, and arranged for their restoration to health.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nAye, unquestionably 'tis the very best thing. Be quick and lead him away to the Temple.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nI am going there.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nThen hurry yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n'Tis just what I am doing. [They are just leaving when POVERTY comes running in; she is a picture of squalor and the two men recoil in horror.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nUnwise, perverse, unholy men! What are you daring to do, you pitiful, wretched mortals? Whither are you flying? Stop! I command it!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nOh! great gods!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nMy arm shall destroy you, you infamous beings! Such an attempt is not to be borne; neither man nor god has ever dared the like. You shall die!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd who are you? Oh! what a ghastly pallor!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\n'Tis perchance some Erinnys, some Fury, from the theatre; there's a kind of wild tragedy look in her eyes.\n[Note 32: Like the Furies who composed the Chorus in Æschylus' 'Eumenides.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBut she has no torch.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nLet's knock her down!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nWho do you think I am?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nSome wine-shop keeper or egg-woman. Otherwise you would not have shrieked so loud at us, who have done nothing to you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nIndeed? And have you not done me the most deadly injury by seeking to banish me from every country?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhy, have you not got the Barathrum left? But who are you? Answer me quickly!\n[Note 33: A ravine into which criminals were hurled at Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nI am one that will punish you this very day for having wanted to make me disappear from here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nMight it be the tavern-keeper in my neighbourhood, who is always cheating me in measure?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nI am Poverty, who have lived with you for so many years.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nOh! great Apollo! oh, ye gods! whither shall I fly? [He starts to run away.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nNow then! what are you doing? You poltroon! Will you kindly stop here?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nNot I.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWill you have the goodness to stop. Are two men to fly from a woman?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nBut, you wretch, 'tis Poverty, the most fearful monster that ever drew breath.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nStay where you are, I beg of you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nNo! no! a thousand times, no!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nCould we do anything worse than leave the god in the lurch and fly before this woman without so much as ever offering to fight?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nBut what weapons have we? Are we in a condition to show fight? Where is the breastplate, the buckler, that this wretch has not pledged?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBe at ease. Plutus will readily triumph over her threats unaided.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nDare you reply, you scoundrels, you who are caught red-handed at the most horrible crime?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAs for you, you cursed jade, you pursue me with your abuse, though I have never done you the slightest harm.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nDo you think it is doing me no harm to restore Plutus to the use of his eyes?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIs this doing you harm, that we shower blessings on all men?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nAnd what do you think will ensure their happiness?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAh! first of all we shall drive you out of Greece.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nDrive me out? Could you do mankind a greater harm?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYes—if I gave up my intention to deliver them from you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nWell, let us discuss this point first. I propose to show that I am the sole cause of all your blessings, and that your safety depends on me alone. If I don't succeed, then do what you like to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nHow dare you talk like this, you impudent hussy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nAgree to hear me and I think it will be very easy for me to prove that you are entirely on the wrong road, when you want to make the just men wealthy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nOh! cudgel and rope's end, come to my help!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nWhy such wrath and these shouts, before you hear my arguments?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nBut who could listen to such words without exclaiming?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nAny man of sense.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBut if you lose your case, what punishment will you submit to?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nChoose what you will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThat's all right.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nYou shall suffer the same if you are beaten!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nDo you think twenty deaths a sufficiently large stake?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nGood enough for her, but for us two would suffice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nYou won't escape, for is there indeed a single valid argument to oppose me with?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nTo beat her in this debate, you must call upon all your wits. Make no allowances and show no weakness!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIt is right that the good should be happy, that the wicked and the impious, on the other hand, should be miserable; that is a truth, I believe, which no one will gainsay. To realize this condition of things is as great a proposal as it is noble and useful in every respect, and we have found a means of attaining the object of our wishes. If Plutus recovers his sight and ceases from wandering about unseeing and at random, he will go to seek the just men and never leave them again; he will shun the perverse and ungodly; so, thanks to him, all men will become honest, rich and pious. Can anything better be conceived for the public weal?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nOf a certainty, no! I bear witness to that. It is not even necessary she should reply.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nDoes it not seem that everything is extravagance in the world, or rather madness, when you watch the way things go? A crowd of rogues enjoy blessings they have won by sheer injustice, while more honest folks are miserable, die of hunger, and spend their whole lives with you. Now, if Plutus became clear-sighted again and drove out Poverty, 'twould be the greatest blessing possible for the human race.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nHere are two old men, whose brains are easy to confuse, who assist each other to talk rubbish and drivel to their hearts' content. But if your wishes were realized, your profit would be great! Let Plutus recover his sight and divide his favours out equally to all, and none will ply either trade or art any longer; all toil would be done away with. Who would wish to hammer iron, build ships, sew, turn, cut up leather, bake bricks, bleach linen, tan hides, or break up the soil of the earth with the plough and garner the gifts of Demeter, if he could live in idleness and free from all this work?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhat nonsense all this is! All these trades which you just mention will be plied by our slaves.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nYour slaves! And by what means will these slaves be got?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWe will buy them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nBut first say, who will sell them, if everyone is rich?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nSome greedy dealer from Thessaly—the land which supplies so many.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nBut if your system is applied, there won't be a single slave-dealer left. What rich man would risk his life to devote himself to this traffic? You will have to toil, to dig and submit yourself to all kinds of hard labour; so that your life would be more wretched even than it is now.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nMay this prediction fall upon yourself!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nYou will not be able to sleep in a bed, for no more will ever be manufactured; nor on carpets, for who would weave them if he had gold? When you bring a young bride to your dwelling, you will have no essences wherewith to perfume her, nor rich embroidered cloaks dyed with dazzling colours in which to clothe her. And yet what is the use of being rich, if you are to be deprived of all these enjoyments? On the other hand, you have all that you need in abundance, thanks to me; to the artisan I am like a severe mistress, who forces him by need and poverty to seek the means of earning his livelihood.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd what good thing can you give us, unless it be burns in the bath, and swarms of brats and old women who cry with hunger, and clouds uncountable of lice, gnats and flies, which hover about the wretch's head, trouble him, awake him and say, \"You will be hungry, but get up!\" Besides, to possess a rag in place of a mantle, a pallet of rushes swarming with bugs, that do not let you close your eyes for a bed; a rotten piece of matting for a coverlet; a big stone for a pillow, on which to lay your head; to eat mallow roots instead of bread, and leaves of withered radish instead of cake; to have nothing but the cover of a broken jug for a stool, the stave of a cask, and broken at that, for a kneading-trough, that is the life you make for us! Are these the mighty benefits with which you pretend to load mankind?\n[Note 34: During the winter the poor went into the public baths for shelter against the cold; they could even stop there all night; sometimes they burnt themselves by getting too near the furnace which heated the water.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\n'Tis not my life that you describe; you are attacking the existence beggars lead.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIs Beggary not Poverty's sister?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nThrasybulus and Dionysius are one and the same according to you. No, my life is not like that and never will be. The beggar, whom you have depicted to us, never possesses anything. The poor man lives thriftily and attentive to his work; he has not got too much, but he does not lack what he really needs.\n[Note 35: i.e. the most opposite things; the tyranny of Dionysius of Syracuse and the liberty which Thrasybulus restored to Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOh! what a happy life, by Demeter! to live sparingly, to toil incessantly and not to leave enough to pay for a tomb!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nThat's it! Jest, jeer, and never talk seriously! But what you don't know is this, that men with me are worth more, both in mind and body, than with Plutus. With him they are gouty, big-bellied, heavy of limb and scandalously stout; with me they are thin, wasp-waisted, and terrible to the foe.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n'Tis no doubt by starving them that you give them that waspish waist.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nAs for behaviour, I will prove to you that modesty dwells with me and insolence with Plutus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOh! the sweet modesty of stealing and breaking through walls.\n[Note 36: Crimes to which men are driven through poverty.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nAye, the thief is truly modest, for he hides himself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nLook at the orators in our republics; as long as they are poor, both State and people can only praise their uprightness; but once they are fattened on the public funds, they conceive a hatred for justice, plan intrigues against the people and attack the democracy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThat is absolutely true, although your tongue is very vile. But it matters not, so don't put on those triumphant airs; you shall not be punished any the less for having tried to persuade me that poverty is worth more than wealth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nNot being able to refute my arguments, you chatter at random and exert yourself to no purpose.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThen tell me this, why does all mankind flee from you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nBecause I make them better. Children do the very same; they flee from the wise counsels of their fathers. So difficult is it to see one's true interest.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWill you say that Zeus cannot discern what is best? Well, he takes Plutus to himself …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\n… and banishes Poverty to earth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nAh me! how purblind you are, you old fellows of the days of Saturn! Why, Zeus is poor, and I will clearly prove it to you. In the Olympic games, which he founded, and to which he convokes the whole of Greece every four years, why does he only crown the victorious athletes with wild olive? If he were rich he would give them gold.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n'Tis in that way he shows that he clings to his wealth; he is sparing with it, won't part with any portion of it, only bestows baubles on the victors and keeps his money for himself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nBut wealth coupled to such sordid greed is yet more shameful than poverty.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nMay Zeus destroy you, both you and your chaplet of wild olive!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nThus you dare to maintain that Poverty is not the fount of all blessings!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAsk Hecaté whether it is better to be rich or starving; she will tell you that the rich send her a meal every month and that the poor make it disappear before it is even served. But go and hang yourself and don't breathe another syllable. I will not be convinced against my will.\n[Note 37: The ancients placed statues of Hecaté at the cross-roads (τρίοδοι, places where three roads meet), because of the three names, Artemis, Phœbé and Hecaté, under which the same goddess was worshipped. On the first day of the month the rich had meals served before these statues and invited the poor to them.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\n\"Oh! citizens of Argos! do you hear what he says?\"\n[Note 38: A verse from Euripides' lost play of 'Telephus.' The same line occurs in 'The Knights.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nInvoke Pauson, your boon companion, rather.\n[Note 39: And not the citizens of Argos, whom agriculture and trade rendered wealthy.—Pauson was an Athenian painter, whose poverty had become a proverb. \"Poorer than Pauson\" was a common saying.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nAlas! what is to become of me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nGet you gone, be off quick and a pleasant journey to you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\nBut where shall I go?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nTo gaol; but hurry up, let us put an end to this.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "POVERTY\n[as she departs] One day you will recall me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThen you can return; but disappear for the present. I prefer to be rich; you are free to knock your head against the walls in your rage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nAnd I too welcome wealth. I want, when I leave the bath all perfumed with essences, to feast bravely with my wife and children and to fart in the faces of toilers and Poverty.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nSo that hussy has gone at last! But let us make haste to put Plutus to bed in the Temple of Æsculapius.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "BLEPSIDEMUS\nLet us make haste; else some bothering fellow may again come to interrupt us.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n[loudly] Cario, bring the coverlets and all that I have got ready from the house; let us conduct the god to the Temple, taking care to observe all the proper rites.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[Missing.] [CARIO comes out of the house with a bundle under one arm and leading PLUTUS with the other. CHREMYLUS and BLEPSIDEMUS join him and all four of them depart.] [Interlude of dancing by the CHORUS.]\n[Note 40: There is here a long interval of time, during which Plutus is taken to the Temple of Æsculapius and cured of his blindness. In the first edition probably the Parabasis came in here; at all events a long choral ode must have intervened.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nOh! you old fellows, who used to dip out the broth served to the poor at the festival of Theseus with little pieces of bread hollowed like a spoon, how worthy of envy is your fate! How happy you are, both you and all just men!\n[Note 41: The Athenians had erected a temple to Theseus and instituted feasts in his honour, which were still kept up in the days of Plutarch and Pausanias. Barley broth and other coarse foods were distributed among the poor.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nMy good fellow, what has happened to your friends? You seem the bearer of good tidings.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nWhat joy for my master and even more for Plutus! The god has regained his sight; his eyes sparkle with the greatest brilliancy, thanks to the benevolent care of Æsculapius.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nOh! what transports of joy! oh! What shouts of gladness!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAye! one is compelled to rejoice, whether one will or not.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nI will sing to the honour of Æsculapius, the son of illustrious Zeus, with a resounding voice; he is the beneficent star which men adore. CHREMYLUS' WIFE [coming out of the house]: What mean these shouts? Is there good news. With what impatience have I been waiting in the house, and for so long too!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nQuick! quick! some wine, mistress. And drink some yourself, [aside] for 'tis much to your taste; I bring you all blessings in a lump.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nWhere are they?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nIn my words, as you are going to see.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nHave done with trifling! come, speak.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nListen, I am going to tell you everything from the feet to the head.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nAh! don't throw anything at my head.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nNot even the happiness that has come to you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nNo, no, nothing … to annoy me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nHaving arrived near to the Temple with our patient, then so unfortunate, but now at the apex of happiness, of blessedness, we first led him down to the sea to purify him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nAh! what a singular pleasure for an old man to bathe in the cold sea-water!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\n[in the manner of the tragic messenger] Then we repaired to the Temple of the god. Once the wafers and the various offerings had been consecrated upon the altar, and the cake of wheaten-meal had been handed over to the devouring Hephæstus, we made Plutus lie on a couch according to the rite, and each of us prepared himself a bed of leaves.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nHad any other folk come to beseech the deity?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nYes. Firstly, Neoclides, who is blind, but steals much better than those who see clearly; then many others attacked by complaints of all kinds. The lights were put out and the priest enjoined us to sleep, especially recommending us to keep silent should we hear any noise. There we were all lying down quite quietly. I could not sleep; I was thinking of a certain stew-pan full of pap placed close to an old woman and just behind her head. I had a furious longing to slip towards that side. But just as I was lifting my head, I noticed the priest, who was sweeping off both the cakes and the figs on the sacred table; then he made the round of the altars and sanctified the cakes that remained, by stowing them away in a bag. I therefore resolved to follow such a pious example and made straight for the pap.\n[Note 42: He was an orator, who was accused of theft and extortion, and who, moreover, was said not to be a genuine Athenian citizen.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nYou wretch! and had you no fear of the god?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAye, indeed! I feared that the god with his crown on his head might have been near the stew-pan before me. I said to myself, \"Like priest, like god.\" On hearing the noise I made, the old woman put out her hand, but I hissed and bit it, just as a sacred serpent might have done. Quick she drew back her hand, slipped down into the bed with her head beneath the coverlets and never moved again; only she let free a fart in her fear which stunk worse than a weasel. As for myself, I swallowed a goodly portion of the pap and, having made a good feed, went back to bed.\n[Note 43: The serpent was sacred to Æsculapius; several of these reptiles lived in the temple of the god.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nAnd not did the god come?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CAIRO\nHe did not tarry; and when he was near us, oh! dear! such a good joke happened. My belly was quite blown out, and I let wind with the loudest of noises.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nDoubtless the god pulled a wry face?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nNo, but Iaso blushed a little and Panacea turned her head away, holding her nose; for my perfume is not that of roses.\n[Note 44: Iaso (from ἰαοθαι, to heal) and Panacea (from πᾶν, everything, and ἀκεισθαι, to cure) were daughters of Asclepius.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nAnd what did the god do?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nHe paid not the slightest heed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nHe must then be a pretty coarse kind of god?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nI don't say that, but he's used to tasting shit.\n[Note 45: He has to see, examine, and taste pill, potion, urine … and worse.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nImpudent knave, go on with you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThen I hid myself in my bed all a-tremble. Æsculapius did the round of the patients and examined them all with great attention; then a slave placed beside him a stone mortar, a pestle and a little box.\n[Note 46: An apothecary's outfit.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nOf stone?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nNo, not of stone.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nBut how could you see all this, you arch-rascal, when you say you were hiding all the time?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nWhy, great gods, through my cloak, for 'tis not without holes! He first prepared an ointment for Neoclides; he threw three heads of Tenian garlic into the mortar, pounded them with an admixture of fig-tree sap and lentisk, moistened the whole with Sphettian vinegar, and, turning back the patient's eyelids, applied his salve to the interior of the eyes, so that the pain might be more excruciating. Neoclides shrieked, howled, sprang towards the foot of his bed and wanted to bolt, but the god laughed and said to him, \"Keep where you are with your salve; by doing this you will not go and perjure yourself before the Assembly.\"\n[Note 47: Tenos is one of the Cyclades, near Andros.]\n[Note 48: A deme of Attica, where the strongest vinegar came from.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nWhat a wise god and what a friend to our city!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThereupon he came and seated himself at the head of Plutus' bed, took a perfectly clean rag and wiped his eye-lids; Panacea covered his head and face with a purple cloth, while the god whistled, and two enormous snakes came rushing from the sanctuary.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nGreat gods!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThey slipped gently beneath the purple cloth and, as far as I could judge, licked the patient's eyelids; for, in less time that even you need, mistress, to drain down ten beakers of wine, Plutus rose up; he could see. I clapped my hands with joy and awoke my master, and the god immediately disappeared with the serpents into the sanctuary. As for those who were lying near Plutus, you can imagine that they embraced him tenderly. Dawn broke and not one of them had closed an eye. As for myself, I did not cease thanking the god who had so quickly restored to Plutus his sight and had made Neoclides blinder than ever.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nOh! thou great Æsculapius! How mighty is thy power! [To Cario.] But tell me, where is Plutus now?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nHe is approaching, escorted by an immense crowd. The rich, whose wealth is ill-gotten, are knitting their brows and shooting at him looks of fierce hate, while the just folk, who led a wretched existence, embrace him and grasp his hand in the transport of their joy; they follow in his wake, their heads wreathed with garlands, laughing and blessing their deliverer; the old men make the earth resound as they walk together keeping time. Come, all of you, all, down to the very least, dance, leap and form yourselves into a chorus; no longer do you risk being told, when you go home, \"There is no meal in the bag.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nAnd I, by Hecate! I will string you a garland of cakes for the good tidings you have brought me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nHurry, make haste then; our friends are close at hand.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nI will go indoors to fetch some gifts of welcome, to celebrate these eyes that have just been opened. [She goes back into the house.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nMeantime I am going forth to meet them. [Exit] [Interlude of dancing by the CHORUS]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[Missing.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nI adore thee, oh! thou divine sun, and thee I greet, thou city, the beloved of Pallas; be welcome, thou land of Cecrops, which hast received me. Alas! what manner of men I associated with! I blush to think of it. While, on the other hand, I shunned those who deserved my friendship; I knew neither the vices of the ones nor the virtues of the others. A twofold mistake, and in both cases equally fatal! Ah! what a misfortune was mine! But I want to change everything; and in future I mean to prove to mankind that, if I gave to the wicked, 'twas against my will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n[to the crowd who impede him] Get you gone! Oh! what a lot of friends spring into being when you are fortunate! They dig me with their elbows and bruise my shins to prove their affection. Each one wants to greet me. What a crowd of old fellows thronged round me on the market-place!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nOh! thou, who art dearest of all to me, and thou too, be welcome! Allow me, Plutus, to shower these gifts of welcome over you in due accord with custom.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nNo. This is the first house I enter after having regained my sight; I shall take nothing from it, for 'tis my place rather to give.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nDo you refuse these gifts?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PLUTUS\nI will accept them at your fireside, as custom requires. Besides, we shall thus avoid a ridiculous scene; it is not meet that the poet should throw dried figs and dainties to the spectators; 'tis a vulgar trick to make 'em laugh.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WIFE\nYou are right. Look! yonder's Dexinicus, who was already getting to his feet to catch the figs as they flew past him. [Interlude of dancing by the CHORUS.]\n[Note 49: The Scholiast says that this was an individual as poor as he was greedy, and on the watch for every opportunity to satisfy his voracity.—The comic poets often had nuts, figs and other petty dainties thrown to the audience. It was a fairly good way to secure the favour of a certain section of the public.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[Missing.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nHow pleasant it is, friends, to live well, especially when it costs nothing! What a deluge of blessings flood our household, and that too without our having wronged ever a soul! Ah! what a delightful thing is wealth! The bin is full of white flour and the wine-jars run over with fragrant liquor; all the chests are crammed with gold and silver, 'tis a sight to see; the tank is full of oil, the phials with perfumes, and the garret with dried figs. Vinegar flasks, plates, stew-pots and all the platters are of brass; our rotten old wooden trenchers for the fish have to-day become dishes of silver; the very night-commode is of ivory. We others, the slaves, we play at odd and even with gold pieces, and carry luxury so far that we no longer wipe ourselves with stones, but use garlic stalks instead. My master, at this moment, is crowned with flowers and sacrificing a pig, a goat and a ram; 'tis the smoke that has driven me out, for I could no longer endure it, it hurt my eyes so. [A JUST MAN enters, followed by a small slave-lad who carries a thread-bare cloak and a pair of badly worn sandals.]\n[Note 50: The ancients used oil in large quantities, whether for rubbing themselves down after bathing or before their exercises in the palæstra, or for the different uses of domestic life. It was kept in a kind of tank, hollowed in the ground and covered with tiles or stones. The wine-sellers had similar tanks, but of larger size, for keeping their wine.]\n[Note 51: This was what was styled the triple or complete sacrifice.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A JUST MAN\nCome, my child, come with me. Let us go and find the god.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nWho comes here?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nA man who was once wretched, but now is happy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nA just man then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nYou have it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nWell! what do you want?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nI come to thank the god for all the blessings he has showered on me. My father had left me a fairly decent fortune, and I helped those of my friends who were in want; 'twas, to my thinking, the most useful thing I could do with my fortune.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAnd you were quickly ruined?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nEntirely.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nSince then you have been living in misery?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nIn truth I have; I thought I could count, in case of need, upon the friends whose property I had helped, but they turned their backs upon me and pretended not to see me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThey laughed at you, 'tis evident.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nJust so. With my empty coffers, I had no more friends.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nBut your lot has changed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nYes, and so I come to the god to make him the acts of gratitude that are his due.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nBut with what object now do you bring this old cloak, which your slave is carrying? Tell me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nI wish to dedicate it to the god.\n[Note 52: As evidence of the sorry condition from which he had been raised.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nWere you initiated into the Great Mysteries in that cloak?\n[Note 53: The clothes a man wore on the day that he was initiated into the Mysteries of Eleusis had, according to custom, to be dedicated to the gods, but only after they had been worn. Most people only decided to do this when they were full of holes and torn; it is because his visitor's cloak is in such a sorry condition that Chremylus takes it to be the cloak of an Initiate.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nNo, but I shivered in it for thirteen years.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAnd this footwear?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nThese also are my winter companions.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAnd you wish to dedicate them too?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nUnquestionably.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nFine presents to offer to the god! [An INFORMER enters, followed by a witness.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AN INFORMER\n[before he sees CARIO] Alas! alas! I am a lost man. Ah! thrice, four, five, twelve times, or rather ten thousand times unhappy fate! Why, why must fortune deal me such rough blows?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nOh, Apollo, my tutelary! oh! ye favourable gods! what has overtaken this man?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\n[to CARIO] Ah! am I not deserving of pity? I have lost everything; this cursed god has stripped me bare. Ah! if there be justice in heaven, he shall be struck blind again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nMethinks I know what's the matter. If this man is unfortunate, 'tis because he's of little account and small honesty; and i' faith he looks it too.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThen, by Zeus! his plight is but just.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nHe promised that if he recovered his sight, he would enrich us all unaided; whereas he has ruined more than one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nBut whom has he thus ill-used?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nMe.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nYou were doubtless a villainous thief then.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\n[to Chremylus and Cario] 'Tis rather you yourselves who were such wretches; I am certain you have got my money.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nHa! by Demeter! 'tis an informer. What impudence! He's ravenously hungry, that's certain.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nYou shall follow me this very instant to the marketplace, where the torture of the wheel shall force the confession of your misdeeds from you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\n[with a threatening gesture] Ha! look out for yourself!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nBy Zeus the Deliverer, what gratitude all Greeks owe to Plutus, if he destroys these vile informers!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nYou are laughing at me. Ho! ho! I denounce you as their accomplice. Where did you steal that new cloak from? Yesterday I saw you with one utterly worn out.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nI fear you not, thanks to this ring, for which I paid Eudemus a drachma.\n[Note 54: This Eudemus was a kind of sorcerer, who sold magic rings, to which, among other virtues, he ascribed that of curing, or rather of securing him who wore them, from snake-bites.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAh! there's no ring to preserve you from the informer's bite.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nThe insolent wretches! But, my fine jokers, you have not told me what you are up to here. Nothing good, I'll be bound.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nNothing of any good for you, be sure of that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nBy Zeus! you're going to dine at my expense!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nYou vile impostor, may you burst with an empty belly, both you and your witness.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nYou deny it? I reckon, you villains, that there is much salt fish and roast meat in this house. Hu! hu! hu! hu! hu! hu! [He sniffs elaborately.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nCan you smell anything, rascal?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nThe cold, perhaps.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nCan such outrages be borne, oh, Zeus! Ye gods! how cruel it is to see me treated thus, when I am such an honest fellow and such a good citizen!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nYou an honest man! you a good citizen!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nA better one than any.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nAh! well then, answer my questions.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nConcerning what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nAre you a husbandman?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nD'ye take me for a fool?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nA merchant?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nI assume the title, when it serves me.\n[Note 55: The merchants engaged in maritime commerce were absolved from military service; the Scholiast even declares, though it seems highly unlikely, that all merchants were exempt from imposts on their possessions. When it was a question of escaping taxes and military service the informer passed as a merchant.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nDo you ply any trade?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nNo, most assuredly not!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nThen how do you live, if you do nothing?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nI superintend public and private business.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nYou! And by what right, pray?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nBecause it pleases me to do so.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nLike a thief you sneak yourself in where you have no business. You are hated by all and you claim to be an honest man?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nWhat, you fool? I have not the right to dedicate myself entirely to my country's service?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nIs the country served by vile intrigue?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nIt is served by watching that the established law is observed—by allowing no one to violate it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nThat's the duty of the tribunals; they are established to that end.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nAnd who is the prosecutor before the dicasts?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nWhoever wishes to be.\n[Note 56: At Athens 'twas only the injured person who could prosecute in private disputes; everyone, however, had this right where wrongs against the State were involved; but if the prosecutor only obtained one-fifth of the votes, he was condemned to a fine of 1000 drachmæ or banished the country.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nWell then, 'tis I who choose to be prosecutor; and thus all public affairs fall within my province.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nI pity Athens for being in such vile clutches. But would you not prefer to live quietly and free from all care and anxiety?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nTo do nothing is to live an animal's life.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nThus you will not change your mode of life?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nNo, though they gave me Plutus himself and the silphium of Battus.\n[Note 57: A proverbial saying, meaning, the most precious thing.—Battus, a Lacedæmonian, led out a colony from Thera, an island in the Ægean sea, and, about 630 B.C., founded the city of Cyrené in Africa. He was its first king, and after death was honoured as a god. The inhabitants of that country gathered great quantities of silphium or 'laserpitium,' the sap of which plant was the basis of medicaments and sauces that commanded a high price. The coins of Cyrené bore the representation of a stalk of silphium.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\n[to the Informer] Come, quick, off with your cloak. [The INFORMER does not move.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nHi! friend! 'tis you they are speaking to.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nOff with your shoes. [The INFORMER still remains motionless.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAll this is addressed to you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\n[defiantly] Very well! let one of you come near me, if he dares.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nI dare. [He strips the INFORMER of his cloak and shoes. The witness runs away.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nAlas! I am robbed of my clothes in full daylight.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThat's what comes of meddling with other folk's business and living at their expense.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\n[to his witness] You see what is happening; I call you to witness.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\n[laughing] Look how the witness whom you brought is taking to his heels.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nGreat gods! I am all alone and they assault me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nShout away!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nOh! woe, woe is me!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nGive me that old ragged cloak, that I may dress out the informer.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nNo, no; I have dedicated it to Plutus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAnd where would your offering be better bestowed than on the shoulders of a rascal and a thief? To Plutus fine, rich cloaks should be given.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nAnd what then shall be done with these shoes? Tell me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nI will nail them to his brow as gifts are nailed to the trunks of the wild olive.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "INFORMER\nI'm off, for you are the strongest, I own. But if I find someone to join me, let him be as weak as he will, I will summon this god, who thinks himself so strong, before the Court this very day, and denounce him as manifestly guilty of overturning the democracy by his will alone and without the consent of the Senate or the popular Assembly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "JUST MAN\nNow that you are rigged out from head to foot with my old clothes, hasten to the bath and stand there in the front row to warm yourself better; 'tis the place I formerly had.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAh! the bath-man would grip you by the testicles and fling you through the door; he would only need to see you to appraise you at your true value…. But let us go in, friend, that you may address your thanksgivings to the god.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[Missing.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AN OLD WOMAN\nDear old men, am I near the house where the new god lives, or have I missed the road?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nYou are at his door, my pretty little maid, who question us so sweetly.\n[Note 58: The old woman had entered dressed as a young girl. Or is it merely said ironically?]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nThen I will summon someone in the house.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n'Tis needless! I am here myself. But what matter brings you here?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nAh! a cruel, unjust fate! My dear friend, this god has made life unbearable to me through ceasing to be blind.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhat does this mean? Can you be a female informer?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nMost certainly not.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nHave you not drunk up your money then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nYou are mocking me! Nay! I am being devoured with a consuming fire.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThen tell me what is consuming you so fiercely.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nListen! I loved a young man, who was poor, but so handsome, so well-built, so honest! He readily gave way to all I desired and acquitted himself so well! I, for my part, refused him nothing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd what did he generally ask of you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nVery little; he bore himself towards me with astonishing discretion! perchance twenty drachmæ for a cloak or eight for footwear; sometimes he begged me to buy tunics for his sisters or a little mantle for his mother; at times he needed four bushels of corn.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n'Twas very little, in truth; I admire his modesty.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nAnd 'twas not as a reward for his complacency that he ever asked me for anything, but as a matter of pure friendship; a cloak I had given would remind him from whom he had got it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n'Twas a fellow who loved you madly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nBut 'tis no longer so, for the faithless wretch has sadly altered! I had sent him this cake with the sweetmeats you see here on this dish and let him know that I would visit him in the evening….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWell?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nHe sent me back my presents and added this tart to them, on condition that I never set foot in his house again. Besides, he sent me this message, \"Once upon a time the Milesians were brave.\"\n[Note 59: A proverb, meaning, \"All things change with time.\" Addressed to the old woman, it meant that she had perhaps been beautiful once, but that the days for love were over for her.—Miletus, the most powerful of the Ionic cities, had a very numerous fleet and founded more than eighty colonies; falling beneath the Persian yoke, the city never succeeded in regaining its independence.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAn honest lad, indeed! But what would you? When poor, he would devour anything; now he is rich, he no longer cares for lentils.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nFormerly he came to me every day.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nTo see if you were being buried?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nNo! he longed to hear the sound of my voice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd to carry off some present.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nIf I was downcast, he would call me his little duck or his little dove in a most tender manner….",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd then would ask for the wherewithal to buy a pair of shoes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nWhen I was at the Mysteries of Eleusis in a carriage, someone looked at me; he was so jealous that he beat me the whole of that day.\n[Note 60: Eleusis was some distance from Athens, about seven and a half miles, and the wealthy women drove there. It was an occasion when they vied with each other in the display of luxury.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n'Twas because he liked to feed alone.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nHe told me I had very beautiful hands.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAye, no doubt, when they handed him twenty drachmæ.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nThat my whole body breathed a sweet perfume.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYes, like enough, if you poured him out Thasian wine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nThat my glance was gentle and charming.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n'Twas no fool. He knew how to drag drachmæ from a hot-blooded old woman.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nAh! the god has done very, very wrong, saying he would support the victims of injustice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWell, what must he do? Speak, and it shall be done.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\n'Tis right to compel him, whom I have loaded with benefits, to repay them in his turn; if not, he does not merit the least of the god's favours.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd did he not do this every night?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nHe swore he would never leave me, as long as I lived.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAye, rightly; but he thinks you are no longer alive.\n[Note 61: You are so old.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nAh! friend, I am pining away with grief.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYou are rotting away, it seems to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nI have grown so thin, I could slip through a ring.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYes, if 'twere as large as the hoop of a sieve.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nBut here is the youth, the cause of my complaint; he looks as though he were going to a festival.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYes, if his chaplet and his torch are any guides.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nGreeting to you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nWhat does he say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nMy ancient old dear, you have grown white very quickly, by heaven!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nOh! what an insult!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIt is a long time, then, since he saw you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nA long time? My god! he was with me yesterday.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nIt must be, then, that, unlike other people, he sees more clearly when he's drunk.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nNo, but I have always known him for an insolent fellow.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nOh! divine Posidon! Oh, ye gods of old age! what wrinkles she has on her face!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nOh! oh! keep your distance with that torch.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYes, 'twould be as well; if a single spark were to reach her, she would catch alight like an old olive branch.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nI propose to have a game with you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nWhere, naughty boy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nHere. Take some nuts in your hand.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nWhat game is this?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nLet's play at guessing how many teeth you have.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAh! I'll tell you; she's got three, or perhaps four.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nPay up; you've lost! she has only one single grinder.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nYou wretch! you're not in your right senses. Do you insult me thus before this crowd?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nI am washing you thoroughly; 'tis doing you a service.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nNo, no! as she is there, she can still deceive; but if this white-lead is washed off, her wrinkles would come out plainly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nYou are only an old fool!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nAh! he is playing the gallant, he is fondling your breasts, and thinks I do not see it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nOh! no, by Aphrodité, no, you naughty jealous fellow.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nOh! most certainly not, by Hecaté! Verily and indeed I would need to be mad! But, young man, I cannot forgive you, if you cast off this beautiful child.\n[Note 62: The goddess of death and old age.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nWhy, I adore her.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBut nevertheless she accuses you …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nAccuses me of what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\n… of having told her insolently, \"Once upon a time the Milesians were brave.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nOh! I shall not dispute with you about her.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhy not?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nOut of respect for your age; with anyone but you, I should not be so easy; come, take the girl and be happy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nI see, I see; you don't want her any more.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nNay! this is a thing that cannot be allowed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nI cannot argue with a woman, who has been making love these thirteen thousand years.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nYet, since you liked the wine, you should now consume the lees.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nBut these lees are quite rancid and fusty.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nPass them through a straining-cloth; they'll clarify.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nBut I want to go in with you to offer these chaplets to the god.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nAnd I too have something to tell him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\nThen I don't enter.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nCome, have no fear; she won't harm you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "YOUTH\n'Tis true; I've been managing the old bark long enough.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nGo in; I'll follow after you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nGood gods! that old hag has fastened herself to her youth like a limpet to its rock.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[Missing.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\n[opening the door] Who knocks at the door? Halloa! I see no one; 'twas then by chance it gave forth that plaintive tone.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\n[to Carlo, who is about to close the door] Cario! stop!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nEh! friend, was it you who knocked so loudly? Tell me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nNo, I was going to knock and you forestalled me by opening. Come, call your master quick, then his wife and his children, then his slave and his dog, then thyself and his pig.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAnd what's it all about?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nIt's about this, rascal! Zeus wants to serve you all with the same sauce and hurl the lot of you into the Barathrum.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nHave a care for your tongue, you bearer of ill tidings! But why does he want to treat us in that scurvy fashion?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nBecause you have committed the most dreadful crime. Since Plutus has recovered his sight, there is nothing for us other gods, neither incense, nor laurels, nor cakes, nor victims, nor anything in the world.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAnd you will never be offered anything more; you governed us too ill.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nI care nothing at all about the other gods, but 'tis myself. I tell you I am dying of hunger.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThat's reasoning like a wise fellow.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nFormerly, from earliest dawn, I was offered all sorts of good things in the wine-shops,—wine-cakes, honey, dried figs, in short, dishes worthy of Hermes. Now, I lie the livelong day on my back, with my legs in the air, famishing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nAnd quite right too, for you often had them punished who treated you so well.\n[Note 63: Wineshop-keepers were often punished for serving false measure. Hermes, who allowed them to be punished although he was the god of cheating and was worshipped as such by the wineshop-keepers, deserved to be neglected by them.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nAh! the lovely cake they used to knead for me on the fourth of the month!\n[Note 64: The greater gods had a day in each month specially dedicated to them; thus Hermes had the fourth, Artemis the sixth, Apollo the seventh, etc.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nYou recall it vainly; your regrets are useless! there'll be no more cake.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nAh! the ham I was wont to devour!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nWell then! make use of your legs and hop on one leg upon the wine-skin, to while away the time.\n[Note 65: This game, which was customary during the feasts of Bacchus' consisted in hopping on one leg upon a wine-skin that was blown out and well greased with oil; the competitor who kept his footing longest on one leg, gained the prize.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nOh! the grilled entrails I used to swallow down!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nYour own have got the colic, methinks.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nOh! the delicious tipple, half wine, half water!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nHere, swallow that and be off. [He discharges a fart.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nWould you do a friend a service?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nWillingly, if I can.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nGive me some well-baked bread and a big hunk of the victims they are sacrificing in your house.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nThat would be stealing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nDo you forget, then, how I used to take care he knew nothing about it when you were stealing something from your master?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nBecause I used to share it with you, you rogue; some cake or other always came your way.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nWhich afterwards you ate up all by yourself.\n[Note 66: The cake was placed on the altar, but eaten afterwards by the priest or by him who offered the sacrifice.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nBut then you did not share the blows when I was caught.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nForget past injuries, now you have taken Phylé. Ah! how I should like to live with you! Take pity and receive me.\n[Note 67: An allusion to the occupation of Phylé, in Attica on the Bœotian border, by Thrasybulus; this place was the meeting-place of the discontented and the exiled, and it was there that the expulsion of the thirty tyrants was planned. Once victorious, the conspirators proclaimed a general amnesty and swore to forget everything, μὴ μνησικακειν, 'to bear no grudge,' hence the proverb which Aristophanes recalls here.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nYou would leave the gods to stop here?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nOne is much better off among you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nWhat! you would desert! Do you think that is honest?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\n\"Where I live well, there is my country.\"\n[Note 68: A verse taken from a lost tragedy by Euripides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nBut how could we employ you here?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nPlace me near the door; I am the watchman god and would shift off the robbers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nShift off! Ah! but we have no love for shifts.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nEntrust me with business dealings.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nBut we are rich; why should we keep a haggling Hermes?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nLet me intrigue for you.\n[Note 69: Hermes runs through the gamut of his different attributes.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nNo, no, intrigues are forbidden; we believe in good faith.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nI will work for you as a guide.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nBut the god sees clearly now, so we no longer want a guide.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nWell then, I will preside over the games. Ah! what can you object to in that? Nothing is fitter for Plutus than to give scenic and gymnastic games.\n[Note 70: As the rich citizens were accustomed to do at Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nHow useful 'tis to have so many names! Here you have found the means of earning your bread. I don't wonder the jurymen so eagerly try to get entered for many tribunals.\n[Note 71: This trick was very often practised, its object being to secure the double fee.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "HERMES\nSo then, you admit me on these terms.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CARIO\nGo and wash the entrails of the victims at the well, so that you may show yourself serviceable at once.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "A PRIEST OF ZEUS\nCan anyone direct me where Chremylus is?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhat would you with him, friend?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRIEST\nMuch ill. Since Plutus has recovered his sight, I am perishing of starvation; I, the priest of Zeus the Deliverer, have nothing to eat!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nAnd what is the cause of that, pray?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRIEST\nNo one dreams of offering sacrifices.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWhy not?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRIEST\nBecause all men are rich. Ah! when they had nothing, the merchant who escaped from shipwreck, the accused who was acquitted, all immolated victims; another would sacrifice for the success of some wish and the priest joined in at the feast; but now there is not the smallest victim, not one of the faithful in the temple, but thousands who come there to ease themselves.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nDon't you take your share of those offerings?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRIEST\nHence I think I too am going to say good-bye to Zeus the Deliverer, and stop here myself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nBe at ease, all will go well, if it so please the god. Zeus the Deliverer is here; he came of his own accord.\n[Note 72: He is giving Plutus this title.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRIEST\nHa! that's good news.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nWait a little; we are going to install Plutus presently in the place he formerly occupied behind the Temple of Athené; there he will watch over our treasures for ever. But let lighted torches be brought; take these and walk in solemn procession in front of the god.\n[Note 73: Within the precincts of the Acropolis, and behind the Temple of Zeus Polias, there stood a building enclosed with double walls and double gates, where the public Treasury was kept. Plutus had ceased to dwell there, i.e. the Peloponnesian war and its disastrous consequences had emptied the Treasury; however, at the time of the production of the 'Plutus,' Athens had recovered her freedom and a part of her former might, and money was again flowing into her coffers.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "PRIEST\nThat's magnificent!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nLet Plutus be summoned.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nAnd I, what am I to do?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nTake the pots of vegetables which we are going to offer to the god in honour of his installation and carry them on your head; you just happen luckily to be wearing a beautiful embroidered robe.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nAnd what about the object of my coming?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nEverything shall be according to your wish. The young man will be with you this evening.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "OLD WOMAN\nOh! if you promise me his visit, I will right willingly carry the pots.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHREMYLUS\nThose are strange pots indeed! Generally the scum rises to the top of the pots, but here the pots are raised to the top of the old woman.\n[Note 74: In the Greek there is a pun on the different significations of γραῦς, an old woman, and the scum, or 'mother,' which forms on the top of boiling milk.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nLet us withdraw without more tarrying, and follow the others, singing as we go.\n[Note 75: In the 'Lysistrata' the Chorus similarly makes its exit singing.]",
+          "ref": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2551 @@
+{
+  "workId": "aristophanes-thesmophoriazusae-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "dramatis-personae",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "Dramatis Personae",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "Euripides.\nMnesilochus, father-in-law of Euripides.\nAgathon.\nServant of Agathon.\nChorus attending Agathon.\nWoman Herald.\nWomen.\nClisthenes.\nA Magistrate or Prytanis.\nA Scythian or Police Officer.\nChorus of Thesmophoriazusæ—women keeping the Feast of Demeter.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "text",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "The Thesmophoriazusae",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "[Scene: In front of Agathon's house; afterwards in the precinct of the Temple of Demeter.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nGreat Zeus! will the swallow never appear to end the winter of my discontent? Why the fellow has kept me on the run ever since early this morning; he wants to kill me, that's certain. Before I lose my spleen entirely, Euripides, can you at least tell me where you are leading me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhat need for you to hear what you are going to see?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nHow is that? Repeat it. No need for me to hear…",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhat you are going to see.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nNor consequently to see…",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhat you have to hear.\n[Note 1: Aristophanes parodies Euripides' language, which is occasionally sillily sententious]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhat is this wiseacre stuff you are telling me? I must neither see nor hear?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nAh! but you have two things there that are essentially distinct.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nSeeing and hearing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nUndoubtedly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nIn what way distinct?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nIn this way. Formerly, when Aether separated the elements and bore the animals that were moving in her bosom, she wished to endow them with sight, and so made the eye round like the sun's disc and bored ears in the form of a funnel.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAnd because of this funnel I neither see nor hear. Ah! great gods! I am delighted to know it. What a fine thing it is to talk with wise men!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nI will teach you many another thing of the sort.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nThat's well to know; but first of all I should like to find out how to grow lame, so that I need not have to follow you all about.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nCome, hear and give heed!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nI'm here and waiting.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nDo you see that little door?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nYes, certainly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nSilence!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nSilence about what? About the door?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nPay attention!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nPay attention and be silent about the door? Very well.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n'Tis there that Agathon, the celebrated tragic poet, dwells.\n[Note 2: He flourished about 420 B. C. and composed many tragedies, such as 'Telephus,' 'Thyestes,' which are lost. Some fragments of his work are to be found in Aristotle and in Athenæus; he also distinguished himself as a musician. The banquet, which gave his name to one of Plato's dialogues, is supposed to have taken place at his house.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWho is this Agathon?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n'Tis a certain Agathon…",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nSwarthy, robust of build?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nNo, another. You have never seen him?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nHe has a big beard?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nNo, no, evidently you have never seen him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nNever, so far as I know.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nAnd yet you sodomised him. Well, it must have been without knowing who he was. Ah! let us step aside; here is one of his slaves bringing a brazier and some myrtle branches; no doubt he is going to offer a sacrifice and pray for a happy poetical inspiration for Agathon.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SERVANT OF AGATHON\nSilence! oh, people! keep your mouths sedately shut! The chorus of the Muses is moulding songs at my master's hearth. Let the winds hold their breath in the silent Aether! Let the azure waves cease murmuring on the shore!…",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBrououou! brououou! [Imitates the buzzing of a fly.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nKeep quiet! what are you saying there?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SERVANT\n… Take your rest, ye winged races, and you, ye savage inhabitants of the woods, cease from your erratic wandering …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBroum, broum, brououou.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SERVANT\n… for Agathon, our master, the sweet-voiced poet, is going …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n… to be sodomised?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SERVANT\nWhose voice is that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n'Tis the silent Aether.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SERVANT\n… is going to construct the framework of a drama. He is rounding fresh poetical forms, he is polishing them in the lathe and is welding them; he is hammering out sentences and metaphors; he is working up his subject like soft wax. First he models it and then he casts it in bronze …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n… and sways his buttocks amorously.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SERVANT\nWho is the rustic who approaches this sacred enclosure?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nTake care of yourself and of your sweet-voiced poet! I have a strong instrument here both well rounded and well polished, which will pierce your enclosure and penetrate your bottom.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SERVANT\nOld man, you must have been a very insolent fellow in your youth!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n[to the servant] Let him be, friend, and, quick, go and call Agathon to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SERVANT\n'Tis not worth the trouble, for he will soon be here himself. He has started to compose, and in winter it is never possible to round off strophes without coming to the sun to excite the imagination. [He departs.]\n[Note 3: The Thesmophoria were celebrated in the month of Pyanepsion, or November.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAnd what am I to do?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWait till he comes… Oh, Zeus! what hast thou in store for me to-day?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBut, great gods, what is the matter now? What are you grumbling and groaning for? Tell me; you must not conceal anything from your father-in-law.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nSome great misfortune is brewing against me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhat is it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThis day will decide whether it is all over with Euripides or not.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBut how? Neither the tribunals nor the Senate are sitting, for it is the third of the five days of the Thesmophoria.\n[Note 4: The Thesmophoria lasted five days; they were dedicated to Demeter Thesmophoros, or Legislatress, in recognition of the wise laws she had given mankind. For many days before the solemn event, the women of high birth (who alone were entitled to celebrate it) had to abstain from all pleasures that appealed to the senses, even the most legitimate, and to live with the greatest sobriety. The presiding priest at the Thesmophoria was always chosen from the sacerdotal family of the Eumolpidae, the descendants of Eumolpus, the son of Posidon. At these feasts, the worship of Persephoné was associated with that of Demeter.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThat is precisely what makes me tremble; the women have plotted my ruin, and to-day they are to gather in the Temple of Demeter to execute their decision.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhy are they against you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nBecause I mishandle them in my tragedies.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBy Posidon, you would seem to have thoroughly deserved your fate. But how are you going to get out of the mess?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nI am going to beg Agathon, the tragic poet, to go to the Thesmophoria.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAnd what is he to do there?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nHe would mingle with the women, and stand up for me, if needful.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWould he be openly present or secretly?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nSecretly, dressed in women's clothes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nThat's a clever notion, thoroughly worthy of you. The prize for trickery is ours. [The door of AGATHON's house opens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nSilence!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhat's the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nHere comes Agathon.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhere, where?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThat's the man they are bringing out yonder on the machine. [AGATHON appears on the eccyclema, softly reposing on a bed, clothed in a saffron tunic, and surrounded with feminine toilet articles.]\n[Note 5: Refers presumably to the ἐκκύκλημα, a piece of machinery by means of which interiors were represented on the Greek stage—room and occupant being in some way wheeled out into view of the spectators bodily.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nI am blind then! I see no man here, I only see Cyrene.\n[Note 6: A celebrated 'lady of pleasure'; Agathon is like her by reason of his effeminate, wanton looks and dissolute habits.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nBe still! He is getting ready to sing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhat subtle trill, I wonder, is he going to warble to us? AGATHON [now sings a selection from one of his tragedies, taking first the part of the leader of the chorus and then that of the whole chorus] as LEADER OF THE CHORUS: Damsels, with the sacred torch in hand, unite your dance to shouts of joy in honour of the nether goddess; celebrate the freedom of your country. As CHORUS To what divinity is your homage addressed? I wish to mingle mine with it. As LEADER OF THE CHORUS Oh! Muse! glorify Phoebus with his golden bow, who erected the walls of the city of the Simois. As CHORUS To thee, oh Phoebus, I dedicate my most beauteous songs; to thee, the sacred victor in the poetical contests. As LEADER OF THE CHORUS And praise Artemis too, the maiden huntress, who wanders on the mountains and through the woods… As CHORUS I, in my turn, celebrate the everlasting happiness of the chaste Artemis, the mighty daughter of Leto! As LEADER OF THE CHORUS … and Leto and the tones of the Asiatic lyre, which wed so well with the dances of the Phrygian Graces. As CHORUS I do honour to the divine Leto and to the lyre, the mother of songs of male and noble strains. The eyes of the goddess sparkle while listening to our enthusiastic chants. Honour to the powerful Phoebus! Hail! thou blessed son of Leto!\n[Note 7: Demeter is represented wandering, torch in hand, about the universe looking for her lost child Proserpine (Persephoné).]\n[Note 8: Troy.]\n[Note 9: Agathon, in accordance with his character, voluptuousness, is represented as preferring the effeminate music and lascivious dances of Asia.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOh! ye venerable Genetyllides, what tender and voluptuous songs! They surpass the most lascivious kisses in sweetness; I feel a thrill of delight pass up my rectum as I listen to them. To EURIPIDES Young man, if you are one, answer my questions, which I am borrowing from Aeschylus' 'Lycurgeia.' Whence comes this androgyne? What is his country? his dress? What contradictions his life shows! A lyre and a hair-net! A wrestling school oil flask and a girdle! What could be more contradictory? What relation has a mirror to a sword? To AGATHON And you yourself, who are you? Do you pretend to be a man? Where is your penis, pray? Where is the cloak, the footgear that belong to that sex? Are you a woman? Then where are your breasts? Answer me. But you keep silent. Oh! just as you choose; your songs display your character quite sufficiently.\n[Note 10: Goddesses who presided over generation; see also the 'Lysistrata.']\n[Note 11: A tetralogy, a series of four dramas connected by subject, of which the principal character was Lycurgus, king of the Thracians. When Bacchus returned to Thrace as conqueror of the Indies he dared to deride the god, and was punished by him in consequence. All four plays are lost.]\n[Note 12: That is, the attributes of a man and those of a woman combined.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nOld man, old man, I hear the shafts of jealousy whistling by my ears, but they do not hit me. My dress is in harmony with my thoughts. A poet must adopt the nature of his characters. Thus, if he is placing women on the stage, he must contract all their habits in his own person.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[aside] Then you make love horse-fashion when you are composing a Phaedra.\n[Note 13: That is, you make love in the posture known as 'the horse,' equus, in other words the woman atop of the man. There is a further joke intended here, inasmuch as Euripides, in his 'Phaedra,' represents the heroine as being passionately addicted to hunting and horses.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nIf the heroes are men, everything in him will be manly. What we don't possess by nature, we must acquire by imitation.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhen you are staging Satyrs, call me; I will do my best to help you from behind, if I can get my tool up.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nBesides, it is bad taste for a poet to be coarse and hairy. Look at the famous Ibycus, at Anacreon of Teos, and at Alcaeus, who handled music so well; they wore headbands and found pleasure in the lascivious dances of Ionia. And have you not heard what a dandy Phrynichus was and how careful in his dress? For this reason his pieces were so beautiful, for the works of a poet are copied from himself.\n[Note 14: Ibycus, a lyric poet of the sixth century, originally from Rhegium in Magna Graecia.—Anacreon, a celebrated erotic poet of the beginning of the fifth century.—Alcaeus, a lyric poet, born about 600 B.C. at Mytilené, in the island of Lesbos, was driven out of his country by a tyrant and sang of his loves, his services as a warrior, his travels and the miseries of his exile. He was a contemporary of Sappho, and conceived a passion for her, which she only rewarded with disdain.]\n[Note 15: Phrynichus, a disciple of Thespis, improved the dramatic art, when still no more than a child; it was he who first introduced female characters upon the stage and made use of the iambic of six feet in tragedies. He flourished about 500 B.C.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAh! so it is for this reason that Philocles, who is so hideous, writes hideous pieces; Xenocles, who is malicious, malicious ones, and Theognis, who is cold, such cold ones?\n[Note 16: Philocles, Xenocles, and Theognis were dramatic poets and contemporaries of Aristophanes. The two first were sons of Carcinus, the poet and dancer.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nYes, necessarily and unavoidably; and it is because I knew this that I have so well cared for my person.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nHow, in the gods' name?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nCome, leave off badgering him; I was just the same at his age, when I began to write.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAh! then, by Zeus! I don't envy you your fine manners.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n[to Agathon] But listen to the cause that brings me here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nSay on.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nAgathon, wise is he who can compress many thoughts into few words. Struck by a most cruel misfortune, I come to you as a suppliant.\n[Note 17: Fragment of Euripides' 'Aeolus,' a lost drama.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nWhat are you asking?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThe women purpose killing me to-day during the Thesmophoria, because I have dared to speak ill of them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nAnd what can I do for you in the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nEverything. Mingle secretly with the women by making yourself pass as one of themselves; then do you plead my cause with your own lips, and I am saved. You, and you alone, are capable of speaking of me worthily.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nBut why not go and defend yourself?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nImpossible. First of all, I am known; further, I have white hair and a long beard; whereas you, you are good-looking, charming, and are close-shaven; you are fair, delicate, and have a woman's voice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nEuripides!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWell?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nHave you not said in one of your pieces, \"You love to see the light, and don't you believe your father loves it too?\"\n[Note 18: Fragment of Euripides' well-known play, the 'Alcestis.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nYes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nThen never you think I am going to expose myself in your stead; it would be madness. It's up to you to submit to the fate that overtakes you; one must not try to trick misfortune, but resign oneself to it with good grace.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nThis is why you, you fairy, offer your posterior with a good grace to lovers, not in words, but in actual fact.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nBut what prevents your going there?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nI should run more risk than you would.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nWhy? I should look as if I were wanting to trespass on secret nightly pleasures of the women and to ravish their Aphrodite.\n[Note 19: An allusion to the secret practices of mutual love which the women assembled for the Thesmophoria were credited by popular repute with indulging in.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[aside] Of wanting to rape indeed! you mean wanting to be raped—in the rearward mode. Ah! great gods! a fine excuse truly!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWell then, do you agree?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nDon't count upon it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nOh! I am unfortunate indeed! I am undone!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nEuripides, my friend, my son-in-law, never despair.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhat can be done?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nSend him to the devil and do with me as you like.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nVery well then, since you devote yourself to my safety, take off your cloak first.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nThere, it lies on the ground. But what do you want to do with me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nTo shave off this beard of yours, and to remove all your other hair as well.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nDo what you think fit; I yield myself entirely to you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nAgathon, you always have razors about you; lend me one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nTake it yourself, there, out of that case.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThanks. To MNESILOCHUS Now sit down and puff out the right cheek.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[as he is being shaved] Ow! Ow! Ow!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhat are you shouting for? I'll cram a spit down your gullet, if you're not quiet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOw! Ow! Ow! Ow! Ow! [He jumps up and starts running away.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhere are you running to now?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nTo the temple of the Eumenides. No, by Demeter! I won't let myself be gashed like that.\n[Note 20: That is, to sanctuary.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nBut you will get laughed at, with your face half-shaven like that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nLittle care I.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nIn the gods' names, don't leave me in the lurch. Come here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOh! by the gods! [He turns reluctantly and resumes his seat.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nKeep still and hold up your head. Why do you want to fidget about like this?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nMm, mm.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWell! why, mm, mm? There! it's done and well done too!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAlas, I shall fight without armour.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nDon't worry; you look charming. Do you want to see yourself?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nYes, I do; hand the mirror here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nDo you see yourself?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBut this is not I, it is Clisthenes!\n[Note 21: An effeminate often mentioned by Aristophanes.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nStand up; I am now going to remove your hair. Bend down.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAlas! alas! they are going to grill me like a pig.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nCome now, a torch or a lamp! Bend down and watch out for the tender end of your tool!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAye, aye! but I'm afire! oh! oh! Water, water, neighbour, or my perineum will be alight!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nKeep up your courage!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nKeep my courage, when I'm being burnt up?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nCome, cease your whining, the worst is over.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOh! it's quite black, all burnt down there all about the hole!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nDon't worry! Satyrus will wash it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWoe to him who dares to wash my rump!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nAgathon, you refuse to devote yourself to helping me; but at any rate lend me a tunic and a belt. You cannot say you have not got them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nTake them and use them as you like; I consent.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhat shall I take?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nFirst put on this long saffron-coloured robe.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBy Aphrodite! what a sweet odour! how it smells of young male genitals! Hand it to me quickly. And the belt?\n[Note 22: An allusion to the pederastic habits which the poet attributes to Agathon.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nHere it is.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nNow some rings for my legs.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nYou still want a hair-net and a head-dress.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nHere is my night cap.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nAh! that's fine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nDoes it suit me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nIt could not be better.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nAnd a short mantle?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nThere's one on the couch; take it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nHe needs slippers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nHere are mine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWill they fit me? To AGATHON You don't like a loose fit.\n[Note 23: An obscene allusion.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGATHON\nTry them on. Now that you have all you need, let me be taken inside. [The eccyclema turns and AGATHON disappears.]\n[Note 24: On the machine upon which he is perched.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nYou look for all the world like a woman. But when you talk, take good care to give your voice a woman's tone.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[falsetto] I'll try my best.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nCome, get yourself to the temple.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nNo, by Apollo, not unless you swear to me …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhat?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n… that, if anything untoward happen to me, you will leave nothing undone to save me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nVery well! I swear it by the Aether, the dwelling-place of the king of the gods.\n[Note 25: A fragment of the 'Menalippé' of Euripides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhy not rather swear it by the disciples of Hippocrates?\n[Note 26: The ether played an important part in the physical theories of Hippocrates, the celebrated physician.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nCome, I swear it by all the gods, both great and small.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nRemember, it's the heart, and not the tongue, that has sworn; for the oaths of the tongue concern me but little.\n[Note 27: An allusion to a verse in his 'Hippolytus,' where Euripides says, \"The tongue has sworn, but the heart is unsworn.\" See also 'The Frogs.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nHurry up! The signal for the meeting has just been raised on the Temple of Demeter. Farewell. [Exit.] [They both depart. The scene changes to the interior of the Thesmophorion, where the women who form the chorus are assembled. MNESILOCHUS enters, in his feminine attire, striving to act as womanly as possible, and giving his voice as female a pitch and lilt as he can; he pretends to be addressing his slave-girl.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nHere, Thratta, follow me. Look, Thratta, at the cloud of smoke that arises from all these lighted torches. Ah! beautiful Thesmophorae! grant me your favours, protect me, both within the temple and on my way back! Come, Thratta, put down the basket and take out the cake, which I wish to offer to the two goddesses. Mighty divinity, oh, Demeter, and thou, Persephone, grant that I may be able to offer you many sacrifices; above all things, grant that I may not be recognized. Would that my well-holed daughter might marry a man as rich as he is foolish and silly, so that she may have nothing to do but amuse herself. But where can a place be found for hearing well? Be off, Thratta, be off; slaves have no right to be present at this gathering. [He sits down amongst the women.]\n[Note 28: The name of a slave; being disguised as a woman, Mnesilochus has himself followed by a female servant, a Thracian slave-woman.]\n[Note 29: Demeter and Cora (or Persephoné), who were adored together during the Thesmophoria.]\n[Note 30: Women slaves were forbidden by law to be present at the Thesmophoria; they remained at the door of the temple and there waited for the orders of their mistresses.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WOMAN HERALD\nSilence! Silence! Pray to the Thesmophorae, Demeter and Cora; pray to Plutus, Calligenia, Curotrophos, the Earth, Hermes and the Graces, that all may happen for the best at this gathering, both for the greatest advantage of Athens and for our own personal happiness! May the award be given her, who, by both deed and words, has most deserved it from the Athenian people and from the women! Address these prayers to heaven and demand happiness for yourselves. Io Paean! Io Paean! Let us rejoice!\n[Note 31: The god of riches.]\n[Note 32: The nurse of Demeter. According to another version, Calligenia was a surname of Demeter herself, who was adored as presiding over the growth of a child at its mother's breast.]\n[Note 33: A surname of Demeter, who, by means of the food she produces as goddess of abundance, presides over the development of the bodies of children and young people. Curotrophos is derived from τρέφειν, to nourish, and κοῦρος, young boy.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[singing] May the gods deign to accept our vows and our prayers! Oh! almighty Zeus, and thou, god with the golden lyre, who reignest on sacred Delos, and thou, oh, invincible virgin, Pallas, with the eyes of azure and the spear of gold, who protectest our illustrious city, and thou, the daughter of the beautiful Leto, queen of the forests, who art adored under many names, hasten hither at my call. Come, thou mighty Posidon, king of the Ocean, leave thy stormy whirlpools of Nereus; come goddesses of the seas, come, ye nymphs, who wander on the mountains. Let us unite our voices to the sound of the golden lyre, and may wisdom preside at the gathering of the noble matrons of Athens.\n[Note 34: Apollo.]\n[Note 35: Artemis.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WOMAN HERALD\nAddress your prayers to the gods and goddesses of Olympus, of Delphi, Delos and all other places; if there be a man who is plotting against the womenfolk or who, to injure them, is proposing peace to Euripides and the Medes, or who aspires to usurping the tyranny, plots the return of a tyrant, or unmasks a supposititious child; or if there be a slave who, a confidential party to a wife's intrigues, reveals them secretly to her husband, or who, entrusted with a message, does not deliver the same faithfully; if there be a lover who fulfils naught of what he has promised a woman, whom he has abused on the strength of his lies, if there be an old woman who seduces the lover of a maiden by dint of her presents and treacherously receives him in her house; if there be a host or hostess who sells false measure, pray the gods that they will overwhelm them with their wrath, both them and their families, and that they may reserve all their favours for you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[singing] Let us ask the fulfilment of these wishes both for the city and for the people, and may the wisest of us cause her opinion to be accepted. But woe to those women who break their oaths, who speculate on the public misfortune, who seek to alter the laws and the decrees, who reveal our secrets to the foe and admit the Medes into our territory so that they may devastate it! I declare them both impious and criminal. Oh! almighty Zeus! see to it that the gods protect us, albeit we are but women!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WOMAN HERALD\nHearken, all of you! this is the decree passed by the Senate of the Women under the presidency of Timoclea and at the suggestion of Sostrate; it is signed by Lysilla, the secretary: \"There will be a gathering of the people on the morning of the third day of the Thesmophoria, which is a day of rest for us; the principal business there shall be the punishment that it is meet to inflict upon Euripides for the insults with which he has loaded us.\" Now who asks to speak?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nI do.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "WOMAN HERALD\nFirst put on this garland, and then speak.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nSilence! let all be quiet! Pay attention! for here she is spitting as orators generally do before they begin; no doubt she has much to say.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nIf I have asked to speak, may the goddess bear me witness, it was not for sake of ostentation. But I have long been pained to see us women insulted by this Euripides, this son of the green-stuff woman, who loads us with every kind of indignity. Has he not hit us enough, calumniated us sufficiently, wherever there are spectators, tragedians, and a chorus? Does he not style us adulterous, lecherous, bibulous, treacherous, and garrulous? Does he not repeat that we are all vice, that we are the curse of our husbands? So that, directly they come back from the theatre, they look at us doubtfully and go searching every nook, fearing there may be some hidden lover. We can do nothing as we used to, so many are the false ideas which he had instilled into our husbands. Is a woman weaving a garland for herself? It's because she is in love. Does she let some vase drop while going or returning to the house? her husband asks her in whose honour she has broken it, \"It can only be for that Corinthian stranger.\" Is a maiden unwell? Straightway her brother says, \"That is a colour that does not please me.\" And if a childless woman wishes to substitute one, the deceit can no longer be a secret, for the neighbours will insist on being present at her delivery. Formerly the old men married young girls, but they have been so calumniated that none think of them now, thanks to that line of his: \"A woman is the tyrant of the old man who marries her.\" Again, it is because of Euripides that we are incessantly watched, that we are shut up behind bolts and bars, and that dogs are kept to frighten off the adulterers. Let that pass; but formerly it was we who had the care of the food, who fetched the flour from the storeroom, the oil and the wine; we can do it no more. Our husbands now carry little Spartan keys on their persons, made with three notches and full of malice and spite. Formerly it sufficed to purchase a ring marked with the same sign for three obols, to open the most securely sealed-up door; but now this pestilent Euripides has taught men to hang seals of worm-eaten wood about their necks. My opinion, therefore, is that we should rid ourselves of our enemy by poison or by any other means, provided he dies. That is what I announce publicly; as to certain points, which I wish to keep secret, I propose to record them on the secretary's minutes.\n[Note 36: An insult which Aristophanes constantly repeats in every way he can; as we have seen before, Euripides' mother was, or was commonly said to be, a market-woman.]\n[Note 37: Lovers sent each other chaplets and flowers.]\n[Note 38: In parody of a passage in the 'Sthenoboea' of Euripides, which is preserved in Athenaeus.]\n[Note 39: He believes her pregnant.]\n[Note 40: A fragment from the 'Phoenix,' by Euripides.]\n[Note 41: It seems that the Spartan locksmiths were famous for their skill.]\n[Note 42: The women broke the seals their husbands had affixed, and then, with the aid of their ring bearing the same device, they replaced them as before.]\n[Note 43: The impression of which was too complicated and therefore could not be imitated.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[singing] Never have I listened to a cleverer or more eloquent woman. Everything she says is true; she has examined the matter from all sides and has weighed up every detail. Her arguments are close, varied, and happily chosen. I believe that Xenocles himself, the son of Carcinus, would seem to talk mere nonsense, if placed beside her.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nI have only a very few words to add, for the last speaker has covered the various points of the indictment; allow me only to tell you what happened to me. My husband died at Cyprus, leaving me five children, whom I had great trouble to bring up by weaving chaplets on the myrtle market. Anyhow, I lived as well as I could until this wretch had persuaded the spectators by his tragedies that there were no gods; since then I have not sold as many chaplets by half. I charge you therefore and exhort you all to punish him, for he does not deserve it in a thousand respects, he who loads you with troubles, who is as coarse toward you as the vegetables upon which his mother reared him? But I must back to the market to weave my chaplets; I have twenty to deliver yet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[singing] This is even more animated and more trenchant than the first speech; all she has just said is full of good sense and to the point; it is clever, clear and well calculated to convince. Yes! we must have striking vengeance on the insults of Euripides.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOh, women! I am not astonished at these outbursts of fiery rage; how could your bile not get inflamed against Euripides, who has spoken so ill of you? As for myself, I hate the man, I swear it by my children; it would be madness not to hate him! Yet, let us reflect a little; we are alone and our words will not be repeated outside. Why be so bent on his ruin? Because he has known and shown up two or three of our faults, when we have a thousand? As for myself, not to speak of other women, I have more than one great sin upon my conscience, but this is the blackest of them. I had been married three days and my husband was asleep by my side; I had a lover, who had seduced me when I was seven years old; impelled by his passion, he came scratching at the door; I understood at once he was there and was going down noiselessly. \"Where are you going?\" asked my husband. \"I am suffering terribly with colic,\" I told him, \"and am going to the can.\" \"Go ahead,\" he replied, and started pounding together juniper berries, aniseed, and sage. As for myself, I moistened the door-hinge and went to find my lover, who laid me, half-reclining upon Apollo's altar and holding on to the sacred laurel with one hand. Well now! Consider! that is a thing of which Euripides has never spoken. And when we bestow our favours on slaves and muleteers for want of better, does he mention this? And when we eat garlic early in the morning after a night of wantonness, so that our husband, who has been keeping guard upon the city wall, may be reassured by the smell and suspect nothing, has Euripides ever breathed a word of this? Tell me. Neither has he spoken of the woman who spreads open a large cloak before her husband's eyes to make him admire it in full daylight to conceal her lover by so doing and afford him the means of making his escape. I know another, who for ten whole days pretended to be suffering the pains of labour until she had secured a child; the husband hurried in all directions to buy drugs to hasten her deliverance, and meanwhile an old woman brought the infant in a stew-pot; to prevent its crying she had stopped up its mouth with honey. With a sign she told the wife that she was bringing a child for her, who at once began exclaiming, \"Go away, friend, go away, I think I am going to be delivered; I can feel him kicking his heels in the belly … of the stew-pot.\" The husband goes off full of joy, and the old wretch quickly takes the honey out of the child's mouth, which starts crying; then she seizes the baby, runs to the father and tells him with a smile on her face, \"'Tis a lion, a lion, that is born to you; 'tis your very image. Everything about it is like you, even his little tool, which is all twisty like a fir-cone.\" Are these not our everyday tricks? Why certainly, by Artemis, and we are angry with Euripides, who assuredly treats us no worse than we deserve!\n[Note 44: As a remedy against the colic.]\n[Note 45: So that it might not creak when opened.]\n[Note 46: An altar in the form of a column in the front vestibule of houses and dedicated to Apollo.]\n[Note 47: Because the smell of garlic is not inviting to gallants.]\n[Note 48: The last words are the thoughts of the woman, who pretends to be in child-bed; she is, however, careful not to utter them to her husband.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[singing] Great gods! where has she unearthed all that? What country gave birth to such an audacious woman? Oh! you wretch! I should not have thought ever a one of us could have spoken in public with such impudence. 'Tis clear, however, that we must expect everything and, as the old proverb says, must look beneath every stone, lest it conceal some orator ready to sting us.\n[Note 49: The proverb runs, \"There is a scorpion beneath every stone.\" By substituting orator for scorpion, Aristophanes means it to be understood that one is no less venomous than the other.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nThere is but one thing in the world worse than a shameless woman, and that's another woman.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nBy Aglaurus! you have lost your wits, friends! You must be bewitched to suffer this plague to belch forth insults against us all. Is there no one has any spirit at all? If not, we and our maid-servants will punish her. Run and fetch coals and let's depilate her cunt in proper style, to teach her not to speak ill of her sex.\n[Note 50: There were two women named Aglaurus. One, the daughter of Actaeus, King of Attica, married Cecrops and brought him the kingship as her dowry; the other was the daughter of Cecrops, and was turned into stone for having interfered from jealousy with Hermes' courtship of Hersé her sister. It was this second Aglaurus the Athenian women were in the habit of invoking; they often associated with her her sister Pandrosus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOh no no! not that part of me, my friends. Have we not the right to speak frankly at this gathering? And because I have uttered what I thought right in favour of Euripides, do you want to depilate me for my trouble?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nWhat! we ought not to punish you, who alone have dared to defend the man who has done us so much harm, whom it pleases to put all the vile women that ever were upon the stage, who only shows us Melanippes and Phaedras? But of Penelope he has never said a word, because she was reputed chaste and good.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nI know the reason. 'Tis because not a single Penelope exists among the women of to-day, but all without exception are Phaedras.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nWomen, you hear how this creature still dares to speak of us all.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAnd, Heaven knows, I have not said all that I know. Do you want any more?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nYou cannot tell us any more; you have emptied your bag.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhy, I have not told the thousandth part of what we women do. Have I said how we use the hollow handles of our brooms to draw up wine unbeknown to our husbands?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nThe cursed jade!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAnd how we give meats to our lovers at the feast of the Apaturia and then accuse the cat…",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nShe's mad!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n… Have I mentioned the woman who killed her husband with a hatchet? Of another, who caused hers to lose his reason with her potions? And of the Acharnian woman …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nDie, you bitch!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n… who buried her father beneath the bath?\n[Note 51: Underneath the baths were large hollow chambers filled with steam to maintain the temperature of the water.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nAnd yet we listen to such things?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nHave I told how you attributed to yourself the male child your slave had just borne and gave her your little daughter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nThis insult calls for vengeance. Look out for your hair!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBy Zeus! don't touch me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\n[slapping him] There!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[hitting back] There! tit for tat! [They exchange blows.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nHold my cloak, Philista!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nCome on then, and by Demeter …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nWell! what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n… I'll make you crap forth the sesame-cake you have eaten.\n[Note 52: By kicking her in the stomach.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nCease wrangling! I see a woman running here in hot haste. Keep silent, so that we may hear the better what she has to say. [Enter CLISTHENES, dressed as a woman.]\n[Note 53: Clisthenes is always represented by Aristophanes as effeminate in the extreme in dress and habits.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nFriends, whom I copy in all things, my hairless chin sufficiently evidences how dear you are to me; I am women-mad and make myself their champion wherever I am. Just now on the market-place I heard mention of a thing that is of the greatest importance to you; I come to tell it you, to let you know it, so that you may watch carefully and be on your guard against the danger which threatens you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nWhat is it, my child? I can well call you child, for you have so smooth a skin.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\n'Tis said that Euripides has sent an old man here to-day, one of his relations …",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nWith what object? What is his idea?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\n… so that he may hear your speeches and inform him of your deliberations and intentions.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nBut how would a man fail to be recognized amongst women?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nEuripides singed and depilated him and disguised him as a woman.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nThis is pure invention! What man is fool enough to let himself be depilated? As for myself, I don't believe a word of it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nNonsense! I should not have come here to tell you, if I did not know it on indisputable authority.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nGreat gods! what is it you tell us! Come, women, let us not lose a moment; let us search and rummage everywhere! Where can this man have hidden himself escape our notice? Help us to look, Clisthenes; we shall thus owe you double thanks, dear friend.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\n[to a fourth woman] Well then! let us see. To begin with you; who are you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[aside] Wherever am I to stow myself?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nEach and every one must pass the scrutiny.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[aside] Oh! great gods!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nYou ask me who I am? I am the wife of Cleonymus.\n[Note 54: The coward, often mentioned with contempt by Aristophanes, had thrown away his shield.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\n[to the LEADER OF THE CHORUS] Do you know this woman?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nYes, yes, pass on to the rest.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nAnd she who carries the child?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nSurely; she's my nurse.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[aside] This is the end. [He runs off.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\n[to Mnesilochus] Hi! you there! where are you off to? Stop there. What are you running away for?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[dancing on one leg] I want to relieve myself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nThe shameless thing! Come, hurry yourself; I will wait here for you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nWait for her and examine her closely; she's the only one we do not know.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nThat's a long leak you're taking.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAye, my god, yes; 'tis because I am unwell, for I ate cress yesterday.\n[Note 55: The ancients believed that cress reduced the natural secretions.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nWhat are you chattering about cress? Come here! and be quick. [He starts to pull MNESILOCHUS back.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOh! don't pull a poor sick woman about like that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\n[looking MNESILOCHUS square in the eye] Tell me, who is your husband?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[embarrassed] My husband? Do you know a certain individual at Cothocidae…?\n[Note 56: A deme of Attica.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nWhom do you mean? Give his name.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n'Tis an individual to whom the son of a certain individual one day…",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nYou are drivelling! Let's see, have you ever been here before?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhy certainly, every year.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nWho is your tent companion?\n[Note 57: The women lodged in pairs during the Thesmophoria in tents erected near the Temple of Demeter.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n'Tis a certain… Oh! my god!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nThat's not an answer!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nWithdraw, all of you; I am going to examine her thoroughly about last year's mysteries. But move away, Clisthenes, for no man may hear what is going to be said. Now answer my questions! What was done first?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nLet's see now. What was done first? Oh! we drank.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nAnd then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWe drank to our healths.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nYou will have heard that from someone. And then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nXenylla asked for a cup; there wasn't any thunder-mug.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nYou're talking nonsense. Here, Clisthenes, here. This is the man you were telling us about.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nWhat is to be done then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nTake off his clothes, I can get nothing out of him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhat! are you going to strip a mother of nine children naked?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nCome, undo your girdle, you shameless thing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nAh! what a sturdy frame! but she has no breasts like we have.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nThat's because I'm barren. I never had any children.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nOh! indeed! just now you were the mother of nine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nStand up straight. Hullo! what do I see there? Why, a penis sticking out behind.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nThere's no mistaking it; you can see it projecting, and a fine red it is.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\n[also peering from behind] Where has it gone to now?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nTo the front.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\n[from in front] No.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\n[from behind] Ah! it's behind now!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nWhy, friend, 'tis for all the world like the Isthmus; you keep pulling your tool backwards and forwards just as the Corinthians do their ships.\n[Note 58: The Corinthians were constantly passing their vessels across the isthmus from one sea to the other; we know that the Grecian ships were of very small dimensions.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nAh! the wretch! this is why he insulted us and defended Euripides.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAye, wretch indeed, what troubles have I not got into now!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nWhat shall we do?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLISTHENES\nWatch him closely, so that he does not escape. As for me, I go to report the matter to the magistrates, the Prytanes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nLet us kindle our lamps; let us go firmly to work and with courage, let us take off our cloaks and search whether some other man has not come here too; let us pass round the whole Pnyx, examine the tents and the passages. Come, be quick, let us start off on a light toe and rummage all round in silence. Let us hasten, let us finish our round as soon as possible.\n[Note 59: This was the name of the place where the Ecclesia, the public meeting of the people, took place; the chorus gives this name here to Demeter's temple, because the women are gathered there.]\n[Note 60: The spaces left free between the tents, and which served as passage-ways.]\n[Note 61: A choric dance began here.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[singing] Look quickly for the traces that might show you a man hidden here, let your glance fall on every side; look well to the right and to the left. If we seize some impious fellow, woe to him! He will know how we punish the outrage, the crime, the sacrilege. The criminal will then acknowledge at last that gods exist; his fate will teach all men that the deities must be revered, that justice must be observed and that they must submit to the sacred laws. If not, then woe to them! Heaven itself will punish sacrilege; being aflame with fury and mad with frenzy, all their deeds will prove to mortals, both men and women, that the deity punishes injustice and impiety, and that she is not slow to strike.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nBut I think I have now searched everywhere and that no other man is hidden among us.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nWhere is he flying to? Stop him! stop him! Ah! miserable woman that I am, he has torn my child from my breast and has disappeared with it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nScream as loud as you will, but he shall never suck your bosom more. If you do not let me go this very instant, I am going to cut open the veins of his thighs with this cutlass and his blood shall flow over the altar.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nOh! great gods! oh! friends, help me! terrify him with your shrieks, triumph over this monster, permit him not to rob me of my only child.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nOh! oh! venerable Moirai, what fresh attack is this? 'Tis the crowning act of audacity and shamelessness! What has he done now, friends, what has he done?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAh! your insolence passes all bounds, but I shall know how to curb it!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nWhat a shameful deed! the measure of his iniquities is full!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nAye, 'tis shameful that he should have robbed me of my child.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n'Tis past belief to be so criminal and so impudent!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAh! you're not near the end of it yet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[singing] Little I care whence you come; you shall not return to boast of having acted so odiously with impunity, for you shall be punished.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[speaking] You won't do it, by the gods!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[singing] And what immortal would protect you for your crime?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[speaking] You talk in vain! I shall not let go the child.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[singing] By the goddesses, you will not laugh presently over your crime and your impious speech. For with impiety, as 'tis meet, shall we reply to your impiety. Soon fortune will turn round and overwhelm you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nCome! bring wood along. Let us burn the wretch, let us roast him as quickly as possible.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nBring faggots, Mania! To MNESILOCHUS You will be nothing but charcoal soon.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nGrill away, roast me, but you, my child, take off this Cretan robe and blame no one but your mother for your death. But what does this mean? The little girl is nothing but a skin filled with wine and shod with Persian slippers. Oh! you wanton, you tippling women, who think of nothing but wine; you are a fortune to the drinking-shops and are our ruin; for the sake of drink, you neglect both your household and your shuttle!\n[Note 62: A woman's footgear.—On undressing the supposed child, Mnesilochus perceives that it is nothing but a skin of wine.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nFaggots, Mania, plenty of them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBring as many as you like. But answer me; are you the mother of this brat?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nI carried it ten months.\n[Note 63: Dr. P. Menier repeatedly points out in his \"La médecine et les poètes latins,\" that the ancient writers constantly spoke of ten months as being a woman's period of gestation.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nYou carried it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nI swear it by Artemis.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nHow much does it hold? Three cotylae? Tell me.\n[Note 64: A cotyla contained nearly half a pint.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nOh! what have you done? You have stripped the poor child quite naked, and it is so small, so small.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nSo small?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nYes, quite small, to be sure.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nHow old is it? Has it seen the feast of cups thrice or four times?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nIt was born about the time of the last Dionysia. But give it back to me.\n[Note 65: Both the Feast of Cups and the Dionysia were dedicated to Bacchus, the god of wine; it is for this reason that Mnesilochus refers to the former when guessing the wine-skin's age.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nNo, may Apollo bear me witness.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nWell, then we are going to burn him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBurn me, but then I shall rip this open instantly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nNo, no, I adjure you, don't; do anything you like to me rather than that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhat a tender mother you are; but nevertheless I shall rip it open. [He tears open the wine-skin.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nOh, my beloved daughter! Mania, hand me the sacred cup, that I may at least catch the blood of my child.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nHold it below; that's the only favour I grant you. [He pours the wine into the cup.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nOut upon you, you pitiless monster!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nThis robe belongs to the priestess.\n[Note 66: The Cretan robe that had covered the wine-skin.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nWhat belongs to the priestess?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nHere, take it. [He throws her the Cretan robe.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nAh! unfortunate Mica! Who has robbed you of your daughter, your beloved child?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "FIRST WOMAN\nThat wretch. But as you are here, watch him well, while I go with Clisthenes to the Magistrates and denounce him for his crimes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAh! how can I secure safety? what device can I hit on? what can I think of? He whose fault it is, he who hurried me into this trouble, will not come to my rescue. Let me see, whom could I best send to him? Ha! I know a means taken from Palamedes; like him, I will write my misfortune on some oars, which I will cast into the sea. But there are no oars here. Where might I find some? Where indeed? Bah! what if I took these statues instead of oars, wrote upon them and then threw them towards this side and that. 'Tis the best thing to do. Besides, like oars they are of wood. [singing] Oh! my hands, keep up your courage, for my safety is at stake. Come, my beautiful tablets, receive the traces of my stylus and be the messengers of my sorry fate. Oh! oh! this B looks miserable enough! Where is it running to then? Come, off with you in all directions, to the right and to the left; and hurry yourselves, for there's much need indeed! [He sits down to wait for Euripides. The Chorus turns and faces the audience.]\n[Note 67: An allusion to the tragedy by Euripides called 'Palamedes,' which belonged to the tetralogy of the Troades, and was produced in 414 B.C. Aristophanes is railing at the strange device which the poet makes Oeax resort to. Oeax was Palamedes' brother, and he is represented as inscribing the death of the latter on a number of oars with the hope that at least one would reach the shores of Euboea and thus inform his father, Nauplias, the king of the fact.]\n[Note 68: The images of the various gods which were invoked at the Thesmophoria, and the enumeration of which we have already had.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nLet us address ourselves to the spectators to sing our praises, despite the fact that each one says much ill of women. If the men are to be believed, we are a plague to them; through us come all their troubles, quarrels, disputes, sedition, griefs and wars. But if we are truly such a pest, why marry us? Why forbid us to go out or show ourselves at the window? You want to keep this pest, and take a thousand cares to do it. If your wife goes out and you meet her away from the house, you fly into a fury. Ought you not rather to rejoice and give thanks to the gods? for if the pest has disappeared, you will no longer find it at home. If we fall asleep at friends' houses from the fatigue of playing and sporting, each of you comes prowling round the bed to contemplate the features of this pest. If we seat ourselves at the window, each one wants to see the pest, and if we withdraw through modesty, each wants all the more to see the pest perch herself there again. It is thus clear that we are better than you, and the proof of this is easy. Let us find out which is worse of the two sexes. We say, \"'Tis you,\" while you aver, 'tis we. Come, let us compare them in detail, each individual man with a woman. Charminus is not equal to Nausimache, that's certain. Cleophon is in every respect inferior to Salabaccho.'Tis long now since any of you has dared to contest the prize with Aristomache, the heroine of Marathon, or with Stratonice. Among the last year's Senators, who have just yielded their office to other citizens, is there one who equals Eubule? Therefore we maintain that men are greatly our inferiors. You see no woman who has robbed the State of fifty talents rushing about the city in a magnificent chariot; our greatest peculations are a measure of corn, which we steal from our husbands, and even then we return it them the very same day. But we could name many amongst you who do quite as much, and who are, even more than ourselves, gluttons, parasites, cheats and kidnappers of slaves. We know how to keep our property better than you. We still have our cylinders, our beams, our baskets and our sunshades; whereas many among you have lost the wood of your spears as well as the iron, and many others have cast away their bucklers on the battlefield. There are many reproaches we have the right to bring against men. The most serious is this, that the woman, who has given birth to a useful citizen, whether taxiarch or strategus should receive some distinction; a place of honour should be reserved for her at the Sthenia, the Scirophoria, and the other festivals that we keep. On the other hand, she of whom a coward was born or a worthless man, a bad trierarch or an unskilful pilot, should sit with shaven head, behind her sister who had borne a brave man. Oh! citizens! is it just, that the mother of Hyperbolus should sit dressed in white and with loosened tresses beside that of Lamachus and lend out money on usury? He, who may have done a deal of this nature with her, so far from paying her interest, should not even repay the capital, saying, \"What, pay you interest? after you have given us this delightful son?\"\n[Note 69: Charminus, an Athenian general, who had recently been defeated at sea by the Spartans.—Nausimaché was a courtesan, but her name is purposely chosen because of its derivation (ναῦς, ship, and μάχη, fight), so as to point more strongly to Charminus' disgrace.]\n[Note 70: A general and an Athenian orator.]\n[Note 71: A courtesan.]\n[Note 72: Aristomaché (μαχη, fight, and ἀρίστη, excellent) and Stratonicé (στρατός, army, and νίκη, victory) are imaginary names, invented to show the decadence of the Athenian armies.]\n[Note 73: Eubulé (εὐ, well, and Βουγεύεσθαι, to deliberate) is also an imaginary name. The poet wishes to say that in that year wisdom had not ruled the decisions of the Senate; they had allowed themselves to be humbled by the tyranny of the Four Hundred.]\n[Note 74: The cylinder and the beams were the chief tools of the weaver. It was the women who did this work.]\n[Note 75: The taxiarch had the command of 128 men; the strategus had the direction of an army.]\n[Note 76: The Sthenia were celebrated in honour of Athené Sthenias, or the goddess of force; the women were then wont to attack each other with bitter sarcasms.—During the Scirophoria (σκίρον, canopy) the statues of Athené, Demeter, Persephone, the Sun and Posidon were carried in procession under canopies with great pomp.]\n[Note 77: The trierarchs were rich citizens, whose duty it was to maintain the galleys or triremes of the fleet.]\n[Note 78: Hyperbolus is incessantly railed at by Aristophanes as a traitor and an informer. Lamachus, although our poet does not always spare him, was a brave general; he had been one of the commanders of the Sicilian Expedition.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nI have contracted quite a squint by looking round for him, and yet Euripides does not come. Who is keeping him? No doubt he is ashamed of his cold Palamedes. What will attract him? Let us see! By which of his pieces does he set most store? Ah! I'll imitate his Helen, his lastborn. I just happen to have a complete woman's outfit.\n[Note 79: It will be remembered that Mnesilochus had employed a similar device to one imputed to Oeax by Euripides in his 'Palamedes,' in order to inform his father-in-law of his predicament.]\n[Note 80: A tragedy, in which Menelaus is seen in Egypt, whither he has gone to seek Helen, who is detained there.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nWhat are you ruminating over now again? Why are you rolling up your eyes? You'll have no reason to be proud of your Helen, if you don't keep quiet until one of the Magistrates arrives.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[as Helen] \"These shores are those of the Nile with the beautiful nymphs, these waters take the place of heaven's rain and fertilize the white earth, that produces the black syrmea.\"\n[Note 81: These are the opening verses of Euripides' 'Helen,' with the exception of the last words, which are a parody.—Syrmea is a purgative plant very common in Egypt. Aristophanes speaks jestingly of the white soil of Egypt, because the slime of the Nile is very black.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nBy bright Hecate, you're a cunning varlet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"Glorious Sparta is my country and Tyndareus is my father.\"\n[Note 82: This reply and those that follow are fragments from 'Helen.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nHe your father, you rascal! Why, 'tis Phrynondas.\n[Note 83: An infamous Athenian, whose name had become a byword for everything that was vile.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"I was given the name of Helen.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nWhat! you are again becoming a woman, before we have punished you for having pretended it the first time?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"A thousand warriors have died on my account on the banks of the Scamander.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nWould that you had done the same!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"And here I am upon these shores; Menelaus, my unhappy husband, does not yet come. Ah! Why do I still live?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nBecause of the criminal negligence of the crows! MNESILOCHUS: \"But what sweet hope is this that sets my heart a-throb? Oh, Zeus! grant it may not prove a lying one!\" [EURIPIDES enters.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n[as Menelaus] \"To what master does this splendid palace belong? Will he welcome strangers who have been tried on the billows of the sea by storm and shipwreck?\"\n[Note 84: The whole of this dialogue between Mnesilochus and Euripides is composed of fragments taken from 'Helen,' slightly parodied at times.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"This is the palace of Proteus.\"\n[Note 85: King of Egypt.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nOf what Proteus? Oh! the thrice cursed rascal! how he lies! By the goddesses, 'tis ten years since Proteas died.\n[Note 86: Son of Epicles, and mentioned by Thucydides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"What is this shore whither the wind has driven our boat?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"'Tis Egypt.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"Alas! how far we are from our country!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nDon't believe that cursed fool. This is Demeter's Temple.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"Is Proteus in these parts?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nAh, now, stranger, it must be sea-sickness that makes you so distraught! You have been told that Proteas is dead, and yet you ask if he is in these parts.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"He is no more! Oh! woe! where lie his ashes?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n'Tis on his tomb you see me sitting.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nYou call an altar a tomb! Beware of the rope!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"And why remain sitting on this tomb, wrapped in this long veil, oh, stranger lady?\"\n[Note 87: Aristophanes invents this in order to give coherence to what follows.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"They want to force me to marry a son of Proteus.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nAh! wretch, why tell such shameful lies? Stranger, this is a rascal who has slipped in amongst us women to rob us of our trinkets. MNESILOCHUS [to Second Woman] \"Shout! load me with your insults, for little care I.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"Who is the old woman who reviles you, stranger lady?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"'Tis Theonoe, the daughter of Proteus.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nI! Why, my name's Critylla, the daughter of Antitheus, of the deme of Gargettus; as for you, you are a rogue.\n[Note 88: An Athenian general whom Thucydides mentions.]\n[Note 89: A deme of Attica.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"Your entreaties are in vain. Never shall I wed your brother; never shall I betray the faith I owe my husband, Menelaus, who is fighting before Troy.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"What are you saying? Turn your face towards me.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"I dare not; my cheeks show the marks of the insults I have been forced to suffer.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"Oh! great gods! I cannot speak, for very emotion… Ah! what do I see? Who are you?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"And you, what is your name? for my surprise is as great as yours.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"Are you Grecian or born in this country?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"I am Grecian. But now your name, what is it?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"Oh! how you resemble Helen!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAnd you Menelaus, if I can judge by those pot-herbs.\n[Note 90: No doubt Euripides appeared on the stage carrying some herbs in his hand or wearing them in his belt, so as to recall his mother's calling. If the gibes of Aristophanes can be believed, she dealt in vegetables, as we have noted repeatedly.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"You are not mistaken, 'tis that unfortunate mortal who stands before you.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"Ah! how you have delayed coming to your wife's arms! Press me to your heart, throw your arms about me, for I wish to cover you with kisses. Carry me away, carry me away, quick, quick, far, very far from here.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nBy the goddesses, woe to him who would carry you away! I should thrash him with my torch.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"Do you propose to prevent me from taking my wife, the daughter of Tyndareus, to Sparta?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nYou seem to me to be a cunning rascal too; you are in collusion with this man, and 'twas not for nothing that you kept babbling about Egypt. But the hour for punishment has come; here is the Magistrate come with his archer.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThis grows awkward. Let me hide myself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAnd what is to become of me, poor unfortunate man that I am?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nBe at ease. I shall never abandon you, as long as I draw breath and one of my numberless artifices remains untried.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nThe fish has not bitten this time. [A MAGISTRATE enters, accompanied by a SCYTHIAN POLICEMAN.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAGISTRATE\nIs this the rascal of whom Clisthenes told us? Why are you trying to make yourself so small? Archer, arrest him, fasten him to the post, then take up your position there and keep guard over him. Let none approach him. A sound lash with your whip for him who attempts to break the order.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SECOND WOMAN\nExcellent, for just now a rogue almost took him from me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nMagistrate, in the name of that hand which you know so well how to bend, when money is placed in it, grant me a slight favour before I die.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAGISTRATE\nWhat favour?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOrder the archer to strip me before lashing me to the post; the crows, when they make their meal on the poor old man, would laugh too much at this robe and head-dress.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MAGISTRATE\nIt is in this gear that you must be exposed by order of the Senate, so that your crime may be patent to the passers-by. [He departs.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[as the SCYTHIAN ARCHER seizes him] Oh! cursed robe, the cause of all my misfortune! My last hope is thus destroyed!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "LEADER OF THE CHORUS\nLet us now devote ourselves to the sports which the women are accustomed to celebrate here, when time has again brought round the mighty Mysteries of the great goddesses, the sacred days which Pauson himself honours by fasting and would wish feast to succeed feast, that he might keep them all holy. Spring forward with a light step, whirling in mazy circles; let your hands interlace, let the eager and rapid dancers sway to the music and glance on every side as they move. Let the chorus sing likewise and praise the Olympian gods in their pious transport.\n[Note 91: A ruined man, living in penury, presumably well known to the audience.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\n[singing] It's wrong to suppose that, because I am a woman and in this temple, I am going to speak ill of men; but since we want something fresh, we are going through the rhythmic steps of the round dance for the first time. Start off while you sing to the god of the lyre and to the chaste goddess armed with the bow. Hail! thou god who flingest thy darts so far, grant us the victory! The homage of our song is also due to Here, the goddess of marriage, who interests herself in every chorus and guards the approach to the nuptial couch. I also pray Hermes, the god of the shepherds, and Pan and the beloved Graces to bestow a benevolent smile upon our songs. Let us lead off anew, let us double our zeal during our solemn days, and especially let us observe a close fast; let us form fresh measures that keep good time, and may our songs resound to the very heavens. Do thou, oh divine Bacchus, who art crowned with ivy, direct our chorus; 'tis to thee that both my hymns and my dances are dedicated; oh, Evius, oh, Bromius, oh, thou son of Semele, oh, Bacchus, who delightest to mingle with the dear choruses of the nymphs upon the mountains, and who repeatest, while dancing with them, the sacred hymn, Evius, Evius, Evoe. Echo, the nymph of Cithaeron returns thy words, which resound beneath the dark vaults of the thick foliage and in the midst of the rocks of the forest; the ivy enlaces thy brow with its tendrils charged with flowers.\n[Note 92: Apollo.]\n[Note 93: Surnames of Bacchus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN ARCHER\n[speaks with a heavy foreign accent] You shall stay here in the open air to wail.\n[Note 94: The archers, or the police officers, at Athens were mostly Scythians. If not from that country always, they were known generally by that name.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nArcher, I adjure you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\n'Tis labour lost.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nLoosen the wedge a little.\n[Note 95: Which the archer had driven in to tighten up the rope binding the prison to the pillory.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nAye, certainly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOh! by the gods! why, you are driving it in tighter.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nIs that enough?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOh! Oh! Ow! Ow! May the plague take you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nSilence! you cursed old wretch! I am going to get a mat to lie upon, so as to watch you close at hand at my ease.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAh! what exquisite pleasures Euripides is securing for me! But, oh, ye gods! oh, Zeus the Deliverer, all is not yet lost! I don't believe him the man to break his word; I just caught sight of him appearing in the form of Perseus, and he told me with a mysterious sign to turn myself into Andromeda. And in truth am I not really bound? 'Tis certain, then, that he is coming to my rescue; for otherwise he would not have steered his flight this way. [As Andromeda, singing] Oh Nymphs, ye virgins who are dear to me, how am I to approach him? how can I escape the sight of this Scythian? And Echo, thou who reignest in the inmost recesses of the caves, oh! favour my cause and permit me to approach my spouse. A pitiless ruffian has chained up the most unfortunate of mortal maids. Alas! I had barely escaped the filthy claws of an old fury, when another mischance overtook me! This Scythian does not take his eye off me and he has exposed me as food for the crows. Alas! what is to become of me, alone here and without friends! I am not seen mingling in the dances nor in the games of my companions, but heavily loaded with fetters I am given over to the voracity of a Glaucetes. Sing no bridal hymn for me, oh women, but rather the hymn of captivity, and in tears. Ah! how I suffer! great gods! how I suffer! Alas! alas! and through my own relatives too! My misery would make Tartarus dissolve into tears! Alas! in my terrible distress, I implore the mortal who first shaved me and depilated me, then dressed me in this long robe, and then sent me to this Temple into the midst of the women, to save me. Oh, thou pitiless Fate! I am then accursed, great gods! Ah! who would not be moved at the sight of the appalling tortures under which I succumb? Would that the blazing shaft of the lightning would wither… this barbarian for me! [pointing to the Scythian archer] for the immortal light has no further charm for my eyes since I have been descending the shortest path to the dead, tied up, strangled, and maddened with pain. [In the following scene EURIPIDES, from off stage, impersonates Echo.]\n[Note 96: Perseus was returning from the land of the Gorgons mounted upon Pegasus, when, while high up in the air, he saw Andromeda bound to a rock and exposed to the lusts and voracity of a sea monster. Touched by the misfortune and the beauty of the princess, he turned the monster to stone by showing him the head of Medusa, released Andromeda and married her.—Euripides had just produced a tragedy on this subject.]\n[Note 97: Mnesilochus speaks alternately in his own person and as though he were Andromeda, the effect being comical in the extreme.]\n[Note 98: A notorious glutton, mentioned also in the 'Peace.']\n[Note 99: Through Euripides, his father-in-law.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nHail! beloved girl. As for your father, Cepheus, who has exposed you in this guise, may the gods annihilate him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n[as Andromeda] And who are you whom my misfortunes have moved to pity?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nI am Echo, the nymph who repeats all she hears. 'Tis I, who last year lent my help to Euripides in this very place. But, my child, give yourself up to the sad laments that belong to your pitiful condition.\n[Note 100: On the occasion of the presentation of the tragedy of 'Andromeda,' in which the nymph Echo plays an important part.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAnd you will repeat them?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nI will not fail you. Begin.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"Oh! thou divine Night! how slowly thy chariot threads its way through the starry vault, across the sacred realms of the Air and mighty Olympus.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nMighty Olympus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"Why is it necessary that Andromeda should have all the woes for her share?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nFor her share.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\n\"Sad death!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nSad death!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nYou weary me, old babbler.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nOld babbler.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nOh! you are too unbearable.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nUnbearable.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nFriend, let me talk by myself. Do please let me. Come, that's enough.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThat's enough.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nGo and hang yourself!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nGo and hang yourself!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nWhat a plague!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhat a plague!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nCursed brute!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nCursed brute!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nBeware of blows!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nBeware of blows!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nHullo! what are you jabbering about?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhat are you jabbering about?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nI go to call the Magistrates.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nI go to call the Magistrates.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nThis is odd!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThis is odd!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nWhence comes this voice?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhence comes this voice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nAh! beware!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nAh! beware!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\n[to Mnesilochus] Are you mocking me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nAre you mocking me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nNo, 'tis this woman, who stands near you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWho stands near you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nWhere is the hussy? Ah! she is escaping! Whither, whither are you escaping?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWhither, whither are you escaping?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nYou shall not get away.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nYou shall not get away.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nYou are chattering still?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nYou are chattering still?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nStop the hussy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nStop the hussy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nWhat a babbling, cursed woman!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n[as Perseus] \"Oh! ye gods! to what barbarian land has my swift flight taken me? I am Perseus, who cleaves the plains of the air with my winged feet, and I am carrying the Gorgon's head to Argos.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nWhat, are you talking about the head of Gorgos, the scribe?\n[Note 101: Unknown; Aristophanes plays upon the similarity of name.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nNo, I am speaking of the head of the Gorgon.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nWhy, yes! of Gorgus!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"But what do I behold? A young maiden, beautiful as the immortals, chained to this rock like a vessel in port?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nTake pity on me, oh, stranger! I am so unhappy and distraught! Free me from these bonds.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nDon't you talk! a curse upon your impudence! you are going to die, and yet you will be chattering!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"Oh! virgin! I take pity on your chains.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nBut this is no virgin; 'tis an old rogue, a cheat and a thief.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nYou have lost your wits, Scythian. This is Andromeda, the daughter of Cepheus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nBut just look at this tool; is that like a woman?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nGive me your hand, that I may descend near this young maiden. Each man has his own particular weakness; as for me I am aflame with love for this virgin.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nOh! I'm not jealous; and as he has his back turned this way, why, I make no objection to your sodomising him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"Ah! let me release her, and hasten to join her on the bridal couch.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nIf this old man instils you with such ardent concupiscence, why, you can bore through the plank, and so get at his behind.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nNo, I will break his bonds.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nBeware of my lash!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nNo matter.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nThis blade shall cut off your head.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n\"Ah! what can be done? what arguments can I use? This savage will understand nothing! The newest and most cunning fancies are a dead letter to the ignorant. Let us invent some artifice to fit in with his coarse nature.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nI can see the rascal is trying to outwit me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nAh! Perseus! remember in what condition you are leaving me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nAre you wanting to feel my lash again!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh! Pallas, who art fond of dances, hasten hither at my call. Oh! thou chaste virgin, the protectress of Athens, I call thee in accordance with the sacred rites, thee, whose evident protection we adore and who keepest the keys of our city in thy hands. Do thou appear, thou whose just hatred has overturned our tyrants. The womenfolk are calling thee; hasten hither at their bidding along with Peace, who shall restore the festivals. And ye, august goddesses, display a smiling and propitious countenance to our gaze; come into your sacred grove, the entry to which is forbidden to men; 'tis there in the midst of sacred orgies that we contemplate your divine features. Come, appear, we pray it of you, oh, venerable Thesmophoriae! If you have ever answered our appeal, oh! come into our midst.\n[Note 102: That is, the Thesmophoriae, viz. Demeter and Persephoné.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWomen, if you will be reconciled with me, I am willing, and I undertake never to say anything ill of you in future. Those are my proposals for peace.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAnd what impels you to make these overtures?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThis unfortunate man, who is chained to the post, is my father-in-law; if you will restore him to me, you will have no more cause to complain of me; but if not, I shall reveal your pranks to your husbands when they return from the war.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWe accept peace, but there is this barbarian whom you must buy over.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThat's my business. [He returns as an old woman and is accompanied by a dancing-girl and a flute-girl.] Come, my little wench, bear in mind what I told you on the road and do it well. Come, go past him and gird up your robe. And you, you little dear, play us the air of a Persian dance.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nWhat is this music that makes me so blithe?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n[as an old woman] Scythian, this young girl is going to practise some dances, which she has to perform at a feast presently.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nVery well! let her dance and practise; I won't hinder her. How nimbly she bounds! one might think her a flea on a fleece.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nCome, my dear, off with your robe and seat yourself on the Scythian's knee; stretch forth your feet to me, that I may take off your slippers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nAh! yes, seat yourself, my little girl, ah! yes, to be sure. What a firm little bosom! 'tis just like a turnip.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n[to the flute-girl] An air on the flute, quick! [To the dancing-girl.] Well! are you still afraid of the Scythian?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nWhat beautiful thighs!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nCome! keep still, can't you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\n'Tis altogether a very fine morsel to make a man's cock stand.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nThat's so! [To the dancing-girl.] Resume your dress, it is time to be going.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nGive me a kiss.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n[to the dancing-girl] Come, give him a kiss.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nOh! oh! oh! my goodness, what soft lips! 'tis like Attic honey. But might she not stop with me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nImpossible, archer; good evening.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nOh! oh! old woman, do me this pleasure.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nWill you give a drachma?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nAye, that I will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nHand over the money.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nI have not got it, but take my quiver in pledge.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nYou will bring her back?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nFollow me, my beautiful child. And you, old woman, just keep guard over this man. But what is your name?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\nArtemisia. Can you remember that name?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nArtemuxia. Good!\n[Note 103: Throughout the whole scene the Scythian speaks with a grotesque barbarian accent.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n[aside] Hermes, god of cunning, receive my thanks! everything is turning out for the best. [To the Scythian.] As for you, friend, take away this girl, quick. [Exit the Scythian with the dancing-girl.] Now let me loose his bonds. [To Mnesilochus.] And you, directly I have released you, take to your legs and run off full tilt to your home to find your wife and children.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nI shall not fail in that as soon as I am free.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "EURIPIDES\n[releases Mnesilochus] There! 'Tis done. Come, fly, before the archer lays his hand on you again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "MNESILOCHUS\nThat's just what I am doing. [Exit with Euripides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nAh! old woman! what a charming little girl! Not at all the prude, and so obliging! Eh! where is the old woman? Ah! I am undone! And the old man, where is he? Hi! old woman! old woman! Ah! but this is a dirty trick! Artemuxia! she has tricked me, that's what the little old woman has done! Get clean out of my sight, you cursed quiver! [Picks it up and throws it across the stage.] Ha! you are well named quiver, for you have made me quiver indeed. Oh! what's to be done? Where is the old woman then? Artemuxia!\n[Note 104: The pun depends in the Greek on the similarity of the final syllables of συβίνη, and καταβίνησι. It can be given literally in English.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAre you asking for the old woman who carried the lyre?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nYes, yes; have you seen her?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nShe has gone that way along with an old man.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nDressed in a long robe?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nYes; run quick, and you will overtake them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nAh! rascally old woman! Which way has she fled? Artemuxia!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nStraight on; follow your nose. But, hi! where are you running to now? Come back, you are going exactly the wrong way.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SCYTHIAN\nYe gods! ye gods! and all this while Artemuxia is escaping. [Exit running.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nGo your way! and a pleasant journey to you! But our sports have lasted long enough; it is time for each of us to be off home; and may the two goddesses reward us for our labours!",
+          "ref": null
+        }
+      ]
+    }
+  ]
+}

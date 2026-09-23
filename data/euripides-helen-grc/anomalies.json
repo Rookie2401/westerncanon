@@ -1,0 +1,242 @@
+[
+  {
+    "where": "euripides-helen-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-helen-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-helen-grc / card-1 / sp[Ἑλένη]/l[n=9]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὅτι δὴ θεοὺς σέβων\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1 / sp[Ἑλένη]/l[n=10]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"βίον διήνεγκʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-115 / sp[Τεῦκρος]/l[n=124]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-179 / sp[Χορός]/l[n=183a]",
+    "note": "<add> included in reading text: \"ποτνίας δʼ ἐμᾶς,\""
+  },
+  {
+    "where": "euripides-helen-grc / card-229 / sp[Ἑλένη]/l[n=239a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Πριαμίδαις\""
+  },
+  {
+    "where": "euripides-helen-grc / card-229 / sp[Ἑλένη]/l[n=245a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Ἀθάναν\""
+  },
+  {
+    "where": "euripides-helen-grc / card-253 / sp[Ἑλένη]/l[n=257]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γυνὴ γὰρ οὔθʼ Ἑλληνὶς οὔτε βάρβαρος\""
+  },
+  {
+    "where": "euripides-helen-grc / card-253 / sp[Ἑλένη]/l[n=258]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τεῦχος νεοσσῶν λευκὸν ἐκλοχεύεται,\""
+  },
+  {
+    "where": "euripides-helen-grc / card-253 / sp[Ἑλένη]/l[n=259]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐν ᾧ με Λήδαν φασὶν ἐκ Διὸς τεκεῖν.\""
+  },
+  {
+    "where": "euripides-helen-grc / card-293 / sp[Ἑλένη]/l[n=299]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀσχήμονες μὲν ἀγχόναι μετάρσιοι,\""
+  },
+  {
+    "where": "euripides-helen-grc / card-293 / sp[Ἑλένη]/l[n=300]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κἀν τοῖσι δούλοις δυσπρεπὲς νομίζεται·\""
+  },
+  {
+    "where": "euripides-helen-grc / card-293 / sp[Ἑλένη]/l[n=301]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σφαγαὶ δʼ ἔχουσιν εὐγενές τι καὶ καλόν,\""
+  },
+  {
+    "where": "euripides-helen-grc / card-293 / sp[Ἑλένη]/l[n=302]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σμικρὸν δʼ ὁ καιρὸς σάρκʼ ἀπαλλάξαι βίου.\""
+  },
+  {
+    "where": "euripides-helen-grc / card-362 / sp[Ἑλένη]/l[n=366]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-helen-grc / card-437 / sp[Μενελέως]/l[n=447]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-helen-grc / card-515 / sp[Χορός]/l[n=525]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἐπὶ γᾶς\""
+  },
+  {
+    "where": "euripides-helen-grc / card-528 / sp[Ἑλένη]/l[n=534]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / speaker",
+    "note": "<add> included in reading text: \"Μενελέως\""
+  },
+  {
+    "where": "euripides-helen-grc / card-528 / sp[Μενελέως]/l[n=561]",
+    "note": "<add> included in reading text: \"Ἑλληνὶς εἶ τις ἢ ἐπιχωρία γυνή;\""
+  },
+  {
+    "where": "euripides-helen-grc / card-566 / sp[Μενελέως]/l[n=587]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-625 / sp[Ἑλένη]/l[n=650]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἔχομεν,\""
+  },
+  {
+    "where": "euripides-helen-grc / card-625 / sp[Ἑλένη]/l[n=650]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἔμενον\""
+  },
+  {
+    "where": "euripides-helen-grc / card-666 / sp[Ἑλένη]/l[n=668]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-helen-grc / card-666 / sp[Μενελέως]/l[n=669]",
+    "note": "<add> included in reading text: \"γάρ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-666 / sp[Ἑλένη]/l[n=670]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-helen-grc / card-666 / sp[Ἑλένη]/l[n=684]",
+    "note": "<add> included in reading text: \"σὰ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-666 / sp[Ἑλένη]/l[n=690]",
+    "note": "<add> included in reading text: \"ἐμόν\""
+  },
+  {
+    "where": "euripides-helen-grc / card-666 / sp[Ἑλένη]/l[n=695]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "euripides-helen-grc / card-698 / sp[Μενελέως]/l[n=710]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-758 / sp[Μενελέως]/l[n=769]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "euripides-helen-grc / card-793 / sp[Μενελέως]/l[n=802]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-793 / sp[Ἑλένη]/l[n=817]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-832 / sp[Ἑλένη]/l[n=835]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-helen-grc / card-865 / sp[Θεονόη]/l[n=891]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-helen-grc / card-894 / sp[Ἑλένη]/l[n=905]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐατέος δʼ ὁ πλοῦτος ἄδικός τις ὤν.\""
+  },
+  {
+    "where": "euripides-helen-grc / card-894 / sp[Ἑλένη]/l[n=929]",
+    "note": "<add> included in reading text: \"πάλιν\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1032 / sp[Ἑλένη]/l[n=1041]",
+    "note": "<add> included in reading text: \"ἄν\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1137 / sp[Χορός]/l[n=1150]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1151 / sp[Χορός]/l[n=1164]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἀθλίοις συμφοραῖς αἰλίνοις.\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1165 / sp[Θεοκλύμενος]/l[n=1198]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1206 / sp[Θεοκλύμενος]/l[n=1220]",
+    "note": "<add> included in reading text: \"ὡς\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1301 / sp[Χορός]/l[n=1317]",
+    "note": "<add> included in reading text: \"συνείποντο. Ζεὺς δʼ ἑδράνων\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1319 / sp[Χορός]/l[n=1321]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πόνους\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1319 / sp[Χορός]/l[n=1329]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δὲ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1353 / sp[Χορός]/l[n=1353]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1353 / sp[Χορός]/l[n=1354]",
+    "note": "<add> included in reading text: \"θεῶν\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1353 / sp[Χορός]/l[n=1366]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"εὖ δέ νιν ἄμασιν\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1353 / sp[Χορός]/l[n=1367]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ὑπέρβαλε σελάνα\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1369 / sp[Ἑλένη]/l[n=1374]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-helen-grc / card-1369 / sp[Ἑλένη]/l[n=1374]",
+    "note": "<add> included in reading text (empty)"
+  },
+  {
+    "where": "euripides-helen-grc / card-1465 / sp[Χορός]/l[n=1476a]",
+    "note": "<add> included in reading text: \"ἔλειπες, Ἑρμιόναν,\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1495 / sp[Χορός]/l[n=1510]",
+    "note": "<add> included in reading text: \"ποτʼ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1512 / sp[Ἄγγελος]/l[n=1512]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἄναξ, τὰ κάκιστʼ ἐν δόμοις εὑρήκαμεν·\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1512 / sp[Ἄγγελος]/l[n=1535]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ταρσόν τε χειρί, λευκά θʼ ἱστίʼ εἰς ἓν ἦν\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1554 / sp[Ἄγγελος]/l[n=1563]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"φάσγανόν θʼ ἅμα\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1554 / sp[Ἄγγελος]/l[n=1564]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πρόχειρον ὤσει\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1621 / sp[Θεράπων]/l[n=1629]",
+    "note": "<add> included in reading text: \"γὰρ\""
+  },
+  {
+    "where": "euripides-helen-grc / card-1621 / sp[Θεράπων]/l[n=1640]",
+    "note": "<add> included in reading text: \"ὡς\""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "where": "euripides-iphigenia-in-tauris-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 2 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-en / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-en / card-1 / sp[Iphigenia]/l[n=35]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"for I sacrifice, by a custom of the city established earlier, any Hellene who comes to this land.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-en / card-42 / sp[Iphigenia]/l[n=55]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"I cannot connect this dream to my friends,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-tauris-en / card-42 / sp[Iphigenia]/l[n=60]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"for Strophius, when I perished, had no son.\""
+  }
+]

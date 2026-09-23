@@ -1,0 +1,646 @@
+[
+  {
+    "where": "sophocles-ichneutae-grc / transcription hygiene",
+    "note": "0 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 1 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=3]",
+    "note": "<unclear> included in reading text: \"ἐ\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=5]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=8]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=10]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=10]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=11]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=11]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=23]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=24]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=25]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=25]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=26]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=26]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=26]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=27]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=27]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=33]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=34]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=35]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=36]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=37]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=38]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=52]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=52]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=53]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=53]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=53]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=54]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=55]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=58]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=58]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=58]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=58]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=59]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=60]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=61]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Ἀπόλλων]/l[n=61]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-1 / sp[Σιληνός]/l[n=62]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=64]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=65]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=66]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=67]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=68]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=69]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=70]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=71]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=72]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=73]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=74]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=75]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=75]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-64 / sp[Χορὸς Σατύρων]/l[n=75]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-79 / sp[Σιληνός]/l[n=86]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-79 / sp[Σιληνός]/l[n=86]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-79 / sp[Σιληνός]/l[n=86]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-79 / sp[Σιληνός]/l[n=86]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-79 / sp[Σιληνός]/l[n=95]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-79 / sp[Σιληνός]/l[n=96]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-79 / sp[Σιληνός]/l[n=97]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-79 / sp[Σιληνός]/l[n=98]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-79 / sp[Σιληνός]/l[n=99]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-100 / sp[Ἡμιχορὸς α]/l[n=101]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-100 / sp[Ἡμιχορὸς β]/l[n=110]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-100 / sp[Ἡμιχορὸς α]/l[n=111]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-100 / sp[Ἡμιχορὸς α]/l[n=112]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-100 / sp[Ἡμιχορὸς α]/l[n=112]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-100 / sp[Ἡμιχορὸς α]/l[n=112]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=182]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=183]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=184]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=185]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=186]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=186]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=187]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=188]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=189]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=189]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=190]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-176 / sp[Χορός]/l[n=190]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-203 / sp[Σιληνός]/l[n=205c]",
+    "note": "<add> included in reading text: \"δύνᾳ.\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-203 / sp[Χορός]/l[n=208]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-203 / sp[Χορός]/l[n=209]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-203 / sp[Χορός]/l[n=209]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-203 / sp[Χορός]/l[n=214]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-203 / sp[Χορός]/l[n=215]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-203 / sp[Χορός]/l[n=215]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=228]",
+    "note": "<add> included in reading text: \"αί\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=233]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=233]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=233]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=234]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=235]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=235]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=235]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=235]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=236]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=236]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=236]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=239]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=241]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=241]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=241]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-221 / sp[Κυλλήνη]/l[n=242]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-251 / sp[Κυλλήνη]/l[n=268]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-251 / sp[Κυλλήνη]/l[n=269]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-251 / sp[Κυλλήνη]/l[n=269]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-251 / sp[Κυλλήνη]/l[n=270]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-290 / sp[Χορός]/l[n=290]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-290 / sp[Χορός]/l[n=291]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-290 / sp[Χορός]/l[n=292]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-290 / sp[Χορός]/l[n=293]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-290 / sp[Χορός]/l[n=294]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-290 / sp[Χορός]/l[n=295]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-290 / sp[Χορός]/l[n=296]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Χορός]/l[n=306]",
+    "note": "<add> included in reading text: \"ων\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Χορός]/l[n=306]",
+    "note": "<add> included in reading text: \"ος\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=311]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=311]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Χορός]/l[n=314]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Χορός]/l[n=314]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=314b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=314b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=315]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=316]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=317]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=318]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=319]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=320]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=321]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-298 / sp[Κυλλήνη]/l[n=322]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-329 / sp[Χορός]/l[n=329]",
+    "note": "<add> included in reading text: \"ρθ\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-329 / sp[Χορός]/l[n=330]",
+    "note": "<add> included in reading text: \"δʼ αὖ\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-329 / sp[Χορός]/l[n=337]",
+    "note": "<add> included in reading text: \"η\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Κυλλήνη]/l[n=340]",
+    "note": "<add> included in reading text: \"η\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Χορός]/l[n=341]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Κυλλήνη]/l[n=342]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Χορός]/l[n=343]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Χορός]/l[n=344]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Χορός]/l[n=345]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Χορός]/l[n=346]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Χορός]/l[n=347]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Χορός]/l[n=348]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Χορός]/l[n=348]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-338 / sp[Χορός]/l[n=349]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-352 / sp[Κυλλήνη]/l[n=352]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-352 / sp[Κυλλήνη]/l[n=353]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-352 / sp[Κυλλήνη]/l[n=354]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-352 / sp[Κυλλήνη]/l[n=363]",
+    "note": "<add> included in reading text: \"ει\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-352 / sp[Κυλλήνη]/l[n=363]",
+    "note": "<add> included in reading text: \"ῇ\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-352 / sp[Κυλλήνη]/l[n=370]",
+    "note": "<add> included in reading text: \"λ\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-352 / sp[Κυλλήνη]/l[n=370]",
+    "note": "<add> included in reading text: \"γ\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-371 / sp[Χορός]/l[n=374]",
+    "note": "<add> included in reading text: \"ὅ\""
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-371 / sp[Χορός]/l[n=378]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-379 / sp[Κυλλήνη]/l[n=385]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-379 / sp[Χορός]/l[n=402]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-379 / sp[Χορός]/l[n=402]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-379 / sp[Χορός]/l[n=402]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-379 / sp[Χορός]/l[n=403]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-379 / sp[Ἀπόλλων]/l[n=412]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-ichneutae-grc / card-379 / sp[Ἀπόλλων]/l[n=413]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  }
+]

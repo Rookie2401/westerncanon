@@ -1,0 +1,22 @@
+[
+  {
+    "where": "aeschylus-seven-against-thebes-en / card-109 / sp[Chorus]/l[n=125]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-en / card-631 / sp[Scout]/l[n=650]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Quickly determine yourself whom you think it best to send.\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-en / card-792 / sp[Messenger]/l[n=820]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"The city is saved, but through their mutual murder the earth has drunk the blood of the two kings born of the same seed.\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-en / card-848",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-en / card-881",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  }
+]

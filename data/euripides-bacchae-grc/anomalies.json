@@ -1,0 +1,194 @@
+[
+  {
+    "where": "euripides-bacchae-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-135 / sp[Χορός]/l[n=150]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-135 / sp[Χορός]/l[n=153]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὦ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-170 / sp[Κάδμος]/l[n=182]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Διόνυσον ὃς πέφηνεν ἀνθρώποις θεὸς\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-215 / sp[Πενθεύς]/l[n=229]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Ἰνώ τʼ Ἀγαύην θʼ, ἥ μʼ ἔτικτʼ Ἐχίονι,\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-215 / sp[Πενθεύς]/l[n=230]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Ἀκταίονός τε μητέρʼ, Αὐτονόην λέγω.\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-266 / sp[Τειρεσίας]/l[n=293a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-298 / sp[Τειρεσίας]/l[n=316]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὸ σωφρονεῖν ἔνεστιν εἰς τὰ πάντʼ ἀεί\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-343 / sp[Πενθεύς]/l[n=345]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-519 / sp[Χορός]/l[n=519]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-576 / sp[Χορός]/l[n=578]",
+    "note": "<add> included in reading text: \"ὅδε\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-576 / sp[Διόνυσος]/l[n=585]",
+    "note": "<add> included in reading text: \"σεῖε\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-576 / sp[Χορός]/l[n=592]",
+    "note": "<add> included in reading text: \"ὅδʼ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-604 / sp[Διόνυσος]/l[n=606]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δῶμα Πενθέως· ἀλλʼ ἐξανίστατε\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-604 / sp[Διόνυσος]/l[n=631]",
+    "note": "<add> included in reading text: \"αἰθέρʼ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-642 / sp[Πενθεύς]/l[n=651a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-775 / sp[Διόνυσος]/l[n=791]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-810 / sp[Πενθεύς]/l[n=843]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-882 / sp[Χορός]/l[n=883]",
+    "note": "<add> included in reading text: \"τι\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-945 / sp[Διόνυσος]/l[n=965]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δʼ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-945 / sp[Διόνυσος]/l[n=968]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-997 / sp[Χορός]/l[n=998]",
+    "note": "<add> included in reading text: \"σὰ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-997 / sp[Χορός]/l[n=1007]",
+    "note": "<add> included in reading text: \"ν\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1024 / sp[Ἄγγελος Β]/l[n=1028]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"χρηστοῖσι δούλοις συμφορὰ τὰ δεσποτῶν\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1024 / sp[Ἄγγελος Β]/l[n=1036]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1024 / sp[Ἄγγελος Β]/l[n=1036a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1043 / sp[Ἄγγελος Β]/l[n=1063]",
+    "note": "<add> included in reading text: \"τὸ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1114 / sp[Ἄγγελος Β]/l[n=1148]",
+    "note": "<add> included in reading text: \"τῇδʼ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1168 / sp[Ἀγαύη]/l[n=1174]",
+    "note": "<add> included in reading text: \"λέοντος ἀγροτέρου\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1168 / sp[Ἀγαύη]/l[n=1177]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1168 / sp[Ἀγαύη]/l[n=1181b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1168 / sp[Χορός]/l[n=1183a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1184 / sp[Ἀγαύη]/l[n=1194]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1184 / sp[Χορός]/l[n=1195]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1280 / sp[Κάδμος]/l[n=1297]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1280 / sp[Κάδμος]/l[n=1300a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1280 / sp[Κάδμος]/l[n=1319]",
+    "note": "<add> included in reading text: \"μητρὸς\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1280 / sp[Κάδμος]/l[n=1319]",
+    "note": "<add> included in reading text: \"πατέρα\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1280 / sp[Ἀγαύη]/l[n=1329]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1280 / sp[Ἀγαύη]/l[n=1329a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1330 / sp[Κάδμος]/l[n=1353]",
+    "note": "<add> included in reading text: \"πάντες,\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1330 / sp[Κάδμος]/l[n=1358]",
+    "note": "<add> included in reading text: \"φύσιν\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1368 / sp[Κάδμος]/l[n=1371]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1368 / sp[Κάδμος]/l[n=1371a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1368 / sp[Κάδμος]/l[n=1372b]",
+    "note": "<add> included in reading text: \"σέ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1368 / sp[Κάδμος]/l[n=1380]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-bacchae-grc / card-1368 / sp[Ἀγαύη]/l[n=1384]",
+    "note": "<add> included in reading text: \"ἔμʼ ἴδοι\""
+  }
+]

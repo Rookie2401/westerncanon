@@ -1,0 +1,98 @@
+[
+  {
+    "where": "sec-179",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"μειράκιον applied to youths from 15 to 21.\""
+  },
+  {
+    "where": "sec-181",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"On the coast just north of Attica , where the Athenians were severely defeated by the Boeotians in 424 B.C.\""
+  },
+  {
+    "where": "sec-182",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"i.e., in regular warfare.\""
+  },
+  {
+    "where": "sec-187",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Lit. on the Carian slave.\""
+  },
+  {
+    "where": "sec-187",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"i.e., on a large instead of small piece of work, in which a beginner’s mistake would be less costly. Cf. Gorg. 514 E.\""
+  },
+  {
+    "where": "sec-188",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Solon Fr. 10\""
+  },
+  {
+    "where": "sec-188",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"γηράσκω δ’ αἰεὶ πολλὰ διδασκόμενος . See below, 189a.\""
+  },
+  {
+    "where": "sec-188",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Laches plays with the two meaning of ἁπλοῦν — I am single-minded (simple, straightforward) in such matters, that is, I should rather say, do…\""
+  },
+  {
+    "where": "sec-188",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The different modes or scales in Greek music were associated with different moral feelings. The Dorian was most favored, as having a manly, …\""
+  },
+  {
+    "where": "sec-189",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Sym. 221\""
+  },
+  {
+    "where": "sec-189",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"This instance of Socrates’ intrepidity (at Delium cf. above, 181b) is more fully described by Alcibiades in Plat. Sym. 221 .\""
+  },
+  {
+    "where": "sec-190",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Here, and in what follows, virtue embraces the accomplishments and excellences of a good citizen.\""
+  },
+  {
+    "where": "sec-191",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 8.107-108\""
+  },
+  {
+    "where": "sec-191",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 8.107-108\""
+  },
+  {
+    "where": "sec-191",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Socrates pretends to take the hero’s epithet prompter of fright (in the enemy) as meaning that he prompted fright in himself and his side, a…\""
+  },
+  {
+    "where": "sec-191",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"i.e., they stand fast at their posts in the ranks (above, 191 A).\""
+  },
+  {
+    "where": "sec-191",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"In the final struggle at Plataea ( 479 B.C.) the Spartans at first hesitated before the barrier of wicker shields opposed to them by the Per…\""
+  },
+  {
+    "where": "sec-191",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"i.e., courage and cowardice\""
+  },
+  {
+    "where": "sec-196",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The fierce moster slain by Theseus in the region between Corinth and Megara before he became the hero of Attica .\""
+  },
+  {
+    "where": "sec-197",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"A deme or district of Attica , noted for the abusive wit of its people.\""
+  },
+  {
+    "where": "sec-198",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Cf. 190 c.\""
+  },
+  {
+    "where": "sec-201",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 17.347\""
+  },
+  {
+    "where": "plato-laches-en / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-laches-en / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

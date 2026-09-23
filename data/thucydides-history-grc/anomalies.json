@@ -1,0 +1,26 @@
+[
+  {
+    "where": "thucydides-history-grc / reading text",
+    "note": "2 chapter(s) contain a lone space directly before punctuation somewhere in their text. Left untouched (matching the Greek Herodotus importer's same documented decision): confirmed by direct inspection to already be present in the source's own plain text at that exact point, not a byproduct of this importer's tag handling. Affected chapters: book-4-ch-118, book-8-ch-56."
+  },
+  {
+    "where": "thucydides-history-grc / Melian Dialogue",
+    "note": "34 <sp><speaker>.../<speaker><p>...</p></sp> dialogue turns (Book 5, the Melian Dialogue, chapters 87-111) each have their source-printed speaker label (\"ΑΘ.\" = the Athenians, \"ΜΗΛ.\" = the Melians) prepended to that turn's paragraph text, matching this edition's own printed layout. Affected chapters: book-5-ch-87, book-5-ch-88, book-5-ch-89, book-5-ch-90, book-5-ch-91, book-5-ch-92, book-5-ch-93, book-5-ch-94, book-5-ch-95, book-5-ch-96, book-5-ch-97, book-5-ch-98, book-5-ch-99, book-5-ch-100, book-5-ch-101, book-5-ch-102, book-5-ch-103, book-5-ch-104, book-5-ch-105, book-5-ch-106, book-5-ch-107, book-5-ch-108, book-5-ch-109, book-5-ch-110, book-5-ch-111."
+  },
+  {
+    "where": "thucydides-history-grc / reading text",
+    "note": "1 <bibl> citation(s) (Perseus's own citation of the Homeric source of a quotation Thucydides makes, \"Hom. Il. 2.108\") were excluded entirely, not part of Thucydides's own text."
+  },
+  {
+    "where": "thucydides-history-grc / completeness",
+    "note": "The work's own final sentence, Book 8 chapter 109 section 2, is printed inside literal square brackets in this edition (\"[ὅταν ὁ μετὰ τοῦτο τὸ θέρος χειμὼν τελευτήσῃ, ἓν καὶ εἰκοστὸν ἔτος πληροῦται.]\") - ordinary printed characters (not TEI markup), flagging a passage many scholars judge a later, non-Thucydidean chronological note appended after the History breaks off unfinished at the end of 411 BC. Kept verbatim, brackets and all, like any other printed character. See about.json."
+  },
+  {
+    "where": "thucydides-history-grc / passage & division refs",
+    "note": "Division.ref and Passage.ref are null throughout: this source carries no page-marker or milestone citation scheme distinct from its own Book/Chapter numbering."
+  },
+  {
+    "where": "thucydides-history-grc / character encoding",
+    "note": "The source is already NFC-normalised polytonic Greek; no normalisation pass was applied."
+  }
+]

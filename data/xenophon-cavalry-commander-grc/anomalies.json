@@ -1,0 +1,138 @@
+[
+  {
+    "where": "ch 1 sec 11",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"γε\""
+  },
+  {
+    "where": "ch 1 sec 13",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"καὶ\""
+  },
+  {
+    "where": "ch 1 sec 15",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἂν\""
+  },
+  {
+    "where": "ch 1 sec 19",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"ἂν\""
+  },
+  {
+    "where": "ch 1 sec 22",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"καὶ\""
+  },
+  {
+    "where": "ch 1 sec 23",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "ch 1 sec 24",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "ch 1 sec 24",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κατὰ τὸν νόμον\""
+  },
+  {
+    "where": "ch 1 sec 25",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"εἰ\""
+  },
+  {
+    "where": "ch 2 sec 2",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"δέκα\""
+  },
+  {
+    "where": "ch 3 sec 2",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"περὶ τὴν ἀγορὰν καὶ τὰ ἱερὰ\""
+  },
+  {
+    "where": "ch 3 sec 6",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τοῦ\""
+  },
+  {
+    "where": "ch 4 sec 3",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"ἀκτέον.\""
+  },
+  {
+    "where": "ch 4 sec 9",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὸ\""
+  },
+  {
+    "where": "ch 4 sec 9",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"ἐπὶ\""
+  },
+  {
+    "where": "ch 4 sec 12",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μὲν\""
+  },
+  {
+    "where": "ch 4 sec 17",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"τῷ\""
+  },
+  {
+    "where": "ch 5 sec 8",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"ὄντα\""
+  },
+  {
+    "where": "ch 6 sec 2",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "ch 7 sec 7",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"οὖν\""
+  },
+  {
+    "where": "ch 7 sec 14",
+    "note": "<gap reason=\"lost\"/> - a manuscript lacuna; this edition prints no literal rendering here (no \"rend\" attribute), so nothing is fabricated."
+  },
+  {
+    "where": "ch 7 sec 14",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"πός\""
+  },
+  {
+    "where": "ch 8 sec 2",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"εἰ οἱ\""
+  },
+  {
+    "where": "ch 8 sec 4",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οἱ\""
+  },
+  {
+    "where": "ch 8 sec 4",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"μὲν οἱ\""
+  },
+  {
+    "where": "ch 8 sec 4",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μὴ\""
+  },
+  {
+    "where": "ch 8 sec 4",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"μὴ\""
+  },
+  {
+    "where": "ch 8 sec 4",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"χρήσιμα\""
+  },
+  {
+    "where": "ch 8 sec 14",
+    "note": "<sic/> (self-closing, no wrapped text) - the source's own zero-width marker for a point in the transmitted text considered suspect/corrupt, with no correction offered; nothing is added to or removed from the reading text here."
+  },
+  {
+    "where": "ch 8 sec 23",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐκ τῶν ἀναστροφῶν\""
+  },
+  {
+    "where": "ch 8 sec 24",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δʼ\""
+  },
+  {
+    "where": "ch 9 sec 3",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ταῦτα\""
+  },
+  {
+    "where": "ch 9 sec 5",
+    "note": "<sic> - printed exactly as transmitted despite an apparent irregularity, kept verbatim: \"οἷς καθίστησι\""
+  },
+  {
+    "where": "ch 9 sec 5",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"καὶ\""
+  }
+]

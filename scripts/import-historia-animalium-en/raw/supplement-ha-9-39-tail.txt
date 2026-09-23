@@ -1,0 +1,5 @@
+# Source: MIT Internet Classics Archive, https://classics.mit.edu/Aristotle/history_anim.9.ix.html
+# MIT's own live copy of this page is truncated at the same cutoff point as the Wikisource transcription (confirmed by direct fetch, 2026-09-22); text below is taken instead from the Wayback Machine's year-2000 capture of the same MIT page, which IS complete (has both <A NAME="start"> and <A NAME="end"> markers and the closing navigation footer): http://web.archive.org/web/20000818225955/http://classics.mit.edu/Aristotle/history_anim.9.ix.html (fetched via Wayback 2026-09-22).
+# Wikisource/MIT's own text cuts off at a word boundary ("...in other words, it will attack a small lizard, run round and draw threads about its mouth until it closes"); this file continues at the next word -- join with a single space.
+
+the mouth up; then it comes up and bites it.

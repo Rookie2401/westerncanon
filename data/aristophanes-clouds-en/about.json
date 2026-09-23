@@ -1,0 +1,53 @@
+{
+  "workId": "aristophanes-clouds-en",
+  "title": "The Clouds",
+  "author": "Aristophanes",
+  "language": "en",
+  "edition": "Aristophanes: The Eleven Comedies. Anonymous, translator. London: The Athenian Society, 1912.",
+  "translator": "Anonymous (presumed Oscar Wilde, per Wikisource's own editorial note)",
+  "provenance": "English Wikisource, \"Aristophanes: The Eleven Comedies/Clouds\"; imported by scripts/import-aristophanes-en.",
+  "license": "The 1912 translation is in the public domain (published 1912, anonymous; well past any US or UK copyright term). The underlying Greek is ancient and in the public domain everywhere. English Wikisource's own digital transcription is distributed under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is the anonymous 1912 Athenian Society English translation of Aristophanes' The Clouds, one of the eleven surviving comedies, as transcribed on English Wikisource.",
+        "The text here is the translation, verbatim. Nothing is modernised, paraphrased, bowdlerised, or silently corrected; where the 1912 print itself is blunt (this translation renders explicit content directly in English rather than switching to Latin or asterisks, unlike some contemporary classical translations - none of the plays in this corpus were found to use any censorship convention), that is exactly what is bundled here."
+      ]
+    },
+    {
+      "heading": "The translation",
+      "paragraphs": [
+        "Aristophanes: The Eleven Comedies. Anonymous, translator. London: The Athenian Society, 1912. Published without a named translator; English Wikisource's own header note on the collection's index page records that the translation is \"presumed to be the work of Oscar Wilde, who was a Greek scholar and member of the Society\" - Wikisource's editorial attribution, not a claim verified independently here, and reported for that reason as presumed rather than certain. about.json's \"translator\" field is left as \"Anonymous (presumed Oscar Wilde, per Wikisource)\" accordingly."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is English Wikisource's page \"Aristophanes: The Eleven Comedies/Clouds\", fetched once (rate-limited, one request per 3+ seconds, with a descriptive User-Agent) and cached under scripts/import-aristophanes-en/raw/clouds.json; nothing is loaded from the network at runtime. Ordinary wikitext (action=query&prop=revisions&rvslots=main&rvprop=content returned the real prose directly); speaker-cue shape \"A\" (see wikitextPlay.ts's module doc for what each shape means)."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "This translation is PROSE with no printed line numbers, so - unlike this app's Perseus-sourced Greek tragedy corpus - there is no card/line division to align to. Every play carries a source-printed cast list, imported as a single `dramatis-personae` division (one Passage, the character list joined one per line, exactly as printed) followed by one flat `text` division holding every speech in document order. Passage.n is '' and Passage.ref is null throughout, as instructed for this whole batch.",
+        "Speeches are segmented on this source's own speaker-cue convention: each Passage's text begins with the speaker's name exactly as printed (this translation is not consistent about case across plays - some print names in full capitals, others in title case; both are kept verbatim, not normalised), then the speech as a single running paragraph. A parenthetical stage direction printed by the source - \"(...)\" - is converted to \"[...]\" in place, whether it opens a speech (e.g. a cue printed with \"(alone)\" immediately after the speaker's name) or falls mid-speech; it is not split into a separate Passage. A stand-alone \"SCENE:\" setting line with no speaker of its own becomes its own bracketed Passage with no speaker-name line. This play found 15 distinct speaker-cue label(s) in the source.",
+        "The translator's own footnotes are kept, not discarded: each footnote's text is attached, verbatim, as a trailing \"[Note N: ...]\" line on whichever Passage its marker fell in (one line per footnote, several if more than one falls in the same Passage). Numbering is internal to this play's body text only and starts at 1 there - the translator's Introduction essay (see below) is not imported, so its own footnotes, if any, are not numbered or carried over.",
+        "The translator's Introduction - a page or more of literary-historical criticism prefacing the play - is NOT imported: it is prose criticism, not a speech or a stage direction, and this app's generic-work schema (speaker-name + speech, or a bracketed direction) has no honest slot for it. Importing it as a fake \"speech\" would misrepresent the source, so it is dropped and disclosed here instead. The trailing \"Notes\"/\"Footnotes\" heading itself renders no additional text beyond the footnotes already captured inline, and is dropped for the same reason (nothing lost)."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Every Division.ref and Passage.ref is null, and every Passage.n is the empty string, throughout this corpus: the 1912 translation prints no line numbers, act/scene numbers, or page-citable markers of any kind within the play text itself, so no citation scheme is invented here. A reader wanting to cite a specific line should quote the speech and speaker; there is no finer machine-checkable address than \"this play, this speech\" for this edition."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. This play produced 644 passage(s) in the `text` division, 99599 characters of reading text, and 105 footnote(s); nothing is dropped, merged, or reordered beyond what is documented here and in anomalies.json.",
+        "0 anomaly/anomalies were logged for this play during import - see anomalies.json for the full list with verbatim excerpts. This includes any place the source's own printed cast-list or speaker-cue spelling is internally inconsistent (e.g. a character's name spelled two ways) - such irregularities are preserved exactly as printed, never silently corrected."
+      ]
+    }
+  ]
+}

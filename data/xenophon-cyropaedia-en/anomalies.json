@@ -1,0 +1,82 @@
+[
+  {
+    "where": "xenophon-cyropaedia-en / Book 8, Chapter 8",
+    "note": "This English witness carries a <delSpan spanTo=\"#a\"/> ... <anchor xml:id=\"a\"/> pair spanning from just before Book 8 Chapter 8 to the very end of the document (verified by direct offset inspection) - Miller's Loeb edition marking essentially the whole of Book 8 Chapter 8 as suspected spurious (not by Xenophon; a well-known classical-scholarship question - the chapter's harsh critique of Persian moral decline is widely regarded as a later addition). Marchant's Greek edition carries no such marking and prints Chapter 8 as ordinary text. This app KEEPS Chapter 8 in both editions' reading text, unbracketed (delSpan/anchor is a distant span-pointer, not a wrapping tag like <del>, so it is not run through the bracket-insertion policy either): omitting an entire final chapter from only one of the two parallel editions would both discard content still present in the source and break the two editions' structural symmetry (41 chapters across 8 books in both). Readers should be aware of this well-documented authenticity question when reading Book 8, Chapter 8."
+  },
+  {
+    "where": "cyropaedia-en / apparatus",
+    "note": "5 <bibl> inline source-attribution label(s) (e.g. naming the poet a quoted line traces to, such as \"Theognis\") excluded from the reading text - confirmed by direct inspection to be glued onto the surrounding text with no separating whitespace, i.e. editorial apparatus, never part of Xenophon's own sentence. Not logged individually."
+  },
+  {
+    "where": "cyropaedia-en / apparatus",
+    "note": "525 <note> translator/editorial footnote(s) excluded entirely, at every nesting depth - never Xenophon's own words. Not logged individually (too numerous to be useful per-occurrence)."
+  },
+  {
+    "where": "book 1 ch 6 sec 10",
+    "note": "<sic> - printed exactly as transmitted despite an apparent irregularity, kept verbatim: \"more\""
+  },
+  {
+    "where": "book 2 ch 3 sec 18",
+    "note": "<sic> - printed exactly as transmitted despite an apparent irregularity, kept verbatim: \"oppononts\""
+  },
+  {
+    "where": "book 2 ch 3 sec 18",
+    "note": "<corr> editorial correction, printed as this edition's running text, kept verbatim: \"opponents\""
+  },
+  {
+    "where": "book 3 ch 3 sec 59",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \",well-disciplined\""
+  },
+  {
+    "where": "book 4 ch 1 sec 15",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"when we are successful\""
+  },
+  {
+    "where": "book 4 ch 3 sec 16",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and they seem so, for though both be moving rapidly, yet, if they are near to one another, they are as if standing still.\""
+  },
+  {
+    "where": "book 5 ch 4 sec 44",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and the wise also retreat in the safest possible way, and not in the quickest\""
+  },
+  {
+    "where": "book 6 ch 1 sec 51",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and his wife, Panthea, with here own money had a golden corselet made for him and a helmet and armlet of gold;\""
+  },
+  {
+    "where": "book 6 ch 3 sec 21",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"Chrysantas\""
+  },
+  {
+    "where": "book 6 ch 3 sec 21",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Now each platoon contained twenty-four men.\""
+  },
+  {
+    "where": "book 6 ch 4 sec 11",
+    "note": "<sic> - printed exactly as transmitted despite an apparent irregularity, kept verbatim: \"chariat\""
+  },
+  {
+    "where": "book 6 ch 4 sec 11",
+    "note": "<corr> editorial correction, printed as this edition's running text, kept verbatim: \"chariot\""
+  },
+  {
+    "where": "book 7 ch 3 sec 15",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"And now even to this day, it is said, the monument Their monument of the eunuchs is still standing; and they say that the names of the husband and wife are inscribed in Assyrian letters upon the slab above; and below, it is said, are three slabs with the inscription the mace-bearers. Staff-bearers—apparently court officials, bearing a staff of office; mentioned again 8.1.38; 8.3.15; Anab. 1.6.11.\""
+  },
+  {
+    "where": "book 8 ch 1 sec 16",
+    "note": "<sic> - printed exactly as transmitted despite an apparent irregularity, kept verbatim: \",\""
+  },
+  {
+    "where": "book 8 ch 1 sec 31",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Moreover, he distinguished between considerateness and self-control in this way: the considerate are those who avoid what is offensive when seen; the self-controlled avoid that which is offensive, even when unseen.\""
+  },
+  {
+    "where": "book 8 ch 1 sec 44",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"so that they might spend all their lives as slaves, without a protest\""
+  },
+  {
+    "where": "book 8 ch 5 sec 28",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"But some historians say that he married his mother’s sister. But that maid must certainly have been a very old maid.\""
+  }
+]

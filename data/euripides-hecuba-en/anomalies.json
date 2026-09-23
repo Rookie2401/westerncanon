@@ -1,0 +1,38 @@
+[
+  {
+    "where": "euripides-hecuba-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-hecuba-en / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-hecuba-en / card-98 / sp[Chorus]/l[n=100]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and appointed\""
+  },
+  {
+    "where": "euripides-hecuba-en / card-154 / sp[Hecuba]/l[n=175]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"so that you may know the hideous rumor I now hear about your life, my child.\""
+  },
+  {
+    "where": "euripides-hecuba-en / card-484 / sp[Talthybius]/l[n=490]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"falsely thinking there is any race of gods,\""
+  },
+  {
+    "where": "euripides-hecuba-en / card-553 / sp[Talthybius]/l[n=555]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"So they set her free, as soon as they heard this last command from him whose might was over all.\""
+  },
+  {
+    "where": "euripides-hecuba-en / card-812 / sp[Hecuba]/l[n=830]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"For from darkness and the endearments of the night mortals have their keenest joys.\""
+  },
+  {
+    "where": "euripides-hecuba-en / card-1085 / sp[Chorus Leader]/l[n=1085]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"has the deity imposed, whoever he is whose hand is heavy upon you.\""
+  },
+  {
+    "where": "euripides-hecuba-en / card-1145 / sp[Chorus Leader]/l[n=1185]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"For though some of us, and those a numerous class, deserve to be disliked, there are others among us who rank naturally among the good.\""
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "where": "de-plantis-grc / edition root",
+    "note": "non-citation <head> discarded entirely (tag and content) - a title-page-style running heading at the edition root, before any chapter/book division, so it is not any Division's own sourceHeading: \"ΠΡΟΛΟΓΟΣ ΤΟΥ ΕΡΜΗΝΕΩΣ ΕΙΣ ΤΟ ΠΕΡΙ ΦΥΤΩΝ ΑΡΙΣΤΟΤΕΛΟΥΣ\""
+  },
+  {
+    "where": "de-plantis-grc / book-2",
+    "note": "The source's own book/part label for this book is \"1\", not \"2\"; renumbered sequentially by document position (this app's Book/Chapter id scheme requires arabic numerals) - nothing besides the numeral itself changed."
+  },
+  {
+    "where": "de-plantis-grc / book-3",
+    "note": "The source's own book/part label for this book is \"2\", not \"3\"; renumbered sequentially by document position (this app's Book/Chapter id scheme requires arabic numerals) - nothing besides the numeral itself changed."
+  }
+]

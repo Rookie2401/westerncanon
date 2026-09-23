@@ -1,0 +1,42 @@
+[
+  {
+    "where": "plato-epinomis-grc / <sic>",
+    "note": "<sic> — Burnet's transcription explicitly flags \"οὖν\" as printed exactly as the manuscript/tradition gives it (a marked but unemended reading); kept verbatim."
+  },
+  {
+    "where": "plato-epinomis-grc / <sic>",
+    "note": "<sic> — Burnet's transcription explicitly flags \"νέου\" as printed exactly as the manuscript/tradition gives it (a marked but unemended reading); kept verbatim."
+  },
+  {
+    "where": "sec-977",
+    "note": "<del> excluded from the reading text: \"ἔχοι\""
+  },
+  {
+    "where": "sec-978",
+    "note": "<del> excluded from the reading text: \"ἃς\""
+  },
+  {
+    "where": "sec-979",
+    "note": "<del> excluded from the reading text: \"τε\""
+  },
+  {
+    "where": "sec-986",
+    "note": "<del> excluded from the reading text: \"πλανητῶν\""
+  },
+  {
+    "where": "sec-987",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"οὐκ\""
+  },
+  {
+    "where": "sec-989",
+    "note": "<del> excluded from the reading text: \"δὲ\""
+  },
+  {
+    "where": "plato-epinomis-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-epinomis-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "where": "ch 1 sec 3",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ ταπειναὶ\""
+  },
+  {
+    "where": "ch 1 sec 8",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"τὰ\""
+  },
+  {
+    "where": "ch 1 sec 11",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ τῷ σώματι\""
+  },
+  {
+    "where": "ch 1 sec 11",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"ῥάχις γε μὴν\""
+  },
+  {
+    "where": "ch 2 sec 1",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"οὐ\""
+  },
+  {
+    "where": "ch 2 sec 1",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"εἶναι\""
+  },
+  {
+    "where": "ch 2 sec 1",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐν ἢ\""
+  },
+  {
+    "where": "ch 3 sec 1",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"ἡ\""
+  },
+  {
+    "where": "ch 4 sec 2",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μὴ\""
+  },
+  {
+    "where": "ch 4 sec 3",
+    "note": "<gap reason=\"lost\"/> - a manuscript lacuna; this edition prints no literal rendering here (no \"rend\" attribute), so nothing is fabricated."
+  },
+  {
+    "where": "ch 4 sec 3",
+    "note": "<gap reason=\"lost\"/> - a manuscript lacuna; this edition prints no literal rendering here (no \"rend\" attribute), so nothing is fabricated."
+  },
+  {
+    "where": "ch 4 sec 4",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"τι\""
+  },
+  {
+    "where": "ch 4 sec 4",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"ἄν\""
+  },
+  {
+    "where": "ch 5 sec 10",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τʼ\""
+  },
+  {
+    "where": "ch 6 sec 1",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"τὰ πρόσθεν\""
+  },
+  {
+    "where": "ch 6 sec 3",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὸ\""
+  },
+  {
+    "where": "ch 7 sec 1",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀνιὼν\""
+  },
+  {
+    "where": "ch 7 sec 5",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τοῦ\""
+  },
+  {
+    "where": "ch 7 sec 18",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δεῖ\""
+  },
+  {
+    "where": "ch 9 sec 2",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὁ\""
+  },
+  {
+    "where": "ch 10 sec 15",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μὲν\""
+  },
+  {
+    "where": "ch 10 sec 15",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "ch 11 sec 6",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"ῥυθμίζοι\""
+  },
+  {
+    "where": "ch 11 sec 9",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ καλὸν ἢ δεινὸν ἢ\""
+  },
+  {
+    "where": "ch 11 sec 9",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ θαυμαστόν\""
+  },
+  {
+    "where": "ch 11 sec 11",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὡς μάλιστα ἐπαινοῦσι τοὺς τοιούτους ἵππους,\""
+  },
+  {
+    "where": "ch 11 sec 12",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πονεῖν\""
+  },
+  {
+    "where": "ch 11 sec 12",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"ἂν\""
+  },
+  {
+    "where": "ch 12 sec 1",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐκεῖνον\""
+  },
+  {
+    "where": "ch 12 sec 4",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ τὰ\""
+  },
+  {
+    "where": "ch 12 sec 7",
+    "note": "<add> editorial supplement, kept verbatim in the reading text (it IS part of what this edition prints): \"τῷ\""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "where": "sophocles-electra-en / card-103",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Electra\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "sophocles-electra-en / card-282",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Electra\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "sophocles-electra-en / card-731",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Paedagogus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "sophocles-electra-en / card-1160",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Electra\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "sophocles-electra-en / card-1253 / sp[Orestes]/l[n=1264]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-electra-en / card-1354",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Paedagogus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  }
+]

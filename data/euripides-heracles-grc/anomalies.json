@@ -1,0 +1,218 @@
+[
+  {
+    "where": "euripides-heracles-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-heracles-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-heracles-grc / card-1 / sp[Ἀμφιτρύων]/l[n=40]",
+    "note": "<add> included in reading text: \"θʼ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-119 / sp[Χορός]/l[n=121]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ζυγηφόρον πῶλον\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-119 / sp[Χορός]/l[n=122]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἀνέντες ὡς βάρος φέρον\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-119 / sp[Χορός]/l[n=122a]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τροχηλάτοιο πώλου\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-138 / sp[Λύκος]/l[n=149]",
+    "note": "<add> included in reading text: \"νου τε κ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-170 / sp[Ἀμφιτρύων]/l[n=185]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-170 / sp[Μεγάρα]/l[n=328]",
+    "note": "<add> included in reading text: \"ἡμῖν\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-394 / sp[Χορός]/l[n=398]",
+    "note": "<add> included in reading text: \"σφʼ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-408 / sp[Χορός]/l[n=413]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κόρας Ἀρείας πέπλων\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-408 / sp[Χορός]/l[n=414]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"χρυσεόστολον φάρος,\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-419 / sp[Χορός]/l[n=422]",
+    "note": "<add> included in reading text: \"ἰόν\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Μεγάρα]/l[n=452]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ τῆς ταλαίνης τῆς ἐμῆς ψυχῆς φονεύς;\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Μεγάρα]/l[n=457]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Μεγάρα]/l[n=474]",
+    "note": "<add> included in reading text: \"ὑμᾶς\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Μεγάρα]/l[n=531]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Ἀμφιτρύων]/l[n=531b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Μεγάρα]/l[n=551]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Μεγάρα]/l[n=555]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Ἡρακλῆς]/l[n=575]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Ἀμφιτρύων]/l[n=585]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Ἡρακλῆς]/l[n=608]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-442 / sp[Ἡρακλῆς]/l[n=619]",
+    "note": "<add> included in reading text: \"ἐξ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-687 / sp[Χορός]/l[n=697]",
+    "note": "<add> included in reading text: \"ἀρετᾷ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-701 / sp[Ἀμφιτρύων]/l[n=715]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-763 / sp[Χορός]/l[n=767]",
+    "note": "<add> included in reading text: \"νέας\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-815 / sp[Λύσσα]/l[n=845]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τιμάς τʼ ἔχω τάσδʼ οὐκ ἀγασθῆναι φίλοις\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-815 / sp[Λύσσα]/l[n=853a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-815 / sp[Λύσσα]/l[n=870]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δεινός· μυκᾶται\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-815 / sp[Χορός]/l[n=892]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-815 / sp[Χορός]/l[n=902]",
+    "note": "<add> included in reading text: \"ᾇ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-815 / sp[Ἄγγελος]/l[n=910]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-815 / sp[Ἄγγελος]/l[n=942]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-815 / sp[Ἄγγελος]/l[n=1003]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἐπὶ λόφῳ κέαρ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Χορός]/l[n=1020]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Χορός]/l[n=1051]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἀμφιτρύων]/l[n=1064]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τοξεύσας\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Χορός]/l[n=1068]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἀμφιτρύων]/l[n=1084]",
+    "note": "<add> included in reading text: \"ἢ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἡρακλῆς]/l[n=1090]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἡρακλῆς]/l[n=1142]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἦ γὰρ συνήραξʼ οἶκον ἢ βάκχευσʼ ἐμόν;\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἡρακλῆς]/l[n=1159]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἡρακλῆς]/l[n=1159]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"φέρʼ ἄν τι\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἀμφιτρύων]/l[n=1178]",
+    "note": "<add> included in reading text: \"ἄναξ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἀμφιτρύων]/l[n=1178]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἀμφιτρύων]/l[n=1182]",
+    "note": "<add> included in reading text: \"νιν\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἀμφιτρύων]/l[n=1190]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἀμφιτρύων]/l[n=1192]",
+    "note": "<add> included in reading text: \"ὃς\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Θησεύς]/l[n=1254]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἡρακλῆς]/l[n=1304]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κρόουσʼ Ὀλυμπίου\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Θησεύς]/l[n=1313]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἡρακλῆς]/l[n=1340]",
+    "note": "<add> included in reading text: \"μὲν\""
+  },
+  {
+    "where": "euripides-heracles-grc / card-1016 / sp[Ἡρακλῆς]/l[n=1417]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"εἴπης\""
+  }
+]

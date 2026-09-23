@@ -1,0 +1,90 @@
+[
+  {
+    "where": "plato-letters-grc / <gap/>",
+    "note": "<gap reason=\"lost\"/> marks a genuine lacuna in a quoted verse fragment near \"..., ἀνομιλήτῳ δὲ συνουσιῶν τῶν προσηκουσῶν γεγονέναι, πρῶτον\" — no text recoverable, nothing substituted."
+  },
+  {
+    "where": "sec-309",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Eur. Fr. 956\""
+  },
+  {
+    "where": "sec-310",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Trag. Gr. Frag. Adesp. 347\""
+  },
+  {
+    "where": "sec-310",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Lyr. Gr. Frag. Adesp. 138\""
+  },
+  {
+    "where": "sec-310",
+    "note": "Stephanus page 310 is split across two section <div>s in the source because Letter 2 begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter)."
+  },
+  {
+    "where": "sec-310",
+    "note": "<del> excluded from the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-315",
+    "note": "Stephanus page 315 is split across two section <div>s in the source because Letter 3 begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter)."
+  },
+  {
+    "where": "sec-321",
+    "note": "Stephanus page 321 is split across two section <div>s in the source because Letter 5 begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter)."
+  },
+  {
+    "where": "sec-322",
+    "note": "Stephanus page 322 is split across two section <div>s in the source because Letter 6 begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter)."
+  },
+  {
+    "where": "sec-323",
+    "note": "Stephanus page 323 is split across two section <div>s in the source because Letter 7 begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter)."
+  },
+  {
+    "where": "sec-338",
+    "note": "<del> excluded from the reading text: \"πρὶν\""
+  },
+  {
+    "where": "sec-345",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Od. 12.428\""
+  },
+  {
+    "where": "sec-352",
+    "note": "Stephanus page 352 is split across two section <div>s in the source because Letter 8 begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter)."
+  },
+  {
+    "where": "sec-355",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὸ\""
+  },
+  {
+    "where": "sec-357",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-357",
+    "note": "Stephanus page 357 is split across two section <div>s in the source because Letter 9 begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter)."
+  },
+  {
+    "where": "sec-358",
+    "note": "Stephanus page 358 is split across two section <div>s in the source because Letter 10 begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter)."
+  },
+  {
+    "where": "sec-358",
+    "note": "Stephanus page 358 is split across two section <div>s in the source because Letter 11 begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter)."
+  },
+  {
+    "where": "sec-359",
+    "note": "Stephanus page 359 is split across two section <div>s in the source because Letter 12 begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter)."
+  },
+  {
+    "where": "sec-362",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τα\""
+  },
+  {
+    "where": "plato-letters-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-letters-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

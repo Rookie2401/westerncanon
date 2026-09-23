@@ -1,0 +1,66 @@
+[
+  {
+    "where": "euripides-iphigenia-in-aulis-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 9 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-0 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-80 / sp[Agamemnon]/l[n=90]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"if we sacrificed her, but if we did not, these things would not happen\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-80 / sp[Agamemnon]/l[n=105]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"inventing, as I did, a sham marriage for the maiden. Of all the Achaeans we alone know the real truth, Calchas, Odysseus, Menelaus and myself; but that which I then decided wrongly, I now rightly countermand again in this scroll, which you, old man, have found me\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-80 / sp[Agamemnon]/l[n=110]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"opening and resealing beneath the shade of night. Up now and away with this missive to Argos, and I will tell you by word of mouth all that is written here, the contents of the folded scroll, for you are loyal to my wife and house.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-265 / sp[Chorus]/l[n=265]",
+    "note": "<sic> excluded from reading text (rejected manuscript reading inside <choice>, editor prefers <corr>): \"his brother\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-265 / sp[Chorus]/l[n=265]",
+    "note": "<corr> included in reading text: \"Adrastos\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-349 / sp[Menelaus]/l[n=370]",
+    "note": "<sic> excluded from reading text (rejected manuscript reading inside <choice>, editor prefers <corr>): \"kinship\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-349 / sp[Menelaus]/l[n=370]",
+    "note": "<corr> included in reading text: \"courage\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-607 / sp[Iphigenia]/l[n=635]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"O my father! I long to outrun others and embrace you after this long while;\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-716 / sp[Clytemnestra]/l[n=740]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"what is proper for maidens at their wedding\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-1098 / sp[Agamemnon]/l[n=1110]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Artemis, their black blood spouting from them\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-1185 / sp[Clytemnestra]/l[n=1205]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"still\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-1402 / sp[Achilles]/l[n=1425]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"that you may know then what my offer is,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / delSpan",
+    "note": "<delSpan spanTo=\"#a001\"/> marker present (source-editor athetesis/interpolation bracketing a suspect multi-line span, often crossing <l>/<sp> boundaries). Judgment call: treated as transparent bookkeeping only - the text it brackets is NOT excluded from the reading text, since both Perseus's own edition and translation still print/display it as running text and it carries the play's standard line citation; excluding it would silently truncate the play. The marker itself contributes no text."
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-en / card-1627 / sp[Chorus]/l[n=1627]",
+    "note": "<anchor xml:id=\"a001\"/> marker present (source-editor athetesis/interpolation bracketing a suspect multi-line span, often crossing <l>/<sp> boundaries). Judgment call: treated as transparent bookkeeping only - the text it brackets is NOT excluded from the reading text, since both Perseus's own edition and translation still print/display it as running text and it carries the play's standard line citation; excluding it would silently truncate the play. The marker itself contributes no text."
+  }
+]

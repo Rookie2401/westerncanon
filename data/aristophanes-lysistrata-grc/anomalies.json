@@ -1,0 +1,130 @@
+[
+  {
+    "where": "aristophanes-lysistrata-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-86 / sp[Λυσιστράτη]/l[n=97]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-86 / sp[Καλονίκη]/l[n=113]",
+    "note": "<add> included in reading text: \"οὖν\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-130 / sp[Λυσιστράτη]/l[n=141]",
+    "note": "<add> included in reading text: \"ἄν\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-175 / sp[Μυρρίνη]/l[n=200]",
+    "note": "<add> included in reading text: \"ὁ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-281 / sp[Χορὸς γερόντων]/l[n=285]",
+    "note": "<add> included in reading text: \"τῇ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-296 / sp[Χορὸς γερόντων]/l[n=301]",
+    "note": "<add> included in reading text: \"ἄν\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-321 / sp[Χορὸς Γυναικῶν]/l[n=330a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-350 / sp[Χορὸς Γυναικῶν]/l[n=377]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-467 / sp[Χορὸς γερόντων]/l[n=467]",
+    "note": "<add> included in reading text: \"τῆς\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-486 / sp[Λυσιστράτη]/l[n=494b]",
+    "note": "<add> included in reading text: \"δὲ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-486 / sp[Πρόβουλος]/l[n=499b]",
+    "note": "<add> included in reading text: \"γε\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-486 / sp[Λυσιστράτη]/l[n=517]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-486 / sp[Λυσιστράτη]/l[n=519]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-486 / sp[Λυσιστράτη]/l[n=524]",
+    "note": "<add> included in reading text: \"εἶφʼ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-541 / sp[Χορὸς Γυναικῶν]/l[n=541]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-541 / sp[Χορὸς Γυναικῶν]/l[n=546]",
+    "note": "<add> included in reading text: \"δὲ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-551 / sp[Λυσιστράτη]/l[n=551]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-551 / sp[Γυνὴ Α]/l[n=563]",
+    "note": "<add> included in reading text: \"αὖ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-805 / sp[Χορὸς Γυναικῶν]/l[n=813]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-829 / sp[Λυσιστράτη]/l[n=831]",
+    "note": "<add> included in reading text: \"ἄνδρʼ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-829 / sp[Λυσιστράτη]/l[n=843]",
+    "note": "<add> included in reading text: \"σοι\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-829 / sp[Κινησίας]/l[n=862]",
+    "note": "<add> included in reading text: \"σοι\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-870 / sp[Κινησίας]/l[n=898]",
+    "note": "<add> included in reading text: \"δὲ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-954 / sp[Κινησίας]/l[n=972]",
+    "note": "<add> included in reading text: \"μιαρὰ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-1014 / sp[Χορὸς Γυναικῶν]/l[n=1016]",
+    "note": "<add> included in reading text: \"σὺ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-1058 / sp[Χορός]/l[n=1061]",
+    "note": "<add> included in reading text: \"ἔτʼ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-1072 / sp[Χορός]/l[n=1109]",
+    "note": "<add> included in reading text: \"δειλὴν\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-1112 / sp[Λυσιστράτη]/l[n=1149]",
+    "note": "<add> included in reading text: \"μʼ\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-1189 / sp[Χορός]/l[n=1199]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-lysistrata-grc / card-1279 / sp[Χορὸς Ἀθηναίων]/l[n=1279]",
+    "note": "<add> included in reading text: \"δὲ\""
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 3 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-0 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / dramatis-personae",
+    "note": "<add> included in reading text: \"Ἄγγελος αʹ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=84]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κἆτα Μενέλεω χάριν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=93]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"θύσασι, μὴ θύσασι δʼ οὐκ εἶναι τάδε.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=105]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ψευδῆ συνάψας ἀντὶ παρθένου γάμον.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=106]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μόνοι δʼ Ἀχαιῶν ἴσμεν ὡς ἔχει τάδε\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=107]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Κάλχας Ὀδυσσεὺς Μενέλεώς θʼ. ἃ δʼ οὐ καλῶς\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=108]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἔγνων τότʼ, αὖθις μεταγράφω καλῶς πάλιν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=109]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐς τήνδε δέλτον, ἣν κατʼ εὐφρόνης σκιὰν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=110]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"λύοντα καὶ συνδοῦντά μʼ εἰσεῖδες, γέρον.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=111]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀλλʼ εἶα χώρει τάσδʼ ἐπιστολὰς λαβὼν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=112]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πρὸς Ἄργος. ἃ δὲ κέκευθε δέλτος ἐν πτυχαῖς,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=113]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"λόγῳ φράσω σοι πάντα τἀγγεγραμμένα·\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-80 / sp[Ἀγαμέμνων]/l[n=114]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πιστὸς γὰρ ἀλόχῳ τοῖς τʼ ἐμοῖς δόμοισιν εἶ.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1 / sp[Πρεσβύτης]/l[n=45]",
+    "note": "<add> included in reading text: \"δʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-253 / sp[Χορός]/l[n=263]",
+    "note": "<add> included in reading text: \"ἦλθʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-288 / sp[Χορός]/l[n=290]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πρὸς τὸ λαιὸν ξυνᾶγε\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-506 / sp[Μενέλαος]/l[n=521]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κοὐδέν γʼ ἄχρηστον, οὐδὲ χρήσιμον παρόν.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-573 / sp[Χορός]/l[n=589]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐς\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-573 / sp[Χορός]/l[n=589]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-590 / sp[Χορός]/l[n=602]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"νεωστί μοι μολὸν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-590 / sp[Χορός]/l[n=603]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κλεινὸν τέκνον Ἀγαμέμνονος,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-590 / sp[Χορός]/l[n=604]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"μηδὲ θόρυβον\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-607 / sp[Ἰφιγένεια]/l[n=635]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐγὼ δὲ βούλομαι τὰ σὰ στέρνʼ, ὦ πάτερ,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-607 / sp[Ἰφιγένεια]/l[n=636]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὑποδραμοῦσα προσβαλεῖν διὰ χρόνου·\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-640 / sp[Ἰφιγένεια]/l[n=652]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"οὐκ οἶδʼ ὅ τι φῄς, οὐκ οἶδα, φίλτατʼ ἐμοὶ πάτερ.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-640 / sp[Ἀγαμέμνων]/l[n=665]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"εἰς ταὐτόν, ὦ θύγατερ, ἥκεις σῷ πατρί.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-716 / sp[Κλυταιμήστρα]/l[n=741]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἃ χρὴ παρεῖναι νυμφίοισι παρθένοις.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-773 / sp[Χορός]/l[n=777]",
+    "note": "<add> included in reading text: \"Πάριν Ἀτρεΐδας,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-773 / sp[Χορός]/l[n=795]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Λήδα\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-855 / sp[Ἀχιλλεύς]/l[n=865]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἂν ὤση\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-900 / sp[Κλυταιμήστρα]/l[n=909]",
+    "note": "<add> included in reading text: \"σε\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-944 / sp[Ἀχιλλεύς]/l[n=971]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"φόνου κηλῖσιν αἵματι\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-992 / sp[Ἀχιλλεύς]/l[n=1011]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πειθώμεθʼ αὖτις\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-992 / sp[Ἀχιλλεύς]/l[n=1022]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-992 / sp[Ἀχιλλεύς]/l[n=1022]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"καλῶς δὲ κρανθέντων καὶ πρὸς ἡδονὴν φίλοις\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-992 / sp[Ἀχιλλεύς]/l[n=1023]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"σοί τʼ ἂν γένοιτο κἂν ἐμοῦ χωρὶς τάδε.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-992 / sp[Κλυταιμήστρα]/l[n=1034]",
+    "note": "<add> included in reading text: \"θεῶν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1080 / sp[Χορός]/l[n=1082a]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἐλθοῦσαν ὀρέων\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1080 / sp[Χορός]/l[n=1096]",
+    "note": "<add> included in reading text: \"μὴ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1098 / sp[Ἀγαμέμνων]/l[n=1114]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Ἀρτέμιδι, μέλανος αἵματος φυσήματα.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1146 / sp[Κλυταιμήστρα]/l[n=1168]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"γένος\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1146 / sp[Κλυταιμήστρα]/l[n=1179]",
+    "note": "<add> included in reading text: \"νόστον\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1185 / sp[Κλυταιμήστρα]/l[n=1185a]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δὲ παῖδʼ, ἔνθα\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1185 / sp[Κλυταιμήστρα]/l[n=1207]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"νῶι μὴ δή γε κτάνῃς\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1276 / sp[Κλυταιμήστρα]/l[n=1277]",
+    "note": "<add> included in reading text: \"τοῦ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1313 / sp[Ἰφιγένεια]/l[n=1320]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἅδʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1313 / sp[Ἰφιγένεια]/l[n=1321]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐς Τροίαν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1313 / sp[Ἰφιγένεια]/l[n=1331]",
+    "note": "<add> included in reading text: \"τὸ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1338 / sp[Κλυταιμήστρα]/l[n=1339]",
+    "note": "<add> included in reading text: \"σὺ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1338 / sp[Κλυταιμήστρα]/l[n=1348b]",
+    "note": "<add> included in reading text: \"τοῖσδʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1338 / sp[Κλυταιμήστρα]/l[n=1351b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τοῦ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1374 / sp[Ἰφιγένεια]/l[n=1382]",
+    "note": "<add> included in reading text: \"ἀν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1402 / sp[Ἀχιλλεύς]/l[n=1425]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὡς οὖν ἂν εἰδῇς τἀπʼ ἐμοῦ λελεγμένα,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1475 / sp[Ἰφιγένεια]/l[n=1485]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τε\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1475 / sp[Ἰφιγένεια]/l[n=1496]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τᾶσδʼ\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1500 / sp[Χορός]/l[n=1517]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σφαγεῖσαν.\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1500 / sp[Χορός]/l[n=1527]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"καὶ δολόεντα Τροίας ἕδη,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1500 / sp[Χορός]/l[n=1528]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Ἀγαμέμνονά τε λόγχαις\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1500 / sp[Χορός]/l[n=1529]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Ἑλλάδι κλεινότατον στέφανον\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1500 / sp[Χορός]/l[n=1530]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δὸς ἀμφὶ κάρα ἑὸν\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1532 / sp[Ἄγγελος]/l[n=1573]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Ἀγαμέμνων ἄναξ θʼ ὁμοῦ,\""
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1578 / sp[Ἄγγελος]/l[n=1578]",
+    "note": "<delSpan spanTo=\"#a001\"/> marker present (source-editor athetesis/interpolation bracketing a suspect multi-line span, often crossing <l>/<sp> boundaries). Judgment call: treated as transparent bookkeeping only - the text it brackets is NOT excluded from the reading text, since both Perseus's own edition and translation still print/display it as running text and it carries the play's standard line citation; excluding it would silently truncate the play. The marker itself contributes no text."
+  },
+  {
+    "where": "euripides-iphigenia-in-aulis-grc / card-1627 / sp[Χορός]/l[n=1629]",
+    "note": "<anchor xml:id=\"a001\"/> marker present (source-editor athetesis/interpolation bracketing a suspect multi-line span, often crossing <l>/<sp> boundaries). Judgment call: treated as transparent bookkeeping only - the text it brackets is NOT excluded from the reading text, since both Perseus's own edition and translation still print/display it as running text and it carries the play's standard line citation; excluding it would silently truncate the play. The marker itself contributes no text."
+  }
+]

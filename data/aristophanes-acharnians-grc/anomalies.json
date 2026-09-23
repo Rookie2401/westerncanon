@@ -1,0 +1,30 @@
+[
+  {
+    "where": "aristophanes-acharnians-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 1 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aristophanes-acharnians-grc / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "aristophanes-acharnians-grc / card-225 / sp[Χορός]/l[n=231]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-acharnians-grc / card-988 / sp[Χορός]/l[n=986]",
+    "note": "<add> included in reading text: \"οὑτοσὶ δʼ\""
+  },
+  {
+    "where": "aristophanes-acharnians-grc / card-988 / sp[Χορός]/l[n=987]",
+    "note": "<add> included in reading text: \"τάδε\""
+  },
+  {
+    "where": "aristophanes-acharnians-grc / card-1174 / sp[Δικαιόπολις]/l[n=1202]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-acharnians-grc / card-1204 / sp[Δικαιόπολις]/l[n=1206]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "where": "plutarch-romulus-grc / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (0 code point(s) remapped in this file). Entity decoding found 0 XML entities in this witness (verified corpus-wide: the tlg0007 texts use literal Unicode characters throughout, never &...; escapes)."
+  },
+  {
+    "where": "plutarch-romulus-grc / apparatus excluded",
+    "note": "20 <note> element(s) and 0 <bibl> element(s) (Perseus's own editorial/critical apparatus and citation-linking, never Perrin's printed prose) were excluded entirely, tag and content, at every nesting depth."
+  },
+  {
+    "where": "plutarch-romulus-grc / structural markers dropped",
+    "note": "0 <pb/> page-break marker(s) and 0 <milestone/> marker(s) were dropped (zero-width; this work's citation scheme is by chapter number alone, carried in the Division id/number - see about.json \"Reference scheme\")."
+  },
+  {
+    "where": "plutarch-romulus-grc / ch-14",
+    "note": "<add> editorial supplement included in reading text: \"καὶ\""
+  },
+  {
+    "where": "plutarch-romulus-grc / ch-28",
+    "note": "<add> editorial supplement included in reading text: \"πεποίηκας\""
+  }
+]

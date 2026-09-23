@@ -1,0 +1,60 @@
+{
+  "workId": "prior-analytics-en",
+  "title": "Prior Analytics",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "Alfred James Jenkinson",
+  "editor": "William David Ross",
+  "edition": "The Works of Aristotle Translated into English, Volume I: Analytica Priora, trans. A. J. Jenkinson, ed. W. D. Ross (Oxford: Clarendon Press, 1928)",
+  "provenance": "English Wikisource, pages \"The Works of Aristotle/Prior Analytics/Book I\" and \"/Book II\", each fetched once via the MediaWiki action=parse&prop=text API. These are page-scan transclusions of the 1928 Oxford volume I djvu: action=parse&prop=wikitext returns only about 970 bytes of <pages/> markup rather than the text, so the rendered HTML was fetched and parsed with jsdom instead. The raw per-book dumps are committed under scripts/import-prior-analytics-en/raw/. Note that the bare Wikisource title \"Prior Analytics\" is a disambiguation page, not the text, and that no standalone \"Prior Analytics/Book I\" page exists.",
+  "license": "Jenkinson's 1928 translation is in the public domain (published before 1929; the Oxford 'Works of Aristotle' volumes of this period are long out of copyright). The digital transcription and page-scan proofreading are distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Aristotle's Prior Analytics in A. J. Jenkinson's English translation, made for the Oxford Works of Aristotle Translated into English under the general editorship of W. D. Ross and published in 1928 as part of that series' volume I — the same volume, and the same project, as the Categories and De Interpretatione already in this library. It is the founding text of formal logic: the theory of the syllogism, worked through figure by figure and mood by mood, with the modal syllogistic and then the practical business of finding premisses, analysing arguments and detecting fallacies.",
+        "The text here is the translation, verbatim. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "Completeness",
+      "paragraphs": [
+        "This edition is complete: both books, seventy-three chapters — forty-six in Book I and twenty-seven in Book II — matching the standard division exactly. Every page-scan behind the text is proofread; there are no red links within the text and nothing is truncated."
+      ]
+    },
+    {
+      "heading": "Which translation, and where it lives",
+      "paragraphs": [
+        "English Wikisource carries two English Prior Analytics. The bare title \"Prior Analytics\" is only a signpost between them: Octavius Freire Owen's version of 1853, and Jenkinson's of 1928. This edition is Jenkinson's, the Oxford one, which sits under the same \"The Works of Aristotle\" base page as this library's Categories.",
+        "That mattered in practice, because the obvious guesses are wrong: there is no page at \"Prior Analytics/Book I\" at all. The right location was established by following the disambiguation page rather than by assuming a title, and both book subpages were then checked for real transcribed text before anything was imported."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the rendered HTML of the two Wikisource book subpages, fetched once each through the MediaWiki action=parse&prop=text API and committed under the importer's raw/ directory. These pages genuinely are djvu page-scan transclusions of the 1928 Oxford volume — their wikitext holds only transclusion markup and no text at all — so the already-rendered HTML was fetched and parsed with jsdom, exactly as this library's Metaphysics import does. It is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Chapters are marked in this source by a numbered anchor set in the margin at the head of a paragraph; each such anchor starts a new Chapter division, and every paragraph beneath it, in document order, becomes part of that chapter's single Passage. The running titles (\"ANALYTICA PRIORA\", \"BOOK I\", \"BOOK II\") are page furniture rather than Aristotle's words and are skipped and counted.",
+        "Two kinds of marginal number appear in this source and are treated differently: Bekker PAGE markers become the chapter's reference, while Bekker LINE numbers — the 5, 10, 15 running down the margin — are stripped from the reading text and not used as references, since they mark positions within a page rather than citable divisions. Jenkinson's footnote markers are likewise stripped; the notes themselves are editorial apparatus, are rendered by the source in a separate block, and are not preserved here, matching this library's other English translations."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by book and chapter, plus a Bekker page reference. This source prints Bekker page markers throughout, so each chapter's markers are gathered in document order to give it a real page or page range (24a, 26a–26b, and so on). The Prior Analytics begins at Bekker page 24a, which is why these page tokens are two digits and a column letter rather than the four-digit forms seen elsewhere in this library.",
+        "Passage.ref is null throughout: no marker is printed at every paragraph break, so a paragraph-level citation would have to be invented. A handful of chapters carry no page marker of their own — where a chapter begins and ends within a page already marked — and their Division.ref is null rather than guessed."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "There are no gaps in the text. anomalies.json records the mechanical departures: how the correct page was located and which titles turned out not to exist, the alternative Owen translation that was deliberately not used, the running titles skipped, the distinction between Bekker page and line markers, the footnote markers stripped, and the reference scheme.",
+        "A word on trust: Wikisource's page-scan proofreading for this volume is complete for the pages used here, but community validation is an ongoing process, so isolated transcription slips remain possible. That is a disclosed limitation of the source rather than something quietly corrected in this build."
+      ]
+    }
+  ]
+}

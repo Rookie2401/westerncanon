@@ -1,0 +1,186 @@
+[
+  {
+    "where": "book-1-ch-92",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-1-ch-148",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πεπόνθασι δὲ οὔτι μοῦναι αἱ Ἰώνων ὁρταὶ τοῦτο, ἀλλὰ καὶ Ἑλλήνων πάντων ὁμοίως πᾶσαι ἐς τὠυτὸ γράμμα τελευτῶσι, κατά περ τῶν Περσέων τὰ οὐνόματα.\""
+  },
+  {
+    "where": "book-1-ch-167",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"διέλαχον, τῶν δὲ Τυρσηνῶν οἱ Ἀγυλλαῖοι\""
+  },
+  {
+    "where": "book-1-ch-180",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-1-ch-180",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ αὐταὶ\""
+  },
+  {
+    "where": "book-1-ch-193",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-1-ch-196",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἵνα μὴ ἀδικοῖεν αὐτὰς μηδʼ εἰς ἑτέραν πόλιν ἄγωνται\""
+  },
+  {
+    "where": "book-2-ch-40",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-2-ch-86",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-2-ch-90",
+    "note": "Source <choice>: literal transcription <sic>\"αἱ\"</sic> dropped from the reading text; the <corr> reading is kept as the passage text instead - matches this app's established choice/sic/corr convention (import-virgil-aeneid-la) of preferring the resolved reading."
+  },
+  {
+    "where": "book-2-ch-116",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γὰρ\""
+  },
+  {
+    "where": "book-2-ch-143",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πίρωμιν ἐπονομαζόμενον\""
+  },
+  {
+    "where": "book-2-ch-148",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γὰρ\""
+  },
+  {
+    "where": "book-2-ch-175",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-3-ch-14",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δὲ\""
+  },
+  {
+    "where": "book-3-ch-39",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-3-ch-49",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-3-ch-51",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ τοῦτο\""
+  },
+  {
+    "where": "book-3-ch-59",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ τὸν τῆς Δικτύνης νηόν\""
+  },
+  {
+    "where": "book-3-ch-91",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐπιμετρουμένου\""
+  },
+  {
+    "where": "book-3-ch-97",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὗτοι οἱ Αἰθίοπες καὶ οἱ πλησιόχωροι τούτοισι σπέρματι μὲν χρέωνται τῷ αὐτῷ τῷ καὶ οἱ Καλλαντίαι Ἰνδοί, οἰκήματα δὲ ἔκτηνται κατάγαια.\""
+  },
+  {
+    "where": "book-3-ch-149",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σαγηνεύσαντες\""
+  },
+  {
+    "where": "book-4-ch-47",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-4-ch-149",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-6-ch-64",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-6-ch-111",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γάρ\""
+  },
+  {
+    "where": "book-6-ch-122",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Καλλίεω δὲ τούτου ἄξιον πολλαχοῦ μνήμην ἐστὶ πάντα τινὰ ἔχειν. τοῦτο μὲν γὰρ τὰ προλελεγμένα, ὡς ἀνὴρ ἄκρος ἐλευθερῶν τὴν πατρίδα· τοῦτο δὲ τὰ ἐν Ὀλυμπίῃ ἐποίησε· ἵππῳ νικήσας, τεθρίππῳ δὲ δεύτερος γενόμενος, Πύθια δὲ πρότερον ἀνελόμενος, ἐφανερώθη ἐς τοὺς Ἕλληνας πάντας δαπάνῃσι μεγίστῃσι.\""
+  },
+  {
+    "where": "book-6-ch-122",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τοῦτο δὲ κατὰ τὰς ἑωυτοῦ θυγατέρας ἐούσας τρεῖς οἷός τις ἀνὴρ ἐγένετο· ἐπειδὴ γὰρ ἐγίνοντο γάμου ὡραῖαι, ἔδωκέ σφι δωρεὴν μεγαλοπρεπεστάτην ἐκείνῃσί τε ἐχαρίσατο· ἐκ γὰρ πάντων τῶν Ἀθηναίων τὸν ἑκάστη ἐθέλοι ἄνδρα ἑωυτῇ ἐκλέξασθαι, ἔδωκε τούτῳ τῷ ἀνδρί.\""
+  },
+  {
+    "where": "book-7-ch-61",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-7-ch-76",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-7-ch-154",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-7-ch-220",
+    "note": "Source <choice>: literal transcription <sic>\"τὴν\"</sic> dropped from the reading text; the <corr> reading is kept as the passage text instead - matches this app's established choice/sic/corr convention (import-virgil-aeneid-la) of preferring the resolved reading."
+  },
+  {
+    "where": "book-8-ch-104",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οἱ δὲ Πηδασέες οἰκέουσι ὑπὲρ Ἁλικαρνησσοῦ· ἐν δὲ τοῖσι Πηδάσοισι τούτοισι τοιόνδε συμφέρεται πρῆγμα γίνεσθαι· ἐπεὰν τοῖσι ἀμφικτυόσι πᾶσι τοῖσι ἀμφὶ ταύτης οἰκέουσι τῆς πόλιος μέλλῃ τι ἐντὸς χρόνου ἔσεσθαι χαλεπόν, τότε ἡ ἱρείη αὐτόθι τῆς Ἀθηναίης φύει πώγωνα μέγαν. τοῦτο δέ σφι δὶς ἤδη ἐγένετο.\""
+  },
+  {
+    "where": "book-8-ch-105",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐκ τούτων δὴ τῶν Πηδασέων ὁ Ἑρμότιμος ἦν\""
+  },
+  {
+    "where": "book-8-ch-124",
+    "note": "<gap reason=\"ellipsis\"/> in the source - an editorial ellipsis in this edition, printed with no literal rendering (no \"rend\" attribute, so no dots are fabricated here)."
+  },
+  {
+    "where": "book-9-ch-33",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Κλυτιάδην\""
+  },
+  {
+    "where": "herodotus-histories-grc / reading text",
+    "note": "10 chapter(s) contain a lone space directly before a comma/period/semicolon somewhere in their text (e.g. Book 2 ch. 143, Book 5 ch. 106). Left untouched, unlike the English sibling's mechanical cleanup of the same class of spacing: individual inspection found this is genuinely mixed in the Greek - some instances are tag-boundary artifacts (an excluded <note>/<bibl>, or an adjacent <gap>, sitting between a word and the following punctuation), others reproduce spacing already present in the source's own plain text around the Greek question mark - and the two cannot be reliably told apart without per-instance philological judgement. Affected chapters: book-2-ch-86, book-2-ch-143, book-2-ch-175, book-4-ch-168, book-5-ch-106, book-7-ch-17, book-7-ch-39, book-7-ch-47, book-8-ch-68A, book-8-ch-84."
+  },
+  {
+    "where": "herodotus-histories-grc / Book 6 chapter 122",
+    "note": "This chapter's entire content (both its sections) is bracketed by this edition's apparatus as a probable interpolation (<del>) - the well-known \"Alcmaeonid digression\" (Hdt. 6.121-124), long suspected by many editors to postdate Herodotus. Under the corpus-wide bracket-and-keep policy this chapter's Passage is simply \"[...]\", its two <del> spans kept whole and wrapped in square brackets like every other <del> in this work - matching how published editions of this passage actually present it (printed, flagged as suspect, not blanked out). No special-casing was needed to produce this: see the general <del> handling below."
+  },
+  {
+    "where": "herodotus-histories-grc / chapter numbering",
+    "note": "45 chapters across the work carry a single uppercase-letter suffix in this edition's own numbering (e.g. \"121A\"..\"121F\" in Book 2) - a genuine subdivision of an existing chapter without renumbering what follows. Preserved verbatim, never renumbered. Confirmed identical in the independently-parsed English sibling. Full list: book-2-ch-121A, book-2-ch-121B, book-2-ch-121C, book-2-ch-121D, book-2-ch-121E, book-2-ch-121F, book-5-ch-92A, book-5-ch-92B, book-5-ch-92C, book-5-ch-92D, book-5-ch-92E, book-5-ch-92F, book-5-ch-92G, book-6-ch-86A, book-6-ch-86B, book-6-ch-86C, book-6-ch-86D, book-7-ch-8A, book-7-ch-8B, book-7-ch-8C, book-7-ch-8D, book-7-ch-9A, book-7-ch-9B, book-7-ch-9C, book-7-ch-10A, book-7-ch-10B, book-7-ch-10C, book-7-ch-10D, book-7-ch-10E, book-7-ch-10F, book-7-ch-10G, book-7-ch-10H, book-7-ch-16A, book-7-ch-16B, book-7-ch-16C, book-8-ch-60A, book-8-ch-60B, book-8-ch-60C, book-8-ch-68A, book-8-ch-68B, book-8-ch-68C, book-8-ch-140A, book-8-ch-140B, book-9-ch-7A, book-9-ch-7B."
+  },
+  {
+    "where": "herodotus-histories-grc / reading text",
+    "note": "85 <note> apparatus elements (Godley's own short numbered footnote markers) were excluded entirely, tag and content, not counted individually."
+  },
+  {
+    "where": "herodotus-histories-grc / reading text",
+    "note": "19 <del> spans (this edition's apparatus brackets these as probable interpolations/glosses) are KEPT in the reading text, wrapped in square brackets \"[...]\", exactly as printed Oxford/Loeb texts render editor-bracketed passages - not excluded. Every occurrence is logged individually above with its full text and flagged on its Passage. 0 of them already contained a literal \"[\"/\"]\" of their own (confirmed: none do, in this file) - such a span would be kept as-is, NOT double-bracketed."
+  },
+  {
+    "where": "herodotus-histories-grc / reading text",
+    "note": "15 <gap reason=\"ellipsis\"/> markers (an editorial ellipsis in this edition, no literal rendering given) were preserved as nothing extra; every occurrence is logged individually above and flagged on its Passage."
+  },
+  {
+    "where": "herodotus-histories-grc / reading text",
+    "note": "2 <choice><sic>/<corr></choice> pair(s) were resolved to the <corr> reading (kept), the literal <sic> transcription dropped; both occurrences are logged individually above."
+  },
+  {
+    "where": "herodotus-histories-grc / reading text",
+    "note": "4 <bibl> citation(s) (Perseus's own citation of a Homeric passage Herodotus quotes, e.g. \"Homer, Iliad, 6.289-292\") were excluded entirely, not part of Herodotus's own text."
+  },
+  {
+    "where": "herodotus-histories-grc / passage & division refs",
+    "note": "Division.ref and Passage.ref are null throughout: this source carries no page-marker or milestone citation scheme distinct from its own Book/Chapter numbering."
+  },
+  {
+    "where": "herodotus-histories-grc / character encoding",
+    "note": "The source is already NFC-normalised polytonic Greek; no normalisation pass was applied."
+  }
+]

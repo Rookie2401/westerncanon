@@ -1,0 +1,62 @@
+[
+  {
+    "where": "sec-281",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Pittacus of Mitylene , Bias of Priene , and Thales of Miletus were among the traditional seven wise men.\""
+  },
+  {
+    "where": "sec-282",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Daedalus, the traditional inventor of sculpture.\""
+  },
+  {
+    "where": "sec-282",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The word οὖτος does not indicate that Gorgias was among those present at the moment, but only that he was at the time much talked of at Athe…\""
+  },
+  {
+    "where": "sec-283",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Apparently a proverbial expression like physician, heal thyself or look out for number one.\""
+  },
+  {
+    "where": "sec-288",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Heindorf and other commentators connect this reference with an oracle quoted by a scholiast on Theocritus, Idyl xiv. 48. The Megarians, bein…\""
+  },
+  {
+    "where": "sec-288",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The χοῦς was 5.76 pints.\""
+  },
+  {
+    "where": "sec-293",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Pelops as the son of a mortal (Tantalus); the others mentioned were sons of gods.\""
+  },
+  {
+    "where": "sec-297",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"i.e. the creative force creates the thing created, not the creative force.\""
+  },
+  {
+    "where": "sec-301",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Suidas gives the proverb in the form: ζῶμεν γὰρ οὐχ ὡς θέλομεν, ἀλλ’ ὡς δυνάμεθα . Man proposes, but God disposes would be an English equiva…\""
+  },
+  {
+    "where": "sec-303",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"See 300 E., 301 A.\""
+  },
+  {
+    "where": "sec-303",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"See 301 E, 302 A.\""
+  },
+  {
+    "where": "sec-303",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"See 300 C.\""
+  },
+  {
+    "where": "sec-304",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"See 301 B.\""
+  },
+  {
+    "where": "plato-greater-hippias-en / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-greater-hippias-en / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

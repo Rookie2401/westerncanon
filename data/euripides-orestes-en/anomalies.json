@@ -1,0 +1,98 @@
+[
+  {
+    "where": "euripides-orestes-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-orestes-en / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-orestes-en / card-1 / sp[Electra]/l[n=30]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and Pylades, who helped us to bring it about.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-34 / sp[Electra]/l[n=50]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"or to whet the steel and plunge it in our necks.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-71 / sp[Electra]/l[n=81]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Agamemnon’s house in misfortune?\""
+  },
+  {
+    "where": "euripides-orestes-en / card-71 / sp[Electra]/l[n=85]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"you have come upon us in the hour of adversity\""
+  },
+  {
+    "where": "euripides-orestes-en / card-110 / sp[Helen]/l[n=110]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Yes, I will send my daughter for you are right.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-110 / sp[Electra]/l[n=136]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Dearest friends, step softly; not a sound; not a whisper! For though this kindness of yours is well-meant, rouse him and I shall rue it.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-470 / sp[Tyndareus]/l[n=495]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"struck on his head by my daughter\""
+  },
+  {
+    "where": "euripides-orestes-en / card-682 / sp[Menelaus]/l[n=695]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"efforts? It is foolish even to wish it.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-682 / sp[Menelaus]/l[n=715]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"for the wise to be slaves to fortune.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-898 / sp[Messenger]/l[n=905]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"for whenever a man with a pleasing trick of speech, but of unsound principles, persuades the mob, it is a serious evil to the state; but those who give sound and sensible advice on all occasions,\""
+  },
+  {
+    "where": "euripides-orestes-en / card-898 / sp[Messenger]/l[n=910]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"if not immediately useful to the state, yet prove so afterwards. And this is the way in which to regard a party leader; for the position is much the same in the case of an orator and a man in office.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-931 / sp[Messenger]/l[n=931]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Pelasgians in ancient times, and later Danaids\""
+  },
+  {
+    "where": "euripides-orestes-en / speaker",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Chorus Leader\""
+  },
+  {
+    "where": "euripides-orestes-en / card-931 / sp[[Chorus Leader]]/l[n=957]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Ah, hapless maiden! How silent you are, your face covered and bent to the ground, as if about to dash upon a course of lamentation and wailing.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-1018 / sp[Orestes]/l[n=1022]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"you must bear the present fate.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-1018 / sp[Orestes]/l[n=1050]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"this greeting is all that is possible to us poor sufferers\""
+  },
+  {
+    "where": "euripides-orestes-en / card-1204 / sp[Orestes]/l[n=1222]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Pylades, for you share the labor with me.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-1366 / sp[Chorus Leader]/l[n=1366]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"But the bolts of the palace-doors rattle; be silent; for one of the Phrygians is coming out, from whom we will inquire of the state of matters within.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-1366 / sp[Phrygian]/l[n=1381]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"a shrill song\""
+  },
+  {
+    "where": "euripides-orestes-en / card-1393 / sp[Chorus Leader]/l[n=1393]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"for till now I have been guessing at what I do not clearly understand.\""
+  },
+  {
+    "where": "euripides-orestes-en / card-1425 / sp[Phrygian]/l[n=1450]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"severally\""
+  },
+  {
+    "where": "euripides-orestes-en / card-1625 / sp[Apollo]/l[n=1630]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"is here as you see in the enfolding air, rescued from death and not slain by you.\""
+  }
+]

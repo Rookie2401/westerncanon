@@ -1,0 +1,182 @@
+[
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[1]/section[2]/subsection[1]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"βοῦν τʼ ἀροτῆρα.\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[1]/section[2]/subsection[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hes. WD 405\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[1]/section[4]/subsection[1]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὃ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[1]/section[4]/subsection[1]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δοκεῖν\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[1]/section[4]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"μηθὲν\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[1]/section[4]/subsection[2]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Hes. WD 699\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[1]/subsection[2]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[1]/subsection[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μὲν\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[1]/subsection[3]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[1]/subsection[7]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[1]/subsection[7]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ατ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[3]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[4]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὁ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[6]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"Σωσίπολις\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[6]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δέ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[6]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δὲ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[7]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τριῶν\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[8]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀλλὰ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[8]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[8]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οὖν\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[8]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὸ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[13]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"πλείω\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[13]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἐᾶν\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[16]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δοῦναι\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[16]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[17]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[19]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τισὶ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[20]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[20]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"χρημάτων\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[20]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[21]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οι\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[21]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὲ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[24]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τε\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[30]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[33]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[33]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δὲ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[34]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[34]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἢ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[40]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[40]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[40]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δὲ\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[41]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τοὺς\""
+  },
+  {
+    "where": "economics-grc / edition[urn:cts:greekLit:tlg0086.tlg029.perseus-grc2]/book[2]/section[2]/subsection[41]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "economics-grc / whole work",
+    "note": "2 passage(s) contain a standalone combining diacritic (typically U+0304 COMBINING MACRON or U+0306 COMBINING BREVE over omicron/nu, marking vowel quantity) that survives NFC normalisation because Unicode has no precomposed Greek letter for it - genuine philological notation, not a digitisation artefact, and kept verbatim."
+  }
+]

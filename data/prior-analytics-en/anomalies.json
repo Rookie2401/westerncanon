@@ -1,0 +1,46 @@
+[
+  {
+    "where": "prior-analytics-en / book-1",
+    "note": "This page renders as 2 separate div.prp-pages-output blocks (one per <pages .../> transclusion tag). ALL of them are read, in document order: footnote apparatus is excluded structurally (the rendered <references/> list and each note's body), not by assuming that only the first block holds text — an assumption that was false here and cost real reading text."
+  },
+  {
+    "where": "prior-analytics-en / book-2",
+    "note": "This page renders as 2 separate div.prp-pages-output blocks (one per <pages .../> transclusion tag). ALL of them are read, in document order: footnote apparatus is excluded structurally (the rendered <references/> list and each note's body), not by assuming that only the first block holds text — an assumption that was false here and cost real reading text."
+  },
+  {
+    "where": "prior-analytics-en / source technique",
+    "note": "This work's Wikisource pages are djvu PAGE-SCAN TRANSCLUSIONS: their wikitext is only a few hundred bytes of <pages index=\"...\" from=X to=Y /> markup, so action=parse&prop=wikitext returns no text at all. The RENDERED HTML was fetched once per page via action=parse&prop=text and parsed with jsdom, exactly as scripts/import-aristotle-metaphysics-en does. Chapter markers in this source take the \"wst-anchor\" form and Bekker page markers the \"span.wst-bekker\" form — both verified by direct inspection of this work's own HTML, not assumed from any other work in the library."
+  },
+  {
+    "where": "prior-analytics-en / footnotes stripped",
+    "note": "309 inline footnote/superscript marker(s) were removed from the reading text; the translator's notes themselves are editorial apparatus, are rendered by the source in a separate block, and are not preserved anywhere in this build."
+  },
+  {
+    "where": "prior-analytics-en / reference scheme",
+    "note": "56 chapter(s) carry a Bekker page reference reconstructed from the source's own span.wst-bekker markers, in document order (a single page token when the chapter falls on one page, otherwise first–last). Passage.ref is null throughout: the source prints no marker at every paragraph break, so a per-paragraph reference would have to be invented."
+  },
+  {
+    "where": "prior-analytics-en / page location",
+    "note": "The correct Wikisource location was established by search rather than guessed, because the obvious titles are wrong. The bare title \"Prior Analytics\" is a {{translations}} DISAMBIGUATION page (395 bytes), not the text. \"Prior Analytics/Book I\" and \"/Book II\" DO NOT EXIST — a batched MediaWiki existence check returns `missing` for both. Jenkinson's 1928 Oxford translation lives under the same base page as this library's Categories import: \"The Works of Aristotle/Prior Analytics/Book I\" and \"/Book II\", which is what this importer uses."
+  },
+  {
+    "where": "prior-analytics-en / alternative translation not used",
+    "note": "English Wikisource also carries Octavius Freire Owen's 1853 translation of the Prior Analytics at \"Organon (Owen)/Prior Analytics\" (7,752 bytes of wikitext). It is equally public domain, but this batch specified Jenkinson's 1928 Oxford version, so Owen's was deliberately not used and no text from it appears in this build. Recorded here so the choice is visible rather than implicit."
+  },
+  {
+    "where": "prior-analytics-en / CONTENT-VERIFIED, not a stub",
+    "note": "This batch's brief warned that the Prior Analytics might turn out to be a red-link stub, in which case nothing was to be shipped. It is not: both book subpages carry real, proofread prose (184 KB of visible text in Book I, 122 KB in Book II) and yield the FULL standard division — 46 chapters in Book I and 27 in Book II, 73 in all — with no red links inside the text and no truncation."
+  },
+  {
+    "where": "prior-analytics-en / Bekker line numbers distinguished from page markers",
+    "note": "This source prints TWO kinds of marginal number: Bekker PAGE markers (24a, 25b, ...) in span.wst-bekker, and Bekker LINE numbers (5, 10, 15, ... — 441 of them in Book I alone) in span.wst-verse. Only the page markers are used for Division.ref; the line numbers are marginalia marking positions within a page rather than citable divisions, and are stripped from the reading text along with the page markers. Using span.wst-verse here as the Bekker container — as the Eudemian Ethics import correctly does for ITS source — would have produced nonsense references like \"5–30\", which is why the container is specified per work rather than assumed."
+  },
+  {
+    "where": "prior-analytics-en / chapters without a page reference",
+    "note": "A few chapters begin and end within a page whose Bekker marker was already printed earlier, so no marker falls inside them; their Division.ref is null rather than being interpolated from the neighbouring chapters. A guessed page reference would be an invented citation."
+  },
+  {
+    "where": "prior-analytics-en / relation to the Greek sibling",
+    "note": "This English edition was parsed entirely independently of any Greek edition of the Prior Analytics; the two are not forced to agree on chapter boundaries, and no division here was adjusted to match a Greek text."
+  }
+]

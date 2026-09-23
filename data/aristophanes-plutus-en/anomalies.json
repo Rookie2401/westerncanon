@@ -1,0 +1,10 @@
+[
+  {
+    "where": "aristophanes-plutus-en",
+    "note": "This page prints no \"==The Play==\"/title heading at all (confirmed by direct inspection); the play-text section was taken to start at the first non-furniture line after the page transclusion markers."
+  },
+  {
+    "where": "aristophanes-plutus-en",
+    "note": "Dramatis Personæ recovered from the page's RENDERED HTML (raw/plutus-html.json), not from the wikitext used for the play body: this play's front pages are a page-scan transclusion, invisible to the ordinary action=query&prop=revisions fetch used for the body text."
+  }
+]

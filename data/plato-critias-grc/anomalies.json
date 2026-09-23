@@ -1,0 +1,26 @@
+[
+  {
+    "where": "plato-critias-grc / <gap/>",
+    "note": "<gap reason=\"lost\"/> marks a genuine lacuna in a quoted verse fragment near \"...καθορᾷ πάντα ὅσα γενέσεως μετείληφεν, καὶ συναγείρας εἶπεν—\" — no text recoverable, nothing substituted."
+  },
+  {
+    "where": "plato-critias-grc / <sic>",
+    "note": "<sic> — Burnet's transcription explicitly flags \"αὐτόθεν\" as printed exactly as the manuscript/tradition gives it (a marked but unemended reading); kept verbatim."
+  },
+  {
+    "where": "sec-114",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ν\""
+  },
+  {
+    "where": "sec-115",
+    "note": "<del> excluded from the reading text: \"ποτὲ\""
+  },
+  {
+    "where": "plato-critias-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-critias-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

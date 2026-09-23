@@ -1,0 +1,150 @@
+[
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-78 / sp[Χορός]/l[n=83]",
+    "note": "<add> included in reading text: \"γᾶς\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-78 / sp[Χορός]/l[n=90]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πόδα\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-78 / sp[Χορός]/l[n=93]",
+    "note": "<add> included in reading text: \"πάτρια\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-109 / sp[Χορός]/l[n=112]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γὰρ\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-109 / sp[Χορός]/l[n=116]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πάτερ\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-109 / sp[Χορός]/l[n=122]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δονεῖ\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-109 / sp[Χορός]/l[n=126]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-128 / sp[Χορός]/l[n=148]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Ἄρτεμι φίλα\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-174 / sp[Χορός]/l[n=175]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-245 / sp[Ἐτεοκλής]/l[n=276]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ταυροκτονοῦντας θεοῖσιν, ὧδʼ ἐπεύχομαι\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-245 / sp[Ἐτεοκλής]/l[n=279]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"στέψω πρὸ ναῶν, πολεμίων δʼ ἐσθήματα.\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-304 / sp[Χορός]/l[n=318]",
+    "note": "<add> included in reading text: \"ἔστʼ\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-333 / sp[Χορός]/l[n=342]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δὲ\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-345 / sp[Χορός]/l[n=345]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πτόλιν\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-345 / sp[Χορός]/l[n=347]",
+    "note": "<add> included in reading text: \"ἀμφὶ\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-457 / sp[Ἄγγελος]/l[n=466]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δʼ·\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-521 / sp[Χορός]/l[n=521]",
+    "note": "<add> included in reading text: \"δὴ\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-626 / sp[Χορός]/l[n=628]",
+    "note": "<add> included in reading text: \"ἐς\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-631 / sp[Ἄγγελος]/l[n=650]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σὺ δʼ αὐτὸς ἤδη γνῶθι τίνα πέμπειν δοκεῖ·\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-698 / sp[Χορός]/l[n=699]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δʼ·\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-778 / sp[Χορός]/l[n=784]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κρεισσοτέκνων\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-792 / sp[Χορός]/l[n=820]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πόλις σέσωσται· βασιλέοιν δʼ ὁμοσπόροιν\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-792 / sp[Χορός]/l[n=821]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πέπωκεν αἷμά γαῖʼ ὑπʼ ἀλλήλων φόνῳ.\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-822 / sp[Χορός]/l[n=826]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"σωτῆρι\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-848 / sp[Χορός]/l[n=849]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"διδυμάνορα\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-848 / sp[Χορός]/l[n=857]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ναύστολον\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-888 / sp[Χορός]/l[n=891]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-888 / sp[Χορός]/l[n=895]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πλαγὰν\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-888 / sp[Χορός]/l[n=896]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐννέπω\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-888 / sp[Χορός]/l[n=899]",
+    "note": "<add> included in reading text: \"οὐ\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-900 / sp[Χορός]/l[n=906]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-911 / sp[Χορός]/l[n=918]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δʼ·\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-966 / sp[Ἀντιγόνη]/l[n=971]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γʼ·\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-980 / sp[Ἀντιγόνη]/l[n=985]",
+    "note": "<add> included in reading text: \"ἄγαν\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-980 / sp[Ἰσμήνη]/l[n=990]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δίυγρα\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-994 / sp[Ἰσμήνη]/l[n=1009]",
+    "note": "<add> included in reading text: \"ʼσʼτι\""
+  },
+  {
+    "where": "aeschylus-seven-against-thebes-grc / card-1048 / sp[Ἡμιχόριον Α]/l[n=1072]",
+    "note": "<add> included in reading text: \"τι\""
+  }
+]

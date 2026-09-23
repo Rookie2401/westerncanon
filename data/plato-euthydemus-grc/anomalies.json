@@ -1,0 +1,94 @@
+[
+  {
+    "where": "sec-271",
+    "note": "<del> excluded from the reading text: \"καὶ μάχῃ, ᾗ πάντων ἔστι κρατεῖν\""
+  },
+  {
+    "where": "sec-273",
+    "note": "<del> excluded from the reading text: \"δὲ\""
+  },
+  {
+    "where": "sec-273",
+    "note": "<del> excluded from the reading text: \"ὅσα\""
+  },
+  {
+    "where": "sec-273",
+    "note": "<del> excluded from the reading text: \"διδακτέον\""
+  },
+  {
+    "where": "sec-274",
+    "note": "<del> excluded from the reading text: \"ἔφατον,\""
+  },
+  {
+    "where": "sec-277",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"οὐ\""
+  },
+  {
+    "where": "sec-281",
+    "note": "<del> excluded from the reading text: \"εἶναι\""
+  },
+  {
+    "where": "sec-282",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἦν\""
+  },
+  {
+    "where": "sec-286",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-287",
+    "note": "<del> excluded from the reading text: \"τούτῳ τῷ πάνυ χαλεπὸν χρῆσθαι·\""
+  },
+  {
+    "where": "sec-291",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "sec-292",
+    "note": "<del> excluded from the reading text: \"ἔργον\""
+  },
+  {
+    "where": "sec-294",
+    "note": "<del> excluded from the reading text: \"τὸν Εὐθύδημον\""
+  },
+  {
+    "where": "sec-295",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἦν δʼ\""
+  },
+  {
+    "where": "sec-297",
+    "note": "<del> excluded from the reading text: \"Πατροκλῆς\""
+  },
+  {
+    "where": "sec-298",
+    "note": "<del> excluded from the reading text: \"οὐκ ἂν\""
+  },
+  {
+    "where": "sec-299",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ν\""
+  },
+  {
+    "where": "sec-299",
+    "note": "<del> excluded from the reading text: \"ὁ Κτήσιππος\""
+  },
+  {
+    "where": "sec-300",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"εἰ\""
+  },
+  {
+    "where": "sec-300",
+    "note": "<del> excluded from the reading text: \"τὰ λεγόμενα\""
+  },
+  {
+    "where": "sec-303",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ν\""
+  },
+  {
+    "where": "plato-euthydemus-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-euthydemus-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "workId": "de-incessu-animalium-grc",
+  "title": "On the Gait of Animals",
+  "author": "Aristotle",
+  "language": "grc",
+  "editor": "Werner Jaeger",
+  "edition": "Aristotelis De animalium motione et De animalium incessu (Jaeger, ed., Teubner, 1913)",
+  "provenance": "TEI XML from the OpenGreekAndLatin / First1KGreek project (CTS urn:cts:greekLit:tlg0086.tlg015.1st1K-grc1); imported by scripts/import-aristotle-rest.",
+  "license": "The ancient Greek text is used here for its public-domain-eligible ancient content (the same licence wording this app already uses for Archimedes/Mugler and Euclid); the digital transcription is distributed by First1KGreek under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0), under which it is redistributed here.",
+  "sections": [
+    {
+      "heading": "Aristotle's On the Gait of Animals",
+      "paragraphs": [
+        "This is the Greek text of Περὶ ζῴων πορείας (conventionally \"On the Gait of Animals\").",
+        "This work is a genuine, undisputed work of Aristotle.",
+        "The text here is Greek only, verbatim. Nothing is translated, modernised, normalised or silently corrected beyond the documented resolution of the source's own apparatus markup (see \"How it was imported\" below). Where the source is irregular or a genuine judgement call was made, it is preserved/recorded and flagged in \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "English translation",
+      "paragraphs": [
+        "An English translation of this work is in scope for a separate, concurrently-run import task covering select works of this reader; see this data directory's sibling `-en` work (if present) for its own about.json and provenance. This Greek import does not itself depend on that translation existing."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Per this XML file's own <sourceDesc>: Aristotelis De animalium motione et De animalium incessu (Jaeger, ed., Teubner, 1913), Leipzig, 1913.",
+        "No further bibliographic complication was found for this file beyond what is stated above."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0086.tlg015.1st1K-grc1.xml (CTS urn:cts:greekLit:tlg0086.tlg015.1st1K-grc1) from the OpenGreekAndLatin / First1KGreek project. It was fetched once and is bundled with the app (scripts/import-aristotle-rest/raw/tlg0086.tlg015.1st1K-grc1.xml); nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer's generic TEI walker (scripts/import-aristotle-rest-shared/teiWalker.ts) parses this source's own <div type=\"textpart\" subtype=\"...\" n=\"...\"> nesting into a tree, and shapes.ts folds it onto this app's Division scheme: a flat list of Chapters (id `ch-N`, rendered \"§ N\") - the source has no Book-level division; deeper source nesting below the \"chapter\" level, if any, is folded into each Chapter's own Passage array rather than adding another Division level.",
+        "<del>...</del> (text an editor judged spurious/interpolated, but which the edition still PRINTS, bracketed - the OCT convention) is KEPT verbatim in the reading text, wrapped in square brackets `[...]` (or left unbracketed-but-verbatim on the rare occasion its own printed text already contains a literal bracket, so as not to double them); <choice><sic>/<corr></choice> keeps the <corr> reading and excludes the <sic> variant; a bare <sic> (no <corr> offered) is itself the edition's printed reading and is kept, logged as a crux; <add>...</add> (an editorial insertion, printed by the edition) is KEPT inline; <bibl>...</bibl> (a modern editorial citation, not Aristotle's own words) is EXCLUDED; <note type=\"marginal\"> / a Bekker-shaped <milestone> is captured to build Division.ref and removed from the reading prose; any OTHER <note> is discarded entirely (tag and content); a <gap reason=\"ellipsis\"> is kept as its literal printed ellipsis text, a <gap reason=\"lost\"/\"omitted\"> contributes no text; <q>/<quote>/<foreign>/<l>/<lg>/<hi>/<num>/<title>/<item>/<list>/<cit> (quotations, verse, foreign-language snippets, emphasis, numerals, a quoted work's title, list/table items) are unwrapped - tags stripped, text kept inline as ordinary reading prose, WHETHER nested inside a <p> or printed as a sibling of one (a verse quotation is very often the latter - e.g. this corpus's Empedocles/Homer citations - and is captured as its own implicit paragraph rather than dropped). Every occurrence of all of these except plain milestones/lb/pb is logged in anomalies.json. Entities are decoded and text is NFC-normalised and whitespace-collapsed; the words themselves are otherwise untouched.",
+        "In this file: 3 <del> span(s) bracket-kept, 6 <add> insertion(s) kept, 0 bare <sic> crux(es) kept, 0 <choice><sic> variant(s) excluded in favour of <corr>, 0 literal-ellipsis <gap>(s) kept, 1 lacuna <gap>(s) excluded, 27 non-citation <note>(s) discarded."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by Chapter and Bekker page/column range: each Chapter's Division.ref is built from the Bekker citation marks found in its own text, in document order (a single value if only one falls inside it, \"<first>–<last>\" if more than one); this work spans Bekker 704a–714b in the standard pagination. 2 chapter(s) carry no Bekker mark of their own in this transcription and have Division.ref = null (flagged individually in anomalies.json, not guessed at).",
+        "No printed sub-chapter/line-level reference is attempted for any individual Passage (Passage.ref is null throughout); where a source nests a nameable level below its Chapter (e.g. a \"section\"), that level's own number survives as Passage.n (e.g. \"3\", or \"3.2\" two levels down) rather than being discarded."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "All 19 Chapter(s) and 21 Passage(s) (37015 characters of Greek reading text) present in this source were imported; nothing was dropped except the documented apparatus exclusions above, and no paragraph was reordered or merged beyond the documented Book/Chapter folding.",
+        "See anomalies.json for the complete, individually-logged, machine-readable account of every exclusion/inclusion and structural irregularity in this file."
+      ]
+    }
+  ]
+}

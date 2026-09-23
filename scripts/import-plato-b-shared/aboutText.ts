@@ -93,10 +93,21 @@ export function buildAbout(
     gaps.push('This witness carries no <del>/<add>/<gap>/<corr>/<sic> editorial-apparatus markup at all in the source transcription.');
   }
 
+  const isLetters = meta.slug === 'letters';
+  const lettersNotes: string[] = isLetters
+    ? [
+        'Structure of the Epistles. This is not a dialogue but thirteen separate letters, and the source wraps each letter’s Stephanus pages in its own letter division. Nine pages (310, 315, 321, 322, 323, 352, 357, 358 and 359) therefore appear twice or, for 358, three times in the source markup — once inside each letter that shares them — because one letter ends and the next begins on that page. Every part is kept: the page division carries one paragraph-group per letter-part, in source order, and each passage is labelled with its letter number ("Letter 1" … "Letter 13") so the boundary is visible. An earlier draft of this importer skipped the repeated page as a duplicate, which silently dropped the opening of every letter that begins mid-page; that was caught in review and corrected before this edition was shipped, and each merged page is logged in anomalies.json.',
+        'The source’s thirteen letters follow the traditional numbering; whether any given letter is genuinely Plato’s has been disputed since antiquity (the Seventh Letter is the one most often accepted), and nothing here takes a side — all thirteen are transcribed as Burnet prints them.',
+      ]
+    : [];
+
   const knownGaps: WorkAboutSection = {
     heading: 'Known gaps & anomalies',
     paragraphs: [
-      `Completeness. All ${opts.pageCount} Stephanus pages (${range}) are present, verified against an independently-checked page count for this dialogue and confirmed strictly monotonic (no gap, no duplicate) in the source markup itself.`,
+      isLetters
+        ? `Completeness. All ${opts.pageCount} Stephanus pages (${range}) are present, verified against an independently-checked page count and confirmed strictly monotonic in the source markup once each page shared by two letters is counted once (see “Structure of the Epistles” below).`
+        : `Completeness. All ${opts.pageCount} Stephanus pages (${range}) are present, verified against an independently-checked page count for this dialogue and confirmed strictly monotonic (no gap, no duplicate) in the source markup itself.`,
+      ...lettersNotes,
       ...gaps,
       'Reference scheme: every passage and division ref is null. The Stephanus page number IS the citation (e.g. "' +
         meta.englishTitle +

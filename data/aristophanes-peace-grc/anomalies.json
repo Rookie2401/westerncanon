@@ -1,0 +1,98 @@
+[
+  {
+    "where": "aristophanes-peace-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aristophanes-peace-grc / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "aristophanes-peace-grc / card-1 / sp[Οἰκέτης Α]/l[n=16]",
+    "note": "<add> included in reading text: \"ἔθʼ\""
+  },
+  {
+    "where": "aristophanes-peace-grc / card-250 / sp[Πόλεμος]/l[n=261]",
+    "note": "<add> included in reading text: \"πάνυ\""
+  },
+  {
+    "where": "aristophanes-peace-grc / card-346 / sp[Χορός]/l[n=346]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ποτέ\""
+  },
+  {
+    "where": "aristophanes-peace-grc / card-385 / sp[Χορός]/l[n=387]",
+    "note": "<add> included in reading text: \"νῦν\""
+  },
+  {
+    "where": "aristophanes-peace-grc / card-459 / sp[Χορός]/l[n=469]",
+    "note": "<add> included in reading text: \"ἀλλʼ\""
+  },
+  {
+    "where": "aristophanes-peace-grc / card-486 / sp[Τρυγαῖος]/l[n=491]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-peace-grc / card-582 / sp[Χορός]/l[n=586]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-peace-grc / card-601 / sp[Χορός]/l[n=630]",
+    "note": "<add> included in reading text: \"γε\""
+  },
+  {
+    "where": "aristophanes-peace-grc / card-868 / sp[Οἰκέτης]/l[n=892]",
+    "note": "<add> included in reading text: \"οὖν\""
+  },
+  {
+    "where": "aristophanes-peace-grc / card-922 / sp[Χορός]/l[n=931b]",
+    "note": "<add> included in reading text: \"ὅταν\""
+  },
+  {
+    "where": "aristophanes-peace-grc / card-1023 / sp[Χορός]/l[n=1023]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Λαμάχου\""
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Λαμάχου\""
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Λαμάχου\""
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Λαμάχου\""
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Λαμάχου\""
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Λαμάχου\""
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Λαμάχου\""
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Λαμάχου\""
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Λαμάχου\""
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Κλεωνύμου\""
+  },
+  {
+    "where": "aristophanes-peace-grc / speaker",
+    "note": "<add> included in reading text: \"Κλεωνύμου\""
+  }
+]

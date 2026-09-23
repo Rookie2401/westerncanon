@@ -1,0 +1,18 @@
+[
+  {
+    "where": "poetics-en / front matter excluded",
+    "note": "This printing opens with a title page and then Gilbert Murray's own signed \"PREFACE\" (an appreciation of the Poetics for the general reader, ending \"G. M\") - not a translation of Aristotle's text, and not by Bywater. Neither the title page nor Murray's Preface is included here; only the translation itself, from its own \"ARISTOTLE ON THE ART OF POETRY\" heading (which occurs exactly once in the source) to the end of Chapter 26, is imported. Bywater supplies no separate prefatory note of his own in this printing."
+  },
+  {
+    "where": "poetics-en / Bekker references",
+    "note": "This source prints no Bekker page/column markers anywhere (verified by direct inspection of the whole translation region) - unlike data/politics-en's Ellis translation, which does. Division.ref is null throughout; nothing is fabricated to supply a citation scheme this source does not carry."
+  },
+  {
+    "where": "poetics-en / footnotes",
+    "note": "No footnote/endnote apparatus of any kind was found anywhere in the real translation region (checked directly: no \"[Footnote\", no bracketed digit markers, no trailing notes section - the translation runs straight through to its own closing sentence and then directly into the Gutenberg end-of-ebook boilerplate)."
+  },
+  {
+    "where": "poetics-en / completeness",
+    "note": "All 26 traditional Poetics chapters are present and in order, from the verbatim opening (\"Our subject being Poetry, ...\") to the verbatim closing sentence. The Poetics as traditionally numbered originally comprised two books (Tragedy/Epic, and Comedy/other subjects); only the first survives in antiquity, and this translation - like every surviving witness - covers only that surviving portion, not an importer gap."
+  }
+]

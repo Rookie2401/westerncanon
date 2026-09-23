@@ -1,0 +1,55 @@
+{
+  "workId": "herodotus-histories-en",
+  "title": "The Histories",
+  "author": "Herodotus",
+  "language": "en",
+  "translator": "A. D. Godley",
+  "edition": "Herodotus, with an English translation by A. D. Godley, 4 vols. (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920-1925), Loeb Classical Library (\"Modernized by Perseus\")",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0016.tlg001.perseus-eng2), digitising A. D. Godley's English translation as printed in the same Loeb Classical Library edition as the Greek sibling (4 vols., 1920-1925), with modernised diction per Perseus's own sub-title (\"Modernized by Perseus\") - citation taken verbatim from this file's own <sourceDesc> (the work-level __cts__.xml carries no description); imported by scripts/import-herodotus-histories-en. The raw file is fetched once (cached at scripts/import-herodotus-histories-en/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Godley's translation (from a 1920-1925 Loeb Classical Library edition) is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Herodotus's Histories - English, trans. Godley",
+      "paragraphs": [
+        "This is the English translation of Herodotus's Ἱστορίαι (\"Histories\" or \"Inquiries\"), the foundational work of Western historiography, made by A. D. Godley for the Loeb Classical Library (1920-1925) and \"modernized by Perseus\" (light updating of archaic diction; see \"Known gaps & anomalies\" below). It stands alongside the Greek text (data/herodotus-histories-grc) already in this library as a facing English rendering.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "A. D. Godley, trans., Herodotus, 4 vols. (Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1920-1925), Loeb Classical Library. This translation is in the public domain.",
+        "The work is divided into 9 Books and, within each Book, numbered chapters (1578 total, matching the Greek sibling exactly, chapter for chapter, including all 45 of its letter-suffixed chapter numbers)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0016.tlg001.perseus-eng2.xml (CTS urn:cts:greekLit:tlg0016.tlg001.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and chapter <div>s and collects the <p> paragraph(s) within each chapter into that chapter's single Passage. Perseus's editorial apparatus is excluded entirely: <note> (528 editorial footnotes, dropped with everything nested inside - <foreign>, some <date>/<bibl>) and <bibl> (110 total, a citation of a quoted passage's source, e.g. a Homeric citation). The exact element carrying this source's gazetteer enrichment is <reg> - always nested one level inside a <name type=\"place\">, alongside a sibling <placeName> (or, when there is no <placeName> sibling, directly followed by bare display text) - e.g. <name type=\"place\"><reg>Bodrum [27.466,37.5] (inhabited place), Mugla Ili, Ege kiyilari, Turkey, Asia</reg> <placeName>Halicarnassus</placeName></name>. Every <reg> element (4305 occurrences, 193,990 characters of whitespace-collapsed text) is excluded entirely, keeping only the genuine display text; not one word of Godley's own translated prose is affected. <milestone unit=\"para\"/> (1558, self-closing) is dropped. Purely semantic wrapper tags (<name>, <placeName>, <persName>, <date>, <title>) and quotation/verse wrappers (<cit>, <quote>, <l>) are unwrapped, their text flowing into the surrounding prose unchanged. Entities are decoded and runs of whitespace collapsed; as a final cleanup pass, a redundant space directly before a closing punctuation mark - always a tag-boundary artifact left over from an excluded or unwrapped tag, never legitimate English spacing - is removed (781 occurrences); the words themselves are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter number, matching this edition's own numbering exactly and the Greek sibling's. This source carries no finer, page-marker-style citation scheme, so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 9 Books and all 1578 chapters are present and in order, matching the Greek sibling exactly, chapter for chapter, including all 45 of its letter-suffixed chapter numbers (e.g. \"121A\"..\"121F\" in Book 2) - independently confirmed, since this importer never reads the Greek file or its output.",
+        "Perseus editorial apparatus. 528 <note> elements (editorial footnotes, mostly annotating names, dates and textual variants) and 110 <bibl> citations were dropped entirely, not part of Godley's translated text.",
+        "Gazetteer enrichment. The exact element is <reg>, always nested one level inside a <name type=\"place\"> (e.g. <name type=\"place\"><reg>Bodrum [27.466,37.5] (inhabited place), Mugla Ili, Ege kiyilari, Turkey, Asia</reg> <placeName>Halicarnassus</placeName></name>, so the raw element text reads \"Herodotus of Bodrum [27.466,37.5] (inhabited place), Mugla Ili, Ege kiyilari, Turkey, Asia Halicarnassus\" before exclusion). 4305 <reg> elements, totalling 193,990 characters of whitespace-collapsed text (Perseus-added geographic coordinates/descriptions drawn from the Getty Thesaurus of Geographic Names, linked-data enrichment rather than translated prose) were excluded entirely, keeping only the genuine place-name text (the sibling <placeName>, or bare trailing text when none exists) actually printed. Not one word of Godley's own translated prose is affected by this exclusion.",
+        "\"Modernized by Perseus.\" This edition's own sub-title states the running English text was lightly updated from Godley's original 1920s diction by the Perseus project; the words bundled here are exactly what this source prints, whichever wording that is - no further modernisation was applied by this importer.",
+        "A literal \"<Pisidians>\" in Book 7 chapter 76. This source's own &lt;Pisidians&gt; (the ONLY &lt;/&gt; entity pair anywhere in the file, confirmed by direct inspection) is Godley's editorial convention marking \"Pisidians\" as his own conjectural reading for a corrupted or uncertain ethnic name in the underlying Greek - decoded like any other entity, it correctly reproduces those literal angle brackets in the printed translation. Not a leaked tag; see anomalies.json.",
+        "Tag-boundary spacing cleanup. This source's heavy semantic tagging (<name>/<reg>/<note>, etc.) sometimes leaves a redundant space directly before a closing punctuation mark once the tag is excluded or unwrapped (e.g. \"Halicarnassus , so\" for what Godley actually printed as \"Halicarnassus, so\"). 781 such spacing artifacts were cleaned up - never legitimate English typesetting - without touching any word."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3616 @@
+{
+  "workId": "aristophanes-frogs-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "dramatis-personae",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "Dramatis Personae",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "Dionysus\nXanthias his servant\nHeracles\nA Dead Man\nCharon\nÆacus\nFemale Attendant of Persephoné\nInnkeepers' Wives\nEuripides\nÆschylus\nPluto\nChorus of Frogs\nChorus of Initiates",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "text",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "The Frogs",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "[Scene: In front of the temple of Heracles, and on the banks of Acheron in the Infernal Regions.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nNow am I to make one of those jokes that have the knack of always making the spectators laugh?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAye, certainly, any one you like, excepting \"I am worn out.\" Take care you don't say that, for it gets on my nerves.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nDo you want some other drollery?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nYes, only not, \"I am quite broken up.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThen what witty thing shall I say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome, take courage; only ...",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nOnly what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n... don't start saying as you shift your package from shoulder to shoulder, \"Ah! that's a relief!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nMay I not at least say, that unless I am relieved of this cursed load I shall let wind?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! for pity's sake, no! you don't want to make me spew.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat need then had I to take this luggage, if I must not copy the porters that Phrynichus, Lycis and Amipsias never fail to put on the stage?\n[Note 1: These were comic poets contemporary with Aristophanes. Phrynichus, the best known, gained the second prize with his Muses when the present comedy was put upon the stage. Amipsias had gained the first prize over our author's first edition of The Clouds and again over his Birds. Aristophanes is ridiculing vulgar and coarse jests, which, however, he does not always avoid himself.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nDo nothing of the kind. Whenever I chance to see one of these stage tricks, I always leave the theatre feeling a good year older.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nOh! my poor back! you are broken and I am not allowed to make a single joke.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nJust mark the insolence of this Sybarite! I, Dionysus, the son of a ... wine-jar, I walk, I tire myself, and I set yonder rascal upon an ass, that he may not have the burden of carrying his load.\n[Note 2: Instead of the expected \"son of Zeus,\" he calls himself the \"son of a wine-jar.\"]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBut am I not carrying it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nNo, since you are on your beast.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nNevertheless I am carrying this....",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\n... and it is very heavy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nBut this burden you carry is borne by the ass.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat I have here, 'tis certainly I who bear it, and not the ass, no, by all the gods, most certainly not!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHow can you claim to be carrying it, when you are carried?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThat I can't say; but this shoulder is broken, anyhow.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWell then, since you say that the ass is no good to you, pick her up in your turn and carry her.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat a pity I did not fight at sea; I would baste your ribs for that joke.\n[Note 3: At the sea-fight at Arginusæ the slaves who had distinguished themselves by their bravery were presented with their freedom. This battle had taken place only a few months before the production of The Frogs. Had Xanthias been one of these slaves he could then have treated his master as he says, for he would have been his equal.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nDismount, you clown! Here is a door, at which I want to make my first stop. Hi! slave! hi! hi! slave!\n[Note 4: The door of the Temple of Heracles, situated in the deme of Melité, close to Athens. This temple contained a very remarkable statue of the god, the work of Eleas, the master of Phidias.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\n[from inside the Temple] Do you want to beat in the door? He knocks like a Centaur. Why, what's the matter?\n[Note 5: A fabulous monster, half man and half horse.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nXanthias!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWell?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nDid you notice?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHow I frightened him?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBah! you're mad!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nHo, by Demeter! I cannot help laughing; it's no use biting my lips, I must laugh.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome out, friend; I have need of you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nOh! 'tis enough to make a fellow hold his sides to see this lion's-skin over a saffron robe! What does this mean? Buskins and a bludgeon! What connection have they? Where are you off to in this rig?\n[Note 6: So also, in The Thesmophoriazusæ, Agathon is described as wearing a saffron robe, which was a mark of effeminacy.]\n[Note 7: A woman's foot-gear.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhen I went aboard Clisthenes....\n[Note 8: He speaks of him as though he were a vessel. Clisthenes, who was scoffed at for his ugliness, was completely beardless, which fact gave him the look of a eunuch. He was accused of prostituting himself.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nDid you fight?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWe sank twelve or thirteen ships of the enemy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nYou?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAye, by Apollo!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nYou have dreamt it.\n[Note 9: Heracles cannot believe it. Dionysus had no repute for bravery. His cowardice is one of the subjects for jesting which we shall most often come upon in The Frogs.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAs I was reading the Andromeda on the ship, I suddenly felt my heart afire with a wish so violent....\n[Note 10: A tragedy by Euripides, produced some years earlier, some fragments of which are quoted by Aristophanes in his Thesmophoriazusæ.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nA wish! of what nature?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh, quite small, like Molon.\n[Note 11: An actor of immense stature.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nYou wished for a woman?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nNo.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nA young boy, then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nNothing of the kind.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nA man?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nFaugh!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nMight you then have had dealings with Clisthenes?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHave mercy, brother; no mockery! I am quite ill, so greatly does my desire torment me!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nAnd what desire is it, little brother?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI cannot disclose it, but I will convey it to you by hints. Have you ever been suddenly seized with a desire for pea-soup?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nFor pea-soup! oh! oh! yes, a thousand times in my life.\n[Note 12: The gluttony of Heracles was a byword. See The Birds.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nDo you take me or shall I explain myself in some other way?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nOh! as far as the pea-soup is concerned, I understand marvellously well.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nSo great is the desire, which devours me, for Euripides.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nBut he is dead.\n[Note 13: Euripides, weary, it is said, of the ridicule and envy with which he was assailed in Athens, had retired in his old age to the court of Archelaus, King of Macedonia, where he had met with the utmost hospitality. We are assured that he perished through being torn to pieces by dogs, which set upon him in a lonely spot. His death occurred in 407 B.C., the year before the production of The Frogs.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThere is no human power can prevent my going to him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nTo the bottom of Hades?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAye, and further than the bottom, an it need.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nAnd what do you want with him?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI want a master poet; \"some are dead and gone, and others are good for nothing.\"\n[Note 14: This is a hemistich, the Scholiast says, from Euripides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nIs Iophon dead then?\n[Note 15: The son of Sophocles. Once, during his father's lifetime, he gained the prize for tragedy, but it was suspected that the piece itself was largely the work of Sophocles himself. It is for this reason that Dionysus wishes to try him when he is dependent on his own resources, now that his father is dead. The death of the latter was quite recent at the time of the production of The Frogs, and the fact lent all the greater interest to this piece.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHe is the only good one left me, and even of him I don't know quite what to think.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nThen there's Sophocles, who is greater than Euripides; if you must absolutely bring someone back from Hades, why not make him live again?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nNo, not until I have taken Iophon by himself and tested him for what he is worth. Besides, Euripides is very artful and won't leave a stone unturned to get away with me, whereas Sophocles is as easy-going with Pluto as he was when on earth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nAnd Agathon? Where is he?\n[Note 16: Agathon was a contemporary of Euripides, and is mentioned in terms of praise by Aristotle for his delineation of the character of Achilles, presumably in his tragedy of Telephus. From the fragments which remain of this author it appears that his style was replete with ornament, particularly antithesis.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHe has left me; 'twas a good poet and his friends regret him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nAnd whither has the poor fellow gone?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nTo the banquet of the blest.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nAnd Xenocles?\n[Note 17: Son of Caminus, an inferior poet, often made the butt of Aristophanes' jeers.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nMay the plague seize him!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nAnd Pythangelus?\n[Note 18: A poet apparently, unknown.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThey don't say ever a word of poor me, whose shoulder is quite shattered.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nIs there not a crowd of other little lads, who produce tragedies by the thousand and are a thousand times more loquacious than Euripides?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThey are little sapless twigs, chatterboxes, who twitter like the swallows, destroyers of the art, whose aptitude is withered with a single piece and who sputter forth all their talent to the tragic Muse at their first attempt. But look where you will, you will not find a creative poet who gives vent to a noble thought.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nHow creative?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAye, creative, who dares to risk \"the ethereal dwellings of Zeus,\" or \"the wing of Time,\" or \"a heart that is above swearing by the sacred emblems,\" and \"a tongue that takes an oath, while yet the soul is unpledged.\"\n[Note 19: Expressions used by Euripides in different tragedies.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nIs that the kind of thing that pleases you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI'm more than madly fond of it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nBut such things are simply idiotic, you feel it yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n\"Don't come trespassing on my mind; you have a brain of your own to keep thoughts in.\"\n[Note 20: Parody of a verse in Euripides' Andromeda, a lost play.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nBut nothing could be more detestable.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhere cookery is concerned, you can be my master.\n[Note 21: Heracles, being such a glutton, must be a past master in matters of cookery, but this does not justify him in posing as a dramatic critic.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThey don't say a thing about me!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nIf I have decked myself out according to your pattern, 'tis that you may tell me, in case I should need them, all about the hosts who received you, when you journeyed to Cerberus; tell me of them as well as of the harbours, the bakeries, the brothels, the drinking-shops, the fountains, the roads, the eating-houses and of the hostels where there are the fewest bugs.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThey never speak of me.\n[Note 22: Xanthias, bent double beneath his load, gets more and more out of patience with his master's endless talk with Heracles.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nGo down to hell? Will you be ready to dare that, you madman?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nEnough of that; but tell me the shortest road, that is neither too hot nor too cold, to get down to Pluto.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nLet me see, what is the best road to show you? Aye, which? Ah! there's the road of the gibbet and the rope. Go and hang yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nBe silent! your road is choking me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nThere is another path, both very short and well-trodden; the one that goes through the mortar.\n[Note 23: The mortar in which hemlock was pounded.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n'Tis hemlock you mean to say.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nPrecisely so.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThat road is both cold and icy. Your legs get frozen at once.\n[Note 24: An allusion to the effect of hemlock.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nDo you want me to tell you a very steep road, one that descends very quickly?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAh! with all my heart; I don't like long walks.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nGo to the Ceramicus.\n[Note 25: A quarter of Athens where the Lampadephoria was held in honour of Athené, Hephæstus, and Prometheus, because the first had given the mortals oil, the second had invented the lamp, and the third had stolen fire from heaven. The principal part of this festival consisted in the lampadedromia, or torch-race. This name was given to a race in which the competitors for the prize ran with a torch in their hand; it was essential that the goal should be reached with the torch still alight. The signal for starting was given by throwing a torch from the top of the tower mentioned a few verses later on.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nMount to the top of the highest tower ...",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nTo do what?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\n... and there keep your eye on the torch, which is to be the signal. When the spectators demand it to be flung, fling yourself ...",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhere?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\n... down.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nBut I should break the two hemispheres of my brain. Thanks for your road, but I don't want it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nBut which one then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThe one you once travelled yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nAh! that's a long journey. First you will reach the edge of the vast, deep mere of Acheron.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd how is that to be crossed?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nThere is an ancient ferryman, Charon by name, who will pass you over in his little boat for a diobolus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! what might the diobolus has everywhere! But however has it got as far as that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\n'Twas Theseus who introduced its vogue. After that you will see snakes and all sorts of fearful monsters ...\n[Note 26: Theseus had descended into Hades with Pirithous to fetch away Persephoné. Aristophanes doubtless wishes to say that in consequence of this descent Pluto established a toll across Acheron, in order to render access to his kingdom less easy, and so that the poor and the greedy, who could not or would not pay, might be kept out.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! don't try to frighten me and make me afraid, for I am quite decided.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\n... then a great slough with an eternal stench, a veritable cesspool, into which those are plunged who have wronged a guest, cheated a young boy out of the fee for his complaisance, beaten their mother, boxed their father's ears, taken a false oath or transcribed some tirade of Morsimus.\n[Note 27: Morsimus was a minor poet, who is also mentioned with disdain in The Knights, and is there called the son of Philocles. Aristophanes jestingly likens anyone who helps to disseminate his verses to the worst of criminals.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nFor mercy's sake, add likewise—or learnt the Pyrrhic dance of Cinesias.\n[Note 28: The Pyrrhic dance was a lively and quick-step dance. Cinesias was not a dancer, but a dithyrambic poet, who declaimed with much gesticulation and movement that one might almost think he was performing this dance.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nFurther on 'twill be a gentle concert of flutes on every side, a brilliant light, just as there is here, myrtle groves, bands of happy men and women and noisy plaudits.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWho are these happy folk?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nThe initiate.\n[Note 29: Those initiated into the Mysteries of Demeter, who, according to the belief of the ancients, enjoyed a kind of beatitude after death.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd I am the ass that carries the Mysteries; but I've had enough of it.\n[Note 30: Xanthias, his strength exhausted and his patience gone, prepares to lay down his load. Asses were used for the conveyance from Athens to Eleusis of everything that was necessary for the celebration of the Mysteries. They were often overladen, and from this fact arose the proverb here used by Xanthias, as indicating any heavy burden.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Heracles\nThey will give you all the information you will need, for they live close to Pluto's palace, indeed on the road that leads to it. Farewell, brother, and an agreeable journey to you. [He returns into his Temple.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd you, good health. Slave! take up your load again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBefore having laid it down?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd be quick about it too.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nOh, no, I adjure you! Rather hire one of the dead, who is going to Hades.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd should I not find one....",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThen you can take me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nYou talk sense. Ah! here they are just bringing a dead man along. Hi! man, 'tis you I'm addressing, you, dead fellow there! Will you carry a package to Pluto for me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dead Man\nIs't very heavy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThis. [He shows him the baggage, which Xanthias has laid on the ground.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dead Man\nYou will pay me two drachmæ.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! that's too dear.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dead Man\nWell then, bearers, move on.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nStay, friend, so that I may bargain with you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dead Man\nGive me two drachmæ, or it's no deal.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHold! here are nine obols.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dead Man\nI would sooner go back to earth again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nIs that cursed rascal putting on airs? Come, then, I'll go.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nYou're a good and noble fellow. Let us make the best of our way to the boat.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nAhoy, ahoy! put ashore.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat's that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhy, by Zeus, 'tis the mere of which Heracles spoke, and I see the boat.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAh! there's Charon.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHail! Charon.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dead Man\nHail! Charon.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nWho comes hither from the home of cares and misfortunes to rest on the banks of Lethé? Who comes to the ass's fleece, who is for the land of the Cerberians, or the crows, or Tænarus?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI am.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nGet aboard quick then.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhere will you ferry me to? Where are you going to land me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nIn hell, if you wish. But step in, do.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome here, slave.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nI carry no slave, unless he has fought at sea to save his skin.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBut I could not, for my eyes were bad.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nWell then! be off and walk round the mere.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhere shall I come to a halt?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nAt the stone of Auænus, near the drinking-shop.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nDo you understand?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nPerfectly. Oh! unhappy wretch that I am, surely, surely I must have met something of evil omen as I came out of the house?\n[Note 31: The Ancients believed that meeting this or that person or thing at the outset of a journey was of good or bad omen. The superstition is not entirely dead even to-day.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nCome, sit to your oar. If there be anyone else who wants to cross, let him hurry. Hullo! what are you doing?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat am I doing? I am sitting on the oar as you told me.\n[Note 32: Dionysus had seated himself on instead of at the oar.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nWill you please have the goodness to place yourself there, pot-belly?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThere.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nPut out your hands, stretch your arms.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThere.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nNo tomfoolery! row hard, and put some heart into the work!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nRow! and how can I? I, who have never set foot on a ship?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nThere's nothing easier; and once you're at work, you will hear some enchanting singers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWho are they?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nFrogs with the voices of swans; 'tis most delightful.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome, set the stroke.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nYo ho! yo ho!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Frogs\nBrekekekex, coax, coax, brekekekekex, coax. Slimy offspring of the marshland, let our harmonious voices mingle with the sounds of the flute, coax, coax! let us repeat the songs that we sing in honour of the Nysæan Dionysus on the day of the feast of pots, when the drunken throng reels towards our temple in the Limnæ. Brekekekex, coax, coax.\n[Note 33: One of the titles given to Dionysus, because of the worship accorded him at Nysa, a town in Ethiopia, where he was brought up by the nymphs.]\n[Note 34: This was the third day of the Anthesteria or feasts of Dionysus. All kinds of vegetables were cooked in pots and offered to Dionysus and Athené. It was also the day of the dramatic contests.]\n[Note 35: Dionysus' temple, the Lenæum, was situated in the district of Athens known as the Linnæ, or Marshes, on the south side of the Acropolis.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI am beginning to feel my bottom getting very sore, my dear little coax, coax.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Frogs\nBrekekekex, coax, coax.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nBut doubtless you don't care.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Frogs\nBrekekekex, coax, coax.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nMay you perish with your coax, your endless coax!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Frogs\nAnd why change it, you great fool? I am beloved by the Muses with the melodious lyre, by the goat-footed Pan, who draws soft tones out of his reed; I am the delight of Apollo, the god of the lyre, because I make the rushes, which are used for the bridge of the lyre, grow in my marshes. Brekekekex, coax, coax.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI have got blisters and my behind is all of a sweat; by dint of constant movement, it will soon be saying....",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Frogs\nBrekekekex, coax, coax.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome, race of croakers, be quiet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Frogs\nNot we; we shall only cry the louder. On fine sunny days, it pleases us to hop through galingale and sedge and to sing while we swim; and when Zeus is pouring down his rain, we join our lively voices to the rustle of the drops. Brekekekex, coax, coax.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI forbid you to do it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Frogs\nOh! that would be too hard!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd is it not harder for me to wear myself out with rowing?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Frogs\nBrekekekex, coax, coax.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nMay you perish! I don't care.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Frogs\nAnd from morning till night we will shriek with the whole width of our gullets, \"Brekekekex, coax, coax.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI will cry louder than you all.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Frogs\nOh! don't do that!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh, yes, I will. I shall cry the whole day, if necessary, until I no longer hear your coax. [He begins to cry against the frogs, who finally stop.] Ah! I knew I would soon put an end to your coax.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Charon\nEnough, enough, a last pull, ship oars, step ashore and pay your passage money.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nLook! here are my two obols.... Xanthias! where is Xanthias? Hi! Xanthias!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "XANTHIAS\n[from a distance] Hullo!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nI greet you, master.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat is there that way?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nDarkness and mud!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nDid you see the parricides and the perjured he told us of?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nDid you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHa! by Posidon! I see some of them now. Well, what are we going to do?\n[Note 36: He points to the audience.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThe best is to go on, for 'tis here that the horrible monsters are, Heracles told us of.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAh! the wag! He spun yarns to frighten me, but I am a brave fellow and he is jealous of me. There exists no greater braggart than Heracles. Ah! I wish I might meet some monster, so as to distinguish myself by some deed of daring worthy of my daring journey.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAh! hark! I hear a noise.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n[all of a tremble] Where then, where?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBehind you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nPlace yourself behind me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAh! 'tis in front now.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThen pass to the front.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nOh! what a monster I can see!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat's it like?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nDreadful, terrible! it assumes every shape; now 'tis a bull, then a mule; again it is a most beautiful woman.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhere is she that I may run toward her?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThe monster is no longer a woman; 'tis now a dog.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThen it is the Empusa.\n[Note 37: A spectre, which Hecaté sent to frighten men. It took all kinds of hideous shapes. It was exorcised by abuse.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nIts whole face is ablaze.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd it has a brazen leg?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAye, i' faith! and the other is an ass's leg, rest well assured of that.\n[Note 38: This was one of the monstrosities which credulity attributed to the Empusa.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhere shall I fly to?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd I?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nPriest, save me, that I may drink with you.\n[Note 39: He is addressing a priest of Bacchus, who occupied a seat reserved for him in the first row of the audience.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nOh! mighty Heracles! we are dead men.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nSilence! I adjure you. Don't utter that name.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWell then, we are dead men, Dionysus!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThat still less than the other.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nKeep straight on, master, here, here, this way.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWell?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBe at ease, all goes well and we can say with Hegelochus, \"After the storm, I see the return of the cat.\" The Empusa has gone.\n[Note 40: A verse from the Orestes of Euripides.—Hegelochus was an actor who, in a recent representation, had spoken the line in such a manner as to lend it an absurd meaning; instead of saying, γαλήνην, which means calm, he had pronounced it γαλῆν, which means a cat.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nSwear it to me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBy Zeus!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nSwear it again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBy Zeus!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOnce more.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBy Zeus!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! my god! how white I went at the sight of the Empusa! But yonder fellow got red instead, so horribly afraid was he! Alas! to whom do I owe this terrible meeting? What god shall I accuse of having sought my death? Might it be \"the Æther, the dwelling of Zeus,\" or \"the wing of Time\"?\n[Note 41: The priest of Bacchus, mentioned several verses back.]\n[Note 42: High-flown expressions from Euripides' Tragedies.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nHist!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat's the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nDon't you hear?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThe sound of flutes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAye, certainly, and the wind wafts a smell of torches hither, which bespeaks the Mysteries a league away. But make no noise; let us hide ourselves and listen.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nIacchus, oh! Iacchus! Iacchus, oh! Iacchus!\n[Note 43: A second Chorus, comprised of Initiates into the Mysteries of Demeter and Dionysus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nMaster, these are the initiates, of whom Heracles spoke and who are here at their sports; they are incessantly singing of Iacchus, just like Diagoras.\n[Note 44: A philosopher, a native of Melos, and originally a dithyrambic poet. He was prosecuted on a charge of atheism.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI believe you are right, but 'tis best to keep ourselves quiet till we get better information.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nIacchus, venerated god, hasten at our call. Iacchus, oh! Iacchus! come into this meadow, thy favourite resting-place; come to direct the sacred choirs of the Initiate; may a thick crown of fruit-laden myrtle branches rest on thy head and may thy bold foot step this free and joyful dance, taught us by the Graces—this pure, religious measure, that our sacred choirs rehearse.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nOh! thou daughter of Demeter, both mighty and revered, what a delicious odour of pork!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCannot you keep still then, fellow, once you get a whiff of a bit of tripe?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nBrandish the flaming torches and so revive their brilliancy. Iacchus, oh! Iacchus! bright luminary of our nocturnal Mysteries. The meadow sparkles with a thousand fires; the aged shake off the weight of cares and years; they have once more found limbs of steel, wherewith to take part in thy sacred measures; and do thou, blessed deity, lead the dances of youth upon this dewy carpet of flowers with a torch in thine hand. Silence, make way for our choirs, you profane and impure souls, who have neither been present at the festivals of the noble Muses, nor ever footed a dance in their honour, and who are not initiated into the mysterious language of the dithyrambs of the voracious Cratinus; away from here he who applauds misplaced buffoonery. Away from here the bad citizen, who for his private ends fans and nurses the flame of sedition, the chief who sells himself, when his country is weathering the storms, and surrenders either fortresses or ships; who, like Thorycion, the wretched collector of tolls, sends prohibited goods from Ægina to Epidaurus, such as oar-leathers, sailcloth and pitch, and who secures a subsidy for a hostile fleet, or soils the statues of Hecaté, while he is humming some dithyramb. Away from here, the orator who nibbles at the salary of the poets, because he has been scouted in the ancient solemnities of Dionysus; to all such I say, and I repeat, and I say it again for the third time, \"Make way for the choruses of the Initiate.\" But you, raise you your voice anew; resume your nocturnal hymns as it is meet to do at this festival. Let each one advance boldly into the retreats of our flowery meads, let him mingle in our dances, let him give vent to jesting, to wit and to satire. Enough of junketing, lead forward! let our voices praise the divine protectress with ardent love, yea! praise her, who promises to assure the welfare of this country for ever, in spite of Thorycion. Let our hymns now be addressed to Demeter, the Queen of Harvest, the goddess crowned with ears of corn; to her be dedicated the strains of our divine concerts. Oh! Demeter, who presidest over the pure mysteries, help us and protect thy choruses; far from all danger, may I continually yield myself to sports and dancing, mingle laughter with seriousness, as is fitting at thy festivals, and as the reward for my biting sarcasms may I wreathe my head with the triumphal fillets. And now let our songs summon hither the lovable goddess, who so often joins in our dances. Oh, venerated Dionysus, who hast created such soft melodies for this festival, come to accompany us to the goddess, show that you can traverse a long journey without wearying. Dionysus, the king of the dance, guide my steps. 'Tis thou who, to raise a laugh and for the sake of economy, hast torn our sandals and our garments; let us bound, let us dance at our pleasure, for we have nothing to spoil. Dionysus, king of the dance, guide my steps. Just now I saw through a corner of my eye a ravishing young girl, the companion of our sports; I saw the nipple of her bosom peeping through a rent in her tunic. Dionysus, king of the dance, guide my steps.\n[Note 45: A comic and dithyrambic poet.]\n[Note 46: This Thorycion, a toll collector at Aegina, which then belonged to Athens, had taken advantage of his position to send goods to Epidaurus, an Argolian town, thereby defrauding the treasury of the duty of 5 per cent, which was levied on every import and export.]\n[Note 47: An allusion to Alcibiades, who is said to have obtained a subsidy for the Spartan fleet from Cyrus, satrap of Asia Minor.]\n[Note 48: An allusion to the dithyrambic poet, Cinesias, who was accused of having sullied, by stooling against it, the pedestal of a statue of Hecaté at one of the street corners of Athens.]\n[Note 49: Athené.]\n[Note 50: The route of the procession of the Initiate was from the Ceramicus (a district of Athens) to Eleusis, a distance of twenty-five stadia.]\n[Note 51: A shaft shot at the choragi by the poet, because they had failed to have new dresses made for the actors on this occasion.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAye, I like to mingle with these choruses; I would fain dance and sport with that young girl.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd I too.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nWould you like us to mock together at Archidemus? He is still awaiting his seven-year teeth to have himself entered as a citizen; but he is none the less a chief of the people among the Athenians and the greatest rascal of 'em all. I am told that Clisthenes is tearing the hair out of his rump and lacerating his cheeks on the tomb of Sebinus, the Anaphlystian; with his forehead against the ground, he is beating his bosom and groaning and calling him by name. As for Callias, the illustrious son of Hippobinus, the new Heracles, he is fighting a terrible battle of love on his galleys; dressed up in a lion's skin, he fights a fierce naval battle—with the girls' cunts.\n[Note 52: It was at the age of seven that children were entered on the registers of their father's tribe. Aristophanes is accusing Archidemus, who at that time was the head of the popular party, of being no citizen, because his name is not entered upon the registers of any tribe.]\n[Note 53: At funerals women tore their hair, rent their garments, and beat their bosoms. Aristophanes parodies these demonstrations of grief and attributes them to the effeminate Clisthenes. Sebinus the Anaphlystian is a coined name containing an obscene allusion, implying he was in the habit of allowing connexion with himself a posteriori, and being masturbated by the other in turn.]\n[Note 54: Callias, the son of Hipponicus, which the poet turns into Hippobinus, i.e. one who treads a mare, was an Athenian general, who had distinguished himself at the battle of Arginusæ; he was notorious for his debauched habits, which he doubtless practised even on board his galleys. He is called a new Heracles, because of the legend that Heracles triumphed over fifty virgins in a single night; no doubt the poet alludes to some exploit of the kind here.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCould you tell us where Pluto dwells? We are strangers and have just arrived.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nGo no farther, and know without further question that you are at his gates.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nSlave, pick up your baggage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThis wretched baggage, 'tis like Corinth, the daughter of Zeus, for it's always in his mouth.\n[Note 55: A proverb applied to silly boasters. The Corinthians had sent an envoy to Megara, who, in order to enhance the importance of his city, incessantly repeated the phrase, \"The Corinth of Zeus.\"]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nAnd now do ye, who take part in this religious festival, dance a gladsome round in the flowery grove in honour of the goddess.\n[Note 56: Demeter.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAs for myself, I will go with the young girls and the women into the enclosure, where the nocturnal ceremonies are held; 'tis I will bear the sacred torch.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nLet us go into the meadows, that are sprinkled with roses, to form, according to our rites, the graceful choirs, over which the blessed Fates preside. 'Tis for us alone that the sun doth shine; his glorious rays illumine the Initiate, who have led the pious life, that is equally dear to strangers and citizens.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome now! how should we knock at this door? How do the dwellers in these parts knock?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nLose no time and attack the door with vigour, if you have the courage of Heracles as well as his costume.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHo! there! Slave!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWho's there?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHeracles, the bold.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nAh! wretched, impudent, shameless, threefold rascal, the most rascally of rascals. Ah! 'tis you who hunted out our dog Cerberus, whose keeper I was! But I have got you to-day; and the black stones of Styx, the rocks of Acheron, from which the blood is dripping, and the roaming dogs of Cocytus shall account to me for you; the hundred-headed Hydra shall tear your sides to pieces; the Tartessian Muræna shall fasten itself on your lungs and the Tithrasian Gorgons shall tear your kidneys and your gory entrails to shreds; I will go and fetch them as quickly as possible.\n[Note 57: Tartessus was an Iberian town, near the Avernian marshes, which were said to be tenanted by reptiles, the progeny of vipers and murænæ, a kind of fish.]\n[Note 58: Tithrasios was a part of Libya, fabled to be peopled by Gorgons.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nEh! what are you doing there? DIONYSUS [stooping down] I have just shit myself! Invoke the god.\n[Note 59: \"Invoke the god\" was the usual formula which immediately followed the offering of the libation in the festival of Dionysus. Here he uses the words after a libation of a new kind and induced by fear.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nGet up at once. How a stranger would laugh, if he saw you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAh! I'm fainting. Place a sponge on my heart.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nHere, take it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nPlace it yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBut where? Good gods, where is your heart?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nIt has sunk into my shoes with fear. [Takes his slave's hand holding the sponge, and applies it to his bottom.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nOh! you most cowardly of gods and men!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat! I cowardly? I, who have asked you for a sponge! 'Tis what no one else would have done.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nHow so?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nA poltroon would have fallen backwards, being overcome with the fumes; as for me, I got up and moreover I wiped myself clean.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAh! by Posidon! a wonderful feat of intrepidity!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAye, certainly. And you did not tremble at the sound of his threatening words?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThey never troubled me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWell then, since you are so brave and fearless, become what I am, take this bludgeon and this lion's hide, you, whose heart has no knowledge of fear; I, in return, will carry the baggage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nHere, take it, take it quick! 'this my duty to obey you, and behold, Heracles-Xanthias! Do I look like a coward of your kidney?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nNo. You are the exact image of the god of Melité, dressed up as a rascal. Come, I will take the baggage.\n[Note 60: That is, Heracles, whose temple was at Melité, a suburban deme of Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Female Attendant of Persephoné\nAh! is it you then, beloved Heracles? Come in. As soon as ever the goddess, my mistress Persephoné, knew of your arrival, she quickly had the bread into the oven and clapped two or three pots of bruised peas upon the fire; she has had a whole bullock roasted and both cakes and rolled backed. Come in quick!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nNo, thank you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Attendant\nOh! by Apollo! I shall not let you off. She has also had poultry boiled for you, sweetmeats makes, and has prepared you some delicious wine. Come then, enter with me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nI am much obliged.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Attendant\nAre you mad? I will not let you go. There is likewise and enchanted flute-girl specially for you, and two or three dancing wenches.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat do you say? Dancing wenches?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Attendant\nIn the prime of their life and all freshly depilated. Come, enter, for the cook was going to take the fish off the fire and the table was being spread.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nVery well then! Run in quickly and tell the dancing-girls I am coming. Slave! pick up the baggage and follow me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nNot so fast! Oh! indeed! I disguise you as Heracles for a joke and you take the thing seriously! None of your nonsense, Xanthias! Take back the baggage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat? You are not thinking of taking back what you gave me yourself?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nNo, I don't think about it; I do it. Off with that skin!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWitness how i am treated, ye great dogs, and be my judges!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat gods? Are you so stupid, such a fool? How can you, a slave and a mortal, be the son of Alcmena?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nCome then! 'tis well! take them. But perhaps you will be needing me one day, an it please the gods.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\n'Tis the act of a wise and sensible man, who has done much sailing, always to trim his sail towards the quarter whence the fair wind wafts, rather than stand stiff and motionless like a god Terminus. To change your part to serve your own interest is to act like a clever man, a true Theramenes.\n[Note 61: Whose statues were placed to make the boundaries of land.]\n[Note 62: One of the Thirty Tyrants, noted for his versatility.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nFaith! 'twould be funny indeed if Xanthias, a slave, were indolently stretched out on purple cushions and fucking the dancing-girl; if he were then to ask me for a pot, while I, looking on, would be rubbing my tool, and this master rogue, on seeing it, were to know out my front teeth with a blow of his fist. First Inkeeper's Wife Here! Plathané, Plathané! do come! here is the rascal who once came into our shop and ate up sixteen loaves for us. Second Inkeeper's Wife Aye, truly, 'tis he himself!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThis is turning out rough for somebody.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "First Wife\nAnd besides that, twenty pieces of boiled meat at half an obolus a piece.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nThere's someone going to get punished.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "First Wife\nAnd I don't know how many cloves of garlic.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nYou are rambling, my dear, you don't know what you are saying.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "First Wife\nHah! you thought I should not know you, because of your buskins! And then all the salt fish, I had forgotten that!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Second Wife\nAnd then, alas! the fresh cheese that he devoured, osier baskets and all! Ten, when I asked for my money, he started to roar and shoot terrible looks at me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAs! I recognize him well by that token; 'tis just his way.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Second Wife\nAnd he drew out his sword like a madman.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "First Wife\nBy the gods, yes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Second Wife\nTerrified to death, we clambered up to the upper storey, and he fled at top speed, carrying off our baskets with him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAh! this is again his style! But you ought to take action.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "First Wife\nRun quick and call Cleon, my patron.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Second Wife\nAnd you, should you run against Hyperbolus, bring him to me; we will knock the life out of our robber.\n[Note 63: Celon and Hyperbolus were both dead, and are therefore supposed to have become the leaders and patrons of the populace in Hades, the same as they had been on earth.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "First Wife\nOh! you miserable glutton! how I should delight in breaking those grinders of yours, which devoured my goods!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Second Wife\nAnd I in hurling you into the malefactor's pit.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "First Wife\nAnd I in slitting with one stroke of the sickle that gullet that bolted down the tripe. But I am going to fetch Cleon; he shall summon you before the court this very day and force you to disgorge.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nMay I die, if Xanthias is not my dearest friend.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nCan I be the son of Alcmena, I, a slave and a mortal?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI know, I know, that you are in a fury and you have the right to be; you can even beat me and I will not reply. But if I ever take this costume from you again, may I die of the most fearful torture—I, my wife, my children, all those who belong to me, down to the very last, and blear-eyed Archidemus into the bargain.\n[Note 64: Already mentioned; one of the chiefs of the popular party in 406 B.C.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nI accept your oath, and on those terms I agree.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\n'Tis now your cue, since you have resumed the dress, to act the brave and to throw terror into your glance, thus recalling the god whom you represent. But if you play your part badly, if you yield to any weakness, you will again have to load your shoulders with the baggage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nFriends, your advice is good, but I was thinking the same myself; if there is any good to be got, my master will again want to despoil me of this costume, of that I am quite certain. Ne'ertheless, I am going to show a fearless heart and shoot forth ferocious looks. And lo! the time for it has come, for I hear a noise at the door.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\n[to his slaves] Bind me this dog-thief, that he may be punished. Hurry yourselves, hurry!\n[Note 65: Heracles had carried of Cerberus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThis is going to turn out badly for someone.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nLook to yourselves and don't come near me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nHah! you would show fight! Ditylas, Sceblyas, Pardocas, come here and have at him!\n[Note 66: Names of Thracian slaves.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAh! you would strike him because he has stolen!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\n'Tis horrible!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n'Tis a revolting cruelty!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBy Zeus! may I die, if I ever came here or stole from you the value of a pin! But I will act nobly; take this slave, put him to the question, and if you obtain the proof of my guilt, put me to death.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nIn what manner shall I put him to the question?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nIn every manner; you may lash him to the wooden horse, hang him, cut him open with scourging, flay him, twist his limbs, pour vinegar down his nostrils, load him with bricks, anything you like; only don't beat him with leeks or fresh garlic.\n[Note 67: As was done to unruly children; he allows every kind of torture with the exception of the mildest.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\n'Tis well conceived; but if the blows maim your slave, you will be claiming damages from me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nNo, certainly not! set about putting him to the question.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nIt shall be done here, for I wish him to speak in your presence. Come, put down your pack, and be careful not to lie.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI forbid you to torture me, for I am immortal; if you dare it, woe to you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWhat say you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI say that I am an immortal, Dionysus, the son of Zeus, and that this fellow is only a slave.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\n[to Xanthias] D'you hear him?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nYes. 'Tis all the better reason for beating him with rods, for, if he is a god, he will not feel the blows.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n[to Xanthias] But why, pray, since you also claim to be a god, should you not be beaten like myself?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\n[to Æacus] That's fair. Very well then, whichever of us two you first see crying and caring for the blows, him believe not to be a god.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\n'Tis spoken like a brave fellow; you don't refuse what is right. Strip yourselves.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nTo do the thing fairly, how do you propose to act?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nOh! that's easy. I shall hit you one after the other.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWell thought of.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nThere! [He strikes Xanthias.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWatch if you see me flinch.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nI have already struck you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nNo, you haven't.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWhy, you have not felt it at all, I think. Now for t'other one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nBe quick about it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nBut I have struck you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAh! I did not even sneeze. How is that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nI don't know; come, I will return to the first one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nGet it over. Oh, oh!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWhat does that \"oh, oh!\" mean? Did it hurt you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nOh, no! but I was thinking of the feasts of Heracles, which are being held at Diomeia.\n[Note 68: A deme of Attica, where there was a temple to Heracles. No doubt those present uttered the cry \"Oh! oh!\" in honour of the god.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nOh! what a pious fellow! I pass on to the other again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! oh!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWhat's wrong?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI see some knights.\n[Note 69: He pretends it was not a cry of pain at all, but of astonishment and admiration.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWhy are you weeping?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nBecause I can smell onions.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nHa! so you don't care a fig for the blows?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nNot the least bit in the world.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWell, let us proceed. Your turn now.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nOh, I say!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWhat's the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nPull out this thorn.\n[Note 70: Pretending that it was the thorn causing him pain, and not the lash of the whip.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWhat? Now the other one again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n\"Oh, Apollo!... King of Delos and Delphi!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nHe felt that. Do you hear?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhy, no! I was quoting an iambic of Hipponax.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\n'Tis labour in vain. Come, smite his flanks.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nNo, present your belly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh, Posidon ...",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAh! here's someone who's feeling it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n... who reignest on the Ægean headland and in the depths of the azure sea.\n[Note 71: According to the Scholiast this is a quotation from the Laocoon, a lost play of Sophocles.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nBy Demeter, I cannot find out which of you is the god. But come in; the master and Persephoné will soon tell you, for they are gods themselves.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nYou are quite right; but you should have thought of that before you beat us.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nOh! Muse, take part in our sacred choruses; our songs will enchant you and you shall see a people of wise men, eager for a nobler glory than that of Cleophon, the braggart, the swallow, who deafens us with his hoarse cries, while perched upon a Thracian tree. He whines in his barbarian tongue and repeats the lament of Philomela with good reason, for even if the votes were equally divided, he would have to perish. [The Leader comes forward and addresses the audience.] Chorus Leader The sacred chorus owes the city its opinion and its wise lessons. First I demand that equality be restored among the citizens, so that none may be disquieted. If there be any whom the artifices of Phrynichus have drawn into any error, let us allow them to offer their excuses and let us forget these old mistakes. Furthermore, that there be not a single citizen in Athens who is deprived of his rights; otherwise would it not be shameful to see slaves become masters and treated as honourably as Platæans, because they helped in a single naval fight? Not that I censure this step, for, on the contrary I approve it; 'tis the sole thing you have done that is sensible. But those citizens, both they and their fathers, have so often fought with you and are allied to you by ties of blood, so ought you not to listen to their prayers and pardon them their single fault? Nature has given you wisdom, therefore let your anger cool and let all those who have fought together on Athenian galleys live in brotherhood and as fellow-citizens, enjoying the same equal rights; to show ourselves proud and intractable about granting the rights of the city, especially at a time when we are riding at the mercy of the waves, is a folly, of which we shall later repent. If I am adept at reading the destiny or the soul of a man, the fatal hour for little Cleigenes is near, that unbearable ape, the greatest rogue of all the washermen, who use a mixture of ashes and Cimolian earth and call it potash. He knows it; hence he is always armed for war; for he fears, if he ventures forth without his bludgeon, he would be stripped of his clothes when he is drunk. I have often noticed that there are good and honest citizens in Athens, who are as old gold is to new money. The ancient coins are excellent in point of standard; they are assuredly the best of all moneys; they alone are well struck and give a pure ring; everywhere they obtain currency, both in Greece and in strange lands; yet we make no use of them and prefer those bad copper pieces quite recently issued and so wretchedly struck. Exactly in the same way do we deal with our citizens. If we know them to be well-born, sober, brave, honest, adepts in the exercises of the gymnasium and in the liberal arts, they are the butts of our contumely and we have only a use for the petty rubbish, consisting of strangers, slaves and low-born folk not worth a whit more, mushrooms of yesterday, whom formerly Athens would not have even wanted as scapegoats. Madmen, do change your ways at last; employ the honest men afresh; if you are fortunate through doing this, 'twill be but right, and if Fate betrays you, the wise will at least praise you for having fallen honourably.\n[Note 72: A general known for his cowardice; he was accused of not being a citizen, but of Thracian origin; in 406 B.C. he was in disfavour, and he perished shortly after in a popular tumult.]\n[Note 73: According to Athenian law, the accused was acquitted when the voting was equal.]\n[Note 74: He had helped to establish the oligarchical government of the Four Hundred, who had just been overthrown.]\n[Note 75: The fight of Arginusæ; the slaves who had fought there had been accorded their freedom.—The Platæans had had the title of citizens since the battle of Marathon.]\n[Note 76: Things were not going well for Athens at the time; it was only two years later, 404 B.C., that Lysander took the city.]\n[Note 77: A demagogue; because he deceived the people, Aristophanes compares him with the washermen who cheated their clients by using some mixture that was cheaper than potash.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nBy Zeus, the Deliverer! what a brave man your master is.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nA brave man! I should think so indeed, for he only knows how to drink and to make love!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nHe has convicted you of lying and did not thrash the impudent rascal who had dared to call himself the master.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAh! he would have rued it if he had.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWell spoken! that's a reply that does a slave credit; 'tis thus that I like to act too.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nHow, pray?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nI am beside myself with joy, when I can curse my master in secret.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd when you go off grumbling, after having been well thrashed?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nI am delighted.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd when you make yourself important?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nI know of nothing sweeter.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAh! by Zeus! we are brothers. And when you are listening to what your masters are saying?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\n'Tis a pleasure that drives me to distraction.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd when you repeat it to strangers?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nOh! I feel as happy as if I were emitting semen.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nBy Phoebus Apollo! reach me your hand; come hither, that I may embrace you; and, in the name of Zeus, the Thrashed one, tell me what all this noise means, these shouts, these quarrels, that I can hear going on inside yonder.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\n'Tis Æschylus and Euripides.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat do you mean?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nThe matter is serious, very serious indeed; all Hades is in commotion.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat's it all about?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWe have a law here, according to which, whoever in each of the great sciences and liberal arts beats all his rivals, is fed at the Prytaneum and sits at Pluto's side ...",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nI know that.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\n... until someone cleverer than he in the same style of thing comes along; then he has to give way to him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd how has this law disturbed Æschylus?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nHe held the chair for tragedy, as being the greatest in his art.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd who has it now?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWhen Euripides descended here, he started reciting his verses to the cheats, cut-purses, parricides, and brigands, who abound in Hades; his supple and tortuous reasonings filled them with enthusiasm, and they pronounced him the cleverest by far. So Euripides, elated with pride, took possession of the throne on which Æschylus was installed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd did he not get stoned?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nNo, but the folk demanded loudly that a regular trial should decide to which of the two the highest place belonged.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat folk? this mob of rascals? [Points to the spectators.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nTheir clamour reached right up to heaven.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd had Æschylus not his friends too?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nGood people are very scarce here, just the same as on earth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat does Pluto reckon to do?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nTo open a contest as soon as possible; the two rivals will show their skill, and finally a verdict will be given.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat! has not Sophocles also claimed the chair then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nNo, no! he embraced Æschylus and shook his hand, when he came down; he could have taken the seat, for Æschylus vacated it for him; but according to Clidemides, he prefers to act as his second; if Æschylus triumphs, he will stay modestly where he is, but if not, he has declared that he will contest the prize with Euripides.\n[Note 78: Callistrates says that Clidemides was one of Sophocles' sons; Apollonius states him to have been an actor.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhen is the contest to begin?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nDirectly! the battle royal is to take place on this very spot. Poetry is to be weighed in the scales.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nWhat? How can tragedy be weighed?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nThey will bring rulers and compasses to measure the words, and those forms which are used for moulding bricks, also diameter measures and wedges, for Euripides says he wishes to torture every verse of his rival's tragedies.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nIf I mistake not, Æschylus must be in a rage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nWith lowered head he glares fiercely like a bull.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nAnd who will be the judge?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\nThe choice was difficult; it was seen that there was a dearth of able men. Æschylus took exception to the Athenians ...",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Xanthias\nNo doubt he thought there were too many thieves among them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æacus\n... and moreover believed them too light-minded to judge of a poet's merits. Finally they fell back upon your master, because he understands tragic poetry. But let us go in; when the masters are busy, we must look out for blows!\n[Note 79: Dionysus was, of course, the patron god of the drama and dramatic contests.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nAh! what fearful wrath will be surging in his heart! what a roar there'll be when he sees the babbler who challenges him sharpening his teeth! how savagely his eyes will roll! What a battle of words like plumed helmets and waving crests hurling themselves against fragile outbursts and wretched parings! We shall see the ingenious architect of style defending himself against immense periods. Then, the close hairs of his thick mane all a-bristle, the giant will knit his terrible brow; he will pull out verses as solidly bolted together as the framework of a ship and will hurl them forth with a roar, while the pretty speaker with the supple and sharpened tongue, who weighs each syllable and submits everything to the lash of his envy, will cut this grand style to mincemeat and reduce to ruins this edifice erected by one good sturdy puff of breath.\n[Note 80: The majestic grandeur of Aeschylus' periods, coupled with a touch of parody, is to be recognized in this piece.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n[to Dionysus] Your advice is in vain, I shall not vacate the chair, for I contend I am superior to him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nÆschylus, why do you keep silent? You understand what he says.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nHe is going to stand on his dignity first; 'tis a trick he never failed to use in his tragedies.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nMy dear fellow, a little less arrogance, please.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nOh! I know him for many a day. I have long had a thorough hold of his ferocious heroes, for his high-flown language and of the monstrous blustering words which his great, gaping mouth hurls forth thick and close without curb or measure.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nIt is indeed you, the son of a rustic goddess, who dare to treat me thus, you, who only know how to collect together stupid sayings and to stitch the rags of your beggars? I shall make you rue your insults.\n[Note 81: It is said that Euripides was the son of a fruit-seller.]\n[Note 82: Euripides is constantly twitted by Aristophanes with his predilection for ragged beggars and vagabonds as characters in his plays.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nEnough said, Æschylus, calm the wild wrath that is turning your heart into a furnace.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nNo, not until I have clearly shown the true value of this impudent fellow with his lame men.\n[Note 83: Bellerophon, Philoctetes, and Telephus, were all characters in different Tragedies of Euripides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nA lamb, a black lamb! Slaves, bring it quickly, the storm-cloud is about to burst.\n[Note 84: Sailors, when in danger, sacrificed a black lamb to Typhon, the god of storms.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nShame on your Cretan monologues! Shame on the infamous nuptials that you introduce into the tragic art!\n[Note 85: An allusion to a long monologue of Icarus in the tragedy called The Cretans.]\n[Note 86: In Æolus, Macareus violates his own sister; in The Clouds, this incest, which Euripides introduced upon the stage, is also mentioned.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCurb yourself, noble Æschylus, and as for you, my poor Euripides, be prudent, protect yourself from this hailstorm, or he may easily in his rage hit you full in the temple with some terrible word, that would let out your Telephus. Come, Æschylus, no flying into a temper! discuss the question coolly; poets must not revile each other like market wenches. Why, you shout at the very outset and burst out like a pine that catches fire in the forest.\n[Note 87: The title of one of Euripides' pieces.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nI am ready for the contest and don't flinch; let him choose the attack or the defence; let him discuss everything, the dialogue, the choruses, the tragic genius, Peleus, Æolus, Meleager and especially Telephus.\n[Note 88: The titles of three lost Tragedies of Euripides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd what do you propose to do, Æschylus? Speak!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nI should have wished not to maintain a contest that is not equal or fair.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhy not fair?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nBecause my poetry has outlived me, whilst his died with him and he can use it against me. However, I submit to your ruling.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nLet incense and a brazier be brought, for I want to offer a prayer to the gods. Thanks to their favour, may I be able to decide between these ingenious rivals as a clever expert should! And do you sing a hymn in honour of the Muses.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nOh! ye chaste Muses, the daughters of Zeus, you who read the fine and subtle minds of thought-makers when they enter upon a contest of quibbles and tricks, look down on these two powerful athletes; inspire them, one with mighty words and the other with odds and ends of verses. Now the great mind contest is beginning.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd do you likewise make supplication to the gods before entering the lists.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nOh, Demeter! who hast formed my mind, may I be able to prove myself worthy of thy Mysteries!\n[Note 89: A verse from one of the lost Tragedies of Euripides; the poet was born at Eleusis.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd you, Euripides, prove yourself meet to sprinkle incense on the brazier.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nThanks, but I sacrifice to other gods.\n[Note 90: Aristophanes often makes this accusation of religious heterodoxy against Euripides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nTo private gods of your own, which you have made after your own image?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nWhy, certainly!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWell then, invoke your gods.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nOh! thou Æther, on which I feed, oh! thou Volubility of Speech, oh! Craftiness, oh! Subtle Scent! enable me to crush the arguments of my opponent.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nWe are curious to see upon what ground these clever tilters are going to measure each other. Their tongue is keen, their wit is ready, their heart is full of audacity. From the one we must expect both elegance and polish of language, whereas the other, armed with his ponderous words, will fall hip and thigh upon his foe and with a single blow tear down and scatter all his vain devices.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome, be quick and speak and let your words be elegant, but without false imagery or platitude.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nI shall speak later of my poetry, but I want first to prove that Æschylus is merely a wretched impostor; I shall relate by what means he tricked a coarse audience, trained in the school of Phrynichus. First one saw some seated figure, who was veiled, some Achilles or Niobé, who then strutted about the stage, but neither uncovered their face nor uttered a syllable.\n[Note 91: A dramatic poet, who lived about the end of the sixth century B.C., and a disciple of Thespis; the scenic art was then comparatively in its infancy.]\n[Note 92: The Scholiast tells us that Achilles remained mute in the tragedy entitled The Phrygians or The Ransom of Hector, and that his face was veiled; he only spoke a few words at the beginning of the drama during a dialogue with Hermes.—We have no information about the Niobé mentioned here.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI' faith! that's true!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nMeanwhile, the Chorus would pour forth as many as four tirades one after the other, without stopping, and the characters would still maintain their stony silence.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI liked their silence, and these mutes pleased me no less than those characters that have such a heap to say nowadays.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n'Tis because you were a fool, understand that well.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nPossibly; but what was his object?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n'Twas pure quackery; in this way the spectator would sit motionless, waiting, waiting for Niobé to say something, and the piece would go running on.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! the rogue! how he deceived me! Well, Æschylus, why are you so restless? Why this impatience, eh?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n'Tis because he sees himself beaten. Then when he had rambled on well, and got half-way through the piece, he would spout some dozen big, blustering, winged words, tall as mountains, terrible scarers, which the spectator admired without understanding what they meant.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! great gods!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nSilence!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nThere was no comprehending one word.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n[to Æschylus] Don't grind your teeth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nThere were Scamanders, abysses, griffins with eagles' beaks chiselled upon brazen bucklers, all words with frowning crests and hard, hard to understand.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n'Faith, I was kept awake almost an entire night, trying to think out his yellow bird, half cock and half horse.\n[Note 93: The Scholiast tells us that this expression (ἱππαλεκτρύων) was used in The Myrmidons of Aeschylus; Aristophanes ridicules it again both in the Peace and in The Birds.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nWhy, fool, 'tis a device that is painted on the prow of a vessel.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAh! I actually thought 'twas Eryxis, the son of Philoxenus.\n[Note 94: An individual apparently noted for his uncouth ugliness.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nBut what did you want with a cock in tragedy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nBut you, you foe of the gods, what have you done that is so good?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nOh! I have not made horses with cocks' heads like you, nor goats with deer's horns, as you may see 'em on Persian tapestries; but, when I received tragedy from your hands, it was quite bloated with enormous, ponderous words, and I began by lightening it of its heavy baggage and treated it with little verses, with subtle arguments, with the sap of white beet and decoctions of philosophical folly, the whole being well filtered together; then I fed it with monologues, mixing in some Cephisophon; but I did not chatter at random nor mix in any ingredients that first came to hand; from the outset I made my subject clear, and told the origin of the piece.\n[Note 95: The beet and the decoctions are intended to indicate the insipidity of Euripides' style.]\n[Note 96: An intimate friend of Euripides, who is said to have worked with him on his Tragedies, to have been 'ghost' to him in fact.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nWell, that was better than telling your own.\n[Note 97: An allusion to Euripides' obscure birth; his mother had been, so it was said, a vegetable-seller in the public market.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nThen, starting with the very first verse, each character played his part; all spoke, both woman and slave and master, young girl and old hag.\n[Note 98: Euripides had introduced every variety of character into his pieces, whereas Aeschylus only staged divinities or heroes.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nAnd was not such daring deserving of death?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nNo, by Apollo! 'twas to please the people.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! leave that alone, do; 'tis not the best side of your case.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nFurthermore, I taught the spectators the art of speech ...",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n'Tis true indeed! Would that you had burst before you did it!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n... the use of the straight lines and of the corners of language, the science of thinking, of reading, of understanding, plotting, loving deceit, of suspecting evil, of thinking of everything....",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nOh! true, true again!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nI introduced our private life upon the stage, our common habits; and 'twas bold of me, for everyone was at home with these and could be my critic; I did not burst out into big noisy words to prevent their comprehension; nor did I terrify the audience by showing them Cycni and Memnons on chariots harnessed with steeds and jingling bells. Look at his disciples and look at mine. His are Phormisius and Megænetus of Magnesia, all a-bristle with long beards, spears and trumpets, and grinning with sardonic and ferocious laughter, while my disciples are Clitophon and the graceful Theramenes.\n[Note 99: There are two Cycni, one, the son of Ares, was killed by Heracles according to the testimony of Hesiod in his description of the \"Shield of Heracles\"; the other, the son of Posidon, who, according to Pindar, perished under the blows of Achilles. It is not known in which Tragedy of Aeschylus this character was introduced.]\n[Note 100: Memnon, the son of Aurora, was killed by Achilles; in the list of the Tragedies of Aeschylus there is one entitled Memnon.]\n[Note 101: These two were not poets, but Euripides supposes them disciples of Aeschylus, because of their rude and antiquated manners.]\n[Note 102: Clitophon and Theramenes were elegants of effeminate habits and adept talkers.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nTheramenes? An able man and ready for anything; a man, who in imminent dangers knew well how to get out of the scrape by saying he was from Chios and not from Ceos.\n[Note 103: A proverb which was applied to versatile people; the two Greek names Chios (Χῖος) and Ceos (Κεῖος), might easily be mistaken for one another. Both, of course, are islands of the Cyclades.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n'Tis thus that I taught my audience how to judge, namely, by introducing the art of reasoning and considering into tragedy. Thanks to me, they understand everything, discern all things, conduct their households better and ask themselves, \"What is to be thought of this? Where is that? Who has taken the other thing?\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nYes, certainly, and now every Athenian who returns home, bawls to his slaves, \"Where is the stew-pot? Who has eaten off the sprat's head? Where is the clove of garlic that was left over from yesterday? Who has been nibbling at my olives?\" Whereas formerly they kept their seats with mouths agape like fools and idiots.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nYou hear him, illustrious Achilles, and what are you going to reply? Only take care that your rage does not lead you astray, for he has handled you brutally. My noble friend, don't get carried away; furl all your sails, except the top-gallants, so that your ship may only advance slowly, until you feel yourself driven forward by a soft and favourable wind. Come then, you who were the first of the Greeks to construct imposing monuments of words and to raise the old tragedy above childish trifling, open a free course to the torrent of your words.\n[Note 104: A verse from the Myrmidons of Aeschylus; here Achilles is Aeschylus himself.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nThis contest rouses my gall; my heart is boiling over with wrath. Am I bound to dispute with this fellow? But I will not let him think me unarmed and helpless. So, answer me! what is it in a poet one admires?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nWise counsels, which make the citizens better.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nAnd if you have failed in this duty, if out of honest and pure-minded men you have made rogues, what punishment do you think is your meet?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nDeath. I will reply for him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nBehold then what great and brave men I bequeathed to him! They did not shirk the public burdens; they were not idlers, rogues and cheats, as they are to-day; their very breath was spears, pikes, helmets with white crests, breastplates and greaves; they were gallant souls encased in seven folds of ox-leather.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nI must beware! he will crush me beneath the sheer weight of his hail of armour.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd how did you teach them this bravery? Speak, Æschylus, and don't display so much haughty swagger.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nBy composing a drama full of the spirit of Ares.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhich one?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nThe Seven Chiefs before Thebes. Every man who had once seen it longed to be marching to battle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd you did very wrongly; through you the Thebans have become more warlike; for this misdeed you deserve to be well beaten.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nYou too might have trained yourself, but you were not willing. Then, by producing The Persæ, I have taught you to conquer all your enemies; 'twas my greatest work.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAye, I shook with joy at the announcement of the death of Darius; and the Chorus immediately clapped their hands and shouted, \"Triumph!\"\n[Note 105: The Persæ of Aeschylus (produced 472 B.C.) was received with transports of enthusiasm, reviving as it did memories of the glorious defeat of Xerxes at Salamis, where the poet had fought, only a few years before, 480 B.C.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nThose are the subjects that poets should use. Note how useful, even from remotest times, the poets of noble thought have been! Orpheus taught us the mystic rites and the horrid nature of murder; Musæus, the healing of ailments and the oracles; Hesiod, the tilling of the soil and the times for delving and harvest. And does not divine Homer owe his immortal glory to his noble teachings? Is it not he who taught the warlike virtues, the art of fighting and of carrying arms?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAt all events he has not taught it to Pantacles, the most awkward of all men; t'other day, when he was directing a procession, 'twas only after he had put on his helmet that he thought of fixing in the crest.\n[Note 106: Nothing is known of this Pantacles, whom Eupolis, in his 'Golden Age,' also describes as awkward (σκαίος).]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nBut he has taught a crowd of brave warriors, such as Lamachus, the hero of Athens. 'Tis from Homer that I borrowed the Patrocli and the lion-hearted Teucers, whom I revived to the citizens, to incite them to show themselves worthy of these illustrious examples when the trumpets sounded. But I showed them neither Sthenoboea nor shameless Phædra; and I don't remember ever having placed an amorous woman on the stage.\n[Note 107: Aristophanes had by this time modified his opinion of this general, whom he had so flouted in The Acharnians.]\n[Note 108: Son of Telamon, the King of Salamis and brother of Ajax.]\n[Note 109: The wife of Proetus, King of Argos. Bellerophon, who had sought refuge at the court of this king after the accidental murder of his brother Bellerus, had disdained her amorous overtures. Therefore she denounced him to her husband as having wanted to attempt her virtue and urged him to cause his death. She killed herself immediately after the departure of the young hero.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nNo, no, you have never known Aphrodité.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nAnd I am proud of it. Whereas with you and those like you, she appears everywhere and in every shape; so that even you yourself were ruined and undone by her.\n[Note 110: Cephisophon, Euripides' friend, is said to have seduced his wife.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThat's true; the crimes you imputed to the wives of others, you suffered from in turn.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nBut, cursed man, what harm have my Sthenoboeas done to Athens?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nYou are the cause of honest wives of honest citizens drinking hemlock, so greatly have your Bellerophons made them blush.\n[Note 111: Meaning, they have imitated Sthenoboea in everything; like her, they have conceived adulterous passions and, again like her, they have poisoned themselves.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nWhy, did I invent the story of Phædra?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nNo, the story is true enough; but the poet should hide what is vile and not produce nor represent it on the stage. The schoolmaster teaches little children and the poet men of riper age. We must only display what is good.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nAnd when you talk to us of towering mountains—Lycabettus and of the frowning Parnes—is that teaching us what is good? Why not use human language?\n[Note 112: Lycabettus, a mountain of Attica, just outside the walls of Athens, the \"Arthur's Seat\" of the city. Parnassus, the famous mountain of Phocis, the seat of the temple and oracle of Delphi and the home of the Muses. The whole passage is, of course, in parody of the grandiloquent style of Aeschylus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nWhy, miserable man, the expression must always rise to the height of great maxims and of noble thoughts. Thus as the garment of the demi-gods is more magnificent, so also is their language more sublime. I ennobled the stage, while you have degraded it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nAnd how so, pray?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nFirstly you have dressed the kings in rags, so that they might inspire pity.\n[Note 113: An allusion to Œneus, King of Aetolia, and to Telephus, King of Mysia; characters put upon the stage by Euripides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nWhere's the harm?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nYou are the cause why no rich man will now equip the galleys, they dress themselves in tatters, groan and say they are poor.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAye, by Demeter! and he wears a tunic of fine wool underneath; and when he has deceived us with his lies, he may be seen turning up on the fish-market.\n[Note 114: It was only the rich Athenians who could afford fresh fish, because of their high price; we know how highly the gourmands prized the eels from the Copaic lake.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nMoreover, you have taught boasting and quibbling; the wrestling schools are deserted and the young fellows have submitted their arses to outrage, in order that they might learn to reel off idle chatter, and the sailors have dared to bandy words with their officers. In my day they only knew how to ask for their ship's-biscuit and to shout \"Yo ho! heave ho!\"\n[Note 115: If Aristophanes is to be believed, the orators were of depraved habits, and exacted infamous complaisances as payment for their lessons in rhetoric.]\n[Note 116: Aristophanes attributes the general dissoluteness to the influence of Euripides; he suggests that the subtlety of his poetry, by sharpening the wits of the vulgar and even of the coarsest, has instigated them to insubordination.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n... and to let wind under the nose of the rower below them, to befoul their mate with filth and to steal when they went ashore. Nowadays they argue instead of rowing and the ship can travel as slow as she likes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nOf what crimes is he not the author? Has he not shown us procurers, women who get delivered in the temples, have traffic with their brothers, and say that life is not life. 'Tis thanks to him that our city is full of scribes and buffoons, veritable apes, whose grimaces are incessantly deceiving the people; but there is no one left who knows how to carry a torch, so little is it practised.\n[Note 117: Augé, who was seduced by Heracles, was delivered in the temple of Athené (Scholiast); it is unknown in what piece this fact is mentioned.—Macareus violates his sister Canacé in the Aeolus.]\n[Note 118: i.e. they busy themselves with philosophic subtleties. This line is taken from The Phryxus, of which some fragments have come down to us.]\n[Note 119: In the torch-race the victor was the runner who attained the goal first without having allowed his torch to go out. This race was a very ancient institution. Aristophanes means to say that the old habits had fallen into disuse.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI' faith, that's true! I almost died of laughter at the last Panathenæa at seeing a slow, fat, pale-faced fellow, who ran well behind all the rest, bent completely double and evidently in horrible pain. At the gate of the Ceramicus the spectators started beating his belly, sides, flanks and thighs; these slaps knocked so much wind out of him that it extinguished his torch and he hurried away.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\n'Tis a serious issue and an important debate; the fight is proceeding hotly and its decision will be difficult; for, as violently as the one attacks, as cleverly and as subtly does the other reply. But don't keep always to the same ground; you are not at the end of your specious artifices. Make use of every trick you have, no matter whether it be old or new! Out with everything boldly, blunt though it be; risk anything—that is smart and to the point. Perchance you fear that the audience is too stupid to grasp your subtleties, but be reassured, for that is no longer the case. They are all well-trained folk; each has his book, from which he learns the art of quibbling; such wits as they are happily endowed with have been rendered still keener through study. So have no fear! Attack everything, for you face an enlightened audience.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nLet's take your prologues; 'tis the beginnings of this able poet's tragedies that I wish to examine at the outset. He was obscure in the description of his subjects.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd which prologue are you going to examine?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nA lot of them. Give me first of all that of the Orestes.\n[Note 120: A tetralogy composed of three tragedies, the Agamemnon, the Choëphoræ, the Eumenides, together with a satirical drama, the Proteus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAll keep silent, Æschylus, recite.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n\"Oh! Hermes of the nether world, whose watchful power executes the paternal bidding, be my deliverer, assist me, I pray thee. I come, I return to this land.\"\n[Note 121: This is the opening of the Choëphoræ. Aeschylus puts the words in the mouth of Orestes, who is returning to his native land and visiting his father's tomb.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nIs there a single word to condemn in that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nMore than a dozen.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nBut there are but three verses in all.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nAnd there are twenty faults in each.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nÆschylus, I beg you to keep silent; otherwise, besides these three iambics, there will be many more attacked.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nWhat? Keep silent before this fellow?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nIf you will take my advice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nHe begins with a fearful blunder. Do you see the stupid thing?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nFaith! I don't care if I don't.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nA blunder? In what way?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nRepeat the first verse.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n\"Oh! Hermes of the nether world, whose watchful power executes the paternal bidding.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nIs not Orestes speaking in this fashion before his father's tomb?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nAgreed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nDoes he mean to say that Hermes had watched, only that Agamemnon should perish at the hands of a woman and be the victim of a criminal intrigue?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n'Tis not to the god of trickery, but to Hermes the benevolent, that he gives the name of god of the nether world, and this he proves by adding that Hermes is accomplishing the mission given him by his father.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nThe blunder is even worse than I had thought to make it out; for if he holds his office in the nether world from his father....",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nIt means his father has made him a grave-digger.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nDionysus, your wine is not redolent of perfume.\n[Note 122: i.e. your jokes are very coarse.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nContinue, Æschylus, and you, Euripides, spy out the faults as he proceeds.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n\"Be my deliverer, assist me, I pray thee. I come, I return to this land.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nOur clever Æschylus says the very same thing twice over.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nHow twice over?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nExamine your expressions, for I am going to show you the repetition. \"I come, I return to this land.\" But I come is the same thing as I return.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nUndoubtedly. 'Tis as though I said to my neighbour, \"Lend me either your kneading-trough or your trough to knead in.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nNo, you babbler, no, 'tis not the same thing, and the verse is excellent.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nIndeed! then prove it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nTo come is the act of a citizen who has suffered no misfortune; but the exile both comes and returns.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nExcellent! by Apollo! What do you say to that, Euripides?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nI say that Orestes did not return to his country, for he came there secretly, without the consent of those in power.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nVery good indeed! by Hermes! only I have not a notion what it is you mean.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nGo on.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome, be quick, Æschylus, continue; and you look out for the faults.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n\"At the foot of this tomb I invoke my father and beseech him to hearken to me and to hear.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nAgain a repetition, to hearken and to hear are obviously the same thing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhy, wretched man, he's addressing the dead, whom to call thrice even is not sufficient.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nAnd you, how do you form your prologues?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nI am going to tell you, and if you find a repetition, an idle word or inappropriate, let me be scouted!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome, speak; 'tis my turn to listen. Let us hear the beauty of your prologues,",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"Oedipus was a fortunate man at first ...\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nNot at all; he was destined to misfortune before he even existed, since Apollo predicted he would kill his father before ever he was born. How can one say he was fortunate at first?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"... and he became the most unfortunate of mortals afterwards.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nNo, he did not become so, for he never ceased being so. Look at the facts! First of all, when scarcely born, he is exposed in the middle of winter in an earthenware vessel, for fear he might become the murderer of his father, if brought up; then he came to Polybus with his feet swollen; furthermore, while young, he marries an old woman, who is also his mother, and finally he blinds himself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n'Faith! I think he could not have done worse to have been a colleague of Erasinidas.\n[Note 123: He was one of the Athenian generals in command at Arginusæ; he and his colleagues were condemned to death for not having given burial to the men who fell in that naval fight.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nYou can chatter as you will, my prologues are very fine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nI will take care not to carp at them verse by verse and word for word; but, and it please the gods, a simple little bottle will suffice me for withering every one of your prologues.\n[Note 124: As Euripides had done to those of Aeschylus; that sort of criticism was too low for him.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nYou will wither my prologues with a little bottle?\n[Note 125: Ληκύθιον ἀπωλεσα, oleum perdidi,\"I have lost my labour\", was a proverbial expression, which was also possibly the refrain of some song. Aeschylus means to say that all Euripides' phrases are cast in the same mould, and that his style is so poor and insipid that one can adapt to it any foolery one wishes; as for the phrase he adds to every one of the phrases his rival recites, he chooses it to insinuate that the work of Euripides is labour lost, and that he would have done just as well not to meddle with tragedy. The joke is mediocre at its best and is kept up far too long.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nWith only one. You make verses of such a kind, that one can adapt what one will to your iambics: a little bit of fluff, a little bottle, a little bag. I am going to prove it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nYou will prove it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nYes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome, recite.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"Ægyptus, according to the most widely spread reports, having landed at Argos with his fifty daughters ...\"\n[Note 126: Prologue of the Archelaus of Euripides, a tragedy now lost.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n... lost his little bottle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nWhat little bottle? May the plague seize you!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nRecite another prologue to him. We shall see.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"Dionysus, who leads the choral dance on Parnassus with the thyrsus in his hand and clothed in skins of fawns ...\"\n[Note 127: From prologue of the Hypsipilé of Euripides, a play now lost.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n... lost his little bottle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThere again his little bottle upsets us.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nHe won't bother us much longer. I have a certain prologue to which he cannot adapt his tag: \"There is no perfect happiness; this one is of noble origin, but poor; another of humble birth ...\"\n[Note 128: From prologue of the Sthenobœa of Euripides, a play now lost.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n... lost his little bottle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nEuripides!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nWhat's the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nClue up your sails, for this damned little bottle is going to blow a gale.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nLittle I care, by Demeter! I am going to make it burst in his hands.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThen out with it; recite another prologue, but beware, beware of the little bottle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"Cadmus, the son of Agenor, while leaving the city of Sidon ...\"\n[Note 129: From prologue of the Phryxus of Euripides, a play now lost.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n... lost his little bottle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! my poor friend; buy that bottle, do, for it is going to tear all your prologues to ribbons.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nWhat? Am I to buy it of him?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nIf you take my advice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nNo, not I, for I have many prologues to which he cannot possibly fit his catchword: \"Pelops, the son of Tantalus, having started for Pisa on his swift chariot ...\"\n[Note 130: From prologue of the Iphigeneia in Tauris of Euripides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n... lost his little bottle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nD'ye see? Again he has popped in his little bottle. Come, Æschylus, he is going to buy it of you at any price, and you can have a splendid one for an obolus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nBy Zeus, no, not yet! I have plenty of other prologues. \"Œneus in the fields one day ...\"\n[Note 131: Prologue of The Meleager by Euripides, lost.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n... lost his little bottle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nLet me first finish the opening verse: \"Œneus in the fields one day, having made an abundant harvest and sacrificed the first-fruits to the gods ...\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n... lost his little bottle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nDuring the sacrifice? And who was the thief?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nAllow him to try with this one: \"Zeus, as even Truth has said ...\"\n[Note 132: Prologue of The Menalippé Sapiens by Euripides, lost.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n[to Euripides] You have lost again; he is going to say, \"lost his little bottle,\" for that bottle sticks to your prologues like a ringworm. But, in the name of the gods, turn now to his choruses.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nI will prove that he knows nothing of lyric poetry, and that he repeats himself incessantly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nWhat's he going to say now? I am itching to know what criticisms he is going to make on the poet, whose sublime songs so far outclass those of his contemporaries. I cannot imagine with what he is going to reproach the king of the Dionysia, and I tremble for the aggressor.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nOh! those wonderful songs! But watch carefully, for I am going to condense them all into a single one.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd I am going to take pebbles to count the fragments.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"Oh, Achilles, King of Phthiotis, hearken to the shout of the conquering foe and haste to sustain the assault. We dwellers in the marshes do honour to Hermes, the author of our race. Haste to sustain the assault.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThere, Æschylus, you have already two assaults against you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"Oh, son of Atreus, the most illustrious of the Greeks, thou, who rulest so many nations, hearken to me. Haste to the assault.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nA third assault. Beware, Æschylus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"Keep silent, for the inspired priestesses are opening the temple of Artemis. Haste to sustain the assault. I have the right to proclaim that our warriors are leaving under propitious auspices. Haste to sustain the assault.\"\n[Note 133: The whole of these fragments are quoted at random and have no meaning. Euripides, no doubt, wants to show that the choruses of Aeschylus are void of interest or coherence. As to the refrain, \"haste to sustain the assault,\" Euripides possibly wants to insinuate that Aeschylus incessantly repeats himself and that a wearying monotony pervades his choruses. However, all these criticisms are in the main devoid of foundation.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nGreat gods, what a number of assaults! my kidneys are quite swollen with fatigue; I shall have to go to the bath after all these assaults.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nNot before you have heard this other song arranged for the music of the cithara.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome then, continue; but, prithee, no more \"assaults.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"What! the two powerful monarchs, who reign over the Grecian youth, phlattothrattophlattothrat, are sending the Sphinx, that terrible harbinger of death, phlattothrattophlattothrat. With his avenging arm bearing a spear, phlattothrattophlattothrat, the impetuous bird delivers those who lean to the side of Ajax, phlattothrattophlattothrat, to the dogs who roam in the clouds, phlattothrattophlattothrat.\"\n[Note 134: This ridiculous couplet pretends to imitate the redundancy and nonsensicality of Aeschylus' language; it can be seen how superficial and unfair the criticism of Euripides is; probably this is just what Aristophanes wanted to convey by this long and wearisome scene.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n[to Æschylus] What is this phlattothrat? Does it come from Marathon or have you picked it out of some labourer's chanty?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nI took what was good and improved it still more, so that I might not be accused of gathering the same flowers as Phrynichus in the meadow of the Muse. But this man borrows from everybody, from the suggestions of prostitutes, from the sons of Melitus, from the Carian flute-music, from wailing women, from dancing-girls. I am going to prove it, so let a lyre be brought. But what need of a lyre in his case? Where is the girl with the castanets? Come, thou Muse of Euripides; 'tis quite thy business to accompany songs of this sort.\n[Note 135: The Scholiast conjectures this Melitus to be the same individual who later accused Socrates.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThis Muse has surely done fellation in her day, like a Lesbian wanton.\n[Note 136: The most infamous practices were attributed to the Lesbian women, amongst others, that of fellation, that is the vile trick of taking a man's penis in the mouth, to give him gratification by sucking and licking it with the tongue. Dionysus means to say that Euripides takes pleasure in describing shameful passions.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n\"Ye halcyons, who twitter over the ever-flowing billows of the sea, the damp dew of the waves glistens on your wings; and you spiders, who we-we-we-we-we-weave the long woofs of your webs in the corners of our houses with your nimble feet like the noisy shuttle, there where the dolphin by bounding in the billows, under the influence of the flute, predicts a favourable voyage; thou glorious ornaments of the vine, the slender tendrils that support the grape. Child, throw thine arms about my neck.\" Do you note the harmonious rhythm?\n[Note 137: Here the criticism only concerns the rhythm and not either the meaning or the style. This passage was sung to one of the airs that Euripides had adopted for his choruses and which have not come down to us; we are therefore absolutely without any data that would enable us to understand and judge a criticism of this kind.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nYes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nDo you note it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nYes, undoubtedly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nAnd does the author of such rubbish dare to criticize my songs? he, who imitates the twelve postures of Cyrené in his poetry? There you have his lyric melodies, but I still want to give you a sample of his monologues. \"Oh! dark shadows of the night! what horrible dream are you sending me from the depths of your sombre abysses! Oh! dream, thou bondsman of Pluto, thou inanimate soul, child of the dark night, thou dread phantom in long black garments, how bloodthirsty, bloodthirsty is thy glance! how sharp are thy claws! Handmaidens, kindle the lamp, draw up the dew of the rivers in your vases and make the water hot; I wish to purify myself of this dream sent me by the gods. Oh! king of the ocean, that's right, that's right! Oh! my comrades, behold this wonder. Glycé has robbed me of my cock and has fled. Oh, Nymphs of the mountains! oh! Mania! seize her! How unhappy I am! I was full busy with my work, I was sp-sp-sp-sp-spinning the flax that was on my spindle, I was rounding off the clew that I was to go and sell in the market at dawn; and he flew off, flew off, cleaving the air with his swift wings; he left to me nothing but pain, pain! What tears, tears, poured, poured from my unfortunate eyes! Oh! Cretans, children of Ida, take your bows; help me, haste hither, surround the house. And thou, divine huntress, beautiful Artemis, come with thy hounds and search through the house. And thou also, daughter of Zeus, seize the torches in thy ready hands and go before me to Glycé's home, for I propose to go there and rummage everywhere.\"\n[Note 138: A celebrated courtesan, who was skilled in twelve different postures of Venus. Aeschylus returns to his idea, which he has so often indicated, that Euripides' poetry is low and impure; he at the same time scoffs at the artifices to which Euripides had recourse when inspiration and animation failed him.]\n[Note 139: No monologue of Euripides that has been preserved bears the faintest resemblance to this specimen which. Aeschylus pretends to be giving here.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThat's enough of choruses.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nYes, faith, enough indeed! I wish now to see my verses weighed in the scales; 'tis the only way to end this poetic struggle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWell then, come, I am going to sell the poet's genius the same way cheese is sold in the market.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nTruly clever men are possessed of an inventive mind. Here again is a new idea that is marvellous and strange, and which another would not have thought of; as for myself I would not have believed anyone who had told me of it, I would have treated him as a driveller.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCome, hither to the scales.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus and Euripides\nHere we are.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nLet each one hold one of the scales, recite a verse, and not let go until I have cried, \"Cuckoo!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus and Euripides\nWe understand.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWell then, recite and keep your hands on the scales.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"Would it had pleased the gods that the vessel Argo had never unfurled the wings of her sails!\"\n[Note 140: Beginning of Euripides' Medea.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n\"Oh! river Sperchius! oh! meadows, where the oxen graze!\"\n[Note 141: Fragment from Aeschylus Philoctetes. The Sperchius is a river in Thessaly, which has its source in the Pindus range and its mouth in the Maliac gulf.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nCuckoo! let go! Oh! the verse of Æschylus sinks far the lower of the two.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nAnd why?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nBecause, like the wool-merchants, who moisten their wares, he has thrown a river into his verse and has made it quite wet, whereas yours was winged and flew away.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nCome, another verse! You recite, Æschylus, and you, weigh.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nHold the scales again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus and Euripides\nReady.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n[to Euripides] You begin.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"Eloquence is Persuasion's only sanctuary.\"\n[Note 142: A verse from Euripides' Antigoné. Its meaning is, that it is better to speak well than to speak the truth, if you want to persuade.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n\"Death is the only god whom gifts cannot bribe.\"\n[Note 143: From the Niobé, a lost play, of Aeschylus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nLet go! let go! Here again our friend Æschylus' verse drags down the scale; 'tis because he has thrown in Death, the weightiest of all ills.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nAnd I Persuasion; my verse is excellent.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nPersuasion has both little weight and little sense. But hunt again for a big weighty verse and solid withal, that it may assure you the victory.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nBut where am I to find one—where?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI'll tell you one: \"Achilles has thrown two and four.\" Come, recite! 'tis the last trial.\n[Note 144: From the Telephus of Euripides, in which he introduces Achilles playing at dice. This line was also ridiculed by Eupolis.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n\"With his arm he seized a mace, studded with iron.\"\n[Note 145: From Euripides' Meleager. All these plays, with the one exception of the Medea, are lost.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n\"Chariot upon chariot and corpse upon corpse.\"\n[Note 146: From the Glaucus Potniensis, a lost play of Aeschylus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n[to Euripides] There you're foiled again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nWhy?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThere are two chariots and two corpses in the verse; why, 'tis a weight a hundred Egyptians could not lift.\n[Note 147: i.e. one hundred porters, either because many of the Athenian porters were Egyptians, or as an allusion to the Pyramids and other great works, which had habituated them to carrying heavy burdens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\n'Tis no longer verse against verse that I wish to weigh, but let him clamber into the scale himself, he, his children, his wife, Cephisophon and all his works; against all these I will place but two of my verses on the other side.\n[Note 148: Euripides' friend and collaborator.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI will not be their umpire, for they are dear to me and I will not have a foe in either of them; meseems the one is mighty clever, while the other simply delights me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Pluto\nThen you are foiled in the object of your voyage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nAnd if I do decide?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Pluto\nYou shall take with you whichever of the twain you declare the victor; thus you will not have come in vain.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThat's all right! Well then, listen; I have come down to find a poet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nAnd with what intent?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nSo that the city, when once it has escaped the imminent dangers of the war, may have tragedies produced. I have resolved to take back whichever of the two is prepared to give good advice to the citizens. So first of all, what think you of Alcibiades? For the city is in most difficult labour over this question.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nAnd what does it think about it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat does it think? It regrets him, hates him, and yet wishes to have him, all at the same time. But tell me your opinion, both of you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nI hate the citizen who is slow to serve his country, quick to involve it in the greatest troubles, ever alert to his own interests, and a bungler where those of the State are at stake.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThat's good, by Posidon! And you, what is your opinion?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nA lion's whelp should not be reared within the city. No doubt that's best; but if the lion has been reared, one must submit to his ways.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nZeus, the Deliverer! this puzzles me greatly. The one is clever, the other clear and precise. Now each of you tell me your idea of the best way to save the State.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nIf Cinesias were fitted to Cleocritus as a pair of wings, and the wind were to carry the two of them across the waves of the sea ...",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n'Twould be funny. But what is he driving at?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\n... they could throw vinegar into the eyes of the foe in the event of a sea-fight. But I know something else I want to tell you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nGo on.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nWhen we put trust in what we mistrust and mistrust what we trust....",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat? I don't understand. Tell us something less profound, but clearer.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nIf we were to mistrust the citizens, whom we trust, and to employ those whom we to-day neglect, we should be saved. Nothing succeeds with us; very well then, let's do the opposite thing, and our deliverance will be assured.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nVery well spoken. You are the most ingenious of men, a true Palamedes! Is this fine idea your own or is it Cephisophon's?\n[Note 149: The invention of weights and measures, of dice, and of the game of chess are attributed to him, also that of four additional letters of the alphabet.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nMy very own,—bar the vinegar, which is Cephisophon's.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n[to Æschylus] And you, what have you to say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nTell me first who the commonwealth employs. Are they the just?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nOh! she holds them in abhorrence.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nWhat, are then the wicked those she loves?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nNot at all, but she employs them against her will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nThen what deliverance can there be for a city that will neither have cape nor cloak?\n[Note 150: i.e. that cannot decide for either party.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nDiscover, I adjure you, discover a way to save her from shipwreck.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nI will tell you the way on earth, but I won't here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nNo, send her this blessing from here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nThey will be saved when they have learnt that the land of the foe is theirs and their own land belongs to the foe; that their vessels are their true wealth, the only one upon which they can rely.\n[Note 151: i.e. that a country can always be invaded and that the fleet alone is a safe refuge. This is the same advice as that given by Pericles, and which Thucydides expresses thus, \"Let your country be devastated, or even devastate it yourself, and set sail for Laconia with your fleet.\"]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nThat's true, but the dicasts devour everything.\n[Note 152: An allusion to the fees of the dicasts, or jurymen; we have already seen that at this period it was two obols, and later three.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Pluto\n[to Dionysus] Now decide.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n'Tis for you to decide, but I choose him whom my heart prefers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nYou called the gods to witness that you would bear me through; remember your oath and choose your friends.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nYes, \"my tongue has sworn.\" ... But I choose Æschylus.\n[Note 153: A half-line from Euripides' Hippolytus. The full line is: ἡ γλῶττ' ὀμώμοκ, ἡ δὲ φρὴν ἀνώμοτος, \"my tongue has taken an oath, but my mind is unsworn,\" a bit of casuistry which the critics were never tired of bringing up against the author.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nWhat have you done, you wretch?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nI? I have decided that Æschylus is the victor. What then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nAnd you dare to look me in the face after such a shameful deed?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n\"Why shameful, if the spectators do not think so?\"\n[Note 154: A verse from the Æolus of Euripides, but slightly altered. Euripides said, \"Why is it shameful, if the spectators, who enjoy it, do not think so?\"]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Euripides\nCruel wretch, will you leave me pitilessly among the dead?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\n\"Who knows if living be not dying, if breathing be not feasting, if sleep be not a fleece?\"\n[Note 155: A verse from the Phrixus of Euripides; what follows is a parody.]\n[Note 156: We have already seen Aeschylus pretending that it was possible to adapt any foolish expression one liked to the verses of Euripides: \"a little bottle, a little bag, a little fleece.\"]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Pluto\nEnter my halls. Come, Dionysus.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWhat shall we do there?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Pluto\nI want to entertain my guests before they leave.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Dionysus\nWell said, by Zeus; 'tis the very thing to please me best.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nBlessed the man who has perfected wisdom! Everything is happiness for him. Behold Æschylus; thanks to the talent, to the cleverness he has shown, he returns to his country; and his fellow-citizens, his relations, his friends will all hail his return with joy. Let us beware of jabbering with Socrates and of disdaining the sublime notes of the tragic Muse. To pass an idle life reeling off grandiloquent speeches and foolish quibbles, is the part of a madman.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Pluto\nFarewell, Æschylus! Go back to earth and may your noble precepts both save our city and cure the mad; there are such, a many of them! Carry this rope from me to Cleophon, this one to Myrmex and Nichomachus, the public receivers, and this other one to Archenomous. Bid them come here at once and without delay; if not, by Apollo, I will brand them with the hot iron. I will make one bundle of them and Adimantus, the son of Leucolophus, and despatch the lot into hell with all possible speed.\n[Note 157: Pluto speaks as though he were an Athenian himself.]\n[Note 158: That they should hang themselves. Cleophon is said to have been an influential alien resident who was opposed to concluding peace; Myrmex and Nicomachus were two officials guilty of peculation of public funds; Archenomus is unknown.]\n[Note 159: He would brand them as fugitive slaves, if, despite his orders, they refused to come down.]\n[Note 160: An Athenian admiral.]\n[Note 161: The real name of the father of Adimantus was Leucolophides, which Aristophanes jestingly turns into Leucolophus, i.e. White Crest.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Æschylus\nI will do your bidding, and do you make Sophocles occupy my seat. Let him take and keep it for me, against I should ever return here. In fact I award him the second place among the tragic poets. As for this impostor, watch that he never usurps my throne, even should he be placed there in spite of himself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Pluto\n[to the Chorus of the Initiates] Escort him with your sacred torches, singing to him as you go his own hymns and choruses.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "Chorus\nYe deities of the nether world, grant a pleasant journey to the poet who is leaving us to return to the light of day; grant likewise wise and healthy thoughts to our city. Put an end to the fearful calamities that overwhelm us, to the awful clatter of arms. As for Cleophon and the likes of him, let them go, an it please them, and fight in their own land.\n[Note 162: i.e. in a foreign country; Cleophon, as we have just seen, was not an Athenian.]",
+          "ref": null
+        }
+      ]
+    }
+  ]
+}

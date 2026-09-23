@@ -1,0 +1,186 @@
+[
+  {
+    "where": "euripides-suppliants-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-suppliants-grc / dramatis-personae",
+    "note": "<add> included in reading text: \"Παῖδες\""
+  },
+  {
+    "where": "euripides-suppliants-grc / dramatis-personae",
+    "note": "<add> included in reading text: \"Ἀθήνα\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-42 / sp[Χορός]/l[n=45]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-suppliants-grc / card-54 / sp[Χορός]/l[n=58]",
+    "note": "<add> included in reading text: \"ʼγὼ\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-113 / sp[Ἄδραστος]/l[n=130]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-113 / sp[Ἄδραστος]/l[n=136]",
+    "note": "<add> included in reading text: \"γε\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-113 / sp[Θησεύς]/l[n=149]",
+    "note": "<add> included in reading text: \"τί\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-162 / sp[Ἄδραστος]/l[n=179a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-suppliants-grc / card-219 / sp[Χορός]/l[n=252]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀλλʼ ὡς ἰατρὸν τῶνδʼ, ἄναξ, ἀφίγμεθα.\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-253 / sp[Ἄδραστος]/l[n=253]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-253 / sp[Χορός]/l[n=262a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-suppliants-grc / card-271 / sp[Χορός]/l[n=275]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἰώ μοι· λάβετε φέρετε πέμπετε κρίνετε ταλαίνας χέρας γεραιάς.\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-271 / sp[Χορός]/l[n=276]",
+    "note": "<add> included in reading text: \"σε\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-271 / sp[Χορός]/l[n=280]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἱκέταν ἤ τινʼ\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-549 / sp[Κῆρυξ]/l[n=566]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"σέθεν\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-549 / sp[Θησεύς]/l[n=573]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"χἁτέρους ἄλλους πόνους\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-549 / sp[Κῆρυξ]/l[n=574]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-634 / sp[Ἄγγελος]/l[n=658]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-726 / sp[Ἄδραστος]/l[n=763a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-suppliants-grc / card-798 / sp[Χορός]/l[n=806b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-suppliants-grc / card-798 / sp[Ἄδραστος]/l[n=807]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-suppliants-grc / card-811 / sp[Ἄδραστος]/l[n=811]",
+    "note": "<add> included in reading text: \"τῶν\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-881 / sp[Ἄδραστος]/l[n=889]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"παῖς\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-881 / sp[Ἄδραστος]/l[n=902]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὐκ ἐν λόγοις ἦν λαμπρός, ἀλλʼ ἐν ἀσπίδι\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-881 / sp[Ἄδραστος]/l[n=903]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δεινὸς σοφιστής, πολλά τʼ ἐξευρεῖν σοφά.\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-881 / sp[Ἄδραστος]/l[n=904]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γνώμῃ δʼ ἀδελφοῦ Μελεάγρου λελειμμένος,\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-881 / sp[Ἄδραστος]/l[n=905]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἴσον παρέσχεν ὄνομα διὰ τέχνης δορός,\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-881 / sp[Ἄδραστος]/l[n=906]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"εὑρὼν ἀκριβῆ μουσικὴν ἐν ἀσπίδι·\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-925 / sp[Θησεύς]/l[n=934]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-suppliants-grc / card-963 / sp[Χορός]/l[n=969]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἀριθμουμένη\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-971 / sp[Χορός]/l[n=974a]",
+    "note": "<add> included in reading text: \"λοιβαί τε νεκύων φθιμένων,\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-990 / sp[Εὐάδνη]/l[n=993]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"λαμπάδʼ ἵνʼ ὠκυθόαι νύμφαι\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-990 / sp[Εὐάδνη]/l[n=995]",
+    "note": "<add> included in reading text: \"γάμων\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1012 / sp[Εὐάδνη]/l[n=1029]",
+    "note": "<add> included in reading text: \"ὅσιος\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1012 / sp[Εὐάδνη]/l[n=1030a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ψυχᾶς\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1072 / sp[Χορός]/l[n=1079]",
+    "note": "<add> included in reading text: \"καὶ\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1080 / sp[Ἶφις]/l[n=1089]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"εἰ δʼ ἐς τόδʼ ἦλθον κἀξεπειράθην τέκνων\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1080 / sp[Ἶφις]/l[n=1090]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"οἷον στέρεσθαι πατέρα γίγνεται τέκνων,\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1080 / sp[Ἶφις]/l[n=1091]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"οὐκ ἄν ποτʼ ἐς τόδʼ ἦλθον εἰς ὃ νῦν κακόν·\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1080 / sp[Ἶφις]/l[n=1101]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἥδιον\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1114 / sp[Χορός]/l[n=1114]",
+    "note": "<add> included in reading text: \"ἰώ·\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1114 / sp[Χορός]/l[n=1114a]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"καὶ δὴ\""
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1153 / sp[Παῖδες]/l[n=1153]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-suppliants-grc / card-1159 / sp[Χορός]/l[n=1160]",
+    "note": "<add> included in reading text: \"φίλαν\""
+  }
+]

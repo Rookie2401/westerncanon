@@ -1,0 +1,32 @@
+{
+  "workId": "politics-en",
+  "title": "Politics",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "William Ellis",
+  "edition": "A Treatise on Government (Everyman's Library, J. M. Dent & Sons, first issued 1912)",
+  "provenance": "Text: Project Gutenberg ebook #6762 (www.gutenberg.org/ebooks/6762), fetched directly and cached at scripts/import-politics-en/raw/pg6762.txt. William Ellis's translation of the Politics, first issued in this Everyman's Library edition in 1912 (reprinted 1919, 1923, 1928 per the Gutenberg edition's own title page); Ellis's translation itself dates from the 18th century (first published 1776) and was revised for this Everyman printing.",
+  "license": "Ellis's translation is in the public domain (first published 1776, revised for this 1912 printing; both the translator and this printing are long out of copyright). The Project Gutenberg transcription of it is also in the public domain in the United States; see gutenberg.org/ebooks/6762 for Project Gutenberg's own terms on redistributing their specific eBook file, which this importer respects by keeping the text itself rather than Gutenberg's licence header/footer.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is William Ellis's English translation of Aristotle's Politics, via Project Gutenberg ebook #6762 (the 1912 Everyman's Library printing, J. M. Dent & Sons / E. P. Dutton & Co.).",
+        "Navigation is by Book and Chapter (8 Books, 103 Chapters total), matching this source's own \"BOOK <roman>\" / \"CHAPTER <roman>\" headings.",
+        "A. D. Lindsay's signed \"Introduction\" essay and the bibliography that precede the translation proper in the printed edition are not included here - only Aristotle's text, in Ellis's translation."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Unlike some other English translations bundled in this library, this source DOES print inline Bekker page/column markers throughout its reading text (161 of them, including one transcription irregularity). Division.ref for each Chapter is reconstructed from them as \"Bekker <start>–<end>\", covering the Bekker range that chapter's printed text spans; Book Division.ref and every Passage.ref are null (no marker is printed at a finer grain than this). See anomalies.json for the one transcription irregularity found in these markers."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the complete machine-readable log: the Bekker-reference reconstruction method, one marker transcription irregularity (a stray capital \"I\" for the digit \"1\"), one preserved stray \"Ed.\" token mid-sentence in Book 1 Chapter I, and the excluded front/back matter (Introduction, bibliography, index). Nothing is fabricated, summarised, or silently corrected; every irregularity found by direct inspection of the source is disclosed here rather than papered over."
+      ]
+    }
+  ]
+}

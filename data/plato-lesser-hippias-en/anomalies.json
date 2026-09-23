@@ -1,0 +1,42 @@
+[
+  {
+    "where": "sec-365",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"The division into twenty-four books was made in Alexandrian times. Before that division was made (and even after) references were made to pa…\""
+  },
+  {
+    "where": "sec-365",
+    "note": "<del> excluded from the reading text: \"and pray do not mutter in discord sitting here beside me\""
+  },
+  {
+    "where": "sec-365",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 308 ff.\""
+  },
+  {
+    "where": "sec-370",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 9.312 ff.\""
+  },
+  {
+    "where": "sec-370",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 9.357 ff.\""
+  },
+  {
+    "where": "sec-370",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 1.169 ff.\""
+  },
+  {
+    "where": "sec-371",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Hom. Il. 9.360 ff.\""
+  },
+  {
+    "where": "sec-373",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"See 372.\""
+  },
+  {
+    "where": "plato-lesser-hippias-en / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-lesser-hippias-en / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

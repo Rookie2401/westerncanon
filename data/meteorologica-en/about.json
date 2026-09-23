@@ -1,0 +1,65 @@
+{
+  "workId": "meteorologica-en",
+  "title": "Meteorology",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "E. W. Webster",
+  "edition": "The Works of Aristotle, Vol. III (Oxford: Clarendon Press, 1923), ed. W. D. Ross",
+  "provenance": "The MIT Internet Classics Archive (classics.mit.edu/Aristotle/meteorology.html), fetched once (table-of-contents page plus all 4 book sub-pages) and committed to this repository under scripts/import-meteorologica-en/raw/; imported by scripts/import-meteorologica-en.",
+  "license": "Webster's 1923 translation is in the public domain (published well over 95 years ago). The MIT Internet Classics Archive's own HTML presentation is copyright (C) 1994-2009 Daniel C. Stevenson / Web Atomics per its site footer; only the public-domain translated text itself (not MIT's page design, navigation or any other site furniture) is reproduced here, consistent with the Archive's own stated permissions practice for this kind of non-commercial reuse of a public-domain text (see classics.mit.edu/Help/permissions.html).",
+  "sections": [
+    {
+      "heading": "Aristotle's Meteorology — English, trans. Webster",
+      "paragraphs": [
+        "This is Aristotle's Meteorology (Meteorologica) in the English translation made by E. W. Webster for the Oxford \"Works of Aristotle\" series (Vol. III, ed. W. D. Ross), first published 1923. Books I, III and IV, and almost all of Book II, are reproduced from the MIT Internet Classics Archive; the last sentence of Book II is completed from a public-domain archive.org scan of the same translation - see \"Text completeness\" below.",
+        "The text here is the translation, verbatim throughout, whichever of the two sources a given word comes from. Nothing is modernised, paraphrased or silently corrected in either source."
+      ]
+    },
+    {
+      "heading": "Translator verification",
+      "paragraphs": [
+        "Condition (a) of this import's verification requirement is met directly for the MIT text: every one of the 4 fetched MIT book pages carries the explicit on-page credit line \"Translated by E. W. Webster\" (confirmed by direct inspection of the raw HTML, e.g. scripts/import-meteorologica-en/raw/meteorology.1.i.html). For the archive.org supplement (Book II Chapter 9's last sentence), condition (a) is met two ways: the scan's own archive.org metadata credits \"Webster, Erwin Wentworth ... tr\" by name, and its text matches MIT's own surviving text verbatim at the overlap point - see \"Text completeness\" below."
+      ]
+    },
+    {
+      "heading": "Text completeness",
+      "paragraphs": [
+        "MIT's own live HTML page for Book II (meteorology.2.ii.html) ends mid-sentence, mid-tag, part-way through Part 9 (Book II's own final chapter): \"...in the clouds, when they are in a process of change and contract and condense into water, it is ejected and causes\" - the response simply stops there (a dangling unterminated `<A NAME=\"1110\"` tag follows, with no closing `>`), with no closing navigation footer at all. This was confirmed genuine on MIT's side (not a download error) via a direct HTTP fetch, whose received byte count exactly matches the server's own declared Content-Length header. The table-of-contents page itself advertises this sub-page's size as \"103k\", larger than the ~99KB the live server actually returns - consistent with this being a real, standing defect in MIT's own copy of the page.",
+        "This edition is nonetheless complete: the rest of that one sentence, and the chapter's own closing sentence (\"So much for thunder and lightning.\"), are supplied from a public-domain archive.org scan of the very same Webster translation (identifier meteorologica00aris, \"Meteorologica\", Oxford: Clarendon Press, 1923 - a separate issue of part of Vol. III of \"The Works of Aristotle\", per that scan's own metadata). The one printed page that contributes text (p. 370^a) was proof-read by eye against its own archive.org page image before transcription; no OCR errors were found on it.",
+        "Nothing is fabricated, summarised, or paraphrased in either source. Book II Chapter 9's Passage carries an `anomaly` field disclosing exactly where MIT's text ends and the archive.org text begins. See anomalies.json for the full account, including the exact last surviving MIT words. Books I, III and IV are complete from MIT alone, with no supplementing needed."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The work is divided into 4 Books and, within each Book, numbered chapters (MIT labels them \"Part N\"; rendered here as \"Chapter N\" per this library's standing terminology for Aristotle) - Book I has 14 chapters, Book II has 9, Book III has 6, Book IV has 12, matching the traditional Bekker book division."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is (i) the raw HTML of classics.mit.edu/Aristotle/meteorology.html (table of contents) and its 4 linked book sub-pages (meteorology.1.i.html ... meteorology.4.iv.html), fetched once via a direct HTTPS request and committed under scripts/import-meteorologica-en/raw/, and (ii) for the one sentence that MIT's own source lacks, a hand-transcribed plain-text file (scripts/import-meteorologica-en/raw/supplement-meteor-2-9-tail.txt) taken from the archive.org scan described under \"Text completeness\" above, carrying its own provenance header. Nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer locates each MIT book page's real content between its own `<A NAME=\"start\"></A>` and (where present) `<A NAME=\"end\"></A>` markers, splits it into chapters at each `<B>Part N</B>` heading, and splits each chapter into paragraphs at every `<BR><BR>` line-break pair. Only HTML transport scaffolding is removed: the invisible `<A NAME=\"n\">` deep-link anchors (no reference scheme - see below) and the paragraph/line-break markup itself; the words are otherwise untouched. Where Book II's MIT page genuinely runs out mid-tag, the importer strips only the dangling unterminated tag fragment, not any actual text. No entities or footnotes were found anywhere in the MIT source. The archive.org supplement file is then read, its own `#`-prefixed provenance header stripped, and joined onto MIT's own last (complete) word with a single space and no invented punctuation."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter only. Neither MIT's Internet Classics Archive nor the archive.org supplement text (as transcribed here) carries Bekker page/column/line markers in-line with the prose (confirmed by direct inspection of all 4 MIT book pages) - Division.ref is null throughout, for both Books and Chapters, and Passage.ref is null throughout as well. This is a genuine limitation of this specific digital presentation, not something this importer fabricates around."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "This edition is complete (Books I/III/IV and Book II all at their full chapter counts) - see \"Text completeness\" above for the full account of how Book II Chapter 9's last sentence was supplemented from archive.org, and anomalies.json for the complete machine-readable log.",
+        "No Bekker apparatus. See \"Reference scheme\" above.",
+        "No footnotes in the MIT-sourced text. None were found on the single archive.org page used for the supplement either."
+      ]
+    }
+  ]
+}

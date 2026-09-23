@@ -1,0 +1,5 @@
+# Source: MIT Internet Classics Archive, https://classics.mit.edu/Aristotle/history_anim.8.viii.html
+# MIT's own live copy of this page is truncated at the same cutoff point as the Wikisource transcription (confirmed by direct fetch, 2026-09-22); text below is taken instead from the Wayback Machine's year-2000 capture of the same MIT page, which IS complete (has both <A NAME="start"> and <A NAME="end"> markers and the closing navigation footer): http://web.archive.org/web/20000818225945/http://classics.mit.edu/Aristotle/history_anim.8.viii.html (fetched via Wayback 2026-09-22).
+# Whole chapter (Part 25), never carried by Wikisource's transcription of this book at all.
+
+The ass suffers chiefly from one particular disease which they call 'melis'. It arises first in the head, and a clammy humour runs down the nostrils, thick and red; if it stays in the head the animal may recover, but if it descends into the lungs the animal will die. Of all animals on its of its kind it is the least capable of enduring extreme cold, which circumstance will account for the fact that the animal is not found on the shores of the Euxine, nor in Scythia.

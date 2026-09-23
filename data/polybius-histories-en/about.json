@@ -1,0 +1,72 @@
+{
+  "workId": "polybius-histories-en",
+  "title": "The Histories",
+  "author": "Polybius",
+  "language": "en",
+  "translator": "Evelyn S. Shuckburgh",
+  "edition": "The Histories of Polybius, 2 vols., trans. Evelyn S. Shuckburgh (London/New York: Macmillan, 1889)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0543.tlg001.perseus-eng2), digitising Evelyn S. Shuckburgh's translation \"The Histories of Polybius\" (London/New York: Macmillan, 1889); imported by scripts/import-polybius-histories-en. The raw file is fetched once (cached at scripts/import-polybius-histories-en/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Shuckburgh's 1889 translation is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Polybius's Histories — English, trans. Shuckburgh",
+      "paragraphs": [
+        "This is the English translation of Polybius's Histories, narrating the rise of Rome to Mediterranean dominance from 264 to 146 BC, made by Evelyn S. Shuckburgh and first published by Macmillan in 1889. It stands alongside the Greek text (Büttner-Wobst, Teubner) already in this library as a facing English rendering.",
+        "The text here is the translation, verbatim. Nothing is further modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "IMPORTANT - this is a LARGE, mostly FRAGMENTARY work",
+      "paragraphs": [
+        "Of the 39 Books, only Books 1-5 survive complete. Books 6-39 survive only as excerpts and fragments; Book 17 is a total loss (see \"Known gaps & anomalies\" below).",
+        "This translation is parsed completely independently of the Greek sibling (data/polybius-histories-grc) - Shuckburgh's own division of the fragmentary books differs from Büttner-Wobst's Greek text throughout, sometimes substantially. Examples: Book 4 (87 Greek chapters vs. 86 here), Book 6 (61 vs. 57), Book 12 (52 vs. 48), Book 30 (32 vs. 24), Book 32 (16 vs. 28 - MORE here than in Greek), Book 36 (17 vs. 8), Book 37 (1 vs. 10 - far more here), Book 39 (8 vs. 18 - far more here). No attempt is made to reconcile, renumber or force either witness's chapters to align with the other's - each is this edition's own printed numbering, verbatim."
+      ]
+    },
+    {
+      "heading": "The \"Shorter Fragments\" appendix (a 40th top-level Division)",
+      "paragraphs": [
+        "This source XML carries a 40th division after Book 39, containing Shuckburgh's own appendix of 110 short but WHOLE, real fragments of his translation (17744 characters) - mostly belonging to Book 6 but not integrated into its numbered chapters, plus geographical fragments and others of uncertain reference. It is imported as its own top-level Division, `fragments` (sitting alongside, not nested inside, the 39 numbered Books), since it is not keyed 1:1 to any single Book's own chapter numbering.",
+        "Shuckburgh divided these fragments \"into two classes: (A) those which seem to have some distinct reference which can be recognised or guessed: (B) those which though fairly complete in themselves cannot be so classed\" - his own words, quoted from his prefatory note below. This app reconstructs his two classes as Group Divisions `fragments-a` (\"A: Fragments whose reference is known\", 30 chapters) and `fragments-b` (\"B: Fragments of uncertain reference\", 80 chapters, including several lettered insertions such as 39a/39b). A curiosity of THIS specific digital edition: the source XML's own attempt to encode these two classes as `<div2>` sub-divisions is entirely wrapped in an XML COMMENT, so it is not part of the live document tree at all - this app reconstructs the two groups from that dead comment's own label text and position (independently cross-checked against the real chapter sequence) rather than from live structure, since none exists.",
+        "Each fragment Chapter (e.g. `fragments-a-ch-1`) carries a sourceHeading such as \"I (6, 2)\": the Roman numeral is Shuckburgh's own running fragment number; the bracketed arabic number is Hultsch's Teubner fragment number - both stay visible to the reader this way, exactly as printed.",
+        "Shuckburgh's own prefatory paragraph for the whole appendix - his explanation of how he organised it, not a translation of Polybius - is excluded from the reading text (the `fragments` Division's sourceHeading is just the short title, \"Shorter Fragments\") but quoted here verbatim, in full: \"The first eight of these fragments belong to book 6, but as they do not fall in with what remains of the text, I have placed them here. I have divided these fragments into two classes: (A) those which seem to have some distinct reference which can be recognised or guessed: (B) those which though fairly complete in themselves cannot be so classed. A good many more, generally quoted by Suidas for the sake of some one word, did not seem worth putting in an English dress. The numbers in brackets are those of Hultsch’s text.\""
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Evelyn S. Shuckburgh, trans., The Histories of Polybius, 2 vols. (London/New York: Macmillan, 1889). This translation is in the public domain."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0543.tlg001.perseus-eng2.xml (CTS urn:cts:greekLit:tlg0543.tlg001.perseus-eng2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. Fetched once and bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book and chapter <div>s and collects every <p> paragraph within each chapter, in document order, into that chapter's single Passage (joined with a blank line when a chapter has more than one paragraph). Shuckburgh's extensive footnote apparatus (<note>, 2514 top-level spans across the 39 numbered Books - historical commentary, cross-references, marginal date and consul-year glosses) is excluded entirely; page-break markers (<pb/>, to his 1889 print pagination) are dropped. Purely semantic wrapper tags occurring directly in the translated prose (<placeName>, <date>, <foreign>, <q>, <quote>, <bibl>, <title>, <term>, <label>, and similar) are unwrapped, their text flowing into the surrounding prose unchanged. XML comments (3, all inside the appendix) are stripped before parsing. Entities are decoded and runs of whitespace collapsed; the words themselves are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter number, matching this edition's own numbering - which, per the IMPORTANT note above, does not always match the Greek sibling's. This source carries no finer, page-marker-style citation scheme usable by this schema, so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 39 Books are present. Only Books 1-5 are textually complete; every other book is excerpted or fragmentary to some degree, independently of (and not always matching) the Greek sibling's own excerpting - see \"IMPORTANT\" above for specific examples.",
+        "Book 17 is a total loss. This witness's sole content for it is Shuckburgh's own editorial paragraph explaining what the lost book would have covered (citing Livy, 31.34-43 and 32.9-18) - not a translation of any surviving Polybius text - so it is excluded from the reading text. book-17 carries zero Chapters, matching the Greek sibling's own total loss for this book.",
+        "Book-opening bridging summaries. 14 paragraph(s) total appear directly under a Book's own div, before its Chapter 1 (e.g. Book 15) - Shuckburgh's own prose narrating continuity across a gap in the surviving text, not a translation of Polybius. Excluded from the reading text for the same reason as Book 17's loss-explanation paragraph; every occurrence is individually logged in anomalies.json by book.",
+        "The \"Shorter Fragments\" appendix (110 chapters, 17744 chars) IS imported, as a 40th top-level Division `fragments` - see \"The Shorter Fragments appendix\" section above for the full account, including why its two Groups are reconstructed from a dead XML comment rather than live structure, and its prefatory note, quoted verbatim there.",
+        "Footnote apparatus. 2514 <note> span(s) in the 39 numbered Books (Shuckburgh's own footnotes) plus 48 more in the appendix were excluded entirely; 1143 <pb/> page-break marker(s) in the numbered Books plus 16 more in the appendix were dropped. Both are logged as aggregate counts in anomalies.json (a genuinely repetitive class), not occurrence-by-occurrence.",
+        "Note-fallback chapters. 4 chapter(s) in the numbered Books (e.g. book-8-ch-4b) plus 0 more in the appendix have NO surviving translated text once the usual <note> exclusion is applied - Shuckburgh instead supplies only his own inline editorial note bridging a stretch for which no Polybius text survives to translate (occasionally, e.g. book-9-ch-28, that same note ALSO wraps a genuine quoted translation). As a last resort, the note's own text is kept rather than leaving the chapter empty, clearly flagged via each Passage's anomaly field - every occurrence is logged individually in anomalies.json.",
+        "Chapter-count divergence from the Greek sibling. Shuckburgh's own division of the fragmentary books (6-39) routinely differs, sometimes substantially, from Büttner-Wobst's Greek text - see \"IMPORTANT\" above for specific book-by-book examples, and the next paragraph on Books 30-39 specifically. Both witnesses are parsed completely independently; neither is forced to match the other.",
+        "Why Books 30-39 diverge so sharply between the two editions. Shuckburgh's translation (Macmillan, 1889 - see this source's own teiHeader) predates Büttner-Wobst's Greek critical edition (Teubner, 1893-1905 - see the Greek sibling's own teiHeader) by several years, so it cannot have used it. This English witness's own text confirms it instead follows Otto Hultsch's earlier Teubner edition throughout the fragmentary books, citing him repeatedly and by name (15 occurrences) - including direct evidence that 19th-century editors disagreed on which BOOK a given late fragment belongs to: one summary is noted as \"arranged by Hultsch as chs. 1 and 2 of book 22\" but appearing \"as book 23, chs. 4, 5 in Schweighaeuser's text\" (see book-22-ch-1's own note). Büttner-Wobst's later Greek text makes its own independent editorial decisions about where to place the same excerpted material and never mentions Hultsch at all (confirmed: zero occurrences in the Greek source file). Consequently a Book 30-39 chapter number in one edition here does not necessarily correspond to the same number - or even the same Book - in the other; this app reproduces each edition's own numbering exactly, unchanged, rather than attempting to reconcile them."
+      ]
+    }
+  ]
+}

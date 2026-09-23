@@ -1,0 +1,54 @@
+[
+  {
+    "where": "aristophanes-frogs-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-0 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-225 / sp[Διόνυσος]/l[n=265a]",
+    "note": "<add> included in reading text: \"βρεκεκεκὲξ κοὰξ κοάξ,\""
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-503 / sp[Θεράπαινα]/l[n=504]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-590 / sp[Χορός]/l[n=592]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-992 / sp[Χορός]/l[n=994]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-1099 / sp[Χορός]/l[n=1106]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-1251 / sp[Εὐριπίδης]/l[n=1281]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-1370 / sp[Χορός]/l[n=1373a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-1414 / sp[Αἰσχύλος]/l[n=1431a]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μάλιστα μὲν λέοντα μὴ ʼν πόλει τρέφειν,\""
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-1414 / sp[Εὐριπίδης]/l[n=1450]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-1460 / sp[Πλούτων]/l[n=1480]",
+    "note": "<add> included in reading text: \"ʼγὼ\""
+  },
+  {
+    "where": "aristophanes-frogs-grc / card-0",
+    "note": "this card produced zero passages (its entire content was diverted elsewhere, e.g. into the dramatis-personae division); omitted from the output rather than emitted as an empty division."
+  }
+]

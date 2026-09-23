@@ -1,0 +1,54 @@
+{
+  "workId": "thucydides-history-grc",
+  "title": "Ἱστορίαι",
+  "author": "Thucydides",
+  "language": "grc",
+  "editor": "Henry Stuart Jones",
+  "edition": "Historiae, ed. Henry Stuart Jones, 2 vols. (Oxford: Oxford University Press, 1910; reprinted 1942) - title, editor, imprint and volume count taken verbatim from this file's own <sourceDesc>",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0003.tlg001.perseus-grc2), digitising the Greek text as printed in Henry Stuart Jones, ed., Thucydidis Historiae (Oxford: Oxford University Press, 1910, reprinted 1942) - citation taken verbatim from this file's own <sourceDesc> (the work-level __cts__.xml carries no description); imported by scripts/import-thucydides-history-grc. The raw file is fetched once (cached at scripts/import-thucydides-history-grc/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Jones's 1910 critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Thucydides's History of the Peloponnesian War - Greek",
+      "paragraphs": [
+        "This is the Greek text of Thucydides's Ἱστορίαι, his history of the war between Athens and Sparta (431-411 BC, the narrative breaking off unfinished), in eight Books - a foundational work of critical historiography and political thought, including the Funeral Oration of Pericles (Book 2) and the Melian Dialogue (Book 5).",
+        "The text here is Jones's Greek, verbatim. Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Henry Stuart Jones, ed., Thucydidis Historiae, 2 vols. (Oxford: Oxford University Press, 1910; reprinted 1942), an Oxford Classical Text. This edition is in the public domain.",
+        "The work is divided into 8 Books and, within each Book, numbered chapters (917 total, plainly 1-based and contiguous - unlike Herodotus, this edition has no letter-suffixed chapter numbers)."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0003.tlg001.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0003.tlg001.perseus-grc2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the book, chapter and (Perseus/Jones's own) section <div>s and collects EVERY <p> paragraph found anywhere under a chapter, in document order, into that chapter's single Passage (joined with a blank line when a chapter has more than one). <quote>/<l> (quoted verse) are unwrapped, their text flowing into the surrounding prose. The Melian Dialogue's 34 <sp><speaker>.../<speaker><p>...</p></sp> turns have their speaker label (\"ΑΘ.\"/\"ΜΗΛ.\") prepended to that turn's text, matching the edition's own printed layout - every affected chapter's Passage is flagged. The single <bibl> citation (Perseus's own reference for a quoted Homeric line) is dropped. Entities are decoded and runs of whitespace collapsed; the words themselves are otherwise untouched."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter number, matching this edition's own numbering exactly (the standard scheme used across virtually all editions and translations of Thucydides). This source carries no finer, page-marker-style citation scheme, so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 8 Books and all 917 chapters of this edition are present and in order, agreeing exactly, chapter for chapter, with the independently-parsed English sibling edition.",
+        "The History is unfinished. Thucydides's narrative breaks off abruptly in the middle of the year 411 BC, at the end of Book 8 - a well-documented fact about the work's transmission, not a parsing error. The very last sentence (8.109.2) is printed inside literal square brackets in this edition, flagging a chronological note many scholars judge a later, non-Thucydidean addition; kept verbatim exactly as printed.",
+        "Melian Dialogue speaker labels. 34 turns across Book 5 (chapters 87-111) have their source-printed speaker label (\"ΑΘ.\"/\"ΜΗΛ.\") prepended to the paragraph text, since this edition prints it as part of the running text in dramatic-dialogue form; every affected chapter is flagged via its Passage's `anomaly` field and logged in anomalies.json.",
+        "One <bibl> citation (Perseus's own reference for a quoted Homeric line, \"Hom. Il. 2.108\") was dropped entirely, not part of Thucydides's own text.",
+        "Character encoding. The transcription uses precomposed polytonic Greek code points. The bytes are preserved exactly as transmitted; no normalisation was applied."
+      ]
+    }
+  ]
+}

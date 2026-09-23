@@ -1,0 +1,258 @@
+[
+  {
+    "where": "euripides-ion-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-ion-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-ion-grc / card-1 / sp[Ἑρμῆς]/l[n=1]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"νώτοις οὐρανὸν\""
+  },
+  {
+    "where": "euripides-ion-grc / card-1 / sp[Ἑρμῆς]/l[n=2]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"θεῶν παλαιὸν οἶκον ἐκτρίβων, θεῶν\""
+  },
+  {
+    "where": "euripides-ion-grc / card-1 / sp[Ἑρμῆς]/l[n=3]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μιᾶς\""
+  },
+  {
+    "where": "euripides-ion-grc / card-41 / sp[Ἑρμῆς]/l[n=81]",
+    "note": "<add> included in reading text: \"νιν\""
+  },
+  {
+    "where": "euripides-ion-grc / card-112 / sp[Ἴων]/l[n=118]",
+    "note": "<add> included in reading text: \"ῥοὰν\""
+  },
+  {
+    "where": "euripides-ion-grc / card-144 / sp[Ἴων]/l[n=178]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-237 / sp[Ἴων]/l[n=265]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-237 / sp[Ἴων]/l[n=271]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-275 / sp[Ἴων]/l[n=275a]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-275 / sp[Κρέουσα]/l[n=286]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τιμᾶ τιμᾶ\""
+  },
+  {
+    "where": "euripides-ion-grc / card-275 / sp[Κρέουσα]/l[n=294]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-308 / sp[Ἴων]/l[n=319]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-355 / sp[Κρέουσα]/l[n=389]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-544 / sp[Ξοῦθος]/l[n=551b]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-566 / sp[Ἴων]/l[n=594]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μηδὲν καὶ οὐδὲν ὢν κεκλήσομαι·\""
+  },
+  {
+    "where": "euripides-ion-grc / card-566 / sp[Ἴων]/l[n=602]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"αὖ λογίων τε\""
+  },
+  {
+    "where": "euripides-ion-grc / card-607 / sp[Ἴων]/l[n=632]",
+    "note": "<add> included in reading text: \"μὲν\""
+  },
+  {
+    "where": "euripides-ion-grc / card-607 / sp[Ἴων]/l[n=638]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ γόοισιν ἦ\""
+  },
+  {
+    "where": "euripides-ion-grc / card-676 / sp[Χορός]/l[n=677]",
+    "note": "<add> included in reading text: \"ἀλαλαγὰς\""
+  },
+  {
+    "where": "euripides-ion-grc / card-676 / sp[Χορός]/l[n=692]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-695 / sp[Χορός]/l[n=698]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-695 / sp[Χορός]/l[n=700]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-695 / sp[Χορός]/l[n=703]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-695 / sp[Χορός]/l[n=708]",
+    "note": "<add> included in reading text: \"ὅσον ἀμᾶς ἔφυν\""
+  },
+  {
+    "where": "euripides-ion-grc / card-714 / sp[Χορός]/l[n=722]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-714 / sp[Χορός]/l[n=722a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-725 / sp[Χορός]/l[n=756]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-725 / sp[Πρεσβύτης]/l[n=769]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-725 / sp[Πρεσβύτης]/l[n=770]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-808 / sp[Πρεσβύτης]/l[n=828]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐλθὼν δὲ καὶ τὸν χρόνον ἀμύνεσθαι θέλων\""
+  },
+  {
+    "where": "euripides-ion-grc / card-836 / sp[Πρεσβύτης]/l[n=847]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"εἰ γάρ γʼ ὑφήσεις τοῦδʼ, ἀπαλλάξῃ βίου.\""
+  },
+  {
+    "where": "euripides-ion-grc / card-836 / sp[Πρεσβύτης]/l[n=848]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δυοῖν γὰρ ἐχθροῖν εἰς ἓν ἐλθόντοιν στέγος,\""
+  },
+  {
+    "where": "euripides-ion-grc / card-836 / sp[Πρεσβύτης]/l[n=849]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ θάτερον δεῖ δυστυχεῖν ἢ θάτερον.\""
+  },
+  {
+    "where": "euripides-ion-grc / card-881 / sp[Κρέουσα]/l[n=904]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-907 / sp[Κρέουσα]/l[n=907a]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-ion-grc / card-966 / sp[Πρεσβύτης]/l[n=992]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ποῖόν τι μορφῆς σχῆμʼ ἔχουσαν ἀγρίας;\""
+  },
+  {
+    "where": "euripides-ion-grc / card-966 / sp[Κρέουσα]/l[n=993]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"θώρακʼ ἐχίδνης περιβόλοις ὡπλισμένον.\""
+  },
+  {
+    "where": "euripides-ion-grc / card-998 / sp[Κρέουσα]/l[n=1001]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-998 / sp[Κρέουσα]/l[n=1011]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-998 / sp[Κρέουσα]/l[n=1034]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1048 / sp[Χορός]/l[n=1058]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἄλλων ἀπʼ\""
+  },
+  {
+    "where": "euripides-ion-grc / card-1061 / sp[Χορός]/l[n=1071]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὄμμασι\""
+  },
+  {
+    "where": "euripides-ion-grc / card-1132 / sp[Θεράπων]/l[n=1171]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-1229 / sp[Χορός]/l[n=1231]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γὰρ\""
+  },
+  {
+    "where": "euripides-ion-grc / card-1229 / sp[Χορός]/l[n=1234]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1320 / sp[Προφῆτις]/l[n=1331]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1320 / sp[Προφῆτις]/l[n=1347]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1320 / sp[Ἴων]/l[n=1350]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1320 / sp[Προφῆτις]/l[n=1360]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"λέγειν\""
+  },
+  {
+    "where": "euripides-ion-grc / card-1369 / sp[Ἴων]/l[n=1384]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1395 / sp[Ἴων]/l[n=1396]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1395 / sp[Κρέουσα]/l[n=1398]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1395 / sp[Κρέουσα]/l[n=1417]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1395 / sp[Κρέουσα]/l[n=1428]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-1468 / sp[Κρέουσα]/l[n=1478]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1468 / sp[Κρέουσα]/l[n=1481]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1468 / sp[Κρέουσα]/l[n=1483]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-ion-grc / card-1468 / sp[Κρέουσα]/l[n=1484]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-1468 / sp[Κρέουσα]/l[n=1489]",
+    "note": "<add> included in reading text: \"λάθρα\""
+  },
+  {
+    "where": "euripides-ion-grc / card-1468 / sp[Ἴων]/l[n=1500b]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὐχ ὅσιʼ\""
+  },
+  {
+    "where": "euripides-ion-grc / card-1571 / sp[Ἀθήνα]/l[n=1579a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-ion-grc / card-1571 / sp[Ἀθήνα]/l[n=1579a]",
+    "note": "<add> included in reading text (empty)"
+  }
+]

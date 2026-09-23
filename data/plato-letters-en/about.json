@@ -1,0 +1,49 @@
+{
+  "workId": "plato-letters-en",
+  "title": "Letters (Epistles)",
+  "author": "Plato",
+  "language": "en",
+  "edition": "R.G. Bury, 1929 (Loeb Classical Library)",
+  "translator": "R.G. Bury",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0059.tlg036.perseus-eng2); imported by scripts/import-plato-letters-en.",
+  "license": "Public domain (Burnet 1900s OCT text; 1929 Loeb translation, 95+ years old). Digital transcription CC BY-SA 4.0 (Perseus/OpenGreekAndLatin).",
+  "sections": [
+    {
+      "heading": "Plato's Letters (Epistles), in English",
+      "paragraphs": [
+        "This is R.G. Bury's English translation of Plato's Letters (Epistles) (Greek Ἐπιστολαί), covering Stephanus pages 309–363 — the same citation scheme as this app's companion Greek edition of the same dialogue, so the two line up page for page and can be read side by side.",
+        "The text here is the translation, verbatim. Nothing is re-translated, modernised, or silently corrected."
+      ]
+    },
+    {
+      "heading": "The translation",
+      "paragraphs": [
+        "R.G. Bury, in Plato in Twelve Volumes, vol. 9 (Cambridge, MA: Harvard University Press / London: William Heinemann Ltd., 1929) — the Loeb Classical Library edition.",
+        "The translation is made from Burnet's OCT Greek text (see this app's companion Greek edition of the same dialogue), the standard scholarly Greek Plato. Public-domain scan: https://archive.org/details/b2900049x_0009."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0059.tlg036.perseus-eng2 from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit GitHub repository (CTS urn:cts:greekLit:tlg0059.tlg036.perseus-eng2). It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The source divides the dialogue into one level of Stephanus-page divisions only (no Book division, unlike this app’s Republic/Laws imports) — each numbered exactly as the traditional printed citation gives it. Within a page, one or more paragraphs are each a single speaker’s turn; every paragraph is kept as its own paragraph (never merged with a neighbouring turn), joined by a blank line, and — where the source prints one — starts with the speaker’s printed abbreviation exactly as typeset (e.g. \"ΣΩ.\" / \"Soc.\") rather than repeating it on every paragraph of a longer speech, matching the print.",
+        "Finer Stephanus sub-page lettering (172a, 172b, 172c…) is stripped from the reading text — it is not a Division boundary in this app’s scheme, only the page level is. Quotation, citation and cross-reference markup used inline in the running text (quoted verse, citations like \"Hom. Il. 19.92\", technical/foreign-word glosses) is unwrapped to plain text and kept; nothing of this is commentary. Where the source itself prints no literal quotation-mark character around reported speech, none is added here — only what the source actually contains."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 55 Stephanus pages (309–363) are present, verified against an independently-checked page count and confirmed strictly monotonic in the source markup once each page shared by two letters is counted once (see “Structure of the Epistles” below).",
+        "Structure of the Epistles. This is not a dialogue but thirteen separate letters, and the source wraps each letter’s Stephanus pages in its own letter division. Nine pages (310, 315, 321, 322, 323, 352, 357, 358 and 359) therefore appear twice or, for 358, three times in the source markup — once inside each letter that shares them — because one letter ends and the next begins on that page. Every part is kept: the page division carries one paragraph-group per letter-part, in source order, and each passage is labelled with its letter number (\"Letter 1\" … \"Letter 13\") so the boundary is visible. An earlier draft of this importer skipped the repeated page as a duplicate, which silently dropped the opening of every letter that begins mid-page; that was caught in review and corrected before this edition was shipped, and each merged page is logged in anomalies.json.",
+        "The source’s thirteen letters follow the traditional numbering; whether any given letter is genuinely Plato’s has been disputed since antiquity (the Seventh Letter is the one most often accepted), and nothing here takes a side — all thirteen are transcribed as Burnet prints them.",
+        "This witness carries no <del>/<add>/<gap>/<corr>/<sic> editorial-apparatus markup at all in the source transcription.",
+        "Reference scheme: every passage and division ref is null. The Stephanus page number IS the citation (e.g. \"Letters (Epistles) 309\"); this source’s finer a/b/c/d sub-page lettering is stripped as transport scaffolding (see “How it was imported” above), not tracked as a separate ref field."
+      ]
+    }
+  ]
+}

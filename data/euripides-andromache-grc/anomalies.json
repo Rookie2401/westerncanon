@@ -1,0 +1,234 @@
+[
+  {
+    "where": "euripides-andromache-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-andromache-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-andromache-grc / card-1 / sp[Ἀνδρομάχη]/l[n=7]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐμοῦ πέφυκεν ἢ γενήσεταί ποτε\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-117 / sp[Χορός]/l[n=123]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἀμφὶ λέκτρων\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-117 / sp[Χορός]/l[n=124]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"διδύμων ἐπίκοινον ἐοῦσαν\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-117 / sp[Χορός]/l[n=125]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἀμφὶ\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-141 / sp[Χορός]/l[n=146b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-andromache-grc / card-141 / sp[Χορός]/l[n=146c]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-andromache-grc / card-183 / sp[Ἀνδρομάχη]/l[n=231]",
+    "note": "<add> included in reading text: \"ὅς\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-232 / sp[Ἀνδρομάχη]/l[n=242]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ναί,\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-284 / sp[Χορός]/l[n=289]",
+    "note": "<add> included in reading text: \"δ’\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-293 / sp[Χορός]/l[n=294]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Πάριν\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-301 / sp[Χορός]/l[n=305]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"μόχθους οὓς ἀμφὶ Τροίαν\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-309 / sp[Ἀνδρομάχη]/l[n=330]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἔξωθέν εἰσιν οἱ δοκοῦντες εὖ φρονεῖν\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-309 / sp[Ἀνδρομάχη]/l[n=331]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"λαμπροί, τὰ δ’ ἔνδον πᾶσιν ἀνθρώποις ἴσοι,\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-309 / sp[Ἀνδρομάχη]/l[n=332]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πλὴν εἴ τι πλούτῳ· τοῦτο δ’ ἰσχύει μέγα.\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-384 / sp[Ἀνδρομάχη]/l[n=397]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀτὰρ τί ταῦτα δύρομαι, τὰ δ’ ἐν ποσὶν\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-384 / sp[Ἀνδρομάχη]/l[n=398]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὐκ ἐξικμάζω καὶ λογίζομαι κακά;\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-494 / sp[Χορός]/l[n=496]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κατακεκριμένον.\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-501 / sp[Ἀνδρομάχη]/l[n=512]",
+    "note": "<add> included in reading text: \"τ’\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-501 / sp[Ἀνδρομάχη]/l[n=512]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-andromache-grc / card-523 / sp[Ἀνδρομάχη]/l[n=534]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-andromache-grc / card-545 / sp[Πηλεύς]/l[n=550]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-andromache-grc / card-545 / sp[Πηλεύς]/l[n=553]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-andromache-grc / card-545 / sp[Πηλεύς]/l[n=586]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ναί,\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-642 / sp[Μενέλαος]/l[n=668]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"κἀκεῖνο νῦν ἄθρησον· εἰ σὺ παῖδα σὴν\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-642 / sp[Μενέλαος]/l[n=669]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δούς τῳ πολιτῶν, εἶτ’ ἔπασχε τοιάδε,\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-642 / sp[Μενέλαος]/l[n=670]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σιγῇ καθῆσ’ ἄν; οὐ δοκῶ· ξένης δ’ ὕπερ\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-642 / sp[Μενέλαος]/l[n=671]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τοιαῦτα λάσκεις τοὺς ἀναγκαίους φίλους;\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-642 / sp[Μενέλαος]/l[n=672]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ μὴν ἴσον γ’ ἀνήρ τε καὶ γυνὴ στένει\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-642 / sp[Μενέλαος]/l[n=673]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἀδικουμένη πρὸς ἀνδρός· ὡς δ’ αὔτως ἀνὴρ\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-642 / sp[Μενέλαος]/l[n=674]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γυναῖκα μωραίνουσαν ἐν δόμοις ἔχων.\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-642 / sp[Μενέλαος]/l[n=675]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"καὶ τῷ μὲν ἔστιν ἐν χεροῖν μέγα σθένος,\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-642 / sp[Μενέλαος]/l[n=676]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τῇ δ’ ἐν γονεῦσι καὶ φίλοις τὰ πράγματα.\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-642 / sp[Μενέλαος]/l[n=677]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὔκουν δίκαιον τοῖς γ’ ἐμοῖς ἐπωφελεῖν;\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-729 / sp[Μενέλαος]/l[n=734]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-andromache-grc / card-841 / sp[Ἑρμιόνη]/l[n=849]",
+    "note": "<add> included in reading text: \"ἢ\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-854 / sp[Ἑρμιόνη]/l[n=855]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὡσεὶ\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-866 / sp[Χορός]/l[n=883]",
+    "note": "<add> included in reading text: \"σὺ\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-907 / sp[Ἑρμιόνη]/l[n=937]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σοφῶν πανούργων ποικίλων λαλημάτων,\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-907 / sp[Ἑρμιόνη]/l[n=949]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-andromache-grc / card-1027 / sp[Χορός]/l[n=1035]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-andromache-grc / card-1037 / sp[Χορός]/l[n=1046]",
+    "note": "<add> included in reading text: \"τὸν\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1085 / sp[Ἄγγελος]/l[n=1114]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ξιφήρης ἆρ’\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1166 / sp[Χορός]/l[n=1171]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πήμασι κύρσας\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1173 / sp[Πηλεύς]/l[n=1177]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μοι τέκνα\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1186 / sp[Πηλεύς]/l[n=1188]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἒ ἔ· ὦ παῖ,\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1186 / sp[Πηλεύς]/l[n=1189]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"μήποτε σῶν λεχέων τὸ δυσώνυμον\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1186 / sp[Πηλεύς]/l[n=1190]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ὤφελ’ ἐμὸν γένος εἰς τέκνα καὶ δόμον\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1186 / sp[Πηλεύς]/l[n=1191]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἀμφιβαλέσθαι\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1186 / sp[Πηλεύς]/l[n=1192]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Ἑρμιόνας Ἀίδαν ἐπὶ σοί, τέκνον,\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1186 / sp[Πηλεύς]/l[n=1195]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"αἷμα τὸ διογενές ποτε Φοίβου\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1186 / sp[Πηλεύς]/l[n=1196]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"βροτὸς εἰς θεὸν ἀνάψαι.\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1214 / sp[Πηλεύς]/l[n=1219b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-andromache-grc / card-1214 / sp[Πηλεύς]/l[n=1223]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐπὶ γαῖαν,\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1214 / sp[Πηλεύς]/l[n=1225]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"πρὸς γᾶν.\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1231 / sp[Θέτις]/l[n=1254]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"θεὰ γεγῶσα καὶ θεοῦ πατρὸς τέκος,\""
+  },
+  {
+    "where": "euripides-andromache-grc / card-1231 / sp[Πηλεύς]/l[n=1283]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"οὐ γάρ ποτ’ ἂν πράξειαν ἐκ θεῶν κακῶς.\""
+  }
+]

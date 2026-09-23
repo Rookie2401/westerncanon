@@ -1,0 +1,18 @@
+[
+  {
+    "where": "topics-en / book-4-ch-3",
+    "note": "2 stray mid-paragraph <B>...</B> emphasis tag(s) found wrapping the single word \"Likewise.\" at the start of a paragraph in Book IV, Part 3 (confirmed genuine source content by direct inspection of scripts/import-topics-en/raw/topics.4.iv.html - not a chapter heading, not transport scaffolding). This schema's Passage.text is plain text with no rich-text/emphasis field, so the <B>/</B> wrapper was unwrapped (inner text \"Likewise.\" kept, verbatim, in its place in the running prose) rather than dropped."
+  },
+  {
+    "where": "topics-en / reference scheme",
+    "note": "MIT's Internet Classics Archive prints NO Bekker page/column/line markers anywhere in this work (verified by direct inspection of all 8 book pages) - only silent, invisible `<A NAME=\"n\">` deep-link anchors, sequentially numbered across each book with no relation to Bekker numbering and no visible rendering. Division.ref is null throughout for both Books and Chapters; nothing is fabricated to supply a citation scheme this source does not carry."
+  },
+  {
+    "where": "topics-en / footnotes",
+    "note": "No footnotes or translator apparatus of any kind were found anywhere in this source (confirmed by direct inspection of all 8 book pages) - there is nothing to strip or disclose beyond the ordinary transport scaffolding (page navigation, `<A NAME>` anchors)."
+  },
+  {
+    "where": "topics-en / completeness",
+    "note": "All 8 Books and all 82 chapters are present and complete, matching the table-of-contents page's own advertised structure exactly; no page was found truncated (contrast with the sibling imports of De Generatione et Corruptione and Meteorologica, each of which has one genuinely truncated source page)."
+  }
+]

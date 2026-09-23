@@ -154,7 +154,9 @@ export function genericNeighbors(
  */
 const BOOK_ID = /^(book-\d+|actio-\d+-book-\d+)$/;
 const PROPOSITION_ID = /-prop[123]?-\d+$/;
-const CHAPTER_ID = /^book-\d+-ch-\d+$/;
+// A single trailing letter admits the lettered chapter numbers some editions
+// print (Herodotus 6.121A, Polybius 12.4a) so they label as "Chapter 121A".
+const CHAPTER_ID = /^book-\d+-ch-\d+[A-Za-z]?$/;
 const SPEECH_ID = /^speech-\d+$/;
 const ACTIO_ID = /^actio-\d+$/;
 

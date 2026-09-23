@@ -1,0 +1,34 @@
+[
+  {
+    "where": "plutarch-antony-grc / character encoding",
+    "note": "Unicode NFC normalisation was applied to all extracted reading text (0 code point(s) remapped in this file). Entity decoding found 0 XML entities in this witness (verified corpus-wide: the tlg0007 texts use literal Unicode characters throughout, never &...; escapes)."
+  },
+  {
+    "where": "plutarch-antony-grc / apparatus excluded",
+    "note": "9 <note> element(s) and 0 <bibl> element(s) (Perseus's own editorial/critical apparatus and citation-linking, never Perrin's printed prose) were excluded entirely, tag and content, at every nesting depth."
+  },
+  {
+    "where": "plutarch-antony-grc / structural markers dropped",
+    "note": "98 <pb/> page-break marker(s) and 33 <milestone/> marker(s) were dropped (zero-width; this work's citation scheme is by chapter number alone, carried in the Division id/number - see about.json \"Reference scheme\")."
+  },
+  {
+    "where": "plutarch-antony-grc / ch-7",
+    "note": "This chapter's text contains a standalone combining diacritic already present in the source XML (a dangling elision/breathing mark or misplaced accent) - preserved verbatim, not corrected."
+  },
+  {
+    "where": "plutarch-antony-grc / ch-22",
+    "note": "This chapter's text contains a standalone combining diacritic already present in the source XML (a dangling elision/breathing mark or misplaced accent) - preserved verbatim, not corrected."
+  },
+  {
+    "where": "plutarch-antony-grc / ch-32",
+    "note": "This chapter's text contains a standalone combining diacritic already present in the source XML (a dangling elision/breathing mark or misplaced accent) - preserved verbatim, not corrected."
+  },
+  {
+    "where": "plutarch-antony-grc / ch-69",
+    "note": "This chapter's text contains a standalone combining diacritic already present in the source XML (a dangling elision/breathing mark or misplaced accent) - preserved verbatim, not corrected."
+  },
+  {
+    "where": "plutarch-antony-grc / ch-86",
+    "note": "This chapter's text contains a standalone combining diacritic already present in the source XML (a dangling elision/breathing mark or misplaced accent) - preserved verbatim, not corrected."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "where": "sec-407",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Meno 70a\""
+  },
+  {
+    "where": "sec-407",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Euthyd. 282b\""
+  },
+  {
+    "where": "sec-407",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Cf. Plat. Meno 70a , Plat. Euthyd. 282b ff.\""
+  },
+  {
+    "where": "sec-409",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 351d\""
+  },
+  {
+    "where": "sec-409",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Cf. Plat. Rep. 351d .\""
+  },
+  {
+    "where": "sec-409",
+    "note": "<bibl> excluded from the reading text (editor's citation apparatus, not the speaker's own words): \"Plat. Rep. 433c\""
+  },
+  {
+    "where": "sec-409",
+    "note": "<note> excluded from the reading text (translator's footnote, not the speaker's own words): \"Cf. Plat. Rep. 433c .\""
+  },
+  {
+    "where": "plato-cleitophon-en / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-cleitophon-en / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

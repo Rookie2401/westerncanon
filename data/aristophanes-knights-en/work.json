@@ -1,0 +1,2671 @@
+{
+  "workId": "aristophanes-knights-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "dramatis-personae",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "Dramatis Personae",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "DEMOSTHENES.\nNICIAS.\nAGORACRITUS, a Sausage-seller.\nCLEON.\nDEMOS, an old man, typifying the Athenian people.\nCHORUS OF KNIGHTS.",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "text",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "The Knights",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "[SCENE: In front of Demos' house at Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nOh! alas! alas! Oh! woe! oh! woe! Miserable Paphlagonian!may the gods destroy both him and his cursed advice! Since that evil day when this new slave entered the house he has never ceased belabouring us with blows.\n[Note 1: A generic name, used to denote a slave, because great numbers came from Paphlagonia, a country in Asia Minor. Aristophanes also plays upon the word, Παφλαγών, Paphlagonian, and the verb, παφλάζειν, to boil noisily, thus alluding to Cleon's violence and bluster when speaking.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nMay the plague seize him, the arch-fiend—him and his lying tales!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nHah! my poor fellow, what is your condition?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nVery wretched, just like your own.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nThen come, let us sing a duet of groans in the style of Olympus.\n[Note 2: A musician, belonging to Phrygia, who had composed melodies intended to describe pain.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES AND NICIAS\nBoo, hoo! boo, hoo! boo, hoo! boo, hoo! boo, hoo! boo, hoo!!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nBah! 'tis lost labour to weep! Enough of groaning! Let us consider how to save our pelts.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nBut how to do it! Can you suggest anything?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nNay! you begin. I cede you the honour.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nBy Apollo! no, not I. Come, have courage! Speak, and then I will say what I think.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\n\"Ah! would you but tell me what I should tell you!\"\n[Note 3: Line 323 of the 'Hyppolytus,' by Euripides.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nI dare not. How could I express my thoughts with the pomp of Euripides?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nOh! prithee, spare me! Do not pelt me with those vegetables,but find some way of leaving our master.\n[Note 4: Euripides' mother was said to have sold vegetables on the market.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nWell, then! Say \"Let-us-bolt,\" like this, in one breath.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nI follow you—\"Let-us-bolt.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nNow after \"Let-us-bolt\" say \"at-top-speed!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\n\"At-top-speed!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nSplendid! Just as if you were masturbating yourself; first slowly, \"Let-us-bolt\"; then quick and firmly, \"at-top-speed!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nLet-us-bolt, let-us-bolt-at-top-speed!\n[Note 5: The whole of this passage seems a satire on the want of courage shown by these two generals. History, however, speaks of Nicias as a brave soldier.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nHah! does that not please you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nI' faith, yes! yet I fear me your omen bodes no good to my hide.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nHow so?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nBecause hard rubbing abrades the skin when folk masturbate themselves.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nThe best thing we can do for the moment is to throw ourselves at the feet of the statue of some god.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nOf which statue? Any statue? Do you then believe there are gods?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nCertainly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nWhat proof have you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nThe proof that they have taken a grudge against me. Is that not enough?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nI'm convinced it is. But to pass on. Do you consent to my telling the spectators of our troubles?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\n'Twould not be amiss, and we might ask them to show us by their manner, whether our facts and actions are to their liking.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nI will begin then. We have a very brutal master, a perfect glutton for beans,and most bad-tempered; 'tis Demos of the Pnyx,an intolerable old man and half deaf. The beginning of last month he bought a slave, a Paphlagonian tanner, an arrant rogue, the incarnation of calumny. This man of leather knows his old master thoroughly; he plays the fawning cur, flatters, cajoles; wheedles, and dupes him at will with little scraps of leavings, which he allows him to get. \"Dear Demos,\" he will say, \"try a single case and you will have done enough; then take your bath, eat, swallow and devour; here are three obols.\"Then the Paphlagonian filches from one of us what we have prepared and makes a present of it to our old man. T'other day I had just kneaded a Spartan cake at Pylos;the cunning rogue came behind my back, sneaked it and offered the cake, which was my invention, in his own name. He keeps us at a distance and suffers none but himself to wait upon the master; when Demos is dining, he keeps close to his side with a thong in his hand and puts the orators to flight. He keeps singing oracles to him, so that the old man now thinks of nothing but the Sibyl. Then, when he sees him thoroughly obfuscated, he uses all his cunning and piles up lies and calumnies against the household; then we are scourged and the Paphlagonian runs about among the slaves to demand contributions with threats and gathers 'em in with both hands. He will say, \"You see how I have had Hylas beaten! Either content me or die at once!\" We are forced to give, for else the old man tramples on us and makes us spew forth all our body contains. There must be an end to it, friend. Let us see! what can be done? Who will get us out of this mess?\n[Note 6: i.e. living on his salary as a judge. The Athenians used beans for recording their votes.]\n[Note 7: Place where the Public Assembly of Athens, the ἐκκλησία, was held.]\n[Note 8: This was the salary paid to the Ecclesiasts, the jury of citizens who tried cases. It was one obol at first, but Cleon had raised it to three.]\n[Note 9: A town in Messina, opposite the little island of Sphacteria; Demosthenes had seized it, and the Spartans had vainly tried to retake it, having even been obliged to leave four hundred soldiers shut up in Sphacteria. Cleon, sent out with additional forces, had forced the Spartans to capitulate and had thus robbed Demosthenes of the glory of the capture. (See Introduction.)]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nThe best thing, chum, is our famous \"Let-us-bolt!\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nBut none can escape the Paphlagonian, his eye is everywhere. And what a stride! He has one leg on Pylos and the other in the Assembly; his rump is exactly over the land of the Chaonians, his hands are with the Aetolians and his mind with the Clopidians.\n[Note 10: Literally, his rump is among the Chaonians (χαίνω, to gape open), because his anus is distended by pederastic practices; his hands with the Aetolians (αἶτέω, to ask, to beg); his mind with the Clopidians (κλέπτω, to steal).]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\n'Tis best then to die; but let us seek the most heroic death.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nLet me bethink me, what is the most heroic?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nLet us drink the blood of a bull; 'tis the death which Themistocles chose.\n[Note 11: The versions of his death vary. He is said to have taken poison in order to avoid fighting against Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nNo, not that, but a bumper of good unmixed wine in honour of the Good Genius;perchance we may stumble on a happy thought.\n[Note 12: A minor god, supposed by the ancients to preside over the life of each man; each empire, each province, each town had its titular Genius. Everyone offered sacrifice to his Genius on each anniversary of his birth with wine, flowers and incense.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nLook at him! \"Unmixed wine!\" Your mind is on drink intent? Can a man strike out a brilliant thought when drunk?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nWithout question. Go, ninny, blow yourself out with water; do you dare to accuse wine of clouding the reason? Quote me more marvellous effects than those of wine. Look! when a man drinks, he is rich, everything he touches succeeds, he gains lawsuits, is happy and helps his friends. Come, bring hither quick a flagon of wine, that I may soak my brain and get an ingenious idea.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nEh, my god! What can your drinking do to help us?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nMuch. But bring it to me, while I take my seat. Once drunk, I shall strew little ideas, little phrases, little reasonings everywhere. NICIAS [returning with a flagon]. It is lucky I was not caught in the house stealing the wine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nTell me, what is the Paphlagonian doing now?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nThe wretch has just gobbled up some confiscated cakes; he is drunk and lies at full-length a-snoring on his hides.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nVery well, come along, pour me out wine and plenty of it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nTake it and offer a libation to your Good Genius; taste, taste the liquor of the genial soil of Pramnium.\n[Note 13: A hill in Asia Minor, near Smyrna. Homer mentions the wine of Pramnium.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nOh, Good Genius! 'Tis thy will, not mine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nPrithee, tell me, what is it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nRun indoors quick and steal the oracles of the Paphlagonian, while he is asleep.\n[Note 14: The common people, who at Athens were as superstitious as everywhere else, took delight in oracles, especially when they were favourable, and Cleon served them up to suit their taste and to advance his own ambition.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nBless me! I fear this Good Genius will be but a very Bad Genius for me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nAnd set the flagon near me, that I may moisten my wit to invent some brilliant notion. NICIAS [enters the house and returns at once]. How the Paphlagonian grunts and snores! I was able to seize the sacred oracle, which he was guarding with the greatest care, without his seeing me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nOh! clever fellow! Hand it here, that I may read. Come, pour me out some drink, bestir yourself! Let me see what there is in it. Oh! prophecy! Some drink! some drink! Quick!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nWell! what says the oracle?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nPour again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nIs \"pour again\" in the oracle?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nOh, Bacis!\n[Note 15: Famous seer of Boeotia.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nBut what is in it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nQuick! some drink!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nBacis is very dry!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nOh! miserable Paphlagonian! This then is why you have so long taken such precautions; your horoscope gave you qualms of terror.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nWhat does it say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nIt says here how he must end.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nAnd how?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nHow? the oracle announces clearly that a dealer in oakum must first govern the city.\n[Note 16: Eucrates, who was the leading statesman at Athens after Pericles.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nFirst dealer. And after him, who?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nAfter him, a sheep-dealer.\n[Note 17: Lysicles, who married the courtesan Aspasia.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nTwo dealers, eh? And what is this one's fate?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nTo reign until a greater scoundrel than he arises; then he perishes and in his place the leather-seller appears, the Paphlagonian robber, the bawler, who roars like a torrent.\n[Note 18: Literally, like Cycloborus, a torrent in Attica.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nAnd the leather-seller must destroy the sheep-seller?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nYes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nOh! woe is me! Where can another seller be found, is there ever a one left?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nThere is yet one, who plies a firstrate trade.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nTell me, pray, what is that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nYou really want to know?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nYes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nWell then! 'tis a sausage-seller who must overthrow him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nA sausage-seller! Ah! by Posidon! what a fine trade! But where can this man be found?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nLet us seek him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nLo! there he is, going towards the market-place; 'tis the gods, the gods who send him!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nThis way, this way, oh, lucky sausage-seller, come forward, dear friend, our saviour, the saviour of our city.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhat is it? Why do you call me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nCome here, come and learn about your good luck, you who are Fortune's favourite!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nCome! Relieve him of his basket-tray and tell him the oracle of the god; I will go and look after the Paphlagonian.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nFirst put down all your gear, then worship the earth and the gods.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\n'Tis done. What is the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nHappiness, riches, power; to-day you have nothing, to-morrow you will have all, oh! chief of happy Athens.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhy not leave me to wash my tripe and to sell my sausages instead of making game of me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nOh! the fool! Your tripe! Do you see these tiers of people?\n[Note 19: He points to the spectators.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nYes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nYou shall be master to them all, governor of the market, of the harbours, of the Pnyx; you shall trample the Senate under foot, be able to cashier the generals, load them with fetters, throw them into gaol, and you will play the debauchee in the Prytaneum.\n[Note 20: The public meals were given in the Prytaneum; to these were admitted those whose services merited that they should be fed at the cost of the State. This distinction depended on the popular vote, and was very often bestowed on demagogues very unworthy of the privilege.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhat! I?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nYou, without a doubt. But you do not yet see all the glory awaiting you. Stand on your basket and look at all the islands that surround Athens.\n[Note 21: Islands of the Aegaean, subject to Athens, which paid considerable tributes.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI see them. What then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nLook at the storehouses and the shipping.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nYes, I am looking.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nExists there a mortal more blest than you? Furthermore, turn your right eye towards Caria and your left towards Chalcedon.\n[Note 22: Caria and Chalcedon were at the two extremities of Asia Minor; the former being at the southern, the latter at the northern end of that extensive coast.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\n'Tis then a blessing to squint!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nNo, but 'tis you who are going to trade away all this. According to the oracle you must become the greatest of men.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nJust tell me how a sausage-seller can become a great man.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nThat is precisely why you will be great, because you are a sad rascal without shame, no better than a common market rogue.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI do not hold myself worthy of wielding power.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nOh! by the gods! Why do you not hold yourself worthy? Have you then such a good opinion of yourself? Come, are you of honest parentage?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBy the gods! No! of very bad indeed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nSpoilt child of fortune, everything fits together to ensure your greatness.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBut I have not had the least education. I can only read, and that very badly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nThat is what may stand in your way, almost knowing how to read. The demagogues will neither have an educated nor an honest man; they require an ignoramus and a rogue. But do not, do not let go this gift, which the oracle promises.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBut what does the oracle say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nFaith! it is put together in very fine enigmatical style, as elegant as it is clear: \"When the eagle-tanner with the hooked claws shall seize a stupid dragon, a blood-sucker, it will be an end to the hot Paphlagonian pickled garlic. The god grants great glory to the sausage-sellers unless they prefer to sell their wares.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nIn what way does this concern me? Pray instruct my ignorance.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nThe eagle-tanner is the Paphlagonian.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhat do the hooked claws mean?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nIt means to say, that he robs and pillages us with his claw-like hands.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd the dragon?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nThat is quite clear. The dragon is long and so also is the sausage; the sausage like the dragon is a drinker of blood. Therefore the oracle says, that the dragon will triumph over the eagle-tanner, if he does not let himself be cajoled with words.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThe oracles of the gods summon me! Faith! I do not at all understand how I can be capable of governing the people.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nNothing simpler. Continue your trade. Mix and knead together all the state business as you do for your sausages. To win the people, always cook them some savoury that pleases them. Besides, you possess all the attributes of a demagogue; a screeching, horrible voice, a perverse, cross-grained nature and the language of the market-place. In you all is united which is needful for governing. The oracles are in your favour, even including that of Delphi. Come, take a chaplet, offer a libation to the god of Stupidity and take care to fight vigorously.\n[Note 23: As though stupidity were an essential of good government.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWho will be my ally? for the rich fear the Paphlagonian and the poor shudder at the sight of him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nYou will have a thousand brave Knights,who detest him, on your side; also the honest citizens amongst the spectators, those who are men of brave hearts, and finally myself and the god. Fear not, you will not see his features, for none have dared to make a mask resembling him. But the public have wit enough to recognize him.\n[Note 24: The Athenian citizens were divided into four classes—the Pentacosiomedimni, who possessed five hundred minae; the Knights, who had three hundred and were obliged to maintain a charger (hence their name); the Zeugitae and the Thetes. In Athens, the Knights never had the high consideration and the share in the magistracy which they enjoyed at Rome.]\n[Note 25: It is said that Aristophanes played the part of Cleon himself, as no one dared to assume the role. (See Introduction.)]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "NICIAS\nOh! mercy! here is the Paphlagonian!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nBy the twelve gods! Woe betide you, who have too long been conspiring against Demos. What means this Chalcidian cup? No doubt you are provoking the Chalcidians to revolt. You shall be killed, butchered, you brace of rogues.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nWhat! are you for running away? Come, come, stand firm, bold Sausage-seller, do not betray us. To the rescue, oh! Knights. Now is the time. Simon, Panaetius,get you to the right wing; they are coming on; hold tight and return to the charge. I can see the dust of their horses' hoofs; they are galloping to our aid. Courage! Repel, attack them, put them to flight.\n[Note 26: They were two leaders of the knightly order.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nStrike, strike the villain, who has spread confusion amongst the ranks of the Knights, this public robber, this yawning gulf of plunder, this devouring Charybdis,this villain, this villain, this villain! I cannot say the word too often, for he is a villain a thousand times a day. Come, strike, drive, hurl him over and crush him to pieces; hate him as we hate him; stun him with your blows and your shouts. And beware lest he escape you; he knows the way Eucrates took straight to a bran sack for concealment.\n[Note 27: The famous whirlpool, near Sicily.]\n[Note 28: Eucrates, the oakum-seller, already mentioned, when the object of a riot, took refuge in a mill and there hid himself in a sack of bran.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh! veteran Heliasts,brotherhood of the three obols,whom I fostered by bawling at random, help me; I am being beaten to death by rebels.\n[Note 29: The chief Athenian tribunal only next in dignity to the Areopagus; it generally consisted of two hundred members; it tried civil cases of the greatest importance and some crimes beyond the competence of other courts, e.g. rape, adultery, extortion. The sittings were in the open air, hence the name (Ηλιος, the sun).]\n[Note 30: The Heliasts' salary. (See above.)]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAnd 'tis justice; you devour the public funds that all should share in; you treat the officers answerable for the revenue like the fruit of the fig tree, squeezing them to find which are still green or more or less ripe; and, when you find one simple and timid, you force him to come from the Chersonese,then you seize him by the middle, throttle him by the neck, while you twist his shoulder back; he falls and you devour him.Besides, you know very well how to select from among the citizens those who are as meek as lambs, rich, without guile and loathers of lawsuits.\n[Note 31: Tributary to Athens; Olynthus and Potidaea were the chief towns of this important Peninsula.]\n[Note 32: Meaning he frightens him with the menace of judicial prosecution and forces him to purchase silence.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nEh! what! Knights, are you helping them? But, if I am beaten, 'tis in your cause, for I was going to propose to erect you a statue in the city in memory of your bravery.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh! the impostor! the dull varlet! See! he treats us like old dotards and crawls at our feet to deceive us; but the cunning wherein lies his power shall this time recoil on himself; he trips up himself by resorting to such artifices.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh Citizens! oh people! see how these brutes are bursting my belly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWhat shouts! but 'tis this very bawling that incessantly upsets the city!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI can shout too—and so loud that you will flee with fear.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nIf you shout louder than he does, I will strike up the triumphal hymn; if you surpass him in impudence, the cake is ours.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI denounce this fellow; he has had tasty stews exported from Athens for the Spartan fleet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I denounce him, who runs into the Prytaneum with empty belly and comes out with it full.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nAnd by Zeus! he carries off bread, meat, and fish, which is forbidden. Pericles himself never had this right.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nYou are travelling the right road to get killed.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI'll bawl three times as loud as you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will deafen you with my yells.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I you with my bellowing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI shall calumniate you, if you become a Strategus.\n[Note 33: The strategi were the heads of the military forces.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nDog, I will lay your back open with the lash.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will make you drop your arrogance.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI will baffle your machinations.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nDare to look me in the face!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI too was brought up in the market-place.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will cut you to shreds if you whisper a word.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI will daub you with dung if you open your mouth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI own I am a thief; do you admit yourself another.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBy our Hermes of the market-place, if caught in the act, why, I perjure myself before those who saw me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nThese are my own special tricks. I will denounce you to the Prytanes as the owner of sacred tripe, that has not paid tithe.\n[Note 34: They presided at the Public Assemblies; they were also empowered to try the most important cases.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh! you scoundrel! you impudent bawler! everything is filled with your daring, all Attica, the Assembly, the Treasury, the decrees, the tribunals. As a furious torrent you have overthrown our city; your outcries have deafened Athens and, posted upon a high rock, you have lain in wait for the tribute moneys as the fisherman does for the tunny-fish.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI know your tricks; 'tis an old plot resoled.\n[Note 35: An allusion to Cleon's former calling.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nIf you know naught of soling, I understand nothing of sausages; you, who cut bad leather on the slant to make it look stout and deceive the country yokels. They had not worn it a day before it had stretched some two spans. DEMOSTHENES 'Tis the very trick he served me; both my neighbours and my friends laughed heartily at me, and before I reached Pergasae I was swimming in my shoes.\n[Note 36: A country deme of Attica.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHave you not always shown that blatant impudence, which is the sole strength of our orators? You push it so far, that you, the head of the State, dare to milk the purses of the opulent aliens and, at sight of you, the son of Hippodamus melts into tears. But here is another man, who gives me pleasure, for he is a much greater rascal than you; he will overthrow you; 'tis easy to see, that he will beat you in roguery, in brazenness and in clever turns. Come, you, who have been brought up among the class which to-day gives us all our great men, show us that a liberal education is mere tomfoolery.\n[Note 37: Archeptolemus, a resident alien, who lived in Piraeus. He had loaded Athens with gifts and was nevertheless maltreated by Cleon.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nJust hear what sort of fellow that fine citizen is.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nWill you not let me speak?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAssuredly not, for I also am a sad rascal.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nIf he does not give in at that, tell him your parents were sad rascals too.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOnce more, will you not let me speak?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNo, by Zeus!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nYes, by Zeus, but you shall!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNo, by Posidon! We will fight first to see who shall speak first.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will die sooner.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI will not let you…",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nLet him, in the name of the gods, let him die.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nWhat makes you so bold as to dare to speak to my face?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\n'Tis that I know both how to speak and how to cook.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nHah! the fine speaker! Truly, if some business matter fell your way, you would know thoroughly well how to attack it, to carve it up alive! Shall I tell you what has happened to you? Like so many others, you have gained some petty lawsuit against some alien.Did you drink enough water to inspire you? Did you mutter over the thing sufficiently through the night, spout it along the street, recite it to all you met? Have you bored your friends enough with it? 'Tis then for this you deem yourself an orator. Ah! poor fool!\n[Note 38: This was easier than against a citizen because of the inferiority, in which the pride of the Athenian held those born on other soil.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd what do you drink yourself then, to be able all alone by yourself to dumbfound and stupefy the city so with your clamour?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nCan you match me with a rival? Me! When I have devoured a good hot tunny-fish and drunk on top of it a great jar of unmixed wine, I hold up the Generals of Pylos to public scorn.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I, when I have bolted the tripe of an ox together with a sow's belly and swallowed the broth as well, I am fit, though slobbering with grease, to bellow louder than all orators and to terrify Nicias.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nI admire your language so much; the only thing I do not approve is that you swallow all the broth yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nE'en though you gorged yourself on sea-dogs, you would not beat the Milesians.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nGive me a bullock's breast to devour, and I am a man to traffic in mines.\n[Note 39: When drunk he conceives himself rich and the man to buy up the rich silver mines of Laurium, in south-east Attica.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will rush into the Senate and set them all by the ears.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I will lug out your gut to stuff like a sausage.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nAs for me, I will seize you by the rump and hurl you head foremost through the door.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nIn any case, by Posidon, 'twill only be when you have thrown me there first.\n[Note 40: The Chorus throws itself between Cleon and Agoracritus to protect the latter.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nBeware of the carcan!\n[Note 41: An iron collar, an instrument of torture and of punishment.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI denounce you for cowardice.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will tan your hide.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI will flay you and make a thief's pouch with the skin.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will peg you out on the ground.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI will slice you into mince-meat.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will tear out your eyelashes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI will slit your gullet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nWe will set his mouth open with a wooden stick as the cooks do with pigs; we will tear out his tongue, and, looking down his gaping throat, will see whether his inside has any pimples.\n[Note 42: A disease among swine.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThus then at Athens we have something more fiery than fire, more impudent than impudence itself! 'Tis a grave matter; come, we will push and jostle him without mercy. There, you grip him tightly under the arms; if he gives way at the onset, you will find him nothing but a craven; I know my man.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThat he has been all his life and he has only made himself a name by reaping another's harvest; and now he has tied up the ears he gathered over there, he lets them dry and seeks to sell them.\n[Note 43: Cleon wanted the Spartans to purchase the prisoners of Sphacteria from him.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI do not fear you as long as there is a Senate and a people which stands like a fool, gaping in the air.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWhat unparalleled impudence! 'Tis ever the same brazen front. If I don't hate you, why, I'm ready to take the place of the one blanket Cratinus wets;I'll offer to play a tragedy by Morsimus.Oh! you cheat! who turn all into money, who flutter from one extortion to another; may you disgorge as quickly as you have crammed yourself! Then only would I sing, \"Let us drink, let us drink to this happy event!\"Then even the son of Iulius,the old niggard, would empty his cup with transports of joy, crying, \"Io, Paean! Io, Bacchus!\"\n[Note 44: With piss—the result of his drunken habits.]\n[Note 45: A tragic poet, apparently proverbial for feebleness of style.]\n[Note 46: Beginning of a song of Simonides.]\n[Note 47: A miser.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nBy Posidon! You! would you beat me in impudence! If you succeed, may I no longer have my share of the victims offered to Zeus on the city altar.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I, I swear by the blows that have so oft rained upon my shoulders since infancy, and by the knives that have cut me, that I will show more effrontery than you; as sure as I have rounded this fine stomach by feeding on the pieces of bread that had cleansed other folk's greasy fingers.\n[Note 48: Guests used pieces of bread to wipe their fingers at table.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOn pieces of bread, like a dog! Ah! wretch! you have the nature of a dog and you dare to fight a cynecephalus?\n[Note 49: 'Dog's head,' a vicious species of ape.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI have many another trick in my sack, memories of my childhood's days. I used to linger around the cooks and say to them, \"Look, friends, don't you see a swallow? 'tis the herald of springtime.\" And while they stood, their noses in the air, I made off with a piece of meat.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh! most clever man! How well thought out! You did as the eaters of artichokes, you gathered them before the return of the swallows.\n[Note 50: They were allowed to remain in the ground throughout the winter so that they might grow tender.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThey could make nothing of it; or, if they suspected a trick, I hid the meat in my breeches and denied the thing by all the gods; so that an orator, seeing me at the game, cried, \"This child will get on; he has the mettle that makes a statesman.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHe argued rightly; to steal, perjure yourself and make a receiver of your rump are three essentials for climbing high.\n[Note 51: An allusion to the pederastic habits ascribed to some of the orators by popular rumour.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will stop your insolence, or rather the insolence of both of you. I will throw myself upon you like a terrible hurricane ravaging both land and sea at the will of its fury.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThen I will gather up my sausages and entrust myself to the kindly waves of fortune so as to make you all the more enraged.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nAnd I will watch in the bilges in case the boat should make water.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nNo, by Demeter! I swear, 'twill not be with impunity that you have thieved so many talents from the Athenians. CHORUS [to the Sausage-seller]. Oh! oh! reef your sail a bit! Here is Boreas blowing calumniously.\n[Note 52: He imputes the crime to Agoracritus of which he is guilty himself.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI know that you got ten talents out of Potidaea.\n[Note 53: A town in Thrace and subject to Athens. It therefore paid tribute to the latter. It often happened that the demagogues extracted considerable sums from the tributaries by threats or promises.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nHold! I will give you one; but keep it dark!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHah! that will please him mightily; now you can travel under full sail.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nYes, the wind has lost its violence.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will bring four suits against you, each of one hundred talents.\n[Note 54: It was customary in Athens for the plaintiff himself to fix the fine to be paid by the defendant.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I twenty against you for shirking duty and more than a thousand for robbery.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI maintain that your parents were guilty of sacrilege against the goddess.\n[Note 55: Athené, the tutelary divinity of Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I, that one of your grandfathers was a satellite…",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nTo whom? Explain!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nTo Byrsina, the mother of Hippias.\n[Note 56: And wife of Pisistratus. Anything belonging to the ancient tyrants was hateful to the Athenians.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nYou are an impostor.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd you are a rogue.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHit him hard.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh, oh, dear! The conspirators are murdering me!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nStrike, strike with all your might; bruise his belly, lashing him with your guts and your tripe; punish him with both arms! Oh! vigorous assailant and intrepid heart! Have you not routed him totally in this duel of abuse? how shall I give tongue to my joy and sufficiently praise you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nAh! by Demeter! I was not ignorant of this plot against me; I knew it was forming, that the chariot of war was being put together. CHORUS [to Sausage-seller]. Look out, look out! Come, outfence him with some wheelwright slang?\n[Note 57: An allusion to the language used by the democratic orators, who, to be better understood by the people, constantly affected the use of terms belonging to the different trades.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nHis tricks at Argos do not escape me. Under pretence of forming an alliance with the Argives, he is hatching a plot with the Lacedaemonians there; and I know why the bellows are blowing and the metal that is on the anvil; 'tis the question of the prisoners.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWell done! Forge on, if he be a wheelwright.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd there are men at Sparta who are hammering the iron with you; but neither gold nor silver nor prayers nor anything else shall impede my denouncing your trickery to the Athenians.\n[Note 58: He accuses Cleon of collusion with the enemy.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nAs for me, I hasten to the Senate to reveal your plotting, your nightly gatherings in the city, your trafficking with the Medes and with the Great King, and all you are foraging for in Boeotia.\n[Note 59: Cleon retorts upon his adversary the charge brought against himself. The Boeotians were the allies of Sparta.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhat price then is paid for forage by Boeotians?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh! by Heracles! I will tan your hide.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nCome, if you have both wit and heart, now is the time to show it, as on the day when you hid the meat in your breeches, as you say. Hasten to the Senate, for he will rush there like a tornado to calumniate us all and give vent to his fearful bellowings.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI am going, but first I must rid myself of my tripe and my knives; I will leave them here.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nStay! rub your neck with lard; in this way you will slip between the fingers of calumny.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nSpoken like a finished master of fence.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nNow, bolt down these cloves of garlic.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nPray, what for?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWell primed with garlic, you will have greater mettle for the fight. But hurry, hurry, bestir yourself!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThat's just what I am doing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAnd, above all, bite your foe, rend him to atoms, tear off his comb and do not return until you have devoured his wattles. Go! make your attack with a light heart, avenge me and may Zeus guard you! I burn to see you return the victor and laden with chaplets of glory. And you, spectators, enlightened critics of all kinds of poetry, lend an ear to my anapaests.\n[Note 60: Allusion to cock-fighting.]\n[Note 61: The tripping metre usually employed in the parabasis.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHad one of the old authors asked to mount this stage to recite his verses, he would not have found it hard to persuade me. But our poet of to-day is likewise worthy of this favour; he shares our hatred, he dares to tell the truth, he boldly braves both waterspouts and hurricanes. Many among you, he tells us, have expressed wonder, that he has not long since had a piece presented in his own name, and have asked the reason why.This is what he bids us say in reply to your questions; 'tis not without grounds that he has courted the shade, for, in his opinion, nothing is more difficult than to cultivate the comic Muse; many court her, but very few secure her favours. Moreover, he knows that you are fickle by nature and betray your poets when they grow old. What fate befell Magnes,when his hair went white? Often enough has he triumphed over his rivals; he has sung in all keys, played the lyre and fluttered wings; he turned into a Lydian and even into a gnat, daubed himself with green to become a frog.All in vain! When young, you applauded him; in his old age you hooted and mocked him, because his genius for raillery had gone. Cratinus again was like a torrent of glory rushing across the plain, uprooting oak, plane tree and rivals and bearing them pell-mell in its wake. The only songs at the banquet were, 'Doro, shod with lying tales' and 'Adepts of the Lyric Muse';so great was his renown. Look at him now! he drivels, his lyre has neither strings nor keys, his voice quivers, but you have no pity for him, and you let him wander about as he can, like Connas,his temples circled with a withered chaplet; the poor old fellow is dying of thirst; he who, in honour of his glorious past, should be in the Prytaneum drinking at his ease, and instead of trudging the country should be sitting amongst the first row of the spectators, close to the statue of Dionysus and loaded with perfumes. Crates,again, have you done hounding him with your rage and your hisses? True, 'twas but meagre fare that his sterile Muse could offer you; a few ingenious fancies formed the sole ingredients, but nevertheless he knew how to stand firm and to recover from his falls. 'Tis such examples that frighten our poet; in addition, he would tell himself, that before being a pilot, he must first know how to row, then to keep watch at the prow, after that how to gauge the winds, and that only then would he be able to command his vessel.If then you approve this wise caution and his resolve that he would not bore you with foolish nonsense, raise loud waves of applause in his favour this day, so that, at this Lenaean feast, the breath of your favour may swell the sails of his triumphant galley and the poet may withdraw proud of his success, with head erect and his face beaming with delight. Posidon, god of the racing steed, I salute you, you who delight in their neighing and in the resounding clatter of their brass-shod hoofs, god of the swift galleys, which, loaded with mercenaries, cleave the seas with their azure beaks, god of the equestrian contests, in which young rivals, eager for glory, ruin themselves for the sake of distinction with their chariots in the arena, come and direct our chorus; Posidon with the trident of gold, you, who reign over the dolphins, who are worshipped at Sunium and at Geraestus beloved of Phormio,and dear to the whole city above all the immortals, I salute you! Let us sing the glory of our forefathers; ever victors, both on land and sea, they merit that Athens, rendered famous by these, her worthy sons, should write their deeds upon the sacred peplus.As soon as they saw the enemy, they at once sprang at him without ever counting his strength. Should one of them fall in the conflict, he would shake off the dust, deny his mishap and begin the struggle anew. Not one of these Generals of old time would have asked Cleaenetus to be fed at the cost of the state; but our present men refuse to fight, unless they get the honours of the Prytaneum and precedence in their seats. As for us, we place our valour gratuitously at the service of Athens and of her gods; our only hope is, that, should peace ever put a term to our toils, you will not grudge us our long, scented hair nor our delicate care for our toilet. Oh! Pallas, guardian of Athens, you, who reign over the most pious city, the most powerful, the richest in warriors and in poets, hasten to my call, bringing in your train our faithful ally in all our expeditions and combats, Victory, who smiles on our choruses and fights with us against our rivals. Oh! goddess! manifest yourself to our sight; this day more than ever we deserve that you should ensure our triumph. We will sing likewise the exploits of our steeds! they are worthy of our praises;in what invasions, what fights have I not seen them helping us! But especially admirable were they, when they bravely leapt upon the galleys, taking nothing with them but a coarse wine, some cloves of garlic and onions; despite this, they nevertheless seized the sweeps just like men, curved their backs over the thwarts and shouted, \"Hippopopoh! Give way! Come, all pull together! Come, come! How! Samphoras!Are you not rowing?\" They rushed down upon the coast of Corinth, and the youngest hollowed out beds in the sand with their hoofs or went to fetch coverings; instead of luzern, they had no food but crabs, which they caught on the strand and even in the sea; so that Theorus causes a Corinthian crab to say, \"'Tis a cruel fate, oh Posidon! neither my deep hiding-places, whether on land or at sea, can help me to escape the Knights.\" Welcome, oh, dearest and bravest of men! How distracted I have been during your absence! But here you are back, safe and sound. Tell us about the fight you have had.\n[Note 62: Hitherto Aristophanes had presented his pieces under an assumed name.]\n[Note 63: A comic poet, who had carried off the prize eleven times; not a fragment of his works remains to us.]\n[Note 64: An allusion to the titles of some of his pieces, viz. \"the Flute Players, the Birds, the Lydians, the Gnats, the Frogs.\"]\n[Note 65: The Comic Poet, rival of Aristophanes, several times referred to above.]\n[Note 66: These were the opening lines of poems by Cratinus, often sung at festivities.]\n[Note 67: A poet, successful at the Olympic games, and in old age reduced to extreme misery.]\n[Note 68: The place of honour in the Dionysiac Theatre, reserved for distinguished citizens.]\n[Note 69: A Comic Poet, who was elegant but cold; he had at first played as an actor in the pieces of Cratinus.]\n[Note 70: Besides the oarsmen and the pilot, there was on the Grecian vessels a sailor, who stood at the prow to look out for rocks, and another, who observed the direction of the wind.]\n[Note 71: Two promontories, one in Attica, the other in Euboea, on which temples to Posidon were erected.]\n[Note 72: An Athenian general, who had gained several naval victories. He had contributed to the success of the expedition to Samos (Thucydides, Book I), and had recently beaten a Peloponnesian fleet (Thucydides, Book II).]\n[Note 73: At the Panathenaea, a festival held every fourth year, a peplus, or sail, was carried with pomp to the Acropolis. On this various mythological scenes, having reference to Athené, were embroidered—her exploits against the giants, her fight with Posidon concerning the name to be given to Athens, etc. It had also become customary to add the names and the deeds of such citizens as had deserved well of their country.]\n[Note 74: Cleaenetus had passed a law to limit the number of citizens to be fed at the Prytaneum; it may be supposed, that those, who aspired to this distinction, sought to conciliate Cleaenetus in their favour.]\n[Note 75: The Chorus of Knights, not being able to sing their own praises, feign to divert these to their chargers.]\n[Note 76: A horse branded with the obsolete letter σάν—ϡ, as a mark of breed or high quality.]\n[Note 77: Crab was no doubt a nickname given to the Corinthians on account of the position of their city on an isthmus between two seas. In the 'Acharnians' Theorus is mentioned as an ambassador, who had returned from the King of Persia.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThe important thing is that I have beaten the Senate.\n[Note 78: The Senate was a body composed of five hundred members, elected annually like the magistrates from the three first classes to the exclusion of the fourth, the Thetes, which was composed of the poorest citizens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nAll glory to you! Let us burst into shouts of joy! You speak well, but your deeds are even better. Come, tell me everything in detail; what a long journey would I not be ready to take to hear your tale! Come, dear friend, speak with full confidence to your admirers.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThe story is worth hearing. Listen! From here I rushed straight to the Senate, right in the track of this man; he was already letting loose the storm, unchaining the lightning, crushing the Knights beneath huge mountains of calumnies heaped together and having all the air of truth; he called you conspirators and his lies caught root like weeds in every mind; dark were the looks on every side and brows were knitted. When I saw that the Senate listened to him favourably and was being tricked by his imposture, I said to myself, \"Come, gods of rascals and braggarts, gods of all fools, toad-eaters and braggarts and thou, market-place, where I was bred from my earliest days, give me unbridled audacity, an untiring chatter and a shameless voice.\" No sooner had I ended this prayer than a lewd man broke wind on my right. \"Hah! 'tis a good omen,\" said I, and prostrated myself; then I burst open the door by a vigorous push with my back, and, opening my mouth to the utmost, shouted, \"Senators, I wanted you to be the first to hear the good news; since the War broke out, I have never seen anchovies at a lower price!\" All faces brightened at once and I was voted a chaplet for my good tidings; and I added, \"With a couple of words I will reveal to you, how you can have quantities of anchovies for an obol; 'tis to seize on all the dishes the merchants have.\" With mouths gaping with admiration, they applauded me. However, the Paphlagonian winded the matter and, well knowing the sort of language which pleases the Senate best, said, \"Friends, I am resolved to offer one hundred oxen to the goddess in recognition of this happy event.\" The Senate at once veered to his side. So when I saw myself defeated by this ox filth, I outbade the fellow, crying, \"Two hundred!\" And beyond this I moved, that a vow be made to Diana of a thousand goats if the next day anchovies should only be worth an obol a hundred. And the Senate looked towards me again. The other, stunned with the blow, grew delirious in his speech, and at last the Prytanes and the guards dragged him out. The Senators then stood talking noisily about the anchovies. Cleon, however, begged them to listen to the Lacedaemonian envoy, who had come to make proposals of peace; but all with one accord, cried, \"'Tis certainly not the moment to think of peace now! If anchovies are so cheap, what need have we of peace? Let the war take its course!\" And with loud shouts they demanded that the Prytanes should close the sitting and then leapt over the rails in all directions. As for me, I slipped away to buy all the coriander seed and leeks there were on the market and gave it to them gratis as seasoning for their anchovies. 'Twas marvellous! They loaded me with praises and caresses; thus I conquered the Senate with an obol's worth of leeks, and here I am.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nBravo! you are the spoilt child of Fortune. Ah! our knave has found his match in another, who has far better tricks in his sack, a thousand kinds of knaveries and of wily words. But the fight begins afresh; take care not to weaken; you know that I have long been your most faithful ally.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAh! ah! here comes the Paphlagonian! One would say, 'twas a hurricane lashing the sea and rolling the waves before it in its fury. He looks as if he wanted to swallow me up alive! Ye gods! what an impudent knave!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nTo my aid, my beloved lies! I am going to destroy you, or my name is lost.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nOh! how he diverts me with his threats! His bluster makes me laugh! And I dance the mothon for joy,and sing at the top of my voice, cuckoo!\n[Note 79: The μόθων, a rough, boisterous, obscene dance.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nAh! by Demeter! if I do not kill and devour you, may I die!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nIf you do not devour me? and I, if I do not drink your blood to the last drop, and then burst with indigestion.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI, I will strangle you, I swear it by the precedence which Pylos gained me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBy the precedence! Ah! might I see you fall from your precedence into the hindmost seat!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nBy heaven! I will put you to the torture.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhat a lively wit! Come, what's the best to give you to eat? What do you prefer? A purse?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will tear out your inside with my nails.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I will cut off your victuals at the Prytaneum.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will haul you before Demos, who will mete out justice to you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I too will drag you before him and belch forth more calumnies than you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nWhy, poor fool, he does not believe you, whereas I play with him at will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nSo that Demos is your property, your contemptible creature.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\n'Tis because I know the dishes that please him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd these are little mouthfuls, which you serve to him like a clever nurse. You chew the pieces and place some in small quantities in his mouth, while you swallow three parts yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nThanks to my skill, I know exactly how to enlarge or contract this gullet.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI can do as much with my rump.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nHah! my friend, you tricked me at the Senate, but have a care! Let us go before Demos.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThat's easily done; come, let's along without delay.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh, Demos! Come, I adjure you to help me, my father!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nCome, oh, my dear little Demos; come and see how I am insulted.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWhat a hubbub! To the Devil with you, bawlers! alas! my olive branch, which they have torn down!Ah! 'tis you, Paphlagonian. And who, pray, has been maltreating you?\n[Note 80: At the festival of the Pyanepsia, held in honour of Athené as the protectress of Theseus in his fight with the Minotaur, the children carried olive branches in procession, round which strips of linen were wound; they were then fastened up over the entrances of each house.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nYou are the cause of this man and these young people having covered me with blows.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAnd why? CLEON Because you love me passionately, Demos.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAnd you, who are you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nHis rival. For many a long year have I loved you, have I wished to do you honour, I and a crowd of other men of means. But this rascal here has prevented us. You resemble those young men who do not know where to choose their lovers; you repulse honest folk; to earn your favours, one has to be a lamp-seller, a cobbler, a tanner or a currier.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI am the benefactor of the people.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nIn what way, an it please you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nIn what way? I supplanted the Generals at Pylos, I hurried thither and I brought back the Laconian captives.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I, whilst simply loitering, cleared off with a pot from a shop, which another fellow had been boiling.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nDemos, convene the assembly at once to decide which of us two loves you best and most merits your favour.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nYes, yes, provided it be not at the Pnyx.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nI could not sit elsewhere; 'tis at the Pnyx, that you must appear before me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAh! great gods! I am undone! At home this old fellow is the most sensible of men, but the instant he is seated on those cursed stone seats,he is there with mouth agape as if he were hanging up figs by their stems to dry.\n[Note 81: On which the citizens sat in the Public Assembly in the Pnyx to hear the orators. In the centre of the semicircular space the tribune stood, a square block of stone, Βῇμα, and from this the people were addressed.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nCome, loose all sail. Be bold, skilful in attack and entangle him in arguments which admit of no reply. It is difficult to beat him, for he is full of craft and pulls himself out of the worst corners. Collect all your forces to come forth from this fight covered with glory, but take care! Let him not assume the attack, get ready your grapples and advance with your vessel to board him!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh! guardian goddess of our city! oh! Athené! if it be true that next to Lysicles, Cynna and Salabaccha none have done so much good for the Athenian people as I, suffer me to continue to be fed at the Prytaneum without working; but if I hate you, if I am not ready to fight in your defence alone and against all, may I perish, be sawn to bits alive and my skin be cut up into thongs.\n[Note 82: Lysicles was a dealer in sheep, who had wielded great power in Athens after the death of Pericles. Cynna and Salabaccha were two celebrated courtesans.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I, Demos, if it be not true, that I love and cherish you, may I be cooked in a stew; and if that is not saying enough, may I be grated on this table with some cheese and then hashed, may a hook be passed through my testicles and let me be dragged thus to the Ceramicus!\n[Note 83: Place of interment for those who died for the country.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nIs it possible, Demos, to love you more than I do? And firstly, as long as you have governed with my consent, have I not filled your treasury, putting pressure on some, torturing others or begging of them, indifferent to the opinion of private individuals, and solely anxious to please you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThere is nothing so wonderful in all that, Demos; I will do as much; I will thieve the bread of others to serve up to you. No, he has neither love for you nor kindly feeling; his only care is to warm himself with your wood, and I will prove it. You, who, sword in hand, saved Attica from the Median yoke at Marathon; you, whose glorious triumphs we love to extol unceasingly, look, he cares little whether he sees you seated uncomfortably upon a stone; whereas I, I bring you this cushion, which I have sewn with my own hands. Rise and try this nice soft seat. Did you not put enough strain on your breeches at Salamis?\n[Note 84: Seated on the banks for the rowers.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWho are you then? Can you be of the race of Harmodius?Upon my faith, 'tis nobly done and like a true friend of Demos.\n[Note 85: Assassin of the tyrant Hippias, the son of Pisistratus. His memory was held in great honour at Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nPetty flattery to prove him your goodwill!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBut you have caught him with even smaller baits!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nNever had Demos a defender or a friend more devoted than myself; on my head, on my life, I swear it!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nYou pretend to love him and for eight years you have seen him housed in casks, in crevices and dovecots,where he is blinded with the smoke, and you lock him in without pity; Archeptolemus brought peace and you tore it to ribbons; the envoys who come to propose a truce you drive from the city with kicks in their backsides.\n[Note 86: Driven out by the invasions of the Peloponnesians, the people of the outlying districts had been obliged to seek refuge within the walls of Athens, where they were lodged wherever they could find room.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nThis is that Demos may rule over all the Greeks; for the oracles predict that, if he is patient, he must one day sit as judge in Arcadia at five obols per day. Meanwhile, I will nourish him, look after him and, above all, I will ensure to him his three obols.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNo, little you care for his reigning in Arcadia, 'tis to pillage and impose on the allies at will that you reckon; you wish the War to conceal your rogueries as in a mist, that Demos may see nothing of them, and harassed by cares, may only depend on yourself for his bread. But if ever peace is restored to him, if ever he returns to his lands to comfort himself once more with good cakes, to greet his cherished olives, he will know the blessings you have kept him out of, even though paying him a salary; and, filled with hatred and rage, he will rise, burning with desire to vote against you. You know this only too well; 'tis for this you rock him to sleep with your lies.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nIs it not shameful, that you should dare thus to calumniate me before Demos, me, to whom Athens, I swear it by Demeter, already owes more than it ever did to Themistocles?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nOh! citizens of Argos, do you hear what he says?You dare to compare yourself to Themistocles, who found our city half empty and left it full to overflowing, who one day gave us the Piraeus for dinner,and added fresh fish to all our usual meals.You, on the contrary, you, who compare yourself with Themistocles, have only sought to reduce our city in size, to shut it within its walls, to chant oracles to us. And Themistocles goes into exile, while you gorge yourself on the most excellent fare.\n[Note 87: A verse borrowed from Euripides' lost play of 'Telephus.']\n[Note 88: Themistocles joined the Piraeus to Athens by the construction of the Long Walls.]\n[Note 89: Which were caught off the Piraeus.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh! Demos! Am I compelled to hear myself thus abused, and merely because I love you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nSilence! stop your abuse! All too long have I been your tool.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAh! my dear little Demos, he is a rogue, who has played you many a scurvy trick; when your back is turned, he taps at the root the lawsuits initiated by the peculators, swallows the proceeds wholesale and helps himself with both hands from the public funds.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nTremble, knave; I will convict you of having stolen thirty thousand drachmae.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nFor a rascal of your kidney, you shout rarely! Well! I am ready to die if I do not prove that you have accepted more than forty minae from the Mitylenaeans.\n[Note 90: Mitylené, chief city of the Island of Lesbos, rebelled against the Athenians and was retaken by Chares. By a popular decree the whole manhood of the town was to suffer death, but this decree was withdrawn the next day. Aristophanes insinuates that Cleon, bought over with Mitylenaean gold, brought about this change of opinion. On the contrary, Thucydides says that the decree was revoked in spite of Cleon's opposition.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nThis indeed may be termed talking. Oh, benefactor of the human race, proceed and you will be the most illustrious of the Greeks. You alone shall have sway in Athens, the allies will obey you, and, trident in hand, you will go about shaking and overturning everything to enrich yourself. But, stick to your man, let him not go; with lungs like yours you will soon have him finished.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nNo, my brave friends, no, you are running too fast; I have done a sufficiently brilliant deed to shut the mouth of all enemies, so long as one of the bucklers of Pylos remains.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nOf the bucklers! Hold! I stop you there and I hold you fast. For if it be true, that you love the people, you would not allow these to be hung up with their rings;but 'tis with an intent you have done this. Demos, take knowledge of his guilty purpose; in this way you no longer can punish him at your pleasure. Note the swarm of young tanners, who really surround him, and close to them the sellers of honey and cheese; all these are at one with him. Very well! you have but to frown, to speak of ostracism and they will rush at night to these bucklers, take them down and seize our granaries.\n[Note 91: When bucklers were hung up as trophies, it was usual to detach the ring or brace, so as to render them useless for warlike purposes.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nGreat gods! what! the bucklers retain their rings! Scoundrel! ah! too long have you had me for your tool, cheated and played with me!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nBut, dear sir, never you believe all he tells you. Oh! never will you find a more devoted friend than me; unaided, I have known how to put down the conspiracies; nothing that is a-hatching in the city escapes me, and I hasten to proclaim it loudly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nYou are like the fishers for eels; in still waters they catch nothing, but if they thoroughly stir up the slime, their fishing is good; in the same way 'tis only in troublous times that you line your pockets. But come, tell me, you, who sell so many skins, have you ever made him a present of a pair of soles for his slippers? and you pretend to love him!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nNo, he has never given me any.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThat alone shows up the man; but I, I have bought you this pair of shoes; accept them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nNone ever, to my knowledge, has merited so much from the people; you are the most zealous of all men for your country and for my toes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nCan a wretched pair of slippers make you forget all that you owe me? Is it not I who curbed Gryttus,the filthiest of the lewd, by depriving him of his citizen rights?\n[Note 92: An orator of debauched habits.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAh! noble inspector of back passages, let me congratulate you. Moreover, if you set yourself against this form of lewdness, this pederasty, 'twas for sheer jealousy, knowing it to be the school for orators.But you see this poor Demos without a cloak and that at his age too! so little do you care for him, that in mid-winter you have not given him a garment with sleeves. Here, Demos, here is one, take it!\n[Note 93: An accusation frequently hurled at the orators.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nThis even Themistocles never thought of; the Piraeus was no doubt a happy idea, but meseems this tunic is quite as fine an invention.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nMust you have recourse to such jackanapes' tricks to supplant me?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNo, 'tis your own tricks that I am borrowing, just as a guest, driven by urgent need, seizes some other man's shoes.\n[Note 94: Guests took off their shoes before entering the festal hall.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh! you shall not outdo me in flattery! I am going to hand Demos this garment; all that remains to you, you rogue, is to go and hang yourself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nFaugh! may the plague seize you! You stink of leather horribly.\n[Note 95: An allusion to Cleon's former calling of a tanner.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhy, 'tis to smother you that he has thrown this cloak around you on top of the other; and it is not the first plot he has planned against you. Do you remember the time when silphium was so cheap?\n[Note 96: A plant from Cyrenaïca, which was imported into Athens in large quantities after the conclusion of a treaty of navigation, which Cleon made with this country. It was a very highly valued flavouring for sauces.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAye, to be sure I do!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nVery well! it was Cleon who had caused the price to fall so low so that all could eat it and the jurymen in the Courts were almost poisoned with farting in each others' faces.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nHah! why, indeed, a scavenger told me the same thing.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWere you not yourself in those days quite red in the gills with farting?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWhy, 'twas a trick worthy of Pyrrandrus!\n[Note 97: The name of a supposed informer. The adjective, ῥςπῤόυ, yellow, the colour of ordure, is contained in the construction of this name; thus a most disgusting piece of word-play is intended.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nWith what other idle trash will you seek to ruin me, you wretch!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nOh! I shall be more brazen than you, for 'tis the goddess who has commanded me.\n[Note 98: The orators were for ever claiming the protection of Athené.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nNo, on my honour, you will not! Here, Demos, feast on this dish; it is your salary as a dicast, which you gain through me for doing naught.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nHold! here is a little box of ointment to rub into the sores on your legs.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will pluck out your white hairs and make you young again.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nTake this hare's scut to wipe the rheum from your eyes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nWhen you wipe your nose, clean your fingers on my head.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNo, on mine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOn mine. [To the Sausage-seller.] I will have you made a trierarch and you will get ruined through it; I will arrange that you are given an old vessel with rotten sails, which you will have to repair constantly and at great cost.\n[Note 99: A very expensive burden, which was imposed upon the rich citizen. The trierarchs had to furnish both the equipment of the triremes or war-galleys and their upkeep. They varied considerably in number and ended in reaching a total of 1200; the most opulent found the money, and were later repaid partly and little by little by those not so well circumstanced. Later it was permissible for anyone, appointed as a trierarch, to point out someone richer than himself and to ask to have him take his place with the condition that if the other preferred, he should exchange fortunes with him and continue his office of trierarch.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOur man is on the boil; enough, enough, he is boiling over; remove some of the embers from under him and skim off his threats.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will punish your self-importance; I will crush you with imposts; I will have you inscribed on the list of the rich.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nFor me no threats—only one simple wish. That you may be having some cuttle-fish fried on the stove just as you are going to set forth to plead the cause of the Milesians,which, if you gain, means a talent in your pocket; that you hurry over devouring the fish to rush off to the Assembly; suddenly you are called and run off with your mouth full so as not to lose the talent and choke yourself. There! that is my wish.\n[Note 100: This is an allusion to some extortion of Cleon's.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nSplendid! by Zeus, Apollo and Demeter!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nFaith! here is an excellent citizen indeed, such as has not been seen for a long time. 'Tis truly a man of the lowest scum! As for you, Paphlagonian, who pretend to love me, you only feed me on garlic. Return me my ring, for you cease to be my steward.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nHere it is, but be assured, that if you bereave me of my power, my successor will be worse than I am.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nThis cannot be my ring; I see another device, unless I am going purblind.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhat was your device?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nA fig-leaf, stuffed with bullock's fat.\n[Note 101: The Greek word δημος means both \"The People\" and fat, grease. The pun cannot well be kept in English.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNo, that is not it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWhat is it then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\n'Tis a gull with beak wide open, haranguing from the top of a stone.\n[Note 102: A voracious bird—in allusion to Cleon's rapacity and to his loquacity in the Assembly.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAh! great gods!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhat is the matter?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAway! away out of my sight! 'Tis not my ring he had, 'twas that of Cleonymus. [To the Sausage-seller.] Hold, I give you this one; you shall be my steward.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nMaster, I adjure you, decide nothing till you have heard my oracles.\n[Note 103: The orators were fond of supporting their arguments with imaginary oracles—and Cleon was an especial adept at this dodge.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd mine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nIf you believe him, you will have to suck his tool for him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nIf you listen to him, you'll have to let him skin your penis to the very stump.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nMy oracles say that you are to reign over the whole earth, crowned with chaplets.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd mine say that, clothed in an embroidered purple robe, you shall pursue Smicythes and her spouse,standing in a chariot of gold and with a crown on your head.\n[Note 104: Smicythes, King of Thrace, spoken of in the oracle as a woman, doubtless on account of his cowardice. The word pursue is here used in a double sense, viz. in battle and in law. It is on account of this latter meaning, that Aristophanes adds \"and her spouse,\" because in cases in which women were sued at law, their husbands were summoned as conjointly liable.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nGo, fetch me your oracles, that the Paphlagonian may hear them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWillingly.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAnd you yours.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI run.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I run too; nothing could suit me better!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh! happy day for us and for our children, if Cleon perish. Yet just now I heard some old cross-grained pleaders on the market-place who hold not this opinion discoursing together. Said they, \"If Cleon had not had the power we should have lacked two most useful tools, the pestle and the soup-ladle.\"You also know what a pig's education he has had; his school-fellows can recall that he only liked the Dorian style and would study no other; his music-master in displeasure sent him away, saying: \"This youth in matters of harmony, will only learn the Dorian style because 'tis akin to bribery.\"\n[Note 105: Because he had smashed up and turned upside down the fortunes of Athens.]\n[Note 106: The pun—rather a far-fetched one—is between the words Δωριοτί (in the Dorian mode) and δῶρο (a bribe).]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nThere, behold and look at this heap; and yet I do not bring all.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nUgh! I pant and puff under the weight and yet I do not bring all.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWhat are these?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOracles.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAll these?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nDoes that astonish you? Why, I have another whole boxful of them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I the whole of my attics and two rooms besides.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nCome, let us see, whose are these oracles?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nMine are those of Bacis. DEMOS [to the Sausage-seller]. And whose are yours?\n[Note 107: A Boeotian soothsayer.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nGlanis's, the elder brother of Bacis.\n[Note 108: A name invented by the Sausage-seller on the spur of the moment, to cap Cleon's boast.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAnd of what do they speak?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOf Athens, of Pylos, of you, of me, of all.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAnd yours?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nOf Athens, of lentils, of Lacedaemonians, of fresh mackerel, of scoundrelly flour-sellers, of you, of me. Ah! ha! now let him gnaw his own penis with chagrin!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nCome, read them out to me and especially that one I like so much, which says that I shall become an eagle and soar among the clouds.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nThen listen and be attentive! \"Son of Erectheus,understand the meaning of the words, which the sacred tripods set resounding in the sanctuary of Apollo. Preserve the sacred dog with the jagged teeth, that barks and howls in your defence; he will ensure you a salary and, if he fails, will perish as the victim of the swarms of jays that hunt him down with their screams.\"\n[Note 109: That is, Athenian; Erectheus was an ancient mythical King of Athens.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nBy Demeter! I do not understand a word of it. What connection is there between Erectheus, the jays and the dog?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\n'Tis I who am the dog, since I bark in your defence. Well! Phoebus commands you to keep and cherish your dog.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\n'Tis not so spoken by the god; this dog seems to me to gnaw at the oracles as others gnaw at doorposts. Here is exactly what Apollo says of the dog.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nLet us hear, but I must first pick up a stone; an oracle which speaks of a dog might bite me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\n\"Son of Erectheus, beware of this Cerberus that enslaves freemen; he fawns upon you with his tail, when you are dining, but he is lying in wait to devour your dishes, should you turn your head an instant; at night he sneaks into the kitchen and, true dog that he is, licks up with one lap of his tongue both your dishes and … the islands.\"\n[Note 110: That is, the tributes paid to Athens by the Aegaean Islands, whether allies or subjects.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nFaith, Glanis, you speak better than your brother.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nCondescend again to hear me and then judge: \"A woman in sacred Athens will be delivered of a lion, who shall fight for the people against clouds of gnats with the same ferocity as if he were defending his whelps; care ye for him, erect wooden walls around him and towers of brass.\" Do you understand that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nNot the least bit in the world.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nThe god tells you here to look after me, for, 'tis I who am your lion.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nHow! You have become a lion and I never knew a thing about it?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThere is only one thing which he purposely keeps from you; he does not say what this wall of wood and brass is in which Apollo warns you to keep and guard him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWhat does the god mean, then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nHe advises you to fit him into a five-holed wooden collar.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nHah! I think that oracle is about to be fulfilled.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nDo not believe it; these are but jealous crows, that caw against me; but never cease to cherish your good hawk; never forget that he brought you those Lacedaemonian fish, loaded with chains.\n[Note 111: The Lacedaemonian prisoners from Sphacteria, so often referred to.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAh! if the Paphlagonian ran any risk that day, 'twas because he was drunk. Oh, too credulous son of Cecrops,do you accept that as a glorious exploit? A woman would carry a heavy burden if only a man had put it on her shoulders. But to fight! Go to! he would shit himself, if ever it came to a tussle.\n[Note 112: That is, Athenian; Cecrops was the first King of Athens, according to the legends.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nNote this Pylos in front of Pylos, of which the oracle speaks, \"Pylos is before Pylos.\"\n[Note 113: There were three towns of this name in different parts of Greece.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nHow \"in front of Pylos\"? What does he mean by that?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nHe says he will seize upon your bath-tubs.\n[Note 114: There is a pun here which it is impossible to render in English; the Greek Πύλος(Pylos) differs by only one letter from the word meaning a bath-tub (πύελος).]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nThen I shall not bathe to-day.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNo, as he has stolen our baths. But here is an oracle about the fleet, to which I beg your best attention.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nRead on! I am listening; let us first see how we are to pay our sailors.\n[Note 115: Cleon was reproached by his enemies with paying small attention to the regular payment of the sailors.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\n\"Son of Aegeus,beware of the tricks of the dog-fox,he bites from the rear and rushes off at full speed; he is nothing but cunning and perfidy.\" Do you know what the oracle intends to say?\n[Note 116: Another poetical term to signify Athenian; Aegeus, an ancient mythical King of Athens, father of Theseus.]\n[Note 117: Impudent as a dog and cunning as a fox.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nThe dog-fox is Philostratus.\n[Note 118: An orator and statesman of the day; practically nothing is known about him.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNo, no, 'tis Cleon; he is incessantly asking you for light vessels to go and collect the tributes, and Apollo advises you not to grant them.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWhat connection is there between a galley and a dog-fox?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhat connection? Why, 'tis quite plain—a galley travels as fast as a dog.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWhy, then, does the oracle not say dog instead of dog-fox?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBecause he compares the soldiers to young foxes, who, like them, eat the grapes in the fields.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nGood! Well then! how am I to pay the wages of my young foxes?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI will undertake that, and in three days too! But listen to this further oracle, by which Apollo puts you on your guard against the snares of the greedy fist.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nOf what greedy fist?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThe god in this oracle very clearly points to the hand of Cleon, who incessantly holds his out, saying, \"Fill it.\"",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\n'Tis false! Phoebus means the hand of Diopithes.But here I have a winged oracle, which promises you shall become an eagle and rule over all the earth.\n[Note 119: Another orator and statesman, accused apparently of taking bribes.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI have one, which says that you shall be King of the Earth and of the Sea, and that you shall administer justice in Ecbatana, eating fine rich stews the while.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI have seen Athené in a dream, pouring out full vials of riches and health over the people.\n[Note 120: As pointed out before, the orators were fond of dragging Athené continually into their speeches.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI too have seen the goddess, descending from the Acropolis with an owl perched upon her helmet; on your head she was pouring out ambrosia, on that of Cleon garlic pickle.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nTruly Glanis is the wisest of men. I shall yield myself to you; guide me in my old age and educate me anew.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nAh! I adjure you! not yet; wait a little; I will promise to distribute barley every day.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAh! I will not hear another word about barley; you have cheated me too often already, both you and Theophanes.\n[Note 121: One of Cleon's protégés and flatterers. The scholiasts say he was his secretary.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nWell then! you shall have flour-cakes all piping hot.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI will give you cakes too, and nice cooked fish; you will only have to eat.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nVery well, mind you keep your promises. To whichever of you twain shall treat me best I hand over the reins of state.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI will be first.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNo, no, I will.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nDemos, you are our all-powerful sovereign lord; all tremble before you, yet you are led by the nose. You love to be flattered and fooled; you listen to the orators with gaping mouth and your mind is led astray.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\n'Tis rather you who have no brains, if you think me so foolish as all that; it is with a purpose that I play this idiot's role, for I love to drink the lifelong day, and so it pleases me to keep a thief for my minister. When he has thoroughly gorged himself, then I overthrow and crush him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWhat profound wisdom! If it be really so, why! all is for the best. Your ministers, then, are your victims, whom you nourish and feed up expressly in the Pnyx, so that, the day your dinner is ready, you may immolate the fattest and eat him.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nLook, see how I play with them, while all the time they think themselves such adepts at cheating me. I have my eye on them when they thieve, but I do not appear to be seeing them; then I thrust a judgment down their throat as it were a feather, and force them to vomit up all they have robbed from me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh! the rascal!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nOh! the scoundrel!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nDemos, all is ready these three hours; I await your orders and I burn with desire to load you with benefits.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I ten, twelve, a thousand hours, a long, long while, an infinitely long while.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAs for me, 'tis thirty thousand hours that I have been impatient; very long, infinitely long that I have cursed you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nDo you know what you had best do?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nIf I do not, tell me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nDeclare the lists open and we will contend abreast to determine who shall treat you the best.\n[Note 122: Terms borrowed from the circus races.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nSplendid! Draw back in line!\n[Note 122: Terms borrowed from the circus races.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nI am ready.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nOff you go! SAUSAGE-SELLER [to Cleon]. I shall not let you get to the tape.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWhat fervent lovers! If I am not to-day the happiest of men, 'tis because I shall be the most disgusted.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nLook! 'tis I who am the first to bring you a seat.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd I a table.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nHold, here is a cake kneaded of Pylos barley. SAUSAGE—SELLER. Here are crusts, which the ivory hand of the goddess has hallowed.\n[Note 123: That is, at the expense of other folk.]\n[Note 124: Pieces of bread, hollowed out, which were filled with mincemeat or soup.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nOh! Mighty Athené! How large are your fingers!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nThis is pea-soup, as exquisite as it is fine; 'tis Pallas the victorious goddess at Pylos who crushed the peas herself.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nOh, Demos! the goddess watches over you; she is stretching forth over your head … a stew-pan full of broth.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAnd should we still be dwelling in this city without this protecting stew-pan?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nHere are some fish, given to you by her who is the terror of our foes.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThe daughter of the mightiest of the gods sends you this meat cooked in its own gravy, along with this dish of tripe and some paunch.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\n'Tis to thank me for the Peplos I offered to her; 'tis well.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nThe goddess with the terrible plume invites you to eat this long cake; you will row the harder on it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nTake this also.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAnd what shall I do with this tripe?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nShe sends it you to belly out your galleys, for she is always showing her kindly anxiety for our fleet. Now drink this beverage composed of three parts of water to two of wine.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAh! what delicious wine, and how well it stands the water.\n[Note 125: Both Greeks and Romans drank their wine mixed with water.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\n'Twas the goddess who came from the head of Zeus that mixed this liquor with her own hands.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nHold, here is a piece of good rich cake.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBut I offer you an entire cake.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nBut you cannot offer him stewed hare as I do.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAh! great gods! stewed hare! where shall I find it? Oh! brain of mine, devise some trick!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nDo you see this, poor fellow?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nA fig for that! Here are folk coming to seek me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nWho are they?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nEnvoys, bearing sacks bulging with money.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\n[Hearing money mentioned Clean turns his head, and Agoracritus seizes the opportunity to snatch away the stewed hare.] Where, where, I say?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBah! What's that to you? Will you not even now let the strangers alone? Demos, do you see this stewed hare which I bring you?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nAh! rascal! you have shamelessly robbed me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nYou have robbed too, you robbed the Laconians at Pylos.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAn you pity me, tell me, how did you get the idea to filch it from him?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nThe idea comes from the goddess; the theft is all my own.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nAnd I had taken such trouble to catch this hare.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBut 'twas I who had it cooked. DEMOS [to Cleon]. Get you gone! My thanks are only for him who served it.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nAh! wretch! have you beaten me in impudence!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWell then, Demos, say now, who has treated you best, you and your stomach? Decide!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nHow shall I act here so that the spectators shall approve my judgment?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI will tell you. Without saying anything, go and rummage through my basket, and then through the Paphlagonian's, and see what is in them; that's the best way to judge.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nLet us see then, what is there in yours?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nWhy, 'tis empty, dear little father; I have brought everything to you.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nThis is a basket devoted to the people.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNow hunt through the Paphlagonian's. Well?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nOh! what a lot of good things! Why! 'tis quite full! Oh! what a huge great part of this cake he kept for himself! He had only cut off the least little tiny piece for me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nBut this is what he has always done. Of everything he took, he only gave you the crumbs, and kept the bulk.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nOh! rascal! was this the way you robbed me? And I was loading you with chaplets and gifts!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\n'Twas for the public weal I robbed. DEMOS [to Cleon]. Give me back that crown;I will give it to him.\n[Note 126: After his success in the Sphacteria affair Cleon induced the people to vote him a chaplet of gold.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nReturn it quick, quick, you gallows-bird.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nNo, for the Pythian oracle has revealed to me the name of him who shall overthrow me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nAnd that name was mine, nothing can be clearer.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nReply and I shall soon see whether you are indeed the man whom the god intended. Firstly, what school did you attend when a child?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\n'Twas in the kitchens I was taught with cuffs and blows.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nWhat's that you say? Ah! this is truly what the oracle said. And what did you learn from the master of exercises?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI learnt to take a false oath without a smile, when I had stolen something.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh! Phoebus Apollo, god of Lycia! I am undone! And when you had become a man, what trade did you follow?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nI sold sausages and did a bit of fornication.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CLEON\nOh! my god! I am a lost man! Ah! still one slender hope remains. Tell me, was it on the market-place or near the gates that you sold your sausages?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nNear the gates, in the market for salted goods. CLEON Alas! I see the prophecy of the god is verily come true. Alas! roll me home.I am a miserable, ruined man. Farewell, my chaplet! 'Tis death to me to part with you. So you are to belong to another; 'tis certain he cannot be a greater thief, but perhaps he may be a luckier one.\n[Note 127: That is, by means of the mechanical device of the Greek stage known as the ἐκκύκλημα.]\n[Note 128: Parody of a well-known verse from Euripides' 'Alcestis.']",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nOh! Zeus, the protector of Greece! 'tis to you I owe this victory!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOSTHENES\nHail! illustrious conqueror, but forget not, that if you have become a great man, 'tis thanks to me; I ask but a little thing; appoint me secretary of the law-court in the room of Phanus. DEMOS [to the Sausage-seller]. But what is your name then? Tell me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "SAUSAGE-SELLER\nMy name is Agoracritus, because I have always lived on the market-place in the midst of lawsuits.\n[Note 129: The name Agoracritus is compounded: cf. ἀγορά, a market-place, and κρίνειν, to judge.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWell then, Agoracritus, I stand by you; as for the Paphlagonian, I hand him over to your mercy.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nDemos, I will care for you to the best of my power, and all shall admit that no citizen is more devoted than I to this city of simpletons.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nWhat fitter theme for our Muse, at the close as at the beginning of his work, than this, to sing the hero who drives his swift steeds down the arena? Why afflict Lysistratus with our satires on his poverty,and Thumantis,who has not so much as a lodging? He is dying of hunger and can be seen at Delphi, his face bathed in tears, clinging to your quiver, oh, Apollo! and supplicating you to take him out of his misery. An insult directed at the wicked is not to be censured; on the contrary, the honest man, if he has sense, can only applaud. Him, whom I wish to brand with infamy, is little known himself; 'tis the brother of Arignotus.I regret to quote this name which is so dear to me, but whoever can distinguish black from white, or the Orthian mode of music from others, knows the virtues of Arignotus, whom his brother, Ariphrades,in no way resembles. He gloats in vice, is not merely a dissolute man and utterly debauched—but he has actually invented a new form of vice; for he pollutes his tongue with abominable pleasures in brothels licking up that nauseous moisture and befouling his beard as he tickles the lips of lewd women's private parts.Whoever is not horrified at such a monster shall never drink from the same cup with me. At times a thought weighs on me at night; I wonder whence comes this fearful voracity of Cleonymus.'Tis said, that when dining with a rich host, he springs at the dishes with the gluttony of a wild beast and never leaves the bread-bin until his host seizes him round the knees, exclaiming, \"Go, go, good gentleman, in mercy go, and spare my poor table!\" 'Tis said that the triremes assembled in council and that the oldest spoke in these terms, \"Are you ignorant, my sisters, of what is plotting in Athens? They say, that a certain Hyperbolus,a bad citizen and an infamous scoundrel, asks for a hundred of us to take them to sea against Chalcedon.\"All were indignant, and one of them, as yet a virgin, cried, \"May god forbid that I should ever obey him! I would prefer to grow old in the harbour and be gnawed by worms. No! by the gods I swear it, Nauphanté, daughter of Nauson, shall never bend to his law; 'tis as true as I am made of wood and pitch. If the Athenians vote for the proposal of Hyperbolus, let them! we will hoist full sail and seek refuge by the temple of Theseus or the shrine of the Euminides.No! he shall not command us! No! he shall not play with the city to this extent! Let him sail by himself for Tartarus, if such please him, launching the boats in which he used to sell his lamps.\"\n[Note 130: This grandiloquent opening is borrowed from Pindar.]\n[Note 131: Mentioned in the 'Acharnians.']\n[Note 132: A soothsayer.]\n[Note 133: A flute-player.]\n[Note 134: An allusion to the vice of the 'cunnilingue,' apparently a novel form of naughtiness at Athens in Aristophanes' day.]\n[Note 135: As well known for his gluttony as for his cowardice.]\n[Note 136: One of the most noisy demagogues of Cleon's party; he succeeded him, but was later condemned to ostracism.]\n[Note 137: A town in Bithynia, situated at the entrance of the Bosphorus and nearly opposite Byzantium. It was one of the most important towns in Asia Minor. Doubtless Hyperbolus only demanded so large a fleet to terrorize the towns and oppress them at will.]\n[Note 138: These temples were inviolable places of refuge, where even slaves were secure.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nMaintain a holy silence! Keep your mouths from utterance! call no more witnesses; close these tribunals, which are the delight of this city, and gather at the theatre to chant the Paean of thanksgiving to the gods for a fresh favour.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh! torch of sacred Athens, saviour of the Islands, what good tidings are we to celebrate by letting the blood of the victims flow in our market-places?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nI have freshened Demos up somewhat on the stove and have turned his ugliness into beauty.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nI admire your inventive genius; but, where is he?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nHe is living in ancient Athens, the city of the garlands of violets.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHow I should like to see him! What is his dress like, what his manner?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nHe has once more become as he was in the days when he lived with Aristides and Miltiades. But you will judge for yourselves, for I hear the vestibule doors opening. Hail with your shouts of gladness the Athens of old, which now doth reappear to your gaze, admirable, worthy of the songs of the poets and the home of the illustrious Demos.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nOh! noble, brilliant Athens, whose brow is wreathed with violets, show us the sovereign master of this land and of all Greece.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nLo! here he is coming with his hair held in place with a golden band and in all the glory of his old-world dress; perfumed with myrrh, he spreads around him not the odour of lawsuits, but of peace.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "CHORUS\nHail! King of Greece, we congratulate you upon the happiness you enjoy; it is worthy of this city, worthy of the glory of Marathon.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nCome, Agoracritus, come, my best friend; see the service you have done me by freshening me up on your stove.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nAh! if you but remembered what you were formerly and what you did, you would for a certainty believe me to be a god.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nBut what did I? and how was I then?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nFirstly, so soon as ever an orator declared in the assembly \"Demos, I love you ardently; 'tis I alone, who dream of you and watch over your interests\"; at such an exordium you would look like a cock flapping his wings or a bull tossing his horns.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWhat, I?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nThen, after he had fooled you to the hilt, he would go.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWhat! they would treat me so, and I never saw it!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nYou knew only how to open and close your ears like a sunshade.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWas I then so stupid and such a dotard?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nWorse than that; if one of two orators proposed to equip a fleet for war and the other suggested the use of the same sum for paying out to the citizens, 'twas the latter who always carried the day. Well! you droop your head! you turn away your face?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nI redden at my past errors.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nThink no more of them; 'tis not you who are to blame, but those who cheated you in this sorry fashion. But, come, if some impudent lawyer dared to say, \"Dicasts, you shall have no wheat unless you convict this accused man!\" what would you do? Tell me.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nI would have him removed from the bar, I would bind Hyperbolus about his neck like a stone and would fling him into the Barathrum.\n[Note 139: A rocky cleft at the back of the Acropolis into which criminals were hurled.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nWell spoken! but what other measures do you wish to take?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nFirst, as soon as ever a fleet returns to the harbour, I shall pay up the rowers in full.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nThat will soothe many a worn and chafed bottom.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nFurther, the hoplite enrolled for military service shall not get transferred to another service through favour, but shall stick to that given him at the outset.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nThis will strike the buckler of Cleonymus full in the centre.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nNone shall ascend the rostrum, unless their chins are bearded.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nWhat then will become of Clisthenes and of Strato?\n[Note 140: Young and effeminate orators of licentious habits.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nI wish only to refer to those youths, who loll about the perfume shops, babbling at random, \"What a clever fellow is Pheax!How cleverly he escaped death! how concise and convincing is his style! what phrases! how clear and to the point! how well he knows how to quell an interruption!\"\n[Note 141: By adroit special pleading he had contrived to get his acquittal, when charged with a capital offence.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nI thought you were the lover of those pathic minions.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nThe gods forefend it! and I will force all such fellows to go a-hunting instead of proposing decrees.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nIn that case, accept this folding-stool, and to carry it this well-grown, big-testicled slave lad. Besides, you may put him to any other purpose you please.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nOh! I am happy indeed to find myself as I was of old!",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\nAye, you deem yourself happy, when I shall have handed you the truces of thirty years. Truces! step forward!\n[Note 142: They were personified on the stage as pretty little filles de joie.]",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nGreat gods! how charming they are! Can I do with them as I wish? where did you discover them, pray?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\n'Twas that Paphlagonian who kept them locked up in his house, so that you might not enjoy them. As for myself, I give them to you; take them with you into the country.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nAnd what punishment will you inflict upon this Paphlagonian, the cause of all my troubles?",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "AGORACRITUS\n'Twill not be over-terrible. I condemn him to follow my old trade; posted near the gates, he must sell sausages of asses' and dogs'-meat; perpetually drunk, he will exchange foul language with prostitutes and will drink nothing but the dirty water from the baths.",
+          "ref": null
+        },
+        {
+          "n": "",
+          "text": "DEMOS\nWell conceived! he is indeed fit to wrangle with harlots and bathmen; as for you, in return for so many blessings, I invite you to take the place at the Prytaneum which this rogue once occupied. Put on this frog-green mantle and follow me. As for the other, let 'em take him away; let him go sell his sausages in full view of the foreigners, whom he used formerly so wantonly to insult.",
+          "ref": null
+        }
+      ]
+    }
+  ]
+}

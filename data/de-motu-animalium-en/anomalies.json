@@ -1,0 +1,46 @@
+[
+  {
+    "where": "de-motu-animalium-en / page",
+    "note": "4 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): THE END | {{rule}} | [[el:Περί ζώων κινήσεως]] | {{translation license|original={{PD-old}}|translation={{PD/US|1942}}}}."
+  },
+  {
+    "where": "de-motu-animalium-en / page",
+    "note": "49 translator/editorial footnote marker(s) (<ref>...</ref>) removed from the reading text; the footnotes are apparatus, not Aristotle's words, and their content is not preserved anywhere in this build."
+  },
+  {
+    "where": "de-motu-animalium-en / source technique",
+    "note": "Every page of this work is ORDINARY WIKITEXT on English Wikisource (action=parse&prop=wikitext returns the real prose), not a djvu page-scan transclusion like data/metaphysics-en or data/categoriae-en. The translation is the same public-domain Oxford text, but the digitisation is a plaintext one: it prints no page-scan/proofreading markup, and marks its chapters with wiki-heading-N marker(s). Disclosed rather than described as a page-scan provenance it does not have."
+  },
+  {
+    "where": "de-motu-animalium-en / footnotes stripped",
+    "note": "49 inline <ref>...</ref> footnote marker(s) were removed from the reading text across the whole work; the footnotes are translator/editorial apparatus, not Aristotle's text, and their content is not preserved anywhere in this build."
+  },
+  {
+    "where": "de-motu-animalium-en / CONTENT-VERIFIED before import",
+    "note": "This batch's brief flagged De motu animalium as \"blue-linked, NOT yet content-verified\" — the existence of a link was not to be trusted as evidence of transcribed text. It was verified before this importer was written: \"On the Motion of Animals\" redirects to \"On the Movement of Animals\", and that page carries 38 KB of real prose in 11 numbered chapters with 49 footnotes, no red links and no stub markers. Genuine content; nothing was skipped and nothing was fabricated."
+  },
+  {
+    "where": "de-motu-animalium-en / title redirect",
+    "note": "The title given in this import's brief, \"On the Motion of Animals\", is a REDIRECT on English Wikisource; the actual page is \"On the Movement of Animals\". The redirect was resolved through the API and followed, rather than the title being assumed correct or the work being reported missing."
+  },
+  {
+    "where": "de-motu-animalium-en / chapter marker shape",
+    "note": "This page marks chapters with \"==N==\" headings whose text is nothing but the chapter number — a shape no other page in this batch uses (its batch-mates use \"==Part N==\", a bare \"Part N\" line, or a bare number line). Verified for this work specifically rather than assumed from any sibling."
+  },
+  {
+    "where": "de-motu-animalium-en / Bekker markers present (unlike its batch-mates)",
+    "note": "This is the ONLY plain-wikitext work in this batch whose source prints Bekker page markers: it carries them as {{verse|verse=698a}} templates. They are captured per chapter, in document order, and become a real Division.ref (a single page token, or first–last as a range when a chapter spans pages); the markers themselves are removed from the reading text, where they are marginalia rather than words. Passage.ref remains null, as no marker is printed at every paragraph break."
+  },
+  {
+    "where": "de-motu-animalium-en / completeness",
+    "note": "COMPLETE: all 11 chapters of the standard division are present and untruncated."
+  },
+  {
+    "where": "de-motu-animalium-en / reference scheme",
+    "note": "Division.ref carries the Bekker page reference reconstructed from the source's own {{verse|verse=NNNa}} markers, in document order (a single page token when the chapter falls on one page, otherwise first–last). Passage.ref is null throughout: the source prints no marker at every paragraph break, so a per-paragraph reference would have to be invented."
+  },
+  {
+    "where": "de-motu-animalium-en / relation to the Greek sibling",
+    "note": "This English edition was parsed entirely independently of any Greek edition of the same treatise in this library; the two are not forced to agree on chapter boundaries, and no division in de-motu-animalium-en was adjusted to match a Greek text."
+  }
+]

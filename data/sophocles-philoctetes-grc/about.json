@@ -1,0 +1,54 @@
+{
+  "workId": "sophocles-philoctetes-grc",
+  "title": "Philoctetes",
+  "author": "Sophocles",
+  "language": "grc",
+  "edition": "Sophocles, Volume 2. Storr, Francis, editor. London; New York: William Heinemann Ltd.; The Macmillan Company, 1913.",
+  "editor": "Francis Storr",
+  "provenance": "Perseus canonical-greekLit TEI XML, urn:cts:greekLit:tlg0011.tlg006.perseus-grc2",
+  "license": "Source TEI: CC-BY-SA (Perseus Digital Library / canonical-greekLit); underlying edition/translation text is public domain.",
+  "sections": [
+    {
+      "heading": "Sophocles' Philoctetes",
+      "paragraphs": [
+        "This is the Greek text of Sophocles' Philoctetes (Ἑλληνιστί: Φιλοκτήτης), verbatim.",
+        "The text here is verbatim: nothing is translated (for the Greek), modernised, or silently corrected. Where the source is irregular - a lacuna, an editor's conjectural restoration, a manuscript reading the editor rejects - the irregularity is preserved and noted below, never smoothed over."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Edition witness `perseus-grc2`: Sophocles, Volume 2. Storr, Francis, editor. London; New York: William Heinemann Ltd.; The Macmillan Company, 1913."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0011.tlg006.perseus-grc2.xml (CTS urn urn:cts:greekLit:tlg0011.tlg006.perseus-grc2) from the Perseus Digital Library's canonical-greekLit repository (github.com/PerseusDL/canonical-greekLit). It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer segments the text into 59 numbered cards - Perseus's own reading-chunk boundaries (`<milestone unit=\"card\"/>`, roughly every 50 lines), each citable by its first printed line number (e.g. \"§ 1\", \"§ 49\", ...). This particular witness carries no dramatis-personae cast list in the source (not every play/witness in this corpus has one - see the shared importer's module docs).",
+        "Within each card, one Passage is produced per speech (`<sp>`): the speaker's name on its own first line, then the speech's lines joined with a newline per verse line. A speech interrupted by a card boundary or by a stage direction is split into multiple Passages; every Passage after the first for that speech repeats the speaker's name followed by \" (cont.)\" - a disclosed importer convention, not source text.",
+        "0 stage directions (`<stage>`) occur in this witness; each becomes its own Passage, \"[bracketed]\" - the brackets are an importer convention (disclosed here), not source punctuation.",
+        "An editor's deletion (`<del>`) is never dropped from the reading text: its words are KEPT, \"[bracketed]\" exactly as a critical edition prints editor-suspected-spurious text - the same square-bracket convention classicists already use in print for an interpolated or athetized line. A deletion spanning several consecutive `<l>` lines (Perseus's TEI re-opens/re-closes the same logical deletion inside each line it touches) is merged back into ONE continuous bracket opening at the start of the first line and closing at the end of the last, rather than printing a bracket per line; see \"Known gaps & anomalies\" below for this witness's count."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Each card's `ref` is the \"first–last\" printed line-number span of its own numbered lines (e.g. \"1–48\"); each Passage's own `n` is the printed line number its speech, stage direction, or orphan text begins at. Line numbers with a non-numeric suffix (e.g. \"96a\") are kept exactly as printed."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. This witness produced 59 card division(s) and 414 passages, 55924 characters of reading text; nothing is dropped, merged, or reordered beyond what is documented here.",
+        "Transcription hygiene. 0 Perseus display-only hidden line(s) (`<l n=\"0\">`, added by Perseus itself \"for display purposes only\" and never part of the transmitted text) were skipped. 0 apparatus `<note>` element(s) (editorial commentary - textual variants, cross-references, modern glosses - never part of the reading text) were discarded entire, aside from the dramatis-personae note where present, which is handled separately and kept.",
+        "1 `<del>` span(s) (text an editor marks as not belonging in the received text - a scribal accretion, an interpolated or athetized line) were KEPT in the reading text, \"[bracketed]\" exactly as a critical edition prints editor-suspected-spurious text, rather than silently dropped - a multi-line deletion is shown as one continuous bracket, not one per line (see \"How it was imported\" above); each occurrence is individually logged in anomalies.json with its full, untruncated text."
+      ]
+    }
+  ]
+}

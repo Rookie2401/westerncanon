@@ -1,0 +1,14 @@
+[
+  {
+    "where": "aeschylus-persians-en / card-395",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Messenger\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-persians-en / card-591",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-persians-en / card-759 / sp[Darius]/l[n=775]",
+    "note": "<add> included in reading text: \"Sixth came Maraphis, and seventh Artaphrenes.This interpolated or corrupt ver...\""
+  }
+]

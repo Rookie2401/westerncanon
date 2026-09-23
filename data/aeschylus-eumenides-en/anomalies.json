@@ -1,0 +1,38 @@
+[
+  {
+    "where": "aeschylus-eumenides-en / card-34",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"The Priestess of Pythian Apollo\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-eumenides-en / card-254",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-eumenides-en / card-276 / sp[Orestes]/l[n=285]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Time purges all things, aging with them.\""
+  },
+  {
+    "where": "aeschylus-eumenides-en / card-347 / sp[Chorus]/l[n=350]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-eumenides-en / card-354a / sp[Chorus]/l[n=354a]",
+    "note": "<add> included in reading text: \"For I have chosen the overthrow of houses,\""
+  },
+  {
+    "where": "aeschylus-eumenides-en / card-354a / sp[Chorus]/l[n=355a]",
+    "note": "<add> included in reading text: \"whenever violence raised in the home seizes someone near and dear. Speeding a...\""
+  },
+  {
+    "where": "aeschylus-eumenides-en / card-372a / sp[Chorus]/l[n=372a]",
+    "note": "<add> included in reading text: \"For surely with a great leap from above I bring down the heavily falling forc...\""
+  },
+  {
+    "where": "aeschylus-eumenides-en / card-372a / sp[Chorus]/l[n=375a]",
+    "note": "<add> included in reading text: \"my limbs that trip even swift runners—unendurable ruin.\""
+  },
+  {
+    "where": "aeschylus-eumenides-en / card-397 / sp[Athena]/l[n=405]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"yoking this chariot to colts in their prime.\""
+  }
+]

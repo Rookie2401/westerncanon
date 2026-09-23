@@ -1,0 +1,46 @@
+[
+  {
+    "where": "de-generatione-animalium-en / book-1",
+    "note": "1 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): [[el:Περί ζώων γενέσως/1]]."
+  },
+  {
+    "where": "de-generatione-animalium-en / book-2",
+    "note": "2 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): Book II | [[el:Περί ζώων γενέσως/2]]."
+  },
+  {
+    "where": "de-generatione-animalium-en / book-3",
+    "note": "2 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): Book III | [[el:Περί ζώων γενέσως/3]]."
+  },
+  {
+    "where": "de-generatione-animalium-en / book-4",
+    "note": "2 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): Book IV | [[el:Περί ζώων γενέσως/4]]."
+  },
+  {
+    "where": "de-generatione-animalium-en / book-5",
+    "note": "2 page-furniture line(s) skipped (interwiki/category links, \"BOOK N\" running titles, trailing External-links/Notes sections): Book V | [[el:Περί ζώων γενέσως/5]]."
+  },
+  {
+    "where": "de-generatione-animalium-en / source technique",
+    "note": "Every page of this work is ORDINARY WIKITEXT on English Wikisource (action=parse&prop=wikitext returns the real prose), not a djvu page-scan transclusion like data/metaphysics-en or data/categoriae-en. The translation is the same public-domain Oxford text, but the digitisation is a plaintext one: it prints no page-scan/proofreading markup, and marks its chapters with bare-line-N and wiki-heading-Part-N marker(s). Disclosed rather than described as a page-scan provenance it does not have."
+  },
+  {
+    "where": "de-generatione-animalium-en / footnotes stripped",
+    "note": "0 inline <ref>...</ref> footnote marker(s) were removed from the reading text across the whole work; the footnotes are translator/editorial apparatus, not Aristotle's text, and their content is not preserved anywhere in this build."
+  },
+  {
+    "where": "de-generatione-animalium-en / completeness",
+    "note": "COMPLETE: all 5 books and all 60 chapters of the standard division are present and untruncated (I 23, II 8, III 11, IV 10, V 8). Nothing was skipped, and nothing was fabricated."
+  },
+  {
+    "where": "de-generatione-animalium-en / chapter marker shapes",
+    "note": "The five source pages do NOT mark chapters the same way: Book I uses \"==Part N==\" wiki headings, Books II-V use a bare line containing only the chapter number. Both were handled; a headings-only parser would have returned zero chapters for Books II-V. The bare-number rule only fires on a line that is nothing but digits at a paragraph boundary, so ordinary short sentences in the text (e.g. Book V's \"So much for colours and hairs.\") are not mistaken for markers."
+  },
+  {
+    "where": "de-generatione-animalium-en / reference scheme",
+    "note": "Division.ref and Passage.ref are null throughout: this plaintext digitisation prints no Bekker page/column markers at all (confirmed across all five book pages). No Bekker reference was reconstructed, because any such citation would be invented rather than read from the source."
+  },
+  {
+    "where": "de-generatione-animalium-en / relation to the Greek sibling",
+    "note": "This English edition was parsed entirely independently of any Greek edition of De generatione animalium; the two are not forced to agree on chapter boundaries, and no division here was adjusted to match a Greek text."
+  }
+]

@@ -131,11 +131,14 @@ function validateWork(meta: DialogueMeta, lang: 'grc' | 'en'): WorkReport {
     if (d.sourceHeading !== null) err('division-sourceHeading', `${d.id}: sourceHeading should be null`);
     if (d.editorialTitle !== null) err('division-editorialTitle', `${d.id}: editorialTitle should be null`);
     if (d.children.length !== 0) err('division-children', `${d.id}: expected no children, got ${d.children.length}`);
-    if (d.passages.length !== 1) err('division-passages', `${d.id}: expected exactly 1 passage, got ${d.passages.length}`);
-    const p = d.passages[0];
-    if (p) {
+    // One passage per page, except a page shared by several Letters in the
+    // Epistles carries one passage per letter-part (the Epistles are the only
+    // work with letter divs; page 358 carries three).
+    if (d.passages.length < 1) err('division-passages', `${d.id}: expected at least 1 passage, got ${d.passages.length}`);
+    if (d.passages.length > 1 && !d.passages.every((p) => /^Letter \d+$/.test(p.n))) err('division-passages', `${d.id}: ${d.passages.length} passages but not all are Letter-parts`);
+    for (const p of d.passages) {
       totalChars += p.text.length;
-      if (p.n !== '') err('passage-n', `${d.id}: passage n should be "", got ${JSON.stringify(p.n)}`);
+      if (p.n !== '' && !/^Letter \d+$/.test(p.n)) err('passage-n', `${d.id}: passage n should be "" (or "Letter N" in the Epistles), got ${JSON.stringify(p.n)}`);
       if (p.ref !== null) err('passage-ref', `${d.id}: passage ref should be null, got ${JSON.stringify(p.ref)}`);
       if (typeof p.text !== 'string' || p.text.length === 0) err('passage-text', `${d.id}: passage text is empty`);
     }

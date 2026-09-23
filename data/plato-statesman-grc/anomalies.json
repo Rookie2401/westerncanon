@@ -1,0 +1,110 @@
+[
+  {
+    "where": "plato-statesman-grc",
+    "note": "<head> (the work's own title, \"Πολιτικός\") stripped - the app's own UI already shows the work title; kept out of the reading text to avoid duplicating it inline."
+  },
+  {
+    "where": "sec-257",
+    "note": "<del> excluded from the reading text: \"γε\""
+  },
+  {
+    "where": "sec-257",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "sec-258",
+    "note": "<del> excluded from the reading text: \"τὸν ἄνδρα\""
+  },
+  {
+    "where": "sec-261",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ταῖς\""
+  },
+  {
+    "where": "sec-264",
+    "note": "<del> excluded from the reading text: \"δὴ\""
+  },
+  {
+    "where": "sec-272",
+    "note": "<del> excluded from the reading text: \"μύθους\""
+  },
+  {
+    "where": "sec-283",
+    "note": "<del> excluded from the reading text: \"τὸ\""
+  },
+  {
+    "where": "sec-283",
+    "note": "<del> excluded from the reading text: \"οἱ\""
+  },
+  {
+    "where": "sec-287",
+    "note": "<del> excluded from the reading text: \"πάνυ\""
+  },
+  {
+    "where": "sec-288",
+    "note": "<del> excluded from the reading text: \"ὃ δὴ\""
+  },
+  {
+    "where": "sec-289",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἃ\""
+  },
+  {
+    "where": "sec-293",
+    "note": "<del> excluded from the reading text: \"μεμιμῆσθαι\""
+  },
+  {
+    "where": "sec-296",
+    "note": "<del> excluded from the reading text: \"τὸ\""
+  },
+  {
+    "where": "sec-296",
+    "note": "<del> excluded from the reading text: \"μὴ σύμφορα ἢ\""
+  },
+  {
+    "where": "sec-300",
+    "note": "<del> excluded from the reading text: \"γε\""
+  },
+  {
+    "where": "sec-302",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ᾗ\""
+  },
+  {
+    "where": "sec-302",
+    "note": "<del> excluded from the reading text: \"εἶναι\""
+  },
+  {
+    "where": "sec-303",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἃ\""
+  },
+  {
+    "where": "sec-304",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"τὴν\""
+  },
+  {
+    "where": "sec-304",
+    "note": "<add> editorial insertion, kept verbatim in the reading text: \"ἡσυχίαν\""
+  },
+  {
+    "where": "sec-307",
+    "note": "<del> excluded from the reading text: \"καὶ\""
+  },
+  {
+    "where": "sec-308",
+    "note": "<del> excluded from the reading text: \"τὰ\""
+  },
+  {
+    "where": "sec-309",
+    "note": "<del> excluded from the reading text: \"ταῖς\""
+  },
+  {
+    "where": "sec-311",
+    "note": "<del> excluded from the reading text: \"ὥστʼ εἶναι κοινόν\""
+  },
+  {
+    "where": "plato-statesman-grc / passage & division refs",
+    "note": "Every passage and division ref is null: the Stephanus page number is itself the citation. Finer a/b/c/d sub-page lettering is stripped as transport scaffolding, not tracked as a separate ref field."
+  },
+  {
+    "where": "plato-statesman-grc / speaker labels",
+    "note": "Speaker abbreviations (e.g. \"ΣΩ.\" / \"Soc.\") are kept verbatim as the start of each paragraph exactly where the source prints one; the source prints a label only when the speaker changes from the previous paragraph (standard typesetting for a continuous speech split across paragraphs), so most paragraphs of a longer speech carry no repeated label — not a parsing gap."
+  }
+]

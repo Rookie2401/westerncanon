@@ -1,0 +1,146 @@
+[
+  {
+    "where": "euripides-electra-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-electra-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-electra-grc / card-157 / sp[Ἠλέκτρα]/l[n=159]",
+    "note": "<add> included in reading text: \"ἰώ\""
+  },
+  {
+    "where": "euripides-electra-grc / card-442 / sp[Χορός]/l[n=447]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Νυμφαίας σκοπιὰς\""
+  },
+  {
+    "where": "euripides-electra-grc / card-442 / sp[Χορός]/l[n=448]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κόρας μάτευσʼ,\""
+  },
+  {
+    "where": "euripides-electra-grc / card-524 / sp[Πρέσβυς]/l[n=538a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-electra-grc / card-524 / sp[Ἠλέκτρα]/l[n=546]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἐκείρατʼ, ἢ τῆσδε σκοποὺς λαβὼν χθονὸς —\""
+  },
+  {
+    "where": "euripides-electra-grc / card-596 / sp[Ὀρέστης]/l[n=600]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μητέρα τε κοινωνὸν ἀνοσίων γάμων;\""
+  },
+  {
+    "where": "euripides-electra-grc / card-699 / sp[Χορός]/l[n=699]",
+    "note": "<add> included in reading text: \"ἄρνʼ\""
+  },
+  {
+    "where": "euripides-electra-grc / card-699 / sp[Χορός]/l[n=711]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-electra-grc / card-699 / sp[Χορός]/l[n=711]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δείματα χοροὶ δʼ Ἀτρει-\""
+  },
+  {
+    "where": "euripides-electra-grc / card-699 / sp[Χορός]/l[n=712]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δᾶν\""
+  },
+  {
+    "where": "euripides-electra-grc / card-774 / sp[Ἄγγελος]/l[n=790]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐπεὶ δʼ ἐν οἴκοις ἦμεν, ἐννέπει τάδε·\""
+  },
+  {
+    "where": "euripides-electra-grc / card-859 / sp[Χορός]/l[n=863]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κρείσσω τοῖς\""
+  },
+  {
+    "where": "euripides-electra-grc / card-873 / sp[Χορός]/l[n=878]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-electra-grc / card-880 / sp[Ὀρέστης]/l[n=899]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δοῦλος, πάροιθε δεσπότης κεκλημένος.\""
+  },
+  {
+    "where": "euripides-electra-grc / card-907 / sp[Ἠλέκτρα]/l[n=929]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κείνη τε τὴν σὴν καὶ σὺ τοὐκείνης κακόν.\""
+  },
+  {
+    "where": "euripides-electra-grc / card-988 / sp[Χορός]/l[n=988]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἰώ,\""
+  },
+  {
+    "where": "euripides-electra-grc / card-988 / sp[Χορός]/l[n=997]",
+    "note": "<add> included in reading text: \"χαῖρʼ,\""
+  },
+  {
+    "where": "euripides-electra-grc / card-998 / sp[Κλυταιμήστρα]/l[n=1013]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-electra-grc / card-1035 / sp[Ἠλέκτρα]/l[n=1058]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἆρα\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1060 / sp[Ἠλέκτρα]/l[n=1097]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ὅστις δὲ πλοῦτον ἢ εὐγένειαν εἰσιδὼν\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1060 / sp[Ἠλέκτρα]/l[n=1098]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γαμεῖ πονηράν, μῶρός ἐστι· μικρὰ γὰρ\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1060 / sp[Ἠλέκτρα]/l[n=1099]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μεγάλων ἀμείνω σώφρονʼ ἐν δόμοις λέχη.\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1100 / sp[Χορός]/l[n=1100]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τύχη γυναικῶν ἐς γάμους. τὰ μὲν γὰρ εὖ,\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1100 / sp[Χορός]/l[n=1101]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τὰ δʼ οὐ καλῶς πίπτοντα δέρκομαι βροτῶν.\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1147 / sp[Χορός]/l[n=1148]",
+    "note": "<add> included in reading text: \"ἐν\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1147 / sp[Χορός]/l[n=1153]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-electra-grc / card-1147 / sp[Χορός]/l[n=1154]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-electra-grc / card-1177 / sp[Ὀρέστης]/l[n=1181a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-electra-grc / card-1177 / sp[Ὀρέστης]/l[n=1181b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-electra-grc / card-1177 / sp[Χορός]/l[n=1186]",
+    "note": "<add> included in reading text: \"ἄλαστα\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1190 / sp[Ὀρέστης]/l[n=1193]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τᾶς\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1227 / sp[Ὀρέστης]/l[n=1228]",
+    "note": "<add> included in reading text: \"καὶ\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1238 / sp[Διόσκουροι]/l[n=1252]",
+    "note": "<add> included in reading text: \"σʼ\""
+  },
+  {
+    "where": "euripides-electra-grc / card-1238 / sp[Διόσκουροι]/l[n=1263]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἔκ τε τοῦ\""
+  }
+]

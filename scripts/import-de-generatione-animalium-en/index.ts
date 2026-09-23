@@ -1,0 +1,136 @@
+/**
+ * Aristotle, *On the Generation of Animals* (De generatione animalium) —
+ * Arthur Platt's English translation (Oxford, 1912), via English Wikisource.
+ * Run-once ingestion pipeline.
+ *
+ *   npx tsx scripts/import-de-generatione-animalium-en/index.ts
+ *
+ * Reads scripts/import-de-generatione-animalium-en/raw/generation-of-animals-book-N.json
+ * (N = 1..5; already in the repo — each the cached MediaWiki
+ * action=query&prop=revisions&rvslots=main&rvprop=content response for
+ * "On the Generation of Animals/Book I".."/Book V"). Writes:
+ *   data/de-generatione-animalium-en/work.json       - the GenericWork (Book -> Chapter)
+ *   data/de-generatione-animalium-en/about.json      - provenance / licence metadata + About prose
+ *   data/de-generatione-animalium-en/anomalies.json  - machine-readable {where, note}[]
+ *
+ * Then run `npx tsx scripts/import-de-generatione-animalium-en/validate.ts`.
+ *
+ * --- What was verified before this importer was written -------------------
+ * All five subpages exist and carry real transcribed prose (54-91 KB each);
+ * none is a red-link stub. They are NOT page-scan transclusions, so the
+ * plain-wikitext technique is used and no Bekker markers exist to import.
+ *
+ * MIXED CHAPTER-MARKER SHAPES, confirmed by inspecting each page: Book I uses
+ * `==Part N==` wiki headings; Books II-V use a bare line containing only the
+ * chapter number, with a "Book N" running-title line above the first one. A
+ * headings-only parser would return ZERO chapters for Books II-V, so both
+ * shapes are handled in one pass (see the shared wikitext parser's doc).
+ * The bare-number rule is deliberately narrow — only a line that is nothing
+ * but 1-3 digits, at a paragraph boundary, counts — so that ordinary short
+ * sentences in the text (e.g. Book V's "So much for colours and hairs.") are
+ * never mistaken for chapter markers.
+ *
+ * Chapter counts match the standard division exactly: I 23, II 8, III 11,
+ * IV 10, V 8 — 60 chapters in all, with no gaps and no truncation.
+ */
+
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { runWikitextImport } from '../import-aristotle-rest-en-shared/driver.ts';
+import type { WorkAbout } from '../import-aristotle-rest-en-shared/emit.ts';
+
+const HERE = dirname(fileURLToPath(import.meta.url));
+const REPO_ROOT = join(HERE, '..', '..');
+const WORK_ID = 'de-generatione-animalium-en';
+
+const run = (n: number): number[] => Array.from({ length: n }, (_, i) => i + 1);
+const BOOK_CHAPTERS: Record<number, number[]> = { 1: run(23), 2: run(8), 3: run(11), 4: run(10), 5: run(8) };
+const ROMAN = ['', 'I', 'II', 'III', 'IV', 'V'];
+
+const about: WorkAbout = {
+  workId: WORK_ID,
+  title: 'On the Generation of Animals',
+  author: 'Aristotle',
+  language: 'en',
+  translator: 'Arthur Platt',
+  editor: 'John Alexander Smith and William David Ross',
+  edition: 'The Works of Aristotle Translated into English, Volume V: De generatione animalium, trans. Arthur Platt (Oxford: Clarendon Press, 1912)',
+  provenance:
+    'English Wikisource, pages "On the Generation of Animals/Book I" through "/Book V", each fetched once via the MediaWiki action=query&prop=revisions&rvslots=main&rvprop=content API and cached under scripts/import-de-generatione-animalium-en/raw/. These pages are ORDINARY WIKITEXT rather than djvu page-scan transclusions, so the wikitext itself is the text; imported by scripts/import-de-generatione-animalium-en.',
+  license:
+    "Platt's 1912 translation is in the public domain (published before 1929). The digital transcription is distributed by English Wikisource under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  sections: [
+    {
+      heading: 'About this edition',
+      paragraphs: [
+        "Aristotle's On the Generation of Animals in Arthur Platt's English translation, made for the Oxford Works of Aristotle Translated into English and published in 1912 as part of that series' volume V. It is the culminating treatise of Aristotle's biology: the causes of generation, the roles of male and female, semen and catamenia, the formation and nourishment of the embryo, and the inheritance of resemblance and of such features as eye-colour, voice and hair.",
+        'The text here is the translation, verbatim. Nothing is modernised, paraphrased, or silently corrected.',
+      ],
+    },
+    {
+      heading: 'Completeness',
+      paragraphs: [
+        'This edition is complete: all five books, sixty chapters, matching the standard division exactly (I 23, II 8, III 11, IV 10, V 8). No book is missing, no chapter is absent, and nothing is truncated — a happier result than this library\'s Metaphysics, whose Wikisource project is still unfinished.',
+      ],
+    },
+    {
+      heading: 'Digital source',
+      paragraphs: [
+        'The machine-readable text is the raw wikitext of the five English Wikisource "On the Generation of Animals/Book N" subpages, fetched once each and committed under the importer\'s raw/ directory. This batch\'s brief expected page-scan transclusions (for which only the rendered HTML carries text); direct inspection found ordinary wikitext instead — 54-91 KB of real prose per page — so the wikitext route was used and the difference is disclosed rather than glossed over. The text is bundled with the app; nothing is loaded from the network at runtime.',
+      ],
+    },
+    {
+      heading: 'How it was imported',
+      paragraphs: [
+        'Each page opens with a `{{header}}` template (title, translator, navigation) which is transport furniture and is dropped, and closes with an interwiki link that is likewise skipped. Chapter marking is NOT uniform across the five pages, and this mattered: Book I heads its chapters `==Part N==`, but Books II to V mark them with a bare line containing only the number — a shape that a headings-driven parser would read as zero chapters, silently losing four of the five books. Both shapes are handled in one pass, and the bare-number rule is kept deliberately narrow (a line that is nothing but digits, at a paragraph boundary) so that short sentences in the text are never mistaken for markers.',
+        "Books II-V also print a \"Book N\" running title above their first chapter; that is page furniture, not Aristotle's words, and is skipped and counted. The importer refuses to ship a division it has not been told to expect: each book declares its exact chapter numbers in advance, and a mismatch stops the run.",
+      ],
+    },
+    {
+      heading: 'Reference scheme',
+      paragraphs: [
+        'Citation here is by book and chapter only. This digitisation prints no Bekker page/column markers anywhere, so every Division.ref and every Passage.ref is null. No Bekker reference has been reconstructed or estimated, because doing so would mean inventing a citation the source does not support.',
+      ],
+    },
+    {
+      heading: 'Known gaps & anomalies',
+      paragraphs: [
+        'There are no gaps in the text itself. anomalies.json records the mechanical departures: the furniture lines skipped, the mixed chapter-marker shapes, the null reference scheme, and the plaintext-rather-than-page-scan provenance.',
+        "A word on trust: this is a plaintext digitisation rather than a page-by-page proofread against a scan, so isolated transcription slips are possible despite this importer's care. That is a disclosed limitation of the source, not something quietly corrected here.",
+      ],
+    },
+  ],
+};
+
+runWikitextImport({
+  workId: WORK_ID,
+  rawDir: join(HERE, 'raw'),
+  outDir: join(REPO_ROOT, 'data', WORK_ID),
+  shape: 'book-chapter',
+  pages: [1, 2, 3, 4, 5].map((n) => ({
+    rawFile: `generation-of-animals-book-${n}.json`,
+    pageTitle: `On the Generation of Animals/Book ${ROMAN[n]}`,
+    label: `book-${n}`,
+    expectedChapters: BOOK_CHAPTERS[n]!,
+    book: n,
+  })),
+  about,
+  extraAnomalies: [
+    {
+      where: `${WORK_ID} / completeness`,
+      note: 'COMPLETE: all 5 books and all 60 chapters of the standard division are present and untruncated (I 23, II 8, III 11, IV 10, V 8). Nothing was skipped, and nothing was fabricated.',
+    },
+    {
+      where: `${WORK_ID} / chapter marker shapes`,
+      note: 'The five source pages do NOT mark chapters the same way: Book I uses "==Part N==" wiki headings, Books II-V use a bare line containing only the chapter number. Both were handled; a headings-only parser would have returned zero chapters for Books II-V. The bare-number rule only fires on a line that is nothing but digits at a paragraph boundary, so ordinary short sentences in the text (e.g. Book V\'s "So much for colours and hairs.") are not mistaken for markers.',
+    },
+    {
+      where: `${WORK_ID} / reference scheme`,
+      note: 'Division.ref and Passage.ref are null throughout: this plaintext digitisation prints no Bekker page/column markers at all (confirmed across all five book pages). No Bekker reference was reconstructed, because any such citation would be invented rather than read from the source.',
+    },
+    {
+      where: `${WORK_ID} / relation to the Greek sibling`,
+      note: 'This English edition was parsed entirely independently of any Greek edition of De generatione animalium; the two are not forced to agree on chapter boundaries, and no division here was adjusted to match a Greek text.',
+    },
+  ],
+});

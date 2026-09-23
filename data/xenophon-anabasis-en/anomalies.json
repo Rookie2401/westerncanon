@@ -1,0 +1,22 @@
+[
+  {
+    "where": "anabasis-en / apparatus",
+    "note": "157 <bibl> inline source-attribution label(s) (e.g. naming the poet a quoted line traces to, such as \"Theognis\") excluded from the reading text - confirmed by direct inspection to be glued onto the surrounding text with no separating whitespace, i.e. editorial apparatus, never part of Xenophon's own sentence. Not logged individually."
+  },
+  {
+    "where": "anabasis-en / apparatus",
+    "note": "319 <note> translator/editorial footnote(s) excluded entirely, at every nesting depth - never Xenophon's own words. Not logged individually (too numerous to be useful per-occurrence)."
+  },
+  {
+    "where": "book 4 ch 6 sec 22",
+    "note": "<choice><sic>...</sic><corr>...</corr></choice>: the unemended manuscript reading \"staid\" is recorded but NOT what this edition prints (see the paired <corr> entry) - excluded from the reading text."
+  },
+  {
+    "where": "book 4 ch 6 sec 22",
+    "note": "<corr> editorial correction, printed as this edition's running text, kept verbatim: \"stayed\""
+  },
+  {
+    "where": "anabasis-en / book 6 ch 3 sections",
+    "note": "The source XML's own physical div order (1,2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,14,15,19,20,21,22,23,24,25,26) disagrees with the printed citation-number order (1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26) at this level - verified identical in both the Greek and English witnesses. The reading text here is presented in citation-number order (the coherent, edition-intended reading order), not raw document order."
+  }
+]

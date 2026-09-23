@@ -1,0 +1,26 @@
+[
+  {
+    "where": "euripides-electra-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-electra-en / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-electra-en / card-596 / sp[Orestes]/l[n=600]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"and on my mother,the partner in his unholy marriage\""
+  },
+  {
+    "where": "euripides-electra-en / card-774 / sp[Messenger]/l[n=790]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"And when we were in the house, he gave the command:\""
+  },
+  {
+    "where": "euripides-electra-en / card-1060 / sp[Electra]/l[n=1095]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Whoever marries a wicked woman, looking to wealth or noble birth, is a fool; for humble wives, if chaste, are better in the home than great ones.\""
+  },
+  {
+    "where": "euripides-electra-en / card-1100 / sp[Chorus Leader]/l[n=1100]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"Chance is in the marriages of women; among mankind, I see some fall out well, others not.\""
+  }
+]

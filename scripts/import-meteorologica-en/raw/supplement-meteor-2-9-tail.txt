@@ -1,0 +1,4 @@
+# archive.org identifier: meteorologica00aris ("Meteorologica", trans. E. W. Webster, Oxford: Clarendon Press, 1923 — separate issue of part of Vol. III of "The Works of Aristotle", the same translation MIT's Internet Classics Archive reproduces). Printed page 370^a, i.e. archive.org scan leaf 97. This file begins with "thunder and lightning" to continue directly after MIT's own source cuts off mid-sentence ("...it is ejected and causes"); join MIT's surviving text directly onto this file's opening words with a single space, no invented punctuation. Completes Book II Chapter 9 (Book II's last chapter) to its end, i.e. to exactly where Book III (already complete from MIT) begins.
+thunder and lightning and the other phenomena of the same nature.
+
+So much for thunder and lightning.

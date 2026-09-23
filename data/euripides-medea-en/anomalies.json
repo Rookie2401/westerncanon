@@ -1,0 +1,30 @@
+[
+  {
+    "where": "euripides-medea-en / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 7 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-medea-en / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-medea-en / card-292 / sp[Medea]/l[n=300]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"others say I am too reserved, and some the very reverse\""
+  },
+  {
+    "where": "euripides-medea-en / card-764 / sp[Medea]/l[n=775]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"even the marriage with the princess, which my treacherous lord is celebrating, and add it suits us both, ’twas well thought out\""
+  },
+  {
+    "where": "euripides-medea-en / speaker",
+    "note": "<add> included in reading text: \"Sons\""
+  },
+  {
+    "where": "euripides-medea-en / card-1261 / sp[Sons]/stage",
+    "note": "<add> included in reading text: \"within\""
+  },
+  {
+    "where": "euripides-medea-en / card-1261 / sp[Sons]/l[n=1270a]",
+    "note": "<add> included in reading text: \"Ah!\""
+  }
+]

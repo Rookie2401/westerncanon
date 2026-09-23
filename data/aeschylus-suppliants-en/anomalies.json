@@ -1,0 +1,178 @@
+[
+  {
+    "where": "aeschylus-suppliants-en / card-207 / sp[Chorus]/l[n=211b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-291 / sp[King]/l[n=315b]",
+    "note": "<add> included in reading text: \"And who was begotten of Epaphus?\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-291 / sp[King]/l[n=317b]",
+    "note": "<add> included in reading text: \"What offspring, then, did Libya have?\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-291 / sp[Chorus]/l[n=317c]",
+    "note": "<add> included in reading text: \"Agenor was her first child born.\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-348",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-423",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-428",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-433",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-743",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-750",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-757",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-760 / sp[Danaus]/l[n=770]",
+    "note": "<add> included in reading text: \"I will return\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-825",
+    "note": "<sp> with no <speaker> child; speaker label inherited from the previous speech (\"Chorus\") - the source omits a redundant repeated tag, typically a choral utterance sung continuously across a strophe/antistrophe structural boundary."
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Herald\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Herald\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Herald\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / card-861 / sp[Herald]/l[n=865]",
+    "note": "line produced empty reading text after cleaning (its content was entirely apparatus/note material, e.g. \"N lines missing here\"); the line is omitted from the joined passage text rather than leaving a blank line, but is recorded here so nothing is silently lost."
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Herald\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"King\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Herald\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"King\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"of the Danaids\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"of the Danaids\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus of Handmaidens\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus of Handmaidens\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"A Danaid\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"A Handmaiden\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"A Danaid\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"A Handmaiden\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"A Danaid\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"A Handmaiden\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"A Danaid\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"A Handmaiden\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus of Danaids and Handmaidens\""
+  },
+  {
+    "where": "aeschylus-suppliants-en / speaker",
+    "note": "<add> included in reading text: \"Chorus of Danaids and Handmaidens\""
+  }
+]

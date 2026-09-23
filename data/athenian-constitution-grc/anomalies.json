@@ -1,0 +1,426 @@
+[
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[1]/subsection[1]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[1]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"κατηγοροῦντος\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[3]/subsection[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"μὴν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[4]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰς\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[5]/subsection[2]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"σολον φρ. 28\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[5]/subsection[2]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"σολον φρ. 28\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[5]/subsection[3]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"σολον φρ. 28\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[5]/subsection[3]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"σολον φρ. 28\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[5]/subsection[3]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"Solon Fr. 28 (Edmonds)\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[5]/subsection[3]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"Solon Fr. 28 (Edmonds)\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[7]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[8]/subsection[4]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ικ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[9]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ᾧ καὶ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[11]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὁ δὲ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[1]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"σολον φρ. 5\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[1]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"σολον φρ. 5\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[2]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"σολον φρ. 6\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[2]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"σολον φρ. 6\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[3]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"σολον φρ. 34\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[3]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"σολον φρ. 34\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[4]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"σολον φρ. 36\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[4]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"σολον φρ. 36\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[5]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"σολον φρ. 37\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[5]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"σολον φρ. 37\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[5]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"σολον φρ. 37\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[12]/subsection[5]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"σολον φρ. 37\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[15]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τε\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[16]/subsection[9]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἐν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[16]/subsection[10]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"κατάστασιν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[17]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οἱ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[17]/subsection[4]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἐπ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[18]/subsection[4]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τε\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[19]/subsection[3]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"ανον\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[19]/subsection[3]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"ανον\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[20]/subsection[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἀφικόμενος ὁ Κλεομένης\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[20]/subsection[5]",
+    "note": "<bibl> editorial citation excluded from the reading text (not Aristotle's own words): \"ανον.\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[20]/subsection[5]",
+    "note": "non-citation <note> discarded entirely (tag and content): \"ανον.\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[25]/subsection[4]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὁ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[26]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δὲ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[29]/subsection[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἂν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[29]/subsection[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[29]/subsection[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[30]/subsection[4]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"βουλεύεσθαι\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[31]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[31]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἐν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[32]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἡ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[33]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὃς\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[35]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[36]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἐγ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[37]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[37]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δὲ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[41]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὴν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[41]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἡ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[44]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὰ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[47]/subsection[4]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τε\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[51]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ι\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[51]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ι\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[51]/subsection[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ι\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[53]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τοὺς\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[54]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"οἱ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[54]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δὲ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[55]/subsection[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"εἰ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[55]/subsection[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τες\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[56]/subsection[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δὲ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[59]/subsection[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τʼ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[61]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἑκάστης\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[61]/subsection[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ακ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[61]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἐκ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[61]/subsection[4]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καὶ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[61]/subsection[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ι\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[61]/subsection[5]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τῶν ἱππέων\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[62]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ὀβολούς\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[62]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"λαμβάνουσι\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[65]/subsection[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"ἀποτιθέασιν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[65]/subsection[3]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"τὸν\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"δὲ\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"β\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[2]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"αἷς\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . \"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . . . . . \"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . . . . . . \"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . \"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . . . . . \"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . . . . . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . . . . . . . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[4]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . \"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[5]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . . . . . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[5]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\"...\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[5]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[5]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . . \"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[67]/subsection[5]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . . \"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[68]/subsection[1]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\" . . . . . . . . . . . . . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[68]/subsection[1]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[68]/subsection[1]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\". . . . . . . . . . . . . .\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[68]/subsection[1]",
+    "note": "<gap> (lacuna/editorial omission) excluded - contributes no text: \"reason=\"lost\" rend=\".\"\""
+  },
+  {
+    "where": "athenian-constitution-grc / edition[urn:cts:greekLit:tlg0086.tlg003.perseus-grc2]/section[frag_4]/subsection[1]",
+    "note": "<gap reason=\"ellipsis\"> kept as its literal printed text: \". . .\""
+  },
+  {
+    "where": "athenian-constitution-grc / whole work",
+    "note": "No Bekker page/column citation of any kind was found anywhere in this source file; Division.ref is null throughout (not guessed at)."
+  },
+  {
+    "where": "athenian-constitution-grc / whole work",
+    "note": "17 passage(s) contain a standalone combining diacritic (typically U+0304 COMBINING MACRON or U+0306 COMBINING BREVE over omicron/nu, marking vowel quantity) that survives NFC normalisation because Unicode has no precomposed Greek letter for it - genuine philological notation, not a digitisation artefact, and kept verbatim."
+  }
+]

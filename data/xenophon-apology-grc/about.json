@@ -1,0 +1,51 @@
+{
+  "workId": "xenophon-apology-grc",
+  "title": "Ἀπολογία Σωκράτους",
+  "author": "Xenophon",
+  "language": "grc",
+  "edition": "Marchant, Xenophontis Opera Omnia, vol. 2 (Oxford: Clarendon Press, 1921)",
+  "editor": "E. C. Marchant",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0032.tlg005.perseus-grc2), digitising E. C. Marchant's Oxford Classical Text edition (vol. 2, 1921); imported by scripts/import-xenophon. The raw file is fetched once (cached at scripts/import-xenophon/raw/) and bundled with the app; nothing is loaded from the network at runtime.",
+  "license": "Marchant's 1921 critical text is in the public domain. The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "Xenophon's Apology of Socrates",
+      "paragraphs": [
+        "The Greek text here is E. C. Marchant's, verbatim (Xenophontis Opera Omnia, vol. 2, Oxford: Clarendon Press, 1921). Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "E. C. Marchant, ed., Xenophontis Opera Omnia, vol. 2 (Oxford: Clarendon Press, 1921), an Oxford Classical Text - Greek title \"Ἀπολογία Σωκράτους\". The Loeb English translation used here is by Otis Johnson Todd (vol. 4, 1923).",
+        "Structure: section only (no chapter or book level). This edition carries 34 section(s) total in this witness. (Perseus/CTS's own English work-title metadata reads \"Apology\"; this app uses the more familiar \"Apology of Socrates\".)"
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0032.tlg005.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0032.tlg005.perseus-grc2) from the Perseus Digital Library / OpenGreekAndLatin canonical-greekLit repository. It was fetched once (cached at scripts/import-xenophon/raw/) and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer walks the flat sequence of section <div>s directly (this work's source has NO chapter wrapper at all - confirmed by its own <refsDecl>/<citeStructure>, which declares a single \"section\" citation unit). Each section becomes a leaf Division (`sec-N`) with exactly one Passage.",
+        "Only transport/editorial scaffolding is removed: entities are decoded, whitespace collapsed, and Unicode normalised to NFC (a no-op for every one of these 14 source files - independently verified 0 code points remapped). <milestone unit=\"para\"/> markers (always redundant with an immediately-following <p> start) are dropped as zero-width. Editorial supplements (<add>) and corrections (<corr>, standalone or the printed half of a <choice><sic>/<corr> pair) ARE part of what this edition prints as its running text and are kept verbatim; text the editor brackets as suspected spurious or an interpolation (<del>) is likewise KEPT, wrapped in square brackets exactly as a critical edition prints editor-bracketed text - NOT excluded (only the unemended half of a <choice><sic> pair, and any translator footnote nested inside a <del>, are ever excluded); all logged individually in anomalies.json, full span verbatim. Translator/editorial footnotes (<note>, up to ~1450 in one file) and inline source-attribution labels for embedded quotations (<bibl>, e.g. \"Theognis\") are excluded entirely as apparatus, not Xenophon's own words, and counted."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation is by Section alone (e.g. \"Apology of Socrates 1\"), Xenophon's and this edition's own numbering; the source carries no chapter level at all. Division.ref and Passage.ref are null throughout: this source carries no finer, page-marker-style citation scheme."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 34 sections of this edition are present and in order.",
+        "3 <add> editorial supplement(s) (filling a manuscript gap) were kept verbatim, since they ARE part of what this edition prints; logged individually."
+      ]
+    }
+  ]
+}

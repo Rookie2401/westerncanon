@@ -1,0 +1,70 @@
+[
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-176 / sp[Ἀντιγόνη]/l[n=181a]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-176 / sp[Ἀντιγόνη]/l[n=181a]",
+    "note": "<add> included in reading text (empty)"
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-176 / sp[Οἰδίπους]/l[n=181b]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-176 / sp[Οἰδίπους]/l[n=181b]",
+    "note": "<add> included in reading text (empty)"
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-176 / sp[Ἀντιγόνη]/l[n=181c]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-176 / sp[Ἀντιγόνη]/l[n=181c]",
+    "note": "<add> included in reading text (empty)"
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-176 / sp[Οἰδίπους]/l[n=183]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-176 / sp[Οἰδίπους]/l[n=183]",
+    "note": "<add> included in reading text (empty)"
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-800 / sp[Κρέων]/l[n=801]",
+    "note": "<sic> excluded from reading text (rejected manuscript reading inside <corr>): \"ἐς\""
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-800 / sp[Κρέων]/l[n=801]",
+    "note": "<add> included in reading text: \"ἐν\""
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-800 / sp[Κρέων]/l[n=801]",
+    "note": "<corr> included in reading text: \"ἐν\""
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-848 / sp[Χορός]/l[n=882]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἴστω μέγας Ζεύς.\""
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-1491 / sp[Χορός]/l[n=1496]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"σπεῦσον\""
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-1696 / sp[Ἰσμήνη]/l[n=1716]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-1696 / sp[Ἰσμήνη]/l[n=1716]",
+    "note": "<add> included in reading text (empty)"
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-1696 / sp[Ἰσμήνη]/l[n=1717]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "sophocles-oedipus-at-colonus-grc / card-1696 / sp[Ἰσμήνη]/l[n=1717]",
+    "note": "<add> included in reading text (empty)"
+  }
+]

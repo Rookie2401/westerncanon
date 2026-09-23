@@ -1,0 +1,32 @@
+{
+  "workId": "poetics-en",
+  "title": "Poetics",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "Ingram Bywater",
+  "edition": "On the Art of Poetry (Oxford: Clarendon Press, first published 1920)",
+  "provenance": "Text: Project Gutenberg ebook #6763 (www.gutenberg.org/ebooks/6763), fetched directly and cached at scripts/import-poetics-en/raw/pg6763.txt. Ingram Bywater's translation of the Poetics, published by the Clarendon Press in 1920 with an introductory Preface by Gilbert Murray (excluded from this import - see About below). Bywater's own scholarly edition of the Greek text, on which this translation is based, was first published in 1909; Bywater died in 1914.",
+  "license": "Bywater's translation is in the public domain (published 1920; Bywater died in 1914, so the translation is public domain in every life-plus-N jurisdiction as well as by publication date). The Project Gutenberg transcription of it is also in the public domain in the United States; see gutenberg.org/ebooks/6763 for Project Gutenberg's own terms on redistributing their specific eBook file, which this importer respects by keeping the text itself rather than Gutenberg's licence header/footer.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is Ingram Bywater's English translation of Aristotle's Poetics, via Project Gutenberg ebook #6763 (Oxford: Clarendon Press, first published 1920).",
+        "Navigation is by chapter only (26 traditional chapters, flat - this work has no Book-level grouping of its own, and this source marks chapters with bare numerals \"1\" through \"26\").",
+        "Gilbert Murray's own signed \"Preface\" to this printing - an appreciation of the Poetics for the general reader, not a translation of Aristotle's text - is not included here; only the translation itself is."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "This source prints no Bekker page/column markers at all, so Division.ref is null throughout and navigation is by chapter number only. See data/politics-en (Ellis) for a sibling English translation in this library that does carry Bekker references."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the complete machine-readable log: the excluded front matter (title page and Murray's Preface, with exactly where the real translation begins), the absent Bekker reference scheme, the absence of any footnote apparatus, and confirmation of completeness. The Poetics survives from antiquity only in part (originally two books, of which only the first, on Tragedy and Epic, survives); that is a fact about every surviving witness to this work, not a gap introduced by this import."
+      ]
+    }
+  ]
+}

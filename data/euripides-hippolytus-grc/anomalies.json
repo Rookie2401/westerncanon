@@ -1,0 +1,166 @@
+[
+  {
+    "where": "euripides-hippolytus-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-1 / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-34 / sp[Ἀφροδίτη]/l[n=42]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Θησεῖ πρᾶγμα\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-58 / sp[Χορὸς Κυνηγῶν]/l[n=72]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"παρθένων, Ἄρτεμι.\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-73 / sp[Θεράπων]/l[n=91]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-73 / sp[Θεράπων]/l[n=99]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-170 / sp[Χορός]/l[n=172]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"στυγνὸν δ’ ὀφρύων νέφος αὐξάνεται.\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-313 / sp[Φαίδρα]/l[n=351]",
+    "note": "<gap reason=\"ellipsis\"/>: a lacuna in the source; no text supplied."
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-362 / sp[Χορός]/l[n=364]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πρὶν σὰν φιλίαν\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-362 / sp[Χορός]/l[n=365]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"κατανύσαι φρενῶν.\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-459 / sp[Τροφός]/l[n=468]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"οὐδὲ στέγην γὰρ ἧς κατηρεφεῖς δόμοι\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-459 / sp[Τροφός]/l[n=469]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"καλῶς ἀκριβώσειαν·\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-535 / sp[Χορός]/l[n=537]",
+    "note": "<add> included in reading text: \"αἶ’\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-545 / sp[Χορός]/l[n=551]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ὑμεναίοις\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-601 / sp[Ἱππόλυτος]/l[n=625]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"νῦν δ’ ἐς δόμους μὲν πρῶτον ἄξεσθαι κακὸν\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-601 / sp[Ἱππόλυτος]/l[n=626]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μέλλοντες ὄλβον δωμάτων ἐκπίνομεν.\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-601 / sp[Ἱππόλυτος]/l[n=634]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἔχει δ’ ἀνάγκην, ὥστε κηδεύσας καλοῖς\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-601 / sp[Ἱππόλυτος]/l[n=635]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"γαμβροῖσι χαίρων σῴζεται πικρὸν λέχος,\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-601 / sp[Ἱππόλυτος]/l[n=636]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἢ χρηστὰ λέκτρα, πενθεροὺς δ’ ἀνωφελεῖς\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-601 / sp[Ἱππόλυτος]/l[n=637]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"λαβὼν πιέζει τἀγαθῷ τὸ δυστυχές.\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-640 / sp[Ἱππόλυτος]/l[n=649]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"δρῶσιν αἱ κακαὶ\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-669 / sp[Φαίδρα]/l[n=670]",
+    "note": "<add> included in reading text: \"τίνας\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-680 / sp[Φαίδρα]/l[n=715]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"προτρέπουσ’\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-836 / sp[Θησεύς]/l[n=840]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"τίνος κλύω; πόθεν θανάσιμος τύχα,\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-836 / sp[Θησεύς]/l[n=841]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"γύναι, σὰν ἔβα, τάλαινα, καρδίαν;\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-836 / sp[Θησεύς]/l[n=844]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-836 / sp[Θησεύς]/l[n=848]",
+    "note": "<add> included in reading text: \"οὓς ἔτεκες,\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-866 / sp[Χορός]/l[n=868]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"πρὸς τὸ κρανθέν· εἴη τυχεῖν.\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-877 / sp[Θησεύς]/l[n=879]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἐν\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-936 / sp[Θησεύς]/l[n=952]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"ἤδη νυν αὔχει καὶ δι’ ἀψύχου βορᾶς\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-936 / sp[Θησεύς]/l[n=953]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"σίτοις\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-983 / sp[Θησεύς]/l[n=1049]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ξένην ἐπ’ αἶαν λυπρὸν ἀντλήσεις βίον·\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-983 / sp[Θησεύς]/l[n=1050]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"μισθὸς γὰρ οὗτός ἐστιν ἀνδρὶ δυσσεβεῖ.\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-1060 / sp[Ἱππόλυτος]/l[n=1070]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τ’\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-1120 / sp[Χορὸς Κυνηγῶν]/l[n=1120]",
+    "note": "<add> included in reading text: \"τὰ\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-1151 / sp[Ἄγγελος]/l[n=1180]",
+    "note": "<add> included in reading text: \"θ’\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-1342 / sp[Ἱππόλυτος]/l[n=1354]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"ἓ ἕ·\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-1370 / sp[Ἱππόλυτος]/l[n=1375]",
+    "note": "<add> included in reading text: \"μ’·\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-1370 / sp[Ἱππόλυτος]/l[n=1379]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τε\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-1370 / sp[Ἱππόλυτος]/l[n=1381]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"οὐδὲ μέλλει,\""
+  },
+  {
+    "where": "euripides-hippolytus-grc / card-1431 / sp[Θησεύς]/l[n=1459]",
+    "note": "<sic> transmitted reading printed as-is (crux), kept: \"Ἀθῆναι Παλλάδος θ’ ὁρίσματα,\""
+  }
+]

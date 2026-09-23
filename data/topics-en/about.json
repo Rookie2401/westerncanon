@@ -1,0 +1,57 @@
+{
+  "workId": "topics-en",
+  "title": "Topics",
+  "author": "Aristotle",
+  "language": "en",
+  "translator": "W. A. Pickard-Cambridge",
+  "edition": "The Works of Aristotle, Vol. I (Oxford: Clarendon Press, 1928), ed. W. D. Ross",
+  "provenance": "The MIT Internet Classics Archive (classics.mit.edu/Aristotle/topics.html), fetched once (table-of-contents page plus all 8 book sub-pages) and committed to this repository under scripts/import-topics-en/raw/; imported by scripts/import-topics-en.",
+  "license": "Pickard-Cambridge's 1928 translation is in the public domain (published well over 95 years ago; first published 1928, translator died 1952). The MIT Internet Classics Archive's own HTML presentation is copyright (C) 1994-2009 Daniel C. Stevenson / Web Atomics per its site footer; only the public-domain translated text itself (not MIT's page design, navigation or any other site furniture) is reproduced here, consistent with the Archive's own stated permissions practice for this kind of non-commercial reuse of a public-domain text (see classics.mit.edu/Help/permissions.html).",
+  "sections": [
+    {
+      "heading": "Aristotle's Topics — English, trans. Pickard-Cambridge",
+      "paragraphs": [
+        "This is Aristotle's Topics in the English translation made by W. A. Pickard-Cambridge for the Oxford \"Works of Aristotle\" series (Vol. I, ed. W. D. Ross), first published 1928, as reproduced by the MIT Internet Classics Archive.",
+        "The text here is the translation, verbatim. Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "Translator verification",
+      "paragraphs": [
+        "Condition (a) of this import's verification requirement is met directly: every one of the 8 fetched MIT book pages carries the explicit on-page credit line \"Translated by W. A. Pickard-Cambridge\" (confirmed by direct inspection of the raw HTML of each page, e.g. scripts/import-topics-en/raw/topics.1.i.html), so no independent sentence-matching cross-check against another copy of the translation was necessary."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The work is divided into 8 Books and, within each Book, numbered chapters (MIT labels them \"Part N\"; rendered here as \"Chapter N\" per this library's standing terminology for Aristotle) - 82 chapters in total across the 8 books, matching the traditional Bekker book division exactly."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the raw HTML of classics.mit.edu/Aristotle/topics.html (table of contents) and its 8 linked book sub-pages (topics.1.i.html ... topics.8.viii.html), fetched once via a direct HTTPS request and committed under scripts/import-topics-en/raw/. Nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer locates each book page's real content between its own `<A NAME=\"start\"></A>` and `<A NAME=\"end\"></A>` markers, splits it into chapters at each `<B>Part N</B>` heading, and splits each chapter into paragraphs at every `<BR><BR>` line-break pair. Only HTML transport scaffolding is removed: the invisible `<A NAME=\"n\">` deep-link anchors (no reference scheme - see below) and the paragraph/line-break markup itself; the words are otherwise untouched. No entities, footnotes or other inline apparatus were found anywhere in this source."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book and Chapter only. MIT's Internet Classics Archive prints NO Bekker page/column/line markers anywhere in this work (confirmed by direct inspection of all 8 book pages) - Division.ref is null throughout, for both Books and Chapters, and Passage.ref is null throughout as well. This is a genuine limitation of this specific digital source, not something this importer fabricates around; a reader wanting Bekker citations for Topics should consult the Greek text or a Bekker-keyed edition elsewhere."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All 8 Books and all 82 chapters are present and in order; every book page was confirmed complete (both a `start` and an `end` marker present, and each page's byte count matches MIT's own table-of-contents size label). No paragraph is dropped, merged or reordered.",
+        "No Bekker apparatus. See \"Reference scheme\" above.",
+        "No footnotes. None were found anywhere in this source."
+      ]
+    }
+  ]
+}

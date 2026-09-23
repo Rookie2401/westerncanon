@@ -172,6 +172,18 @@ export function parseDialogue(xml: string, workId: string): ParseResult {
 
   const divisions: Division[] = [];
   const stack: Array<'other' | 'section'> = [];
+  /**
+   * The Letters (tlg036) wrap their Stephanus-page <div>s inside one
+   * <div subtype="letter" n="N"> per epistle, so a page on which one letter
+   * ends and the next begins appears TWICE as a section <div> (once inside
+   * each letter), each occurrence holding different text. The second
+   * occurrence is re-opened and merged into the same page division as a
+   * further paragraph, in source order; it is never skipped (that would
+   * silently drop the opening of every letter that starts mid-page) and never
+   * reordered (a non-adjacent recurrence fails loudly instead). No other
+   * dialogue has letter divs, so this path is inert for them.
+   */
+  let currentLetter: string | null = null;
 
   let currentDiv: Division | null = null;
   let pageParagraphs: string[] = [];
@@ -237,21 +249,37 @@ export function parseDialogue(xml: string, workId: string): ParseResult {
       if (isSection) {
         const nm = tok.match(/\bn="(\d+)"/);
         if (!nm) fail(`${workId}: section <div> missing a numeric n="..." attribute: ${tok}`);
+        const id = `sec-${nm[1]}`;
         stack.push('section');
         pageParagraphs = [];
         pageDelExcerpts = [];
         pageAddExcerpts = [];
         pendingBuf = '';
-        currentDiv = {
-          id: `sec-${nm[1]}`,
-          number: nm[1],
-          ref: null,
-          sourceHeading: null,
-          editorialTitle: null,
-          children: [],
-          passages: [],
-        };
+        const last = divisions[divisions.length - 1];
+        if (last && last.id === id) {
+          // Same Stephanus page continuing inside the next letter: re-open it.
+          divisions.pop();
+          currentDiv = last;
+          anomalies.push({
+            where: id,
+            note: `Stephanus page ${nm[1]} is split across two section <div>s in the source because Letter ${currentLetter ?? '?'} begins on it mid-page; both parts are kept, in source order, as separate paragraphs of this one page division (the second part is the opening of the new letter).`,
+          });
+        } else if (divisions.some((d) => d.id === id)) {
+          fail(`${workId}: section ${id} recurs non-adjacently in the source; refusing to merge or reorder`);
+        } else {
+          currentDiv = {
+            id,
+            number: nm[1],
+            ref: null,
+            sourceHeading: null,
+            editorialTitle: null,
+            children: [],
+            passages: [],
+          };
+        }
       } else {
+        const lm = tok.includes('subtype="letter"') ? tok.match(/\bn="([^"]+)"/) : null;
+        if (lm) currentLetter = lm[1];
         stack.push('other');
       }
     } else if (tok === '</div>') {
@@ -271,7 +299,11 @@ export function parseDialogue(xml: string, workId: string): ParseResult {
         if (pageParagraphs.length === 0) {
           fail(`${workId}: division ${currentDiv.id} ended with zero paragraphs`);
         }
-        const passage: Passage = { n: '', text: pageParagraphs.join('\n\n'), ref: null };
+        const passage: Passage = {
+          n: currentLetter === null ? '' : `Letter ${currentLetter}`,
+          text: pageParagraphs.join('\n\n'),
+          ref: null,
+        };
         const notes: string[] = [];
         if (pageDelExcerpts.length > 0) notes.push(`${pageDelExcerpts.length} <del> exclusion(s)`);
         if (pageAddExcerpts.length > 0) notes.push(`${pageAddExcerpts.length} <add> insertion(s) kept`);

@@ -1,0 +1,146 @@
+[
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / transcription hygiene",
+    "note": "1 Perseus display-only hidden line(s) (<l n=\"0\" style=\"hidden\"/>, or the <l n=\"0\"><hi>Name</hi></l> variant used when there is no dramatis-personae note - both are Perseus's own editorial insertion \"for display purposes only\", not source text) skipped; 0 apparatus <note> element(s) (editorial commentary, not reading text - not counting the dramatis-personae note itself, handled separately) discarded entirely."
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-? / l[n=0]",
+    "note": "<l n=\"0\" style=\"hidden\"/> Perseus-added empty display-only placeholder line (not source text) skipped."
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-52 / sp[Μνησίλοχος]/l[n=86]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-101 / sp[Χορὸς Ἀγάθωνος]/l[n=126]",
+    "note": "<add> included in reading text: \"θεοῦ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-266 / sp[Μνησίλοχος]/l[n=283]",
+    "note": "<add> included in reading text: \"καὶ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-266 / sp[Μνησίλοχος]/l[n=294]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"δούλοις γὰρ οὐκ ἔξεστʼ ἀκούειν τῶν λόγων.\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-295 / sp[Κηρύκαινα]/l[n=306]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-331 / sp[Κηρύκαινα]/l[n=334]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-331 / sp[Κηρύκαινα]/l[n=337]",
+    "note": "<add> included in reading text: \"τʼ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-459 / sp[Μνησίλοχος]/l[n=477]",
+    "note": "<add> included in reading text: \"δείνʼ·\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-574 / sp[Γυνὴ Α]/l[n=605]",
+    "note": "<add> included in reading text: \"εἴμʼ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-574 / sp[Κλεισθένης]/l[n=611b]",
+    "note": "<add> included in reading text: \"τις\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-668 / sp[Χορός]/l[n=674]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-668 / sp[Χορός]/l[n=683]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-668 / sp[Χορός]/l[n=683]",
+    "note": "<add> included in reading text: \"παρὼν\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-707 / sp[Χορός]/l[n=721]",
+    "note": "<add> included in reading text: \"ἐπʼ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-707 / sp[Χορός]/l[n=722]",
+    "note": "<add> included in reading text: \"καὶ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-728 / sp[Γυνὴ Α]/l[n=741b]",
+    "note": "<add> included in reading text: \"καὶ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-728 / sp[Γυνὴ Γ]/l[n=761]",
+    "note": "<del> editor-bracketed text KEPT in the reading text (in square brackets): \"τίς τὴν ἀγαπητὴν παῖδά σοὐξῃρήσατο;\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-728 / sp[Μνησίλοχος]/l[n=768]",
+    "note": "<add> included in reading text: \"ἂν\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-728 / sp[Μνησίλοχος]/l[n=772]",
+    "note": "<add> included in reading text: \"πόθεν;\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-785 / sp[Χορός]/l[n=804]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-846 / sp[Γυνὴ Γ]/l[n=879]",
+    "note": "<add> included in reading text: \"τούτῳ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-846 / sp[Γυνὴ Γ]/l[n=883]",
+    "note": "<add> included in reading text: \"γʼ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-990 / sp[Χορός]/l[n=994]",
+    "note": "<gap reason=\"lost\"/>: a lacuna in the source; rendered as the conventional lacuna sigla \"⟨…⟩\"."
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1001 / sp[Μνησίλοχος]/l[n=1013]",
+    "note": "<add> included in reading text: \"τοῦτʼ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1001 / sp[Εὐριπίδης]/l[n=1016]",
+    "note": "<add> included in reading text: \"οὖν\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1001 / sp[Μνησίλοχος]/l[n=1026]",
+    "note": "<add> included in reading text: \"μοι\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1001 / sp[Μνησίλοχος]/l[n=1040]",
+    "note": "<add> included in reading text: \"τε\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1001 / sp[Μνησίλοχος]/l[n=1045]",
+    "note": "<add> included in reading text: \"ἐς\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1056 / sp[Εὐριπίδης]/l[n=1093b]",
+    "note": "<add> included in reading text: \"ποῖ ποῖ πεύγεις;\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1056 / sp[Εὐριπίδης]/l[n=1094b]",
+    "note": "<add> included in reading text: \"οὐ καιρήσεις;\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1098 / sp[Εὐριπίδης]/l[n=1129]",
+    "note": "<add> included in reading text: \"γὰρ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1155 / sp[Χορός]/l[n=1156]",
+    "note": "<add> included in reading text: \"ἔλθετε\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1160 / sp[Τοξότης]/l[n=1194b]",
+    "note": "<add> included in reading text: \"ναὶ\""
+  },
+  {
+    "where": "aristophanes-thesmophoriazusae-grc / card-1226 / sp[Χορός]/l[n=1226]",
+    "note": "<add> included in reading text: \"τρέχε.\""
+  }
+]

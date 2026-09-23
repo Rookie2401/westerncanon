@@ -1,0 +1,34 @@
+[
+  {
+    "where": "herodotus-histories-en / reading text",
+    "note": "1 chapter(s) (book-7-ch-76) contain a literal \"<\"/\">\" in the printed reading text - this source's own &lt;...&gt; editorial convention (Godley marking a conjectural or uncertain reading, e.g. book-7-ch-76's \"<Pisidians>\" for a corrupted ethnic name), correctly reproduced by entity-decoding like every other entity in this source. Confirmed by direct inspection to be the ONLY use of &lt;/&gt; entities anywhere in this file."
+  },
+  {
+    "where": "herodotus-histories-en / chapter numbering",
+    "note": "45 chapters across the work carry a single uppercase-letter suffix in this edition's own numbering, matching the Greek sibling exactly (independently confirmed - this importer never reads the Greek file). Full list: book-2-ch-121A, book-2-ch-121B, book-2-ch-121C, book-2-ch-121D, book-2-ch-121E, book-2-ch-121F, book-5-ch-92A, book-5-ch-92B, book-5-ch-92C, book-5-ch-92D, book-5-ch-92E, book-5-ch-92F, book-5-ch-92G, book-6-ch-86A, book-6-ch-86B, book-6-ch-86C, book-6-ch-86D, book-7-ch-8A, book-7-ch-8B, book-7-ch-8C, book-7-ch-8D, book-7-ch-9A, book-7-ch-9B, book-7-ch-9C, book-7-ch-10A, book-7-ch-10B, book-7-ch-10C, book-7-ch-10D, book-7-ch-10E, book-7-ch-10F, book-7-ch-10G, book-7-ch-10H, book-7-ch-16A, book-7-ch-16B, book-7-ch-16C, book-8-ch-60A, book-8-ch-60B, book-8-ch-60C, book-8-ch-68A, book-8-ch-68B, book-8-ch-68C, book-8-ch-140A, book-8-ch-140B, book-9-ch-7A, book-9-ch-7B."
+  },
+  {
+    "where": "herodotus-histories-en / reading text",
+    "note": "528 <note> apparatus elements (Godley's/Perseus's own editorial footnotes) were excluded entirely, tag and content, not counted individually. Every <foreign>, <date> and <bibl> nested inside one of them was dropped along with it."
+  },
+  {
+    "where": "herodotus-histories-en / reading text",
+    "note": "4305 <reg> elements totalling 193,990 characters (whitespace-collapsed) were excluded entirely. The exact element carrying this text is <reg>, always nested one level inside a <name type=\"place\">, e.g. <name type=\"place\"><reg>Bodrum [27.466,37.5] (inhabited place), Mugla Ili, Ege kiyilari, Turkey, Asia</reg> <placeName>Halicarnassus</placeName></name> - so the raw element text at that point genuinely reads \"Herodotus of Bodrum [27.466,37.5] (inhabited place), Mugla Ili, Ege kiyilari, Turkey, Asia Halicarnassus\" before this exclusion. <reg> is Perseus-added gazetteer enrichment (coordinates + a longer geographic description drawn from the Getty Thesaurus of Geographic Names), never part of Godley's own translated prose. Not one word of Godley's translation is affected: only the genuine display text (the sibling <placeName>, or the bare trailing text when no <placeName> sibling is present) survives in the reading text."
+  },
+  {
+    "where": "herodotus-histories-en / reading text",
+    "note": "110 <bibl> citations (Perseus's own citation apparatus - a Homeric source reference inside <cit>, or a citation inside an already-excluded <note>) were excluded entirely, not part of Godley's translated text."
+  },
+  {
+    "where": "herodotus-histories-en / reading text",
+    "note": "1558 <milestone unit=\"para\"/> markers (self-closing paragraph milestones, no text content) were dropped, not counted individually."
+  },
+  {
+    "where": "herodotus-histories-en / reading text",
+    "note": "781 tag-boundary spacing artifact(s) (a redundant space directly before a closing punctuation mark, e.g. \"Halicarnassus , so\" -> \"Halicarnassus, so\") were cleaned up - never legitimate English typesetting, always the leftover whitespace from a now-excluded/unwrapped tag boundary in this source's pretty-printed XML. Only the spacing is touched; no word is ever added, removed or changed."
+  },
+  {
+    "where": "herodotus-histories-en / passage & division refs",
+    "note": "Division.ref and Passage.ref are null throughout: this source carries no page-marker or milestone citation scheme distinct from its own Book/Chapter numbering (matching the Greek sibling)."
+  }
+]
