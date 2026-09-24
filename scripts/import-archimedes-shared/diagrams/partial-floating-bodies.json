@@ -1,0 +1,86 @@
+{
+  "workId": "archimedes-floating-bodies",
+  "sourceIdentifier": "archimedisoperao02arch",
+  "sourceDescription": "Heiberg, Archimedis Opera Omnia cum commentariis Eutocii, 1st ed., vol. 2 (Teubner, 1880/81) — Latin (Moerbeke) text and diagrams, since the 2nd-edition Greek volume (1913) is not on archive.org",
+  "divisions": {
+    "archimedes-floating-bodies-book-1-ch-1": [ { "image": "images/book-1-ch-1.png", "width": 635, "height": 590, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 360, leaf 398" } ],
+    "archimedes-floating-bodies-book-1-ch-2": [ { "image": "images/book-1-ch-2.png", "width": 1130, "height": 670, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 361, leaf 399" } ],
+    "archimedes-floating-bodies-book-1-ch-3": [ { "image": "images/book-1-ch-3.png", "width": 1126, "height": 710, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 363, leaf 401" } ],
+    "archimedes-floating-bodies-book-1-ch-4": [ { "image": "images/book-1-ch-4.png", "width": 1116, "height": 756, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 365, leaf 403" } ],
+    "archimedes-floating-bodies-book-1-ch-5": [ { "image": "images/book-1-ch-5.png", "width": 1346, "height": 773, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 367, leaf 405 — same diagram as Prop. II, reprinted (text says \"disponantur autem eadem prioribus\")" } ],
+    "archimedes-floating-bodies-book-1-ch-6": [ { "image": "images/book-1-ch-6.png", "width": 710, "height": 700, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 368, leaf 406" } ],
+    "archimedes-floating-bodies-book-1-ch-7": [ { "image": "images/book-1-ch-7.png", "width": 600, "height": 640, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 370, leaf 408" } ],
+    "archimedes-floating-bodies-book-1-ch-8": [ { "image": "images/book-1-ch-8.png", "width": 2107, "height": 520, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 371, leaf 409 — Prop. VIII's own demonstration is lost in the Tartalea manuscript (Heiberg's apparatus notes the printed diagrams here are mixed with Prop. IX's); these three small figures are the ones the edition prints under the Prop. VIII/Suppositio II heading" } ],
+    "archimedes-floating-bodies-book-1-ch-9": [ { "image": "images/book-1-ch-9.png", "width": 1950, "height": 1300, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 373, leaf 411 — Prop. IX's own worked diagrams (distinct from the smaller p.371 set shared with Prop. VIII)" } ],
+
+    "archimedes-floating-bodies-book-2-ch-1": [ { "image": "images/book-2-ch-1.png", "width": 510, "height": 1140, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 375, leaf 413" } ],
+    "archimedes-floating-bodies-book-2-ch-2": [ { "image": "images/book-2-ch-2.png", "width": 1240, "height": 810, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 377, leaf 415" } ],
+    "archimedes-floating-bodies-book-2-ch-3": [ { "image": "images/book-2-ch-3.png", "width": 1280, "height": 890, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 378, leaf 418 — two archive.org scan frames (leaves 416-417) between this and the previous division are QC re-photographs of pp.376-377 (a ruler/finger visible), not new page content; skipped" } ],
+    "archimedes-floating-bodies-book-2-ch-4": [ { "image": "images/book-2-ch-4.png", "width": 860, "height": 820, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 380, leaf 420" } ],
+    "archimedes-floating-bodies-book-2-ch-5": [ { "image": "images/book-2-ch-5.png", "width": 960, "height": 840, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 384, leaf 424" } ],
+    "archimedes-floating-bodies-book-2-ch-6": [
+      { "image": "images/book-2-ch-6-1.png", "width": 1060, "height": 940, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 387, leaf 427 — \"prima figura\"" },
+      { "image": "images/book-2-ch-6-2.png", "width": 900, "height": 1060, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 388, leaf 428 — \"secunda figura\", explicitly cross-referenced in the text (\"sicut in secunda figura descriptum est\")" }
+    ],
+    "archimedes-floating-bodies-book-2-ch-7": [
+      { "image": "images/book-2-ch-7-1.png", "width": 1230, "height": 1000, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 390, leaf 430" },
+      { "image": "images/book-2-ch-7-2.png", "width": 1220, "height": 1050, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 391, leaf 431 — second case; Heiberg's apparatus notes \"fig. 2 om. Tartalea\" (his own reconstruction based on the mathematics)" }
+    ],
+    "archimedes-floating-bodies-book-2-ch-8": [
+      { "image": "images/book-2-ch-8-1.png", "width": 1440, "height": 1050, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 393, leaf 433 — first case (axis angle > B)" },
+      { "image": "images/book-2-ch-8-2.png", "width": 1620, "height": 1260, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 397, leaf 437 — second case (axis angle < B); apparatus notes \"fig. 2 om. Tartalea\"" }
+    ],
+    "archimedes-floating-bodies-book-2-ch-9": [ { "image": "images/book-2-ch-9.png", "width": 1180, "height": 1200, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 399, leaf 439" } ],
+    "archimedes-floating-bodies-book-2-ch-10": [
+      { "image": "images/book-2-ch-10-1.png", "width": 1550, "height": 1350, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 404, leaf 444 — main construction diagram introducing Prop. X (referenced throughout Parts I-V)" },
+      { "image": "images/book-2-ch-10-2.png", "width": 1230, "height": 1150, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 410, leaf 450 — Demonstratio partis II, figure 1" },
+      { "image": "images/book-2-ch-10-3.png", "width": 910, "height": 890, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 412, leaf 452 — Demonstratio partis II, figure 2 (continuation)" },
+      { "image": "images/book-2-ch-10-4.png", "width": 1280, "height": 1220, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 414, leaf 454 — Demonstratio partis III, figure 1" },
+      { "image": "images/book-2-ch-10-5.png", "width": 980, "height": 970, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 416, leaf 456 — Demonstratio partis III, figure 2; QC re-crop 2026-09-23: original crop clipped points A and O at the right edge and included stray marginal line-numbers \"5\"/\"10\" at the left; re-cropped from the cached leaf with those two line-number digits masked to paper tone before thresholding (threshold 170, lower than the 200 default, to suppress faint verso bleed-through in this crop region) so the full figure (through A, O and the second point A₁) is included with no stray text" },
+      { "image": "images/book-2-ch-10-6.png", "width": 930, "height": 860, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 417, leaf 457 — Demonstratio partis III, \"tertia figura\" (explicitly named in the text on p.416); QC trim 2026-09-23: top ~40px trimmed to remove stray descender fragments bleeding in from the text line above the figure on the printed page" },
+      { "image": "images/book-2-ch-10-7.png", "width": 1170, "height": 1050, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 419, leaf 459 — Demonstratio partis IV, figure 1" },
+      { "image": "images/book-2-ch-10-8.png", "width": 860, "height": 950, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 420, leaf 460 — Demonstratio partis IV, figure 2" },
+      { "image": "images/book-2-ch-10-9.png", "width": 900, "height": 820, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 421, leaf 461 — Demonstratio partis IV, \"fig. 3\" (explicitly cited in a footnote)" },
+      { "image": "images/book-2-ch-10-10.png", "width": 1250, "height": 1270, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 423, leaf 463 — Demonstratio partis V, figure 1" },
+      { "image": "images/book-2-ch-10-11.png", "width": 1230, "height": 970, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 424, leaf 464 — Demonstratio partis V, figure 2" },
+      { "image": "images/book-2-ch-10-12.png", "width": 950, "height": 980, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 426, leaf 466 — Demonstratio partis V, figure 3" }
+    ]
+  },
+  "markers": [
+    { "division": "archimedes-floating-bodies-book-1-ch-1", "index": 0, "leaf": 398, "printedPage": "360", "image": "images/book-1-ch-1.png", "note": "" },
+    { "division": "archimedes-floating-bodies-book-1-ch-2", "index": 0, "leaf": 399, "printedPage": "361", "image": "images/book-1-ch-2.png", "note": "" },
+    { "division": "archimedes-floating-bodies-book-1-ch-3", "index": 0, "leaf": 401, "printedPage": "363", "image": "images/book-1-ch-3.png", "note": "" },
+    { "division": "archimedes-floating-bodies-book-1-ch-4", "index": 0, "leaf": 403, "printedPage": "365", "image": "images/book-1-ch-4.png", "note": "" },
+    { "division": "archimedes-floating-bodies-book-1-ch-5", "index": 0, "leaf": 405, "printedPage": "367", "image": "images/book-1-ch-5.png", "note": "text explicitly says the same diagram as Prop. II is meant (\"disponantur autem eadem prioribus\"); the page nonetheless reprints it in full, so a real page-405/leaf-405 crop is used rather than reusing the ch-2 file" },
+    { "division": "archimedes-floating-bodies-book-1-ch-6", "index": 0, "leaf": 406, "printedPage": "368", "image": "images/book-1-ch-6.png", "note": "" },
+    { "division": "archimedes-floating-bodies-book-1-ch-7", "index": 0, "leaf": 408, "printedPage": "370", "image": "images/book-1-ch-7.png", "note": "" },
+    { "division": "archimedes-floating-bodies-book-1-ch-8", "index": 0, "leaf": 409, "printedPage": "371", "image": "images/book-1-ch-8.png", "note": "Prop. VIII's demonstration text is lost (missing in Tartalea's exemplar); only the heading + these three diagrams print under it, which Heiberg's apparatus says are mixed with Prop. IX's figures" },
+    { "division": "archimedes-floating-bodies-book-1-ch-9", "index": 0, "leaf": 411, "printedPage": "373", "image": "images/book-1-ch-9.png", "note": "" },
+
+    { "division": "archimedes-floating-bodies-book-2-ch-1", "index": 0, "leaf": 413, "printedPage": "375", "image": "images/book-2-ch-1.png", "note": "" },
+    { "division": "archimedes-floating-bodies-book-2-ch-2", "index": 0, "leaf": 415, "printedPage": "377", "image": "images/book-2-ch-2.png", "note": "" },
+    { "division": "archimedes-floating-bodies-book-2-ch-3", "index": 0, "leaf": 418, "printedPage": "378", "image": "images/book-2-ch-3.png", "note": "leaves 416-417 in the archive.org sequence are duplicate QC re-photographs of pp.376-377 (visible ruler/finger), not real content; skipped without fetching new pages" },
+    { "division": "archimedes-floating-bodies-book-2-ch-4", "index": 0, "leaf": 420, "printedPage": "380", "image": "images/book-2-ch-4.png", "note": "" },
+    { "division": "archimedes-floating-bodies-book-2-ch-5", "index": 0, "leaf": 424, "printedPage": "384", "image": "images/book-2-ch-5.png", "note": "" },
+    { "division": "archimedes-floating-bodies-book-2-ch-6", "index": 0, "leaf": 427, "printedPage": "387", "image": "images/book-2-ch-6-1.png", "note": "first of 2 genuinely distinct diagrams printed for this proposition" },
+    { "division": "archimedes-floating-bodies-book-2-ch-6", "index": 1, "leaf": 428, "printedPage": "388", "image": "images/book-2-ch-6-2.png", "note": "second, distinct diagram, explicitly cross-referenced in the text as \"secunda figura\"" },
+    { "division": "archimedes-floating-bodies-book-2-ch-7", "index": 0, "leaf": 430, "printedPage": "390", "image": "images/book-2-ch-7-1.png", "note": "first of 2 genuinely distinct diagrams" },
+    { "division": "archimedes-floating-bodies-book-2-ch-7", "index": 1, "leaf": 431, "printedPage": "391", "image": "images/book-2-ch-7-2.png", "note": "second, distinct diagram (Heiberg's reconstruction; Tartalea's manuscript omitted it)" },
+    { "division": "archimedes-floating-bodies-book-2-ch-8", "index": 0, "leaf": 433, "printedPage": "393", "image": "images/book-2-ch-8-1.png", "note": "first of 2 genuinely distinct diagrams (first case, axis angle greater than B)" },
+    { "division": "archimedes-floating-bodies-book-2-ch-8", "index": 1, "leaf": 437, "printedPage": "397", "image": "images/book-2-ch-8-2.png", "note": "second, distinct diagram (second case, axis angle less than B; Heiberg's reconstruction)" },
+    { "division": "archimedes-floating-bodies-book-2-ch-9", "index": 0, "leaf": 439, "printedPage": "399", "image": "images/book-2-ch-9.png", "note": "Prop. IX's proof actually continues onto p.402/leaf 442 with a second distinct diagram for a further sub-case, but this division has only 1 marker-slot, so only the first (primary) diagram under the Prop. IX heading is used" },
+
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 0, "leaf": 444, "printedPage": "404", "image": "images/book-2-ch-10-1.png", "note": "master construction diagram for Prop. X, introduced before Parts I-V are even stated; reused by reference throughout" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 1, "leaf": 450, "printedPage": "410", "image": "images/book-2-ch-10-2.png", "note": "Demonstratio partis II, figure 1 of 2" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 2, "leaf": 452, "printedPage": "412", "image": "images/book-2-ch-10-3.png", "note": "Demonstratio partis II, figure 2 of 2 (continuation, smaller redrawn figure)" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 3, "leaf": 454, "printedPage": "414", "image": "images/book-2-ch-10-4.png", "note": "Demonstratio partis III, figure 1 of 3. A small separate footnote diagram (a semicircle, illustrating an auxiliary lemma) also prints on this page; Heiberg's own note says it belongs to Pars III's statement on p.408, not to the Demonstratio's step-by-step figure sequence, so it was not counted as one of the 12 marker-slots" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 4, "leaf": 456, "printedPage": "416", "image": "images/book-2-ch-10-5.png", "note": "Demonstratio partis III, figure 2 of 3; QC re-crop 2026-09-23 — see divisions entry for detail (was clipped at right edge, cutting A and O; re-cropped with marginal line-numbers masked out)" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 5, "leaf": 457, "printedPage": "417", "image": "images/book-2-ch-10-6.png", "note": "Demonstratio partis III, figure 3 of 3 — the text on p.416 explicitly calls this the \"tertia figura\"; QC trim 2026-09-23 — see divisions entry for detail (top edge trimmed to drop stray descender fragments)" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 6, "leaf": 459, "printedPage": "419", "image": "images/book-2-ch-10-7.png", "note": "Demonstratio partis IV, figure 1 of 3" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 7, "leaf": 460, "printedPage": "420", "image": "images/book-2-ch-10-8.png", "note": "Demonstratio partis IV, figure 2 of 3" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 8, "leaf": 461, "printedPage": "421", "image": "images/book-2-ch-10-9.png", "note": "Demonstratio partis IV, figure 3 of 3 — a footnote on p.421 explicitly cites \"In fig. 3\"" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 9, "leaf": 463, "printedPage": "423", "image": "images/book-2-ch-10-10.png", "note": "Demonstratio partis V, figure 1 of 3" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 10, "leaf": 464, "printedPage": "424", "image": "images/book-2-ch-10-11.png", "note": "Demonstratio partis V, figure 2 of 3" },
+    { "division": "archimedes-floating-bodies-book-2-ch-10", "index": 11, "leaf": 466, "printedPage": "426", "image": "images/book-2-ch-10-12.png", "note": "Demonstratio partis V, figure 3 of 3, on the proposition's final page before \"Lemmata\"/\"Liber Assumptorum\" begins" }
+  ]
+}

@@ -45,10 +45,16 @@ export interface Passage {
   ref: string | null;
   /** optional note when something irregular was preserved (e.g. an editorial insertion) */
   anomaly?: string;
+  /** a real printed diagram cropped from a public-domain scanned edition
+   *  (only mechanica-grc carries any; see about.json's "Diagrams" section):
+   *  \`image\` is relative to this work's own data directory, with its exact
+   *  pixel size and an alt text; \`source\` is the exact printed citation */
+  figure?: { image?: string; imageWidth?: number; imageHeight?: number; alt?: string; source: string; note?: string };
 }
 
 export interface Division {
-  /** \`book-N\` / \`book-N-ch-M\` where the source has Books, else flat \`ch-N\` */
+  /** \`book-N\` / \`book-N-ch-M\` where the source has Books, else flat \`ch-N\`;
+   *  mechanica-grc alone uses \`preface\`/\`preface-ch-M\` and \`problem-N\`/\`problem-N-ch-M\` */
   id: string;
   /** printed book/chapter number as the source gives it; never null */
   number: string | null;

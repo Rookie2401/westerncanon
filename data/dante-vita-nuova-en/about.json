@@ -1,0 +1,44 @@
+{
+  "workId": "dante-vita-nuova-en",
+  "title": "The New Life",
+  "author": "Dante Alighieri",
+  "language": "en",
+  "translator": "Dante Gabriel Rossetti",
+  "edition": "The Siddal Edition (London: Ellis and Elvey, 1899), a reprint of Rossetti's translation first published 1861",
+  "provenance": "Project Gutenberg eBook #41085, \"The New Life (La Vita Nuova)\" (www.gutenberg.org/ebooks/41085), Distributed Proofreaders text prepared from page images of the 1899 Siddal Edition supplied by Internet Archive/American Libraries; fetched once and cached under scripts/import-dante/vita-nuova-en/raw/pg41085.txt. Nothing is downloaded at build or run time. Imported by scripts/import-dante/vita-nuova-en.",
+  "license": "Rossetti's translation (1861) and Dante's Italian original (c. 1294) are both in the public domain worldwide. The Project Gutenberg digital transcription is released under the Project Gutenberg License.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Dante's Vita Nuova (\"The New Life\"), Dante Gabriel Rossetti's English prose-and-verse translation - prose passages in English prose, each embedded sonnet or canzone rendered as English verse - first published in 1861 in Rossetti's The Early Italian Poets and reprinted standalone as this 1899 Siddal Edition.",
+        "The text here is the translation, verbatim throughout. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Project Gutenberg eBook #41085, prepared by the Distributed Proofreaders team from page images of the 1899 Siddal Edition (Ellis and Elvey, London; printed by Hazell, Watson & Viney) supplied by Internet Archive/American Libraries."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "This edition prints no numbered chapter divisions in the translated text; see \"structure\" in anomalies.json for the full reasoning (including independent confirmation from English Wikisource's own copy of the same edition). The work is therefore one flat Division holding one Passage per paragraph-or-poem block, in the order the source's own blank lines delimit them. A block is treated as verse (each printed line kept, joined by \"\\n\") when its own continuation lines carry the print's hanging indent, matching this batch's Commedia convention; otherwise it is prose and its print-width-wrapped lines are joined with a single space.",
+        "157 passages, 109890 characters total."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Passage.n and Division.ref are null/empty throughout: this edition prints no chapter or paragraph citation numbers."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Excluded editorial front/back matter, the 33 dropped translator footnotes, and the no-chapter-division finding are all logged in anomalies.json. The Gutenberg transcribers themselves state they corrected \"minor typographical errors ... without note\" in their source scan; this importer has no way to recover what those were and reproduces Gutenberg's own text as received."
+      ]
+    }
+  ]
+}

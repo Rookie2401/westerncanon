@@ -19,7 +19,78 @@ export const LICENSE =
   'Perseus Digital Library / OpenGreekAndLatin under the Creative Commons Attribution-ShareAlike 4.0 ' +
   'International licence (CC BY-SA 4.0).';
 
-export const ABOUT_SECTIONS: AboutSection[] = [
+/** Diagram coverage the importer computes while resolving <figure/> markers
+ *  (scripts/import-euclid/index.ts), so the prose below always states the
+ *  real counts. */
+export interface DiagramCoverage {
+  markers: number;
+  markersWithImage: number;
+  noteMarkers: number;
+  imagePassages: number;
+  images: number;
+  books: Array<{ roman: string; propositionsWithImage: number; images: number; noteMarkers: number }>;
+}
+
+function diagramsParagraphs(cov: DiagramCoverage): string[] {
+  const withImages = cov.books.filter((b) => b.images > 0);
+  const perBook = withImages.map((b) => `Book ${b.roman}: ${b.propositionsWithImage} proposition${b.propositionsWithImage === 1 ? '' : 's'}${b.images !== b.propositionsWithImage ? ` (${b.images} images)` : ''}`).join('; ');
+  const noteBooks = cov.books.filter((b) => b.noteMarkers > 0).map((b) => `Book ${b.roman} ${b.noteMarkers}`).join(', ');
+  return [
+    'The source TEI carries 498 bare <figure/> markers, one at (or immediately after) the point in ' +
+      'each proof where the printed edition places a geometric diagram. Every one of these markers ' +
+      'points to a graphic reference at heml.mta.ca, a defunct diagram host with no working images ' +
+      'and no way to recover which file went with which proposition via the TEI itself.',
+    `${cov.imagePassages} passages, in ${withImages.reduce((n, b) => n + b.propositionsWithImage, 0)} propositions across Books ${withImages.map((b) => b.roman).join(', ')}, ` +
+      `instead carry a real diagram image — ${cov.images} images in all (${perBook}), a few propositions printing two or three distinct figures. ` +
+      'Each was sourced by downloading the actual public-domain scans of Heiberg’s printed edition (Euclidis Opera Omnia vols. I–IV; ' +
+      'Internet Archive identifiers euclidisoperaomn01eucluoft, euclidisoperaomn02eucluoft, euclidisoperaomn03eucl and ' +
+      'euclidisoperaomn04eucl), rendering the exact page the diagram appears on at high resolution, and cropping tightly to just ' +
+      'the diagram’s own lines — never redrawn, fabricated, or reconstructed from the text. Every crop was checked by hand ' +
+      'against the source page before being committed, and a marker-by-marker sourcing report for every book from V onward ' +
+      '(printed page and scan leaf of each image, and every case where the page prints no figure) is kept with the importer. ' +
+      'Except in Book I, the diagrams sit only on the Latin translation’s page in this print, never on the Greek page opposite — ' +
+      'confirmed by checking both sides of the spread before concluding a diagram was genuinely absent; the one exception is ' +
+      'Book IV.16 (the inscribed 15-gon), whose figure sits on the Greek page two pages after the enunciation and was missed ' +
+      'by the first pass, which wrongly reported it as having no diagram. (Two Book III propositions, 35 and 36, print two ' +
+      'illustrative sub-case diagrams each; the fuller general-case figure was chosen for each. Book IV.5 prints three small ' +
+      'side-by-side case diagrams kept together as one composite image. Where a proof revisits the same printed figure at a ' +
+      'later marker, the same image is shown again rather than a duplicate crop.) The ink is kept exactly as printed (no lines ' +
+      'added, moved, or straightened); only its presentation is adapted to the app’s own design — the aged-paper background ' +
+      'is dropped in favour of a transparent one, and the linework is tinted to the app’s accent colour, so each diagram sits ' +
+      'on the page the same way in both light and dark mode. The image sits next to an exact citation (e.g. "Heiberg, Elements ' +
+      'I.47" or "Heiberg, Elements X.71") and alt text naming the proposition and the volume it was cut from.',
+    `The remaining ${cov.noteMarkers} markers (${noteBooks}) fall where the printed edition carries no figure at all — every one ` +
+      'was checked on its own page and the following pages up to the next proposition. Book V (the theory of proportion) prints ' +
+      'no diagram anywhere; the others are mostly propositions argued in words or by number-lines the edition does not draw. ' +
+      'These are preserved as an honest note — "A diagram appears here in the printed edition; not yet available in this build." ' +
+      '— attached to the passage in which they appear, together with the same exact-citation convention. The opposite gap also ' +
+      'exists: Book XIII.4 prints a diagram (vol. IV p. 259) but this transcription carries no marker in that proposition to attach ' +
+      'it to, so it is not shown. All 498 markers (image or note) are logged individually in anomalies.json with their division ' +
+      'id, so the information is preserved either way. A reader who wants to see Heiberg’s actual pages can consult the ' +
+      'public-domain scans on the Internet Archive (archive.org/details/euclidisoperaomn01eucluoft and the following volumes) ' +
+      '— an external reference only, not bundled with this app.',
+  ];
+}
+
+export function buildAboutSections(cov: DiagramCoverage): AboutSection[] {
+  return ABOUT_SECTIONS_TEMPLATE.map((s) => {
+    if (s.heading === 'Diagrams') return { heading: s.heading, paragraphs: diagramsParagraphs(cov) };
+    if (s.heading === 'Known gaps & anomalies') {
+      return {
+        heading: s.heading,
+        paragraphs: s.paragraphs.map((p) =>
+          p.startsWith('Diagrams. ')
+            ? `Diagrams. See "Diagrams" above: ${cov.images} real diagram images (${cov.markersWithImage} of the 498 markers), sourced from Heiberg’s printed scans and hand-checked; ` +
+              `the remaining ${cov.noteMarkers} markers, where the printed page carries no figure, are preserved as honest citation notes. Never a fabricated image, either way.`
+            : p,
+        ),
+      };
+    }
+    return s;
+  });
+}
+
+const ABOUT_SECTIONS_TEMPLATE: AboutSection[] = [
   {
     heading: 'Euclid’s Elements',
     paragraphs: [

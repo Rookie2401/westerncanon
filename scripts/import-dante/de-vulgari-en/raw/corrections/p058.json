@@ -1,0 +1,142 @@
+[
+  {
+    "find": "its plain ; for what is of greater power than that",
+    "replace": "plain ; for what is of greater power than that",
+    "note": "remove leftover margin-caption fragment \"its\" at line start"
+  },
+  {
+    "find": "power xvhich can sway the hearts of men, so as to",
+    "replace": "which can sway the hearts of men, so as to",
+    "note": "remove leftover margin-caption fragment \"power\" at line start; fix \"xvhich\"->\"which\""
+  },
+  {
+    "find": "make an unwlllinrr man wilhng [30]], and a",
+    "replace": "make an unwilling man willing [30], and a",
+    "note": "OCR misread \"unwilling\"/\"willing\"; doubled bracket"
+  },
+  {
+    "find": "willing man unwilling, just a3 tliis language has",
+    "replace": "willing man unwilling, just as this language has",
+    "note": "OCR misread \"as\""
+  },
+  {
+    "find": "Now tliat it exalts by honour is evident. Do",
+    "replace": "Now that it exalts by honour is evident. Do",
+    "note": "OCR misread \"that\""
+  },
+  {
+    "find": "not they of its liousehold surpa'.s in renown",
+    "replace": "not they of its household surpass in renown",
+    "note": "OCR misread \"household surpass\""
+  },
+  {
+    "find": "kings, marquises, counts, and all otlier magnates ?",
+    "replace": "kings, marquises, counts, and all other magnates ?",
+    "note": "OCR misread \"other\""
+  },
+  {
+    "find": "Tiiis has no need at all of proof.",
+    "replace": "This has no need at all of proof.",
+    "note": "OCR misread \"This\""
+  },
+  {
+    "find": "this glory cast [even]] our exile bclund our",
+    "replace": "this glory cast [even] our exile behind our",
+    "note": "doubled bracket; OCR misread \"behind\""
+  },
+  {
+    "find": "24. The rcmarkaljlf st:rtemciit that the ' illustrious'",
+    "replace": "24. The remarkable statement that the 'illustrious'",
+    "note": "OCR misread \"remarkable statement\""
+  },
+  {
+    "find": "j lanj^iia^e h.as been * cliosen out ' imjilles tliat in Dante's",
+    "replace": "language has been 'chosen out' implies that in Dante's",
+    "note": "remove stray leading \"j\"; OCR misread several words"
+  },
+  {
+    "find": "* view it owed its formation to a deliberate seleetion",
+    "replace": "view it owed its formation to a deliberate selection",
+    "note": "remove stray leading asterisk; OCR misread \"selection\""
+  },
+  {
+    "find": "■ by himself and other i)oets of the most suitable",
+    "replace": "by himself and other poets of the most suitable",
+    "note": "remove stray leading symbol; OCR misread \"poets\""
+  },
+  {
+    "find": "materials from amonj^ the various local dialects.",
+    "replace": "materials from among the various local dialects.",
+    "note": "OCR misread \"among\""
+  },
+  {
+    "find": "Some of tlie elements of the 'illustrious' spee< l» were",
+    "replace": "Some of the elements of the 'illustrious' speech were",
+    "note": "OCR misread \"the\"/\"speech\""
+  },
+  {
+    "find": "it v/as the fiuuLion of tlie •illustrious' writers to",
+    "replace": "it was the function of the 'illustrious' writers to",
+    "note": "OCR misread \"was\"/\"function\"/quote mark"
+  },
+  {
+    "find": "path'.T tliem to<;;ether and so bring to perfection that",
+    "replace": "gather them together and so bring to perfection that",
+    "note": "OCR misread \"gather them together\""
+  },
+  {
+    "find": "form of tlie iaii5^iia;^'e whicli belonged to the whole",
+    "replace": "form of the language which belonged to the whole",
+    "note": "OCR misread \"the language which\""
+  },
+  {
+    "find": "of Italy without I)eing the exclusive possession of any",
+    "replace": "of Italy without being the exclusive possession of any",
+    "note": "OCR misread \"being\""
+  },
+  {
+    "find": "consciously and of set purpose on an exteiuU-il scale",
+    "replace": "consciously and of set purpose on an extended scale",
+    "note": "OCR misread \"extended\""
+  },
+  {
+    "find": "the same course of action which the inliabitants of",
+    "replace": "the same course of action which the inhabitants of",
+    "note": "OCR misread \"inhabitants\""
+  },
+  {
+    "find": "tlie dilferent Italian towns pursued as it were in-",
+    "replace": "the different Italian towns pursued as it were in-",
+    "note": "OCR misread \"the different\""
+  },
+  {
+    "find": "i-io). In this treatise, however, while rejection",
+    "replace": "1-10). In this treatise, however, while rejection",
+    "note": "OCR misread \"1-10\""
+  },
+  {
+    "find": "detail, selection (the positive pirt) is explicitly men-",
+    "replace": "detail, selection (the positive part) is explicitly men-",
+    "note": "OCR misread \"part\""
+  },
+  {
+    "find": "tioned here only. It is int'^restiiig to notice, in",
+    "replace": "tioned here only. It is interesting to notice, in",
+    "note": "OCR misread \"interesting\""
+  },
+  {
+    "find": "connection with Dante's tlrjory of the 'illustrious'",
+    "replace": "connection with Dante's theory of the 'illustrious'",
+    "note": "OCR misread \"theory\""
+  },
+  {
+    "find": "writers on jihonetics, Otto Jespersen, in discussing",
+    "replace": "writers on phonetics, Otto Jespersen, in discussing",
+    "note": "OCR misread \"phonetics\""
+  },
+  {
+    "find": "language of any country, cnmes to the conclusion (as",
+    "replace": "language of any country, comes to the conclusion (as",
+    "note": "OCR misread \"comes\""
+  }
+]

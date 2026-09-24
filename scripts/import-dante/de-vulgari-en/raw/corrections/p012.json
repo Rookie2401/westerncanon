@@ -1,0 +1,82 @@
+[
+  {
+    "find": "Speech inquiry of the devil she said, * We eat of the",
+    "replace": "inquiry of the devil she said, ' We eat of the",
+    "note": "leading 'Speech' is a leaked fragment of the adjacent margin caption ('Speech in Eden'); stray asterisk should be a quote mark"
+  },
+  {
+    "find": "Eden fj-yj^ q[ ^i^q trees which arc in Paradise, but",
+    "replace": "fruit of the trees which are in Paradise, but",
+    "note": "leading 'Eden' is a leaked margin-caption fragment; OCR badly garbled 'fruit of the' and misread 'are'"
+  },
+  {
+    "find": "nor to toucl) it, lest pcradventure we die.'",
+    "replace": "nor to touch it, lest peradventure we die.'",
+    "note": "OCR misread 'touch'/'peradventure'"
+  },
+  {
+    "find": "suppose that l^oJ th_\" man spoke first; and it",
+    "replace": "suppose that [20] the man spoke first; and it",
+    "note": "OCR garbled the bracketed number '[20]'; stray underscore/quote characters removed and 'the' corrected"
+  },
+  {
+    "find": "rcsonably believe that sijecch was given to",
+    "replace": "reasonably believe that speech was given to",
+    "note": "OCR misread 'reasonably'/'speech'"
+  },
+  {
+    "find": "Now I Iiave no doubt that it is obvious to a",
+    "replace": "Now I have no doubt that it is obvious to a",
+    "note": "OCR misread 'have'"
+  },
+  {
+    "find": "of the first speaker uttcicd was the equivalent of",
+    "replace": "of the first speaker uttered was the equivalent of",
+    "note": "OCR misread 'uttered'"
+  },
+  {
+    "find": "God, namely 7'.V, wliethcr in the [^3oJ way of a",
+    "replace": "God, namely El, whether in the [30] way of a",
+    "note": "OCR misread the italic Hebrew word 'El' and 'whether'; garbled the bracketed number '[30]'"
+  },
+  {
+    "find": "absurtl and re])ugnant to reason that anything",
+    "replace": "absurd and repugnant to reason that anything",
+    "note": "OCR misread 'absurd'/'repugnant'"
+  },
+  {
+    "find": "s!iould have been named by mnn before God,",
+    "replace": "should have been named by man before God,",
+    "note": "OCR misread 'should'/'man'"
+  },
+  {
+    "find": "liim. h'or as, since the transgression of the",
+    "replace": "him. For as, since the transgression of the",
+    "note": "OCR misread 'him'/'For'"
+  },
+  {
+    "find": "human race, every one begins his first attem])t at",
+    "replace": "human race, every one begins his first attempt at",
+    "note": "OCR misread 'attempt'"
+  },
+  {
+    "find": "he v/ho existed before that transgression shofld",
+    "replace": "he who existed before that transgression should",
+    "note": "OCR misread 'who'/'should'"
+  },
+  {
+    "find": "out God, but [403 all joy is in God, and God",
+    "replace": "out God, but [40] all joy is in God, and God",
+    "note": "OCR garbled the bracketed number '[40]'"
+  },
+  {
+    "find": "* God.* Plere also thi question ar'ocs from",
+    "replace": "' God.' Here also this question arises from",
+    "note": "stray asterisks should be quote marks; OCR misread 'Here'/'this'/'arises'"
+  },
+  {
+    "find": "spoken, wliich appears to make against what has",
+    "replace": "spoken, which appears to make against what has",
+    "note": "OCR misread 'which'"
+  }
+]

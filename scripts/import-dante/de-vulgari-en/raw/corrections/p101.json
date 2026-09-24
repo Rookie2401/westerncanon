@@ -1,0 +1,19 @@
+[
+  {"find": "our sense of the word unless a repetition of Of", "replace": "our sense of the word unless a repetition of", "note": "stray margin-caption fragment ('Of') left by auto-strip"},
+  {"find": "one ode be made cither lx;forc the diesis, or divided", "replace": "one ode be made either before the diesis, or", "note": "OCR misread 'either', 'before'; stray margin-caption fragment ('divided') removed"},
+  {"find": "after, or both. If the repetition be made before ^\"^^*", "replace": "after, or both. If the repetition be made before", "note": "stray margin-caption fragment ('stanza') left by auto-strip"},
+  {"find": "[the diesis]] we say tliat the stanza has feet ;", "replace": "[the diesis] we say that the stanza has feet ;", "note": "OCR duplicated bracket and misread 'that'"},
+  {"find": "that the stanza has verses. If no rc])ctition be", "replace": "that the stanza has verses. If no repetition be", "note": "OCR misread 'repetition'"},
+  {"find": "made before [the diesis] we say th:(t the stanza", "replace": "made before [the diesis] we say that the stanza", "note": "OCR misread 'that'"},
+  {"find": "has a Fronle [40]] ; if none be made after, we say", "replace": "has a Fronte [40] ; if none be made after, we say", "note": "OCR misread 'Fronte' and duplicated bracket"},
+  {"find": "Hence it may become sutnciently plain how", "replace": "Hence it may become sufficiently plain how", "note": "OCR misread 'sufficiently'"},
+  {"find": "of th.* musical setting ; and therefore let us go", "replace": "of the musical setting ; and therefore let us go", "note": "OCR misread 'the'"},
+  {"find": "on to '•.he [50] arrangement [of the parts].", "replace": "on to the [50] arrangement [of the parts].", "note": "OCR misread 'the'"},
+  {"find": "home in mind, or the further rules in the following •", "replace": "borne in mind, or the further rules in the following", "note": "OCR misread 'borne'; stray trailing garbage character removed"},
+  {"find": "chapters \\vill he quite unintelli,t;ihle.", "replace": "chapters will be quite unintelligible.", "note": "OCR garbled 'will be quite unintelligible.'"},
+  {"find": "I. See above, II. i: 47/». 'I'lic soul h called sensible", "replace": "2. See above, II. 2 : 47n. The soul is called sensible", "note": "OCR garbled note number and cross-reference, and 'The soul is called'"},
+  {"find": "Convlvio, IV. 6 : 7 1 IV.", "replace": "Convivio, IV. 6 : 71 ff.", "note": "OCR misread 'Convivio' and 'ff.'"},
+  {"find": "II. 'Its defining term' is the stanza. Sec the", "replace": "11. 'Its defining term' is the stanza. See the", "note": "OCR misread note number 11 and 'See'"},
+  {"find": "beginning,' of the preceding chapter.", "replace": "beginning of the preceding chapter.", "note": "OCR added spurious punctuation"},
+  {"find": "21, 11. St Isidore (£'yrn. III. 19) e:cplains the", "replace": "21, 22. St Isidore (Etym. III. 19) explains the", "note": "OCR garbled note numbers, 'Etym.', and 'explains'"}
+]

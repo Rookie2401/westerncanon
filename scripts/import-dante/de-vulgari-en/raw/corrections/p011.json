@@ -1,0 +1,97 @@
+[
+  {
+    "find": "which we arc speaking ; for in so far as it is",
+    "replace": "which we are speaking ; for in so far as it is",
+    "note": "OCR misread 'are'"
+  },
+  {
+    "find": "[^of the s])eakcrj it is rational.",
+    "replace": "[of the speaker] it is rational.",
+    "note": "OCR garbled the bracketed translator's words '[of the speaker]'"
+  },
+  {
+    "find": "1-6. So j^rcat are the difTcrences between the reason",
+    "replace": "1-6. So great are the differences between the reason",
+    "note": "OCR misread 'great'/'differences'"
+  },
+  {
+    "find": "of one iiulivitlual Inui-.aii l)einfj ami that of another",
+    "replace": "of one individual human being and that of another",
+    "note": "OCR misread 'individual'/'human'/'being'/'and'"
+  },
+  {
+    "find": "that earli one of us m.iy practically be consiiiered as",
+    "replace": "that each one of us may practically be considered as",
+    "note": "OCR misread 'each'/'may'/'considered'"
+  },
+  {
+    "find": "fuimiii^ a sj)C'cifs by himself, like an angel, but",
+    "replace": "forming a species by himself, like an angel, but",
+    "note": "OCR misread 'forming'/'species'"
+  },
+  {
+    "find": "withoiir an angel's intuitive power. (Sec note to l)t",
+    "replace": "without an angel's intuitive power. (See note to De",
+    "note": "OCR misread 'without'/'See'/'De'"
+  },
+  {
+    "find": "AloturJiiit, I. 3 : 55-61 below in this vol.)",
+    "replace": "Monarchia, I. 3 : 55-62 below in this vol.)",
+    "note": "OCR misread 'Monarchia' and the line reference '55-62'"
+  },
+  {
+    "find": "4. If liiscernment (the fairest branch that rises from",
+    "replace": "4. If discernment (the fairest branch that rises from",
+    "note": "OCR misread 'discernment'"
+  },
+  {
+    "find": "the root of reason (Convivio, IV. 8 : i) ) be absent, 'the",
+    "replace": "the root of reason (Convivio, IV. 8 : 1) ) be absent, 'the",
+    "note": "OCR misread the line number '1'"
+  },
+  {
+    "find": "to ajipearance only (^Conviviof III. 10 : 22 If.), and",
+    "replace": "to appearance only (Convivio, III. 10 : 22 ff.), and",
+    "note": "OCR misread 'appearance'/'Convivio,'/'ff.'"
+  },
+  {
+    "find": "conse<iuently a wrong choice will be made. Cf. De",
+    "replace": "consequently a wrong choice will be made. Cf. De",
+    "note": "OCR misread 'consequently'"
+  },
+  {
+    "find": "J\\Iof!,irJn\\i, I. 12: 17-37.",
+    "replace": "Monarchia, I. 12 : 17-37.",
+    "note": "OCR misread 'Monarchia'"
+  },
+  {
+    "find": "15. HemiiUf i.e. perceptible by sense.",
+    "replace": "15. Sensible, i.e. perceptible by sense.",
+    "note": "OCR misread the italic headword 'Sensible,'"
+  },
+  {
+    "find": "the \"first sjjcaker, and that the first word he",
+    "replace": "the first speaker, and that the first word he",
+    "note": "stray leading quote removed; OCR misread 'speaker'"
+  },
+  {
+    "find": "Si'EKCH was oiven to man alone, as is plain from Origin",
+    "replace": "SPEECH was given to man alone, as is plain from",
+    "note": "OCR misread 'SPEECH'/'given'; trailing 'Origin' is a leaked fragment of the adjacent margin caption ('Origin of human speech')"
+  },
+  {
+    "find": "what has been said above. And now I think human",
+    "replace": "what has been said above. And now I think",
+    "note": "trailing 'human' is a leaked margin-caption fragment, not part of the sentence"
+  },
+  {
+    "find": "we ought also to investigate to whom of man- ^P^^^",
+    "replace": "we ought also to investigate to whom of man-",
+    "note": "trailing garbled characters are a leaked margin-caption fragment ('speech'), not printed body text"
+  },
+  {
+    "find": "what we read in the beginning ot Genesis,",
+    "replace": "what we read in the beginning of Genesis,",
+    "note": "OCR misread 'of'"
+  }
+]

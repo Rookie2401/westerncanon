@@ -1,0 +1,69 @@
+{
+  "workId": "newton-principia-la",
+  "title": "Philosophiæ Naturalis Principia Mathematica",
+  "author": "Isaac Newton",
+  "language": "la",
+  "edition": "Editio princeps (London: Jussu Societatis Regiae ac Typis Josephi Streater, 1687)",
+  "provenance": "Latin Wikisource, page \"Philosophiae Naturalis Principia Mathematica\" and its subpages (a proofread page-scan transclusion of djvu \"Principia newton la.djvu\"), fetched once via the MediaWiki action=parse&prop=text API (rendered HTML, needed for this source's <figure> diagram markers and <math> MathML) and cached under scripts/import-newton/raw/la/; imported by scripts/import-newton.",
+  "license": "Newton's 1687 first edition is in the public domain. The digital transcription (a proofread page-scan of a public-domain copy) is distributed by Wikisource / the Wikimedia Foundation under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is the editio princeps of Newton's Philosophiæ Naturalis Principia Mathematica - the FIRST edition, published in 1687 under the imprimatur of the Royal Society, edited for the press by Edmond Halley. It is not the 1713 (2nd, ed. Roger Cotes) or 1726 (3rd, ed. Henry Pemberton) edition; see \"Known gaps & anomalies\" below for exactly what that means for this text's contents (most importantly: no General Scholium, and Book III opens with nine \"Hypotheses\" rather than the four-rule \"Regulae Philosophandi\" plus separate \"Phaenomena\" of later editions).",
+        "The text here is Newton's Latin, verbatim throughout. Nothing is translated, modernised, or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Isaac Newton, Philosophiæ Naturalis Principia Mathematica (London: Jussu Societatis Regiae ac Typis Josephi Streater, 1687). Edmond Halley saw the work through the press and also contributed his own prefatory Latin ode, \"In viri praestantissimi D. Isaaci Newtoni opus hocce mathematico physicum\" - printed immediately after Newton's own preface in every edition since, and imported here (Division id prefaces-halley-ode) with its authorship clearly disclosed.",
+        "The work is divided into an Author's Preface, Definitions (8), Axioms/Laws of Motion (3 Laws + 6 Corollaries), and three Books: Book I (14 numbered Sections, 98 Propositions, 29 Lemmas), Book II (9 numbered Sections, 51 Propositions in this edition, 4 Lemmas), and Book III (no numbered Sections - opens directly with 9 unnumbered-group \"Hypotheses\", then 42 Propositions and 11 Lemmas, ending \"FINIS.\")."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is Latin Wikisource's proofread page-scan transclusion of a public-domain copy of the 1687 first edition (djvu \"Principia newton la.djvu\"; individual page quality levels inspected were \"4\" - validated twice - confirming a genuine proofread transcription, not raw/uncorrected OCR). Every page used by this import was fetched once (rendered HTML, via action=parse&prop=text, since the plain wikitext of a page-scan transclusion carries only a `<pages .../>` marker and none of the actual text, diagram markers, or MathML) and is cached under scripts/import-newton/raw/la/; nothing is loaded from the network at runtime.",
+        "IMPORTANT DISCOVERED DEFECT in this Wikisource work's own front-page index. The work's own top-level index page links to a subpage titled \"Philosophiae Naturalis Principia Mathematica - DE MUNDI SYSTEMATE LIBER TERTIUS.\" for Book III. Direct inspection shows that page is NOT Newton's text at all - it holds a single paragraph of unrelated Spanish-language content with no connection to the Principia, created in a single edit (dated 2026-01-16, by an anonymous/temporary editor) that never touched any genuine Newton text; its own one-entry page-history confirms this is spam/vandalism, not a damaged transcription. The REAL, complete, proofread page-scan text for Book III - covering djvu pages 240 to 306 - was located instead at a differently-named page, \"Philosophiae Naturalis Principia Mathematica/Liber III\", found via a full census (`action=query&list=allpages`) of every subpage of this work rather than by following the work's own (broken) index link. This importer reads ONLY that real page; the vandalised stub was never used for a single word of this import."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each fetched page renders its structural headings (Lemma/Proposition/Definition/Law/Corollary/Scholium/Hypotheses) as centred lines (`<div align=\"center\"><p>...</p></div>`), sometimes several to a block (e.g. a Section's Roman-numeral banner, its Latin subtitle, and its first Proposition's heading can all sit inside one wrapping centred div, each its own `<p>`). This importer walks every page's content in document order, classifying each centred line by a fixed heading vocabulary (see scripts/import-newton/classify.ts, built by direct inspection of every fetched page, never guessed) and treating everything else as reading text.",
+        "A numbered Proposition, Lemma, Definition, Law, Corollary or (in Book III) Hypothesis becomes its own reader Division, in the source's own numbering (continuous through each Book: Book I's Lemmas run I-XXIX and its Propositions I-XCVIII across all 14 Sections without resetting; Book III's Hypotheses, Lemmas and Propositions each have their own separate count). A Scholium - always printed as its own centred heading, \"Scholium.\" (occasionally abbreviated \"Schol.\", or headed \"Scholium Generale.\"/\"Idem aliter.\" for an alternate proof) - is NOT a new Division: per this batch's brief, it is folded into the PRECEDING item's own Division as a further Passage, with the printed heading word kept literally at the start of that passage's text (Passage carries no separate heading field). A Corollary/Case/Hypothesis-numbered marker printed INLINE at a paragraph's own start (\"Corol. 1.\", \"Cas. 2.\", \"Hypoth. V.\") rather than as its own centred heading is treated the same way when it is a Corollary or Case (a further Passage in the current Division); an inline \"Hypoth. N.\" specifically (Book III only) opens a fresh top-level Division instead, since each Hypothesis is independently numbered and cross-referenced throughout the work exactly like a Proposition. The source sometimes runs two such inline items together in one physical paragraph with no tag break (e.g. Book III's Hypoth. IV and Hypoth. V.); a boundary is only ever recognised at the text's own start or immediately after a sentence-ending period, specifically so that Newton's own constant mid-proof CITATIONS of an earlier item (\"per Hypoth. V.\", \"juxta Legum Corol. I.\") are never mistaken for a new one.",
+        "Two genuine markup irregularities, confirmed by direct inspection and corrected structurally (not textually): several Propositions/Lemmas print their italicised enunciation as a bare `<i>...</i>` with no wrapping `<p>` at all (e.g. Book I Proposition XLVIII, Book II Section VII Lemma IV) - recovered explicitly, since a naive `<p>`-only reader would silently lose that item's entire enunciation. A displayed equation occasionally sits directly under a page's content root with no wrapping `<p>` either (e.g. several formulas in Book I Section II) - likewise recovered explicitly."
+      ]
+    },
+    {
+      "heading": "Mathematical notation",
+      "paragraphs": [
+        "This source renders every in-line formula as real MathML (`<math>...<mfrac>/<msup>/<msub>/<msqrt>...</math>`), not as an image or plain text. Since this app's Passage.text is plain text with no rich-notation field, every formula is flattened to a fixed, disclosed ASCII convention: a superscript/exponent \"x^y\" is written \"x^y\"; a subscript \"x_y\"; a fraction \"a/b\" is written \"(a/b)\"; a square root is written \"sqrt(...)\"; an nth root \"root(x,n)\". HTML `<sup>`/`<sub>` elements (used for a handful of plain exponents outside MathML) use the same \"^\"/\"_\" convention. Nothing is evaluated, simplified, or re-derived - this is a typographic flattening of exactly what the page prints, never a computation on it."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book, Section (where the source has one) and the item's own printed number, exactly as Newton's own edition prints it - the scheme used by nearly every reference to the Principia since. This source carries no finer page/line milestone marker inside the running text, so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Diagrams",
+      "paragraphs": [
+        "The source page-scan carries a real, high-resolution scanned diagram image at every point the printed edition places one (confirmed: every `<figure>` marker links to an actual, loadable image, unlike this library's Euclid import, whose figure host is defunct). Per this batch's brief, diagrams are nonetheless deferred uniformly to a later phase: every diagram marker's Passage carries a `figure` field with the honest note \"A diagram appears here in the printed edition; not yet available in this build.\" and a `source` citation (e.g. \"Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLVII. Theor. XV.\"). Every marker is additionally logged individually in anomalies.json, including the (rare) case of more than one diagram at a single point, where only the first is represented structurally but all are logged."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. This edition's Author's Preface, Halley's dedicatory ode, all 8 Definitions, all 3 Laws of Motion and their 6 Corollaries, all 14 Sections of Book I (98 Propositions, 29 Lemmas), all 9 Sections of Book II (51 Propositions, 4 Lemmas in this edition), and the whole of Book III (9 Hypotheses, 42 Propositions, 11 Lemmas) are present, matching this edition's own printed numbering exactly, with no item merged, reordered, or renumbered.",
+        "No General Scholium. The famous General Scholium (\"Hypotheses non fingo...\") was written for, and first appeared in, the 1713 second edition - it simply does not exist in this 1687 first edition. This edition's Book III ends, correctly, straight after Proposition XLII with the printed word \"FINIS.\" No general-scholium Division is emitted for this work (contrast data/newton-principia-en, which is a later edition and does carry one).",
+        "Book III opens with \"HYPOTHESES,\" not \"Regulae Philosophandi\" + \"Phaenomena.\" This first edition's Book III begins with nine unnumbered-group Hypotheses (Hypoth. I-IX) rather than the four numbered \"Rules of Reasoning in Philosophy\" and separately-numbered \"Phaenomena\" that Newton introduced starting with the 1713 second edition. This is preserved exactly as printed: a Division \"book-3-hypotheses\" (sourceHeading \"HYPOTHESES.\") holds all nine as its children, ahead of Book III's Propositions and Lemmas. Comparing this with the English edition's (1726-derived) Book III independently confirms the historical reorganisation: two of the nine original Hypotheses (the immovability of the system's centre, and a comet postulate) survive into the later edition still labelled \"Hypothesis,\" while most of the rest become \"Phaenomena.\"",
+        "A genuine printed numbering gap in Book II: Propositions XIII and XV are consecutive in this edition - Proposition XIV does not appear on either the page that ends Section III (with Proposition XIII's proof) or the page that begins Section IV (with Lemma III then Proposition XV), confirmed by direct inspection of both pages' full content. Nothing is renumbered or invented to fill the gap. The independently-parsed English edition (a later, substantially revised edition of Book II) DOES have a Proposition XIV at the equivalent point, consistent with Book II being one of the sections of the Principia Newton revised most heavily between 1687 and 1726.",
+        "Diagrams. See the \"Diagrams\" section above - every marker is logged individually in anomalies.json.",
+        "Mathematical notation. See the dedicated section above for the printed-notation convention used for every fraction, exponent, and radical."
+      ]
+    }
+  ]
+}

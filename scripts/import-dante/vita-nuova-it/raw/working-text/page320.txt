@@ -1,0 +1,30 @@
+LEVEL:3
+
+<section begin="s7" />
+<poem>
+     mi pose in vita sì dolce e soave,
+     ch’io mi sentía dir dietro [[#spesse fiate|spesse fiate]]:{{R|10}}
+     «Deo, per qual dignitate
+     così leggiadro questi lo cor ave?»
+Or ho perduta tutta mia baldanza,
+     che si movea d’amoroso tesoro;
+     ond’io pover dimoro,{{R|15}}
+     in guisa che di dir mi ven dottanza.
+     Sì che volendo far come coloro
+     che per vergogna [[#celan|celan]] lor mancanza,
+     di fuor mostro allegranza,
+     e dentro dallo core [[#struggo|struggo]] e ploro.{{R|20}}
+</poem>
+
+
+
+Questo sonetto ha due parti principali; che ne la prima intendo chiamare li fedeli d’Amore per quelle parole di Geremia<section end="s7" />
+
+
+
+<section begin="c7" />{{§|spesse fiate|}}{{Sc|spesse fiate}}. La lezione ''assai fiate'', introdotta dagli Edd. Mil., piaciuta al Tod. e accettata dal Frat. e dal Giuliani, è variante peculiare di T.
+
+{{§|celan|}}{{Sc|celan}}. Il ''celar'' dato da k (e anche da V) non è da prendersi per un perfetto, ma è lo stesso che il ''celan'' degli altri Mss.: v. introduzione, p. cclxxx.
+
+{{§|struggo|}}{{Sc|struggo}}. Così leggo in luogo di ''mi struggo'', sebbene quest’ultima lezione abbia più largo fondamento nei codici, perché mi sembra dovesse tornar facile ai copisti sostituire, indipendentemente gli uni dagli altri, la forma più comune a quella doli’uso poetico. Anche nel son. di {{AutoreCitato|Guido Cavalcanti|Guido Cavalcanti}} ‘{{TestoCitato|Rime (Cavalcanti)/Le Rime di Guido Cavalcanti/Le rime di epoca incerta/A me stesso di me pietate vene|A me stesso di me}}’ il v. 5 dev’essere ''e tutto struggo perch’i’ sento bene'', ma per includervi il ''mi'' i copisti o hanno lasciato correre un verso ipermetro (come in Chig. L, VIII, 305, e. 56<sup>b</sup>) o hanno soppresso l’''e'' iniziale. Cfr. nello stesso codice Chigiano: ''ma con più struggo più son aviato'' (n° 420, ‘I’ son sì magro’ v. 13, c. 105<sup>b</sup>), e nel Vat. 3793; ''anzi distrugo come [a] foco ciera'' (n° lxxvj, ‘La mia vita è sì forte’, v. 3, e. 22<sup>b</sup>), ''ardo e distrugo e consummo pur pensando'' (n lxxxxviij. ‘Dolgliosamente’, v. 35, c. 29ª). Frequente, specialmente con verbi d’affetto, l’omissione della particella riflessiva nell’uso antico: cfr. il Vocabol. alle voci ''contentare, dilettare, dolere, lamentare, rinnovellare, smarrire, tormentare, vergognare''; e basti aggiungere qualche esempio per ''tormento'' e ''smarrisco'' fra i tanti che si potrebbero addurre: ''eo tuttor tormento'' <nowiki>|</nowiki> ''s’eo non ho siguranza'' ({{AutoreCitato|Mazzeo di Rocco|{{Sc|Mazzeo di Ricco}}}} ‘Lo core innamorato’, Chig. L, VIII, 305,
+n° 244, v. 34, 35); ''S’eo languisco e tormento'' <nowiki>|</nowiki> ''tutto in gio’ lo mi conto'' ({{AutoreCitato|Bonagiunta da Lucca|{{Sc|Bonagiunta da Lucca}}}}, ‘Donna vostre bellezze’, Chig.<section end="c7" />

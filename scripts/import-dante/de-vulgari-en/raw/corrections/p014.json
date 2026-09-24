@@ -1,0 +1,72 @@
+[
+  {
+    "find": "When, may reasonably say",
+    "replace": "may reasonably say",
+    "note": "remove leaked margin-caption word When,"
+  },
+  {
+    "find": "and once, after having been inspired",
+    "replace": "once, after having been inspired",
+    "note": "remove leaked margin-caption word and"
+  },
+  {
+    "find": "first P°^^^^> spoke v/ithout hesitation. For in man we",
+    "replace": "power, spoke without hesitation. For in man we",
+    "note": "remove leaked margin caption fragment and fix v/ithout->without"
+  },
+  {
+    "find": "spoke bcJ'^'ve it to be more characteristic of humanity",
+    "replace": "believe it to be more characteristic of humanity",
+    "note": "remove leaked margin caption word spoke and fix bcJ^ve->believe"
+  },
+  {
+    "find": "to be heard than to hoar, provided he be heard",
+    "replace": "to be heard than to hear, provided he be heard",
+    "note": "fix hoar->hear"
+  },
+  {
+    "find": "and hear [^lo] as a man.",
+    "replace": "and hear [10] as a man.",
+    "note": "fix garbled bracketed number ^lo->10"
+  },
+  {
+    "find": "lover of perfection l^y",
+    "replace": "lover of perfection by",
+    "note": "fix l^y->by"
+  },
+  {
+    "find": "bc-ing, whilst G'^d discerns",
+    "replace": "being, whilst God discerns",
+    "note": "fix bc-ing->being, G^d->God"
+  },
+  {
+    "find": "man who s'poke, without any words being said,",
+    "replace": "man who spoke, without any words being said,",
+    "note": "fix s'poke->spoke"
+  },
+  {
+    "find": "it is by God's aj>pointment that we rejoice in",
+    "replace": "it is by God's appointment that we rejoice in",
+    "note": "fix aj>pointment->appointment"
+  },
+  {
+    "find": "the well-ordered ])Iay of our emotions.",
+    "replace": "the well-ordered play of our emotions.",
+    "note": "fix ])Iay->play"
+  },
+  {
+    "find": "[I30] Hence also wc can fully determine the",
+    "replace": "[30] Hence also we can fully determine the",
+    "note": "fix garbled bracketed number I30->30 and wc->we"
+  },
+  {
+    "find": "8. To br hfjril than to hear. Speech, fliat is to say,\nic a more brilliant and chararferistic use of thaf gift",
+    "replace": "8. To be heard than to hear. Speech, that is to say,\nis a more brilliant and characteristic use of that gift",
+    "note": "fix multiple OCR misreadings in note 8"
+  },
+  {
+    "find": "thing in respect of God) the thouglit of the first",
+    "replace": "thing in respect of God) the thought of the first",
+    "note": "OCR misread thought (residual audit)"
+  }
+]

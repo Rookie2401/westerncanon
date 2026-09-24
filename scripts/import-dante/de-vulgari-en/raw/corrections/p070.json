@@ -1,0 +1,72 @@
+[
+  {
+    "find": "Degrees But inasmuch as [^further^ comparisons are",
+    "replace": "But inasmuch as [further] comparisons are",
+    "note": "leading 'Degrees' is leaked margin caption; bracket garbled"
+  },
+  {
+    "find": "worthi- jy^a(^e among those who deserve wcli, and also",
+    "replace": "made among those who deserve well, and also",
+    "note": "leading 'worthi-' is leaked margin caption; OCR misread 'made'/'well'"
+  },
+  {
+    "find": "comparisons are only made with rcsj)ect to the",
+    "replace": "comparisons are only made with respect to the",
+    "note": "OCR misread 'respect'"
+  },
+  {
+    "find": "before) we call ivorth'tmssy it is })lain that worthi-",
+    "replace": "before) we call worthiness, it is plain that worthi-",
+    "note": "OCR misread 'worthiness,'/'plain'"
+  },
+  {
+    "find": "nesses [303 are compared together according as",
+    "replace": "nesses [30] are compared together according as",
+    "note": "bracket number garbled"
+  },
+  {
+    "find": "worthinesses with regard to the same object [[of",
+    "replace": "worthinesses with regard to the same object [of",
+    "note": "doubled bracket"
+  },
+  {
+    "find": "desert^ but [only^ with regard to diflbrcnt",
+    "replace": "desert] but [only] with regard to different",
+    "note": "brackets garbled; OCR misread 'different'"
+  },
+  {
+    "find": "objects, so that we call ivorthter that which is",
+    "replace": "objects, so that we call worthier that which is",
+    "note": "OCR misread 'worthier'"
+  },
+  {
+    "find": "worthy of greater objects, and nvorlh'iest that",
+    "replace": "worthy of greater objects, and worthiest that",
+    "note": "OCR misread 'worthiest'"
+  },
+  {
+    "find": "thing can be more worthy [than another^ in",
+    "replace": "thing can be more worthy [than another] in",
+    "note": "bracket garbled"
+  },
+  {
+    "find": "[[objects of desert]], [[40]] according to the re-",
+    "replace": "[objects of desert], [40] according to the re-",
+    "note": "doubled brackets"
+  },
+  {
+    "find": "in it, and these we call the ivorthiest of those",
+    "replace": "in it, and these we call the worthiest of those",
+    "note": "OCR misread 'worthiest'"
+  },
+  {
+    "find": "hunt out what they arc. And, in order to",
+    "replace": "hunt out what they are. And, in order to",
+    "note": "OCR misread 'are'"
+  },
+  {
+    "find": "13 vegetable he seeks for what is useful, wherein",
+    "replace": "is vegetable he seeks for what is useful, wherein",
+    "note": "OCR misread 'is'"
+  }
+]

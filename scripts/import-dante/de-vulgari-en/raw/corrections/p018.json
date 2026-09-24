@@ -1,0 +1,107 @@
+[
+  {
+    "find": "[Description of the buildinf^ of Babel find of the con-",
+    "replace": "[Description of the building of Babel and of the con-",
+    "note": "fix buildinf^->building, find->and"
+  },
+  {
+    "find": "fvision of tongues. Those who rctnincd the",
+    "replace": "fusion of tongues. Those who retained the",
+    "note": "fix fvision->fusion, rctnincd->retained"
+  },
+  {
+    "find": "primitive lani^uage did not join in the wicktd",
+    "replace": "primitive language did not join in the wicked",
+    "note": "fix lani^uage->language, wicktd->wicked"
+  },
+  {
+    "find": "work; ;ind tlieir language was spoken l^y their",
+    "replace": "work; and their language was spoken by their",
+    "note": "fix ;ind->and, tlieir->their, l^y->by"
+  },
+  {
+    "find": "The It is, alas ! with feelings of shame that we now",
+    "replace": "It is, alas ! with feelings of shame that we now",
+    "note": "remove leaked margin-caption word The"
+  },
+  {
+    "find": "ignominy recall the ionominy of the human race. But",
+    "replace": "recall the ignominy of the human race. But",
+    "note": "remove leaked margin-caption word ignominy; fix ionominy->ignominy"
+  },
+  {
+    "find": "°^^^ since it is impossible for us to avoid passing",
+    "replace": "since it is impossible for us to avoid passing",
+    "note": "remove leaked garbled margin-caption fragment"
+  },
+  {
+    "find": "?ice through it, we will hasten through it, thoui h",
+    "replace": "through it, we will hasten through it, though",
+    "note": "remove leaked garbled margin-caption fragment; fix thoui h->though"
+  },
+  {
+    "find": "the biush of shame rises to our checks and our",
+    "replace": "the blush of shame rises to our cheeks and our",
+    "note": "fix biush->blush, checks->cheeks"
+  },
+  {
+    "find": "prone to sin ! C thou, full of iniquity froni the",
+    "replace": "prone to sin ! O thou, full of iniquity from the",
+    "note": "fix C->O, froni->from"
+  },
+  {
+    "find": "first and ever afterwards without cessatior. I",
+    "replace": "first and ever afterwards without cessation !",
+    "note": "fix garbled cessatior. I -> cessation !"
+  },
+  {
+    "find": "Did it suffice for thy correction tliat, deprived of",
+    "replace": "Did it suffice for thy correction that, deprived of",
+    "note": "fix tliat->that"
+  },
+  {
+    "find": "light through thy first [lo] transgression, thou",
+    "replace": "light through thy first [10] transgression, thou",
+    "note": "fix garbled bracketed number [lo]->[10]"
+  },
+  {
+    "find": "w:ist banislicd from thy delightful native land ?",
+    "replace": "wast banished from thy delightful native land ?",
+    "note": "fix w:ist->wast, banislicd->banished"
+  },
+  {
+    "find": "Did it sufiice, did it suflice that through the",
+    "replace": "Did it suffice, did it suffice that through the",
+    "note": "fix sufiice->suffice, suflice->suffice"
+  },
+  {
+    "find": "to thee had perished in the I'lood, and that tic",
+    "replace": "to thee had perished in the Flood, and that the",
+    "note": "fix I'lood->Flood, tic->the"
+  },
+  {
+    "find": "Certainly this should have been enough 1 ^ ^But",
+    "replace": "Certainly this should have been enough ! But",
+    "note": "fix garbled 1 ^ ^ -> !"
+  },
+  {
+    "find": "as men are wont to say in the proverb, * '1 hou",
+    "replace": "as men are wont to say in the proverb, 'Thou",
+    "note": "fix garbled * '1 hou -> 'Thou"
+  },
+  {
+    "find": "[20] See, reader, how man, either forgelt'ng",
+    "replace": "[20] See, reader, how man, either forgetting",
+    "note": "fix forgelt'ng->forgetting"
+  },
+  {
+    "find": "aside his eyes from the marks of the strij.es",
+    "replace": "aside his eyes from the marks of the stripes",
+    "note": "fix strij.es->stripes"
+  },
+  {
+    "find": "For incorrigible man, persuaded by tl.c giant,",
+    "replace": "For incorrigible man, persuaded by the giant,",
+    "note": "fix tl.c->the"
+  }
+]

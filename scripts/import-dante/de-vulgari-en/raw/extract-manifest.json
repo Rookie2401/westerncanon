@@ -1,0 +1,1307 @@
+[
+ {
+  "leaf": 20,
+  "page": 1,
+  "headerText": "DE VULGARI ELOqUENTIA",
+  "bodyLeft": null,
+  "bodyRight": null,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 21,
+  "page": 2,
+  "headerText": "",
+  "bodyLeft": null,
+  "bodyRight": null,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 22,
+  "page": 3,
+  "headerText": "",
+  "bodyLeft": 76,
+  "bodyRight": 1276,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "of"
+  ]
+ },
+ {
+  "leaf": 23,
+  "page": 4,
+  "headerText": "4 DE VULGARI ELOQUENTIA Ch.",
+  "bodyLeft": 283,
+  "bodyRight": 1477,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "^\"fi"
+  ]
+ },
+ {
+  "leaf": 24,
+  "page": 5,
+  "headerText": "I. THE FIRST BOOK 5",
+  "bodyLeft": 58,
+  "bodyRight": 1249,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 25,
+  "page": 6,
+  "headerText": "6 DE VULGARI ELOQUENTIA Ch.",
+  "bodyLeft": 285,
+  "bodyRight": 1483,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "to"
+  ]
+ },
+ {
+  "leaf": 26,
+  "page": 7,
+  "headerText": "II. THE FIRST BOOK 7",
+  "bodyLeft": 84,
+  "bodyRight": 1279,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 27,
+  "page": 8,
+  "headerText": "8 DE VULGARI ELOQUENTIA Cii.",
+  "bodyLeft": 289,
+  "bodyRight": 1486,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   "DCAStS",
+   "and"
+  ]
+ },
+ {
+  "leaf": 28,
+  "page": 9,
+  "headerText": "II. THE FIRST BOOK 9",
+  "bodyLeft": 100,
+  "bodyRight": 1289,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 29,
+  "page": 10,
+  "headerText": "10 DE VULGARI ELOQUENTIA Cu.",
+  "bodyLeft": 270,
+  "bodyRight": 1467,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "lor"
+  ]
+ },
+ {
+  "leaf": 30,
+  "page": 11,
+  "headerText": "IV. THE FIRST BOOK it",
+  "bodyLeft": 120,
+  "bodyRight": 1305,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "of"
+  ]
+ },
+ {
+  "leaf": 31,
+  "page": 12,
+  "headerText": "12 DE VULGARI ELOQUENTIA Ciu",
+  "bodyLeft": 267,
+  "bodyRight": 1457,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "in"
+  ]
+ },
+ {
+  "leaf": 32,
+  "page": 13,
+  "headerText": "V. THE FIRST BOOK 13",
+  "bodyLeft": 98,
+  "bodyRight": 1291,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "of"
+  ]
+ },
+ {
+  "leaf": 33,
+  "page": 14,
+  "headerText": "14 DE VULGARI ELOQUENTIA Ca.",
+  "bodyLeft": 301,
+  "bodyRight": 1494,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   "why,",
+   "man"
+  ]
+ },
+ {
+  "leaf": 34,
+  "page": 15,
+  "headerText": "VI. THE FIRST BOOK 1$",
+  "bodyLeft": 67,
+  "bodyRight": 1262,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "the"
+  ]
+ },
+ {
+  "leaf": 35,
+  "page": 16,
+  "headerText": "16 DE VULGARI ELOQUENTIA Cn.",
+  "bodyLeft": 321,
+  "bodyRight": 1515,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "love"
+  ]
+ },
+ {
+  "leaf": 36,
+  "page": 17,
+  "headerText": "Vr. THE FIRST BOOK",
+  "bodyLeft": 198,
+  "bodyRight": 1388,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 37,
+  "page": 18,
+  "headerText": "l3 DE VULGARI ELOQUENTIA Ciu",
+  "bodyLeft": 295,
+  "bodyRight": 1483,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 38,
+  "page": 19,
+  "headerText": "VII, THE FIRST BOOK 19",
+  "bodyLeft": 91,
+  "bodyRight": 1276,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "_"
+  ]
+ },
+ {
+  "leaf": 39,
+  "page": 20,
+  "headerText": "20 DE VULGARI ELOQUENTIA C»",
+  "bodyLeft": 284,
+  "bodyRight": 1478,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 40,
+  "page": 21,
+  "headerText": "VIM. THE FIRST BOOK 21",
+  "bodyLeft": 219,
+  "bodyRight": 1356,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "**"
+  ]
+ },
+ {
+  "leaf": 41,
+  "page": 22,
+  "headerText": "22 DE VULGARI ELOQUHNTIA Cu.",
+  "bodyLeft": 281,
+  "bodyRight": 1479,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 42,
+  "page": 23,
+  "headerText": "VIH. THE FIRST BOOK 23",
+  "bodyLeft": 142,
+  "bodyRight": 1335,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "^P^°\""
+  ]
+ },
+ {
+  "leaf": 43,
+  "page": 24,
+  "headerText": "24 DE VULGARI ELOQUENTIA C».",
+  "bodyLeft": 291,
+  "bodyRight": 1483,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 44,
+  "page": 25,
+  "headerText": "IX. THE FIRST BOOK 25",
+  "bodyLeft": 144,
+  "bodyRight": 1336,
+  "captionWordsRemoved": 3,
+  "captionSample": [
+   "lan-",
+   "of",
+   "*^"
+  ]
+ },
+ {
+  "leaf": 45,
+  "page": 26,
+  "headerText": "26 ■ DE VULGARI ELOQUENTIA Cn.",
+  "bodyLeft": 303,
+  "bodyRight": 1485,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "at"
+  ]
+ },
+ {
+  "leaf": 46,
+  "page": 27,
+  "headerText": "IX. THE FIRST BOOK 27",
+  "bodyLeft": 123,
+  "bodyRight": 1322,
+  "captionWordsRemoved": 3,
+  "captionSample": [
+   "of",
+   "'",
+   "•"
+  ]
+ },
+ {
+  "leaf": 47,
+  "page": 28,
+  "headerText": "2S DE VULGARI ELOQUENTIA C„.",
+  "bodyLeft": 268,
+  "bodyRight": 1461,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   ".",
+   "■"
+  ]
+ },
+ {
+  "leaf": 48,
+  "page": 29,
+  "headerText": "IX. THE FIRST BOOK 29",
+  "bodyLeft": 116,
+  "bodyRight": 1309,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "'Gram-"
+  ]
+ },
+ {
+  "leaf": 49,
+  "page": 30,
+  "headerText": "30 DE VULGARI ELOQUENTIA Cu.",
+  "bodyLeft": 282,
+  "bodyRight": 1485,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   "The",
+   "gfuapcs"
+  ]
+ },
+ {
+  "leaf": 50,
+  "page": 31,
+  "headerText": "X. THE FIRST BOOK 31",
+  "bodyLeft": 111,
+  "bodyRight": 1309,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "pre-"
+  ]
+ },
+ {
+  "leaf": 51,
+  "page": 32,
+  "headerText": "32 DE VULGARI ELOQUENTIA Cu.",
+  "bodyLeft": 298,
+  "bodyRight": 1499,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "of"
+  ]
+ },
+ {
+  "leaf": 52,
+  "page": 33,
+  "headerText": "X. THE FIRST BOOK 33",
+  "bodyLeft": 126,
+  "bodyRight": 1323,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "\"^"
+  ]
+ },
+ {
+  "leaf": 53,
+  "page": 34,
+  "headerText": "34 DE VULGARI ELOQUENTIA C.i",
+  "bodyLeft": 256,
+  "bodyRight": 1452,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 54,
+  "page": 35,
+  "headerText": "XI. THE FIRST BOOK 35",
+  "bodyLeft": 141,
+  "bodyRight": 1335,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 55,
+  "page": 36,
+  "headerText": "36 DE VULGARI ELOQUENTIA C.r.",
+  "bodyLeft": 300,
+  "bodyRight": 1490,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 56,
+  "page": 37,
+  "headerText": "XI. THE FIRST BOOK 37",
+  "bodyLeft": 133,
+  "bodyRight": 1328,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 57,
+  "page": 38,
+  "headerText": "3S DE VULGARI ELOQUENTIA Cu.",
+  "bodyLeft": 286,
+  "bodyRight": 1481,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 58,
+  "page": 39,
+  "headerText": "XII. THE FIRST BOOK 39",
+  "bodyLeft": 99,
+  "bodyRight": 1298,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 59,
+  "page": 40,
+  "headerText": "40 DE VULGARI ELOQUENTIA Ch.",
+  "bodyLeft": 306,
+  "bodyRight": 1506,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 60,
+  "page": 41,
+  "headerText": "XII. THE FIRST BOOK 41",
+  "bodyLeft": 126,
+  "bodyRight": 1322,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 61,
+  "page": 42,
+  "headerText": "42 DE VULGARI ELOQUENTIA Cu.",
+  "bodyLeft": 285,
+  "bodyRight": 1480,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 62,
+  "page": 43,
+  "headerText": "XIII. THE FIRST BOOK 43",
+  "bodyLeft": 137,
+  "bodyRight": 1328,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 63,
+  "page": 44,
+  "headerText": "44 DE VOLGARI ELOQUENTIA C„.",
+  "bodyLeft": 269,
+  "bodyRight": 1464,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 64,
+  "page": 45,
+  "headerText": "XIH. THE FIRST BOOK 45",
+  "bodyLeft": 107,
+  "bodyRight": 1296,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 65,
+  "page": 46,
+  "headerText": "46 DE VULGARI ELOQUENTIA C».",
+  "bodyLeft": 317,
+  "bodyRight": 1516,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   "types",
+   "dialect"
+  ]
+ },
+ {
+  "leaf": 66,
+  "page": 47,
+  "headerText": "XIV. THE FIRST BOOK 47",
+  "bodyLeft": 109,
+  "bodyRight": 1305,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "the"
+  ]
+ },
+ {
+  "leaf": 67,
+  "page": 48,
+  "headerText": "48 DE VULGARI ELOQUENTIA Of.",
+  "bodyLeft": 305,
+  "bodyRight": 1503,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 68,
+  "page": 49,
+  "headerText": "XV. THE FIRST BOOK 49",
+  "bodyLeft": 103,
+  "bodyRight": 1300,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 69,
+  "page": 50,
+  "headerText": "so DE VULGARI ELOQUENTIA Cn.",
+  "bodyLeft": 323,
+  "bodyRight": 1520,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 70,
+  "page": 51,
+  "headerText": "XV. THE FIRST BOOK 51",
+  "bodyLeft": 109,
+  "bodyRight": 1306,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 71,
+  "page": 52,
+  "headerText": "52 DE VULGARI ELOQUENTIA Cn.",
+  "bodyLeft": 247,
+  "bodyRight": 1440,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 72,
+  "page": 53,
+  "headerText": "XV. THE FIRST BOOK 53",
+  "bodyLeft": 107,
+  "bodyRight": 1290,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 73,
+  "page": 54,
+  "headerText": "54 DE VULGARI.ELOQUENTIA Cu.",
+  "bodyLeft": 358,
+  "bodyRight": 1554,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "of"
+  ]
+ },
+ {
+  "leaf": 74,
+  "page": 55,
+  "headerText": "XVI. THE FIRST BOOK 55",
+  "bodyLeft": 109,
+  "bodyRight": 1298,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "^^"
+  ]
+ },
+ {
+  "leaf": 75,
+  "page": 56,
+  "headerText": "56 DE VULGARI ELOQUENTIA Cn.",
+  "bodyLeft": 291,
+  "bodyRight": 1488,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 76,
+  "page": 57,
+  "headerText": "XVII. THE FIRST BOOK 57",
+  "bodyLeft": 171,
+  "bodyRight": 1366,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "i^"
+  ]
+ },
+ {
+  "leaf": 77,
+  "page": 58,
+  "headerText": "58 DE VULGARI ELOQUENTIA Cn.",
+  "bodyLeft": 235,
+  "bodyRight": 1431,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 78,
+  "page": 59,
+  "headerText": "XVII. THE FIRST BOOK 59",
+  "bodyLeft": 167,
+  "bodyRight": 1360,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 79,
+  "page": 60,
+  "headerText": "Co DE VULGARI ELOQUENTIA Ch.",
+  "bodyLeft": 281,
+  "bodyRight": 1484,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 80,
+  "page": 61,
+  "headerText": "XVIII. THE FIRST BOOK 6i",
+  "bodyLeft": 140,
+  "bodyRight": 1335,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 81,
+  "page": 62,
+  "headerText": "62 DE VULGARI ELOQUENTIA Ch.",
+  "bodyLeft": 245,
+  "bodyRight": 1438,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 82,
+  "page": 63,
+  "headerText": "XIX, THE FIRST BOOK 63",
+  "bodyLeft": 110,
+  "bodyRight": 1304,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "all"
+  ]
+ },
+ {
+  "leaf": 83,
+  "page": 64,
+  "headerText": "64 DE VULGARI ELOQUENTIA Ch. XlX",
+  "bodyLeft": 259,
+  "bodyRight": 1452,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   "Plan",
+   "the"
+  ]
+ },
+ {
+  "leaf": 84,
+  "page": 65,
+  "headerText": "",
+  "bodyLeft": 127,
+  "bodyRight": 1313,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "prose-"
+  ]
+ },
+ {
+  "leaf": 85,
+  "page": 66,
+  "headerText": "66 DE VULGARI ELOQUENTIA Ciu",
+  "bodyLeft": 290,
+  "bodyRight": 1484,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   "Oug:ht",
+   "n"
+  ]
+ },
+ {
+  "leaf": 86,
+  "page": 67,
+  "headerText": "I. THE SECOND BOOK 67",
+  "bodyLeft": 96,
+  "bodyRight": 1288,
+  "captionWordsRemoved": 5,
+  "captionSample": [
+   "for",
+   "best",
+   "5^f«§",
+   "to",
+   "best"
+  ]
+ },
+ {
+  "leaf": 87,
+  "page": 68,
+  "headerText": "68 DE VULGARI ELOQUENTIA Cu.",
+  "bodyLeft": 249,
+  "bodyRight": 1440,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 88,
+  "page": 69,
+  "headerText": "n. THE SECOND BOOK 69",
+  "bodyLeft": 127,
+  "bodyRight": 1318,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   "^",
+   "^"
+  ]
+ },
+ {
+  "leaf": 89,
+  "page": 70,
+  "headerText": "70 DE VULGARI ELOQUENTIA Ch.",
+  "bodyLeft": 258,
+  "bodyRight": 1446,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "01"
+  ]
+ },
+ {
+  "leaf": 90,
+  "page": 71,
+  "headerText": "II. THE SECOND BOOK 71",
+  "bodyLeft": 93,
+  "bodyRight": 1291,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "^."
+  ]
+ },
+ {
+  "leaf": 91,
+  "page": 72,
+  "headerText": "72 DE VULGARI ELOQUENTIA C.r.",
+  "bodyLeft": 265,
+  "bodyRight": 1462,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "^"
+  ]
+ },
+ {
+  "leaf": 92,
+  "page": 73,
+  "headerText": "II. . THE SECOND BOOK 73",
+  "bodyLeft": 129,
+  "bodyRight": 1323,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 93,
+  "page": 74,
+  "headerText": "74 DE VULGARI ELOQUENTIA Ca.",
+  "bodyLeft": 285,
+  "bodyRight": 1477,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 94,
+  "page": 75,
+  "headerText": "HI. THE SECOND BOOK 75",
+  "bodyLeft": 116,
+  "bodyRight": 1310,
+  "captionWordsRemoved": 5,
+  "captionSample": [
+   ",",
+   "^",
+   "-",
+   "^",
+   ","
+  ]
+ },
+ {
+  "leaf": 95,
+  "page": 76,
+  "headerText": "76 DE VULGARI ELOQUENTIA Ch.",
+  "bodyLeft": 257,
+  "bodyRight": 1456,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 96,
+  "page": 77,
+  "headerText": "IV. THE SECOND BOOK 77",
+  "bodyLeft": 97,
+  "bodyRight": 1281,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   "form",
+   "^^^"
+  ]
+ },
+ {
+  "leaf": 97,
+  "page": 78,
+  "headerText": "78 DE VULGARI ELOQUENTIA dr.",
+  "bodyLeft": 247,
+  "bodyRight": 1445,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "and"
+  ]
+ },
+ {
+  "leaf": 98,
+  "page": 79,
+  "headerText": "tV. tHfi SECONt BOO.^ 79",
+  "bodyLeft": 102,
+  "bodyRight": 1293,
+  "captionWordsRemoved": 4,
+  "captionSample": [
+   "^",
+   "''",
+   "'",
+   "j"
+  ]
+ },
+ {
+  "leaf": 99,
+  "page": 80,
+  "headerText": "So DE VULGARI ELOQUENTIA Ciu",
+  "bodyLeft": 297,
+  "bodyRight": 1488,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "tuous"
+  ]
+ },
+ {
+  "leaf": 100,
+  "page": 81,
+  "headerText": "V. THE SECOND BOOK St",
+  "bodyLeft": 123,
+  "bodyRight": 1307,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 101,
+  "page": 82,
+  "headerText": "S± DE VULGARI ELOQUENTIA Ch.",
+  "bodyLeft": 281,
+  "bodyRight": 1473,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "in"
+  ]
+ },
+ {
+  "leaf": 102,
+  "page": 83,
+  "headerText": "V. THE SECOND BOOK 83",
+  "bodyLeft": 113,
+  "bodyRight": 1305,
+  "captionWordsRemoved": 4,
+  "captionSample": [
+   "and",
+   "^^",
+   "y",
+   "yr"
+  ]
+ },
+ {
+  "leaf": 103,
+  "page": 84,
+  "headerText": "84 DE VULGARI ELOQUENTIA Ch",
+  "bodyLeft": 255,
+  "bodyRight": 1446,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 104,
+  "page": 85,
+  "headerText": "VI. THE SECOND BOOK 85",
+  "bodyLeft": 111,
+  "bodyRight": 1307,
+  "captionWordsRemoved": 6,
+  "captionSample": [
+   "?^",
+   "j",
+   "f",
+   "\\",
+   "\\",
+   "\\"
+  ]
+ },
+ {
+  "leaf": 105,
+  "page": 86,
+  "headerText": "S6 DE VULGARI ELOQUENTIA Cm.",
+  "bodyLeft": 267,
+  "bodyRight": 1462,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "Oi"
+  ]
+ },
+ {
+  "leaf": 106,
+  "page": 87,
+  "headerText": "VI. THE SECOND BOOK 87",
+  "bodyLeft": 139,
+  "bodyRight": 1155,
+  "captionWordsRemoved": 4,
+  "captionSample": [
+   "Illustra-",
+   "^\"o-",
+   "^^?",
+   "hii"
+  ]
+ },
+ {
+  "leaf": 107,
+  "page": 88,
+  "headerText": "SS DE VULGARI ELOQUENTIA Cm.",
+  "bodyLeft": 272,
+  "bodyRight": 1470,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 108,
+  "page": 89,
+  "headerText": "VI. THE SECOND BOOK 89",
+  "bodyLeft": 133,
+  "bodyRight": 1321,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 109,
+  "page": 90,
+  "headerText": "90 DE VULGARI ELOQUENTIA Cii.",
+  "bodyLeft": 251,
+  "bodyRight": 1448,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "^"
+  ]
+ },
+ {
+  "leaf": 110,
+  "page": 91,
+  "headerText": "VII. THE SECOND BOOK 91",
+  "bodyLeft": 136,
+  "bodyRight": 1333,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   "the",
+   "of"
+  ]
+ },
+ {
+  "leaf": 111,
+  "page": 92,
+  "headerText": "92 DE VULGARI ELOQUENTIA Ci.",
+  "bodyLeft": 243,
+  "bodyRight": 1436,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 112,
+  "page": 93,
+  "headerText": "VII. THE SECOND BOOK 93",
+  "bodyLeft": 116,
+  "bodyRight": 1309,
+  "captionWordsRemoved": 4,
+  "captionSample": [
+   "the",
+   "of",
+   "^",
+   ","
+  ]
+ },
+ {
+  "leaf": 113,
+  "page": 94,
+  "headerText": "94 DE VULGARI ELOQUENTIA C.r.",
+  "bodyLeft": 270,
+  "bodyRight": 1472,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "*"
+  ]
+ },
+ {
+  "leaf": 114,
+  "page": 95,
+  "headerText": "vm. THE SECOND BOOK 05",
+  "bodyLeft": 89,
+  "bodyRight": 1281,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "of"
+  ]
+ },
+ {
+  "leaf": 115,
+  "page": 96,
+  "headerText": "06 DE VULGARI ELOQUENTIA C«",
+  "bodyLeft": 294,
+  "bodyRight": 1484,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "in"
+  ]
+ },
+ {
+  "leaf": 116,
+  "page": 97,
+  "headerText": "IX. THE SECOND BOOK 97",
+  "bodyLeft": 111,
+  "bodyRight": 1296,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 117,
+  "page": 98,
+  "headerText": "9^ DE VULGARI ELOQUENTIA Ch.",
+  "bodyLeft": 278,
+  "bodyRight": 1477,
+  "captionWordsRemoved": 3,
+  "captionSample": [
+   "The",
+   "of",
+   ",."
+  ]
+ },
+ {
+  "leaf": 118,
+  "page": 99,
+  "headerText": "X. THE SECOND BOOK 99",
+  "bodyLeft": 211,
+  "bodyRight": 1302,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 119,
+  "page": 100,
+  "headerText": "loo DE VULGARI ELOQUENTIA Cu.",
+  "bodyLeft": 251,
+  "bodyRight": 1444,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "Of"
+  ]
+ },
+ {
+  "leaf": 120,
+  "page": 101,
+  "headerText": "X. THE SECOND BOOK loi",
+  "bodyLeft": 136,
+  "bodyRight": 1329,
+  "captionWordsRemoved": 6,
+  "captionSample": [
+   "the",
+   "K1",
+   "'■",
+   "■",
+   ",",
+   ";"
+  ]
+ },
+ {
+  "leaf": 121,
+  "page": 102,
+  "headerText": "102 DE VULGARI ELOQUENTIA Cu.",
+  "bodyLeft": 271,
+  "bodyRight": 1466,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "Of"
+  ]
+ },
+ {
+  "leaf": 122,
+  "page": 103,
+  "headerText": "XI. THE SECOND BOOK 103",
+  "bodyLeft": 129,
+  "bodyRight": 1321,
+  "captionWordsRemoved": 3,
+  "captionSample": [
+   ".",
+   "^^",
+   "S"
+  ]
+ },
+ {
+  "leaf": 123,
+  "page": 104,
+  "headerText": "104 DE VULGARI ELOQUENTIA Cn.",
+  "bodyLeft": 293,
+  "bodyRight": 1490,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "lines"
+  ]
+ },
+ {
+  "leaf": 124,
+  "page": 105,
+  "headerText": "XII. THE SECOND BOOK 105",
+  "bodyLeft": 84,
+  "bodyRight": 1278,
+  "captionWordsRemoved": 3,
+  "captionSample": [
+   "\"i",
+   "^\"^*",
+   "^^"
+  ]
+ },
+ {
+  "leaf": 125,
+  "page": 106,
+  "headerText": "io6 DE VULGARI ELOQUENTIA Cu.",
+  "bodyLeft": 277,
+  "bodyRight": 1472,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 126,
+  "page": 107,
+  "headerText": "Xll. THE SECOND BOOK 107",
+  "bodyLeft": 84,
+  "bodyRight": 1282,
+  "captionWordsRemoved": 4,
+  "captionSample": [
+   "of",
+   "stanza",
+   "\"^",
+   "I"
+  ]
+ },
+ {
+  "leaf": 127,
+  "page": 108,
+  "headerText": "io8 DE VULGARI ELOQUENTIA C...",
+  "bodyLeft": 263,
+  "bodyRight": 1459,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "rules"
+  ]
+ },
+ {
+  "leaf": 128,
+  "page": 109,
+  "headerText": "XIII. THE SECOND BOOK 109",
+  "bodyLeft": 96,
+  "bodyRight": 1275,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "the"
+  ]
+ },
+ {
+  "leaf": 129,
+  "page": 110,
+  "headerText": "no DE VULGARI ELOQUENTIA Cii.",
+  "bodyLeft": 293,
+  "bodyRight": 1487,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "Of"
+  ]
+ },
+ {
+  "leaf": 130,
+  "page": 111,
+  "headerText": "Xin. THE SECOND BOOK ni",
+  "bodyLeft": 109,
+  "bodyRight": 1296,
+  "captionWordsRemoved": 3,
+  "captionSample": [
+   "as",
+   "^^^*",
+   "^^"
+  ]
+ },
+ {
+  "leaf": 131,
+  "page": 112,
+  "headerText": "112 DE VULGARI ELOQUENTIA Cm.",
+  "bodyLeft": 282,
+  "bodyRight": 1473,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "^^"
+  ]
+ },
+ {
+  "leaf": 132,
+  "page": 113,
+  "headerText": "Xm THE SECOND BOOK 113",
+  "bodyLeft": 113,
+  "bodyRight": 1299,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 133,
+  "page": 114,
+  "headerText": "114 DE VULGARI ELOQUENTIA Cu.",
+  "bodyLeft": 269,
+  "bodyRight": 1462,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 134,
+  "page": 115,
+  "headerText": "XIV. THE SHCOND BOOK 115",
+  "bodyLeft": 88,
+  "bodyRight": 1281,
+  "captionWordsRemoved": 3,
+  "captionSample": [
+   "the",
+   ".",
+   "the"
+  ]
+ },
+ {
+  "leaf": 135,
+  "page": 116,
+  "headerText": "APPENDIX I",
+  "bodyLeft": 276,
+  "bodyRight": 1465,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 136,
+  "page": 117,
+  "headerText": "APPENDIX 117",
+  "bodyLeft": 89,
+  "bodyRight": 1283,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 137,
+  "page": 118,
+  "headerText": "ri8 DE VULGARI ELOQUENTIA",
+  "bodyLeft": 252,
+  "bodyRight": 1447,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 138,
+  "page": 119,
+  "headerText": "APPENDIX 119",
+  "bodyLeft": 99,
+  "bodyRight": 1283,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "^^"
+  ]
+ },
+ {
+  "leaf": 139,
+  "page": 120,
+  "headerText": "120 DE VULGARI ELOQUENTIA",
+  "bodyLeft": 262,
+  "bodyRight": 1452,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 140,
+  "page": 121,
+  "headerText": "APPENDIX 121",
+  "bodyLeft": 151,
+  "bodyRight": 1252,
+  "captionWordsRemoved": 0,
+  "captionSample": []
+ },
+ {
+  "leaf": 141,
+  "page": 122,
+  "headerText": "122 DE VULGARI ELOQUENTIA",
+  "bodyLeft": 311,
+  "bodyRight": 1205,
+  "captionWordsRemoved": 2,
+  "captionSample": [
+   "12",
+   ";"
+  ]
+ },
+ {
+  "leaf": 142,
+  "page": 123,
+  "headerText": "APPENDIX 123",
+  "bodyLeft": 155,
+  "bodyRight": 1054,
+  "captionWordsRemoved": 1,
+  "captionSample": [
+   "13:"
+  ]
+ }
+]

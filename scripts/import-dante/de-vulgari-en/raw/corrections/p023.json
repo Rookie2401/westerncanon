@@ -1,0 +1,152 @@
+[
+  {
+    "find": "tended beyond. [^40] But a third idiom pre- Lan-",
+    "replace": "tended beyond. [40] But a third idiom pre-",
+    "note": "fix garbled bracket [^40]->[40]; remove leaked margin-caption fragment Lan-"
+  },
+  {
+    "find": "vailcd in all that part of Europe which remains gfuagfea",
+    "replace": "vailed in all that part of Europe which remains",
+    "note": "fix vailcd->vailed; remove leaked garbled margin-caption fragment"
+  },
+  {
+    "find": "from the other two, though it now appears in ■",
+    "replace": "from the other two, though it now appears in",
+    "note": "remove stray leaked margin-caption glyph"
+  },
+  {
+    "find": "a threefold form. For of those who speak it, French",
+    "replace": "a threefold form. For of those who speak it,",
+    "note": "remove leaked margin-caption word French"
+  },
+  {
+    "find": "some say in aiTirmntion or, others cV/, and others and",
+    "replace": "some say in affirmation oc, others oïl, and others",
+    "note": "fix aiTirmntion->affirmation, or->oc, cV/->oïl; remove leaked margin-caption word and"
+  },
+  {
+    "find": "j;, namely the Spaniards, the French, and the Italians",
+    "replace": "sì, namely the Spaniards, the French, and the",
+    "note": "fix j;,->sì,; remove leaked margin-caption word Italians"
+  },
+  {
+    "find": "idiom is obvious, because we sec that they call",
+    "replace": "idiom is obvious, because we see that they call",
+    "note": "fix sec->see"
+  },
+  {
+    "find": "many things by the same names, as Deiw.y celumy",
+    "replace": "many things by the same names, as Deum, celum,",
+    "note": "fix garbled Latin words Deiw.y celumy -> Deum, celum,"
+  },
+  {
+    "find": "amoreviy nuirey t err amy vivit ^50^, mor'i/ur, omatj",
+    "replace": "amorem, mare, terram, vivit [50], moritur, amat,",
+    "note": "fix heavily garbled Latin word list"
+  },
+  {
+    "find": "them who say oc inhabit the western ]>art of",
+    "replace": "them who say oc inhabit the western part of",
+    "note": "fix ]>art->part"
+  },
+  {
+    "find": "the Souih of I'lurope, bi-giiming froi'i the fiontier",
+    "replace": "the South of Europe, beginning from the frontier",
+    "note": "fix Souih->South, I'lurope->Europe, bi-giiming->beginning, froi'i->from, fiontier->frontier"
+  },
+  {
+    "find": "ol the (Jriiot'ncj while thojic who tsay i) iiihalut",
+    "replace": "of the Genoese ; while those who say sì inhabit",
+    "note": "fix heavily garbled (Jriiot'ncj->Genoese ;, thojic->those, tsay->say, i)->sì, iiihalut->inhabit"
+  },
+  {
+    "find": "the coiiiiity eaitl <»l tlic tiaid fionlicr, lujntely ihaf.",
+    "replace": "the country east of the said frontier, namely that",
+    "note": "fix heavily garbled coiiiiity eaitl <»l tlic tiaid fionlicr, lujntely ihaf."
+  },
+  {
+    "find": "which extend:! as far as that promontory of Italy",
+    "replace": "which extends as far as that promontory of Italy",
+    "note": "fix extend:!->extends"
+  },
+  {
+    "find": "Sicily. But those who say oil lie in some sort to",
+    "replace": "Sicily. But those who say oïl lie in some sort to",
+    "note": "fix oil->oïl"
+  },
+  {
+    "find": "[603 on their cast and north ; on the west they",
+    "replace": "[60] on their east and north ; on the west they",
+    "note": "fix garbled bracket [603->[60], cast->east"
+  },
+  {
+    "find": "arc enclosed by the English sea, and bounded",
+    "replace": "are enclosed by the English sea, and bounded",
+    "note": "fix arc->are"
+  },
+  {
+    "find": "olf on the south by the inhabitants of Provence,",
+    "replace": "off on the south by the inhabitants of Provence,",
+    "note": "fix olf->off"
+  },
+  {
+    "find": "and the preci])ices of the Apennines.",
+    "replace": "and the precipices of the Apennines.",
+    "note": "fix preci])ices->precipices"
+  },
+  {
+    "find": "3. The rlimcs (»7/w.//./) wore seven zones into",
+    "replace": "3. The climes (climata) were seven zones into",
+    "note": "fix heavily garbled note 3 opening"
+  },
+  {
+    "find": "w!iicl\\ the ancient j^eoj^raphers divided that part of tlic",
+    "replace": "which the ancient geographers divided that part of the",
+    "note": "fix w!iicl->which, j^eoj^raphers->geographers, tlic->the"
+  },
+  {
+    "find": "eart!> wiiich was known to tlK-m, Each clime, g'oinjj",
+    "replace": "earth which was known to them. Each clime, going",
+    "note": "fix eart!>->earth, wiiich->which, tlK-m,->them., g'oinjj->going"
+  },
+  {
+    "find": "noithward, included siic'i a space that the mean",
+    "replace": "northward, included such a space that the mean",
+    "note": "fix noithward->northward, siic'i->such"
+  },
+  {
+    "find": "length of tlie lon;^est day was half-an-honr lon«;cr",
+    "replace": "length of the longest day was half-an-hour longer",
+    "note": "fix tlie->the, lon;^est->longest, half-an-honr->half-an-hour, lon«cr->longer"
+  },
+  {
+    "find": "than that of tlie longeit day in the previous clime to",
+    "replace": "than that of the longest day in the previous clime to",
+    "note": "fix tlie->the, longeit->longest"
+  },
+  {
+    "find": "the south (Moore, Slit.lics in DjuU, 3rd series, 131).",
+    "replace": "the south (Moore, Studies in Dante, 3rd series, 131).",
+    "note": "fix Slit.lics->Studies, DjuU->Dante"
+  },
+  {
+    "find": "43 Oc = Latin hoc (this) ; oil results from the",
+    "replace": "43 Oc = Latin hoc (this) ; oïl results from the",
+    "note": "fix oil->oïl"
+  },
+  {
+    "find": "comMnation of alFumativc hoc with ilte (he) ; as if*",
+    "replace": "combination of affirmative hoc with ille (he) ; as if",
+    "note": "fix comMnation->combination, alFumativc->affirmative, ilte->ille; remove stray trailing glyph"
+  },
+  {
+    "find": "to the ()uesvon, ' Diil he do it?' the answer were",
+    "replace": "to the question, 'Did he do it?' the answer were",
+    "note": "fix ()uesvon->question, Diil->Did"
+  },
+  {
+    "find": "given, 'Yes, he did.' Si = :ic (so).",
+    "replace": "given, 'Yes, he did.' Sì = sic (so).",
+    "note": "fix Si->Sì, :ic->sic"
+  }
+]

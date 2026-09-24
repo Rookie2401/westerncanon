@@ -1,0 +1,3586 @@
+{
+  "workId": "shakespeare-the-comedy-of-errors-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "dramatis-personae",
+      "number": null,
+      "ref": null,
+      "sourceHeading": "Dramatis Personæ",
+      "editorialTitle": null,
+      "children": [],
+      "passages": [
+        {
+          "n": "",
+          "text": "SOLINUS, Duke of Ephesus.\nEGEON, a Merchant of Syracuse.\nANTIPHOLUS OF EPHESUS, Twin brothers and sons to Egeon and\nANTIPHOLUS OF SYRACUSE, Emilia, but unknown to each other.\nDROMIO OF EPHESUS, Twin brothers, and attendants on\nDROMIO OF SYRACUSE, the two Antipholuses.\nBALTHASAR, a Merchant.\nANGELO, a Goldsmith.\nA MERCHANT, friend to Antipholus of Syracuse.\nPINCH, a Schoolmaster and a Conjurer.\nEMILIA, Wife to Egeon, an Abbess at Ephesus.\nADRIANA, Wife to Antipholus of Ephesus.\nLUCIANA, her Sister.\nLUCE, her Servant.\nA COURTESAN\nMessenger, Jailer, Officers, Attendants\nSCENE: Ephesus",
+          "ref": null
+        }
+      ]
+    },
+    {
+      "id": "act-1",
+      "number": "1",
+      "ref": null,
+      "sourceHeading": "ACT I",
+      "editorialTitle": null,
+      "children": [
+        {
+          "id": "act-1-scene-1",
+          "number": "1",
+          "ref": null,
+          "sourceHeading": "SCENE I. A hall in the Duke’s palace",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Duke, Egeon, Jailer, Officers and other Attendants.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nProceed, Solinus, to procure my fall,\nAnd by the doom of death end woes and all.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nMerchant of Syracusa, plead no more.\nI am not partial to infringe our laws.\nThe enmity and discord which of late\nSprung from the rancorous outrage of your Duke\nTo merchants, our well-dealing countrymen,\nWho, wanting guilders to redeem their lives,\nHave seal’d his rigorous statutes with their bloods,\nExcludes all pity from our threat’ning looks.\nFor since the mortal and intestine jars\n’Twixt thy seditious countrymen and us,\nIt hath in solemn synods been decreed,\nBoth by the Syracusians and ourselves,\nTo admit no traffic to our adverse towns;\nNay more, if any born at Ephesus\nBe seen at Syracusian marts and fairs;\nAgain, if any Syracusian born\nCome to the bay of Ephesus, he dies,\nHis goods confiscate to the Duke’s dispose,\nUnless a thousand marks be levied\nTo quit the penalty and to ransom him.\nThy substance, valued at the highest rate,\nCannot amount unto a hundred marks;\nTherefore by law thou art condemn’d to die.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nYet this my comfort; when your words are done,\nMy woes end likewise with the evening sun.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nWell, Syracusian, say in brief the cause\nWhy thou departedst from thy native home,\nAnd for what cause thou cam’st to Ephesus.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nA heavier task could not have been impos’d\nThan I to speak my griefs unspeakable;\nYet, that the world may witness that my end\nWas wrought by nature, not by vile offence,\nI’ll utter what my sorrow gives me leave.\nIn Syracusa was I born, and wed\nUnto a woman happy but for me,\nAnd by me, had not our hap been bad.\nWith her I liv’d in joy; our wealth increas’d\nBy prosperous voyages I often made\nTo Epidamnum, till my factor’s death,\nAnd the great care of goods at random left,\nDrew me from kind embracements of my spouse;\nFrom whom my absence was not six months old\nBefore herself (almost at fainting under\nThe pleasing punishment that women bear)\nHad made provision for her following me,\nAnd soon and safe arrived where I was.\nThere had she not been long but she became\nA joyful mother of two goodly sons,\nAnd, which was strange, the one so like the other\nAs could not be distinguish’d but by names.\nThat very hour, and in the self-same inn,\nA mean woman was delivered\nOf such a burden, male twins, both alike.\nThose, for their parents were exceeding poor,\nI bought, and brought up to attend my sons.\nMy wife, not meanly proud of two such boys,\nMade daily motions for our home return.\nUnwilling I agreed; alas, too soon\nWe came aboard.\nA league from Epidamnum had we sail’d\nBefore the always-wind-obeying deep\nGave any tragic instance of our harm;\nBut longer did we not retain much hope;\nFor what obscured light the heavens did grant\nDid but convey unto our fearful minds\nA doubtful warrant of immediate death,\nWhich though myself would gladly have embrac’d,\nYet the incessant weepings of my wife,\nWeeping before for what she saw must come,\nAnd piteous plainings of the pretty babes,\nThat mourn’d for fashion, ignorant what to fear,\nForc’d me to seek delays for them and me.\nAnd this it was (for other means was none).\nThe sailors sought for safety by our boat,\nAnd left the ship, then sinking-ripe, to us.\nMy wife, more careful for the latter-born,\nHad fast’ned him unto a small spare mast,\nSuch as sea-faring men provide for storms.\nTo him one of the other twins was bound,\nWhilst I had been like heedful of the other.\nThe children thus dispos’d, my wife and I,\nFixing our eyes on whom our care was fix’d,\nFast’ned ourselves at either end the mast,\nAnd, floating straight, obedient to the stream,\nWas carried towards Corinth, as we thought.\nAt length the sun, gazing upon the earth,\nDispers’d those vapours that offended us,\nAnd by the benefit of his wished light\nThe seas wax’d calm, and we discovered\nTwo ships from far, making amain to us,\nOf Corinth that, of Epidaurus this.\nBut ere they came—O, let me say no more!\nGather the sequel by that went before.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nNay, forward, old man, do not break off so,\nFor we may pity, though not pardon thee.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nO, had the gods done so, I had not now\nWorthily term’d them merciless to us.\nFor, ere the ships could meet by twice five leagues,\nWe were encountered by a mighty rock,\nWhich being violently borne upon,\nOur helpful ship was splitted in the midst;\nSo that, in this unjust divorce of us,\nFortune had left to both of us alike\nWhat to delight in, what to sorrow for.\nHer part, poor soul, seeming as burdened\nWith lesser weight, but not with lesser woe,\nWas carried with more speed before the wind,\nAnd in our sight they three were taken up\nBy fishermen of Corinth, as we thought.\nAt length another ship had seiz’d on us;\nAnd, knowing whom it was their hap to save,\nGave healthful welcome to their ship-wrack’d guests,\nAnd would have reft the fishers of their prey,\nHad not their bark been very slow of sail;\nAnd therefore homeward did they bend their course.\nThus have you heard me sever’d from my bliss,\nThat by misfortunes was my life prolong’d\nTo tell sad stories of my own mishaps.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nAnd for the sake of them thou sorrowest for,\nDo me the favour to dilate at full\nWhat have befall’n of them and thee till now.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nMy youngest boy, and yet my eldest care,\nAt eighteen years became inquisitive\nAfter his brother, and importun’d me\nThat his attendant, so his case was like,\nReft of his brother, but retain’d his name,\nMight bear him company in the quest of him;\nWhom whilst I laboured of a love to see,\nI hazarded the loss of whom I lov’d.\nFive summers have I spent in farthest Greece,\nRoaming clean through the bounds of Asia,\nAnd, coasting homeward, came to Ephesus,\nHopeless to find, yet loath to leave unsought\nOr that or any place that harbours men.\nBut here must end the story of my life;\nAnd happy were I in my timely death,\nCould all my travels warrant me they live.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nHapless Egeon, whom the fates have mark’d\nTo bear the extremity of dire mishap;\nNow, trust me, were it not against our laws,\nAgainst my crown, my oath, my dignity,\nWhich princes, would they, may not disannul,\nMy soul should sue as advocate for thee.\nBut though thou art adjudged to the death,\nAnd passed sentence may not be recall’d\nBut to our honour’s great disparagement,\nYet will I favour thee in what I can.\nTherefore, merchant, I’ll limit thee this day\nTo seek thy health by beneficial help.\nTry all the friends thou hast in Ephesus;\nBeg thou, or borrow, to make up the sum,\nAnd live; if no, then thou art doom’d to die.\nJailer, take him to thy custody.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "JAILER.\nI will, my lord.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nHopeless and helpless doth Egeon wend,\nBut to procrastinate his lifeless end.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt.]",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "act-1-scene-2",
+          "number": "2",
+          "ref": null,
+          "sourceHeading": "SCENE II. A public place",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Antipholus and Dromio of Syracuse and a Merchant.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nTherefore give out you are of Epidamnum,\nLest that your goods too soon be confiscate.\nThis very day a Syracusian merchant\nIs apprehended for arrival here,\nAnd, not being able to buy out his life,\nAccording to the statute of the town\nDies ere the weary sun set in the west.\nThere is your money that I had to keep.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nGo bear it to the Centaur, where we host,\nAnd stay there, Dromio, till I come to thee.\nWithin this hour it will be dinnertime;\nTill that, I’ll view the manners of the town,\nPeruse the traders, gaze upon the buildings,\nAnd then return and sleep within mine inn,\nFor with long travel I am stiff and weary.\nGet thee away.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMany a man would take you at your word,\nAnd go indeed, having so good a mean.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit Dromio.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nA trusty villain, sir, that very oft,\nWhen I am dull with care and melancholy,\nLightens my humour with his merry jests.\nWhat, will you walk with me about the town,\nAnd then go to my inn and dine with me?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nI am invited, sir, to certain merchants,\nOf whom I hope to make much benefit.\nI crave your pardon. Soon, at five o’clock,\nPlease you, I’ll meet with you upon the mart,\nAnd afterward consort you till bedtime.\nMy present business calls me from you now.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nFarewell till then: I will go lose myself,\nAnd wander up and down to view the city.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nSir, I commend you to your own content.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit Merchant.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nHe that commends me to mine own content\nCommends me to the thing I cannot get.\nI to the world am like a drop of water\nThat in the ocean seeks another drop,\nWho, failing there to find his fellow forth,\nUnseen, inquisitive, confounds himself.\nSo I, to find a mother and a brother,\nIn quest of them, unhappy, lose myself.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Dromio of Ephesus.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Here comes the almanac of my true date.\nWhat now? How chance thou art return’d so soon?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nReturn’d so soon? rather approach’d too late.\nThe capon burns, the pig falls from the spit;\nThe clock hath strucken twelve upon the bell;\nMy mistress made it one upon my cheek.\nShe is so hot because the meat is cold;\nThe meat is cold because you come not home;\nYou come not home because you have no stomach;\nYou have no stomach, having broke your fast;\nBut we that know what ’tis to fast and pray,\nAre penitent for your default today.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nStop in your wind, sir, tell me this, I pray:\nWhere have you left the money that I gave you?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nO, sixpence that I had o’ Wednesday last\nTo pay the saddler for my mistress’ crupper:\nThe saddler had it, sir, I kept it not.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI am not in a sportive humour now.\nTell me, and dally not, where is the money?\nWe being strangers here, how dar’st thou trust\nSo great a charge from thine own custody?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nI pray you jest, sir, as you sit at dinner:\nI from my mistress come to you in post;\nIf I return, I shall be post indeed,\nFor she will score your fault upon my pate.\nMethinks your maw, like mine, should be your clock,\nAnd strike you home without a messenger.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nCome, Dromio, come, these jests are out of season,\nReserve them till a merrier hour than this.\nWhere is the gold I gave in charge to thee?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nTo me, sir? why, you gave no gold to me!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nCome on, sir knave, have done your foolishness,\nAnd tell me how thou hast dispos’d thy charge.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nMy charge was but to fetch you from the mart\nHome to your house, the Phoenix, sir, to dinner.\nMy mistress and her sister stay for you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nNow, as I am a Christian, answer me\nIn what safe place you have bestow’d my money,\nOr I shall break that merry sconce of yours\nThat stands on tricks when I am undispos’d;\nWhere is the thousand marks thou hadst of me?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nI have some marks of yours upon my pate,\nSome of my mistress’ marks upon my shoulders,\nBut not a thousand marks between you both.\nIf I should pay your worship those again,\nPerchance you will not bear them patiently.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThy mistress’ marks? what mistress, slave, hast thou?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nYour worship’s wife, my mistress at the Phoenix;\nShe that doth fast till you come home to dinner,\nAnd prays that you will hie you home to dinner.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhat, wilt thou flout me thus unto my face,\nBeing forbid? There, take you that, sir knave.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nWhat mean you, sir? for God’s sake hold your hands.\nNay, an you will not, sir, I’ll take my heels.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit Dromio.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nUpon my life, by some device or other\nThe villain is o’er-raught of all my money.\nThey say this town is full of cozenage,\nAs nimble jugglers that deceive the eye,\nDark-working sorcerers that change the mind,\nSoul-killing witches that deform the body,\nDisguised cheaters, prating mountebanks,\nAnd many such-like liberties of sin:\nIf it prove so, I will be gone the sooner.\nI’ll to the Centaur to go seek this slave.\nI greatly fear my money is not safe.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit.]",
+              "ref": null
+            }
+          ]
+        }
+      ],
+      "passages": []
+    },
+    {
+      "id": "act-2",
+      "number": "2",
+      "ref": null,
+      "sourceHeading": "ACT II",
+      "editorialTitle": null,
+      "children": [
+        {
+          "id": "act-2-scene-1",
+          "number": "1",
+          "ref": null,
+          "sourceHeading": "SCENE I. A public place",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Adriana, wife to Antipholus (of Ephesus) with Luciana her sister.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nNeither my husband nor the slave return’d\nThat in such haste I sent to seek his master?\nSure, Luciana, it is two o’clock.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nPerhaps some merchant hath invited him,\nAnd from the mart he’s somewhere gone to dinner.\nGood sister, let us dine, and never fret;\nA man is master of his liberty;\nTime is their master, and when they see time,\nThey’ll go or come. If so, be patient, sister.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nWhy should their liberty than ours be more?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nBecause their business still lies out o’ door.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nLook when I serve him so, he takes it ill.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nO, know he is the bridle of your will.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nThere’s none but asses will be bridled so.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nWhy, headstrong liberty is lash’d with woe.\nThere’s nothing situate under heaven’s eye\nBut hath his bound in earth, in sea, in sky.\nThe beasts, the fishes, and the winged fowls\nAre their males’ subjects, and at their controls.\nMan, more divine, the masters of all these,\nLord of the wide world and wild wat’ry seas,\nIndued with intellectual sense and souls,\nOf more pre-eminence than fish and fowls,\nAre masters to their females, and their lords:\nThen let your will attend on their accords.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nThis servitude makes you to keep unwed.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nNot this, but troubles of the marriage-bed.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nBut, were you wedded, you would bear some sway.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nEre I learn love, I’ll practise to obey.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nHow if your husband start some other where?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nTill he come home again, I would forbear.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nPatience unmov’d! No marvel though she pause;\nThey can be meek that have no other cause.\nA wretched soul bruis’d with adversity,\nWe bid be quiet when we hear it cry;\nBut were we burd’ned with like weight of pain,\nAs much, or more, we should ourselves complain:\nSo thou, that hast no unkind mate to grieve thee,\nWith urging helpless patience would relieve me:\nBut if thou live to see like right bereft,\nThis fool-begg’d patience in thee will be left.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nWell, I will marry one day, but to try.\nHere comes your man, now is your husband nigh.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Dromio of Ephesus.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nSay, is your tardy master now at hand?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nNay, he’s at two hands with me, and that my two ears can witness.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nSay, didst thou speak with him? know’st thou his mind?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nAy, ay, he told his mind upon mine ear.\nBeshrew his hand, I scarce could understand it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nSpake he so doubtfully thou couldst not feel his meaning?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nNay, he struck so plainly I could too well feel his blows; and withal so doubtfully that I could scarce understand them.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nBut say, I prithee, is he coming home?\nIt seems he hath great care to please his wife.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nWhy, mistress, sure my master is horn-mad.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nHorn-mad, thou villain?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nI mean not cuckold-mad,\nBut sure he’s stark mad.\nWhen I desir’d him to come home to dinner,\nHe ask’d me for a thousand marks in gold.\n“’Tis dinner time,” quoth I. “My gold,” quoth he.\n“Your meat doth burn” quoth I. “My gold,” quoth he.\n“Will you come home?” quoth I. “My gold,” quoth he.\n“Where is the thousand marks I gave thee, villain?”\n“The pig” quoth I “is burn’d”. “My gold,” quoth he.\n“My mistress, sir,” quoth I. “Hang up thy mistress;\nI know not thy mistress; out on thy mistress!”",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nQuoth who?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nQuoth my master.\n“I know,” quoth he, “no house, no wife, no mistress.”\nSo that my errand, due unto my tongue,\nI thank him, I bare home upon my shoulders;\nFor, in conclusion, he did beat me there.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nGo back again, thou slave, and fetch him home.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nGo back again, and be new beaten home?\nFor God’s sake, send some other messenger.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nBack slave, or I will break thy pate across.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nAnd he will bless that cross with other beating.\nBetween you I shall have a holy head.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nHence, prating peasant. Fetch thy master home.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nAm I so round with you, as you with me,\nThat like a football you do spurn me thus?\nYou spurn me hence, and he will spurn me hither.\nIf I last in this service, you must case me in leather.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nFie, how impatience loureth in your face.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nHis company must do his minions grace,\nWhilst I at home starve for a merry look.\nHath homely age th’ alluring beauty took\nFrom my poor cheek? then he hath wasted it.\nAre my discourses dull? barren my wit?\nIf voluble and sharp discourse be marr’d,\nUnkindness blunts it more than marble hard.\nDo their gay vestments his affections bait?\nThat’s not my fault; he’s master of my state.\nWhat ruins are in me that can be found\nBy him not ruin’d? Then is he the ground\nOf my defeatures. My decayed fair\nA sunny look of his would soon repair;\nBut, too unruly deer, he breaks the pale\nAnd feeds from home; poor I am but his stale.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nSelf-harming jealousy! fie, beat it hence.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nUnfeeling fools can with such wrongs dispense.\nI know his eye doth homage otherwhere,\nOr else what lets it but he would be here?\nSister, you know he promis’d me a chain;\nWould that alone, a love he would detain,\nSo he would keep fair quarter with his bed.\nI see the jewel best enamelled\nWill lose his beauty; yet the gold bides still\nThat others touch, yet often touching will\nWear gold; and no man that hath a name\nBy falsehood and corruption doth it shame.\nSince that my beauty cannot please his eye,\nI’ll weep what’s left away, and weeping die.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nHow many fond fools serve mad jealousy!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt.]",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "act-2-scene-2",
+          "number": "2",
+          "ref": null,
+          "sourceHeading": "SCENE II. The same",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Antipholus of Syracuse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThe gold I gave to Dromio is laid up\nSafe at the Centaur, and the heedful slave\nIs wander’d forth in care to seek me out.\nBy computation and mine host’s report.\nI could not speak with Dromio since at first\nI sent him from the mart. See, here he comes.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Dromio of Syracuse.\nHow now, sir! is your merry humour alter’d?\nAs you love strokes, so jest with me again.\nYou know no Centaur? you receiv’d no gold?\nYour mistress sent to have me home to dinner?\nMy house was at the Phoenix? Wast thou mad,\nThat thus so madly thou didst answer me?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nWhat answer, sir? when spake I such a word?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nEven now, even here, not half an hour since.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI did not see you since you sent me hence,\nHome to the Centaur with the gold you gave me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nVillain, thou didst deny the gold’s receipt,\nAnd told’st me of a mistress and a dinner,\nFor which I hope thou felt’st I was displeas’d.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI am glad to see you in this merry vein.\nWhat means this jest, I pray you, master, tell me?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nYea, dost thou jeer and flout me in the teeth?\nThink’st thou I jest? Hold, take thou that, and that.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Beats Dromio.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nHold, sir, for God’s sake, now your jest is earnest.\nUpon what bargain do you give it me?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nBecause that I familiarly sometimes\nDo use you for my fool, and chat with you,\nYour sauciness will jest upon my love,\nAnd make a common of my serious hours.\nWhen the sun shines let foolish gnats make sport,\nBut creep in crannies when he hides his beams.\nIf you will jest with me, know my aspect,\nAnd fashion your demeanour to my looks,\nOr I will beat this method in your sconce.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nSconce, call you it? so you would leave battering, I had rather have it a head. And you use these blows long, I must get a sconce for my head, and ensconce it too, or else I shall seek my wit in my shoulders. But I pray, sir, why am I beaten?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nDost thou not know?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNothing, sir, but that I am beaten.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nShall I tell you why?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nAy, sir, and wherefore; for they say, every why hath a wherefore.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhy, first, for flouting me; and then wherefore,\nFor urging it the second time to me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nWas there ever any man thus beaten out of season,\nWhen in the why and the wherefore is neither rhyme nor reason?\nWell, sir, I thank you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThank me, sir, for what?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMarry, sir, for this something that you gave me for nothing.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI’ll make you amends next, to give you nothing for something.\nBut say, sir, is it dinner-time?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNo, sir; I think the meat wants that I have.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nIn good time, sir, what’s that?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nBasting.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWell, sir, then ’twill be dry.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nIf it be, sir, I pray you eat none of it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nYour reason?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nLest it make you choleric, and purchase me another dry basting.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWell, sir, learn to jest in good time.\nThere’s a time for all things.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI durst have denied that before you were so choleric.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nBy what rule, sir?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMarry, sir, by a rule as plain as the plain bald pate of Father Time himself.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nLet’s hear it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nThere’s no time for a man to recover his hair that grows bald by nature.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nMay he not do it by fine and recovery?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nYes, to pay a fine for a periwig, and recover the lost hair of another man.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhy is Time such a niggard of hair, being, as it is, so plentiful an excrement?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nBecause it is a blessing that he bestows on beasts, and what he hath scanted men in hair he hath given them in wit.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhy, but there’s many a man hath more hair than wit.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNot a man of those but he hath the wit to lose his hair.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhy, thou didst conclude hairy men plain dealers without wit.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nThe plainer dealer, the sooner lost. Yet he loseth it in a kind of jollity.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nFor what reason?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nFor two, and sound ones too.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nNay, not sound, I pray you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nSure ones, then.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nNay, not sure, in a thing falsing.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nCertain ones, then.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nName them.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nThe one, to save the money that he spends in tiring; the other, that at dinner they should not drop in his porridge.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nYou would all this time have proved there is no time for all things.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMarry, and did, sir; namely, e’en no time to recover hair lost by nature.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nBut your reason was not substantial why there is no time to recover.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nThus I mend it: Time himself is bald, and therefore, to the world’s end will have bald followers.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI knew ’twould be a bald conclusion.\nBut soft! who wafts us yonder?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Adriana and Luciana.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAy, ay, Antipholus, look strange and frown,\nSome other mistress hath thy sweet aspects.\nI am not Adriana, nor thy wife.\nThe time was once when thou unurg’d wouldst vow\nThat never words were music to thine ear,\nThat never object pleasing in thine eye,\nThat never touch well welcome to thy hand,\nThat never meat sweet-savour’d in thy taste,\nUnless I spake, or look’d, or touch’d, or carv’d to thee.\nHow comes it now, my husband, O, how comes it,\nThat thou art then estranged from thyself?\nThyself I call it, being strange to me,\nThat, undividable, incorporate,\nAm better than thy dear self’s better part.\nAh, do not tear away thyself from me;\nFor know, my love, as easy mayst thou fall\nA drop of water in the breaking gulf,\nAnd take unmingled thence that drop again\nWithout addition or diminishing,\nAs take from me thyself, and not me too.\nHow dearly would it touch thee to the quick,\nShould’st thou but hear I were licentious?\nAnd that this body, consecrate to thee,\nBy ruffian lust should be contaminate?\nWouldst thou not spit at me, and spurn at me,\nAnd hurl the name of husband in my face,\nAnd tear the stain’d skin off my harlot brow,\nAnd from my false hand cut the wedding-ring,\nAnd break it with a deep-divorcing vow?\nI know thou canst; and therefore, see thou do it.\nI am possess’d with an adulterate blot;\nMy blood is mingled with the crime of lust;\nFor if we two be one, and thou play false,\nI do digest the poison of thy flesh,\nBeing strumpeted by thy contagion.\nKeep then fair league and truce with thy true bed,\nI live distain’d, thou undishonoured.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nPlead you to me, fair dame? I know you not.\nIn Ephesus I am but two hours old,\nAs strange unto your town as to your talk,\nWho, every word by all my wit being scann’d,\nWants wit in all one word to understand.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nFie, brother, how the world is chang’d with you.\nWhen were you wont to use my sister thus?\nShe sent for you by Dromio home to dinner.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nBy Dromio?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nBy me?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nBy thee; and this thou didst return from him,\nThat he did buffet thee, and in his blows\nDenied my house for his, me for his wife.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nDid you converse, sir, with this gentlewoman?\nWhat is the course and drift of your compact?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI, sir? I never saw her till this time.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nVillain, thou liest, for even her very words\nDidst thou deliver to me on the mart.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI never spake with her in all my life.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nHow can she thus, then, call us by our names?\nUnless it be by inspiration.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nHow ill agrees it with your gravity\nTo counterfeit thus grossly with your slave,\nAbetting him to thwart me in my mood;\nBe it my wrong, you are from me exempt,\nBut wrong not that wrong with a more contempt.\nCome, I will fasten on this sleeve of thine.\nThou art an elm, my husband, I a vine,\nWhose weakness, married to thy stronger state,\nMakes me with thy strength to communicate:\nIf aught possess thee from me, it is dross,\nUsurping ivy, brier, or idle moss,\nWho all, for want of pruning, with intrusion\nInfect thy sap, and live on thy confusion.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nTo me she speaks; she moves me for her theme.\nWhat, was I married to her in my dream?\nOr sleep I now, and think I hear all this?\nWhat error drives our eyes and ears amiss?\nUntil I know this sure uncertainty\nI’ll entertain the offer’d fallacy.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nDromio, go bid the servants spread for dinner.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nO, for my beads! I cross me for a sinner.\nThis is the fairy land; O spite of spites!\nWe talk with goblins, owls, and sprites;\nIf we obey them not, this will ensue:\nThey’ll suck our breath, or pinch us black and blue.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nWhy prat’st thou to thyself, and answer’st not?\nDromio, thou drone, thou snail, thou slug, thou sot.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI am transformed, master, am I not?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI think thou art in mind, and so am I.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNay, master, both in mind and in my shape.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThou hast thine own form.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNo, I am an ape.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nIf thou art chang’d to aught, ’tis to an ass.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\n’Tis true; she rides me, and I long for grass.\n’Tis so, I am an ass; else it could never be\nBut I should know her as well as she knows me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nCome, come, no longer will I be a fool,\nTo put the finger in the eye and weep\nWhilst man and master laughs my woes to scorn.\nCome, sir, to dinner; Dromio, keep the gate.\nHusband, I’ll dine above with you today,\nAnd shrive you of a thousand idle pranks.\nSirrah, if any ask you for your master,\nSay he dines forth, and let no creature enter.\nCome, sister; Dromio, play the porter well.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nAm I in earth, in heaven, or in hell?\nSleeping or waking, mad, or well-advis’d?\nKnown unto these, and to myself disguis’d!\nI’ll say as they say, and persever so,\nAnd in this mist at all adventures go.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMaster, shall I be porter at the gate?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAy; and let none enter, lest I break your pate.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nCome, come, Antipholus, we dine too late.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt.]",
+              "ref": null
+            }
+          ]
+        }
+      ],
+      "passages": []
+    },
+    {
+      "id": "act-3",
+      "number": "3",
+      "ref": null,
+      "sourceHeading": "ACT III",
+      "editorialTitle": null,
+      "children": [
+        {
+          "id": "act-3-scene-1",
+          "number": "1",
+          "ref": null,
+          "sourceHeading": "SCENE I. The same",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Antipholus of Ephesus, his man Dromio of Ephesus, Angelo the goldsmith and Balthasar the merchant.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nGood Signior Angelo, you must excuse us all,\nMy wife is shrewish when I keep not hours.\nSay that I linger’d with you at your shop\nTo see the making of her carcanet,\nAnd that tomorrow you will bring it home.\nBut here’s a villain that would face me down.\nHe met me on the mart, and that I beat him,\nAnd charg’d him with a thousand marks in gold,\nAnd that I did deny my wife and house.\nThou drunkard, thou, what didst thou mean by this?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nSay what you will, sir, but I know what I know.\nThat you beat me at the mart I have your hand to show;\nIf the skin were parchment, and the blows you gave were ink,\nYour own handwriting would tell you what I think.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nI think thou art an ass.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nMarry, so it doth appear\nBy the wrongs I suffer and the blows I bear.\nI should kick, being kick’d; and being at that pass,\nYou would keep from my heels, and beware of an ass.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nYou’re sad, Signior Balthasar; pray God our cheer\nMay answer my good will and your good welcome here.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "BALTHASAR.\nI hold your dainties cheap, sir, and your welcome dear.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nO, Signior Balthasar, either at flesh or fish\nA table full of welcome makes scarce one dainty dish.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "BALTHASAR.\nGood meat, sir, is common; that every churl affords.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nAnd welcome more common, for that’s nothing but words.\nBALTHASAR\nSmall cheer and great welcome makes a merry feast.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nAy, to a niggardly host and more sparing guest.\nBut though my cates be mean, take them in good part;\nBetter cheer may you have, but not with better heart.\nBut soft; my door is lock’d. Go bid them let us in.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nMaud, Bridget, Marian, Cicely, Gillian, Ginn!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\n[Within.] Mome, malt-horse, capon, coxcomb, idiot, patch!\nEither get thee from the door or sit down at the hatch:\nDost thou conjure for wenches, that thou call’st for such store\nWhen one is one too many? Go, get thee from the door.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nWhat patch is made our porter? My master stays in the street.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nLet him walk from whence he came, lest he catch cold on’s feet.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nWho talks within there? Ho, open the door.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nRight, sir, I’ll tell you when an you’ll tell me wherefore.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nWherefore? For my dinner. I have not dined today.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNor today here you must not; come again when you may.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nWhat art thou that keep’st me out from the house I owe?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nThe porter for this time, sir, and my name is Dromio.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nO villain, thou hast stolen both mine office and my name;\nThe one ne’er got me credit, the other mickle blame.\nIf thou hadst been Dromio today in my place,\nThou wouldst have chang’d thy face for a name, or thy name for an ass.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Luce concealed from Antipholus of Ephesus and his companions.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCE.\n[Within.] What a coil is there, Dromio, who are those at the gate?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nLet my master in, Luce.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCE.\nFaith, no, he comes too late,\nAnd so tell your master.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nO Lord, I must laugh;\nHave at you with a proverb:—Shall I set in my staff?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCE.\nHave at you with another: that’s—When? can you tell?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nIf thy name be called Luce,—Luce, thou hast answer’d him well.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nDo you hear, you minion? you’ll let us in, I hope?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCE.\nI thought to have ask’d you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nAnd you said no.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nSo, come, help. Well struck, there was blow for blow.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThou baggage, let me in.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCE.\nCan you tell for whose sake?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nMaster, knock the door hard.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCE.\nLet him knock till it ache.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nYou’ll cry for this, minion, if I beat the door down.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCE.\nWhat needs all that, and a pair of stocks in the town?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Adriana concealed from Antipholus of Ephesus and his companions.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\n[Within.] Who is that at the door that keeps all this noise?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nBy my troth, your town is troubled with unruly boys.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nAre you there, wife? you might have come before.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nYour wife, sir knave? go, get you from the door.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nIf you went in pain, master, this knave would go sore.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nHere is neither cheer, sir, nor welcome. We would fain have either.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "BALTHASAR.\nIn debating which was best, we shall part with neither.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nThey stand at the door, master; bid them welcome hither.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThere is something in the wind, that we cannot get in.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nYou would say so, master, if your garments were thin.\nYour cake here is warm within; you stand here in the cold.\nIt would make a man mad as a buck to be so bought and sold.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nGo, fetch me something, I’ll break ope the gate.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nBreak any breaking here, and I’ll break your knave’s pate.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nA man may break a word with you, sir, and words are but wind;\nAy, and break it in your face, so he break it not behind.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nIt seems thou want’st breaking; out upon thee, hind!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nHere’s too much “out upon thee”; I pray thee, let me in.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nAy, when fowls have no feathers and fish have no fin.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nWell, I’ll break in; go, borrow me a crow.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nA crow without feather; master, mean you so?\nFor a fish without a fin, there’s a fowl without a feather.\nIf a crow help us in, sirrah, we’ll pluck a crow together.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nGo, get thee gone; fetch me an iron crow.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "BALTHASAR.\nHave patience, sir. O, let it not be so:\nHerein you war against your reputation,\nAnd draw within the compass of suspect\nThe unviolated honour of your wife.\nOnce this,—your long experience of her wisdom,\nHer sober virtue, years, and modesty,\nPlead on her part some cause to you unknown;\nAnd doubt not, sir, but she will well excuse\nWhy at this time the doors are made against you.\nBe rul’d by me; depart in patience,\nAnd let us to the Tiger all to dinner,\nAnd about evening, come yourself alone\nTo know the reason of this strange restraint.\nIf by strong hand you offer to break in\nNow in the stirring passage of the day,\nA vulgar comment will be made of it;\nAnd that supposed by the common rout\nAgainst your yet ungalled estimation\nThat may with foul intrusion enter in,\nAnd dwell upon your grave when you are dead;\nFor slander lives upon succession,\nFor ever hous’d where it gets possession.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nYou have prevail’d. I will depart in quiet,\nAnd, in despite of mirth, mean to be merry.\nI know a wench of excellent discourse,\nPretty and witty; wild, and yet, too, gentle;\nThere will we dine. This woman that I mean,\nMy wife (but, I protest, without desert)\nHath oftentimes upbraided me withal;\nTo her will we to dinner.—Get you home\nAnd fetch the chain, by this I know ’tis made.\nBring it, I pray you, to the Porpentine,\nFor there’s the house. That chain will I bestow\n(Be it for nothing but to spite my wife)\nUpon mine hostess there. Good sir, make haste.\nSince mine own doors refuse to entertain me,\nI’ll knock elsewhere, to see if they’ll disdain me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nI’ll meet you at that place some hour hence.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nDo so; this jest shall cost me some expense.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt.]",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "act-3-scene-2",
+          "number": "2",
+          "ref": null,
+          "sourceHeading": "SCENE II. The same",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Luciana with Antipholus of Syracuse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nAnd may it be that you have quite forgot\nA husband’s office? Shall, Antipholus,\nEven in the spring of love, thy love-springs rot?\nShall love, in building, grow so ruinous?\nIf you did wed my sister for her wealth,\nThen for her wealth’s sake use her with more kindness;\nOr if you like elsewhere, do it by stealth,\nMuffle your false love with some show of blindness.\nLet not my sister read it in your eye;\nBe not thy tongue thy own shame’s orator;\nLook sweet, speak fair, become disloyalty;\nApparel vice like virtue’s harbinger;\nBear a fair presence though your heart be tainted;\nTeach sin the carriage of a holy saint,\nBe secret-false. What need she be acquainted?\nWhat simple thief brags of his own attaint?\n’Tis double wrong to truant with your bed\nAnd let her read it in thy looks at board.\nShame hath a bastard fame, well managed;\nIll deeds is doubled with an evil word.\nAlas, poor women, make us but believe,\nBeing compact of credit, that you love us.\nThough others have the arm, show us the sleeve;\nWe in your motion turn, and you may move us.\nThen, gentle brother, get you in again;\nComfort my sister, cheer her, call her wife.\n’Tis holy sport to be a little vain\nWhen the sweet breath of flattery conquers strife.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nSweet mistress, what your name is else, I know not,\nNor by what wonder you do hit on mine;\nLess in your knowledge and your grace you show not\nThan our earth’s wonder, more than earth divine.\nTeach me, dear creature, how to think and speak;\nLay open to my earthy gross conceit,\nSmother’d in errors, feeble, shallow, weak,\nThe folded meaning of your words’ deceit.\nAgainst my soul’s pure truth why labour you\nTo make it wander in an unknown field?\nAre you a god? would you create me new?\nTransform me, then, and to your power I’ll yield.\nBut if that I am I, then well I know\nYour weeping sister is no wife of mine,\nNor to her bed no homage do I owe.\nFar more, far more, to you do I decline.\nO, train me not, sweet mermaid, with thy note\nTo drown me in thy sister’s flood of tears.\nSing, siren, for thyself, and I will dote;\nSpread o’er the silver waves thy golden hairs,\nAnd as a bed I’ll take thee, and there lie,\nAnd, in that glorious supposition think\nHe gains by death that hath such means to die.\nLet love, being light, be drowned if she sink!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nWhat, are you mad, that you do reason so?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nNot mad, but mated; how, I do not know.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nIt is a fault that springeth from your eye.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nFor gazing on your beams, fair sun, being by.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nGaze where you should, and that will clear your sight.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nAs good to wink, sweet love, as look on night.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nWhy call you me love? Call my sister so.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThy sister’s sister.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nThat’s my sister.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nNo,\nIt is thyself, mine own self’s better part,\nMine eye’s clear eye, my dear heart’s dearer heart,\nMy food, my fortune, and my sweet hope’s aim,\nMy sole earth’s heaven, and my heaven’s claim.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nAll this my sister is, or else should be.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nCall thyself sister, sweet, for I aim thee;\nThee will I love, and with thee lead my life;\nThou hast no husband yet, nor I no wife.\nGive me thy hand.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nO, soft, sir, hold you still;\nI’ll fetch my sister to get her goodwill.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit Luciana.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Dromio of Syracuse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhy, how now, Dromio? where runn’st thou so fast?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nDo you know me, sir? Am I Dromio? Am I your man? Am I myself?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThou art Dromio, thou art my man, thou art thyself.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI am an ass, I am a woman’s man, and besides myself.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhat woman’s man? and how besides thyself?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMarry, sir, besides myself, I am due to a woman, one that claims me, one that haunts me, one that will have me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhat claim lays she to thee?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMarry, sir, such claim as you would lay to your horse, and she would have me as a beast; not that I being a beast she would have me, but that she being a very beastly creature lays claim to me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhat is she?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nA very reverent body; ay, such a one as a man may not speak of without he say “sir-reverence”. I have but lean luck in the match, and yet is she a wondrous fat marriage.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nHow dost thou mean a “fat marriage”?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMarry, sir, she’s the kitchen wench, and all grease, and I know not what use to put her to but to make a lamp of her and run from her by her own light. I warrant her rags and the tallow in them will burn a Poland winter. If she lives till doomsday, she’ll burn a week longer than the whole world.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhat complexion is she of?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nSwart like my shoe, but her face nothing like so clean kept. For why? she sweats, a man may go overshoes in the grime of it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThat’s a fault that water will mend.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNo, sir, ’tis in grain; Noah’s flood could not do it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhat’s her name?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNell, sir; but her name and three quarters, that’s an ell and three quarters, will not measure her from hip to hip.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThen she bears some breadth?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNo longer from head to foot than from hip to hip. She is spherical, like a globe. I could find out countries in her.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nIn what part of her body stands Ireland?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMarry, sir, in her buttocks; I found it out by the bogs.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhere Scotland?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI found it by the barrenness, hard in the palm of the hand.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhere France?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nIn her forehead; armed and reverted, making war against her hair.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhere England?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI looked for the chalky cliffs, but I could find no whiteness in them.\nBut I guess it stood in her chin, by the salt rheum that ran between\nFrance and it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhere Spain?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nFaith, I saw it not; but I felt it hot in her breath.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhere America, the Indies?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nO, sir, upon her nose, all o’er-embellished with rubies, carbuncles, sapphires, declining their rich aspect to the hot breath of Spain, who sent whole armadoes of carracks to be ballast at her nose.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhere stood Belgia, the Netherlands?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nO, sir, I did not look so low. To conclude: this drudge or diviner laid claim to me, called me Dromio, swore I was assured to her, told me what privy marks I had about me, as the mark of my shoulder, the mole in my neck, the great wart on my left arm, that I, amazed, ran from her as a witch. And, I think, if my breast had not been made of faith, and my heart of steel, she had transformed me to a curtal dog, and made me turn i’ the wheel.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nGo, hie thee presently, post to the road;\nAnd if the wind blow any way from shore,\nI will not harbour in this town tonight.\nIf any bark put forth, come to the mart,\nWhere I will walk till thou return to me.\nIf everyone knows us, and we know none,\n’Tis time, I think, to trudge, pack and be gone.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nAs from a bear a man would run for life,\nSo fly I from her that would be my wife.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThere’s none but witches do inhabit here,\nAnd therefore ’tis high time that I were hence.\nShe that doth call me husband, even my soul\nDoth for a wife abhor. But her fair sister,\nPossess’d with such a gentle sovereign grace,\nOf such enchanting presence and discourse,\nHath almost made me traitor to myself.\nBut lest myself be guilty to self-wrong,\nI’ll stop mine ears against the mermaid’s song.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Angelo with the chain.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nMaster Antipholus.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nAy, that’s my name.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nI know it well, sir. Lo, here is the chain;\nI thought to have ta’en you at the Porpentine,\nThe chain unfinish’d made me stay thus long.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhat is your will that I shall do with this?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nWhat please yourself, sir; I have made it for you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nMade it for me, sir! I bespoke it not.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nNot once, nor twice, but twenty times you have.\nGo home with it, and please your wife withal,\nAnd soon at supper-time I’ll visit you,\nAnd then receive my money for the chain.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI pray you, sir, receive the money now,\nFor fear you ne’er see chain nor money more.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nYou are a merry man, sir; fare you well.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhat I should think of this I cannot tell,\nBut this I think, there’s no man is so vain\nThat would refuse so fair an offer’d chain.\nI see a man here needs not live by shifts,\nWhen in the streets he meets such golden gifts.\nI’ll to the mart, and there for Dromio stay;\nIf any ship put out, then straight away.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit.]",
+              "ref": null
+            }
+          ]
+        }
+      ],
+      "passages": []
+    },
+    {
+      "id": "act-4",
+      "number": "4",
+      "ref": null,
+      "sourceHeading": "ACT IV",
+      "editorialTitle": null,
+      "children": [
+        {
+          "id": "act-4-scene-1",
+          "number": "1",
+          "ref": null,
+          "sourceHeading": "SCENE I. The same",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Merchant, Angelo and an Officer.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nYou know since Pentecost the sum is due,\nAnd since I have not much importun’d you,\nNor now I had not, but that I am bound\nTo Persia, and want guilders for my voyage;\nTherefore make present satisfaction,\nOr I’ll attach you by this officer.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nEven just the sum that I do owe to you\nIs growing to me by Antipholus,\nAnd in the instant that I met with you\nHe had of me a chain; at five o’clock\nI shall receive the money for the same.\nPleaseth you walk with me down to his house,\nI will discharge my bond, and thank you too.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Antipholus of Ephesus and Dromio of Ephesus from the\nCourtesan’s.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nThat labour may you save. See where he comes.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nWhile I go to the goldsmith’s house, go thou\nAnd buy a rope’s end; that will I bestow\nAmong my wife and her confederates\nFor locking me out of my doors by day.\nBut soft, I see the goldsmith; get thee gone;\nBuy thou a rope, and bring it home to me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nI buy a thousand pound a year! I buy a rope!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit Dromio.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nA man is well holp up that trusts to you,\nI promised your presence and the chain,\nBut neither chain nor goldsmith came to me.\nBelike you thought our love would last too long\nIf it were chain’d together, and therefore came not.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nSaving your merry humour, here’s the note\nHow much your chain weighs to the utmost carat,\nThe fineness of the gold, and chargeful fashion,\nWhich doth amount to three odd ducats more\nThan I stand debted to this gentleman.\nI pray you, see him presently discharg’d,\nFor he is bound to sea, and stays but for it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nI am not furnished with the present money;\nBesides, I have some business in the town.\nGood signior, take the stranger to my house,\nAnd with you take the chain, and bid my wife\nDisburse the sum on the receipt thereof;\nPerchance I will be there as soon as you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nThen you will bring the chain to her yourself.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nNo, bear it with you, lest I come not time enough.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nWell, sir, I will. Have you the chain about you?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nAnd if I have not, sir, I hope you have,\nOr else you may return without your money.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nNay, come, I pray you, sir, give me the chain;\nBoth wind and tide stays for this gentleman,\nAnd I, to blame, have held him here too long.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nGood Lord, you use this dalliance to excuse\nYour breach of promise to the Porpentine.\nI should have chid you for not bringing it,\nBut, like a shrew, you first begin to brawl.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nThe hour steals on; I pray you, sir, dispatch.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nYou hear how he importunes me. The chain!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nWhy, give it to my wife, and fetch your money.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nCome, come, you know I gave it you even now.\nEither send the chain or send by me some token.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nFie, now you run this humour out of breath.\nCome, where’s the chain? I pray you, let me see it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nMy business cannot brook this dalliance.\nGood sir, say whe’er you’ll answer me or no;\nIf not, I’ll leave him to the officer.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nI answer you? What should I answer you?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nThe money that you owe me for the chain.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nI owe you none till I receive the chain.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nYou know I gave it you half an hour since.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nYou gave me none. You wrong me much to say so.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nYou wrong me more, sir, in denying it.\nConsider how it stands upon my credit.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nWell, officer, arrest him at my suit.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nI do, and charge you in the duke’s name to obey me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nThis touches me in reputation.\nEither consent to pay this sum for me,\nOr I attach you by this officer.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nConsent to pay thee that I never had?\nArrest me, foolish fellow, if thou dar’st.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nHere is thy fee; arrest him, officer.\nI would not spare my brother in this case\nIf he should scorn me so apparently.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nI do arrest you, sir. You hear the suit.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nI do obey thee till I give thee bail.\nBut, sirrah, you shall buy this sport as dear\nAs all the metal in your shop will answer.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nSir, sir, I shall have law in Ephesus,\nTo your notorious shame, I doubt it not.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Dromio of Syracuse from the bay.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMaster, there’s a bark of Epidamnum\nThat stays but till her owner comes aboard,\nAnd then, sir, bears away. Our fraughtage, sir,\nI have convey’d aboard, and I have bought\nThe oil, the balsamum, and aqua-vitae.\nThe ship is in her trim; the merry wind\nBlows fair from land; they stay for nought at all\nBut for their owner, master, and yourself.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nHow now? a madman? Why, thou peevish sheep,\nWhat ship of Epidamnum stays for me?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nA ship you sent me to, to hire waftage.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThou drunken slave, I sent thee for a rope,\nAnd told thee to what purpose and what end.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nYou sent me for a rope’s end as soon.\nYou sent me to the bay, sir, for a bark.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nI will debate this matter at more leisure,\nAnd teach your ears to list me with more heed.\nTo Adriana, villain, hie thee straight:\nGive her this key, and tell her in the desk\nThat’s cover’d o’er with Turkish tapestry\nThere is a purse of ducats; let her send it.\nTell her I am arrested in the street,\nAnd that shall bail me. Hie thee, slave; be gone.\nOn, officer, to prison till it come.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt Merchant, Angelo, Officer and Antipholus of Ephesus.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nTo Adriana, that is where we din’d,\nWhere Dowsabel did claim me for her husband.\nShe is too big, I hope, for me to compass.\nThither I must, although against my will,\nFor servants must their masters’ minds fulfil.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit.]",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "act-4-scene-2",
+          "number": "2",
+          "ref": null,
+          "sourceHeading": "SCENE II. The same",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Adriana and Luciana.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAh, Luciana, did he tempt thee so?\nMight’st thou perceive austerely in his eye\nThat he did plead in earnest, yea or no?\nLook’d he or red or pale, or sad or merrily?\nWhat observation mad’st thou in this case\nOf his heart’s meteors tilting in his face?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nFirst he denied you had in him no right.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nHe meant he did me none; the more my spite.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nThen swore he that he was a stranger here.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAnd true he swore, though yet forsworn he were.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nThen pleaded I for you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAnd what said he?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nThat love I begg’d for you he begg’d of me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nWith what persuasion did he tempt thy love?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nWith words that in an honest suit might move.\nFirst he did praise my beauty, then my speech.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nDid’st speak him fair?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nHave patience, I beseech.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nI cannot, nor I will not hold me still.\nMy tongue, though not my heart, shall have his will.\nHe is deformed, crooked, old, and sere,\nIll-fac’d, worse bodied, shapeless everywhere;\nVicious, ungentle, foolish, blunt, unkind,\nStigmatical in making, worse in mind.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nWho would be jealous then of such a one?\nNo evil lost is wail’d when it is gone.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAh, but I think him better than I say,\nAnd yet would herein others’ eyes were worse:\nFar from her nest the lapwing cries away;\nMy heart prays for him, though my tongue do curse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Dromio of Syracuse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nHere, go; the desk, the purse, sweet now, make haste.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nHow hast thou lost thy breath?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nBy running fast.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nWhere is thy master, Dromio? is he well?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNo, he’s in Tartar limbo, worse than hell.\nA devil in an everlasting garment hath him,\nOne whose hard heart is button’d up with steel;\nA fiend, a fairy, pitiless and rough;\nA wolf, nay worse, a fellow all in buff;\nA back-friend, a shoulder-clapper, one that countermands\nThe passages of alleys, creeks, and narrow lands;\nA hound that runs counter, and yet draws dryfoot well,\nOne that, before the judgement, carries poor souls to hell.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nWhy, man, what is the matter?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI do not know the matter. He is ’rested on the case.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nWhat, is he arrested? Tell me at whose suit?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI know not at whose suit he is arrested, well;\nBut he’s in a suit of buff which ’rested him, that can I tell.\nWill you send him, mistress, redemption, the money in his desk?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nGo fetch it, sister. This I wonder at,",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit Luciana.]\nThus he unknown to me should be in debt.\nTell me, was he arrested on a band?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNot on a band, but on a stronger thing;\nA chain, a chain. Do you not hear it ring?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nWhat, the chain?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNo, no, the bell, ’tis time that I were gone.\nIt was two ere I left him, and now the clock strikes one.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nThe hours come back! That did I never hear.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nO yes, if any hour meet a sergeant, ’a turns back for very fear.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAs if time were in debt. How fondly dost thou reason!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nTime is a very bankrupt, and owes more than he’s worth to season.\nNay, he’s a thief too. Have you not heard men say\nThat time comes stealing on by night and day?\nIf he be in debt and theft, and a sergeant in the way,\nHath he not reason to turn back an hour in a day?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Luciana.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nGo, Dromio, there’s the money, bear it straight,\nAnd bring thy master home immediately.\nCome, sister, I am press’d down with conceit;\nConceit, my comfort and my injury.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt.]",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "act-4-scene-3",
+          "number": "3",
+          "ref": null,
+          "sourceHeading": "SCENE III. The same",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Antipholus of Syracuse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThere’s not a man I meet but doth salute me\nAs if I were their well-acquainted friend,\nAnd everyone doth call me by my name.\nSome tender money to me, some invite me;\nSome other give me thanks for kindnesses;\nSome offer me commodities to buy.\nEven now a tailor call’d me in his shop,\nAnd show’d me silks that he had bought for me,\nAnd therewithal took measure of my body.\nSure, these are but imaginary wiles,\nAnd Lapland sorcerers inhabit here.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Dromio of Syracuse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMaster, here’s the gold you sent me for.\nWhat, have you got the picture of old Adam new apparelled?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhat gold is this? What Adam dost thou mean?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNot that Adam that kept the paradise, but that Adam that keeps the prison; he that goes in the calf’s skin that was killed for the Prodigal; he that came behind you, sir, like an evil angel, and bid you forsake your liberty.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI understand thee not.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNo? Why, ’tis a plain case: he that went like a bass-viol in a case of leather; the man, sir, that, when gentlemen are tired, gives them a sob, and ’rests them; he, sir, that takes pity on decayed men and gives them suits of durance; he that sets up his rest to do more exploits with his mace than a morris-pike.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhat! thou mean’st an officer?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nAy, sir, the sergeant of the band; he that brings any man to answer it that breaks his band; one that thinks a man always going to bed, and says, “God give you good rest.”",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWell, sir, there rest in your foolery. Is there any ship puts forth tonight? may we be gone?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nWhy, sir, I brought you word an hour since that the bark Expedition put forth tonight, and then were you hindered by the sergeant to tarry for the hoy Delay. Here are the angels that you sent for to deliver you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThe fellow is distract, and so am I,\nAnd here we wander in illusions.\nSome blessed power deliver us from hence!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter a Courtesan.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nWell met, well met, Master Antipholus.\nI see, sir, you have found the goldsmith now.\nIs that the chain you promis’d me today?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nSatan, avoid! I charge thee, tempt me not.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMaster, is this Mistress Satan?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nIt is the devil.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNay, she is worse, she is the devil’s dam; and here she comes in the habit of a light wench, and thereof comes that the wenches say “God damn me”, that’s as much to say, “God make me a light wench.” It is written they appear to men like angels of light. Light is an effect of fire, and fire will burn; ergo, light wenches will burn. Come not near her.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nYour man and you are marvellous merry, sir.\nWill you go with me? We’ll mend our dinner here.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMaster, if you do, expect spoon-meat, or bespeak a long spoon.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWhy, Dromio?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMarry, he must have a long spoon that must eat with the devil.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nAvoid then, fiend! What tell’st thou me of supping?\nThou art, as you are all, a sorceress.\nI conjure thee to leave me and be gone.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nGive me the ring of mine you had at dinner,\nOr, for my diamond, the chain you promis’d,\nAnd I’ll be gone, sir, and not trouble you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nSome devils ask but the paring of one’s nail,\nA rush, a hair, a drop of blood, a pin,\nA nut, a cherry-stone; but she, more covetous,\nWould have a chain.\nMaster, be wise; and if you give it her,\nThe devil will shake her chain and fright us with it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nI pray you, sir, my ring, or else the chain;\nI hope you do not mean to cheat me so.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nAvaunt, thou witch! Come, Dromio, let us go.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nFly pride, says the peacock. Mistress, that you know.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt Antipholus of Syracuse and Dromio of Syracuse.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nNow, out of doubt Antipholus is mad,\nElse would he never so demean himself.\nA ring he hath of mine worth forty ducats,\nAnd for the same he promis’d me a chain;\nBoth one and other he denies me now.\nThe reason that I gather he is mad,\nBesides this present instance of his rage,\nIs a mad tale he told today at dinner\nOf his own doors being shut against his entrance.\nBelike his wife, acquainted with his fits,\nOn purpose shut the doors against his way.\nMy way is now to hie home to his house,\nAnd tell his wife that, being lunatic,\nHe rush’d into my house and took perforce\nMy ring away. This course I fittest choose,\nFor forty ducats is too much to lose.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit.]",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "act-4-scene-4",
+          "number": "4",
+          "ref": null,
+          "sourceHeading": "SCENE IV. The same",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Antipholus of Ephesus with an Officer.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nFear me not, man, I will not break away:\nI’ll give thee ere I leave thee so much money,\nTo warrant thee, as I am ’rested for.\nMy wife is in a wayward mood today,\nAnd will not lightly trust the messenger\nThat I should be attach’d in Ephesus;\nI tell you ’twill sound harshly in her ears.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Dromio of Ephesus with a rope’s end.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Here comes my man. I think he brings the money.\nHow now, sir! have you that I sent you for?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nHere’s that, I warrant you, will pay them all.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nBut where’s the money?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nWhy, sir, I gave the money for the rope.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nFive hundred ducats, villain, for a rope?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nI’ll serve you, sir, five hundred at the rate.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nTo what end did I bid thee hie thee home?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nTo a rope’s end, sir; and to that end am I return’d.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nAnd to that end, sir, I will welcome you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Beating him.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nGood sir, be patient.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nNay, ’tis for me to be patient. I am in adversity.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nGood now, hold thy tongue.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nNay, rather persuade him to hold his hands.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThou whoreson, senseless villain.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nI would I were senseless, sir, that I might not feel your blows.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThou art sensible in nothing but blows, and so is an ass.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nI am an ass indeed; you may prove it by my long ears. I have served him from the hour of my nativity to this instant, and have nothing at his hands for my service but blows. When I am cold, he heats me with beating; when I am warm he cools me with beating. I am waked with it when I sleep, raised with it when I sit, driven out of doors with it when I go from home, welcomed home with it when I return. Nay, I bear it on my shoulders as a beggar wont her brat; and I think when he hath lamed me, I shall beg with it from door to door.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Adriana, Luciana, Courtesan and a Schoolmaster called Pinch.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nCome, go along, my wife is coming yonder.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nMistress, respice finem, respect your end, or rather, the prophesy like the parrot, “Beware the rope’s end.”",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nWilt thou still talk?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Beats him.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nHow say you now? Is not your husband mad?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nHis incivility confirms no less.\nGood Doctor Pinch, you are a conjurer;\nEstablish him in his true sense again,\nAnd I will please you what you will demand.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nAlas, how fiery and how sharp he looks!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nMark how he trembles in his ecstasy.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "PINCH.\nGive me your hand, and let me feel your pulse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThere is my hand, and let it feel your ear.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "PINCH.\nI charge thee, Satan, hous’d within this man,\nTo yield possession to my holy prayers,\nAnd to thy state of darkness hie thee straight.\nI conjure thee by all the saints in heaven.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nPeace, doting wizard, peace; I am not mad.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nO, that thou wert not, poor distressed soul!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nYou minion, you, are these your customers?\nDid this companion with the saffron face\nRevel and feast it at my house today,\nWhilst upon me the guilty doors were shut,\nAnd I denied to enter in my house?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nO husband, God doth know you din’d at home,\nWhere would you had remain’d until this time,\nFree from these slanders and this open shame.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nDin’d at home? Thou villain, what sayest thou?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nSir, sooth to say, you did not dine at home.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nWere not my doors lock’d up and I shut out?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nPerdy, your doors were lock’d, and you shut out.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nAnd did not she herself revile me there?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nSans fable, she herself revil’d you there.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nDid not her kitchen-maid rail, taunt, and scorn me?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nCertes, she did, the kitchen-vestal scorn’d you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nAnd did not I in rage depart from thence?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nIn verity, you did; my bones bear witness,\nThat since have felt the vigour of his rage.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nIs’t good to soothe him in these contraries?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "PINCH.\nIt is no shame; the fellow finds his vein,\nAnd yielding to him, humours well his frenzy.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThou hast suborn’d the goldsmith to arrest me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAlas! I sent you money to redeem you\nBy Dromio here, who came in haste for it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nMoney by me? Heart and goodwill you might,\nBut surely, master, not a rag of money.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nWent’st not thou to her for a purse of ducats?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nHe came to me, and I deliver’d it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nAnd I am witness with her that she did.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nGod and the rope-maker bear me witness\nThat I was sent for nothing but a rope.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "PINCH.\nMistress, both man and master is possess’d,\nI know it by their pale and deadly looks.\nThey must be bound and laid in some dark room.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nSay, wherefore didst thou lock me forth today,\nAnd why dost thou deny the bag of gold?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nI did not, gentle husband, lock thee forth.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nAnd gentle master, I receiv’d no gold;\nBut I confess, sir, that we were lock’d out.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nDissembling villain, thou speak’st false in both.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nDissembling harlot, thou art false in all,\nAnd art confederate with a damned pack\nTo make a loathsome abject scorn of me.\nBut with these nails I’ll pluck out these false eyes\nThat would behold in me this shameful sport.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Enter three or four, and offer to bind him. He strives. ]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nO, bind him, bind him; let him not come near me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "PINCH.\nMore company; the fiend is strong within him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nAy me, poor man, how pale and wan he looks!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nWhat, will you murder me? Thou jailer, thou,\nI am thy prisoner. Wilt thou suffer them\nTo make a rescue?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nMasters, let him go.\nHe is my prisoner, and you shall not have him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "PINCH.\nGo, bind this man, for he is frantic too.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nWhat wilt thou do, thou peevish officer?\nHast thou delight to see a wretched man\nDo outrage and displeasure to himself?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nHe is my prisoner. If I let him go,\nThe debt he owes will be requir’d of me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nI will discharge thee ere I go from thee;\nBear me forthwith unto his creditor,\nAnd knowing how the debt grows, I will pay it.\nGood master doctor, see him safe convey’d\nHome to my house. O most unhappy day!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nO most unhappy strumpet!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nMaster, I am here enter’d in bond for you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nOut on thee, villain! wherefore dost thou mad me?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nWill you be bound for nothing? Be mad, good master; cry, “the devil”.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nGod help, poor souls, how idly do they talk!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nGo bear him hence. Sister, go you with me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[_Exeunt Pinch and Assistants, with Antipholus of Ephesus and Dromio of Ephesus._] Say now, whose suit is he arrested at?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nOne Angelo, a goldsmith; do you know him?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nI know the man. What is the sum he owes?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nTwo hundred ducats.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nSay, how grows it due?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nDue for a chain your husband had of him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nHe did bespeak a chain for me, but had it not.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nWhen as your husband, all in rage, today\nCame to my house and took away my ring,\nThe ring I saw upon his finger now,\nStraight after did I meet him with a chain.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nIt may be so, but I did never see it.\nCome, jailer, bring me where the goldsmith is,\nI long to know the truth hereof at large.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Antipholus of Syracuse with his rapier drawn, and Dromio of\nSyracuse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nGod, for thy mercy, they are loose again!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAnd come with naked swords. Let’s call more help\nTo have them bound again.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "OFFICER.\nAway, they’ll kill us.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt, as fast as may be, frighted.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI see these witches are afraid of swords.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nShe that would be your wife now ran from you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nCome to the Centaur, fetch our stuff from thence.\nI long that we were safe and sound aboard.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nFaith, stay here this night, they will surely do us no harm; you saw they speak us fair, give us gold. Methinks they are such a gentle nation that, but for the mountain of mad flesh that claims marriage of me, I could find in my heart to stay here still and turn witch.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI will not stay tonight for all the town;\nTherefore away, to get our stuff aboard.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt.]",
+              "ref": null
+            }
+          ]
+        }
+      ],
+      "passages": []
+    },
+    {
+      "id": "act-5",
+      "number": "5",
+      "ref": null,
+      "sourceHeading": "ACT V",
+      "editorialTitle": null,
+      "children": [
+        {
+          "id": "act-5-scene-1",
+          "number": "1",
+          "ref": null,
+          "sourceHeading": "SCENE I. The same",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Enter Merchant and Angelo.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nI am sorry, sir, that I have hinder’d you,\nBut I protest he had the chain of me,\nThough most dishonestly he doth deny it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nHow is the man esteem’d here in the city?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nOf very reverend reputation, sir,\nOf credit infinite, highly belov’d,\nSecond to none that lives here in the city.\nHis word might bear my wealth at any time.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nSpeak softly. Yonder, as I think, he walks.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Antipholus of Syracuse and Dromio of Syracuse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\n’Tis so; and that self chain about his neck\nWhich he forswore most monstrously to have.\nGood sir, draw near to me, I’ll speak to him.\nSignior Antipholus, I wonder much\nThat you would put me to this shame and trouble,\nAnd not without some scandal to yourself,\nWith circumstance and oaths so to deny\nThis chain, which now you wear so openly.\nBeside the charge, the shame, imprisonment,\nYou have done wrong to this my honest friend,\nWho, but for staying on our controversy,\nHad hoisted sail and put to sea today.\nThis chain you had of me, can you deny it?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI think I had: I never did deny it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nYes, that you did, sir, and forswore it too.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nWho heard me to deny it or forswear it?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nThese ears of mine, thou know’st, did hear thee.\nFie on thee, wretch. ’Tis pity that thou liv’st\nTo walk where any honest men resort.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThou art a villain to impeach me thus;\nI’ll prove mine honour and mine honesty\nAgainst thee presently, if thou dar’st stand.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nI dare, and do defy thee for a villain.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[They draw.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Adriana, Luciana, Courtesan and others.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nHold, hurt him not, for God’s sake, he is mad.\nSome get within him, take his sword away.\nBind Dromio too, and bear them to my house.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nRun, master, run, for God’s sake, take a house.\nThis is some priory; in, or we are spoil’d.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[_Exeunt Antipholus of Syracuse and Dromio of Syracuse to the priory._]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Lady Abbess.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nBe quiet, people. Wherefore throng you hither?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nTo fetch my poor distracted husband hence.\nLet us come in, that we may bind him fast\nAnd bear him home for his recovery.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nI knew he was not in his perfect wits.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nI am sorry now that I did draw on him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nHow long hath this possession held the man?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nThis week he hath been heavy, sour, sad,\nAnd much different from the man he was.\nBut till this afternoon his passion\nNe’er brake into extremity of rage.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nHath he not lost much wealth by wreck of sea?\nBuried some dear friend? Hath not else his eye\nStray’d his affection in unlawful love?\nA sin prevailing much in youthful men\nWho give their eyes the liberty of gazing?\nWhich of these sorrows is he subject to?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nTo none of these, except it be the last,\nNamely, some love that drew him oft from home.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nYou should for that have reprehended him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nWhy, so I did.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nAy, but not rough enough.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAs roughly as my modesty would let me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nHaply in private.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAnd in assemblies too.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nAy, but not enough.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nIt was the copy of our conference.\nIn bed he slept not for my urging it;\nAt board he fed not for my urging it;\nAlone, it was the subject of my theme;\nIn company I often glanced it;\nStill did I tell him it was vile and bad.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nAnd thereof came it that the man was mad.\nThe venom clamours of a jealous woman\nPoisons more deadly than a mad dog’s tooth.\nIt seems his sleeps were hindered by thy railing,\nAnd thereof comes it that his head is light.\nThou say’st his meat was sauc’d with thy upbraidings.\nUnquiet meals make ill digestions;\nThereof the raging fire of fever bred,\nAnd what’s a fever but a fit of madness?\nThou say’st his sports were hinder’d by thy brawls.\nSweet recreation barr’d, what doth ensue\nBut moody and dull melancholy,\nKinsman to grim and comfortless despair,\nAnd at her heels a huge infectious troop\nOf pale distemperatures and foes to life?\nIn food, in sport, and life-preserving rest\nTo be disturb’d would mad or man or beast.\nThe consequence is, then, thy jealous fits\nHath scar’d thy husband from the use of’s wits.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nShe never reprehended him but mildly,\nWhen he demean’d himself rough, rude, and wildly.\nWhy bear you these rebukes and answer not?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nShe did betray me to my own reproof.\nGood people, enter and lay hold on him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nNo, not a creature enters in my house.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nThen let your servants bring my husband forth.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nNeither. He took this place for sanctuary,\nAnd it shall privilege him from your hands\nTill I have brought him to his wits again,\nOr lose my labour in assaying it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nI will attend my husband, be his nurse,\nDiet his sickness, for it is my office,\nAnd will have no attorney but myself;\nAnd therefore let me have him home with me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nBe patient, for I will not let him stir\nTill I have used the approved means I have,\nWith wholesome syrups, drugs, and holy prayers,\nTo make of him a formal man again.\nIt is a branch and parcel of mine oath,\nA charitable duty of my order;\nTherefore depart, and leave him here with me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nI will not hence and leave my husband here;\nAnd ill it doth beseem your holiness\nTo separate the husband and the wife.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nBe quiet and depart. Thou shalt not have him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit Abbess.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nComplain unto the duke of this indignity.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nCome, go. I will fall prostrate at his feet,\nAnd never rise until my tears and prayers\nHave won his grace to come in person hither\nAnd take perforce my husband from the abbess.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nBy this, I think, the dial points at five.\nAnon, I’m sure, the Duke himself in person\nComes this way to the melancholy vale,\nThe place of death and sorry execution\nBehind the ditches of the abbey here.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nUpon what cause?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nTo see a reverend Syracusian merchant,\nWho put unluckily into this bay\nAgainst the laws and statutes of this town,\nBeheaded publicly for his offence.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nSee where they come. We will behold his death.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nKneel to the Duke before he pass the abbey.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter the Duke, attended; Egeon, bareheaded; with the Headsman and other Officers.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nYet once again proclaim it publicly,\nIf any friend will pay the sum for him,\nHe shall not die; so much we tender him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nJustice, most sacred duke, against the abbess!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nShe is a virtuous and a reverend lady,\nIt cannot be that she hath done thee wrong.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nMay it please your grace, Antipholus, my husband,\nWho I made lord of me and all I had\nAt your important letters, this ill day\nA most outrageous fit of madness took him;\nThat desp’rately he hurried through the street,\nWith him his bondman all as mad as he,\nDoing displeasure to the citizens\nBy rushing in their houses, bearing thence\nRings, jewels, anything his rage did like.\nOnce did I get him bound and sent him home,\nWhilst to take order for the wrongs I went,\nThat here and there his fury had committed.\nAnon, I wot not by what strong escape,\nHe broke from those that had the guard of him,\nAnd with his mad attendant and himself,\nEach one with ireful passion, with drawn swords,\nMet us again, and, madly bent on us,\nChased us away; till raising of more aid,\nWe came again to bind them. Then they fled\nInto this abbey, whither we pursued them.\nAnd here the abbess shuts the gates on us,\nAnd will not suffer us to fetch him out,\nNor send him forth that we may bear him hence.\nTherefore, most gracious duke, with thy command\nLet him be brought forth and borne hence for help.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nLong since thy husband serv’d me in my wars,\nAnd I to thee engag’d a prince’s word,\nWhen thou didst make him master of thy bed,\nTo do him all the grace and good I could.\nGo, some of you, knock at the abbey gate,\nAnd bid the lady abbess come to me.\nI will determine this before I stir.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter a Messenger.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MESSENGER.\nO mistress, mistress, shift and save yourself.\nMy master and his man are both broke loose,\nBeaten the maids a-row, and bound the doctor,\nWhose beard they have singed off with brands of fire,\nAnd ever as it blazed they threw on him\nGreat pails of puddled mire to quench the hair.\nMy master preaches patience to him, and the while\nHis man with scissors nicks him like a fool;\nAnd sure (unless you send some present help)\nBetween them they will kill the conjurer.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nPeace, fool, thy master and his man are here,\nAnd that is false thou dost report to us.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MESSENGER.\nMistress, upon my life, I tell you true.\nI have not breath’d almost since I did see it.\nHe cries for you, and vows, if he can take you,\nTo scorch your face and to disfigure you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Cry within.]\nHark, hark, I hear him, mistress. Fly, be gone!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nCome, stand by me, fear nothing. Guard with halberds.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAy me, it is my husband. Witness you\nThat he is borne about invisible.\nEven now we hous’d him in the abbey here,\nAnd now he’s there, past thought of human reason.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter Antipholus and Dromio of Ephesus.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nJustice, most gracious duke; O, grant me justice!\nEven for the service that long since I did thee\nWhen I bestrid thee in the wars, and took\nDeep scars to save thy life; even for the blood\nThat then I lost for thee, now grant me justice.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nUnless the fear of death doth make me dote,\nI see my son Antipholus and Dromio.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nJustice, sweet prince, against that woman there.\nShe whom thou gav’st to me to be my wife;\nThat hath abused and dishonour’d me\nEven in the strength and height of injury.\nBeyond imagination is the wrong\nThat she this day hath shameless thrown on me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nDiscover how, and thou shalt find me just.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThis day, great duke, she shut the doors upon me\nWhile she with harlots feasted in my house.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nA grievous fault. Say, woman, didst thou so?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nNo, my good lord. Myself, he, and my sister\nToday did dine together. So befall my soul\nAs this is false he burdens me withal.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LUCIANA.\nNe’er may I look on day nor sleep on night\nBut she tells to your highness simple truth.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nO perjur’d woman! They are both forsworn.\nIn this the madman justly chargeth them.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nMy liege, I am advised what I say,\nNeither disturb’d with the effect of wine,\nNor heady-rash, provok’d with raging ire,\nAlbeit my wrongs might make one wiser mad.\nThis woman lock’d me out this day from dinner.\nThat goldsmith there, were he not pack’d with her,\nCould witness it, for he was with me then,\nWho parted with me to go fetch a chain,\nPromising to bring it to the Porpentine,\nWhere Balthasar and I did dine together.\nOur dinner done, and he not coming thither,\nI went to seek him. In the street I met him,\nAnd in his company that gentleman.\nThere did this perjur’d goldsmith swear me down\nThat I this day of him receiv’d the chain,\nWhich, God he knows, I saw not. For the which\nHe did arrest me with an officer.\nI did obey, and sent my peasant home\nFor certain ducats. He with none return’d.\nThen fairly I bespoke the officer\nTo go in person with me to my house.\nBy th’ way we met\nMy wife, her sister, and a rabble more\nOf vile confederates. Along with them\nThey brought one Pinch, a hungry lean-faced villain,\nA mere anatomy, a mountebank,\nA threadbare juggler, and a fortune-teller;\nA needy, hollow-ey’d, sharp-looking wretch;\nA living dead man. This pernicious slave,\nForsooth, took on him as a conjurer,\nAnd gazing in mine eyes, feeling my pulse,\nAnd with no face (as ’twere) outfacing me,\nCries out, I was possess’d. Then altogether\nThey fell upon me, bound me, bore me thence,\nAnd in a dark and dankish vault at home\nThere left me and my man, both bound together,\nTill gnawing with my teeth my bonds in sunder,\nI gain’d my freedom and immediately\nRan hither to your Grace, whom I beseech\nTo give me ample satisfaction\nFor these deep shames and great indignities.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nMy lord, in truth, thus far I witness with him,\nThat he din’d not at home, but was lock’d out.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nBut had he such a chain of thee, or no?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nHe had, my lord, and when he ran in here\nThese people saw the chain about his neck.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "MERCHANT.\nBesides, I will be sworn these ears of mine\nHeard you confess you had the chain of him,\nAfter you first forswore it on the mart,\nAnd thereupon I drew my sword on you;\nAnd then you fled into this abbey here,\nFrom whence I think you are come by miracle.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nI never came within these abbey walls,\nNor ever didst thou draw thy sword on me.\nI never saw the chain, so help me heaven;\nAnd this is false you burden me withal.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nWhy, what an intricate impeach is this!\nI think you all have drunk of Circe’s cup.\nIf here you hous’d him, here he would have been.\nIf he were mad, he would not plead so coldly.\nYou say he din’d at home, the goldsmith here\nDenies that saying. Sirrah, what say you?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nSir, he dined with her there, at the Porpentine.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nHe did, and from my finger snatch’d that ring.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\n’Tis true, my liege, this ring I had of her.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nSaw’st thou him enter at the abbey here?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nAs sure, my liege, as I do see your grace.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nWhy, this is strange. Go call the abbess hither.\nI think you are all mated, or stark mad.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exit one to the Abbess.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nMost mighty Duke, vouchsafe me speak a word;\nHaply I see a friend will save my life\nAnd pay the sum that may deliver me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nSpeak freely, Syracusian, what thou wilt.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nIs not your name, sir, call’d Antipholus?\nAnd is not that your bondman Dromio?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nWithin this hour I was his bondman, sir,\nBut he, I thank him, gnaw’d in two my cords.\nNow am I Dromio, and his man, unbound.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nI am sure you both of you remember me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nOurselves we do remember, sir, by you.\nFor lately we were bound as you are now.\nYou are not Pinch’s patient, are you, sir?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nWhy look you strange on me? you know me well.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nI never saw you in my life till now.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nO! grief hath chang’d me since you saw me last,\nAnd careful hours with time’s deformed hand,\nHave written strange defeatures in my face.\nBut tell me yet, dost thou not know my voice?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nNeither.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nDromio, nor thou?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nNo, trust me, sir, nor I.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nI am sure thou dost.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nAy, sir, but I am sure I do not, and whatsoever a man denies, you are now bound to believe him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nNot know my voice! O time’s extremity,\nHast thou so crack’d and splitted my poor tongue\nIn seven short years that here my only son\nKnows not my feeble key of untun’d cares?\nThough now this grained face of mine be hid\nIn sap-consuming winter’s drizzled snow,\nAnd all the conduits of my blood froze up,\nYet hath my night of life some memory,\nMy wasting lamps some fading glimmer left,\nMy dull deaf ears a little use to hear.\nAll these old witnesses, I cannot err,\nTell me thou art my son Antipholus.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nI never saw my father in my life.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nBut seven years since, in Syracusa, boy,\nThou know’st we parted; but perhaps, my son,\nThou sham’st to acknowledge me in misery.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThe duke and all that know me in the city,\nCan witness with me that it is not so.\nI ne’er saw Syracusa in my life.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nI tell thee, Syracusian, twenty years\nHave I been patron to Antipholus,\nDuring which time he ne’er saw Syracusa.\nI see thy age and dangers make thee dote.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Enter the Abbess with Antipholus of Syracuse and Dromio of Syracuse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nMost mighty duke, behold a man much wrong’d.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[All gather to see them.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nI see two husbands, or mine eyes deceive me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nOne of these men is genius to the other;\nAnd so of these, which is the natural man,\nAnd which the spirit? Who deciphers them?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nI, sir, am Dromio, command him away.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nI, sir, am Dromio, pray let me stay.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nEgeon, art thou not? or else his ghost?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nO, my old master, who hath bound him here?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nWhoever bound him, I will loose his bonds,\nAnd gain a husband by his liberty.\nSpeak, old Egeon, if thou be’st the man\nThat hadst a wife once called Emilia,\nThat bore thee at a burden two fair sons.\nO, if thou be’st the same Egeon, speak,\nAnd speak unto the same Emilia!",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nWhy, here begins his morning story right:\nThese two Antipholus’, these two so like,\nAnd these two Dromios, one in semblance,\nBesides her urging of her wreck at sea.\nThese are the parents to these children,\nWhich accidentally are met together.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "EGEON.\nIf I dream not, thou art Emilia.\nIf thou art she, tell me where is that son\nThat floated with thee on the fatal raft?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nBy men of Epidamnum, he and I\nAnd the twin Dromio, all were taken up;\nBut, by and by, rude fishermen of Corinth\nBy force took Dromio and my son from them,\nAnd me they left with those of Epidamnum.\nWhat then became of them I cannot tell;\nI to this fortune that you see me in.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nAntipholus, thou cam’st from Corinth first?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nNo, sir, not I, I came from Syracuse.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nStay, stand apart, I know not which is which.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nI came from Corinth, my most gracious lord.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nAnd I with him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nBrought to this town by that most famous warrior,\nDuke Menaphon, your most renowned uncle.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nWhich of you two did dine with me today?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI, gentle mistress.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nAnd are not you my husband?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nNo, I say nay to that.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nAnd so do I, yet did she call me so;\nAnd this fair gentlewoman, her sister here,\nDid call me brother. What I told you then,\nI hope I shall have leisure to make good,\nIf this be not a dream I see and hear.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nThat is the chain, sir, which you had of me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nI think it be, sir. I deny it not.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nAnd you, sir, for this chain arrested me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANGELO.\nI think I did, sir. I deny it not.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ADRIANA.\nI sent you money, sir, to be your bail\nBy Dromio, but I think he brought it not.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nNo, none by me.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nThis purse of ducats I receiv’d from you,\nAnd Dromio my man did bring them me.\nI see we still did meet each other’s man,\nAnd I was ta’en for him, and he for me,\nAnd thereupon these errors are arose.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThese ducats pawn I for my father here.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nIt shall not need, thy father hath his life.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "COURTESAN.\nSir, I must have that diamond from you.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nThere, take it, and much thanks for my good cheer.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ABBESS.\nRenowned duke, vouchsafe to take the pains\nTo go with us into the abbey here,\nAnd hear at large discoursed all our fortunes;\nAnd all that are assembled in this place,\nThat by this sympathised one day’s error\nHave suffer’d wrong, go, keep us company,\nAnd we shall make full satisfaction.\nThirty-three years have I but gone in travail\nOf you, my sons, and till this present hour\nMy heavy burden ne’er delivered.\nThe duke, my husband, and my children both,\nAnd you, the calendars of their nativity,\nGo to a gossips’ feast, and go with me.\nAfter so long grief, such nativity.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DUKE.\nWith all my heart, I’ll gossip at this feast.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt except the two Dromios and two Brothers.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nMaster, shall I fetch your stuff from shipboard?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF EPHESUS.\nDromio, what stuff of mine hast thou embark’d?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nYour goods that lay at host, sir, in the Centaur.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "ANTIPHOLUS OF SYRACUSE.\nHe speaks to me; I am your master, Dromio.\nCome, go with us. We’ll look to that anon.\nEmbrace thy brother there, rejoice with him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt Antipholus of Syracuse and Antipholus of Ephesus.]",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nThere is a fat friend at your master’s house,\nThat kitchen’d me for you today at dinner.\nShe now shall be my sister, not my wife.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nMethinks you are my glass, and not my brother.\nI see by you I am a sweet-faced youth.\nWill you walk in to see their gossiping?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nNot I, sir, you are my elder.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nThat’s a question, how shall we try it?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF SYRACUSE.\nWe’ll draw cuts for the senior. Till then, lead thou first.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "DROMIO OF EPHESUS.\nNay, then, thus:\nWe came into the world like brother and brother,\nAnd now let’s go hand in hand, not one before another.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "[Exeunt.]",
+              "ref": null
+            }
+          ]
+        }
+      ],
+      "passages": []
+    }
+  ]
+}

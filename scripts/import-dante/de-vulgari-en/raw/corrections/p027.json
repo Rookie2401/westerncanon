@@ -1,0 +1,22 @@
+[
+  {"find": "Let us now inquire why It is that this language Cause", "replace": "Let us now inquire why it is that this language", "note": "OCR misreading of 'it'; trailing 'Cause' is a leftover fragment of the marginal shoulder caption ('Cause of') that the automatic strip missed"},
+  {"find": "has varied into three chief forms, and why variation", "replace": "has varied into three chief forms, and why", "note": "trailing 'variation' is a leftover fragment of the marginal shoulder caption that the automatic strip missed"},
+  {"find": "each of these variations varies in Itself; why,", "replace": "each of these variations varies in itself; why,", "note": "OCR misreading"},
+  {"find": "another) ; and also wiiy those v;ho live nearer", "replace": "another) ; and also why those who live nearer", "note": "OCR misreadings"},
+  {"find": "together still vary In their speech, as the Milanese", "replace": "together still vary in their speech, as the Milanese", "note": "OCR misreading"},
+  {"find": "people of Gacta, those of Ravenna and those of", "replace": "people of Gaeta, those of Ravenna and those of", "note": "OCR misreading"},
+  {"find": "will explain v/hy all these differences and", "replace": "will explain why all these differences and", "note": "OCR misreading"},
+  {"find": "varieties of s])ecch occur.", "replace": "varieties of speech occur.", "note": "OCR misreading"},
+  {"find": "We say, therefore, that no elTcct as such goes,", "replace": "We say, therefore, that no effect as such goes,", "note": "OCR misreading"},
+  {"find": "beyond its cause, because nothing can [^50^", "replace": "beyond its cause, because nothing can [50]", "note": "OCR garbled bracketed number"},
+  {"find": "bring about tliat which itself is not. Since", "replace": "bring about that which itself is not. Since", "note": "OCR misreading"},
+  {"find": "therefore every lan;;u:!ge of ours, except that", "replace": "therefore every language of ours, except that", "note": "OCR misreading"},
+  {"find": "created by God v/ith the first man, has been", "replace": "created by God with the first man, has been", "note": "OCR misreading"},
+  {"find": "which v/as nothing else but tor'.;ctfulncss of the", "replace": "which was nothing else but forgetfulness of the", "note": "OCR misreadings"},
+  {"find": "former language, and 'ince man is a most", "replace": "former language, and since man is a most", "note": "OCR misreading"},
+  {"find": "langirage can be lasting r.nd ^.ontinuous, but", "replace": "language can be lasting and continuous, but", "note": "OCR misreadings"},
+  {"find": "as for instance our nMnncrs and our dress,", "replace": "as for instance our manners and our dress,", "note": "OCR misreading"},
+  {"find": "according to distance of time and place (^60]].", "replace": "according to distance of time and place [60].", "note": "OCR garbled bracketed number"},
+  {"find": "that 8])eech varies * according to difference of", "replace": "that speech varies 'according to difference of", "note": "OCR misreadings"},
+  {"find": "time,' that wc arc of opinion that this is rather", "replace": "time,' that we are of opinion that this is rather", "note": "OCR misreading"}
+]

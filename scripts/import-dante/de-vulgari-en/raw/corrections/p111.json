@@ -1,0 +1,82 @@
+[
+  {
+    "find": "last lines are most beautifully disposed if they Special",
+    "replace": "last lines are most beautifully disposed if they",
+    "note": "removed leaked margin-caption word (Special) at line edge"
+  },
+  {
+    "find": "fall with a rhyme into silence. rules",
+    "replace": "fall with a rhyme into silence.",
+    "note": "removed leaked margin-caption word (rules) at line edge"
+  },
+  {
+    "find": "But in the feet wc must be careful ; and ^^",
+    "replace": "But in the feet we must be careful ; and",
+    "note": "fixed we; removed garbled leftover margin-caption fragment (to the feet)"
+  },
+  {
+    "find": "[here] v;e find that a particular arran.qemcnt has",
+    "replace": "[here] we find that a particular arrangement has",
+    "note": "OCR misread we and arrangement"
+  },
+  {
+    "find": "been observed;^ and, making a distinction, wc",
+    "replace": "been observed; and, making a distinction, we",
+    "note": "removed stray caret; fixed we"
+  },
+  {
+    "find": "may be rhymed and unrliymcd endings. In [the",
+    "replace": "may be rhymed and unrhymed endings. In [the",
+    "note": "OCR misread unrhymed"
+  },
+  {
+    "find": "Nvas said in the next preceding chapter about the",
+    "replace": "was said in the next preceding chapter about the",
+    "note": "OCR misread was"
+  },
+  {
+    "find": "a line of eleven syllables, it answers like an echo. '",
+    "replace": "a line of eleven syllables, it answers like an echo.",
+    "note": "removed stray trailing quote mark not present in print"
+  },
+  {
+    "find": "in one of the feet, it must by all means Ix;",
+    "replace": "in one of the feet, it must by all means be",
+    "note": "OCR misread be"
+  },
+  {
+    "find": "answered by a rhyme in the other. Tvat if all",
+    "replace": "answered by a rhyme in the other. But if all",
+    "note": "OCR misread But"
+  },
+  {
+    "find": "in its entirety ; for instance, if In a first foot of",
+    "replace": "in its entirety ; for instance, if in a first foot of",
+    "note": "fixed spurious capital in 'in'"
+  },
+  {
+    "find": "three lines, the extreme endings, that Is, the first",
+    "replace": "three lines, the extreme endings, that is, the first",
+    "note": "fixed spurious capital in 'is'"
+  },
+  {
+    "find": "nnd last, rhyme together, so the extreme endings",
+    "replace": "and last, rhyme together, so the extreme endings",
+    "note": "OCR misread and"
+  },
+  {
+    "find": "according as ihe middle line in the first foot sees",
+    "replace": "according as the middle line in the first foot sees",
+    "note": "OCR misread the"
+  },
+  {
+    "find": "and combination of the fmal endings, it some-",
+    "replace": "and combination of the final endings, it some-",
+    "note": "OCR misread final"
+  },
+  {
+    "find": "In the verses also wc\nalmost always obey this law",
+    "replace": "In the verses also we\nalmost always obey this law",
+    "note": "OCR misread we"
+  }
+]

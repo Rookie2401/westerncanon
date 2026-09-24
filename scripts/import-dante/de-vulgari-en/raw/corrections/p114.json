@@ -1,0 +1,127 @@
+[
+  {
+    "find": "meant tlie last lines of the stanza forming a couplet",
+    "replace": "meant the last lines of the stanza forming a couplet",
+    "note": "OCR misread the"
+  },
+  {
+    "find": "(above, lines 50-52 in this cliaptcr).",
+    "replace": "(above, lines 50-52 in this chapter).",
+    "note": "OCR misread chapter"
+  },
+  {
+    "find": "82. It sometimes }uif!f>eni, etc. Tluis, for instance, as",
+    "replace": "82. It sometimes happens, etc. Thus, for instance, as",
+    "note": "OCR misread happens and Thus"
+  },
+  {
+    "find": "BiJhmer points ovit, in a stanza consisting of feet and",
+    "replace": "Böhmer points out, in a stanza consisting of feet and",
+    "note": "OCR misread Böhmer and out"
+  },
+  {
+    "find": "verses, wlicre tlie lines of the feet rlvymed according",
+    "replace": "verses, where the lines of the feet rhymed according",
+    "note": "OCR misread where, the, rhymed"
+  },
+  {
+    "find": "to tlic formula ABA: ClfC, if the lines of the verses",
+    "replace": "to the formula ABA: CBC, if the lines of the verses",
+    "note": "OCR misread the and CBC"
+  },
+  {
+    "find": "rhymed according to tlie formula DDE: Fff., the",
+    "replace": "rhymed according to the formula DDE: FFE, the",
+    "note": "OCR misread the and FFE"
+  },
+  {
+    "find": "rule would be o!)servcd ; but if the verses rhymed",
+    "replace": "rule would be observed ; but if the verses rhymed",
+    "note": "OCR misread observed"
+  },
+  {
+    "find": "according to the formula d'E: FEE, tlie rule would",
+    "replace": "according to the formula CFE: FFE, the rule would",
+    "note": "OCR misread formula CFE: FFE and the"
+  },
+  {
+    "find": "r>ot be observed, on account of the first line of the first",
+    "replace": "not be observed, on account of the first line of the first",
+    "note": "OCR misread not"
+  },
+  {
+    "find": "verse being made to rhyme with tlie last line of the",
+    "replace": "verse being made to rhyme with the last line of the",
+    "note": "OCR misread the"
+  },
+  {
+    "find": "tlie verses rhymed according to tlie formula CD ED:",
+    "replace": "the verses rhymed according to the formula CDED:",
+    "note": "OCR misread the (x2) and removed erroneous space in CDED"
+  },
+  {
+    "find": "CDED, the rule would be o!)served ; I)Ut if tlu-y",
+    "replace": "CDED, the rule would be observed ; but if they",
+    "note": "OCR misread observed, but, they"
+  },
+  {
+    "find": "rhymed according to the formula (IDFJl-. CIjp.E,",
+    "replace": "rhymed according to the formula CDED: CDEE,",
+    "note": "OCR badly misread the rhyme formula"
+  },
+  {
+    "find": "tlie rule vvv.iiiii i)\"e oroken, m ortier that the last two",
+    "replace": "the rule would be broken, in order that the last two",
+    "note": "OCR badly misread would be broken, in order"
+  },
+  {
+    "find": "96. ylrn'.r til inJi //<■//, etc. An un rhymed poem",
+    "replace": "96. Amor tu vedi ben, etc. An unrhymed poem",
+    "note": "OCR badly misread the Italian incipit and unrhymed"
+  },
+  {
+    "find": "with five words used as line-endings disj)osed in each",
+    "replace": "with five words used as line-endings disposed in each",
+    "note": "OCR misread disposed"
+  },
+  {
+    "find": "the Sestina (see Cv/ivi-vh, p. 398. Metrical version by",
+    "replace": "the Sestina (see Convivio, p. 398. Metrical version by",
+    "note": "OCR misread Convivio"
+  },
+  {
+    "find": "Plum])tre, reproducing the peculiarities of the",
+    "replace": "Plumptre, reproducing the peculiarities of the",
+    "note": "OCR misread Plumptre"
+  },
+  {
+    "find": "original, Cunzo/iien;, p. ill).",
+    "replace": "original, Canzoniere, p. 112).",
+    "note": "OCR misread Canzoniere and page number 112"
+  },
+  {
+    "find": "97. By eqiiivdcjiinn is meant tlie use of equivocal",
+    "replace": "97. By equivocation is meant the use of equivocal",
+    "note": "OCR misread equivocation and the"
+  },
+  {
+    "find": "rhymes, i.e. wonls rhyming togetlier which are",
+    "replace": "rhymes, i.e. words rhyming together which are",
+    "note": "OCR misread words and together"
+  },
+  {
+    "find": "written and pronornced alike Init have diflerent",
+    "replace": "written and pronounced alike but have different",
+    "note": "OCR misread pronounced, but, different"
+  },
+  {
+    "find": "meanings. A. Daniel made large use of tliis device,",
+    "replace": "meanings. A. Daniel made large use of this device,",
+    "note": "OCR misread this"
+  },
+  {
+    "find": "especially in the canzone q-uoted above, 11. 6: 61.",
+    "replace": "especially in the canzone quoted above, II. 6: 61.",
+    "note": "OCR misread quoted (stray hyphen, not a line-break) and roman numeral II"
+  }
+]

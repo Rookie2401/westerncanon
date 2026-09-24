@@ -1,0 +1,62 @@
+[
+  {
+    "find": "canzone in the technical sense in wliicli Dante",
+    "replace": "canzone in the technical sense in which Dante",
+    "note": "misread which"
+  },
+  {
+    "find": "-_ uses it.]\nMean-\ncanzone' Having prepared the sticks and cords for our",
+    "replace": "uses it.]\nHaving prepared the sticks and cords for our",
+    "note": "removes stray leading glyphs and marginal shoulder-caption leak (\"Mean- ings of 'canzone'\") fused into these lines"
+  },
+  {
+    "find": "faogot, the time is now come to bind it up. But",
+    "replace": "faggot, the time is now come to bind it up. But",
+    "note": "misread faggot"
+  },
+  {
+    "find": "has been said before), is the canzone [lo].",
+    "replace": "has been said before), is the canzone [10].",
+    "note": "misread bracketed number"
+  },
+  {
+    "find": "name, is the action or passion itself of singin^r,",
+    "replace": "name, is the action or passion itself of singing,",
+    "note": "misread singing"
+  },
+  {
+    "find": "just as lecl'io is the passion or action of reading.",
+    "replace": "just as lectio is the passion or action of reading.",
+    "note": "misread lectio"
+  },
+  {
+    "find": "way _[2C], as its author's composition, and",
+    "replace": "way [20], as its author's composition, and",
+    "note": "misread bracketed number"
+  },
+  {
+    "find": "that ^ Virgil says in the first book of the",
+    "replace": "that Virgil says in the first book of the",
+    "note": "stray caret removed"
+  },
+  {
+    "find": "JEne'id, <1 sing of arms and the man.' In",
+    "replace": "Æneid, 'I sing of arms and the man.' In",
+    "note": "misread Æneid; misread opening quote/I"
+  },
+  {
+    "find": "sound; and thus it is a passion. For In the",
+    "replace": "sound; and thus it is a passion. For in the",
+    "note": "wrong capitalisation (OCR)"
+  },
+  {
+    "find": "fiist case it is acted, but in the second it appears",
+    "replace": "first case it is acted, but in the second it appears",
+    "note": "misread first"
+  },
+  {
+    "find": "it is uttered cither by the author or by some one",
+    "replace": "it is uttered either by the author or by some one",
+    "note": "misread either"
+  }
+]

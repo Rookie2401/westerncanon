@@ -1,0 +1,68 @@
+{
+  "workId": "ptolemy-tetrabiblos-grc",
+  "title": "Τετράβιβλος",
+  "author": "Claudius Ptolemy",
+  "language": "grc",
+  "editor": "Frank Egleston Robbins",
+  "edition": "Ptolemy: Tetrabiblos (Robbins, ed. and tr., Loeb Classical Library, Harvard University Press / William Heinemann, 1964 printing)",
+  "provenance": "TEI XML from the Perseus Digital Library / Open Greek and Latin canonical-greekLit repository (CTS urn:cts:greekLit:tlg0363.tlg007.perseus-grc2); imported by scripts/import-ptolemy.",
+  "license": "The ancient Greek text is used here for its public-domain-eligible ancient content (the same licence wording this app already uses for Archimedes/Mugler, Euclid, and the rest of the Aristotle corpus); the digital transcription is distributed under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0), under which it is redistributed here.",
+  "sections": [
+    {
+      "heading": "Ptolemy's Tetrabiblos",
+      "paragraphs": [
+        "This is the Greek text of Τετράβιβλος (conventionally \"Tetrabiblos\").",
+        "The text here is Greek only, verbatim. Nothing is translated, modernised, normalised or silently corrected beyond the documented resolution of the source's own apparatus markup (see \"How it was imported\" below). Where the source is irregular or a genuine judgement call was made, it is preserved/recorded and flagged in \"Known gaps & anomalies\" below."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Per this XML file's own <sourceDesc>: Ptolemy: Tetrabiblos (Robbins, ed. and tr., Loeb Classical Library, Harvard University Press / William Heinemann, 1964 printing).",
+        "No further bibliographic complication was found for this file beyond what is stated above."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is the TEI XML file tlg0363.tlg007.perseus-grc2.xml (CTS urn:cts:greekLit:tlg0363.tlg007.perseus-grc2) from the Perseus Digital Library / Open Greek and Latin canonical-greekLit repository. It was fetched once and is bundled with the app (scripts/import-ptolemy/raw/tlg0363.tlg007.perseus-grc2.xml); nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "The importer's TEI walker (scripts/import-ptolemy/teiWalker.ts) parses this source's own <div type=\"textpart\" subtype=\"book\"/\"chapter\"> nesting directly onto this app's Division scheme: Book -> Chapter (id `book-N`/`book-N-ch-M`, M as the source's own \"chapter\" numbering/labelling - not always a plain integer, see \"Reference scheme\" below). Each Chapter carries exactly one Passage; Passage.text holds ONLY source text - that chapter's own <p> paragraphs (joined by a blank line), plus, for the handful of chapters whose <figure> carries a real numeric table (see \"Diagrams and tables\" below), that table's own row-serialised text. A <figure> with no transcribed content of its own never contributes anything to Passage.text - it is disclosed solely via Passage.figure.",
+        "<del>...</del> (text an editor judged spurious/interpolated, but which the edition still PRINTS, bracketed - the OCT convention) is KEPT verbatim in the reading text, wrapped in square brackets `[...]` (or left unbracketed-but-verbatim on the rare occasion its own printed text already contains a literal bracket); <add>...</add> (an editorial insertion, printed by the edition) is KEPT inline; <note type=\"footnote\"> (critical-apparatus textual variants) and <note type=\"marginal\"> (marginal running-heads) are EXCLUDED entirely (tag and content); <gap reason=\"omitted\"/> (a real lacuna - see \"Material incompleteness\" below) contributes no text; <num>...</num> occurring in ordinary running prose is unwrapped (tag stripped, numeral text kept inline). Every occurrence of all of these is logged in anomalies.json. Entities are decoded and text is NFC-normalised and whitespace-collapsed; the words themselves are otherwise untouched.",
+        "This file's own apparatus includes 0 <del> span(s) and 4 <add> insertion(s) - see anomalies.json for every one, individually."
+      ]
+    },
+    {
+      "heading": "Diagrams and tables",
+      "paragraphs": [
+        "The source TEI carries 2 <figure> marker(s), each at the point in the text the printed edition places a diagram or table. Every one is logged individually in anomalies.json; every CHAPTER that has one or more surfaces a single combined Passage.figure entry for all of them (see data/ptolemy-tetrabiblos-grc/types.ts) - never one entry per marker.",
+        "The remaining 2 marker(s) point only to a <graphic> URL (a page-image scan on archive.org - real, but not a transcription, and never used as a text source) with no transcribed content of their own, and contribute NOTHING to Passage.text. Instead, each affected chapter's Passage.figure.note states how many such diagrams appear there (e.g. \"3 diagrams appear here in the printed edition; not yet available in this build.\") together with an exact citation (e.g. \"Robbins, Tetrabiblos Book N.M\") and a \"Scan page(s): ...\" list of every one of that chapter's <graphic url=\"...\"/> values (table-bearing figures' scan pages are listed too, alongside the diagram-only ones) - so a later diagram-import phase can fetch exactly the right archive.org pages. No image is fabricated, redrawn or reconstructed."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "This source carries no inline citation scheme this importer builds a Division.ref from (this witness carries zero-width <milestone unit=\"Camerarius_2ed_page\"/> position markers for an alternate 16th-century print edition's pagination, which contribute no text and are not used to build a citation - Division.ref and Passage.ref are null throughout). Citation here is by Book and Chapter number alone, exactly as this edition itself numbers/labels them.",
+        "Book 4's final chapter is printed TWICE, as two alternative endings drawn from different manuscripts: `book-4-ch-10a` (\"Conclusion according to Parisinus 2425\") and `book-4-ch-10b` (\"Conclusion according to MADProc.Cam.\"). Both are kept, verbatim, as their own chapters - neither is preferred over the other."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "All 4 Book(s) and 63 Chapter(s) and 63 Passage(s) (242956 characters of Greek reading text) present in this source were imported; nothing was dropped except the documented apparatus exclusions above, and no paragraph was reordered or merged beyond the documented Book/Chapter folding.",
+        "Apparatus counts: 0 <del> span(s) kept bracketed, 4 <add> insertion(s) kept inline, 0 <gap> lacuna(e) excluded (see \"Material incompleteness\" above), 0 footnote <note>(s) excluded, 0 marginal <note>(s) excluded, 2 <figure> diagram marker(s) with no source text (disclosed via Passage.figure only), 0 <figure> table marker(s) kept as 0 row(s) of verbatim table text in Passage.text.",
+        "See anomalies.json for the complete, individually-logged, machine-readable account of every exclusion/inclusion and structural irregularity in this file.",
+        "Other works researched for this import batch but NOT included in this build (see scripts/import-ptolemy/workTable.ts for the full citation trail):",
+        "Geographia (Greek): No machine-readable transcription exists in First1KGreek or PerseusDL/canonical-greekLit; the Perseus Catalog bibliographic record (tlg0363.tlg014, Nobbe 1843-45) links only to HathiTrust/Google Books page-image scans (\"digitized other analog\"), and even that print record covers only Books IV-VIII of 8. OCR of a coordinate-table-heavy mathematical Greek text is not acceptable per policy.",
+        "Harmonics (Harmonica): First1KGreek's tlg0363.tlg011 (\"Musica\") is not the work: direct inspection shows a 13-page (pb 411-423), 27-paragraph excerpt/testimonia fragment from the back matter of von Jan's 1895 composite volume, with Latin editorial prose embedded directly in the running text and no book/chapter structure at all - not a transcription of the actual 3-book Harmonics. No other transcription was found.",
+        "Optics (Latin, ed. Lejeune 1956): The Greek original is lost; Lejeune's 1956 Latin edition (from a 12th-century Latin translation of a lost Arabic version) has no known digital transcription anywhere.",
+        "Planetary Hypotheses: Edited in Heiberg's Opera astronomica minora (1907); no digital transcription found, only page-image scans of the printed volume on the Internet Archive.",
+        "Phaseis (Phases of the Fixed Stars): Edited in Heiberg's Opera astronomica minora (1907); no digital transcription found, only page-image scans of the printed volume on the Internet Archive."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "find": "The courtly, and curial vernacular language in Italy",
+    "replace": "courtly, and curial vernacular language in Italy",
+    "note": "remove leftover margin-caption fragment \"The\" at line start"
+  },
+  {
+    "find": "standard to be that which belongs to all [60] the towns",
+    "replace": "to be that which belongs to all [60] the towns",
+    "note": "remove leftover margin-caption fragment \"standard\" at line start"
+  },
+  {
+    "find": "ofl^^ in Italy but docs not appear to belong to any",
+    "replace": "in Italy but does not appear to belong to any",
+    "note": "remove garbled leftover margin-caption fragment; fix \"docs\"->\"does\""
+  },
+  {
+    "find": "one of them, and by which all the municij»al",
+    "replace": "one of them, and by which all the municipal",
+    "note": "OCR misread \"municipal\""
+  },
+  {
+    "find": "2-5. 'Tlie pantlier hy its fragrant brt-atli attracts",
+    "replace": "2-5. 'The panther by its fragrant breath attracts",
+    "note": "OCR misread multiple words"
+  },
+  {
+    "find": "other animals to itself, wlieri it wishes to feed, and",
+    "replace": "other animals to itself, when it wishes to feed, and",
+    "note": "OCR misread \"when\""
+  },
+  {
+    "find": "devours those it chooses ' (Benveniito da Imola).",
+    "replace": "devours those it chooses' (Benvenuto da Imola).",
+    "note": "OCR misread \"Benvenuto\""
+  },
+  {
+    "find": "10. Compare De Monarc/ih, 111. ! 2 : 2 If.",
+    "replace": "10. Compare De Monarchia, III. 12 : 2 ff.",
+    "note": "OCR misread italic title, roman numeral, and \"ff.\""
+  },
+  {
+    "find": "De ATonarch'tj, III. 12 : 1-3 in this volume. < Substance'",
+    "replace": "De Monarchia, III. 12 : 1-3 in this volume. 'Substance'",
+    "note": "OCR misread italic title and opening quote"
+  },
+  {
+    "find": "has two meanin<^s. (jj As the first of the predica-",
+    "replace": "has two meanings. (a) As the first of the predica-",
+    "note": "OCR misread \"meanings\"/\"(a)\""
+  },
+  {
+    "find": "ments it means individual existence in tlie abstract.",
+    "replace": "ments it means individual existence in the abstract.",
+    "note": "OCR misread \"the\""
+  },
+  {
+    "find": "(^b) It also means some individual thing existing on",
+    "replace": "(b) It also means some individual thing existing on",
+    "note": "OCR misread \"(b)\""
+  },
+  {
+    "find": "37. 'Cu//oOT/,' or perhaps 'dress,' as t lie word (//i--^////.')",
+    "replace": "37. 'Customs,' or perhaps 'dress,' as the word (habitus)",
+    "note": "OCR misread italic word \"Customs\" and \"habitus\""
+  },
+  {
+    "find": "is tran>5lated above, 9 : 58, 90, and below, II. i : 37.",
+    "replace": "is translated above, 9 : 58, 90, and below, II. 1 : 37.",
+    "note": "OCR misread \"translated\" and line-reference digit"
+  },
+  {
+    "find": "The Italian eqviivalent, aLito, is used in this sense in",
+    "replace": "The Italian equivalent, abito, is used in this sense in",
+    "note": "OCR misread \"equivalent\"/\"abito\""
+  },
+  {
+    "find": "Jnffrnn, XV!. 8, and Purfr.itorio, XXIX. 1 34.",
+    "replace": "Inferno, XVI. 8, and Purgatorio, XXIX. 134.",
+    "note": "OCR misread italic titles and page number"
+  },
+  {
+    "find": "dialects in Italy, is in fact mainly based on the speecli",
+    "replace": "dialects in Italy, is in fact mainly based on the speech",
+    "note": "OCR misread \"speech\""
+  },
+  {
+    "find": "of Tuscany, wliich he so bitterly derides. As Gaspary",
+    "replace": "of Tuscany, which he so bitterly derides. As Gaspary",
+    "note": "OCR misread \"which\""
+  },
+  {
+    "find": "very well puts it (rip. cit., 257) : ' Nowadays we also",
+    "replace": "very well puts it (op. cit., 257) : 'Nowadays we also",
+    "note": "OCR misread \"op. cit.\""
+  },
+  {
+    "find": "language ; but at the same time we recognise tliat",
+    "replace": "language ; but at the same time we recognise that",
+    "note": "OCR misread \"that\""
+  },
+  {
+    "find": "dialects is very various, that tliis liteiary language is",
+    "replace": "dialects is very various, that this literary language is",
+    "note": "OCR misread \"this literary\""
+  },
+  {
+    "find": "ba»ed on one of tliese dialects, from wliicli it arose by",
+    "replace": "based on one of these dialects, from which it arose by",
+    "note": "OCR misread \"based\"/\"these\"/\"which\""
+  },
+  {
+    "find": "distinguished from the others by its plionetics and",
+    "replace": "distinguished from the others by its phonetics and",
+    "note": "OCR misread \"phonetics\""
+  },
+  {
+    "find": "to draw this distinction, the distinction, between",
+    "replace": "to draw this distinction, the distinction between",
+    "note": "stray extra comma removed"
+  },
+  {
+    "find": "linyuj, and did not recognise that tlie literary language",
+    "replace": "lingua, and did not recognise that the literary language",
+    "note": "OCR misread \"lingua\"/\"the\""
+  },
+  {
+    "find": "of the divergencies detected by him,'",
+    "replace": "of the divergencies detected by him.'",
+    "note": "trailing comma should be full stop before closing quote"
+  }
+]

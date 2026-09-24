@@ -1,0 +1,167 @@
+[
+  {
+    "find": "be harmonised in the lines with combed-out Of",
+    "replace": "be harmonised in the lines with combed-out",
+    "note": "removes marginal shoulder-caption leak (\"Of\") at line-end"
+  },
+  {
+    "find": "words, we leave to be taught farther on. And choice",
+    "replace": "words, we leave to be taught farther on. And",
+    "note": "removes marginal shoulder-caption leak (\"choice\") at line-end"
+  },
+  {
+    "find": "what has been said [here] on the pre-eminent ^",
+    "replace": "what has been said [here] on the pre-eminent",
+    "note": "stray caret removed"
+  },
+  {
+    "find": "8-17. See Prof. Saiutsbury's interesting remarks on",
+    "replace": "8-17. See Prof. Saintsbury's interesting remarks on",
+    "note": "misread Saintsbury's"
+  },
+  {
+    "find": "this classification of WorcJh (^Hhtorif of Crilichm, II.",
+    "replace": "this classification of words (History of Criticism, II.",
+    "note": "misread words/History of Criticism"
+  },
+  {
+    "find": "439-440-",
+    "replace": "439-440).",
+    "note": "trailing hyphen should be close-paren + period"
+  },
+  {
+    "find": "19. Compare Jn/cmo, XXIV. 47-51 ; Psulmt",
+    "replace": "19. Compare Inferno, XXIV. 47-51 ; Psalms",
+    "note": "misread Inferno/Psalms"
+  },
+  {
+    "find": "XXXVII. 20; LXVllI. 2.",
+    "replace": "XXXVII. 20; LXVIII. 2.",
+    "note": "misread LXVIII"
+  },
+  {
+    "find": "36, Corpo occurs in line 15 of tlie canzone 'Amor",
+    "replace": "36. Corpo occurs in line 15 of the canzone 'Amor",
+    "note": "misread punctuation/the"
+  },
+  {
+    "find": "tu veJi len^ wliich Dante quotes with so much com-",
+    "replace": "tu vedi ben,' which Dante quotes with so much com-",
+    "note": "misread vedi ben,'/which"
+  },
+  {
+    "find": "placency I)clo\\v, 13: 90 \\\\.",
+    "replace": "placency below, 13: 90 ff.",
+    "note": "misread below/ff."
+  },
+  {
+    "find": "was in many cases heart!. In excludinj^ words with",
+    "replace": "was in many cases heard. In excluding words with",
+    "note": "misread heard/excluding"
+  },
+  {
+    "find": "accented vowel (f>.v//.'0A'./), like verlu, securita. In ex-",
+    "replace": "accented vowel (oxytona), like vertù, securità. In ex-",
+    "note": "misread oxytona/vertù/securità"
+  },
+  {
+    "find": "cluding words with circumfiex accent he excludes",
+    "replace": "cluding words with circumflex accent he excludes",
+    "note": "misread circumflex"
+  },
+  {
+    "find": "words ending in a consonant whose last sylhihle",
+    "replace": "words ending in a consonant whose last syllable",
+    "note": "misread syllable"
+  },
+  {
+    "find": "contains a long vowel {puispomcri) like Jonar, The",
+    "replace": "contains a long vowel (perispomena) like donar. The",
+    "note": "misread perispomena/donar"
+  },
+  {
+    "find": "alternative forms vertute^ tecuritate, dofinre, are (Pjiven",
+    "replace": "alternative forms vertute, securitate, donare, are given",
+    "note": "misread securitate/donare/given"
+  },
+  {
+    "find": "among tlie succeeding examples as fulfilling the re-",
+    "replace": "among the succeeding examples as fulfilling the re-",
+    "note": "misread the"
+  },
+  {
+    "find": "quired conditions (Uolimer). It must be remembered",
+    "replace": "quired conditions (Böhmer). It must be remembered",
+    "note": "misread Böhmer"
+  },
+  {
+    "find": "that I)y tlie Latins (wljom Dante would follow) / and",
+    "replace": "that by the Latins (whom Dante would follow) l and",
+    "note": "misread by/the/whom/l"
+  },
+  {
+    "find": "rwere alone rcgardev! as liquids, as appears from the",
+    "replace": "r were alone regarded as liquids, as appears from the",
+    "note": "misread r were/regarded"
+  },
+  {
+    "find": "Et'jmoicrifs of St Isidore (I. 4, 9), where he states",
+    "replace": "Etymologies of St Isidore (I. 4, 9), where he states",
+    "note": "misread Etymologies"
+  },
+  {
+    "find": "that tlie Greeks counted m and n also as li<iuids.",
+    "replace": "that the Greeks counted m and n also as liquids.",
+    "note": "misread the/liquids"
+  },
+  {
+    "find": "45. Planed {Joljt<i^ where the Oxford Dante reads",
+    "replace": "45. Planed (dolata, where the Oxford Dante reads",
+    "note": "misread dolata"
+  },
+  {
+    "find": "lociliiin). So A. Daniel in one of his poems (X. 1,",
+    "replace": "locutam). So A. Daniel in one of his poems (X. 1,",
+    "note": "misread locutam"
+  },
+  {
+    "find": "miglit- also be the 3rd. sing. pres. ind. of avere and",
+    "replace": "might also be the 3rd. sing. pres. ind. of avere and",
+    "note": "stray hyphen / misread might"
+  },
+  {
+    "find": "etitre resju'Ctively ; / would be a shortened form of the",
+    "replace": "essere respectively ; i would be a shortened form of the",
+    "note": "misread essere/respectively/i"
+  },
+  {
+    "find": "pronoun to; 0 the adverb meaning 'or* ; « is a parallel",
+    "replace": "pronoun io; o the adverb meaning 'or' ; u is a parallel",
+    "note": "misread io/o/asterisk misread of closing quote/u"
+  },
+  {
+    "find": "form of &t; (where); / and u do not seem to be strictly",
+    "replace": "form of ove (where); i and u do not seem to be strictly",
+    "note": "misread ove/i"
+  },
+  {
+    "find": "'inevitable* like the other vowels.",
+    "replace": "'inevitable' like the other vowels.",
+    "note": "asterisk misread of closing quote"
+  },
+  {
+    "find": "70. Griimnur, i.e. Latin. See above, I. i : xS/r. ; I.",
+    "replace": "70. Grammar, i.e. Latin. See above, I. 1: 28n. ; I.",
+    "note": "misread Grammar/citation"
+  },
+  {
+    "find": "9: ioi/». Jhnoiifciil/tlilnJinitjliLus, the thirteen-syllabled",
+    "replace": "9: 101n. Honorificabilitudinitatibus, the thirteen-syllabled",
+    "note": "misread citation/Honorificabilitudinitatibus"
+  },
+  {
+    "find": "into Loves Liihurs Let, Act V., sc. i.",
+    "replace": "into Love's Labour's Lost, Act V., sc. i.",
+    "note": "misread Love's Labour's Lost"
+  }
+]

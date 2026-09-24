@@ -1,0 +1,10 @@
+[
+  {
+    "where": "shakespeare-sonnets-en/sonnet-99",
+    "note": "this sonnet has 15 printed lines, not the usual 14 (kept exactly as printed - a known textual peculiarity for some sonnets in this edition)."
+  },
+  {
+    "where": "shakespeare-sonnets-en/sonnet-126",
+    "note": "this sonnet has 12 printed lines, not the usual 14 (kept exactly as printed - a known textual peculiarity for some sonnets in this edition)."
+  }
+]

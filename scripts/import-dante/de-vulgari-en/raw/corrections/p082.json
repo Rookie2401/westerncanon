@@ -1,0 +1,22 @@
+[
+  {"find": "should virtue of another understood there. The king", "replace": "virtue of another understood there. The king", "note": "removed leaked margin caption"},
+  {"find": ".P^^\" of Navarre writes : —", "replace": "of Navarre writes : —", "note": "removed leaked margin caption"},
+  {"find": "the * Dc Jine Amor si vient sen et houte^ ^ where,", "replace": "'De fine Amor si vient sen et bonté,' 1 where,", "note": "garbled Old French quotation; removed leaked margin caption"},
+  {"find": "stanza '^ ^^ accent and its cause be considered [^403", "replace": "if the accent and its cause be considered [40]", "note": "garbled line; removed leaked margin caption"},
+  {"find": "the Hne will be found to have eleven syllables.", "replace": "the line will be found to have eleven syllables.", "note": "OCR misread 'line'"},
+  {"find": "* Al cor geritil repara sewpre ArnoreJ* ^", "replace": "'Al cor gentil repara sempre Amore.' 2", "note": "garbled Italian quotation and footnote mark"},
+  {"find": "The Judge [GuidoJ delle Colonne of Mes-", "replace": "The Judge [Guido] delle Colonne of Mes-", "note": "OCR misread bracket"},
+  {"find": "* Amor che lunguimente rn at mcnalo.^ ^", "replace": "'Amor che lungiamente m' ài menato.' 3", "note": "garbled Italian quotation and footnote mark"},
+  {"find": "* Per fitio nmore vo si lelamenleJ' ^", "replace": "'Per fino amore vo sì letamente.' 4", "note": "garbled Italian quotation and footnote mark"},
+  {"find": "* Non spero che g'ui mm per vna salute,* ^", "replace": "'Non spero che già mai per mia salute.' 5", "note": "garbled Italian quotation and footnote mark"},
+  {"find": "[[503 * Amor che mov'i itia vertu da c'lelo.^", "replace": "[50] 'Amor che movi tua vertù da cielo.'", "note": "garbled bracket and Italian quotation"},
+  {"find": "brity. After tliis we place the line of five,", "replace": "brity. After this we place the line of five,", "note": "OCR misread 'this'"},
+  {"find": "and [603 then that of three syllables. But", "replace": "and [60] then that of three syllables. But", "note": "OCR misread bracketed number"},
+  {"find": "\"■'^-. to consist of the line of three taken three", "replace": "to consist of the line of three taken three", "note": "removed stray leading marks"},
+  {"find": "\\ times, was either never held in honour or fell", "replace": "times, was either never held in honour or fell", "note": "removed stray leading mark"},
+  {"find": "\\ 1 See above, p. 26.", "replace": "1 See above, p. 26.", "note": "removed stray leading mark"},
+  {"find": "2 t I'o ti,e gentle heart love ever files for shelter.'", "replace": "2 'To the gentle heart love ever flies for shelter.'", "note": "OCR misread footnote text"},
+  {"find": "^ See above, p. 3S.", "replace": "3 See above, p. 38.", "note": "OCR misread footnote number and page"},
+  {"find": "* See above, p. 40.", "replace": "4 See above, p. 40.", "note": "OCR misread footnote number"},
+  {"find": "^ ' I have no hope that e'er for my well-being.*", "replace": "5 'I have no hope that e'er for my well-being.'", "note": "OCR misread footnote number and closing quote"}
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "find": "J30T, when the latter, •unnrmed, save with the lance",
+    "replace": "1301, when the latter, ' unarmed, save with the lance",
+    "note": "misread 1301; stray glyph misread of opening quote/unarmed"
+  },
+  {
+    "find": "wiicrewith Jutlas tilted' (Furj^ulorio, XX. 73), waj",
+    "replace": "wherewith Judas tilted' (Purgatorio, XX. 73), was",
+    "note": "misread wherewith/Judas/Purgatorio/was"
+  },
+  {
+    "find": "journeyinj^ to Tuscany. Azzo entertained him and",
+    "replace": "journeying to Tuscany. Azzo entertained him and",
+    "note": "misread journeying"
+  },
+  {
+    "find": "his suite in the most princely style, and with * praise-",
+    "replace": "his suite in the most princely style, and with 'praise-",
+    "note": "asterisk misread of opening quote mark"
+  },
+  {
+    "find": "florins — which was never repaid (Prompt, Traite de",
+    "replace": "florins — which was never repaid (Prompt, Traité de",
+    "note": "missing accent"
+  },
+  {
+    "find": "r Ehquence vul^aire, p. 26). In view of the opinion",
+    "replace": "l'Éloquence vulgaire, p. 26). In view of the opinion",
+    "note": "misread l'Éloquence/vulgaire"
+  },
+  {
+    "find": "of Az20 expressed above (I. ii: 38), this second",
+    "replace": "of Azzo expressed above (I. 12: 38), this second",
+    "note": "misread Azzo; misread section number"
+  },
+  {
+    "find": "by the curious words *o/\" some itlto tuive taken a",
+    "replace": "by the curious words 'of some who have taken a",
+    "note": "asterisk misread of opening quote; misread of/who/have"
+  },
+  {
+    "find": "iIuiUoiv drau^lit of rhetoric,'' wliich precede it. In",
+    "replace": "shallow draught of rhetoric,' which precede it. In",
+    "note": "misread shallow/draught; doubled quote mark; misread which"
+  },
+  {
+    "find": "the third sentence the allusion to Charles of Valois*",
+    "replace": "the third sentence the allusion to Charles of Valois'",
+    "note": "asterisk misread of apostrophe"
+  },
+  {
+    "find": "infamous overthrow of tlie government of the Bianchi",
+    "replace": "infamous overthrow of the government of the Bianchi",
+    "note": "misread the"
+  },
+  {
+    "find": "at Florence an<I his ij^nominious expedition to Sicily",
+    "replace": "at Florence and his ignominious expedition to Sicily",
+    "note": "misread and/ignominious"
+  },
+  {
+    "find": "('I'rinacria) is too plain to be mistaken. In Dante's",
+    "replace": "(Trinacria) is too plain to be mistaken. In Dante's",
+    "note": "misread Trinacria"
+  },
+  {
+    "find": "time Totila was believed to liave destroyed Florence,",
+    "replace": "time Totila was believed to have destroyed Florence,",
+    "note": "misread have"
+  },
+  {
+    "find": "!I. 14: 177), which in the poet's 0])inion Charles of",
+    "replace": "II. 14: 177), which in the poet's opinion Charles of",
+    "note": "misread II/opinion"
+  },
+  {
+    "find": "55. Solire-ioiz (lit., above all) is a nickname,",
+    "replace": "55. Sobre-totz (lit., above all) is a nickname,",
+    "note": "misread Sobre-totz"
+  },
+  {
+    "find": "such as the troubadours frccjuently used, under",
+    "replace": "such as the troubadours frequently used, under",
+    "note": "misread frequently"
+  },
+  {
+    "find": "which Giraut de Borneil addresses Eernart de",
+    "replace": "which Giraut de Borneil addresses Bernart de",
+    "note": "misread Bernart"
+  },
+  {
+    "find": "Rovi^na (fl; 11 97), a Gascon nobleman and an",
+    "replace": "Rovigna (fl. 1197), a Gascon nobleman and an",
+    "note": "misread Rovigna/date"
+  },
+  {
+    "find": "59. On FoUpiet, see ParjiUso, IX. 94/;.",
+    "replace": "59. On Folquet, see Paradiso, IX. 94n.",
+    "note": "misread Folquet/Paradiso/note number"
+  },
+  {
+    "find": "some time at t!)o court of Raymond Berenp;er IV.,",
+    "replace": "some time at the court of Raymond Berenger IV.,",
+    "note": "misread the/Berenger"
+  },
+  {
+    "find": "65. A. de Pep;ul!ian was son of a merchant of",
+    "replace": "65. A. de Pegulhan was son of a merchant of",
+    "note": "misread Pegulhan"
+  },
+  {
+    "find": "coveretl the central part of the thirteenth century.",
+    "replace": "covered the central part of the thirteenth century.",
+    "note": "misread covered"
+  },
+  {
+    "find": "Amonjj his ])atrons were Raymond VI., count of",
+    "replace": "Among his patrons were Raymond VI., count of",
+    "note": "misread Among/patrons"
+  },
+  {
+    "find": "Toulouse, Peter II. of Araj^on, Alfonso VIII. of",
+    "replace": "Toulouse, Peter II. of Aragon, Alfonso VIII. of",
+    "note": "misread Aragon"
+  },
+  {
+    "find": "57. Ire a'atnor, etc. (It will be noticed that tliis",
+    "replace": "57. Ire d'amor, etc. (It will be noticed that this",
+    "note": "misread d'amor/this"
+  },
+  {
+    "find": "from (Jiraut dc Borneil, in Rajna's text follows th;\\^",
+    "replace": "from Giraut de Borneil, in Rajna's text follows that",
+    "note": "misread Giraut/de/that"
+  },
+  {
+    "find": "among^ the later troubadours. His poetic career",
+    "replace": "among the later troubadours. His poetic career",
+    "note": "stray caret removed"
+  }
+]

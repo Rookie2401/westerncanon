@@ -1,0 +1,8 @@
+{
+  "divisions": {},
+  "reportLines": [
+    { "division": "archimedes-plane-equilibrium-book-1-ch-10", "markerIndex": 1, "leaf": 202, "printedPage": "166-168", "result": "no printed figure", "notes": "Book I prop.10's second marker (the 'ΑΛΛΩΣ' / alternate proof). FRESHLY RE-VERIFIED this session: leaf202/p.166 shows the main proof's diagram (rectangle ABΓΔ, center Θ) then the ΑΛΛΩΣ heading begins immediately below in pure text; leaf204/p.168 continues and concludes the ΑΛΛΩΣ proof in pure text, then proposition 11 (ια') begins with its own fresh diagram. No diagram anywhere in the ΑΛΛΩΣ proof. This matches the EXISTING convert.ts entry, which already carries an explicit `null` for this division's second marker - independently confirmed correct, no change needed." },
+    { "division": "archimedes-plane-equilibrium-book-2-ch-10", "markerIndex": 0, "leaf": 264, "printedPage": "228-238", "result": "no printed figure", "notes": "Book II prop.10 (ι'), the work's FINAL proposition. FRESHLY RE-VERIFIED this session by viewing every page of its proof: leaf264/p.228 (heading + enunciation), leaf266/p.230, leaf268/p.232, leaf270/p.234, leaf272/p.236, leaf274/p.238 (proof concludes 'ὅπερ ἔδει δεῖξαι'-equivalent QED and the work ends - rest of page blank, no further heading). All six pages are pure algebraic/ratio text; no diagram anywhere. This division currently has NO entry in convert.ts's DIAGRAMS map at all, so its marker shows the generic 'not yet available' note - confirmed this is a genuine absence, not an unsourced gap; no image exists to add." }
+  ],
+  "failures": []
+}

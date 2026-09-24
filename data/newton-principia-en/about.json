@@ -1,0 +1,74 @@
+{
+  "workId": "newton-principia-en",
+  "title": "The Mathematical Principles of Natural Philosophy",
+  "author": "Isaac Newton",
+  "language": "en",
+  "translator": "Andrew Motte (1729)",
+  "editor": "N. W. Chittenden (1846 American edition)",
+  "edition": "The Mathematical Principles of Natural Philosophy, translated by Andrew Motte (1729) from the 3rd Latin edition (1726, ed. Henry Pemberton), \"A New Edition, Carefully Revised and Corrected, with a Life of the Author, by N. W. Chittenden\" (New York: Daniel Adee, 1846)",
+  "provenance": "English Wikisource, page \"The Mathematical Principles of Natural Philosophy (1846)\" and its subpages (a proofread page-scan transclusion of djvu \"Newton's Principia (1846).djvu\"), fetched once via the MediaWiki action=parse&prop=text API and cached under scripts/import-newton/raw/en/; imported by scripts/import-newton.",
+  "license": "Motte's 1729 translation and this 1846 revision are both in the public domain. The digital transcription (a proofread page-scan of a public-domain copy) is distributed by Wikisource / the Wikimedia Foundation under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is Andrew Motte's 1729 English translation of the Principia - the first, and for a very long time the only, complete English version - as revised for \"the first American edition,\" edited with a biographical Life of Newton by N. W. Chittenden and published by Daniel Adee in 1846. It translates the THIRD Latin edition (1726, ed. Henry Pemberton), so - unlike data/newton-principia-la, the 1687 first edition - it includes the General Scholium (added 1713) and Book III's four \"Rules of Reasoning in Philosophy\" plus separately-numbered \"Phaenomena\" (the 1713-onward reorganisation of the first edition's nine \"Hypotheses\").",
+        "NOTE on Gutenberg #28233: that Project Gutenberg edition of Motte's Principia carries Book I ONLY (its own file explicitly ends after Book I) - it is not a complete text. This import uses English Wikisource's page-scan transcription of the 1846 edition instead, which is complete through Book III and the General Scholium (see \"The edition\" below for exactly what is and is not included)."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Isaac Newton, The Mathematical Principles of Natural Philosophy, translated by Andrew Motte (London, 1729); this text is the 1846 American revision, \"A New Edition, Carefully Revised and Corrected, with a Life of the Author, by N. W. Chittenden\" (New York: Daniel Adee, 1846).",
+        "This import covers the Principia proper: Newton's own Author's Preface; Definitions (8); Axioms, or Laws of Motion (3 Laws + 6 Corollaries); Book I (14 Sections, 98 Propositions, 29 Lemmas); Book II (9 Sections, 53 Propositions, 7 Lemmas); Book III (Rules of Reasoning in Philosophy - 4 Rules; Phaenomena - 6; then 42 Propositions and 11 Lemmas, with 2 of the first edition's original Hypotheses surviving under that name); and the General Scholium. Two further items this 1846 volume prints AFTER the Principia proper - \"The System of the World\" (a separate popular treatise Newton wrote) and the volume's own back-of-book Index - are NOT part of the Principia's own text and are not imported here."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is English Wikisource's proofread page-scan transclusion of a public-domain copy of the 1846 edition (djvu \"Newton's Principia (1846).djvu\"; page quality levels inspected were \"4\" - validated twice). Every page used by this import was fetched once (rendered HTML, for the same reason as the Latin edition - see data/newton-principia-la/about.json) and is cached under scripts/import-newton/raw/en/; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "Excluded front matter (this edition's own, not Newton's)",
+      "paragraphs": [
+        "This 1846 volume's own \"Dedication\" page (fetched and inspected: the editors dedicate this printing \"TO THE TEACHERS OF THE NORMAL SCHOOL OF THE STATE OF NEW-YORK\") is Chittenden and Adee's own modern dedication of their edition, not Newton's, and not part of any edition Newton prepared himself. Per this import's brief, only the author's/edition's own historical front matter is imported; this 1846-specific editorial dedication is excluded and disclosed rather than silently imported as if it were Newton's own words. The volume's \"Introduction to the American Edition\" and \"Life of Sir Isaac Newton\" are, even more clearly, the editors' own modern biographical/editorial matter and were never fetched at all."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Structurally identical to data/newton-principia-la (see that work's \"How it was imported\" for the full account of the shared parser); this English edition renders its centred headings as font-size-styled `<span>`s rather than the Latin edition's plain centred `<p>`s, and prints its running corollaries in small caps (\"COR. 1.\") rather than italics - both handled by the same shared classifier (scripts/import-newton/classify.ts). One markup irregularity specific to this source, confirmed and corrected: Axioms Corollary IV prints its heading `<span>` directly inside its centring `<div>` with no wrapping `<p>` at all (every other Corollary on that page does wrap it) - recovered explicitly rather than silently dropping that Corollary.",
+        "Book III's structure differs from Book I/II's: the source itself has no numbered Sections in Book III, only a Rules-of-Reasoning group, a Phaenomena group, and then a flat run of Hypotheses/Lemmas/Propositions across six page-scan chunks (fetched as separate Wikisource subpages, \"BookIII-Prop1\" through \"-Prop6\", concatenated here in document order) - reflected directly in the Division tree (book-3-rules, book-3-phaenomena, then flat siblings), never forced into a false Section structure the source does not have."
+      ]
+    },
+    {
+      "heading": "Mathematical notation",
+      "paragraphs": [
+        "Identical convention to data/newton-principia-la: MathML fractions/roots/superscripts/subscripts and this source's plain HTML `<sup>`/`<sub>` exponents are all flattened to the same fixed ASCII notation (\"x^y\", \"x_y\", \"(a/b)\", \"sqrt(...)\", \"root(x,n)\"). See that work's about.json for the full statement; nothing is evaluated or re-derived here either."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book, Section/group (where the source has one) and the item's own printed number. This source carries no finer page/line milestone marker inside the running text, so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Diagrams",
+      "paragraphs": [
+        "Identical convention and disclosure to data/newton-principia-la: this source carries a real scanned diagram image at every marked point, but every diagram is deferred uniformly to a later phase - each such Passage carries a `figure` field with the \"not yet available\" note and a citation, and every marker is logged individually in anomalies.json."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. Newton's Author's Preface, all 8 Definitions, all 3 Laws of Motion and their 6 Corollaries, all 14 Sections of Book I (98 Propositions, 29 Lemmas), all 9 Sections of Book II (53 Propositions, 7 Lemmas), Book III's 4 Rules, 6 Phaenomena, 2 surviving Hypotheses, 42 Propositions and 11 Lemmas, and the General Scholium are all present, matching this edition's own printed numbering exactly.",
+        "Relation to the Latin first edition. See data/newton-principia-la/about.json's \"Known gaps & anomalies\" for the two most notable textual differences confirmed by comparing the two independently-parsed editions: this (later) edition has a Proposition XIV in Book II Section III/IV where the 1687 first edition has a genuine printed numbering gap: skipping straight from XIII to XV; and this edition's Book III opens with the four-rule \"Regulae Philosophandi\" and separately-numbered \"Phaenomena\" (with 2 of the original 9 Hypotheses surviving under that name) where the first edition has nine undifferentiated \"Hypotheses\" instead.",
+        "Excluded editorial front matter. See the dedicated section above: this 1846 printing's own Dedication, Introduction to the American Edition, and Life of Sir Isaac Newton are the editors' own modern matter, not Newton's, and are excluded.",
+        "Excluded appended matter. \"The System of the World\" (a separate Newton treatise this volume also happens to print) and the volume's back-of-book Index are not part of the Principia's own text and are not imported here.",
+        "Diagrams and mathematical notation. See the dedicated sections above."
+      ]
+    }
+  ]
+}

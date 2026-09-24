@@ -1,0 +1,44 @@
+{
+  "workId": "dante-de-vulgari-eloquentia-la",
+  "title": "De Vulgari Eloquentia",
+  "author": "Dante Alighieri",
+  "language": "la",
+  "editor": "Giovanni Battista Giuliani",
+  "edition": "Le Opere Latine di Dante Allighieri, Vol. I (Firenze: Successori Le Monnier, 1878)",
+  "provenance": "Latin Wikisource, page-scan transclusion of the djvu \"Alighieri, Giuliani - Opere latine vol I - 1878.djvu\", pages \"De Vulgari Eloquentia/Liber I\" and \"/Liber II\" (la.wikisource.org), fetched once via the MediaWiki action=parse API (rendering each book's full `<pages .../>` transclusion in one request) and cached under scripts/import-dante/de-vulgari-la/raw/. Nothing is downloaded at build or run time. The page's own {{titulus2}} header states \"Recensor=Ioannes Baptista Iuliani | Editio = ex Le Opere Latine di Dante Allighieri, Vol. I, Firenze, Successori Le Monnier, 1878\". Imported by scripts/import-dante/de-vulgari-la.",
+  "license": "Dante's Latin original (c. 1303-05, unfinished) is in the public domain worldwide, as is Giuliani's 1878 edition. The Wikisource digital transcription/proofreading is released under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Dante's De Vulgari Eloquentia (\"On Eloquence in the Vernacular\"), his unfinished Latin treatise on the Italian vernacular and the art of lyric poetry, in Giovanni Battista Giuliani's 1878 edition - part of his complete edition of Dante's Latin works. Dante left the treatise unfinished partway through Book II's fourteenth chapter; this edition, like the work itself, ends there.",
+        "The text here is verbatim throughout. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Latin Wikisource's page-scan transclusion of Giuliani's 1878 \"Opere Latine\" volume I, confirmed complete (no unproofread/red-linked pages) in both books at the time of this import."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each book (\"Liber Primus\"/\"Liber Secundus\") is a top-level Division; each of its numbered chapters (\"Caput I.\" etc.) is a child Division. This edition prints a short italicised argument/title after each \"Caput N.\" heading (e.g. \"Quid sit Vulgaris locutio, et quo differat a Grammatica.\") - kept as that Division's sourceHeading, not folded into the reading text. The chapter's own paragraph/verse blocks, in order, form its single Passage, joined by a blank line. Reading text not wrapped in a <p> element by the source (where a printed paragraph straddles a scanned page boundary) was recovered by walking the rendered page in document order, exactly like this batch's companion English page-scan attempt - see ../shared/pagescanLite.ts.",
+        "33 chapters across 2 books (19 + 14), 81038 characters total."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Division.ref and Passage.ref are null throughout: citation is by book and chapter number only, which the Division id and number already carry."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the completeness check performed before import, and this batch's accompanying report for the full account of why the companion English translation (A. G. Ferrers Howell, revised 1904) could not be shipped alongside this Latin text: English Wikisource's only available copy of it has substantial unproofread gaps."
+      ]
+    }
+  ]
+}

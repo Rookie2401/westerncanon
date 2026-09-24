@@ -1,0 +1,22 @@
+[
+  {"find": "was calculated to raise a suspicion that it mij^ht be", "replace": "was calculated to raise a suspicion that it might be", "note": "OCR misread 'might'"},
+  {"find": "divided into two feet, wliich is guarded against by the", "replace": "divided into two feet, which is guarded against by the", "note": "OCR misread 'which'"},
+  {"find": "fxj)licit statement in the text. As the verses (pre-", "replace": "explicit statement in the text. As the verses (pre-", "note": "OCR misread 'explicit'"},
+  {"find": "sumably) oJiered no such scope for misconception,", "replace": "sumably) offered no such scope for misconception,", "note": "OCR misread 'offered'"},
+  {"find": "38. This canzone is translated in Convlw'o, p. 38S.", "replace": "38. This canzone is translated in Convivio, p. 388.", "note": "OCR garbled 'Convivio' and page number"},
+  {"find": "41. Donna p'ulosj, etc. The second canzone of the", "replace": "41. Donna pietosa, etc. The second canzone of the", "note": "OCR garbled italic 'Donna pietosa,'"},
+  {"find": "F'lta Nuw.j.", "replace": "Vita Nuova.", "note": "OCR garbled italic 'Vita Nuova.'"},
+  {"find": "50-54. In this case, of course, I0//1 parts of the", "replace": "50-54. In this case, of course, both parts of the", "note": "OCR garbled italic 'both'"},
+  {"find": "56. Jie^^iilur (lit., regulated) podi ; i.e. the Latin", "replace": "56. Regular (lit., regulated) poets ; i.e. the Latin", "note": "OCR garbled italic 'Regular' and 'poets'"},
+  {"find": "poets. Comjiare above, II. 4: 21 if.", "replace": "poets. Compare above, II. 4 : 21 ff.", "note": "OCR misread 'Compare' and 'ff.'"},
+  {"find": "60-1^4. The meaning simply is that the feet must", "replace": "60-64. The meaning simply is that the feet must", "note": "OCR misread note range 60-64"},
+  {"find": "syllal)les. Thus if the first foot has five lines, the", "replace": "syllables. Thus if the first foot has five lines, the", "note": "OCR misread 'syllables'"},
+  {"find": "[Arrang;cmcnt of the parts of the stanza in relation to", "replace": "[Arrangement of the parts of the stanza in relation to", "note": "OCR misread 'Arrangement'"},
+  {"find": "There is also, as has been said above, a certain Combina-", "replace": "There is also, as has been said above, a certain", "note": "stray margin-caption fragment ('Combina-') left by auto-strip"},
+  {"find": "arrangenicnt which we ought to consider intjonsof", "replace": "arrangement which we ought to consider in", "note": "OCR misread 'arrangement'; stray margin-caption fragment ('tions of') merged into 'in'"},
+  {"find": "putting the lines together ; and therefore let us ^'/'^^s", "replace": "putting the lines together ; and therefore let us", "note": "stray margin-caption fragment ('lines in') left by auto-strip"},
+  {"find": "to have the ])rerogativc of frequent use, namely,", "replace": "to have the prerogative of frequent use, namely,", "note": "OCR misread 'prerogative'"},
+  {"find": "and that of five syllables, and [^10] we have", "replace": "and that of five syllables, and [10] we have", "note": "OCR garbled bracketed number [10]"},
+  {"find": "them, in ])refcrence to the others. Of these,", "replace": "them, in preference to the others. Of these,", "note": "OCR misread 'preference'"},
+  {"find": "when wv* arc attempting poetry in the tragic", "replace": "when we are attempting poetry in the tragic", "note": "OCR misread 'we' and 'are'"}
+]

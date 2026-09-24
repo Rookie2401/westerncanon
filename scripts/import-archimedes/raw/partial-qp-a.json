@@ -1,0 +1,54 @@
+{
+  "divisions": {
+    "archimedes-quadrature-parabola-ch-1": [
+      { "image": "images/ch-1.png", "width": 610, "height": 879, "source": "Heiberg, Archimedis opera omnia vol. II, p. 298, leaf 336" }
+    ],
+    "archimedes-quadrature-parabola-ch-3": [
+      { "image": "images/ch-3.png", "width": 702, "height": 579, "source": "Heiberg, Archimedis opera omnia vol. II, p. 300, leaf 338" }
+    ],
+    "archimedes-quadrature-parabola-ch-4": [
+      { "image": "images/ch-4.png", "width": 921, "height": 930, "source": "Heiberg, Archimedis opera omnia vol. II, p. 301, leaf 339 (fig. 2, the only figure actually cited in the proof per the editor's footnote)" }
+    ],
+    "archimedes-quadrature-parabola-ch-5": [
+      { "image": "images/ch-5.png", "width": 599, "height": 1083, "source": "Heiberg, Archimedis opera omnia vol. II, p. 304, leaf 342" }
+    ],
+    "archimedes-quadrature-parabola-ch-6": [
+      { "image": "images/ch-6.png", "width": 994, "height": 584, "source": "Heiberg, Archimedis opera omnia vol. II, p. 306, leaf 344" }
+    ],
+    "archimedes-quadrature-parabola-ch-7": [
+      { "image": "images/ch-7.png", "width": 861, "height": 527, "source": "Heiberg, Archimedis opera omnia vol. II, p. 308, leaf 346" }
+    ],
+    "archimedes-quadrature-parabola-ch-8": [
+      { "image": "images/ch-8.png", "width": 898, "height": 587, "source": "Heiberg, Archimedis opera omnia vol. II, p. 310, leaf 348" }
+    ],
+    "archimedes-quadrature-parabola-ch-9": [
+      { "image": "images/ch-9.png", "width": 900, "height": 597, "source": "Heiberg, Archimedis opera omnia vol. II, p. 312, leaf 350" }
+    ],
+    "archimedes-quadrature-parabola-ch-10": [
+      { "image": "images/ch-10.png", "width": 918, "height": 656, "source": "Heiberg, Archimedis opera omnia vol. II, p. 314, leaf 352" }
+    ],
+    "archimedes-quadrature-parabola-ch-11": [
+      { "image": "images/ch-11.png", "width": 935, "height": 582, "source": "Heiberg, Archimedis opera omnia vol. II, p. 314, leaf 352" }
+    ],
+    "archimedes-quadrature-parabola-ch-12": [
+      { "image": "images/ch-12.png", "width": 1115, "height": 704, "source": "Heiberg, Archimedis opera omnia vol. II, p. 316, leaf 354" }
+    ]
+  },
+  "reportLines": [
+    { "division": "archimedes-quadrature-parabola-ch-1", "markerIndex": 0, "leaf": 336, "printedPage": "298", "result": "image", "file": "images/ch-1.png" },
+    { "division": "archimedes-quadrature-parabola-ch-2", "markerIndex": 0, "leaf": 336, "printedPage": "298", "result": "no printed figure", "note": "Confirmed on both Greek (leaf336, p.298) and Latin (leaf337, p.299) sides: prop. II statement is printed with no accompanying diagram, unlike props. I and III which flank it." },
+    { "division": "archimedes-quadrature-parabola-ch-3", "markerIndex": 0, "leaf": 338, "printedPage": "300", "result": "image", "file": "images/ch-3.png" },
+    { "division": "archimedes-quadrature-parabola-ch-4", "markerIndex": 0, "leaf": 339, "printedPage": "301", "result": "image", "file": "images/ch-4.png", "note": "Latin page (leaf339) prints two alternate diagrams for prop. IV, captioned '1.' and '2.'; editor's footnote states 'Respicitur ad fig. 2 solam' (only fig. 2 is referenced in the proof), so fig. 2 was used and fig. 1 omitted." },
+    { "division": "archimedes-quadrature-parabola-ch-5", "markerIndex": 0, "leaf": 342, "printedPage": "304", "result": "image", "file": "images/ch-5.png" },
+    { "division": "archimedes-quadrature-parabola-ch-6", "markerIndex": 0, "leaf": 344, "printedPage": "306", "result": "image", "file": "images/ch-6.png" },
+    { "division": "archimedes-quadrature-parabola-ch-7", "markerIndex": 0, "leaf": 346, "printedPage": "308", "result": "image", "file": "images/ch-7.png" },
+    { "division": "archimedes-quadrature-parabola-ch-8", "markerIndex": 0, "leaf": 348, "printedPage": "310", "result": "image", "file": "images/ch-8.png" },
+    { "division": "archimedes-quadrature-parabola-ch-9", "markerIndex": 0, "leaf": 350, "printedPage": "312", "result": "image", "file": "images/ch-9.png" },
+    { "division": "archimedes-quadrature-parabola-ch-10", "markerIndex": 0, "leaf": 352, "printedPage": "314", "result": "image", "file": "images/ch-10.png" },
+    { "division": "archimedes-quadrature-parabola-ch-11", "markerIndex": 0, "leaf": 352, "printedPage": "314", "result": "image", "file": "images/ch-11.png" },
+    { "division": "archimedes-quadrature-parabola-ch-12", "markerIndex": 0, "leaf": 354, "printedPage": "316", "result": "image", "file": "images/ch-12.png" }
+  ],
+  "failures": [
+    { "leaf": 336, "note": "First fetch attempt returned HTTP 500; succeeded on retry after ~30s wait." }
+  ]
+}

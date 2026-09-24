@@ -1,0 +1,30 @@
+[
+  {
+    "where": "boethius-consolatio-en / book-3-sec-7-3 (id book-3-sec-7-3)",
+    "note": "MISLABELLED IN THE SOURCE: this is the third div2 numbered \"7\" in Book 3 (after Prosa 7 and Metrum 7, and after an intervening div2 correctly numbered \"8\" for Prosa 8). Its content is in fact the translation of the Latin sibling's Metrum 8 (\"Eheu quae miseros tramite deuios...\", \"Alas, how ignorance makes wretches stray...\"). Preserved exactly as the source prints it (n=\"7\"), not silently corrected to \"8\"; see about.json."
+  },
+  {
+    "where": "boethius-consolatio-en / numbering scheme",
+    "note": "This source's own div2 `n` attribute is a plain integer (or \"praef\" for Book 1's unnumbered proem) SHARED by a metrum/prosa pair, unlike the Latin sibling's distinct \"Pn\"/\"Mn\" letters. Division.number reproduces this literal (possibly repeated) value; Division.id is disambiguated with a trailing \"-1\"/\"-2\"/\"-3\" ordinal only where a value genuinely repeats within its book (Books 1-5 all have such pairs; Book 3 has one triple - see the Book 3 note below)."
+  },
+  {
+    "where": "boethius-consolatio-en / headings",
+    "note": "This transcription carries no chapter- or book-level heading text (no <head> element anywhere in the body); Division.sourceHeading is null throughout."
+  },
+  {
+    "where": "boethius-consolatio-en / transport scaffolding",
+    "note": "142 <pb/> page-break markers were dropped from the reading text as pure typesetting scaffolding; this source carries no citation scheme this schema can use, so Division.ref and Passage.ref are null throughout."
+  },
+  {
+    "where": "boethius-consolatio-en / direct speech",
+    "note": "478 <q>...</q> spans (direct speech) carry no literal quotation-mark characters in this XML. 436 of them are fully contained within a single paragraph-level unit and are rendered wrapped in straight double quotes, reflecting what the edition itself prints, matching the Latin sibling's handling. The remaining 42 wrap one or more WHOLE <p> paragraphs; for these no quote mark is synthesised, since placing one correctly across a paragraph boundary would be invented rather than read from the source."
+  },
+  {
+    "where": "boethius-consolatio-en / dialogue outside <p>",
+    "note": "BUG FIX: 10 paragraph-level unit(s) of text sit OUTSIDE any <p> element in this source - short interlocutor exchanges, printed as bare text between two <p>-wrapped speeches. An earlier revision of this importer read only <p> content and silently dropped these; they are now recovered in full, in document order, via extractProseUnits. Locations (unit count): book-2-sec-4-1 (2), book-3-sec-10-1 (1), book-3-sec-11-1 (1), book-4-sec-2-1 (2), book-4-sec-4-1 (2), book-5-sec-4-1 (2)."
+  },
+  {
+    "where": "boethius-consolatio-en / footnote apparatus",
+    "note": "This digitization marks its footnote apparatus (present throughout, e.g. after \"Hebdomads\" and elsewhere) with no <note>/<ref> element at all - apparently bare inline letters in the printed style of the edition's own superscript markers - with no markup distinguishing them from ordinary running text. Because they cannot be identified programmatically without risk of deleting a genuine word, they are left exactly as printed rather than guessed at and removed; this is a disclosed limitation of the source, not a correction made here."
+  }
+]

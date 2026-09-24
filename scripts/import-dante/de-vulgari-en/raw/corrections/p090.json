@@ -1,0 +1,127 @@
+[
+  {
+    "find": "from A. <Je Pegulhan.) The poem is not I)y the Klnjj^",
+    "replace": "from A. de Pegulhan.) The poem is not by the King",
+    "note": "misread de/by/King"
+  },
+  {
+    "find": "of Navarre (see above, I. 9: 27//.), but by a friend",
+    "replace": "of Navarre (see above, I. 9: 27n.), but by a friend",
+    "note": "misread note number"
+  },
+  {
+    "find": "of his, Gaces Diulcz, wlio was a native of Chamj>agne,",
+    "replace": "of his, Gaces Brulez, who was a native of Champagne,",
+    "note": "misread Brulez/who/Champagne"
+  },
+  {
+    "find": "of noble birtl), and a renovinied lyric poet.",
+    "replace": "of noble birth, and a renowned lyric poet.",
+    "note": "misread birth/renowned"
+  },
+  {
+    "find": "69. rd c/ir, etc. One stan/a only of th-.s poem",
+    "replace": "69. Poi che, etc. One stanza only of this poem",
+    "note": "misread Poi che/stanza/this"
+  },
+  {
+    "find": "71. See above, I. 10: 30/7.",
+    "replace": "71. See above, I. 10: 30n.",
+    "note": "misread note number"
+  },
+  {
+    "find": "oi thii Corjvivioi Compare /'wr^.y/c-r/'fl, IF. iiz.",
+    "replace": "of the Convivio. Compare Purgatorio, II. 112.",
+    "note": "heavily garbled"
+  },
+  {
+    "find": "74. * ^0 M,i/ii/ poets ' (^Juforil/i/} J. See Co/iitivio, IV.",
+    "replace": "74. 'So many poets' (autoribus). See Convivio, IV.",
+    "note": "heavily garbled"
+  },
+  {
+    "find": "80-85. Tlie list of authors here given is",
+    "replace": "80-85. The list of authors here given is",
+    "note": "misread The"
+  },
+  {
+    "find": "interesting. As will be seen from Moore's StuJies",
+    "replace": "interesting. As will be seen from Moore's Studies",
+    "note": "misread Studies"
+  },
+  {
+    "find": "in Dante (ist Series), Virgil's JEneid, Ovid's Meta^",
+    "replace": "in Dante (1st Series), Virgil's Æneid, Ovid's Meta-",
+    "note": "misread 1st/Æneid; caret misread of line-end hyphen"
+  },
+  {
+    "find": "morp/iojes, Stati'is' ThebaiJ and Lucan's Pharsalia are",
+    "replace": "morphoses, Statius' Thebaid and Lucan's Pharsalia are",
+    "note": "misread morphoses/Statius/Thebaid"
+  },
+  {
+    "find": "Dante's acquaintance with him was sliglit, and tlie",
+    "replace": "Dante's acquaintance with him was slight, and the",
+    "note": "misread slight/the"
+  },
+  {
+    "find": "same may be said of Pliny, whom lie nowhere else",
+    "replace": "same may be said of Pliny, whom he nowhere else",
+    "note": "misread he"
+  },
+  {
+    "find": "Frontinus (Governor of Britain, a.d. 75-78 ; Super-",
+    "replace": "Frontinus (Governor of Britain, A.D. 75-78 ; Super-",
+    "note": "misread small caps A.D."
+  },
+  {
+    "find": "intendent of the Afjueducts, 97 ; died, 106) occur else-",
+    "replace": "intendent of the Aqueducts, 97 ; died, 106) occur else-",
+    "note": "misread Aqueducts"
+  },
+  {
+    "find": "where in Dante ; though the poet's military exi>erience",
+    "replace": "where in Dante ; though the poet's military experience",
+    "note": "misread experience"
+  },
+  {
+    "find": "(see Inferno XXI. 94 if. ; XXII. 1-9, ami Lionardo",
+    "replace": "(see Inferno XXI. 94 ff. ; XXII. 1-9, and Lionardo",
+    "note": "misread ff./and"
+  },
+  {
+    "find": "Bruni's I-ife) may possibly have drawn his attention",
+    "replace": "Bruni's Life) may possibly have drawn his attention",
+    "note": "misread Life"
+  },
+  {
+    "find": "to Frontinus' Strutf^emutica, or manual of the art of",
+    "replace": "to Frontinus' Strategematica, or manual of the art of",
+    "note": "misread Strategematica"
+  },
+  {
+    "find": "war. Paulus Orosius (fl. a.d. 415) was a historian",
+    "replace": "war. Paulus Orosius (fl. A.D. 415) was a historian",
+    "note": "misread small caps A.D."
+  },
+  {
+    "find": "much relied on I)y Dante, and personal sympathy no",
+    "replace": "much relied on by Dante, and personal sympathy no",
+    "note": "misread by"
+  },
+  {
+    "find": "douI)t accounts for his inclusion in the list.",
+    "replace": "doubt accounts for his inclusion in the list.",
+    "note": "misread doubt"
+  },
+  {
+    "find": "86. On Guittone, see above, I. 13: 7/;.",
+    "replace": "86. On Guittone, see above, I. 13: 7n.",
+    "note": "misread note number"
+  },
+  {
+    "find": "Of The next division of our progress now demands\ndifferent that an explanation be given as to those words\nods ^^'^^ ^^^ of such grandeur as to be worthy ot\nbeing admitted into that style to which we have\nj^warded the first place, Wq dcglar? therefore",
+    "replace": "The next division of our progress now demands\nthat an explanation be given as to those words\nwhich are of such grandeur as to be worthy of\nbeing admitted into that style to which we have\nawarded the first place. We declare therefore",
+    "note": "removes marginal shoulder-caption leak (\"Of different kinds of words\") merged into main text at these line-starts; misread awarded/We declare/of"
+  }
+]

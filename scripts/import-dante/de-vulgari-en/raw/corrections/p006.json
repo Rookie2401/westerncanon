@@ -1,0 +1,112 @@
+[
+  {
+    "find": "In its state of continual clian<^e and lawlessness.",
+    "replace": "In its state of continual change and lawlessness.",
+    "note": "OCR misread 'change'"
+  },
+  {
+    "find": "since in II. 4 Dante proposes tlie Latin poetf as",
+    "replace": "since in II. 4 Dante proposes the Latin poets as",
+    "note": "OCR misread 'the'/'poets'"
+  },
+  {
+    "find": "models for imitation by t!ie vernacular poets. But in",
+    "replace": "models for imitation by the vernacular poets. But in",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "t!ie present jiassai^e the term ' vernacular' is not used",
+    "replace": "the present passage the term ' vernacular' is not used",
+    "note": "OCR misread 'the'/'passage'"
+  },
+  {
+    "find": "sense of tlie natural speech of all mankind, ' which we",
+    "replace": "sense of the natural speech of all mankind, ' which we",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "acquire without any rule by imirating our nurses,'",
+    "replace": "acquire without any rule by imitating our nurses,'",
+    "note": "OCR misread 'imitating'"
+  },
+  {
+    "find": "and as such is contrasted with • grammar,' to wliich",
+    "replace": "and as such is contrasted with ' grammar,' to which",
+    "note": "OCR misread the opening quote mark as a bullet, and 'which'"
+  },
+  {
+    "find": "artificial lanp^uajj^e the natural speech of mankind was",
+    "replace": "artificial language the natural speech of mankind was",
+    "note": "OCR misread 'language'"
+  },
+  {
+    "find": "(tlie child of God), stood, :o adopt Dante's quaint",
+    "replace": "(the child of God), stood, to adopt Dante's quaint",
+    "note": "OCR misread 'the'/'to'"
+  },
+  {
+    "find": "conceit (see Inferno, XI. 97 IT.), a degree nearer of kin",
+    "replace": "conceit (see Inferno, XI. 97 ff.), a degree nearer of kin",
+    "note": "OCR misread 'ff.'"
+  },
+  {
+    "find": "to God than grammar, which was tlie creature of art,",
+    "replace": "to God than grammar, which was the creature of art,",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "CHAPTER J.I",
+    "replace": "CHAPTER II",
+    "note": "OCR garbled the chapter heading roman numeral"
+  },
+  {
+    "find": "[Tlic author lays it down that man alone, as dis-",
+    "replace": "[The author lays it down that man alone, as dis-",
+    "note": "OCR misread 'The'"
+  },
+  {
+    "find": "tinguished from the angels and tlie brutes, is",
+    "replace": "tinguished from the angels and the brutes, is",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "endowed with speech, lie shows that both for",
+    "replace": "endowed with speech. He shows that both for",
+    "note": "OCR misread 'He'; comma should be a period (new sentence)"
+  },
+  {
+    "find": "been unnecessary, and llierefore repugnant to",
+    "replace": "been unnecessary, and therefore repugnant to",
+    "note": "OCR misread 'therefore'"
+  },
+  {
+    "find": "nature. He anticipates objections wliich might",
+    "replace": "nature. He anticipates objections which might",
+    "note": "OCR misread 'which'"
+  },
+  {
+    "find": "Bible and in Ovid, and on tlic fact that magpies",
+    "replace": "Bible and in Ovid, and on the fact that magpies",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "Speech This [^thcn]] is our true first speech. I do not,",
+    "replace": "This [then] is our true first speech. I do not,",
+    "note": "leading 'Speech' is a leaked fragment of the adjacent margin caption ('Speech peculiar to man'); OCR also garbled the bracketed word '[then]'"
+  },
+  {
+    "find": "peculiar however, say * our ' as im})Iylng that any other",
+    "replace": "however, say ' our ' as implying that any other",
+    "note": "leading 'peculiar' is a leaked margin-caption fragment; OCR misread the quote mark and 'implying'"
+  },
+  {
+    "find": "man j^j^^j Qf speech exists beside man's ; for to man",
+    "replace": "kind of speech exists beside man's ; for to man",
+    "note": "leading fragment is a leaked margin-caption word ('man', from 'to man'); OCR misread 'kind of'"
+  },
+  {
+    "find": "because for him alone was it necessary. Sjjeech",
+    "replace": "because for him alone was it necessary. Speech",
+    "note": "OCR misread 'Speech'"
+  }
+]

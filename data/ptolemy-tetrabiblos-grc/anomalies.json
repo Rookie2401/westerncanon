@@ -1,0 +1,30 @@
+[
+  {
+    "where": "ptolemy-tetrabiblos-grc / edition[urn:cts:greekLit:tlg0363.tlg007.perseus-grc2]/book[1]/chapter[20]",
+    "note": "<figure> diagram marker kept as an honest Passage.figure note (no source text to keep - graphic-only)"
+  },
+  {
+    "where": "ptolemy-tetrabiblos-grc / edition[urn:cts:greekLit:tlg0363.tlg007.perseus-grc2]/book[1]/chapter[21]",
+    "note": "<figure> diagram marker kept as an honest Passage.figure note (no source text to keep - graphic-only)"
+  },
+  {
+    "where": "ptolemy-tetrabiblos-grc / edition[urn:cts:greekLit:tlg0363.tlg007.perseus-grc2]/book[2]/chapter[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"προοίμιον\""
+  },
+  {
+    "where": "ptolemy-tetrabiblos-grc / edition[urn:cts:greekLit:tlg0363.tlg007.perseus-grc2]/book[4]/chapter[1]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"προοίμιον\""
+  },
+  {
+    "where": "ptolemy-tetrabiblos-grc / edition[urn:cts:greekLit:tlg0363.tlg007.perseus-grc2]/book[4]/chapter[10a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"κατὰ\""
+  },
+  {
+    "where": "ptolemy-tetrabiblos-grc / edition[urn:cts:greekLit:tlg0363.tlg007.perseus-grc2]/book[4]/chapter[10a]",
+    "note": "<add> editorial insertion kept verbatim in the reading text: \"καλῶς\""
+  },
+  {
+    "where": "ptolemy-tetrabiblos-grc / whole work",
+    "note": "24 passage(s) contain a standalone combining diacritic that survives NFC normalisation - genuine philological notation, kept verbatim."
+  }
+]

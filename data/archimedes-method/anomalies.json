@@ -85,7 +85,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-1 / passage[1]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-1 / passage[2]",
@@ -117,7 +117,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-2 / passage[2]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-2 / passage[3]",
@@ -137,7 +137,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-3 / passage[1]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-3 / passage[2]",
@@ -157,7 +157,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-4 / passage[1]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-4 / passage[2]",
@@ -181,7 +181,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-5 / passage[1]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-5 / passage[2]",
@@ -201,7 +201,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-6 / passage[1]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-6 / passage[2]",
@@ -493,7 +493,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-7 / passage[0]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-8 / passage[0]",
@@ -685,7 +685,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-12 / passage[1]",
-    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (2) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-12 / passage[2]",
@@ -725,7 +725,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-13 / passage[0]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
@@ -845,7 +845,7 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-14 / passage[0]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-15 / passage[0]",
@@ -1029,6 +1029,6 @@
   },
   {
     "where": "archimedes-method / division archimedes-method-ch-15 / passage[1]",
-    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (2) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-method/images/)."
   }
 ]

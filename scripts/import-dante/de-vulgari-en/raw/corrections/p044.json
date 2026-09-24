@@ -1,0 +1,82 @@
+[
+  {
+    "find": "tJc^ 'i}' \"^ 'O\"\"^*''\" of tl,elr vain glory. The\ndialects r'7™';\"\" op^-n their mouths \\„a 4'\n\"'ro y ' the P,,,„s, . &,„ „„,/,„„„ ;;,.\nn, F,orema p,r Pha^ ..1 ,he ,,eople of\nLucca, .^„ ,.„,„ ^ ^;, ,^,^ ;„ I j:« o\nlo co,„„no Ji Lucca' ;= the Sienese, ' Onche\n\"\"'-\"'l \"?\"\" \"> Siena .\" •> < Ch'cc clcsto =■ ' 5\nAv j^'\"'\"\"' : '^^ \"■ r>c„ire ovelh >. ' «\ntW '.I \"' Cnstellana at all, because of",
+    "replace": "The take off somewhat of their vain glory. The Florentines open their mouths and say,\n' Manichiamo introque [20].—Noi non facciano\natro' ; 1 the Pisans, ' Bene andonno li fanti\nDe Fiorensa per Pisa' ; 2 the people of\nLucca, ' Fo voto a Dio che in gassarra eie\nlo comuno de Lucca' ; 3 the Sienese, ' Onche\nrenegata avesse io Siena ! ' 4 ' Ch’ee chesto ? ’ 5\nthe Aretines, ‘ Vo tu venire ovelle ? ’ 6\n(We do not intend to deal with Perugia, Orvieto\n[30], and Città Castellana at all, because of",
+    "note": "heavily garbled/dropped OCR across this whole paragraph (italic Tuscan-dialect quotations, several words and the [30] line-number entirely dropped) reconstructed in full from the page image; leading margin captions (Tuscan / dialects) removed"
+  },
+  {
+    "find": "the close connection with the Romans and",
+    "replace": "their close connection with the Romans and",
+    "note": "the -> their"
+  },
+  {
+    "find": "1 uscans are m their degraded dialect, we notice",
+    "replace": "Tuscans are in their degraded dialect, we notice",
+    "note": "1 uscans -> Tuscans; m -> are"
+  },
+  {
+    "find": "tha some have recognised wherein the excellence",
+    "replace": "that some have recognised wherein the excellence",
+    "note": "tha -> that"
+  },
+  {
+    "find": "of the vernacular consists, namely, Guido, Lapo\nand another, all Florentines, and Cino of Pi „i°'",
+    "replace": "of the vernacular consists, namely, Guido, Lapo,\nand another, all Florentines, and Cino of Pistoja,",
+    "note": "missing comma; garbled fragment -> Pistoja,"
+  },
+  {
+    "find": "whom we now undeservedly put last, h vT\"",
+    "replace": "whom we now undeservedly put last, having",
+    "note": "garbled fragment -> having"
+  },
+  {
+    "find": "been not undeservedly driven to do so. The et",
+    "replace": "been not undeservedly driven to do so. There-",
+    "note": "'The et' -> 'There-' (hyphenated continuation)"
+  },
+  {
+    "find": "fore if we exann-ne the Tuscan r^ol dialects\n[fZ7^- 'tT ''^ ''\"'\"' conm'-.ended bo,^",
+    "replace": "fore if we examine the Tuscan [40] dialects,\nreflecting how the writers commended above",
+    "note": "heavily garbled bracketed line-number and following clause reconstructed from image"
+  },
+  {
+    "find": "have denated from their own dialect, it does not",
+    "replace": "have deviated from their own dialect, it does not",
+    "note": "denated -> deviated"
+  },
+  {
+    "find": "ren,a,n doubtful that the vernacula wo \"re .-n\n-arch of ,s d,foent from that which the jTeop \"",
+    "replace": "remain doubtful that the vernacular we are in\nsearch of is different from that which the people",
+    "note": "heavily garbled OCR reconstructed from image"
+  },
+  {
+    "find": "oi i uscany attain to. ^ ^",
+    "replace": "of Tuscany attain to.",
+    "note": "oi i uscany -> of Tuscany"
+  },
+  {
+    "find": "But if any one thinks that what wo s^y of th^",
+    "replace": "But if any one thinks that what we say of the",
+    "note": "garbled fragment -> we say of the"
+  },
+  {
+    "find": "Tuscans may not also be said of the Genoese'",
+    "replace": "Tuscans may not also be said of the Genoese,",
+    "note": "stray apostrophe -> comma"
+  },
+  {
+    "find": "let h,m but bear this in mind, that if the Genoese",
+    "replace": "let him but bear this in mind, that if the Genoese",
+    "note": "h,m -> him"
+  },
+  {
+    "find": "2 ; Let us eat meantime_we do nothing else '",
+    "replace": "1 ‘ Let us eat meantime—we do nothing else.’",
+    "note": "footnote 1 marker and text garbled"
+  },
+  {
+    "find": "^.^J rruly the soldiers of Florence are golg through\n« ' Wilt thou come somewhere ? ' (Rajna).",
+    "replace": "2 ‘ Truly the soldiers of Florence are going through\nPisa.’\n3 ‘ Thank God the commonwealth of Lucca is in\nhappy case’ (Fraticelli).\n4 ‘ Would that I had never forsworn Siena ! ’\n5 ‘ What is this ? ’\n6 ‘ Wilt thou come somewhere ? ’ (Rajna).",
+    "note": "footnotes 2-6 recovered from image; OCR only preserved fragments of footnotes 2 and 6 and dropped footnotes 3, 4, 5 entirely"
+  }
+]

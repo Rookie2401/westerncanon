@@ -1,0 +1,26 @@
+[
+  {
+    "where": "dante-de-vulgari-eloquentia-en / whole work",
+    "note": "Only pp.1-115 (Book I, chapters I-XIX, pp.1-64; Book II, chapters I-XIV, pp.65-115) are imported as reading text. Excluded: the book's own half-title and contents front matter (pp.i-x, not part of the translation); and pp.116-123, headed \"Appendix\" - the translator's own back-matter notes on the history, date, and title of De Vulgari Eloquentia, and a postscript - editorial apparatus about the work, not Dante's own text, not run as part of this import."
+  },
+  {
+    "where": "dante-de-vulgari-eloquentia-en / Notes apparatus",
+    "note": "Every chapter in this edition is followed by a \"Notes to Chapter N\" section (numbered scholarly annotations, mostly cross-references to Dante's other works) before the next chapter begins; these are editorial apparatus, not Dante's or Howell's own text, and are excluded from the shipped reading text throughout. Approximately 12104 words of this apparatus (by whitespace-delimited token count) were excluded this way. A one-time editorial paragraph after Book I Chapter I's own prose, explaining this edition's own chapter-heading convention (\"The original chapter headings ... have been replaced by summaries ...\"), is excluded alongside Chapter I's own Notes section for the same reason (translator/editor apparatus, not Dante's text)."
+  },
+  {
+    "where": "dante-de-vulgari-eloquentia-en / marginal shoulder-captions",
+    "note": "This edition prints a short bold subject-caption in the outer margin beside the opening lines of most paragraphs (e.g. \"The subject defined\", \"Neither angels nor brutes speak\") - a navigational aid, not part of Dante's or Howell's running prose. 128 caption word-tokens were identified and removed (by page-image coordinate, at extraction time; see raw/extractPages.mjs) across the 115 pages."
+  },
+  {
+    "where": "dante-de-vulgari-eloquentia-en / page-bottom footnotes",
+    "note": "Howell's own footnotes - English translations of the Provençal/Italian/French verse Dante quotes throughout the treatise - are printed at the foot of the page, never interleaved with the prose above them. 68 such footnote line(s) (505 words) across 19 pages were excluded from the reading text (see raw/extractPages.mjs / index.ts's splitFootnoteTail()); the small superscript reference number each one is cross-linked from in the main text (OCR'd as a bare digit stuck to the closing quote mark it follows) was also stripped from the running prose - 57 such marker(s) removed. Neither the footnote translations nor their reference numbers are preserved anywhere in this build."
+  },
+  {
+    "where": "dante-de-vulgari-eloquentia-en / OCR corrections",
+    "note": "2442 individual OCR corrections were applied across the 115 pages (each page proofread by hand against its own scan image); see raw/corrections/pNNN.json for the exact per-page list."
+  },
+  {
+    "where": "dante-de-vulgari-eloquentia-en / paragraphs",
+    "note": "This edition marks a new paragraph only by first-line indentation, never a blank line, so paragraph breaks are invisible in the plain OCR text and were recovered from this scan's own word coordinates (raw/detectParagraphs.mjs: a line whose first surviving word sits well right of that page's median body-left edge is a paragraph's own first line) rather than assumed. Each chapter's translated prose is split into one Passage per printed paragraph on that basis (105 paragraph Passages across 33 chapters); the bracketed chapter argument remains a separate, first Passage, exactly as printed at the head of each chapter. See raw/paragraph-starts/pNNN.json for the exact per-page detections and raw/detectParagraphs.mjs for the method and its calibration."
+  }
+]

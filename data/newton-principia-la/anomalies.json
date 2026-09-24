@@ -1,0 +1,758 @@
+[
+  {
+    "where": "newton-principia-la / prefaces",
+    "note": "The front matter includes Edmond Halley's own dedicatory Latin ode (\"IN VIRI PRÆSTANTISSIMI...\"), printed immediately after Newton's preface in every edition since 1687. It is Halley's own composition, not Newton's, and this is disclosed on its Division (id prefaces-halley-ode) as with any authorship distinction elsewhere in this corpus (cf. De Bello Gallico Book 8/Hirtius)."
+  },
+  {
+    "where": "axioms-corol-1",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Principia1686_001.png/250px-Principia1686_001.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Corol. I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "axioms-corol-2",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Principia1686_002.png/250px-Principia1686_002.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Corol. II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "axioms-corol-6",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Principia1686_003.png/250px-Principia1686_003.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Corol. VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-2",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Principia1686_004.png/250px-Principia1686_004.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-4",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Principia1686_005.png/330px-Principia1686_005.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma IV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-6",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Principia1686_006.png/250px-Principia1686_006.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-7",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Principia1686_007.png/250px-Principia1686_007.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-8",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Principia1686_006.png/250px-Principia1686_006.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-9",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Principia1686_008.png/250px-Principia1686_008.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma IX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-11",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Principia1686_009.png/250px-Principia1686_009.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-1",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Principia1686_010.png/330px-Principia1686_010.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. I. Theorema I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-3",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Principia1686_011.png/250px-Principia1686_011.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. III. Theor. III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-5",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Principia1686_012.png/250px-Principia1686_012.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. V. Prob. I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-6",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Principia1686_013.png/250px-Principia1686_013.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Pro. VI. Theor. V.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-7",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Principia1686_014.png/250px-Principia1686_014.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. VII. Prob. II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-8",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Principia1686_015.png/250px-Principia1686_015.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. VIII. Prob. III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-9",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Principia1686_016.png/250px-Principia1686_016.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. IX. Prob. IV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-10",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Principia1686_017.png/330px-Principia1686_017.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. X. Prob. V.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-11",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Principia1686_017.png/330px-Principia1686_017.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XI. Prob. VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-12",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Principia1686_018.png/500px-Principia1686_018.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XII. Prob. VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-14",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Principia1686_019.png/500px-Principia1686_019.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-13",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Principia1686_019.png/500px-Principia1686_019.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XIII. Prob. VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-17",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Principia1686_020.png/330px-Principia1686_020.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XVII. Prob. IX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-15",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Principia1686_021.png/250px-Principia1686_021.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-18",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Principia1686_022.png/250px-Principia1686_022.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XVIII. Prob. X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-19",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Principia1686_023.png/250px-Principia1686_023.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XIX. Prob. XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-20",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Principia1686_024.png/250px-Principia1686_024.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XX. Prob. XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-20",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Principia1686_025.png/250px-Principia1686_025.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XX. Prob. XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-20",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Principia1686_026.png/250px-Principia1686_026.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XX. Prob. XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-20",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Principia1686_027.png/500px-Principia1686_027.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XX. Prob. XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-16",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Principia1686_028.png/250px-Principia1686_028.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-21",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Principia1686_029.png/250px-Principia1686_029.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXI. Prob. XIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-21",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Principia1686_030.png/330px-Principia1686_030.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXI. Prob. XIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-17",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Principia1686_031.png/250px-Principia1686_031.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-17",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Principia1686_032.png/250px-Principia1686_032.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-17",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Principia1686_033.png/250px-Principia1686_033.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-18",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Principia1686_034.png/250px-Principia1686_034.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-19",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Principia1686_035.png/250px-Principia1686_035.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-19",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Principia1686_036.png/250px-Principia1686_036.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-20",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Principia1686_037.png/330px-Principia1686_037.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-21",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Principia1686_038.png/330px-Principia1686_038.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-22",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Principia1686_039.png/330px-Principia1686_039.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXII. Prob. XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-22",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Principia1686_038.png/330px-Principia1686_038.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXII. Prob. XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-23",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Principia1686_040.png/250px-Principia1686_040.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXIII. Prob. XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-23",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Principia1686_041.png/500px-Principia1686_041.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXIII. Prob. XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-23",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Principia1686_042.png/250px-Principia1686_042.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXIII. Prob. XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-24",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Principia1686_043.png/250px-Principia1686_043.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXIV. Prob. XVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-22",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Principia1686_044.png/330px-Principia1686_044.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XXII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-25",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Principia1686_045.png/250px-Principia1686_045.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXV. Prob. XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-23",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Principia1686_046.png/250px-Principia1686_046.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-24",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Principia1686_047.png/330px-Principia1686_047.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-25",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Principia1686_048.png/330px-Principia1686_048.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XXV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-27",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Principia1686_049.png/500px-Principia1686_049.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXVII. Prob. XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-27",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Principia1686_050.png/330px-Principia1686_050.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXVII. Prob. XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-26",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Principia1686_051.png/330px-Principia1686_051.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-26",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Principia1686_052.png/330px-Principia1686_052.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-28",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Principia1686_053.png/500px-Principia1686_053.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXVIII. Prob. XX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-27",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Principia1686_054.png/500px-Principia1686_054.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-27",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Principia1686_055.png/500px-Principia1686_055.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma XXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-29",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Principia1686_056.png/500px-Principia1686_056.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXIX. Prob. XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-29",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Principia1686_057.png/500px-Principia1686_057.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXIX. Prob. XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-30",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Principia1686_058.png/250px-Principia1686_058.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXX. Prob. XXII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-31",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Principia1686_059.png/500px-Principia1686_059.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXI. Prob. XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-31",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Principia1686_060.png/500px-Principia1686_060.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXI. Prob. XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-31",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Principia1686_061.png/330px-Principia1686_061.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXI. Prob. XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-31",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Principia1686_062.png/250px-Principia1686_062.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXI. Prob. XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-32",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Principia1686_063.png/250px-Principia1686_063.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXII. Prob. XXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-32",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Principia1686_064.png/250px-Principia1686_064.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXII. Prob. XXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-33",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Principia1686_063.png/250px-Principia1686_063.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXIII. Theor. IX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-33",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Principia1686_064.png/250px-Principia1686_064.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXIII. Theor. IX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-35",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Principia1686_065.png/120px-Principia1686_065.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXV. Theor. XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-35",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Principia1686_066.png/250px-Principia1686_066.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXV. Theor. XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-36",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Principia1686_067.png/120px-Principia1686_067.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXVI. Prob. XXV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-37",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Principia1686_068.png/250px-Principia1686_068.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXVII. Prob. XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-38",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Principia1686_069.png/250px-Principia1686_069.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXVIII. Theor. XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-39",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Principia1686_070.png/250px-Principia1686_070.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXIX. Prob. XXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-40",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Principia1686_071.png/500px-Principia1686_071.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XL. Theor. XIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-41",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Principia1686_071.png/500px-Principia1686_071.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLI. Prob. XXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-41",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Principia1686_072.png/500px-Principia1686_072.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLI. Prob. XXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-43",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Principia1686_073.png/330px-Principia1686_073.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLIII. Prob. XXX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-44",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Principia1686_074.png/250px-Principia1686_074.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLIV. Theor. XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-46",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Principia1686_075.png/330px-Principia1686_075.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLVI. Prob. XXXII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-47",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Principia1686_075.png/330px-Principia1686_075.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLVII. Theor. XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-49",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Principia1686_076.png/500px-Principia1686_076.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLIX. Theor. XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-50",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Principia1686_077.png/500px-Principia1686_077.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. L. Prob. XXXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-52",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Principia1686_078.png/250px-Principia1686_078.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LII. Prob. XXXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-52",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Principia1686_079.png/500px-Principia1686_079.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LII. Prob. XXXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-53",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Principia1686_077.png/500px-Principia1686_077.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LIII. Prob. XXXV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-54",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Principia1686_081.png/250px-Principia1686_081.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LIV. Prob. XXXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-55",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Principia1686_082.png/330px-Principia1686_082.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LV. Theor. XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-sec-11-intro",
+    "note": "2 paragraph(s) of reading text precede this Division's first numbered item in the source (e.g. an introductory/transitional remark); kept as this leading \"-intro\" leaf Division rather than being dropped as if it were furniture."
+  },
+  {
+    "where": "book-1-prop-58",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Principia1686_083.png/500px-Principia1686_083.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LVIII. Theor. XXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-64",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Principia1686_084.png/250px-Principia1686_084.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXIV. Prob. XL.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-66",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Principia1686_085.png/330px-Principia1686_085.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXVI. Theor. XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-68",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Principia1686_085.png/330px-Principia1686_085.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXVIII. Theor. XXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-70",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Principia1686_086.png/250px-Principia1686_086.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXX. Theor. XXX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-71",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Principia1686_087.png/500px-Principia1686_087.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXI. Theor. XXXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-73",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Principia1686_088.png/250px-Principia1686_088.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXIII. Theor. XXXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-76",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Principia1686_089.png/500px-Principia1686_089.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXVI. Theor. XXXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-77",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Principia1686_090.png/250px-Principia1686_090.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXVII. Theor. XXXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-79",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Principia1686_091.png/500px-Principia1686_091.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXIX. Theor. XXXIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-81",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Principia1686_091.png/500px-Principia1686_091.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXXI. Prob. XLI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-81",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Principia1686_092.png/250px-Principia1686_092.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXXI. Prob. XLI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-81",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Principia1686_093.png/250px-Principia1686_093.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXXI. Prob. XLI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-82",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Principia1686_091.png/500px-Principia1686_091.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXXII. Theor. XLI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-83",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Principia1686_094.png/250px-Principia1686_094.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXXIII. Prob. XLII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-88",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Principia1686_095.png/250px-Principia1686_095.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LXXXVIII. Theor. XLV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-90",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Principia1686_096.png/250px-Principia1686_096.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XC. Prob. XLIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-91",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Principia1686_097.png/250px-Principia1686_097.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XCI. Prob. XLV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-91",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Principia1686_098.png/330px-Principia1686_098.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XCI. Prob. XLV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-91",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Principia1686_099.png/250px-Principia1686_099.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XCI. Prob. XLV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-93",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Principia1686_100.png/250px-Principia1686_100.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XCIII. Theor. XLVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-94",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Principia1686_101.png/330px-Principia1686_101.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XCIV. Theor. XLVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-94",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Principia1686_102.png/330px-Principia1686_102.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XCIV. Theor. XLVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-96",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Principia1686_103.png/330px-Principia1686_103.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XCVI. Theor. L.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-96",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Principia1686_104.png/250px-Principia1686_104.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XCVI. Theor. L.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-97",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Principia1686_105.png/330px-Principia1686_105.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XCVII. Prob. XLVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-97",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Principia1686_106.png/330px-Principia1686_106.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XCVII. Prob. XLVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-2",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Principia1686_107.png/250px-Principia1686_107.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. II. Theor. II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-3",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Principia1686_108.png/250px-Principia1686_108.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. III. Prob. I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-3",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Principia1686_109.png/250px-Principia1686_109.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. III. Prob. I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-4",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Principia1686_110.png/250px-Principia1686_110.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. IV. Prob. II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-4",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Principia1686_111.png/250px-Principia1686_111.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. IV. Prob. II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-5",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Principia1686_112.png/250px-Principia1686_112.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. V. Theor. III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-6",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Principia1686_113.png/250px-Principia1686_113.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. VI. Theor. IV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-8",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Principia1686_114.png/330px-Principia1686_114.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. VIII. Theor. VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-9",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Principia1686_114.png/330px-Principia1686_114.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. IX. Theor. VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Principia1686_115.png/330px-Principia1686_115.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. X. Prob. III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Principia1686_116.png/250px-Principia1686_116.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. X. Prob. III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Principia1686_111.png/250px-Principia1686_111.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. X. Prob. III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Principia1686_116.png/250px-Principia1686_116.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. X. Prob. III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Principia1686_117.png/250px-Principia1686_117.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. X. Prob. III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-11",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Principia1686_118.png/250px-Principia1686_118.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XI. Theor. VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-13",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Principia1686_119.png/250px-Principia1686_119.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XIII. Theor. X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-13",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Principia1686_120.png/330px-Principia1686_120.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XIII. Theor. X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-13",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Principia1686_121.png/250px-Principia1686_121.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XIII. Theor. X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-lemma-3",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Principia1686_122.png/330px-Principia1686_122.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) LEM. III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-15",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Principia1686_122.png/330px-Principia1686_122.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XV. Theor. XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-15",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Principia1686_123.png/250px-Principia1686_123.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XV. Theor. XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-sec-5-intro",
+    "note": "1 paragraph(s) of reading text precede this Division's first numbered item in the source (e.g. an introductory/transitional remark); kept as this leading \"-intro\" leaf Division rather than being dropped as if it were furniture."
+  },
+  {
+    "where": "book-2-prop-19",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Principia1686_124.png/250px-Principia1686_124.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XIX. Theor. XIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-20",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Principia1686_125.png/250px-Principia1686_125.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XX. Theor. XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-21",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Principia1686_126.png/250px-Principia1686_126.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXI. Theor. XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-21",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Principia1686_127.png/250px-Principia1686_127.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXI. Theor. XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-22",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Principia1686_128.png/330px-Principia1686_128.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXII. Theor. XVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-23",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Principia1686_129.png/330px-Principia1686_129.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXIII. Theor. XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-25",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Principia1686_130.png/330px-Principia1686_130.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXV. Theor. XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-29",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Principia1686_131.png/330px-Principia1686_131.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXIX. Prob. VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-30",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Principia1686_132.png/330px-Principia1686_132.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXX. Theor. XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-35",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Principia1686_133.png/330px-Principia1686_133.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXV. Theor. XXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-35",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Principia1686_134.png/250px-Principia1686_134.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXV. Theor. XXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-35",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Principia1686_135.png/330px-Principia1686_135.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXV. Theor. XXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-38",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Principia1686_136.png/250px-Principia1686_136.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXVIII. Theor. XXIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-41",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Principia1686_137.png/250px-Principia1686_137.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLI. Theor. XXXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-41",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Principia1686_138.png/330px-Principia1686_138.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLI. Theor. XXXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-42",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Principia1686_138.png/330px-Principia1686_138.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLII. Theor. XXXII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-44",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Principia1686_139.png/330px-Principia1686_139.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLIV. Theor. XXXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-48",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Principia1686_140.png/120px-Principia1686_140.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLVIII. Theor. XXXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-48",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Principia1686_141.png/250px-Principia1686_141.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLVIII. Theor. XXXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-51",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Principia1686_142.png/250px-Principia1686_142.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LI. Theor. XXXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-52",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Principia1686_143.png/250px-Principia1686_143.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. LII. Theor. XXXIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-intro",
+    "note": "1 paragraph(s) of reading text precede this Division's first numbered item in the source (e.g. an introductory/transitional remark); kept as this leading \"-intro\" leaf Division rather than being dropped as if it were furniture."
+  },
+  {
+    "where": "book-3-prop-19",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Principia1686_144.png/250px-Principia1686_144.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XIX. Prob. II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-24",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Principia1686_145.png/330px-Principia1686_145.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXIV. Theor. XX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-25",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Principia1686_146.png/330px-Principia1686_146.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXV. Prob. V.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-26",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Principia1686_147.png/330px-Principia1686_147.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXVI. Prob. VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-28",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Principia1686_148.png/250px-Principia1686_148.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXVIII. Prob. VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-29",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Principia1686_149.png/330px-Principia1686_149.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXIX. Prob. IX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-30",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Principia1686_150.png/330px-Principia1686_150.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXX. Prob. X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-31",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Principia1686_151.png/250px-Principia1686_151.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXI. Prob. XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-32",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Principia1686_152.png/330px-Principia1686_152.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXII. Prob. XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-33",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Principia1686_153.png/330px-Principia1686_153.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXIII. Prob. XIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-34",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Principia1686_154.png/330px-Principia1686_154.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXIV. Prob. XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-35",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Principia1686_155.png/330px-Principia1686_155.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXV. Prob. XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-36",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Principia1686_156.png/330px-Principia1686_156.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXVI. Prob. XVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-1",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Principia1686_157.png/250px-Principia1686_157.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-39",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Principia1686_157.png/250px-Principia1686_157.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXIX. Prob. XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-39",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Principia1686_158.png/250px-Principia1686_158.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XXXIX. Prob. XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-4",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Principia1686_159.png/330px-Principia1686_159.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma IV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-4",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Principia1686_160.png/250px-Principia1686_160.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma IV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-5",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Principia1686_161.png/330px-Principia1686_161.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma V.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-7",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Principia1686_162.png/250px-Principia1686_162.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-8",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Principia1686_163.png/330px-Principia1686_163.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Lemma VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-41",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Principia1686_164.png/330px-Principia1686_164.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLI. Prob. XX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-41",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Principia1686_165.png/330px-Principia1686_165.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLI. Prob. XX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-41",
+    "note": "Diagram marker (//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Principia1686_166.png/500px-Principia1686_166.png?utm_source=la.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton, Philosophiae Naturalis Principia Mathematica (1687) Prop. XLI. Prob. XX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "newton-principia-la / book-3",
+    "note": "This FIRST edition (1687) opens Book III with nine unnumbered-group \"HYPOTHESES\" rather than the four-rule \"Regulae Philosophandi\" + separate \"Phaenomena\" that Newton introduced starting with the 1713 second edition. This is a genuine, well-documented feature of the first edition's text, preserved exactly as printed - not a parsing gap. See about.json."
+  },
+  {
+    "where": "newton-principia-la / general scholium",
+    "note": "The famous General Scholium (\"Hypotheses non fingo...\") does not exist in this FIRST edition (1687) at all - it was written for and first appeared in the 1713 second edition. This edition's Book III ends, correctly, straight after Proposition XLII with the printed word \"FINIS.\" No general-scholium Division is emitted for this work; see about.json."
+  }
+]

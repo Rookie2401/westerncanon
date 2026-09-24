@@ -1,0 +1,25 @@
+{
+  "workId": "archimedes-sand-reckoner",
+  "sourceIdentifier": "archimedisoperao02arch",
+  "sourceDescription": "Heiberg, Archimedis Opera Omnia cum commentariis Eutocii, 1st ed., vol. 2 (Teubner, 1880/81)",
+  "divisions": {
+    "archimedes-sand-reckoner-ch-1": [
+      {
+        "image": "images/ch-1.png",
+        "width": 1815,
+        "height": 1563,
+        "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 256, leaf 294"
+      }
+    ]
+  },
+  "markers": [
+    {
+      "division": "archimedes-sand-reckoner-ch-1",
+      "index": 0,
+      "leaf": 294,
+      "printedPage": "256",
+      "image": "images/ch-1.png",
+      "note": "Diagram for the geometric construction bounding the sun's angular diameter (circle ΑΒΓ = cosmos, ΔΕΖ = earth, ΣΗ = sun, centre Θ/Κ, sighting lines from eye Δ tangent to the sun's circle). This is the construction that follows the earlier textual description (pp. 251-253, leaves 287-289) of the rod-and-cylinder sighting apparatus itself, which prints no diagram of its own - only this later lettered figure is illustrated in the source."
+    }
+  ]
+}

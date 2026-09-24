@@ -1,0 +1,177 @@
+[
+  {
+    "find": "3S. Jolin I., surnamed the Just, marcjnis of Mont-",
+    "replace": "38. John I., surnamed the Just, marquis of Mont-",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "fenat, succeeded his father, William V. (or VU.), in",
+    "replace": "ferrat, succeeded his father, William V. (or VII.), in",
+    "note": "fenat -> ferrat (continuation of 'Mont-ferrat'); VU. -> VII."
+  },
+  {
+    "find": "1292, married, in 1296, a daughter of Amadeus V,,",
+    "replace": "1292, married, in 1296, a daughter of Amadeus V.,",
+    "note": "trailing punctuation V,, -> V.,"
+  },
+  {
+    "find": "count of Savoy, and died in 1305. The reason wliy",
+    "replace": "count of Savoy, and died in 1305. The reason why",
+    "note": "wliy -> why"
+  },
+  {
+    "find": "of his accession to the marquisate, lie was frecjuenting",
+    "replace": "of his accession to the marquisate, he was frequenting",
+    "note": "lie -> he; frecjuenting -> frequenting"
+  },
+  {
+    "find": "the court of Charles II. of Naples, w!iich may perha])s",
+    "replace": "the court of Charles II. of Naples, which may perhaps",
+    "note": "w!iich -> which; perha])s -> perhaps"
+  },
+  {
+    "find": "in fart account for it.",
+    "replace": "in part account for it.",
+    "note": "fart -> part"
+  },
+  {
+    "find": "3X. Azzo VIII., marquis of Este, succec-ded his",
+    "replace": "38. Azzo VIII., marquis of Este, succeeded his",
+    "note": "note number confirmed as printed '38.' (duplicate of the preceding note number in this edition; not an OCR error) but OCR misread the digit as '3X.'; succec-ded -> succeeded"
+  },
+  {
+    "find": "father Obizzo II, in 1293 and died in 130S. In",
+    "replace": "father Obizzo II. in 1293 and died in 1308. In",
+    "note": "II, -> II.; 130S. -> 1308."
+  },
+  {
+    "find": "1305 he married Beatrice, dauj^hter of Charles II. of",
+    "replace": "1305 he married Beatrice, daughter of Charles II. of",
+    "note": "dauj^hter -> daughter"
+  },
+  {
+    "find": "Najiles, as liis second wife, a transaction denounced",
+    "replace": "Naples, as his second wife, a transaction denounced",
+    "note": "Najiles -> Naples; liis -> his"
+  },
+  {
+    "find": "in Fur^atorio, XX. So. In Pu/ir,jion'o, V. 77, 78, Dante",
+    "replace": "in Purgatorio, XX. 80. In Purgatorio, V. 77, 78, Dante",
+    "note": "citation text heavily garbled"
+  },
+  {
+    "find": "Az/.o t()(jk part with tin.- Neri of Florence in a futile",
+    "replace": "Azzo took part with the Neri of Florence in a futile",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "attempt to drive tlie Jiianchi refugees out of Bologna",
+    "replace": "attempt to drive the Bianchi refugees out of Bologna",
+    "note": "tlie -> the; Jiianchi -> Bianchi"
+  },
+  {
+    "find": "and to upset the government of that city. Tlie horns,",
+    "replace": "and to upset the government of that city. The horns,",
+    "note": "Tlie -> The"
+  },
+  {
+    "find": "assigned as instruments to the mar<iuises John and",
+    "replace": "assigned as instruments to the marquises John and",
+    "note": "mar<iuises -> marquises"
+  },
+  {
+    "find": "Azzo, may indicate their pride (see Infmo, XXXI.",
+    "replace": "Azzo, may indicate their pride (see Inferno, XXXI.",
+    "note": "Infmo -> Inferno"
+  },
+  {
+    "find": "71 in connection with Purgaturio, XII. 34-36).",
+    "replace": "71 in connection with Purgatorio, XII. 34-36).",
+    "note": "Purgaturio -> Purgatorio"
+  },
+  {
+    "find": "43. Compare l)e Monarclna, II. 12: 21-23.",
+    "replace": "43. Compare De Monarchia, II. 12: 21-23.",
+    "note": "l)e Monarclna -> De Monarchia"
+  },
+  {
+    "find": "50. Tragcmi, etc. The thiril line of a poem in the",
+    "replace": "50. Tragemi, etc. The third line of a poem in the",
+    "note": "Tragcmi -> Tragemi; thiril -> third"
+  },
+  {
+    "find": "Its date is not earlier than 1231. Tlie author appears",
+    "replace": "Its date is not earlier than 1231. The author appears",
+    "note": "Tlie -> The"
+  },
+  {
+    "find": "to iiave been a minstrel in a humble way of life",
+    "replace": "to have been a minstrel in a humble way of life",
+    "note": "iiave -> have"
+  },
+  {
+    "find": "(Gaspary, . 0^. cit. 71-74). His name, said to be",
+    "replace": "(Gaspary, op. cit. 71-74). His name, said to be",
+    "note": "op. cit. garbled"
+  },
+  {
+    "find": "Cielo dal Camo, or D'Alcaino, has long been a subject",
+    "replace": "Cielo dal Camo, or D'Alcamo, has long been a subject",
+    "note": "D'Alcaino -> D'Alcamo"
+  },
+  {
+    "find": "54. riiat lan^Uinye ivJiich h most ivorthi/ of pruise, i.e.",
+    "replace": "54. That language which is most worthy of praise, i.e.",
+    "note": "italic phrase heavily garbled"
+  },
+  {
+    "find": "the highest form of tlie language of Italy described",
+    "replace": "the highest form of the language of Italy described",
+    "note": "tlie -> the"
+  },
+  {
+    "find": "64. Ctiriil. See below, I. 18: 34.",
+    "replace": "64. Curial. See below, I. 18: 34.",
+    "note": "Ctiriil -> Curial"
+  },
+  {
+    "find": "67. MdJunna, *i.K.c. The first line of a canzone by",
+    "replace": "67. Madonna, etc. The first line of a canzone by",
+    "note": "Madonna and 'etc.' garbled"
+  },
+  {
+    "find": "wlio flourished in the first half of the thirteenth centur v.",
+    "replace": "who flourished in the first half of the thirteenth century.",
+    "note": "wlio -> who; centur v. -> century."
+  },
+  {
+    "find": "He was known (ic is said, on account of his skill in",
+    "replace": "He was known (it is said, on account of his skill in",
+    "note": "ic -> it"
+  },
+  {
+    "find": "the legal profession) as t!ie Notary, and by tluit name",
+    "replace": "the legal profession) as the Notary, and by that name",
+    "note": "t!ie -> the; tluit -> that"
+  },
+  {
+    "find": "is associated in 2'ur(^atorio, XXIV. 55-57 (wliere see",
+    "replace": "is associated in Purgatorio, XXIV. 55-57 (where see",
+    "note": "Purgatorio garbled; wliere -> where"
+  },
+  {
+    "find": "note) with Eonagiunta of Lucca and fJuittone of",
+    "replace": "note) with Bonagiunta of Lucca and Guittone of",
+    "note": "Eonagiunta -> Bonagiunta; fJuittone -> Guittone"
+  },
+  {
+    "find": "Arezzo, as having been * lultl back ' by the ' knot ' of",
+    "replace": "Arezzo, as having been ' held back ' by the ' knot ' of",
+    "note": "'held back' garbled"
+  },
+  {
+    "find": "the * bwect new style,'",
+    "replace": "the ' sweet new style.'",
+    "note": "'sweet' garbled and closing punctuation"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "find": "all writes verse ought to adorn his verse as far as",
+    "replace": "writes verse ought to adorn his verse as far as",
+    "note": "leading 'all' is leaked margin caption"
+  },
+  {
+    "find": "versifiers he is able. Wherefore, since nothing affords",
+    "replace": "he is able. Wherefore, since nothing affords",
+    "note": "leading 'versifiers' is leaked margin caption"
+  },
+  {
+    "find": "\"f* 80. great an adornment []2o] as the illustrious",
+    "replace": "so great an adornment [20] as the illustrious",
+    "note": "leaked/garbled margin caption and OCR noise; dropped word 'so' restored; bracket fixed"
+  },
+  {
+    "find": "Ian- vernacular docs, it would seem that every writer",
+    "replace": "vernacular does, it would seem that every writer",
+    "note": "leading 'Ian-' is leaked margin caption; OCR misread 'does'"
+  },
+  {
+    "find": "g^age? of verse ought to em})loy it. Besides, if that",
+    "replace": "of verse ought to employ it. Besides, if that",
+    "note": "leading garbage is leaked margin caption; OCR misread 'employ'"
+  },
+  {
+    "find": "■which is best in its kind be mixed with things",
+    "replace": "which is best in its kind be mixed with things",
+    "note": "stray leading symbol removed"
+  },
+  {
+    "find": "illustrious vernacular with liis rudeness of matter,",
+    "replace": "illustrious vernacular with his rudeness of matter,",
+    "note": "OCR misread 'his'"
+  },
+  {
+    "find": "he not only appears to do well, but to be actujilly",
+    "replace": "he not only appears to do well, but to be actually",
+    "note": "OCR misread 'actually'"
+  },
+  {
+    "find": "obliged to take tiii;; course [30]. Those who",
+    "replace": "obliged to take this course [30]. Those who",
+    "note": "OCR misread 'this'"
+  },
+  {
+    "find": "j even poets of the highest order ought always to",
+    "replace": "even poets of the highest order ought always to",
+    "note": "stray leading symbol removed"
+  },
+  {
+    "find": "i assume it, as will appear from a consideration of",
+    "replace": "assume it, as will appear from a consideration of",
+    "note": "stray leading symbol removed"
+  },
+  {
+    "find": "matters and our dress, demands men of ilkf quality",
+    "replace": "matters and our dress, demands men of like quality",
+    "note": "OCR misread 'like'"
+  },
+  {
+    "find": "• Uo its own; for munificence demands men of",
+    "replace": "to its own; for munificence demands men of",
+    "note": "stray leading symbol removed; OCR misread 'to'"
+  },
+  {
+    "find": "i great resources, and the purple, men of noble",
+    "replace": "great resources, and the purple, men of noble",
+    "note": "stray leading symbol removed"
+  },
+  {
+    "find": ": character, and in the same way [_^o~\\ this illustrious",
+    "replace": "character, and in the same way [40] this illustrious",
+    "note": "stray leading symbol removed; bracket number garbled"
+  },
+  {
+    "find": "(language seeks for men who excel in genius and",
+    "replace": "language seeks for men who excel in genius and",
+    "note": "stray leading symbol removed"
+  },
+  {
+    "find": "; knowledge, and despises others, as will appc?r",
+    "replace": "knowledge, and despises others, as will appear",
+    "note": "stray leading symbol removed; OCR misread 'appear'"
+  },
+  {
+    "find": "is suited to us is so either in rcs])cct of the",
+    "replace": "is suited to us is so either in respect of the",
+    "note": "OCR misread 'respect'"
+  },
+  {
+    "find": "■ language is not suited to us in respect of our",
+    "replace": "language is not suited to us in respect of our",
+    "note": "stray leading symbol removed"
+  },
+  {
+    "find": "• genus, for then it would also be suited to the",
+    "replace": "genus, for then it would also be suited to the",
+    "note": "stray leading symbol removed"
+  }
+]

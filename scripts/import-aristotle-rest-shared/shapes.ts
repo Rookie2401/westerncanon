@@ -236,6 +236,60 @@ export function mapBookChapter(
   return { divisions, chapterStats, chaptersWithoutRef, totalChapters };
 }
 
+/** Problem -> Section (Mechanica only). The source's `problemSubtype` divs
+ *  are numbered n="0" (the unnumbered preface) then n="1".."K" (the
+ *  traditional Problems), in document order, and each holds `sectionSubtype`
+ *  divs whose own numbering restarts at 1 - so a flat `ch-N` list would NOT
+ *  be unique. Emits `preface` (number null, editorialTitle "Preface") with
+ *  children `preface-ch-M`, and `problem-N` (number N) with children
+ *  `problem-N-ch-M`. The problem numbers must be exactly 0..K in document
+ *  order (hard-checked): the diagram map in diagrams/aristotle.ts is keyed
+ *  by these ids. */
+export function mapProblemSection(
+  root: WalkDiv,
+  problemSubtype: string,
+  sectionSubtype: string,
+  workId: string,
+  anomalies: Anomaly[],
+): FoldResult {
+  const problems = findAllBySubtype(root, problemSubtype);
+  if (problems.length === 0) throw new Error(`${workId}: no "${problemSubtype}" divisions found`);
+  const divisions: Division[] = [];
+  const chapterStats = emptyStats();
+  let chaptersWithoutRef = 0;
+  let totalChapters = 0;
+  problems.forEach((p, pi) => {
+    const rawN = p.n ?? '';
+    if (rawN !== String(pi)) {
+      throw new Error(`${workId}: expected "${problemSubtype}" div #${pi + 1} to carry n="${pi}" (0 = preface, then Problems 1..), got n="${rawN}"`);
+    }
+    const isPreface = pi === 0;
+    const prefix = isPreface ? 'preface' : `problem-${rawN}`;
+    const sections = findAllBySubtype(p, sectionSubtype);
+    if (sections.length === 0) throw new Error(`${workId} / ${prefix}: no "${sectionSubtype}" divisions found`);
+    const children: Division[] = sections.map((s, si) => {
+      const number = s.n ?? String(si + 1);
+      const id = `${prefix}-ch-${number}`;
+      const where = `${workId} / ${id}`;
+      const { division, stats } = buildChapterDivision(s, id, number, where, anomalies);
+      if (division.ref === null) chaptersWithoutRef += 1;
+      addStats(chapterStats, stats);
+      totalChapters += 1;
+      return division;
+    });
+    divisions.push({
+      id: prefix,
+      number: isPreface ? null : rawN,
+      ref: null,
+      sourceHeading: p.head,
+      editorialTitle: isPreface ? 'Preface' : null,
+      children,
+      passages: [],
+    });
+  });
+  return { divisions, chapterStats, chaptersWithoutRef, totalChapters };
+}
+
 /** Book -> Bekker-page (Politics only): the source itself divides directly
  *  at every Bekker page, with no chapter level. Each `bekker_page` div
  *  becomes one Chapter, numbered sequentially within its Book; its

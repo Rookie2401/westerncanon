@@ -233,13 +233,13 @@ describe('GenericReader (Euclid Elements)', () => {
     expect(screen.queryByText(/not yet available in this build/i)).toBeNull();
   });
 
-  it('renders Book IV.16 (the one proposition in Books I-IV with no printed diagram at all) as an honest note, never a figure mask', async () => {
+  it('renders Book IV.16 (whose printed diagram sits on the Greek page, found by a later pass) as a mask-tinted figure, no longer as a note', async () => {
     renderAt('book-4-prop-16');
-    expect(
-      await screen.findByText(/A diagram appears here in the printed edition/i),
-    ).toBeTruthy();
-    expect(screen.getByText('Heiberg, Elements IV.16')).toBeTruthy();
-    expect(document.querySelector('.gr-figure__img')).toBeNull();
+    expect(await screen.findByText('Heiberg, Elements IV.16')).toBeTruthy();
+    const fig = document.querySelector<HTMLElement>('.gr-figure__img');
+    expect(fig).not.toBeNull();
+    expect(fig!.style.maskImage).toContain('images/book-4-prop-16.png');
+    expect(screen.queryByText(/A diagram appears here in the printed edition/i)).toBeNull();
     expect(document.querySelector('.gr-figure img')).toBeNull();
     expect(document.querySelector('img')).toBeNull();
   });

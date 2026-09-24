@@ -1,0 +1,167 @@
+[
+  {
+    "find": "alone are Illustrious canzoni found to be made",
+    "replace": "alone are illustrious canzoni found to be made",
+    "note": "wrong capitalisation (OCR)"
+  },
+  {
+    "find": "up as fthat by] Giraut de Borneil,",
+    "replace": "up as [that by] Giraut de Borneil,",
+    "note": "misread bracket"
+  },
+  {
+    "find": "* 0/ per mou ooL>re-tol% no Jos. ^",
+    "replace": "'Si per mon Sobre-totz no fos.' 1",
+    "note": "heavily garbled Occitan quotation + footnote marker"
+  },
+  {
+    "find": "[that by3 Folquet of Marseilles,",
+    "replace": "[that by] Folquet of Marseilles,",
+    "note": "misread bracket"
+  },
+  {
+    "find": "* Tan ni nhdl'ts f amoros ptnsamens^ 2",
+    "replace": "'Tan m'abellis l'amoros pensamens.' 2",
+    "note": "heavily garbled Occitan quotation"
+  },
+  {
+    "find": "[60] [that by3 Arnaut Daniel,",
+    "replace": "[60] [that by] Arnaut Daniel,",
+    "note": "misread bracket"
+  },
+  {
+    "find": "* Sols su'i qui sai lo sohraffan quern sortz.* ^",
+    "replace": "'Sols sui qui sai lo sobraffan quem sortz.' 3",
+    "note": "heavily garbled Occitan quotation + footnote marker"
+  },
+  {
+    "find": "[that by] Aimeric de Belcnoi,",
+    "replace": "[that by] Aimeric de Belenoi,",
+    "note": "misread Belenoi"
+  },
+  {
+    "find": "* Nuls horn nan pot compl'ir addreclamen* *",
+    "replace": "'Nuls hom non pot complir addreciamen.' 4",
+    "note": "heavily garbled Occitan quotation + footnote marker"
+  },
+  {
+    "find": "[that by3 Aimeric de Pcguliian,",
+    "replace": "[that by] Aimeric de Pegulhan,",
+    "note": "misread bracket/name"
+  },
+  {
+    "find": "* SI corn T arhres que per solrecarcar.* ^",
+    "replace": "'Si com l'arbres que per sobrecarcar.' 5",
+    "note": "heavily garbled Occitan quotation + footnote marker"
+  },
+  {
+    "find": "[that by3 the King of Navarre,",
+    "replace": "[that by] the King of Navarre,",
+    "note": "misread bracket"
+  },
+  {
+    "find": "* Ire d'amor qui en mon cor repalre. ^",
+    "replace": "'Ire d'amor qui en mon cor repaire.' 6",
+    "note": "garbled Occitan quotation + footnote marker"
+  },
+  {
+    "find": "[that byj Guido Guinizelli,",
+    "replace": "[that by] Guido Guinizelli,",
+    "note": "misread bracket"
+  },
+  {
+    "find": "* Tegno de folic ^npresa a lo ver dire* \"^",
+    "replace": "'Tegno de folle 'mpresa a lo ver dire.' 7",
+    "note": "garbled Italian quotation + footnote marker"
+  },
+  {
+    "find": "[that by] Guido CavalcantI,",
+    "replace": "[that by] Guido Cavalcanti,",
+    "note": "misread final letter"
+  },
+  {
+    "find": "* Pol che dl do^llii cor conven ch^lo portl.^ ^",
+    "replace": "'Poi che di doglia cor conven ch'io porti.' 8",
+    "note": "garbled Italian quotation + footnote marker"
+  },
+  {
+    "find": "[703 [that by] Cino of PIstoja,",
+    "replace": "[70] [that by] Cino of Pistoja,",
+    "note": "misread bracketed number/name"
+  },
+  {
+    "find": "* j'lxH-gria che lo a^^'glii plu per tempo* ^",
+    "replace": "'Avegna che io aggia più per tempo.' 9",
+    "note": "garbled Italian quotation + footnote marker"
+  },
+  {
+    "find": "[that by] liis friend,",
+    "replace": "[that by] his friend,",
+    "note": "misread his"
+  },
+  {
+    "find": "* Amor che rella vienle ml raglona*",
+    "replace": "'Amor che nella mente mi ragiona.'",
+    "note": "garbled Italian quotation"
+  },
+  {
+    "find": "^ 'Were it not for my All-excelling one.'",
+    "replace": "1 'Were it not for my All-excelling one.'",
+    "note": "misread footnote number"
+  },
+  {
+    "find": "2 ' So pleasing is to mc the amorous thought.*",
+    "replace": "2 ' So pleasing is to me the amorous thought.'",
+    "note": "misread me; asterisk misread of closing quote"
+  },
+  {
+    "find": "3 ' I aloiic am lie who knows the excessive grief",
+    "replace": "3 ' I alone am he who knows the excessive grief",
+    "note": "misread alone/he"
+  },
+  {
+    "find": "^ 'No man can properly fulfil [what he I\\as in",
+    "replace": "4 'No man can properly fulfil [what he has in his",
+    "note": "misread footnote number; misread has; dropped \"his\""
+  },
+  {
+    "find": "^ *Kven as the tree which through being overladen.*",
+    "replace": "5 'Even as the tree which through being overladen.'",
+    "note": "misread footnote number/Even; asterisk misread of closing quote"
+  },
+  {
+    "find": "\" * Sorrow of love which in my heart al)Ide8.'",
+    "replace": "6 'Sorrow of love which in my heart abides.'",
+    "note": "misread footnote number/abides"
+  },
+  {
+    "find": "' 'To say the truth, I hold lus conduct foolish",
+    "replace": "7 'To say the truth, I hold his conduct foolish",
+    "note": "misread footnote number/his"
+  },
+  {
+    "find": "[who yields himself to on*.- too powerful].*",
+    "replace": "[who yields himself to one too powerful].'",
+    "note": "misread one; asterisk misread of closing quote"
+  },
+  {
+    "find": "■^ ' Since 1 must needs bear a heart of woe.*",
+    "replace": "8 ' Since I must needs bear a heart of woe.'",
+    "note": "misread footnote number/I; asterisk misread of closing quote"
+  },
+  {
+    "find": "^ * Albe't my prayers have not so long delayed*",
+    "replace": "9 'Albeit my prayers have not so long delayed'",
+    "note": "misread footnote number/Albeit; asterisk misread of quote"
+  },
+  {
+    "find": "(Ros?ctti'5 trans.).",
+    "replace": "(Rossetti's trans.).",
+    "note": "misread Rossetti's"
+  },
+  {
+    "find": "wliich rises [in my heart].'",
+    "replace": "which rises [in my heart].'",
+    "note": "misread which"
+  }
+]

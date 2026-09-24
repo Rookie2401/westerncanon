@@ -1,0 +1,10 @@
+[
+  {
+    "where": "dante-convivio-en / whole work",
+    "note": "Excluded from the reading text: Henry Morley's own signed introduction (\"H.M.\", dated April 1887) preceding \"THE BANQUET OF DANTE ALIGHIERI\" (editorial front matter, not Dante's or Sayer's translated text); the publisher's back-matter essay \"NOTE ON THE DATE OF THE CONVITO\" following the end of Book IV chapter XXX (editorial commentary on when the work was written, not part of the translated text); and the Project Gutenberg transcription credits/license boilerplate."
+  },
+  {
+    "where": "dante-convivio-en / canzoni",
+    "note": "The Second, Third and Fourth Treatises each open with the printed text of the canzone that treatise then comments upon (the First Treatise, Dante's own general introduction, opens with none). This is genuine primary text, not front matter, and is kept as an extra child Division (\"book-N-canzone\", number null) placed before that treatise's Chapter I. 3 canzone(s) included this way."
+  }
+]

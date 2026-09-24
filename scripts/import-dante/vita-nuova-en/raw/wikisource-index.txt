@@ -1,0 +1,42 @@
+{{other translations|Vita Nuova (Dante)}}
+{{header
+ | title      = The New Life (La Vita Nuova)
+ | author     = Dante Alighieri
+ | translator = Dante Gabriel Rossetti
+ | year       = 1899
+ | section    = 
+ | previous   =  
+ | next       = [[/Front Matter|Prefatory Note & Introduction]]
+ | wikipedia  = La Vita Nuova
+ | notes      = {{media|key = y |type = spoken |parts=sections}}
+ | portal = Italian literature
+ | categories = Italian literature/Works originally in Italian
+}}
+
+<pages index="The New Life (Rossetti 1899) Siddal ed.djvu" include=1 />
+{{ppb}}
+<pages index="The New Life (Rossetti 1899) Siddal ed.djvu" include=9 />
+{{ppb}}
+<pages index="The New Life (Rossetti 1899) Siddal ed.djvu" include=8 />
+{{ppb}}
+{{Auxiliary Table of Contents|title=Sections|
+* {{larger|[[/Front Matter#5|Prefatory Note]]}}
+* {{larger|[[/Front Matter#13|Introduction]]}}
+* {{larger|[[/Section 1|The New Life]]{{sup|{{tooltip|[†]|{{:New Life (Rossetti 1899)/Sections note}}}}}}}}
+** [[/Section 1/]]
+** [[/Section 2/]]
+** [[/Section 3/]]
+** [[/Section 4/]]
+** [[/Section 5/]]
+** [[/Section 6/]]
+** [[/Section 7/]]
+** [[/Section 8/]]
+** [[/Section 9/]]
+** [[/Section 10/]]
+** [[/Section 11/]]}}
+{{ppb}}
+<pages index="The New Life (Rossetti 1899) Siddal ed.djvu" include=10 />
+{{Advertisements|<pages index="The New Life (Rossetti 1899) Siddal ed.djvu" include=167 />}}
+
+{{Authority control}}
+{{translation license|original={{PD-old}}|translation={{PD-old}}}}

@@ -1,0 +1,72 @@
+[
+  {
+    "find": "[Inasmuch as humnn beings are not, like the brutes,",
+    "replace": "[Inasmuch as human beings are not, like the brutes,",
+    "note": "OCR misread 'human'"
+  },
+  {
+    "find": "guiilecl as to their knowledge of one another l)y",
+    "replace": "guided as to their knowledge of one another by",
+    "note": "OCR misread 'guided'/'by'"
+  },
+  {
+    "find": "difler froiu both by the possession of reason",
+    "replace": "differ from both by the possession of reason",
+    "note": "OCR misread 'differ'/'from'"
+  },
+  {
+    "find": "together \\vit)i senses, they retiuire a means of",
+    "replace": "together with senses, they require a means of",
+    "note": "OCR misread 'with'/'require'"
+  },
+  {
+    "find": "comniunicalion which shall be both rational and",
+    "replace": "communication which shall be both rational and",
+    "note": "OCR misread 'communication'"
+  },
+  {
+    "find": "\"sensilile, and siich is speech.]",
+    "replace": "sensible, and such is speech.]",
+    "note": "stray leading quote character removed; OCR misread 'sensible'/'such'"
+  },
+  {
+    "find": "WTiy Since, then, man is not moved by natural Instinct\nspeech is but by reason, and reason itself differs in in-\nnecessary JJviduals in res])ect of discernment, judgment,\nnicin i i • ■ i c i",
+    "replace": "Since, then, man is not moved by natural instinct\nbut by reason, and reason itself differs in in-\ndividuals in respect of discernment, judgment,",
+    "note": "leading fragments on these lines ('WTiy', 'speech is', 'necessary') and the entire garbage line 'nicin i i . . i c i' are leaked fragments of the adjacent margin caption ('Why speech is necessary for man'), not part of the sentence; also fixed OCR misreads 'instinct'/'dividuals'/'respect'"
+  },
+  {
+    "find": "means of his own actions or j)assion8, as a brute",
+    "replace": "means of his own actions or passions, as a brute",
+    "note": "OCR misread 'passions'"
+  },
+  {
+    "find": "into another by spiritual insight [^loj, like an",
+    "replace": "into another by spiritual insight [10], like an",
+    "note": "OCR garbled the bracketed number '[10]'"
+  },
+  {
+    "find": "angel, since the humaa spirit is held back by the",
+    "replace": "angel, since the human spirit is held back by the",
+    "note": "OCR misread 'human'"
+  },
+  {
+    "find": "grossness and opacity cf its mortal body. It was",
+    "replace": "grossness and opacity of its mortal body. It was",
+    "note": "OCR misread 'of'"
+  },
+  {
+    "find": "except [|2o3 through a medium of sense, it had",
+    "replace": "except [20] through a medium of sense, it had",
+    "note": "OCR garbled the bracketed number '[20]'"
+  },
+  {
+    "find": "other]] ; and were it only sensible it would neither",
+    "replace": "other] ; and were it only sensible it would neither",
+    "note": "duplicated closing bracket reduced to one, matching the printed text"
+  },
+  {
+    "find": "tliat no one has knowledge of another by",
+    "replace": "that no one has knowledge of another by",
+    "note": "OCR misread that (residual audit)"
+  }
+]

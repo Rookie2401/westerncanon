@@ -657,7 +657,7 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[1]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[4]",
@@ -681,7 +681,7 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[2]",
-    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (2) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[5]",
@@ -697,15 +697,15 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[5]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-3 / passage[3]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-4 / passage[2]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-4 / passage[3]",
@@ -757,7 +757,7 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-5 / passage[2]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-6 / passage[1]",
@@ -781,7 +781,7 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[2]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[3]",
@@ -789,7 +789,7 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[3]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]",
@@ -829,7 +829,7 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[4]",
@@ -845,7 +845,7 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[4]",
-    "note": "<figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[5]",
@@ -901,6 +901,6 @@
   },
   {
     "where": "archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-9 / passage[2]",
-    "note": "<figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled."
+    "note": "<figure> diagram marker (2) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/)."
   }
 ]

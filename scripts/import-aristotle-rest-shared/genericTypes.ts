@@ -5,11 +5,23 @@
  * (see typesTemplate.ts) so each work directory stays self-contained.
  */
 
+/** Mirrors src/library/types.ts#PassageFigure (image variant only is used here). */
+export interface PassageFigure {
+  image?: string;
+  imageWidth?: number;
+  imageHeight?: number;
+  alt?: string;
+  source: string;
+  note?: string;
+}
+
 export interface Passage {
   n: string;
   text: string;
   ref: string | null;
   anomaly?: string;
+  /** a real printed diagram (Mechanica only so far; see diagrams/aristotle.ts) */
+  figure?: PassageFigure;
 }
 
 export interface Division {

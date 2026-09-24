@@ -1,0 +1,18 @@
+[
+  {
+    "where": "boethius-quomodo-substantiae-la / ch-1",
+    "note": "This division's text opens with the manuscript's own incipit/dedication rubric (\"Item eiusdem ad eundem quomodo substantiae in eo quod sint bonae sint cum non sint substan…\"), kept verbatim as its first paragraph (genuine source text, not apparatus)."
+  },
+  {
+    "where": "boethius-quomodo-substantiae-la / structure",
+    "note": "This edition marks no internal chapter divisions for this tractate at all: the entire text is one continuous `<div subtype=\"section\" n=\"1\">`. Imported as a single division, ch-1, rather than an invented chapter split."
+  },
+  {
+    "where": "boethius-quomodo-substantiae-la / transport scaffolding",
+    "note": "34 <milestone unit=\"loebline\"/> ticks and 7 <pb/> page-break markers were dropped as pure typesetting scaffolding; this source carries no citation scheme this schema can use, so Division.ref and Passage.ref are null throughout."
+  },
+  {
+    "where": "boethius-quomodo-substantiae-la / direct speech",
+    "note": "1 <q>...</q> span(s) carry no literal quotation-mark characters in this XML. 1 are fully contained within a single paragraph-level unit and are rendered wrapped in straight double quotes, matching this app's Consolatio handling. 0 wrap one or more WHOLE <p> paragraphs; for these no quote mark is synthesised, since placing one correctly across a paragraph boundary would be invented rather than read from the source."
+  }
+]

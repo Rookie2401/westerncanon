@@ -1,0 +1,87 @@
+[
+  {
+    "find": "[Meaning; of the epithet illustrious as ap]>liecl to the",
+    "replace": "[Meaning of the epithet illustrious as applied to the",
+    "note": "stray semicolon after \"Meaning\"; OCR misread \"applied\""
+  },
+  {
+    "find": "Ianj;uai^c common to all Italy. This language is",
+    "replace": "language common to all Italy. This language is",
+    "note": "OCR misread \"language\""
+  },
+  {
+    "find": "illustrious ( I )l>y training, ;',<f. purification from un-",
+    "replace": "illustrious (1) by training, i.e. purification from un-",
+    "note": "OCR misread \"(1) by\" and \"i.e.\""
+  },
+  {
+    "find": "suitable elements ; {2) hy its inherent power ; (3)",
+    "replace": "suitable elements ; (2) by its inherent power ; (3)",
+    "note": "OCR misread \"(2) by\""
+  },
+  {
+    "find": "by tlie honour it confers on its fullowers.]",
+    "replace": "by the honour it confers on its followers.]",
+    "note": "OCR misread \"the\"/\"followers\""
+  },
+  {
+    "find": "We must now set forth why it is that wc call The",
+    "replace": "We must now set forth why it is that we call",
+    "note": "OCR misread \"we\"; remove leftover margin-caption fragment \"The\""
+  },
+  {
+    "find": "this language we have found by the epithets standard",
+    "replace": "this language we have found by the epithets",
+    "note": "remove leftover margin-caption fragment \"standard\""
+  },
+  {
+    "find": "illustrious, cardinal, courtly, and curia! ; and by .^\"&u3.ge",
+    "replace": "illustrious, cardinal, courtly, and curial ; and by",
+    "note": "OCR misread \"curial\"; remove leftover garbled margin-caption fragment"
+  },
+  {
+    "find": "doing this we disclose the nature of the language illustrious",
+    "replace": "doing this we disclose the nature of the language",
+    "note": "remove leftover margin-caption fragment \"illustrious\""
+  },
+  {
+    "find": "why we call the language illi:strious. Now we",
+    "replace": "why we call the language illustrious. Now we",
+    "note": "OCR misread \"illustrious\""
+  },
+  {
+    "find": "understand by this term ** illustrious ' something",
+    "replace": "understand by this term 'illustrious' something",
+    "note": "stray asterisks/quote marks normalised"
+  },
+  {
+    "find": "which hhines forth illuminating and [^lo]]",
+    "replace": "which shines forth illuminating and [10]",
+    "note": "OCR misread \"shines\"; bracket number"
+  },
+  {
+    "find": "illuminated. And in this way wc call men",
+    "replace": "illuminated. And in this way we call men",
+    "note": "OCR misread \"we\""
+  },
+  {
+    "find": "iSeneca and Numa Pompilius. And the verna-",
+    "replace": "Seneca and Numa Pompilius. And the verna-",
+    "note": "OCR misread \"Seneca\""
+  },
+  {
+    "find": "[|2oJ words, involved constructions, faulty ex-",
+    "replace": "[20] words, involved constructions, faulty ex-",
+    "note": "bracket number misread"
+  },
+  {
+    "find": "pressions, and rustic accents we sec that it has",
+    "replace": "pressions, and rustic accents we see that it has",
+    "note": "OCR misread \"see\""
+  },
+  {
+    "find": "clearness, comj)letcness, and ]>o!ish as is displayed",
+    "replace": "clearness, completeness, and polish as is displayed",
+    "note": "OCR misread \"completeness\"/\"polish\""
+  }
+]

@@ -1,0 +1,850 @@
+[
+  {
+    "where": "newton-principia-en / prefaces",
+    "note": "This 1846 American edition's own \"Dedication\" page (fetched and inspected: dedicated by the editors \"TO THE TEACHERS OF THE NORMAL SCHOOL OF THE STATE OF NEW-YORK\") is the EDITORS' (Chittenden/Adee's) own modern dedication, not Newton's and not part of any edition Newton himself prepared. Per this import's brief, only the author's/edition's own historical front matter is imported (Newton's Author's Preface); this 1846-specific editorial dedication is excluded, along with the \"Introduction to the American Edition\" and \"Life of Sir Isaac Newton\" (never fetched at all - both are explicitly modern editorial/biographical matter, not the Principia's own text)."
+  },
+  {
+    "where": "axioms-corol-1",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Principia1846-084_vector_rev2.svg/250px-Principia1846-084_vector_rev2.svg.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) COROLLARY I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-2",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Principia1846-095.png/250px-Principia1846-095.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-3",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Principia1846-095.png/250px-Principia1846-095.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-4",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Principia1846-096.png/250px-Principia1846-096.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA IV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-6",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Principia1846-097.png/250px-Principia1846-097.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-7",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Principia1846-098a.png/250px-Principia1846-098a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-8",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Principia1846-098b.png/250px-Principia1846-098b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-9",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Principia1846-099.png/330px-Principia1846-099.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA IX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-11",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Principia1846-100.png/250px-Principia1846-100.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-11",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Principia1846-100.png/250px-Principia1846-100.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-2",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Principia1846-105.png/500px-Principia1846-105.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION II. THEOREM II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-5",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Principia1846-109.png/250px-Principia1846-109.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION V. PROBLEM I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-6",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Principia1846-110.png/250px-Principia1846-110.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION VI. THEOREM V.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-7",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Principia1846-111.png/330px-Principia1846-111.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION VII. PROBLEM II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-7",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Principia1846-112.png/250px-Principia1846-112.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION VII. PROBLEM II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-8",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Principia1846-113a.png/250px-Principia1846-113a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION VIII. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-9",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Principia1846-113b.png/500px-Principia1846-113b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION IX. PROBLEM IV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Principia1846-114.png/500px-Principia1846-114.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM V.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-11",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Principia1846-116.png/500px-Principia1846-116.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XI. PROBLEM VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-14",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Principia1846-119a.png/330px-Principia1846-119a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-13",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Principia1846-119b.png/500px-Principia1846-119b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XIII. PROBLEM VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-14",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Principia1846-121.png/250px-Principia1846-121.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XIV. THEOREM VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-17",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Principia1846-123.png/500px-Principia1846-123.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XVII. PROBLEM IX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-17",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Principia1846-125a.png/330px-Principia1846-125a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XVII. PROBLEM IX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-sec-4-intro",
+    "note": "1 paragraph(s) of reading text precede this Division's first numbered item in the source (e.g. an introductory/transitional remark); kept as this leading \"-intro\" leaf Division rather than being dropped as if it were furniture."
+  },
+  {
+    "where": "book-1-lemma-15",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Principia1846-125b.png/250px-Principia1846-125b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-18",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Principia1846-126a.png/250px-Principia1846-126a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XVIII. PROBLEM X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-19",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Principia1846-126b.png/250px-Principia1846-126b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XIX. PROBLEM XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-20",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Principia1846-127a.png/330px-Principia1846-127a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XX. PROBLEM XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-20",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Principia1846-127b.png/250px-Principia1846-127b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XX. PROBLEM XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-20",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Principia1846-128a.png/330px-Principia1846-128a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XX. PROBLEM XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-20",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Principia1846-128b.png/500px-Principia1846-128b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XX. PROBLEM XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-16",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Principia1846-129.png/250px-Principia1846-129.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-21",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Principia1846-130a.png/250px-Principia1846-130a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXI. PROBLEM XIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-21",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Principia1846-130b.png/330px-Principia1846-130b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXI. PROBLEM XIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-17",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Principia1846-131.png/250px-Principia1846-131.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-17",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Principia1846-132a.png/250px-Principia1846-132a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-17",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Principia1846-132b.png/250px-Principia1846-132b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-18",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Principia1846-132c.png/250px-Principia1846-132c.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-18",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Principia1846-132c.png/250px-Principia1846-132c.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-19",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Principia1846-134.png/250px-Principia1846-134.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-20",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Principia1846-135b.png/250px-Principia1846-135b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-21",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Principia1846-136.png/330px-Principia1846-136.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-21",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Principia1846-137a.png/330px-Principia1846-137a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-22",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Principia1846-137b.png/330px-Principia1846-137b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXII. PROBLEM XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-22",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Principia1846-138a.png/330px-Principia1846-138a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXII. PROBLEM XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-22",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Principia1846-138b.png/330px-Principia1846-138b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXII. PROBLEM XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-23",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Principia1846-139a.png/330px-Principia1846-139a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXIII. PROBLEM XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-23",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Principia1846-139b.png/250px-Principia1846-139b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXIII. PROBLEM XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-24",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Principia1846-140b.png/250px-Principia1846-140b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXIV. PROBLEM XVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-22",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Principia1846-141.png/330px-Principia1846-141.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XXII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-26",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Principia1846-144a.png/250px-Principia1846-144a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXVI. PROBLEM XVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-23",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Principia1846-144b.png/330px-Principia1846-144b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-24",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Principia1846-145.png/330px-Principia1846-145.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-27",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Principia1846-146b.png/500px-Principia1846-146b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXVII. PROBLEM XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-27",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Principia1846-147.png/250px-Principia1846-147.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXVII. PROBLEM XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-27",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Principia1846-148a.png/250px-Principia1846-148a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXVII. PROBLEM XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-26",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Principia1846-148b.png/250px-Principia1846-148b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-26",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Principia1846-149.png/330px-Principia1846-149.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-28",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Principia1846-150a.png/250px-Principia1846-150a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXVIII. PROBLEM XX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-28",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Principia1846-150b.png/250px-Principia1846-150b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXVIII. PROBLEM XX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-27",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Principia1846-150c.png/250px-Principia1846-150c.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-27",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Principia1846-151b.png/330px-Principia1846-151b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-29",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Principia1846-152.png/250px-Principia1846-152.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXIX. PROBLEM XXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-30",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Principia1846-153c.png/250px-Principia1846-153c.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXX. PROBLEM XXII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-31",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Principia1846-156.png/500px-Principia1846-156.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXI. PROBLEM XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-31",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Principia1846-157.png/330px-Principia1846-157.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXI. PROBLEM XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-31",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Principia1846-158a.png/250px-Principia1846-158a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXI. PROBLEM XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-31",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Principia1846-158b.png/250px-Principia1846-158b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXI. PROBLEM XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-32",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Principia1846-160b.png/250px-Principia1846-160b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXII. PROBLEM XXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-32",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Principia1846-160c.png/250px-Principia1846-160c.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXII. PROBLEM XXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-33",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Principia1846-161.png/500px-Principia1846-161.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXIII. THEOREM IX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-34",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Principia1846-162a.png/250px-Principia1846-162a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXIV. THEOREM X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-35",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Principia1846-162b.png/960px-Principia1846-162b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXV. THEOREM XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-35",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Principia1846-163.png/250px-Principia1846-163.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXV. THEOREM XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-36",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Principia1846-164a.png/120px-Principia1846-164a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXVI. PROBLEM XXV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-37",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Principia1846-164b.png/960px-Principia1846-164b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXVII. PROBLEM XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-38",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Principia1846-165a.png/250px-Principia1846-165a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXVIII. THEOREM XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-39",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Principia1846-165b.png/250px-Principia1846-165b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXIX. PROBLEM XXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-40",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Principia1846-168.png/120px-Principia1846-168.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XL. THEOREM XIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-41",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Principia1846-169.png/330px-Principia1846-169.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLI. PROBLEM XXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-41",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Principia1846-171a.png/330px-Principia1846-171a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLI. PROBLEM XXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-42",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Principia1846-171b.png/500px-Principia1846-171b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLII. PROBLEM XXIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-43",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Principia1846-172.png/250px-Principia1846-172.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLIII. PROBLEM XXX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-44",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Principia1846-173.png/330px-Principia1846-173.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLIV. THEOREM XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-44",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Principia1846-173.png/330px-Principia1846-173.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLIV. THEOREM XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-44",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Principia1846-176.png/250px-Principia1846-176.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLIV. THEOREM XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-46",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Principia1846-183.png/330px-Principia1846-183.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLVI. PROBLEM XXXII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-49",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Principia1846-185.png/500px-Principia1846-185.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLIX. THEOREM XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-50",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Principia1846-186.png/250px-Principia1846-186.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION L. PROBLEM XXXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-52",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Principia1846-188b.png/250px-Principia1846-188b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LII. PROBLEM XXXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-53",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Principia1846-191b.png/250px-Principia1846-191b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LIII. PROBLEM XXXV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-55",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Principia1846-192b.png/250px-Principia1846-192b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LV. THEOREM XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-56",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Principia1846-193.png/250px-Principia1846-193.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LVI. PROBLEM XXXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-sec-11-intro",
+    "note": "1 paragraph(s) of reading text precede this Division's first numbered item in the source (e.g. an introductory/transitional remark); kept as this leading \"-intro\" leaf Division rather than being dropped as if it were furniture."
+  },
+  {
+    "where": "book-1-prop-58",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Principia1846-195.png/500px-Principia1846-195.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LVIII. THEOREM XXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-64",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Principia1846-199.png/330px-Principia1846-199.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXIV. PROBLEM XL.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-66",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Principia1846-203.png/500px-Principia1846-203.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXVI. THEOREM XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-66",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Principia1846-203.png/500px-Principia1846-203.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXVI. THEOREM XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-66",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Principia1846-203.png/500px-Principia1846-203.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXVI. THEOREM XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-66",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Principia1846-203.png/500px-Principia1846-203.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXVI. THEOREM XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-66",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Principia1846-203.png/500px-Principia1846-203.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXVI. THEOREM XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-66",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Principia1846-203.png/500px-Principia1846-203.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXVI. THEOREM XXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-67",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Principia1846-215.png/250px-Principia1846-215.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXVII. THEOREM XXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-70",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Principia1846-218.png/250px-Principia1846-218.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXX. THEOREM XXX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-71",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Principia1846-219.png/500px-Principia1846-219.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXXI. THEOREM XXXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-73",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Principia1846-220.png/250px-Principia1846-220.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXXIII. THEOREM XXXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-76",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Principia1846-222.png/330px-Principia1846-222.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXXVI. THEOREM XXXVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-77",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Principia1846-224.png/330px-Principia1846-224.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXXVII. THEOREM XXXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-77",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Principia1846-225.png/250px-Principia1846-225.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXXVII. THEOREM XXXVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-lemma-29",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Principia1846-226.png/500px-Principia1846-226.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XXIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-82",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Principia1846-231.png/330px-Principia1846-231.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXXXII. THEOREM XLI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-83",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Principia1846-232.png/250px-Principia1846-232.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXXXIII. PROBLEM XLII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-84",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Principia1846-233.png/250px-Principia1846-233.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXXXIV. PROBLEM XLIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-88",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Principia1846-235.png/250px-Principia1846-235.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LXXXVIII. THEOREM XLV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-90",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Principia1846-237.png/250px-Principia1846-237.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XC. PROBLEM XLIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-91",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Principia1846-238.png/250px-Principia1846-238.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCI. PROBLEM XLV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-91",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Principia1846-239b.png/330px-Principia1846-239b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCI. PROBLEM XLV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-91",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Principia1846-239c.png/250px-Principia1846-239c.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCI. PROBLEM XLV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-93",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Principia1846-241a.png/330px-Principia1846-241a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCIII. THEOREM XLVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-93",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Principia1846-241b.png/250px-Principia1846-241b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCIII. THEOREM XLVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-94",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Principia1846-243.png/250px-Principia1846-243.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCIV. THEOREM XLVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-94",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Principia1846-244a.png/250px-Principia1846-244a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCIV. THEOREM XLVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-95",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Principia1846-244b.png/250px-Principia1846-244b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCV. THEOREM XLIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-96",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Principia1846-245.png/330px-Principia1846-245.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCVI. THEOREM L.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-96",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Principia1846-246.png/960px-Principia1846-246.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCVI. THEOREM L.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-97",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Principia1846-247a.png/330px-Principia1846-247a.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCVII. PROBLEM XLVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-1-prop-97",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Principia1846-247b.png/330px-Principia1846-247b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XCVII. PROBLEM XLVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-2",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Principia1846-252.png/120px-Principia1846-252.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION II. THEOREM II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-3",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Principia1846-252b.png/250px-Principia1846-252b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION III. PROBLEM I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-3",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Principia1846-253.png/250px-Principia1846-253.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION III. PROBLEM I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-4",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Principia1846-254.png/330px-Principia1846-254.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION IV. PROBLEM II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-4",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Principia1846-254.png/330px-Principia1846-254.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION IV. PROBLEM II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-4",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Principia1846-257.png/250px-Principia1846-257.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION IV. PROBLEM II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-5",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Principia1846-258.png/250px-Principia1846-258.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION V. THEOREM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-8",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Principia1846-264.png/250px-Principia1846-264.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION VIII. THEOREM VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-9",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Principia1846-265.png/330px-Principia1846-265.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION IX. THEOREM VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-9",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Principia1846-265.png/330px-Principia1846-265.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION IX. THEOREM VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Principia1846-268.png/330px-Principia1846-268.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Principia1846-268.png/330px-Principia1846-268.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Principia1846-272.png/250px-Principia1846-272.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Principia1846-272b.png/250px-Principia1846-272b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Principia1846-272b.png/250px-Principia1846-272b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Principia1846-268.png/330px-Principia1846-268.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Principia1846-272b.png/250px-Principia1846-272b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Principia1846-275b.png/330px-Principia1846-275b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Principia1846-277.png/960px-Principia1846-277.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Principia1846-278b.png/250px-Principia1846-278b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION X. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-11",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Principia1846-279.png/250px-Principia1846-279.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XI. THEOREM VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-12",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Principia1846-280.png/250px-Principia1846-280.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XII. THEOREM IX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-13",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Principia1846-281.png/250px-Principia1846-281.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XIII. THEOREM X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-13",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Principia1846-281b.png/330px-Principia1846-281b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XIII. THEOREM X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-13",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Principia1846-282.png/250px-Principia1846-282.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XIII. THEOREM X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-14",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Principia1846-283.png/500px-Principia1846-283.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XIV. THEOREM XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-14",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Principia1846-283.png/500px-Principia1846-283.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XIV. THEOREM XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-lemma-3",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Principia1846-287.png/250px-Principia1846-287.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-15",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Principia1846-289.png/250px-Principia1846-289.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XV. THEOREM XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-15",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Principia1846-289.png/250px-Principia1846-289.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XV. THEOREM XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-15",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Principia1846-290.png/250px-Principia1846-290.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XV. THEOREM XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-16",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Principia1846-289.png/250px-Principia1846-289.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XVI. THEOREM XIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-17",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Principia1846-292.png/250px-Principia1846-292.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XVII. PROBLEM IV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-19",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Principia1846-293.png/250px-Principia1846-293.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XIX. THEOREM XIV: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-21",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Principia1846-298b.png/250px-Principia1846-298b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXI. THEOREM XVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-22",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Principia1846-299.png/330px-Principia1846-299.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXII. THEOREM XVII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-23",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Principia1846-301.png/250px-Principia1846-301.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXIII. THEOREM XVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-25",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Principia1846-304.png/330px-Principia1846-304.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXV. THEOREM XX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-27",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Principia1846-304.png/330px-Principia1846-304.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXVII. THEOREM XXII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-28",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Principia1846-304.png/330px-Principia1846-304.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXVIII. THEOREM XXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-29",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Principia1846-307b.png/960px-Principia1846-307b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXIX. PROBLEM VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-29",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Principia1846-307b.png/960px-Principia1846-307b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXIX. PROBLEM VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-30",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Principia1846-310.png/500px-Principia1846-310.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXX. THEOREM XXIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-31",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Principia1846-310.png/500px-Principia1846-310.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXI. THEOREM XXV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-34",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Principia1846-327.png/330px-Principia1846-327.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXIV. THEOREM XXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-34",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Principia1846-328.png/960px-Principia1846-328.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXIV. THEOREM XXVIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-35",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Principia1846-330.png/250px-Principia1846-330.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXV. PROBLEM VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-36",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Principia1846-331.png/250px-Principia1846-331.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXVI. PROBLEM VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-36",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Principia1846-333.png/250px-Principia1846-333.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXVI. PROBLEM VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-36",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Principia1846-333.png/250px-Principia1846-333.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXVI. PROBLEM VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-36",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Principia1846-337.png/250px-Principia1846-337.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXVI. PROBLEM VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-37",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Principia1846-339.png/250px-Principia1846-339.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXVII. THEOREM XXIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-41",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Principia1846-356.png/250px-Principia1846-356.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLI. THEOREM XXXII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-42",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Principia1846-357.png/500px-Principia1846-357.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLII. THEOREM XXXIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-44",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Principia1846-361.png/960px-Principia1846-361.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLIV. THEOREM XXXV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-46",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Principia1846-362.png/500px-Principia1846-362.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLVI. PROBLEM X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-51",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Principia1846-370.png/330px-Principia1846-370.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LI. THEOREM XXXIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-2-prop-52",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Principia1846-370.png/330px-Principia1846-370.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION LII. THEOREM XL.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-intro",
+    "note": "1 paragraph(s) of reading text precede this Division's first numbered item in the source (e.g. an introductory/transitional remark); kept as this leading \"-intro\" leaf Division rather than being dropped as if it were furniture."
+  },
+  {
+    "where": "book-3-prop-19",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Principia1846-406.png/250px-Principia1846-406.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XIX. PROBLEM III.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-20",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Principia1846-406.png/250px-Principia1846-406.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XX. PROBLEM IV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-24",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Principia1846-416.png/330px-Principia1846-416.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXIV. THEOREM XIX.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-25",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Principia1846-419.png/500px-Principia1846-419.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXV. PROBLEM VI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-26",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Principia1846-420.png/500px-Principia1846-420.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXVI. PROBLEM VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-30",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Principia1846-426.png/500px-Principia1846-426.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXX. PROBLEM XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-30",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Principia1846-429.png/500px-Principia1846-429.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXX. PROBLEM XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-31",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Principia1846-430.png/500px-Principia1846-430.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXI. PROBLEM XII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-32",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Principia1846-434.png/330px-Principia1846-434.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXII. PROBLEM XIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-33",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Principia1846-436.png/330px-Principia1846-436.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXIII. PROBLEM XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-33",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Principia1846-438.png/500px-Principia1846-438.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXIII. PROBLEM XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-33",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Principia1846-438.png/500px-Principia1846-438.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXIII. PROBLEM XIV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-34",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Principia1846-441.png/500px-Principia1846-441.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXIV. PROBLEM XV.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-35",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Principia1846-443.png/500px-Principia1846-443.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XXXV. PROBLEM XVI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-1",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Principia1846-455.png/500px-Principia1846-455.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA I.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-2",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Principia1846-456.png/330px-Principia1846-456.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA II.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-7",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Principia1846-468.png/250px-Principia1846-468.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA VII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-8",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Principia1846-468b.png/500px-Principia1846-468b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA VIII.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-10",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Principia1846-470.png/330px-Principia1846-470.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA X.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-lemma-11",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Principia1846-470.png/330px-Principia1846-470.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) LEMMA XI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-41",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Principia1846-471.png/500px-Principia1846-471.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLI. PROBLEM XXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-41",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Principia1846-471b.png/500px-Principia1846-471b.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLI. PROBLEM XXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-41",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Principia1846-475.png/960px-Principia1846-475.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLI. PROBLEM XXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  },
+  {
+    "where": "book-3-prop-41",
+    "note": "Diagram marker (//thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Principia1846-484.png/960px-Principia1846-484.png?utm_source=en.wikisource.org&utm_campaign=parser&utm_content=thumbnail) at Newton/Motte/Chittenden, The Mathematical Principles of Natural Philosophy (1846 American ed.) PROPOSITION XLI. PROBLEM XXI.: \"A diagram appears here in the printed edition; not yet available in this build.\""
+  }
+]

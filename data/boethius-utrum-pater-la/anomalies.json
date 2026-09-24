@@ -1,0 +1,18 @@
+[
+  {
+    "where": "boethius-utrum-pater-la / ch-1",
+    "note": "This division's text opens with the manuscript's own incipit/dedication rubric (\"Amicii Manlii Severini Boethii V.C. et inl. excons. ord. patricii ad Iohannem Diaconum utr…\"), kept verbatim as its first paragraph (genuine source text, not apparatus)."
+  },
+  {
+    "where": "boethius-utrum-pater-la / structure",
+    "note": "This edition marks no internal chapter divisions for this tractate at all: the entire text is one continuous `<div subtype=\"section\" n=\"1\">`. Imported as a single division, ch-1, rather than an invented chapter split."
+  },
+  {
+    "where": "boethius-utrum-pater-la / transport scaffolding",
+    "note": "14 <milestone unit=\"loebline\"/> ticks and 3 <pb/> page-break markers were dropped as pure typesetting scaffolding; this source carries no citation scheme this schema can use, so Division.ref and Passage.ref are null throughout."
+  },
+  {
+    "where": "boethius-utrum-pater-la / direct speech",
+    "note": "1 <q>...</q> span(s) carry no literal quotation-mark characters in this XML. 1 are fully contained within a single paragraph-level unit and are rendered wrapped in straight double quotes, matching this app's Consolatio handling. 0 wrap one or more WHOLE <p> paragraphs; for these no quote mark is synthesised, since placing one correctly across a paragraph boundary would be invented rather than read from the source."
+  }
+]

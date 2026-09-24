@@ -1,0 +1,87 @@
+[
+  {
+    "find": "ing the nobility and riglucousncss of their char- Degfener-",
+    "replace": "ing the nobility and righteousness of their char-",
+    "note": "righteousness misread; trailing 'Degfener-' is leaked margin caption ('Degeneracy of Italian princes')"
+  },
+  {
+    "find": "actcr, as long as fortune remained favourable, ^^y.®^",
+    "replace": "acter, as long as fortune remained favourable,",
+    "note": "actcr -> acter (continuation of hyphenated 'character'); trailing garbage is leaked margin caption fragment 'acy of'"
+  },
+  {
+    "find": "followed what is human, disdaining what is nj.:n-ii",
+    "replace": "followed what is human, disdaining what is",
+    "note": "trailing 'nj.:n-ii' is leaked margin caption fragment 'Italian'"
+  },
+  {
+    "find": "whatever our ])rcdecessors v/rote in the vulgar",
+    "replace": "whatever our predecessors wrote in the vulgar",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "tongv.e was called Sicilian ; and this name we",
+    "replace": "tongue was called Sicilian ; and this name we",
+    "note": "tongv.e -> tongue"
+  },
+  {
+    "find": "of Charles 11.? What is that uttered by the",
+    "replace": "of Charles II.? What is that uttered by the",
+    "note": "roman numeral II misread as 11"
+  },
+  {
+    "find": "horns of the powerful jM.-irquises John and",
+    "replace": "horns of the powerful Marquises John and",
+    "note": "jM.-irquises -> Marquises"
+  },
+  {
+    "find": "A/./.o ? What is that uttered by the flutes of",
+    "replace": "Azzo ? What is that uttered by the flutes of",
+    "note": "A/./.o -> Azzo"
+  },
+  {
+    "find": "the other [40^ magnates ? Wjuit but * Come,",
+    "replace": "the other [40] magnates ? What but ' Come,",
+    "note": "bracketed line-number and 'What' garbled"
+  },
+  {
+    "find": "ye murderers ; come, ye traitors ; con^c, ye",
+    "replace": "ye murderers ; come, ye traitors ; come, ye",
+    "note": "con^c -> come"
+  },
+  {
+    "find": "ibl lowers of avarice.'",
+    "replace": "followers of avarice.'",
+    "note": "ibl lowers -> followers"
+  },
+  {
+    "find": "common ])eoj)!c, out of v/liose mouths It appears",
+    "replace": "common people, out of whose mouths it appears",
+    "note": "OCR letter errors and spurious capital"
+  },
+  {
+    "find": "without drawling, as for instance here [^503 :",
+    "replace": "without drawling, as for instance here [50] :",
+    "note": "bracketed line-number misread"
+  },
+  {
+    "find": "* Irii^tini (Y este Jocora^ se C esle a hohmtalc^ ^ If,",
+    "replace": "'Tragemi d'este focora, se t'este a boluntate.' 1 If,",
+    "note": "italic quoted Sicilian line and footnote marker heavily garbled"
+  },
+  {
+    "find": "before, it dilTers in nothing from that language",
+    "replace": "before, it differs in nothing from that language",
+    "note": "dilTers -> differs"
+  },
+  {
+    "find": "^ ' Draw me fnmi these fires, if it is thy will,'",
+    "replace": "1 ' Draw me from these fires, if it is thy will.'",
+    "note": "footnote marker and 'from' garbled"
+  },
+  {
+    "find": "that namely sj)oken by the",
+    "replace": "that namely spoken by the",
+    "note": "OCR misread spoken"
+  }
+]

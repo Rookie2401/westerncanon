@@ -1,0 +1,77 @@
+[
+  {
+    "find": "[The dialect of Pologna, though the best of the local",
+    "replace": "[The dialect of Bologna, though the best of the local",
+    "note": "OCR misread P for B in Bologna"
+  },
+  {
+    "find": "dialects, is not th.at courtly and illustrious",
+    "replace": "dialects, is not that courtly and illustrious",
+    "note": "stray period inserted in \"that\""
+  },
+  {
+    "find": "Let us now endeavour to clear the way by The\ntracking out what remains of tlic Italian wood. Bologna",
+    "replace": "Let us now endeavour to clear the way by\ntracking out what remains of the Italian wood.",
+    "note": "remove leftover margin-caption fragments \"The\"/\"Bologna\" at line ends; fix tlic->the"
+  },
+  {
+    "find": "We say, then, that perhaps those are not far *^^^^^5*^\nwrong who assert that the people of Bologna use the^best^\na. more beautiful speech [than the others^, since",
+    "replace": "We say, then, that perhaps those are not far\nwrong who assert that the people of Bologna use\na more beautiful speech [than the others], since",
+    "note": "remove leftover margin-caption garbage fragments at line ends; fix stray period after \"a\"; fix bracket"
+  },
+  {
+    "find": "borrowed from their ncighboursof Imola, Ferrara,",
+    "replace": "borrowed from their neighbours of Imola, Ferrara,",
+    "note": "OCR misjoin \"neighboursof\""
+  },
+  {
+    "find": "from tljeir neighbours, as .Sordeilo showed with\nrcsj)ect to his own JMantua, which is adjacent\nto [loj Cremona, Brescia, and Verona; and he",
+    "replace": "from their neighbours, as Sordello showed with\nrespect to his own Mantua, which is adjacent\nto [10] Cremona, Brescia, and Verona; and he",
+    "note": "fix multiple letter misreadings and bracketed line number"
+  },
+  {
+    "find": "who was 80 distinguished by his eloquence, not",
+    "replace": "who was so distinguished by his eloquence, not",
+    "note": "OCR misread \"so\" as \"80\""
+  },
+  {
+    "find": "only in j)oetry but in every other form of utterance",
+    "replace": "only in poetry but in every other form of utterance",
+    "note": "OCR misread \"poetry\""
+  },
+  {
+    "find": "forsook his native vulgi'.r tongue. Accordingly",
+    "replace": "forsook his native vulgar tongue. Accordingly",
+    "note": "OCR misread \"vulgar\""
+  },
+  {
+    "find": "the above-mentioned citizens [of BolognaJ get",
+    "replace": "the above-mentioned citizens [of Bologna] get",
+    "note": "closing bracket misread as J"
+  },
+  {
+    "find": "from those of Imoha their smoothness and soft-",
+    "replace": "from those of Imola their smoothness and soft-",
+    "note": "OCR misread \"Imola\""
+  },
+  {
+    "find": "ness [of speech]], and from those of Ferrara and",
+    "replace": "ness [of speech], and from those of Ferrara and",
+    "note": "doubled closing bracket"
+  },
+  {
+    "find": "Lombards. 'I^his we believe has remained with",
+    "replace": "Lombards. This we believe has remained with",
+    "note": "stray quote/caret before \"This\""
+  },
+  {
+    "find": "mixture   of the inmiigrant Longobards with",
+    "replace": "mixture   of the immigrant Longobards with",
+    "note": "OCR misread \"immigrant\""
+  },
+  {
+    "find": "them [203 ; and this is the reason why we find",
+    "replace": "them [20] : and this is the reason why we find",
+    "note": "bracket number misread as 203; punctuation"
+  }
+]

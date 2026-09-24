@@ -1,0 +1,127 @@
+[
+  {
+    "find": "were through forgctfulncss to lose the letter 2, The",
+    "replace": "were through forgetfulness to lose the letter z,",
+    "note": "forgetfulness misread; italic letter 'z' misread as digit 2; trailing 'The' is leaked margin caption ('The Genoese dialect')"
+  },
+  {
+    "find": "they wouL.I have cither to be dumb altogether, Genoese",
+    "replace": "they would have either to be dumb altogether,",
+    "note": "would/either garbled; trailing 'Genoese' is leaked margin caption"
+  },
+  {
+    "find": "or to discover some new [50]] kind of speech, ^^^^^^",
+    "replace": "or to discover some new [50] kind of speech,",
+    "note": "extra bracket; trailing garbage is leaked margin caption fragment 'dialect'"
+  },
+  {
+    "find": "for 2 forms the greatest part of their dialect, and",
+    "replace": "for z forms the greatest part of their dialect, and",
+    "note": "italic letter 'z' misread as digit 2"
+  },
+  {
+    "find": "this letter is not uttered wltiiout great harshness.",
+    "replace": "this letter is not uttered without great harshness.",
+    "note": "wltiiout -> without"
+  },
+  {
+    "find": "gaincil renown as a composer of love-poems ;",
+    "replace": "gained renown as a composer of love-poems ;",
+    "note": "gaincil -> gained"
+  },
+  {
+    "find": "entered about 1266 that relij^ioiis order instituted by",
+    "replace": "entered about 1266 that religious order instituted by",
+    "note": "relij^ioiis -> religious"
+  },
+  {
+    "find": "(Fr.iti CmuJeiiti ; see ////>/-/7rt, XXIII. 103/j.). Guittone,",
+    "replace": "(Frati Gaudenti ; see Inferno, XXIII. 103n.). Guittone,",
+    "note": "italic phrase and citation heavily garbled"
+  },
+  {
+    "find": "of S. Alaria degli Angeli at Florence, in which city",
+    "replace": "of S. Maria degli Angeli at Florence, in which city",
+    "note": "Alaria -> Maria"
+  },
+  {
+    "find": "ably criticised below (II. 6 : 86). Com))are Purnatorio,",
+    "replace": "ably criticised below (II. 6 : 86). Compare Purgatorio,",
+    "note": "Com))are -> Compare; Purnatorio -> Purgatorio"
+  },
+  {
+    "find": "KXIV. 56; XXVI. 124.",
+    "replace": "XXIV. 56; XXVI. 124.",
+    "note": "KXIV -> XXIV"
+  },
+  {
+    "find": "part of tlie thirteenth century, and was a poet and",
+    "replace": "part of the thirteenth century, and was a poet and",
+    "note": "tlie -> the"
+  },
+  {
+    "find": "notary of Lucca, Compare Put^.iion'o, XXIV. 19 ff.",
+    "replace": "notary of Lucca. Compare Purgatorio, XXIV. 19 ff.",
+    "note": "period misread as comma; Purgatorio garbled"
+  },
+  {
+    "find": "known, but it has bi.cn suggested that he may be",
+    "replace": "known, but it has been suggested that he may be",
+    "note": "bi.cn -> been"
+  },
+  {
+    "find": "identical with one Meo di Alocata, one of whose",
+    "replace": "identical with one Meo di Mocata, one of whose",
+    "note": "Alocata -> Mocata (matches 'Mocato' named earlier in same note)"
+  },
+  {
+    "find": "10 /'.<•. Brunetto Lat'ni,on whom see Inffmo^ XV.",
+    "replace": "10. i.e. Brunetto Latini, on whom see Inferno, XV.",
+    "note": "citation heavily garbled"
+  },
+  {
+    "find": "2 3«",
+    "replace": "23n.",
+    "note": "citation continuation '23n.' garbled"
+  },
+  {
+    "find": "answer to the first, and tlie two together may be",
+    "replace": "answer to the first, and the two together may be",
+    "note": "tlie -> the"
+  },
+  {
+    "find": "intended for a gibe at i'ante s lellovv-tciimi^inc;*",
+    "replace": "intended for a gibe at Dante's fellow-countrymen",
+    "note": "heavily garbled"
+  },
+  {
+    "find": "35 riie excelhn:e of the verrtJiu-'ur^ i.e. the illustrious",
+    "replace": "35. The excellence of the vernacular, i.e. the illustrious",
+    "note": "italic phrase heavily garbled"
+  },
+  {
+    "find": "language tlie author is now in search of.",
+    "replace": "language the author is now in search of.",
+    "note": "tlie -> the"
+  },
+  {
+    "find": "36. On Guido Cavalcaiiti, see Inferno, X. don.",
+    "replace": "36. On Guido Cavalcanti, see Inferno, X. 60n.",
+    "note": "Cavalcanti and citation garbled"
+  },
+  {
+    "find": "and was a distinguislud lyric poet and an intimate",
+    "replace": "and was a distinguished lyric poet and an intimate",
+    "note": "distinguislud -> distinguished"
+  },
+  {
+    "find": "friend of Dante and Guido Cavaleaiiti. He was a",
+    "replace": "friend of Dante and Guido Cavalcanti. He was a",
+    "note": "Cavaleaiiti -> Cavalcanti"
+  },
+  {
+    "find": "3). Dante is c(Uiipelled to put Pistoja last, because",
+    "replace": "39. Dante is compelled to put Pistoja last, because",
+    "note": "note number and 'compelled' garbled"
+  }
+]

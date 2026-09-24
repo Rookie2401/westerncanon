@@ -1,0 +1,92 @@
+[
+  {
+    "find": "to begin witli that the exercise of discernment Of\nas to words involves by no means tlic smallest choice\nlabour of our reason, since we see that a great ^^^^^\nmany sorts of them can be found.",
+    "replace": "to begin with that the exercise of discernment\nas to words involves by no means the smallest\nlabour of our reason, since we see that a great\nmany sorts of them can be found.",
+    "note": "removes marginal shoulder-caption leak (\"Of choice of words\") merged into main text at these line-ends; misread with/the"
+  },
+  {
+    "find": "words arc ch'ild'ishy some fcmtnhiey and some \\_^o~\\",
+    "replace": "words are childish, some feminine, and some [10]",
+    "note": "misread are/childish/feminine; misread bracketed number"
+  },
+  {
+    "find": "rrujn/y ; and of these last some arc sylvan^ others",
+    "replace": "manly; and of these last some are sylvan, others",
+    "note": "misread manly/are"
+  },
+  {
+    "find": "^urlxin ; and of those we call urban we feel that",
+    "replace": "urban; and of those we call urban we feel that",
+    "note": "misread urban"
+  },
+  {
+    "find": "some arc comhed-out and g-ossy^ some shn^^gy and",
+    "replace": "some are combed-out and glossy, some shaggy and",
+    "note": "misread are/combed-out/glossy/shaggy"
+  },
+  {
+    "find": "nnnpkd. Now among these urban words tlie",
+    "replace": "rumpled. Now among these urban words the",
+    "note": "misread rumpled/the"
+  },
+  {
+    "find": "combed-out and tlie shaggy are those which we",
+    "replace": "combed-out and the shaggy are those which we",
+    "note": "misread the"
+  },
+  {
+    "find": "last, although when superficially looked at \\j-0^",
+    "replace": "last, although when superficially looked at [20]",
+    "note": "misread bracketed number"
+  },
+  {
+    "find": "because the markcd-out path of virtue is de-",
+    "replace": "because the marked-out path of virtue is de-",
+    "note": "misread marked-out"
+  },
+  {
+    "find": "parted from. Therefore look carefully. Reader,",
+    "replace": "parted from. Therefore look carefully, Reader,",
+    "note": "wrong punctuation (period should be comma)"
+  },
+  {
+    "find": "consider how much it beh.ovcs thee to use the",
+    "replace": "consider how much it behoves thee to use the",
+    "note": "misread behoves"
+  },
+  {
+    "find": "regard to the illustrious vulgar tongue which (a«",
+    "replace": "regard to the illustrious vulgar tongue which (as",
+    "note": "misread as"
+  },
+  {
+    "find": "words alone are left in thy sieve [[30]]. And",
+    "replace": "words alone are left in thy sieve [30]. And",
+    "note": "doubled bracket"
+  },
+  {
+    "find": "amonr the number of these thou wilt not be able",
+    "replace": "among the number of these thou wilt not be able",
+    "note": "misread among"
+  },
+  {
+    "find": "their simplicity, as mamma and hallo, mate and",
+    "replace": "their simplicity, as mamma and babbo, mate and",
+    "note": "misread babbo"
+  },
+  {
+    "find": "paie I nor feniininc words, because of their soft-",
+    "replace": "pate; nor feminine words, because of their soft-",
+    "note": "misread pate/feminine"
+  },
+  {
+    "find": "ness, as dolaada z.Vi6. placevoJe ; nor sylvan words,",
+    "replace": "ness, as dolciada and placevole ; nor sylvan words,",
+    "note": "misread dolciada/and/placevole"
+  },
+  {
+    "find": "because of their roughness, as grcgg'ia and cetra ;",
+    "replace": "because of their roughness, as greggia and cetra ;",
+    "note": "misread greggia"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "find": "Gen. X. 8, as read by St Augustin (De C'tvitate Dei,",
+    "replace": "Gen. x. 8, as read by St Augustin (De Civitate Dei,",
+    "note": "fix X.->x., C'tvitate->Civitate"
+  },
+  {
+    "find": "XVJ. 3). 'rhcsamcaiithority(;7./V., XVI. 4) identifies",
+    "replace": "XVI. 3). The same authority (ibid., XVI. 4) identifies",
+    "note": "fix heavily garbled XVJ->XVI and The same authority (ibid.,"
+  },
+  {
+    "find": "tho narrative of Ct-n. xi. i H\". (building of 13:il)tl) with",
+    "replace": "the narrative of Gen. xi. 1 ff. (building of Babel) with",
+    "note": "fix tho->the, Ct-n.->Gen., i H\".->1 ff., garbled Babel)"
+  },
+  {
+    "find": "tion tliat Nimrod built the tower of Babel was well",
+    "replace": "tion that Nimrod built the tower of Babel was well",
+    "note": "fix tliat->that"
+  },
+  {
+    "find": "est;'.blislied in the Aliddle Ages.",
+    "replace": "established in the Middle Ages.",
+    "note": "fix established, Aliddle->Middle"
+  },
+  {
+    "find": "2S. SL-e for Dante's idea of nature, De Monarchia^ II.",
+    "replace": "28. See for Dante's idea of nature, De Monarchia, II.",
+    "note": "fix 2S->28, SL-e->See, Monarchia^->Monarchia,"
+  },
+  {
+    "find": "z: 15 (P. ; C'.nvivro, IV. 5 : 1 5 ff.",
+    "replace": "2 : 15 ff. ; Convivio, IV. 9 : 15 ff.",
+    "note": "fix heavily garbled citation"
+  },
+  {
+    "find": "34. Ofthelieaveiilupoi.L'et'Ciriiperii). Compare PurtrJuo.",
+    "replace": "34. Of the heavenly power (imperii). Compare Paradiso,",
+    "note": "fix heavily garbled note 34 opening"
+  },
+  {
+    "find": "37. J'hi corrcctiune^ i.e. witli the correction which a",
+    "replace": "37. Pia correctione, i.e. with the correction which a",
+    "note": "fix heavily garbled Pia correctione, witli->with"
+  },
+  {
+    "find": "tender father would administer (see Cor.vivio, II. ij:",
+    "replace": "tender father would administer (see Convivio, II. 11 :",
+    "note": "fix Cor.vivio->Convivio, ij:->11:"
+  },
+  {
+    "find": "30 IT; P^nuliso, XVIII. 1:9).",
+    "replace": "30 ff. ; Paradiso, XVIII. 129).",
+    "note": "fix IT->ff., P^nuliso->Paradiso, 1:9)->129)"
+  },
+  {
+    "find": "21. It is curious that Dante calls Sliem the thirt! son",
+    "replace": "21. It is curious that Dante calls Shem the third son",
+    "note": "fix Sliem->Shem, thirt!->third"
+  },
+  {
+    "find": "mentioned in priority to Ham and Jajiheth. If, how-",
+    "replace": "mentioned in priority to Ham and Japheth. If, how-",
+    "note": "fix Jajiheth->Japheth"
+  },
+  {
+    "find": "ever, Dante's words here, UettUis fl'ms Koe,' be taken in",
+    "replace": "ever, Dante's words here, 'tertius filius Noe,' be taken in",
+    "note": "fix heavily garbled Latin quotation"
+  },
+  {
+    "find": "the sen'.e of ' one of Noah's three son5.,' the difficulty",
+    "replace": "the sense of 'one of Noah's three sons,' the difficulty",
+    "note": "fix sen'.e->sense, son5.->sons"
+  },
+  {
+    "find": "inhabitants, coining from the East, brought a",
+    "replace": "inhabitants, coming from the East, brought a",
+    "note": "fix coining->coming"
+  },
+  {
+    "find": "llircefoUl language with them which accordingly,",
+    "replace": "threefold language with them which accordingly,",
+    "note": "fix llircefoUl->threefold"
+  },
+  {
+    "find": "in process of time, beca.ne divided into three",
+    "replace": "in process of time, became divided into three",
+    "note": "fix beca.ne->became"
+  },
+  {
+    "find": "principal varieties of speech : (l) That prevailing",
+    "replace": "principal varieties of speech : (1) That prevailing",
+    "note": "fix (l)->(1)"
+  },
+  {
+    "find": "their common origin by the use of :hc aflirmativc",
+    "replace": "their common origin by the use of the affirmative",
+    "note": "fix :hc->the, aflirmativc->affirmative"
+  },
+  {
+    "find": "particle :c\\ (2) That prevailing over the East",
+    "replace": "particle iò. (2) That prevailing over the East",
+    "note": "fix garbled affirmative particle io->iò."
+  },
+  {
+    "find": "uf Europe and extending into Asia, spoken by",
+    "replace": "of Europe and extending into Asia, spoken by",
+    "note": "fix uf->of"
+  },
+  {
+    "find": "by the affirmative particles oc, oily and s). The",
+    "replace": "by the affirmative particles oc, oïl, and sì. The",
+    "note": "fix oily->oïl,, s)->sì."
+  },
+  {
+    "find": "On account of the confusion of tongues related ^^°se-",
+    "replace": "On account of the confusion of tongues related",
+    "note": "remove leaked garbled margin-caption fragment Conse-"
+  },
+  {
+    "find": "above we have no slight reason for thinking that thc°^^",
+    "replace": "above we have no slight reason for thinking that",
+    "note": "remove leaked garbled margin-caption fragment"
+  },
+  {
+    "find": "men were at that time first scattered tlirough all confusion",
+    "replace": "men were at that time first scattered through all",
+    "note": "fix tlirough->through; remove leaked margin-caption word confusion"
+  }
+]

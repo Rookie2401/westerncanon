@@ -1,0 +1,18 @@
+[
+  {
+    "where": "boethius-utrum-pater-en / structure",
+    "note": "This translation carries no chapter markers anywhere in its running text, matching the Latin sibling's own flat, undivided structure; imported as a single division, ch-1."
+  },
+  {
+    "where": "boethius-utrum-pater-en / transport scaffolding",
+    "note": "3 <pb/> page-break markers were dropped from the reading text as pure typesetting scaffolding; this source carries no citation scheme this schema can use, so Division.ref and Passage.ref are null throughout."
+  },
+  {
+    "where": "boethius-utrum-pater-en / direct speech",
+    "note": "1 <q>...</q> span(s) carry no literal quotation-mark characters in this XML; each is rendered wrapped in straight double quotes, reflecting what the edition itself prints, matching this app's Consolatio handling."
+  },
+  {
+    "where": "boethius-utrum-pater-en / footnote apparatus",
+    "note": "This digitization marks its footnote apparatus with no <note>/<ref> element at all - apparently bare inline letters/numbers in the printed style of the edition's own superscript markers, with no markup distinguishing them from ordinary running text. Because they cannot be identified programmatically without risk of deleting a genuine word, they are left exactly as printed rather than guessed at and removed; a disclosed limitation of the source, not a correction made here."
+  }
+]

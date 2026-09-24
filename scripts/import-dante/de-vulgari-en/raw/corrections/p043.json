@@ -1,0 +1,112 @@
+[
+  {
+    "find": "69. Perfiiio, etc. The first line (quoted aji;ain below,",
+    "replace": "69. Per fino, etc. The first line (quoted again below,",
+    "note": "italic title and 'again' garbled"
+  },
+  {
+    "find": "II. 5^ of a canzone by RinaLlo d'Aqiiino, another poet",
+    "replace": "II. 5) of a canzone by Rinaldo d'Aquino, another poet",
+    "note": "closing paren and name garbled"
+  },
+  {
+    "find": "of tne Sicilian School and contemporary with the",
+    "replace": "of the Sicilian School and contemporary with the",
+    "note": "tne -> the"
+  },
+  {
+    "find": "Notary. He sevms to have been a person of some",
+    "replace": "Notary. He seems to have been a person of some",
+    "note": "sevms -> seems"
+  },
+  {
+    "find": "standing, is said to have en<j;aj:;ed in a poetic corre-",
+    "replace": "standing, is said to have engaged in a poetic corre-",
+    "note": "engaged garbled"
+  },
+  {
+    "find": "sj)Oiuience with t!ie eniperor Frederick II., and pro-",
+    "replace": "spondence with the emperor Frederick II., and pro-",
+    "note": "spondence, the, emperor garbled"
+  },
+  {
+    "find": "baldy acted as Manfred's viceroy in the province of",
+    "replace": "bably acted as Manfred's viceroy in the province of",
+    "note": "'bably' (continuing 'pro-bably') misread as 'baldy'"
+  },
+  {
+    "find": "of Florence, I'isa, Lucca, Siena, and Arezzo",
+    "replace": "of Florence, Pisa, Lucca, Siena, and Arezzo",
+    "note": "I'isa -> Pisa"
+  },
+  {
+    "find": "hehig rejected in detail. Guido Cavalcanti, Lapo",
+    "replace": "being rejected in detail. Guido Cavalcanti, Lapo",
+    "note": "hehig -> being"
+  },
+  {
+    "find": "Gianni, Cino of I'istoja, and 'another' (Dante",
+    "replace": "Gianni, Cino of Pistoja, and 'another' (Dante",
+    "note": "I'istoja -> Pistoja"
+  },
+  {
+    "find": "hiinscIQ are commended for devialintj from the",
+    "replace": "himself) are commended for deviating from the",
+    "note": "himself) and deviating garbled"
+  },
+  {
+    "find": "Tuscan dial-.ct. The claim of the Uinbrian cities",
+    "replace": "Tuscan dialect. The claim of the Umbrian cities",
+    "note": "dialect and Umbrian garbled"
+  },
+  {
+    "find": "is dismi>se<l in a parenthesis, and Genoa is",
+    "replace": "is dismissed in a parenthesis, and Genoa is",
+    "note": "dismi>se<l -> dismissed"
+  },
+  {
+    "find": "NexI let us come to the Tuscans, who, in- The",
+    "replace": "Next let us come to the Tuscans, who, in-",
+    "note": "NexI -> Next; trailing 'The' is leaked margin caption ('The Tuscan dialects')"
+  },
+  {
+    "find": "fatuatcd throurji tlieir frenzy, seem to arrojiate Tuscan",
+    "replace": "fatuated through their frenzy, seem to arrogate",
+    "note": "OCR letter errors; trailing 'Tuscan' is leaked margin caption"
+  },
+  {
+    "find": "to themselves the title of the illustrious ver- ^^^^^^^",
+    "replace": "to themselves the title of the illustrious ver-",
+    "note": "trailing garbage is leaked margin caption fragment ('dialects')"
+  },
+  {
+    "find": "of the common pco])le are crazed, but we find",
+    "replace": "of the common people are crazed, but we find",
+    "note": "pco])le -> people"
+  },
+  {
+    "find": "that many distlnguisb.ed men have embraced the",
+    "replace": "that many distinguished men have embraced the",
+    "note": "distlnguisb.ed -> distinguished"
+  },
+  {
+    "find": "never aimed at the curlal vernacular, Bona-",
+    "replace": "never aimed at the curial vernacular, Bona-",
+    "note": "curlal -> curial"
+  },
+  {
+    "find": "giunta of Lucca, Gallo of Pisa |^io], Mino",
+    "replace": "giunta of Lucca, Gallo of Pisa [10], Mino",
+    "note": "bracketed line-number misread"
+  },
+  {
+    "find": "\"whose works, if there be leisure to examine",
+    "replace": "whose works, if there be leisure to examine",
+    "note": "stray leading quotation mark, not present in print"
+  },
+  {
+    "find": "then, will be found to be not curial but",
+    "replace": "them, will be found to be not curial but",
+    "note": "then -> them"
+  }
+]

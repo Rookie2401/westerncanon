@@ -1,0 +1,22 @@
+[
+  {"find": "'^^clll'r ^'^y'' '''''^ '\"' ^''''''''\"- ^'^'•^ '^ ^^^ consider our", "replace": "to be held as certain. For, if we consider our", "note": "line almost entirely garbled OCR noise (bleed of the marginal shoulder caption 'The ver-nacular' plus mis-scanned body text); reconstructed from the page image"},
+  {"find": "con- ?^^^'' ^c^'0\"s, we seem to differ much more", "replace": "other actions, we seem to differ much more", "note": "leading 'con-' is a leftover fragment of the marginal shoulder caption; remainder is garbled OCR of 'other actions,'"},
+  {"find": "tinually ^f^\"^ our fcllow-coimtrymcn in very distant", "replace": "from our fellow-countrymen in very distant", "note": "leading 'tinually' is a leftover fragment of the marginal shoulder caption; other OCR misreadings fixed"},
+  {"find": "chang^ing- times than from our contemporaries very remote", "replace": "times than from our contemporaries very remote", "note": "leading 'chang^ing-' is a leftover fragment of the marginal shoulder caption ('changing')"},
+  {"find": "in place. Wherefore wc boldly aflirm that if", "replace": "in place. Wherefore we boldly affirm that if", "note": "OCR misreadings"},
+  {"find": "the ancient Pavinns were to rise from the dead", "replace": "the ancient Pavians were to rise from the dead", "note": "OCR misreading"},
+  {"find": "they would talk in a ]an-ua;',e varyin;^ or diflcr-", "replace": "they would talk in a language varying or differ-", "note": "OCR misreadings; keep trailing hyphen (line-break hyphenation of 'differ-ing')"},
+  {"find": "Nor should what we are saying ajipear more", "replace": "Nor should what we are saying appear more", "note": "OCR misreading"},
+  {"find": "grown up whom wc have not seen growing. L'or", "replace": "grown up whom we have not seen growing. For", "note": "OCR misreadings"},
+  {"find": "the motion of those things wliich move gradually", "replace": "the motion of those things which move gradually", "note": "OCR misreading"},
+  {"find": "18 not considered by us at all ; and the longer", "replace": "is not considered by us at all ; and the longer", "note": "OCR misread 'is' as '18'"},
+  {"find": "t [80] town have always carried on their inter-", "replace": "[80] town have always carried on their inter-", "note": "remove stray OCR garbage character"},
+  {"find": "cession of time, whllc>t the life of man is in its", "replace": "cession of time, whilst the life of man is in its", "note": "OCR misreading"},
+  {"find": "If, therefore, the speech of the same peo])Ie", "replace": "If, therefore, the speech of the same people", "note": "OCR misreading"},
+  {"find": "time, and cannot in Lny wise stand still, the", "replace": "time, and cannot in any wise stand still, the", "note": "OCR misreading"},
+  {"find": "just as [90] manners and dress vary in difiercnt", "replace": "just as [90] manners and dress vary in different", "note": "OCR misreading"},
+  {"find": "ways, smce they are not rendered stable either", "replace": "ways, since they are not rendered stable either", "note": "OCR misreading"},
+  {"find": "to men s inclinations and local fitness. Hence", "replace": "to men's inclinations and local fitness. Hence", "note": "missing apostrophe"},
+  {"find": "; were set in motion the inventors of the art of", "replace": "were set in motion the inventors of the art of", "note": "remove stray OCR garbage character"},
+  {"find": "' grammar, which is nothing else but a kind of", "replace": "grammar, which is nothing else but a kind of", "note": "remove stray OCR quote mark"}
+]

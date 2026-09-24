@@ -1,0 +1,32 @@
+LEVEL:3
+
+{{RigaIntestazione||{{Sc|vita nuova iii}} 11 - 15|11|riga=si}}
+<section begin="s3" />
+<poem>
+{{R|5}}    Già eran quasi che aterzate l’ore
+    del tempo che onne stella [[#n’è lucente|n’è lucente]],
+    quando m’apparve Amor subitamente,
+    cui essenza membrar mi dà orrore.
+Allegro mi sembrava Amor tenendo
+    {{R|10}}meo core in mano, e ne le braccia avea
+    madonna involta in un drappo dormendo;
+    poi la svegliava, e d’esto core ardendo
+    lei paventosa umilmente pascea:
+    appresso gir lo ne vedea piangendo.
+</poem>
+
+
+
+Questo sonetto si divide in due parti; che ne la prima parte 
+saluto e domando risponsione, ne la seconda significo a che si dee rispondere. La seconda parte comincia quivi: ''Già eran''.
+
+A questo sonetto fue risposto da molti e di diverse sentenzie; tra li quali fue risponditore quelli cui io chiamo {{AutoreCitato|Guido Cavalcanti|primo de li miei amici}}, e disse allora uno sonetto, lo quale comincia: ''{{TestoCitato|Rime (Cavalcanti)/Le Rime di Guido Cavalcanti/Le rime anteriori al 1290/Vedeste, al mio parere, ogni valore|Vedesti al mio parere onne valore }}''. E questo fue quasi lo principio de l’amistà tra lui e me, quando elli seppe che io era quelli che li avea ciò mandato. Lo verace giudicio del [[#detto sogno|detto  sogno]] non fue veduto allora per alcuno, ma ora è manifestissimo a li più semplici.<section end="s3" />
+
+
+<section begin="c3" />''il su''). Quella ch’io accetto è di
+b e di x (M: ''riscriuano suo'', Barb: ''ristaua suo'', w: ''rescriua su'') e, per ''rescriuan'', anche di λ (''riscriuan lor''; k avrà inteso e diviso male un originario ''rescriuansuo'': s a questo punto è difettoso in tutti i codici. Le parole che seguitano ''salute in lor segnor'' rendono preferibile anche qui il plurale. 
+
+{{§|n’è lucente|}}{{Sc|n’è lucente}}. È la lezione in cui s’accordano i capostipiti. La variante ''è più lucente'', data dalla Giuntina e accettata da Serm., dal Torri e dal Witte, non ha riscontro nei Mss., se si eccettua Ash. 679, che per le rime deriva dalla Giuntina stessa e che
+quindi non ha valore di Ms. La lezione introdotta dal Biscioni (''è nel lucente''), oltre che del suo codice, è di tutto il sottogruppo b e deriva dalla lezione regolare scritta nella forma ''nellucente'' e letta non ''n’è llucente'', ma ''nel lucente'', onde anche la necessità di aggiungere ''è''. 
+
+{{§|detto sogno|}}{{Sc|detto sogno}}. La lezione ''sonetto'' introdotta dalle prime stampe è soltanto di b. Da questo passò come variante marginale in P, che nel testo, invece di ''sogno'', legge ''segno''; prese posto accanto a ''segno'' nel testo di Mgl (''detto sonetto'', segno); soppiantò addirittura ''segno'' in Co. Parve al <section end="c3" />

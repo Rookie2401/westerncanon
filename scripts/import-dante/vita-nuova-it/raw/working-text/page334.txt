@@ -1,0 +1,24 @@
+LEVEL:3
+
+<section begin="s12" />
+<poem>
+     reman tu qui con lei,
+     e del tuo servo [[#ciò che vuoi|ciò che vuoi]] ragiona;
+     e s’ella per tuo prego li perdona,
+     fa che li annunzi un bel sembiante pace».
+     Gentil ballata mia, quando ti piace,
+     movi in quel punto che tu n’aggie onore.</poem>
+
+
+Questa ballata in tre parti si divide: nella prima dico a lei ov’ella vada, e confortola però che vada più sicura, e dico ne la cui compagnia si metta, se vuole sicuramente andare e sanza
+pericolo alcuno; ne la seconda dico quello che lei si pertiene di fare intendere; ne la terza la licenzio del gire quando vuole, raccomandando lo suo movimento ne le braccia de la fortuna. La seconda parte comincia quivi: ''Con dolze sono''; la terza quivi: ''Gentil ballata''.
+
+Potrebbe già l’uomo opporre contra me e dicere che non sapesse a cui fosse lo mio parlare in seconda persona, però che la ballata non è altro che queste parole ched io parlo: e però dico che questo dubbio io lo intendo solvere e dichiarare
+<section end="s12" />
+
+
+<section begin="c12" />
+{{§|ciò che vuoi|}}{{Sc|ciò che vuoi}}. I Mss. stanno per questa lezione, e non per ''vuol'' che D’Anc.<sup>2</sup> ha preferita. È ben vero che w e p hanno ''vuol'', ma, nello stesso gruppo, M ha ''uoli'' e A ''uo''; e s dà ''uo'' (V ''vuo''), k ''uuoli'', b ''uuoi''. Nè io oso scostarmi da una lezione che ha così saldo fondamento nei codici, e dà un senso buono (''ciò che vuoi'', ciò che
+pare opportuno a te), anche se ''vuol'' sembri darne uno migliore, non tanto in sè, quanto in relazione al principio della ballata (XII 10) e alle parole di XII 7: «e di ciò chiama testimonio colui che lo sa, e come tu prieghi lui che li le dica, ed io che son quelli, volentieri le ne ragionerò; e per questo sentirà ella la tua
+volontade». Il Casini oppone che «se Dante pregava Amore di far le sue difese (''e come tu prieghi lui''), non pretendeva certo di determinargli il modo e le parole del suo ragionamento». Ma ''volere'' non esprime sempre pretesa, ma anche semplice desiderio; e a questo punto non sarebbe certo senza efficacia il ''ciò che vuol'', perchè rifletterebbe ancora una volta ciò che a Dante sta tanto a cuore, che Amore lo scusi; non il modo, ma la cosa importa al poeta. E in mancanza dell’autografo, chi può assolutamente escludere che in una delle prime copie non si sia sostituito un ''vuoi'' a un ''vuol''?
+<section end="c12" />

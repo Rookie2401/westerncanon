@@ -1,0 +1,50 @@
+{
+  "workId": "dante-vita-nuova-it",
+  "title": "Vita Nuova",
+  "author": "Dante Alighieri",
+  "language": "it",
+  "editor": "Michele Barbi",
+  "edition": "Firenze: Società Dantesca Italiana (R. Bemporad e Figlio), 1907",
+  "provenance": "Italian Wikisource, page-scan transclusion of the djvu \"Vita nuova.djvu\" (409 pages; the text proper spans pages 307-409, with page 409 itself being the book's own back-matter INDICE and carrying no Dante text). The raw wikitext of Page:Vita nuova.djvu/307 through /409 was fetched once via 3 batched MediaWiki action=query&prop=revisions requests (<=50 titles each, >=3s apart) by scripts/import-dante/vita-nuova-it/fetchPages.ts and cached under raw/pages-307-409.json. All 103 page images were additionally fetched once (raw/images/page<N>.jpg, via the Commons thumb.wikimedia.org URL pattern for this djvu file) and read directly to verify and correct the transcription by hand - see raw/corrections-log.json for the full per-page correction record and the module doc of index.ts for why this was necessary (a prior import of this same work was rejected for trusting the raw OCR/wikitext verbatim past chapter 13). Nothing is downloaded at build or run time; this importer reads only the cached raw/corrected-pages.json. The djvu's own Indice page states \"Curatore=Michele Barbi | Editore=Società Dantesca Italiana | Città=Firenze | Anno=1907\". Imported by scripts/import-dante/vita-nuova-it.",
+  "license": "Dante's original (c. 1292-94) and Barbi's 1907 critical edition are both in the public domain worldwide. The Wikisource digital transcription/proofreading is released under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Dante's Vita Nuova (\"the new life\"), his prosimetrum of prose narrative interwoven with lyric poems recounting his love for Beatrice, in Michele Barbi's landmark 1907 critical edition for the Società Dantesca Italiana - the edition that established the standard modern 42-chapter division still used today.",
+        "The text here is verbatim throughout. Nothing is modernised, paraphrased, or silently corrected without disclosure."
+      ]
+    },
+    {
+      "heading": "Digital source and this recovery",
+      "paragraphs": [
+        "Italian Wikisource's page-scan transclusion of Barbi's 1907 edition. Of the 103 djvu pages spanning the text (307-409), only 29 were Wikisource-proofread at the time of this import (pagequality level 3 or 4); the other 74 - everything from page 337 onward - were raw, unreviewed OCR (level 1) with no proofreading and no chapter-boundary markup at all. A prior attempt at importing this work trusted that raw text verbatim and was rejected for it (its own module doc wrongly claimed the whole range was \"fully proofread\"). This import instead fetched and read every one of the 103 page scans directly, correcting the transcription against the image on every page regardless of proofreading status. 751 correction(s) were made across 79 pages (14 on the 29 proofread pages, 737 on the 74 raw-OCR pages) - see raw/corrections-log.json for the complete per-page count and notes, and the \"recovery from a prior rejected import\" entry in anomalies.json for illustrative examples."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "This work is one flat list of 42 chapter Divisions (ch-1..ch-42), matching Barbi's own standard numbering. Each chapter's paragraphs, in order, form its single Passage, joined by a blank line. Chapters 1-13 (pages 307-337) were delimited using the source's own <section begin=\"sN\"/>...<section end=\"sN\"/> markers; chapters 14-42 (pages 337-408, entirely raw OCR with no such markup) were delimited by this recovery's own reading of each chapter's rubric/incipit in the verified page-image text. See raw/chapter-boundaries.json for the resulting page-by-page breakdown and anomalies.json for the one genuine <section>-markup interleaving quirk found and fixed (spanning pages 329-330).",
+        "42 chapters, 103753 characters total."
+      ]
+    },
+    {
+      "heading": "Residual-error audit",
+      "paragraphs": [
+        "After the page-by-page verification, a second, independent pass hunted for OCR residue that reads plausibly at a glance (the kind a visual check can miss - \"cho\" for \"che\", \"faro\" for \"fare\"). Method: every token of this text was cross-checked against the vocabulary of a second, independent, complete Italian Vita Nuova (Project Gutenberg #71218, ed. A. Agresti, 1902 - used ONLY as a vocabulary, never as source text), comparing orthography-insensitive keys (accents stripped, u/v and i/j merged, doubled letters collapsed) so that Barbi's archaic spellings are not themselves flagged. Every token whose key never occurs in that vocabulary was then checked against its page image. Result: 367 suspect tokens; 14 were genuine residual OCR errors and were corrected (13 of them on pages Wikisource had marked \"proofread\"), and 15 more exposed a page-break hyphenation rejoin bug in this importer, since fixed; the remaining 353 were each confirmed as printed - Barbi's own forms (vertù, segnore, fue, propuosi, ogne...) that the 1902 edition modernises away. Re-runnable via scripts/import-dante/vita-nuova-it/residualCheck.ts, which lists every suspect with its status from raw/residual-audit.json and fails if any is unresolved."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Division.ref and Passage.ref are null throughout: citation is by chapter number only, which the Division id and number already carry."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the excluded front matter and commentary, the full account of the prior rejected import and how this recovery differs, and the chapter-boundary methodology. See raw/corrections-log.json for the per-page correction count and notes (what was wrong, and what the page image actually shows) for every one of the 103 pages reviewed. No doubt was left unresolved during this review: every correction was made with direct confirmation from the page image, and no passage was left ambiguous."
+      ]
+    }
+  ]
+}

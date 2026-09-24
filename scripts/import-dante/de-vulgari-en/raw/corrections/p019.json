@@ -1,0 +1,92 @@
+[
+  {
+    "find": "presumed In his heart to surpass by his own skill How",
+    "replace": "presumed in his heart to surpass by his own skill",
+    "note": "fix In->in; remove leaked margin-caption word How"
+  },
+  {
+    "find": "not only nature, but even tiic very power that Babel",
+    "replace": "not only nature, but even the very power that",
+    "note": "fix tiic->the; remove leaked margin-caption word Babel"
+  },
+  {
+    "find": "[303 called Babel, that is, confusion, by which",
+    "replace": "[30] called Babel, that is, confusion, by which",
+    "note": "fix garbled bracket [303->[30]"
+  },
+  {
+    "find": "he ho])cd to ascend to heaven ; purposing in his",
+    "replace": "he hoped to ascend to heaven ; purposing in his",
+    "note": "fix ho])cd->hoped"
+  },
+  {
+    "find": "ipnorance, not to equal, but to surpass liis",
+    "replace": "ignorance, not to equal, but to surpass his",
+    "note": "fix ipnorance->ignorance, liis->his"
+  },
+  {
+    "find": "power 1 Who among fathers would bear so",
+    "replace": "power ! Who among fathers would bear so",
+    "note": "fix garbled 1 -> !"
+  },
+  {
+    "find": "with a scourge which was not hostile but piiter-",
+    "replace": "with a scourge which was not hostile but pater-",
+    "note": "fix piiter- -> pater-"
+  },
+  {
+    "find": "na' and iiad been wont at other times to smite,",
+    "replace": "nal and had been wont at other times to smite,",
+    "note": "fix na'->nal, iiad->had"
+  },
+  {
+    "find": "he chat til <d his rebellious son with correc-",
+    "replace": "he chastised his rebellious son with correc-",
+    "note": "fix garbled chat til <d -> chastised"
+  },
+  {
+    "find": "almost t'le whole human race had come together",
+    "replace": "almost the whole human race had come together",
+    "note": "fix t'le->the"
+  },
+  {
+    "find": "[[403 to the work of wickedness. Some were",
+    "replace": "[40] to the work of wickedness. Some were",
+    "note": "fix garbled [[403 -> [40]"
+  },
+  {
+    "find": "sea, some by land ; and ditlerent coni|>anies were",
+    "replace": "sea, some by land ; and different companies were",
+    "note": "fix ditlerent->different, coni|>anies->companies"
+  },
+  {
+    "find": "engaged in diilerent other occupations, when",
+    "replace": "engaged in different other occupations, when",
+    "note": "fix diilerent->different"
+  },
+  {
+    "find": "that ail those who were attending to the work,",
+    "replace": "that all those who were attending to the work,",
+    "note": "fix ail->all"
+  },
+  {
+    "find": "using one and the same language, left ofT the",
+    "replace": "using one and the same language, left off the",
+    "note": "fix ofT->off"
+  },
+  {
+    "find": "work on being [50J estranged by many diiTerent",
+    "replace": "work on being [50] estranged by many different",
+    "note": "fix garbled [50J->[50], diiTerent->different"
+  },
+  {
+    "find": "mained to those alnnc who were engaged together",
+    "replace": "mained to those alone who were engaged together",
+    "note": "fix alnnc->alone"
+  },
+  {
+    "find": "to those rolliir.; down blocks of stone, another",
+    "replace": "to those rolling down blocks of stone, another",
+    "note": "fix rolliir.;->rolling"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "workId": "dante-monarchia-la",
+  "title": "De Monarchia",
+  "author": "Dante Alighieri",
+  "language": "la",
+  "editor": "Edward Moore",
+  "edition": "\"De Monarchia, the Oxford Text\", with an introduction by W. H. V. Reade (Oxford: at the Clarendon Press, 1916)",
+  "provenance": "archive.org item demonarchiaoxfor00dantuoft (\"De Monarchia, the Oxford text\"; contributed by Robarts - University of Toronto; NOT_IN_COPYRIGHT; 84 scanned images, 400ppi). Its djvu.txt/djvu.xml OCR text layer (ABBYY) was fetched once and cached under scripts/import-dante/monarchia-la/raw/oxford-djvu.txt, oxford-pages.json (the latter extracted per leaf from oxford-djvu.xml by raw/extractPages.mjs); the IIIF manifest and archive.org /metadata response are cached as oxford-manifest.json and oxford-metadata.json. Page images for every one of the 36 pages bearing De Monarchia's own text (printed pages 341-376, covering the whole work) were downloaded once from the IIIF image service to raw/images/ and viewed directly to correct this edition's OCR text against the actual page; every correction is logged, one file per printed page, under raw/corrections/p<NNN>.json (find/replace/note triples), and applied deterministically by scripts/import-dante/monarchia-la/index.ts. Also checked and not used as a source: Karl Witte's 1874 critical edition (archive.org dantisalligheri01wittgoog and bub_gb_7FBb66mwKsQC - both have IIIF scans, but carry a large apparatus criticus and ~230 pages of front matter before the text proper); Latin Wikisource's \"De monarchia\" (its own page header states \"editio: incognita, fons: incognitus\", and its own {{textquality}} template marks it 25%/unproofread - both disqualifying it as a base text per this batch's house rule). Imported by scripts/import-dante/monarchia-la.",
+  "license": "Dante's Latin original (c. 1312-13) and Moore's 1916 critical text are both in the public domain worldwide. The archive.org digital scan carries no additional restriction (possible-copyright-status: NOT_IN_COPYRIGHT).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Dante's De Monarchia, his Latin political treatise arguing for the independent, God-given authority of universal secular monarchy (embodied by the Holy Roman Emperor) alongside, not subordinate to, the authority of the Papacy - in Edward Moore's critical Latin text, \"the Oxford text\", first published 1916 as a compact standalone volume (Latin text only, no per-page critical apparatus) with W. H. V. Reade's English introduction on Dante's political theory. This edition prints Karl Witte's own 1874 chapter numbering throughout (its own note: \"the numbering of the chapters is that of Witte\"), with the alternative numbering used by Fraticelli and other editors noted parenthetically in Book I only - this import follows Witte's numbering, discarding the parenthetical alternative, exactly as Church's English translation of this same work (dante-monarchia-en) already does in this library.",
+        "The text here is verbatim throughout. Nothing is modernised, paraphrased, or silently corrected beyond genuine OCR misreadings fixed against the scanned page image (see \"How it was imported\")."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "archive.org item demonarchiaoxfor00dantuoft, a 1916 Oxford Clarendon Press printing digitised from the University of Toronto (Robarts Library) collection at 400ppi, NOT_IN_COPYRIGHT, with an unrestricted IIIF image service. (A second 1916 Oxford scan was found, dantedemonarchia0000dant, but it sits in archive.org's \"printdisabled\" controlled-digital-lending collection - access-restricted - and was not used.)"
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Direct OCR correction against page images (not the wikisource-base route): this edition's own ABBYY OCR text layer was fetched programmatically and cached as the working draft; every one of the 36 pages carrying the Monarchia's own text (printed pages 341-376) was then viewed as a downloaded page image and its OCR corrected by hand against what the image actually shows, logged as an explicit find/replace list per page (raw/corrections/p<NNN>.json) and applied deterministically. Latin Wikisource's parallel text of this same work was checked as a possible faster base but rejected: its own page header discloses an unknown source edition (\"editio: incognita, fons: incognitus\") and its own quality template marks it only 25%/unproofread.",
+        "Each of the three books is a top-level Division carrying this edition's own printed book-heading as sourceHeading (the Book II and Book III headings are printed in small capitals in the source and are normalised here to ordinary sentence capitalisation - a typographic-only normalisation); each of its numbered chapters (marked by Witte's bare roman numeral at the head of its first sentence) is a child Division holding a single Passage of that chapter's continuous running prose. This edition's own paragraph subdivisions (marked in print only by first-line indentation) are not recoverable from the page-image transcription route and are therefore not preserved; each chapter is one continuous block of prose, verbatim at the word level throughout.",
+        "45 chapters across 3 books (16 + 13 + 16), 132286 characters total. This matches Church's English translation's own 16+13+16 division exactly (dante-monarchia-en), since both ultimately follow Witte's numbering - independently confirmed here by directly counting this edition's own chapter markers rather than assumed from the English sibling."
+      ]
+    },
+    {
+      "heading": "Residual-error audit",
+      "paragraphs": [
+        "After the page-by-page correction pass, every word of the emitted text was cross-checked against the vocabulary of Latin Wikisource's independent digitisation of the same work (used purely as a spell-list, never as a text source; both sides normalised for ae/oe, u/v, i/j, y, ti/ci, h, doubled letters and prefix assimilation so that orthographic differences do not count) by scripts/import-dante/monarchia-la/residualCheck.ts. Every token absent from that vocabulary was then looked at individually against its page image (zoomed IIIF region crops where the full-page image was ambiguous, e.g. \"Maxime\" p.341, \"cubuliam\" p.356, \"epiichiam\" p.349) and either corrected - the entries marked \"residual audit\" in raw/corrections/ - or confirmed as printed (Moore's own orthography such as unassimilated \"adsumere\", \"quum\", \"exsistens\", \"litera\", \"sequuta\", \"diremtio\"; proper names; and readings the wikisource digitisation simply lacks). residualCheck.ts records each confirmed token with its reason, prints any unconfirmed one, and exits non-zero if there is any, so it doubles as a regression guard; at import time it reports zero unconfirmed tokens."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Division.ref and Passage.ref are null throughout: citation is by book and chapter number only, which the Division id and number already carry."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "1711 individual OCR corrections were applied across the 36 pages (see anomalies.json for the per-page count and raw/corrections/p<NNN>.json for the exact list), plus 22 further instances of a handful of always-wrong recurring misreadings (\"nee\" for \"nec\", \"ilia\" for \"illa\", etc.) fixed by a single global whole-word substitution rather than individually - see the \"recurring OCR misreadings\" anomaly entry. The excluded front/back matter, table of chapter arguments, marginal line-numbers, printer's gathering-signature marks, and Fraticelli parenthetical numbering; the paragraph-subdivision limitation; and this whitespace-before-punctuation normalisation, are all logged in anomalies.json."
+      ]
+    }
+  ]
+}

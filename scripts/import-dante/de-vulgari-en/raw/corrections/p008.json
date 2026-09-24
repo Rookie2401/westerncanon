@@ -1,0 +1,72 @@
+[
+  {
+    "find": ".Of altogether harmful, since tiiere would have been\ntalking- j^Q friendly intercourse between tiicm.\nin . - .\nScripture And if it be objected concerning the serpent\nin speaking to the first woman, or concerning\nfable Balaam's ass, that they spoke, we rep-ly that the",
+    "replace": "altogether harmful, since there would have been\nno friendly intercourse between them.\nAnd if it be objected concerning the serpent\nin speaking to the first woman, or concerning\nBalaam's ass, that they spoke, we reply that the",
+    "note": "leading/trailing fragments on these lines ('.Of', 'talking-', the entire garbage line 'in . - .', 'Scripture', 'fable') are leaked fragments of the adjacent margin caption ('Of talking beasts in Scripture and in fable'), not part of the sentence; also fixed OCR misreads 'there'/'no'/'them'/'reply'"
+  },
+  {
+    "find": "what Ovid says in the fifth book of the AFttJ-",
+    "replace": "what Ovid says in the fifth book of the Meta-",
+    "note": "OCR misread 'Meta-' (start of hyphenated 'Metamorphoses')"
+  },
+  {
+    "find": "morphosfs about magpies sj)eaking, we rc})ly tiiat",
+    "replace": "morphoses about magpies speaking, we reply that",
+    "note": "OCR misread 'morphoses'/'speaking'/'reply'/'that'"
+  },
+  {
+    "find": "And if any one should rejoin tiiat even up to the",
+    "replace": "And if any one should rejoin that even up to the",
+    "note": "OCR misread 'that'"
+  },
+  {
+    "find": "present time magi^ies and other birds sjjt-ak, we",
+    "replace": "present time magpies and other birds speak, we",
+    "note": "OCR misread 'magpies'/'speak'"
+  },
+  {
+    "find": "sjieaking, but a kind of imitation of the sound of",
+    "replace": "speaking, but a kind of imitation of the sound of",
+    "note": "OCR misread 'speaking'"
+  },
+  {
+    "find": "[603 our voice, or in other words, we say that",
+    "replace": "[60] our voice, or in other words, we say that",
+    "note": "OCR garbled the bracketed number '[60]'"
+  },
+  {
+    "find": "anv one v/ere to say expressly * Pica ' [\"magpie],",
+    "replace": "any one were to say expressly ' Pica ' [magpie],",
+    "note": "OCR misread 'any'/'were'; stray asterisk should be a quote mark; stray quote before 'magpie' removed"
+  },
+  {
+    "find": "and * Pica * were answered back, this would be",
+    "replace": "and ' Pica ' were answered back, this would be",
+    "note": "stray asterisks should be quote marks"
+  },
+  {
+    "find": "9. As in De Motiarcliui, I, 3 : 21, and Coiirjlvio, MI. 15 :",
+    "replace": "9. As in De Monarchia, I. 3 : 21, and Convivio, III. 15 :",
+    "note": "OCR misread 'Monarchia'/'Convivio'/'III.'; comma after 'I' should be a period"
+  },
+  {
+    "find": "81, Daiife adepts Aristotle's dictum that 'God and",
+    "replace": "81, Dante adopts Aristotle's dictum that 'God and",
+    "note": "OCR misread 'Dante'/'adopts'"
+  },
+  {
+    "find": "nature make iiotliinj^ in vain ' {J)e Calo, I. 4).",
+    "replace": "nature make nothing in vain ' (De Calo, I. 4).",
+    "note": "OCR misread 'nothing'; curly brace should be a parenthesis and 'De' was garbled"
+  },
+  {
+    "find": "19. God is the mirror in wliich all t'iinj^*> are re-",
+    "replace": "19. God is the mirror in which all things are re-",
+    "note": "OCR misread 'which'/'things'"
+  },
+  {
+    "find": "ficcted ; and the anj^els am! blessed spirics of I'aradhe,",
+    "replace": "flected ; and the angels and blessed spirits of Paradise,",
+    "note": "OCR misread 'flected'/'angels'/'and'/'spirits'/'Paradise'"
+  }
+]

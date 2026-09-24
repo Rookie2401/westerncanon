@@ -1,0 +1,87 @@
+[
+  {
+    "find": "^9,^ upset.",
+    "replace": "upset.",
+    "note": "removed garbled leftover margin-caption fragment (to be)"
+  },
+  {
+    "find": "^ Moreover, it seems suitable for us to add to",
+    "replace": "Moreover, it seems suitable for us to add to",
+    "note": "removed garbled leftover margin-caption fragment (avoided)"
+  },
+  {
+    "find": "relating to rliyme. There arc, then, three",
+    "replace": "relating to rhyme. There are, then, three",
+    "note": "OCR misread rhyme and are"
+  },
+  {
+    "find": "things, which with regard to the jihicing of",
+    "replace": "things, which with regard to the placing of",
+    "note": "OCR misread placing"
+  },
+  {
+    "find": "/use, namely, [^lirst]], excessive re])ctition of the",
+    "replace": "use, namely, [first], excessive repetition of the",
+    "note": "OCR misread use, bracketed word [first], and repetition"
+  },
+  {
+    "find": "same [[903 rhynic, unless perchance something",
+    "replace": "same [90] rhyme, unless perchance something",
+    "note": "OCR misread bracketed line number [90] and rhyme"
+  },
+  {
+    "find": "new and before unattemptcd in the art claim this",
+    "replace": "new and before unattempted in the art claim this",
+    "note": "OCR misread unattempted"
+  },
+  {
+    "find": "for itself; just like the day of incij)iont knight-",
+    "replace": "for itself; just like the day of incipient knight-",
+    "note": "OCR misread incipient"
+  },
+  {
+    "find": "this we have striven to accomplish in tl\\c canzone",
+    "replace": "this we have striven to accomplish in the canzone",
+    "note": "OCR misread the"
+  },
+  {
+    "find": "* yfrnor, tu 'vedi ben che quest a donnn.^",
+    "replace": "'Amor, tu vedi ben che questa donna.'",
+    "note": "OCR badly misread the Italian quotation"
+  },
+  {
+    "find": "! useless equivocation which always seems to",
+    "replace": "useless equivocation which always seems to",
+    "note": "removed stray leading character"
+  },
+  {
+    "find": "• \\ detract somewhat from the theme ; and the third",
+    "replace": "detract somewhat from the theme ; and the third",
+    "note": "removed stray leading characters"
+  },
+  {
+    "find": "'\\ lis roughness of rhymes [100], unless it be",
+    "replace": "is roughness of rhymes [100], unless it be",
+    "note": "removed stray leading characters; fixed is"
+  },
+  {
+    "find": "\\ (mingled with smoothness ; for from a mixture of",
+    "replace": "mingled with smoothness ; for from a mixture of",
+    "note": "removed stray leading characters"
+  },
+  {
+    "find": "12-14. Sim fos, etc. There Is an important",
+    "replace": "12-14. Sim fos, etc. There is an important",
+    "note": "fixed spurious capital in is"
+  },
+  {
+    "find": "metrical difrerence between the poems here coupled",
+    "replace": "metrical difference between the poems here coupled",
+    "note": "OCR misread difference"
+  },
+  {
+    "find": "ing line of every other stanza. In Dante's ('which",
+    "replace": "ing line of every other stanza. In Dante's (which",
+    "note": "removed stray apostrophe"
+  }
+]

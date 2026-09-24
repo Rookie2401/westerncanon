@@ -1,0 +1,47 @@
+{
+  "divisions": {
+    "archimedes-sphere-cylinder-book-2-ch-1": [
+      { "image": "images/book-2-ch-1.png", "width": 1086, "height": 1444, "source": "Heiberg, Archimedis opera omnia vol. I, p. 192, leaf 212; QC re-threshold 2026-09-23 (dense background speckle from the linear alpha ramp removed; see reportLines note)" }
+    ],
+    "archimedes-sphere-cylinder-book-2-ch-2": [
+      { "image": "images/book-2-ch-2-1.png", "width": 1871, "height": 830, "source": "Heiberg, Archimedis opera omnia vol. I, p. 196, leaf 216; QC re-threshold 2026-09-23 (dense speckle, incl. a noisy page-edge strip at the right, removed; see reportLines note)" },
+      { "image": "images/book-2-ch-2-2.png", "width": 1593, "height": 960, "source": "Heiberg, Archimedis opera omnia vol. I, p. 202, leaf 222; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)" }
+    ],
+    "archimedes-sphere-cylinder-book-2-ch-3": [
+      { "image": "images/book-2-ch-3.png", "width": 1711, "height": 990, "source": "Heiberg, Archimedis opera omnia vol. I, p. 208, leaf 228; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)" }
+    ],
+    "archimedes-sphere-cylinder-book-2-ch-4": [
+      { "image": "images/book-2-ch-4-1.png", "width": 1801, "height": 656, "source": "Heiberg, Archimedis opera omnia vol. I, p. 210, leaf 230; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)" }
+    ],
+    "archimedes-sphere-cylinder-book-2-ch-5": [
+      { "image": "images/book-2-ch-5.png", "width": 1938, "height": 1410, "source": "Heiberg, Archimedis opera omnia vol. I, p. 220, leaf 240; QC re-threshold + trim 2026-09-23: background speckle removed and a stray footnote-apparatus text fragment bleeding in at the very bottom edge trimmed off (height 1440→1410); see reportLines note" }
+    ],
+    "archimedes-sphere-cylinder-book-2-ch-7": [
+      { "image": "images/book-2-ch-7-1.png", "width": 958, "height": 700, "source": "Heiberg, Archimedis opera omnia vol. I, p. 232, leaf 252; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)" },
+      { "image": "images/book-2-ch-7-2.png", "width": 875, "height": 859, "source": "Heiberg, Archimedis opera omnia vol. I, p. 234, leaf 254; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)" }
+    ],
+    "archimedes-sphere-cylinder-book-2-ch-8": [
+      { "image": "images/book-2-ch-8-1.png", "width": 2151, "height": 688, "source": "Heiberg, Archimedis opera omnia vol. I, p. 236, leaf 256; QC re-threshold + trim 2026-09-23: background speckle removed and a stray line of body text bleeding in at the top edge trimmed off (height 730→688); see reportLines note" },
+      { "image": "images/book-2-ch-8-2.png", "width": 1730, "height": 767, "source": "Heiberg, Archimedis opera omnia vol. I, p. 244, leaf 264 (ΑΛΛΩΣ, alternate proof); QC re-threshold + trim 2026-09-23: grey apparatus/verso-bleed-through text at the right and a stray page-number fragment at the top edge removed by a hard binary alpha cutoff plus an 16px top trim (height 783→767)" }
+    ],
+    "archimedes-sphere-cylinder-book-2-ch-9": [
+      { "image": "images/book-2-ch-9.png", "width": 1820, "height": 1600, "source": "Heiberg, Archimedis opera omnia vol. I, p. 252, leaf 272; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)" }
+    ]
+  },
+  "reportLines": [
+    { "division": "archimedes-sphere-cylinder-book-2-ch-1", "markerIndex": 0, "leaf": 212, "printedPage": "192", "result": "image", "file": "images/book-2-ch-1.png", "note": "QC re-threshold 2026-09-23: original alpha conversion (linear ramp between dark/light luminance cutoffs) turned ordinary paper grain and faint verso bleed-through into dense visible speckle across the whole background; re-thresholded the same crop's alpha channel to a hard binary cutoff (opaque above ~160/255, transparent below) which removes the speckle while keeping the ink strokes solid; crop rectangle and dimensions unchanged" },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-2", "markerIndex": 0, "leaf": 216, "printedPage": "196", "result": "image", "file": "images/book-2-ch-2-1.png", "note": "QC re-threshold 2026-09-23: original alpha conversion left dense speckle across the background plus a noisy vertical strip at the right (page-edge/binding shadow within the crop); re-thresholded the alpha channel to a hard binary cutoff (opaque above ~160/255) which cleaned up both; crop rectangle and dimensions unchanged" },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-2", "markerIndex": 1, "leaf": 222, "printedPage": "202", "result": "image", "file": "images/book-2-ch-2-2.png", "note": "QC re-threshold 2026-09-23, same hard-binary-alpha-cutoff fix as book-2-ch-2-1; crop rectangle and dimensions unchanged" },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-3", "markerIndex": 0, "leaf": 228, "printedPage": "208", "result": "image", "file": "images/book-2-ch-3.png", "note": "QC re-threshold 2026-09-23, same hard-binary-alpha-cutoff fix as book-2-ch-2-1; crop rectangle and dimensions unchanged" },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-4", "markerIndex": 0, "leaf": 230, "printedPage": "210", "result": "image", "file": "images/book-2-ch-4-1.png", "note": "QC re-threshold 2026-09-23, same hard-binary-alpha-cutoff fix as book-2-ch-2-1; crop rectangle and dimensions unchanged" },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-4", "markerIndex": 1, "leaf": null, "printedPage": "212-218", "result": "no printed figure", "note": "Synthesis of prop. 4 (Heiberg pp. 212, 214, 216, 218 / leaves 232, 234, 236, 238), checked page by page up to prop. 5's heading on p. 218; no diagram appears anywhere in the synthesis, only the analysis diagram on p. 210 already covers marker 1." },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-5", "markerIndex": 0, "leaf": 240, "printedPage": "220", "result": "image", "file": "images/book-2-ch-5.png", "note": "QC re-threshold + trim 2026-09-23: hard-binary-alpha-cutoff fix as book-2-ch-2-1, plus a stray fragment of footnote-apparatus text bleeding in at the very bottom edge (below a clean gap) was trimmed off, height 1440→1410" },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-6", "markerIndex": 0, "leaf": null, "printedPage": "226-230", "result": "no printed figure", "note": "Prop. 6's entire proof (Heiberg pp. 226, 228, 230 / leaves 246, 248, 250) checked page by page from its heading to prop. 7's heading on p. 232; no diagram appears anywhere in this division." },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-7", "markerIndex": 0, "leaf": 252, "printedPage": "232", "result": "image", "file": "images/book-2-ch-7-1.png", "note": "QC re-threshold 2026-09-23, same hard-binary-alpha-cutoff fix as book-2-ch-2-1; crop rectangle and dimensions unchanged" },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-7", "markerIndex": 1, "leaf": 254, "printedPage": "234", "result": "image", "file": "images/book-2-ch-7-2.png", "note": "QC re-threshold 2026-09-23, same hard-binary-alpha-cutoff fix as book-2-ch-2-1; crop rectangle and dimensions unchanged" },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-8", "markerIndex": 0, "leaf": 256, "printedPage": "236", "result": "image", "file": "images/book-2-ch-8-1.png", "note": "QC re-threshold + trim 2026-09-23: hard-binary-alpha-cutoff fix as book-2-ch-2-1, plus a stray line of running body text bleeding in at the top edge (above a clean gap) was trimmed off, height 730→688" },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-8", "markerIndex": 1, "leaf": 264, "printedPage": "244", "result": "image", "file": "images/book-2-ch-8-2.png", "note": "This is the ΑΛΛΩΣ (alternate proof) diagram, at Heiberg p. 244 / leaf 264; the main proof (pp. 236-242 / leaves 256-262) is a single long proof with only the one diagram on p. 236 (marker 0). QC 2026-09-23: rejected for grey apparatus/bleed-through text at the right edge and a stray page-number fragment at the top; fixed with the same hard-binary-alpha-cutoff re-threshold plus a small top trim, see divisions entry for detail." },
+    { "division": "archimedes-sphere-cylinder-book-2-ch-9", "markerIndex": 0, "leaf": 272, "printedPage": "252", "result": "image", "file": "images/book-2-ch-9.png", "note": "QC re-threshold 2026-09-23, same hard-binary-alpha-cutoff fix as book-2-ch-2-1; crop rectangle and dimensions unchanged" }
+  ],
+  "failures": []
+}

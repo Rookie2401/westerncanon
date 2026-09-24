@@ -1,0 +1,92 @@
+[
+  {
+    "find": "reply The\nthat he miglit",
+    "replace": "reply\nthat he might",
+    "note": "remove leaked margin-caption word The; fix miglit->might"
+  },
+  {
+    "find": "when God speech\nquestioned",
+    "replace": "when God\nquestioned",
+    "note": "remove leaked margin-caption word speech"
+  },
+  {
+    "find": "but It docs not follow frc m this",
+    "replace": "but it does not follow from this",
+    "note": "fix It->it, docs->does, frc m->from"
+  },
+  {
+    "find": "what we call si)ecch. For",
+    "replace": "what we call speech. For",
+    "note": "fix si)ecch->speech"
+  },
+  {
+    "find": "accordin;^ to the will of God",
+    "replace": "according to the will of God",
+    "note": "fix accordin;^->according"
+  },
+  {
+    "find": "and by him alto they arc governed.",
+    "replace": "and by him also they are governed.",
+    "note": "fix alto->also, arc->are"
+  },
+  {
+    "find": "since the air is made to underj^o such great dis-",
+    "replace": "since the air is made to undergo such great dis-",
+    "note": "fix underj^o->undergo"
+  },
+  {
+    "find": "lightning to Hash, the water to drop",
+    "replace": "lightning to flash, the water to drop",
+    "note": "fix Hash->flash"
+  },
+  {
+    "find": "hurls down the liail, shall",
+    "replace": "hurls down the hail, shall",
+    "note": "fix liail->hail"
+  },
+  {
+    "find": "by him who has distinguislied greater things ?",
+    "replace": "by him who has distinguished greater things ?",
+    "note": "fix distinguislied->distinguished"
+  },
+  {
+    "find": "these observations are a sulficlent ansv/er to this",
+    "replace": "these observations are a sufficient answer to this",
+    "note": "fix sulficlent->sufficient, ansv/er->answer"
+  },
+  {
+    "find": "19. Tlu rv(.miin sfulc fnt. Dante seems to have\noverlnukcd (un. ii.20-2.I.",
+    "replace": "19. The woman spoke first. Dante seems to have\noverlooked Gen. ii. 20-24.",
+    "note": "fix garbled note 19 text"
+  },
+  {
+    "find": "29. El 'I'his opinion is retracted in Puradiso^ XXVI.\n133-13^) (which s<je). See all also below, I. 6 : 61.",
+    "replace": "29. El. This opinion is retracted in Paradiso, XXVI.\n133-136 (which see). See all also below, I. 6 : 61.",
+    "note": "fix garbled note 29 text"
+  },
+  {
+    "find": "37. Cii/ of ivoe (\\\\t.f Alas!). See Jf'ii^lurn \\\\\\. 3.",
+    "replace": "37. Cry of woe (lit., Alas!). See Wisdom vii. 3.",
+    "note": "fix garbled note 37 text"
+  },
+  {
+    "find": "63. Jyutiih^i'iJif.i i^rf.iler tliinr^s. The allusion is\nperhaps to (Jcii. i. 4, 6. See J'jritJiso, XIX. 42.",
+    "replace": "63. Distinguished greater things. The allusion is\nperhaps to Gen. i. 4, 6. See Paradiso, XIX. 42.",
+    "note": "fix garbled note 63 text"
+  },
+  {
+    "find": "CII AFTER V",
+    "replace": "CHAPTER V",
+    "note": "fix garbled chapter heading OCR"
+  },
+  {
+    "find": "[The tunc an<l plncc of Adam's first utterance.]",
+    "replace": "[The time and place of Adam's first utterance.]",
+    "note": "fix garbled bracketed argument"
+  },
+  {
+    "find": "THiNfKiNO then (not without reason drawn as",
+    "replace": "THINKING then (not without reason drawn as",
+    "note": "fix garbled small-caps opening word"
+  }
+]

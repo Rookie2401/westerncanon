@@ -140,7 +140,9 @@ describe('Library — per-text families', () => {
     const panel = grcPanel as HTMLElement;
     expect(panel.textContent).toContain('Greek · Bekker');
     expect(panel.textContent).toContain('Latin · trans. Boethius');
-  });
+    // The Library now lists 560+ works; jsdom's role queries over that DOM
+    // take several seconds, so this test gets a longer budget than the default.
+  }, 30000);
 
   it('renders a single-edition work as a direct link with no dropdown', () => {
     // Every real registry work now has 2+ editions (grouped), so this
@@ -205,7 +207,7 @@ describe('Library — per-text families', () => {
         .closest('.collapsible')
         ?.getAttribute('data-open'),
     ).toBe('true');
-  });
+  }, 30000);
 });
 
 describe('Work (Summa)', () => {

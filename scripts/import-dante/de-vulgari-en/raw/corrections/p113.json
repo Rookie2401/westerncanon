@@ -1,0 +1,122 @@
+[
+  {
+    "find": "order (in each case) as the enc'.-words of each of the",
+    "replace": "order (in each case) as the end-words of each of the",
+    "note": "OCR misread end-words"
+  },
+  {
+    "find": "21, jinJ iJiis, i.e. the free choice as to the arrange-",
+    "replace": "21. And this, i.e. the free choice as to the arrange-",
+    "note": "OCR misread note number punctuation and And this"
+  },
+  {
+    "find": "by A. Daniel, wlio in no less tlian eight out of",
+    "replace": "by A. Daniel, who in no less than eight out of",
+    "note": "OCR misread who and than"
+  },
+  {
+    "find": "seventeen extant canzoni uses a stanza in which alt",
+    "replace": "seventeen extant canzoni uses a stanza in which all",
+    "note": "OCR misread all"
+  },
+  {
+    "find": "t!ie rhymes are isolated (compare no/f on lines 12-14",
+    "replace": "the rhymes are isolated (compare note on lines 12-14",
+    "note": "OCR misread the and note"
+  },
+  {
+    "find": "40-47. 'riiis is exemplified in 'Donna f>ietosa*",
+    "replace": "40-47. This is exemplified in 'Donna pietosa'",
+    "note": "OCR misread This and pietosa"
+  },
+  {
+    "find": "(quoted above, M. ii : 41). See its first stanza in",
+    "replace": "(quoted above, II. 11 : 41). See its first stanza in",
+    "note": "OCR misread roman numeral cross-reference II. 11"
+  },
+  {
+    "find": "Appendix n.",
+    "replace": "Appendix II.",
+    "note": "OCR misread roman numeral II"
+  },
+  {
+    "find": "50-52. i.e. the concluding lines of tlie whole stanza",
+    "replace": "50-52. i.e. the concluding lines of the whole stanza",
+    "note": "OCR misread the"
+  },
+  {
+    "find": "53. 'I'be reason fur * care' in the feet (and verses)",
+    "replace": "53. The reason for 'care' in the feet (and verses)",
+    "note": "OCR misread The, for, and quotation mark"
+  },
+  {
+    "find": "between them. 'I'ht /route and coda (it will be re-",
+    "replace": "between them. The fronte and coda (it will be re-",
+    "note": "OCR misread The and fronte"
+  },
+  {
+    "find": "55-63. • Amivcri iiLe an echo.'' It will be remembered",
+    "replace": "55-63. 'Answers like an echo.' It will be remembered",
+    "note": "OCR badly misread the quoted phrase Answers like an echo"
+  },
+  {
+    "find": "that in the passage to which Dante here refirrs (above,",
+    "replace": "that in the passage to which Dante here refers (above,",
+    "note": "OCR misread refers"
+  },
+  {
+    "find": "II. 12 : 56-63) lie had said that the line of three",
+    "replace": "II. 12 : 56-63) he had said that the line of three",
+    "note": "OCR misread he"
+  },
+  {
+    "find": "witli the ending of tlie line before. In the present",
+    "replace": "with the ending of the line before. In the present",
+    "note": "OCR misread with and the"
+  },
+  {
+    "find": "avoiding (if so desired) an unrhymcd line; and he",
+    "replace": "avoiding (if so desired) an unrhymed line; and he",
+    "note": "OCR misread unrhymed"
+  },
+  {
+    "find": "a line of eleven syllables follow tlie unrhymed line,",
+    "replace": "a line of eleven syllables follow the unrhymed line,",
+    "note": "OCR misread the"
+  },
+  {
+    "find": "which line of eleven syllables sliould incorporate a",
+    "replace": "which line of eleven syllables should incorporate a",
+    "note": "OCR misread should"
+  },
+  {
+    "find": "lineofthree syllables answering 'like an echo' the",
+    "replace": "line of three syllables answering 'like an echo' the",
+    "note": "OCR dropped spaces, merging line of three into one token"
+  },
+  {
+    "find": "ending of tlie line otherwise unrhymed. The follow-",
+    "replace": "ending of the line otherwise unrhymed. The follow-",
+    "note": "OCR misread the"
+  },
+  {
+    "find": "this explanation quite clear; AaliB .- JJl> A A .- where",
+    "replace": "this explanation quite clear: AaBB : BbAA : where",
+    "note": "OCR badly misread the rhyme-formula notation"
+  },
+  {
+    "find": "the sma'l letters <?, /•, indicate the three-syllabled lines",
+    "replace": "the small letters a, b, indicate the three-syllabled lines",
+    "note": "OCR misread small and the letters a, b"
+  },
+  {
+    "find": "indicated by the capital letters J3, A which follow",
+    "replace": "indicated by the capital letters B, A which follow",
+    "note": "OCR misread capital letter B"
+  },
+  {
+    "find": "81. By the combination of the final ending! Il",
+    "replace": "81. By the combination of the final endings is",
+    "note": "OCR misread endings is (sentence continues on next page)"
+  }
+]

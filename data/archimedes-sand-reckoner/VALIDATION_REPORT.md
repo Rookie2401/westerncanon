@@ -1,6 +1,6 @@
 # Archimedes validation report - archimedes-sand-reckoner
 
-Generated: 2026-09-22T21:51:17.420Z
+Generated: 2026-09-23T21:19:45.073Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -26,7 +26,7 @@ Generated: 2026-09-22T21:51:17.420Z
 - **archimedes-sand-reckoner / entity decoding** - The numeric entity "&#9651;" was decoded to the real character ▵ (U+25B3) 37 time(s) in this file.
 - **archimedes-sand-reckoner / character encoding** - Unicode NFC normalisation was applied to all extracted reading text (4 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation.
 - **archimedes-sand-reckoner / division archimedes-sand-reckoner-ch-1 / passage[0]** - <del> excluded from reading text: "τοῦ κυλίνδρου"
-- **archimedes-sand-reckoner / division archimedes-sand-reckoner-ch-1 / passage[0]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-sand-reckoner / division archimedes-sand-reckoner-ch-1 / passage[0]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sand-reckoner/images/).
 - **archimedes-sand-reckoner / division archimedes-sand-reckoner-ch-3 / passage[0]** - <del> excluded from reading text: "μὲν"
 - **archimedes-sand-reckoner / division archimedes-sand-reckoner-ch-4 / passage[0]** - <del> excluded from reading text: "ἔτι"
 - **archimedes-sand-reckoner-ch-1** - The source's own literal placeholder text "(??)" (First1KGreek's unresolved digitisation stand-in for a single glyph it could not render - a numeral-fraction mark for "U+XXXX"-style placeholders, or a rare/archaic letter in a diagram-point label or numeral for "(??)" - not a real Unicode character or any part of Archimedes' actual Greek) was removed from the reading text rather than displayed or guessed at; context: "...όγον ἔχει ἢ τὰ ρ ποτὶ τὰ [(??)]θ. Καὶ ἐπεὶ ἁ μ..."

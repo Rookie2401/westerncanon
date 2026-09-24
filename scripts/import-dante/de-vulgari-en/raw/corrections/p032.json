@@ -1,0 +1,18 @@
+[
+  {"find": "dialled Tf^^f\"\" ^-,^M.\"°' '^' ^^°'\" °^'0' t'^^ Duchy", "replace": "are Apulia (but not the whole of it), the Duchy", "note": "line largely garbled OCR noise (bleed of the marginal shoulder caption 'The' plus mis-scanned body text); reconstructed from the page image"},
+  {"find": "ItS? .!^f/^P^^^t«]' i \"scany, and thcMarch of Genoa.", "replace": "[of Spoleto], Tuscany, and the March of Genoa.", "note": "leading garbage is a leftover fragment of the marginal shoulder caption ('dialects'); remainder reconstructed from the page image"},
+  {"find": "J;J^ose on the left are part of Apulia, the March", "replace": "Those on the left are part of Apulia, the March", "note": "leading garbage is a leftover fragment of the marginal shoulder caption ('of Italy') merged with garbled 'Those'"},
+  {"find": "March of Trcviso with Vcnetia. Friuli and", "replace": "March of Treviso with Venetia. Friuli and", "note": "OCR misreadings"},
+  {"find": "them, the languages of the iniiabitants vary, as", "replace": "them, the languages of the inhabitants vary, as", "note": "OCR misreading"},
+  {"find": "for mstance the language of the Sicilians as", "replace": "for instance the language of the Sicilians as", "note": "OCR misreading"},
+  {"find": "Apuhans with that of the Romans, of the", "replace": "Apulians with that of the Romans, of the", "note": "OCR misreading"},
+  {"find": "people of Romagna, of the peo])Ie of Romagna", "replace": "people of Romagna, of the people of Romagna", "note": "OCR misreading"},
+  {"find": "with that of the IVevisans and Veaetians, and", "replace": "with that of the Trevisans and Venetians, and", "note": "OCR misreadings"},
+  {"find": "us m this statement. Whence it aj^pcars tiiat", "replace": "us in this statement. Whence it appears that", "note": "OCR misreadings"},
+  {"find": "Italy alone is diversiHcd by fourteen dialects at", "replace": "Italy alone is diversified by fourteen dialects at", "note": "OCR misreading"},
+  {"find": "for instance in Tuscany the Sicnese diflbr in", "replace": "for instance in Tuscany the Sienese differ in", "note": "OCR misreadings"},
+  {"find": "speech from the Aretincs ; in Lombardy the", "replace": "speech from the Aretines ; in Lombardy the", "note": "OCR misreading"},
+  {"find": "i^erraresc from the Placentines ; in the same", "replace": "Ferrarese from the Placentines ; in the same", "note": "OCR misreading"},
+  {"find": "city also we observe some variation, as wc", "replace": "city also we observe some variation, as we", "note": "OCR misreading"},
+  {"find": "remarked above in the last chapter [^o].", "replace": "remarked above in the last chapter [80].", "note": "OCR misread bracketed number"}
+]

@@ -1,0 +1,70 @@
+LEVEL:3
+
+<section begin="s13" />
+
+<poem>
+Tutti li miei penser parlan d’Amore;
+     e hanno in loro sì gran varietate,
+     ch’altro mi fa voler sua potestate,
+     altro folle ragiona il suo valore,
+     altro sperando m’aporta dolzore,
+     altro pianger mi la spesse fiate;
+     e sol s’accordano in cherer pietate,
+     tremando di paura, che è nel core.
+Ond’io non so da qual matera prenda;
+     e vorrei dire, e non so ch’io mi dica:
+     così mi trovo in amorosa erranza.
+     E se con tutti voi far accordanza,
+     convenemi chiamar la mia nemica,
+     madonna la Pietà, che mi difenda.
+</poem>
+
+
+
+Questo sonetto in quattro parti si può dividere: ne la prima dico e [[#soppongo|soppongo]] che tutti li miei pensieri [[#sono d'amore|sono d’Amore]]; ne<section end="s13" />
+
+
+<section begin="c13" />{{§|folle|}}{{Sc|folle}}. La lezione ''forte'', proposto dal Giuliani, accolta in
+D’Anc.<sup>1</sup>, e a cui anche il Carducci fa buon viso, non ha alcun fondamento nei Mss. Il Giuliani pensa che «solo essa inchiude il concetto che Dante aveva sovresposto nella prosa: ''Non buona è la signoria d’Amore, perchè quanto il suo fedele più fede gli porta, tanto più gravi e dolorosi punti gli conviene passare''». Ma corrispondenza fra la prosa e la poesia c’è pure, e anzi più piena, se intendiamo che ''folle'' (non buona, non ragionevole) venga detta la signoria (il ''valore'') d’Amore, appunto perchè conduce i suoi fedeli a ''gravi e dolorosi punti''. Lo stesso pensiero
+si ha in un sonetto di {{AutoreCitato|Chiaro Davanzati|Chiaro Davanzati}} (‘Molti omini vanno ragionando’), dove d’Amore è detto: 
+
+
+<poem>... non à in sè nè senno nè misura
+nè cosa c’omo possala laudare,
+ma doppio è di tormento o di rancura.
+Chi più lo serve più lo fa pensare,
+E già di meritar non mette cura:
+Dunque è tutto di folle adoperare.
+</poem>
+
+
+Cfr. la canz. ‘Talento agio di dire’ (Vat. 3793, n° ccxxxv),
+v. 63, 64:
+
+
+<poem>om non è detto sagio
+perch’al suo servo afende;
+</poem>
+
+
+e cfr. pure la canz. di m. {{AutoreCitato|Iacopo Mostacci|Iacopo Mostacci}} ‘Umile core’, secondo
+il	testo stabilito dal Gaspary (''Scuola siciliana'', p. 36) sui codd. Vat. 3793 e Pal. 418:
+
+
+<poem>Umile core e fino e amoroso
+Già fa lungia stagione c’è portato
+Buonamente ad Amore;
+Di lei avanzare adesso fui pensoso
+Oltre podere; s’eo n’era afanato
+Nè·nde sentìa dolore,
+Pertanto non da lei partìa coragio,
+Nè mancav’a lo fino piacimento,
+Fin ch’io non vidi in ella folle usagio
+Lo quale avea; cangiat’ò (''lo qual m’ave
+cangiato?'') lo talento.
+</poem>
+
+
+{{§|soppongo|}}{{Sc|soppongo}}, pongo sotto gli occhi, è di tutti quattro i gruppi: ''propongo'' o ''prepongo'' è solo in b<sup>3</sup>.
+<br/>
+{{§|sono d'amore|}}{{Sc|sono d’amore}}. Cas., Beck,<section end="c13" />

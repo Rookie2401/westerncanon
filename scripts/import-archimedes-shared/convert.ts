@@ -296,6 +296,401 @@ const DIAGRAMS: Record<
   'archimedes-plane-equilibrium-book-2-ch-9': [
     { image: 'images/book-2-ch-9.png', width: 300, height: 1540 },
   ],
+  // --- BEGIN GENERATED (phase 3a, scratchpad/gen-archimedes-diagrams.mjs) ---
+
+  /**
+   * On the Sphere and Cylinder, Book II - same volume/technique as Book I
+   * above (archive.org archimedisoperao01arch, Heiberg 1st ed. vol. 1). Book
+   * II's propositions 1-9 sit on the even (Greek) leaves 212-272. Prop. 4's
+   * second marker (its synthesis) and all of prop. 6 were checked page by
+   * page and print no diagram (explicit null / no entry); prop. 8's second
+   * entry is its ΑΛΛΩΣ alternate proof's own distinct figure. See
+   * aboutText.ts KNOWN_GAPS for the full accounting.
+   */
+  'archimedes-sphere-cylinder-book-2-ch-1': [
+    { image: 'images/book-2-ch-1.png', width: 1086, height: 1444 }, // Heiberg, Archimedis opera omnia vol. I, p. 192, leaf 212; QC re-threshold 2026-09-23 (dense background speckle from the linear alpha ramp removed; see reportLines note)
+  ],
+  'archimedes-sphere-cylinder-book-2-ch-2': [
+    { image: 'images/book-2-ch-2-1.png', width: 1871, height: 830 }, // Heiberg, Archimedis opera omnia vol. I, p. 196, leaf 216; QC re-threshold 2026-09-23 (dense speckle, incl. a noisy page-edge strip at the right, removed; see reportLines note)
+    { image: 'images/book-2-ch-2-2.png', width: 1593, height: 960 }, // Heiberg, Archimedis opera omnia vol. I, p. 202, leaf 222; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)
+  ],
+  'archimedes-sphere-cylinder-book-2-ch-3': [
+    { image: 'images/book-2-ch-3.png', width: 1711, height: 990 }, // Heiberg, Archimedis opera omnia vol. I, p. 208, leaf 228; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)
+  ],
+  'archimedes-sphere-cylinder-book-2-ch-4': [
+    { image: 'images/book-2-ch-4-1.png', width: 1801, height: 656 }, // Heiberg, Archimedis opera omnia vol. I, p. 210, leaf 230; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)
+    null,
+  ],
+  'archimedes-sphere-cylinder-book-2-ch-5': [
+    { image: 'images/book-2-ch-5.png', width: 1938, height: 1410 }, // Heiberg, Archimedis opera omnia vol. I, p. 220, leaf 240; QC re-threshold + trim 2026-09-23: background speckle removed and a stray footnote-apparatus text fragment bleeding in at the very bottom edge trimmed off (height 1440→1410); see reportLines note
+  ],
+  'archimedes-sphere-cylinder-book-2-ch-7': [
+    { image: 'images/book-2-ch-7-1.png', width: 958, height: 700 }, // Heiberg, Archimedis opera omnia vol. I, p. 232, leaf 252; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)
+    { image: 'images/book-2-ch-7-2.png', width: 875, height: 859 }, // Heiberg, Archimedis opera omnia vol. I, p. 234, leaf 254; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)
+  ],
+  'archimedes-sphere-cylinder-book-2-ch-8': [
+    { image: 'images/book-2-ch-8-1.png', width: 2151, height: 688 }, // Heiberg, Archimedis opera omnia vol. I, p. 236, leaf 256; QC re-threshold + trim 2026-09-23: background speckle removed and a stray line of body text bleeding in at the top edge trimmed off (height 730→688); see reportLines note
+    { image: 'images/book-2-ch-8-2.png', width: 1730, height: 767 }, // Heiberg, Archimedis opera omnia vol. I, p. 244, leaf 264 (ΑΛΛΩΣ, alternate proof); QC re-threshold + trim 2026-09-23: grey apparatus/verso-bleed-through text at the right and a stray page-number fragment at the top edge removed by a hard binary alpha cutoff plus an 16px top trim (height 783→767)
+  ],
+  'archimedes-sphere-cylinder-book-2-ch-9': [
+    { image: 'images/book-2-ch-9.png', width: 1820, height: 1600 }, // Heiberg, Archimedis opera omnia vol. I, p. 252, leaf 272; QC re-threshold 2026-09-23 (background speckle removed; see reportLines note)
+  ],
+
+  /**
+   * On Spirals - archive.org archimedisoperao02arch (Heiberg 1st ed. vol. 2,
+   * Teubner 1881), Greek pages, leaves 32-166. Props. 2, 5, 14, 15, 22 and
+   * 28 carry a marker but print no diagram (checked page by page - no entry
+   * here, so their marker keeps the honest note); prop. 18's second marker
+   * reuses the p. 72 construction unchanged (repeat-last-entry). See
+   * aboutText.ts KNOWN_GAPS.
+   */
+  'archimedes-spirals-ch-1': [
+    { image: 'images/ch-1.png', width: 1288, height: 201 }, // Heiberg, Archimedis opera omnia vol. II, p. 16, leaf 32
+  ],
+  'archimedes-spirals-ch-6': [
+    { image: 'images/ch-6.png', width: 950, height: 683 }, // Heiberg, Archimedis opera omnia vol. II, p. 24, leaf 40
+  ],
+  'archimedes-spirals-ch-7': [
+    { image: 'images/ch-7.png', width: 873, height: 718 }, // Heiberg, Archimedis opera omnia vol. II, p. 26, leaf 44
+  ],
+  'archimedes-spirals-ch-8': [
+    { image: 'images/ch-8.png', width: 883, height: 902 }, // Heiberg, Archimedis opera omnia vol. II, p. 30, leaf 48
+  ],
+  'archimedes-spirals-ch-9': [
+    { image: 'images/ch-9.png', width: 1039, height: 929 }, // Heiberg, Archimedis opera omnia vol. II, p. 32, leaf 50
+  ],
+  'archimedes-spirals-ch-10': [
+    { image: 'images/ch-10.png', width: 729, height: 806 }, // Heiberg, Archimedis opera omnia vol. II, p. 36, leaf 54
+  ],
+  'archimedes-spirals-ch-11': [
+    { image: 'images/ch-11.png', width: 656, height: 823 }, // Heiberg, Archimedis opera omnia vol. II, p. 46, leaf 66
+  ],
+  'archimedes-spirals-ch-12': [
+    { image: 'images/ch-12.png', width: 777, height: 530 }, // Heiberg, Archimedis opera omnia vol. II, p. 54, leaf 76
+  ],
+  'archimedes-spirals-ch-13': [
+    { image: 'images/ch-13.png', width: 904, height: 581 }, // Heiberg, Archimedis opera omnia vol. II, p. 56, leaf 78
+  ],
+  'archimedes-spirals-ch-16': [
+    { image: 'images/ch-16.png', width: 1065, height: 1074 }, // Heiberg, Archimedis opera omnia vol. II, p. 64, leaf 86
+  ],
+  'archimedes-spirals-ch-17': [
+    { image: 'images/ch-17.png', width: 1077, height: 1024 }, // Heiberg, Archimedis opera omnia vol. II, p. 68, leaf 90
+  ],
+  'archimedes-spirals-ch-18': [
+    { image: 'images/ch-18.png', width: 1789, height: 555 }, // Heiberg, Archimedis opera omnia vol. II, p. 72, leaf 94
+  ],
+  'archimedes-spirals-ch-19': [
+    { image: 'images/ch-19.png', width: 1597, height: 778 }, // Heiberg, Archimedis opera omnia vol. II, p. 80, leaf 104
+  ],
+  'archimedes-spirals-ch-20': [
+    { image: 'images/ch-20.png', width: 1741, height: 591 }, // Heiberg, Archimedis opera omnia vol. II, p. 84, leaf 108
+  ],
+  'archimedes-spirals-ch-21': [
+    { image: 'images/ch-21.png', width: 962, height: 874 }, // Heiberg, Archimedis opera omnia vol. II, p. 88, leaf 112
+  ],
+  'archimedes-spirals-ch-23': [
+    { image: 'images/ch-23.png', width: 769, height: 763 }, // Heiberg, Archimedis opera omnia vol. II, p. 98, leaf 126
+  ],
+  'archimedes-spirals-ch-24': [
+    { image: 'images/ch-24-1.png', width: 900, height: 1272 }, // Heiberg, Archimedis opera omnia vol. II, p. 100, leaf 128
+    { image: 'images/ch-24-2.png', width: 902, height: 1326 }, // Heiberg, Archimedis opera omnia vol. II, p. 104, leaf 134
+  ],
+  'archimedes-spirals-ch-25': [
+    { image: 'images/ch-25-1.png', width: 887, height: 1278 }, // Heiberg, Archimedis opera omnia vol. II, p. 108, leaf 138
+    { image: 'images/ch-25-2.png', width: 855, height: 1210 }, // Heiberg, Archimedis opera omnia vol. II, p. 112, leaf 142
+  ],
+  'archimedes-spirals-ch-26': [
+    { image: 'images/ch-26-1.png', width: 818, height: 1400 }, // Heiberg, Archimedis opera omnia vol. II, p. 118, leaf 148
+    { image: 'images/ch-26-2.png', width: 855, height: 1255 }, // Heiberg, Archimedis opera omnia vol. II, p. 122, leaf 154; QC re-crop 2026-09-23: original crop included a full column of Greek body text bleeding in from the right margin (and a text fragment at the top edge); re-cropped tighter around the two circles only, with the marginal line-numbers 15/20/25 masked to paper tone before thresholding (threshold 170, lower than the 200 default, to suppress faint verso bleed-through)
+  ],
+  'archimedes-spirals-ch-27': [
+    { image: 'images/ch-27.png', width: 915, height: 767 }, // Heiberg, Archimedis opera omnia vol. II, p. 126, leaf 158
+  ],
+
+  /**
+   * Quadrature of the Parabola - archive.org archimedisoperao02arch (Heiberg
+   * 1st ed. vol. 2), leaves 336-389; most diagrams sit on the Greek (even)
+   * leaf but several (props. 4, 13, 15, 16, 19, 22's and 24's second figure)
+   * are printed on the Latin (odd) facing page only. Prop. 2 prints no
+   * diagram on either page. Prop. 4's page prints two alternate figures
+   * captioned "1." and "2."; Heiberg's own note says only fig. 2 is used by
+   * the proof, so fig. 2 is the one shipped. See aboutText.ts KNOWN_GAPS.
+   */
+  'archimedes-quadrature-parabola-ch-1': [
+    { image: 'images/ch-1.png', width: 610, height: 879 }, // Heiberg, Archimedis opera omnia vol. II, p. 298, leaf 336
+  ],
+  'archimedes-quadrature-parabola-ch-3': [
+    { image: 'images/ch-3.png', width: 702, height: 579 }, // Heiberg, Archimedis opera omnia vol. II, p. 300, leaf 338
+  ],
+  'archimedes-quadrature-parabola-ch-4': [
+    { image: 'images/ch-4.png', width: 921, height: 930 }, // Heiberg, Archimedis opera omnia vol. II, p. 301, leaf 339 (fig. 2, the only figure actually cited in the proof per the editor's footnote)
+  ],
+  'archimedes-quadrature-parabola-ch-5': [
+    { image: 'images/ch-5.png', width: 599, height: 1083 }, // Heiberg, Archimedis opera omnia vol. II, p. 304, leaf 342
+  ],
+  'archimedes-quadrature-parabola-ch-6': [
+    { image: 'images/ch-6.png', width: 994, height: 584 }, // Heiberg, Archimedis opera omnia vol. II, p. 306, leaf 344
+  ],
+  'archimedes-quadrature-parabola-ch-7': [
+    { image: 'images/ch-7.png', width: 861, height: 527 }, // Heiberg, Archimedis opera omnia vol. II, p. 308, leaf 346
+  ],
+  'archimedes-quadrature-parabola-ch-8': [
+    { image: 'images/ch-8.png', width: 898, height: 587 }, // Heiberg, Archimedis opera omnia vol. II, p. 310, leaf 348
+  ],
+  'archimedes-quadrature-parabola-ch-9': [
+    { image: 'images/ch-9.png', width: 900, height: 597 }, // Heiberg, Archimedis opera omnia vol. II, p. 312, leaf 350
+  ],
+  'archimedes-quadrature-parabola-ch-10': [
+    { image: 'images/ch-10.png', width: 918, height: 656 }, // Heiberg, Archimedis opera omnia vol. II, p. 314, leaf 352
+  ],
+  'archimedes-quadrature-parabola-ch-11': [
+    { image: 'images/ch-11.png', width: 935, height: 582 }, // Heiberg, Archimedis opera omnia vol. II, p. 314, leaf 352
+  ],
+  'archimedes-quadrature-parabola-ch-12': [
+    { image: 'images/ch-12.png', width: 1115, height: 704 }, // Heiberg, Archimedis opera omnia vol. II, p. 316, leaf 354
+  ],
+  'archimedes-quadrature-parabola-ch-13': [
+    { image: 'images/ch-13.png', width: 1129, height: 643 }, // Heiberg, Archimedis opera omnia vol. II, p. 319, leaf 357
+  ],
+  'archimedes-quadrature-parabola-ch-14': [
+    { image: 'images/ch-14.png', width: 1698, height: 1163 }, // Heiberg, Archimedis opera omnia vol. II, p. 322, leaf 360
+  ],
+  'archimedes-quadrature-parabola-ch-15': [
+    { image: 'images/ch-15.png', width: 1150, height: 1178 }, // Heiberg, Archimedis opera omnia vol. II, p. 329, leaf 367
+  ],
+  'archimedes-quadrature-parabola-ch-16': [
+    { image: 'images/ch-16.png', width: 949, height: 1466 }, // Heiberg, Archimedis opera omnia vol. II, p. 331, leaf 369
+  ],
+  'archimedes-quadrature-parabola-ch-17': [
+    { image: 'images/ch-17.png', width: 578, height: 1198 }, // Heiberg, Archimedis opera omnia vol. II, p. 334, leaf 372
+  ],
+  'archimedes-quadrature-parabola-ch-18': [
+    { image: 'images/ch-18.png', width: 697, height: 410 }, // Heiberg, Archimedis opera omnia vol. II, p. 338, leaf 376
+  ],
+  'archimedes-quadrature-parabola-ch-19': [
+    { image: 'images/ch-19.png', width: 712, height: 437 }, // Heiberg, Archimedis opera omnia vol. II, p. 339, leaf 377
+  ],
+  'archimedes-quadrature-parabola-ch-20': [
+    { image: 'images/ch-20.png', width: 799, height: 485 }, // Heiberg, Archimedis opera omnia vol. II, p. 340, leaf 378
+  ],
+  'archimedes-quadrature-parabola-ch-21': [
+    { image: 'images/ch-21.png', width: 1194, height: 620 }, // Heiberg, Archimedis opera omnia vol. II, p. 342, leaf 380
+  ],
+  'archimedes-quadrature-parabola-ch-22': [
+    { image: 'images/ch-22-1.png', width: 1109, height: 562 }, // Heiberg, Archimedis opera omnia vol. II, p. 346, leaf 384
+    { image: 'images/ch-22-2.png', width: 1120, height: 471 }, // Heiberg, Archimedis opera omnia vol. II, p. 347, leaf 385
+  ],
+  'archimedes-quadrature-parabola-ch-23': [
+    { image: 'images/ch-23.png', width: 1045, height: 1298 }, // Heiberg, Archimedis opera omnia vol. II, p. 348, leaf 386
+  ],
+  'archimedes-quadrature-parabola-ch-24': [
+    { image: 'images/ch-24-1.png', width: 1180, height: 667 }, // Heiberg, Archimedis opera omnia vol. II, p. 350, leaf 388
+    { image: 'images/ch-24-2.png', width: 1425, height: 849 }, // Heiberg, Archimedis opera omnia vol. II, p. 351, leaf 389
+  ],
+
+  /**
+   * On Floating Bodies - archive.org archimedisoperao02arch (Heiberg 1st ed.
+   * vol. 2, 1881), leaves 398-466. In this first edition the work is printed
+   * only in William of Moerbeke's medieval LATIN translation (the Greek was
+   * recovered from the Palimpsest after 1906), so the diagrams' point-letters
+   * are Latin (A B C D E F G ... for Α Β Γ Δ Ε Ζ Η ...) while this app's
+   * reading text is Mugler's Greek - disclosed on the About page. Book II
+   * prop. 10 prints a master figure plus eleven step figures across its five
+   * parts; every one is bundled in marker order. See aboutText.ts KNOWN_GAPS.
+   */
+  'archimedes-floating-bodies-book-1-ch-1': [
+    { image: 'images/book-1-ch-1.png', width: 635, height: 590 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 360, leaf 398
+  ],
+  'archimedes-floating-bodies-book-1-ch-2': [
+    { image: 'images/book-1-ch-2.png', width: 1130, height: 670 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 361, leaf 399
+  ],
+  'archimedes-floating-bodies-book-1-ch-3': [
+    { image: 'images/book-1-ch-3.png', width: 1126, height: 710 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 363, leaf 401
+  ],
+  'archimedes-floating-bodies-book-1-ch-4': [
+    { image: 'images/book-1-ch-4.png', width: 1116, height: 756 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 365, leaf 403
+  ],
+  'archimedes-floating-bodies-book-1-ch-5': [
+    { image: 'images/book-1-ch-5.png', width: 1346, height: 773 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 367, leaf 405 — same diagram as Prop. II, reprinted (text says "disponantur autem eadem prioribus")
+  ],
+  'archimedes-floating-bodies-book-1-ch-6': [
+    { image: 'images/book-1-ch-6.png', width: 710, height: 700 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 368, leaf 406
+  ],
+  'archimedes-floating-bodies-book-1-ch-7': [
+    { image: 'images/book-1-ch-7.png', width: 600, height: 640 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 370, leaf 408
+  ],
+  'archimedes-floating-bodies-book-1-ch-8': [
+    { image: 'images/book-1-ch-8.png', width: 2107, height: 520 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 371, leaf 409 — Prop. VIII's own demonstration is lost in the Tartalea manuscript (Heiberg's apparatus notes the printed diagrams here are mixed with Prop. IX's); these three small figures are the ones the edition prints under the Prop. VIII/Suppositio II heading
+  ],
+  'archimedes-floating-bodies-book-1-ch-9': [
+    { image: 'images/book-1-ch-9.png', width: 1950, height: 1300 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 373, leaf 411 — Prop. IX's own worked diagrams (distinct from the smaller p.371 set shared with Prop. VIII)
+  ],
+  'archimedes-floating-bodies-book-2-ch-1': [
+    { image: 'images/book-2-ch-1.png', width: 510, height: 1140 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 375, leaf 413
+  ],
+  'archimedes-floating-bodies-book-2-ch-2': [
+    { image: 'images/book-2-ch-2.png', width: 1240, height: 810 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 377, leaf 415
+  ],
+  'archimedes-floating-bodies-book-2-ch-3': [
+    { image: 'images/book-2-ch-3.png', width: 1280, height: 890 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 378, leaf 418 — two archive.org scan frames (leaves 416-417) between this and the previous division are QC re-photographs of pp.376-377 (a ruler/finger visible), not new page content; skipped
+  ],
+  'archimedes-floating-bodies-book-2-ch-4': [
+    { image: 'images/book-2-ch-4.png', width: 860, height: 820 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 380, leaf 420
+  ],
+  'archimedes-floating-bodies-book-2-ch-5': [
+    { image: 'images/book-2-ch-5.png', width: 960, height: 840 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 384, leaf 424
+  ],
+  'archimedes-floating-bodies-book-2-ch-6': [
+    { image: 'images/book-2-ch-6-1.png', width: 1060, height: 940 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 387, leaf 427 — "prima figura"
+    { image: 'images/book-2-ch-6-2.png', width: 900, height: 1060 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 388, leaf 428 — "secunda figura", explicitly cross-referenced in the text ("sicut in secunda figura descriptum est")
+  ],
+  'archimedes-floating-bodies-book-2-ch-7': [
+    { image: 'images/book-2-ch-7-1.png', width: 1230, height: 1000 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 390, leaf 430
+    { image: 'images/book-2-ch-7-2.png', width: 1220, height: 1050 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 391, leaf 431 — second case; Heiberg's apparatus notes "fig. 2 om. Tartalea" (his own reconstruction based on the mathematics)
+  ],
+  'archimedes-floating-bodies-book-2-ch-8': [
+    { image: 'images/book-2-ch-8-1.png', width: 1440, height: 1050 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 393, leaf 433 — first case (axis angle > B)
+    { image: 'images/book-2-ch-8-2.png', width: 1620, height: 1260 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 397, leaf 437 — second case (axis angle < B); apparatus notes "fig. 2 om. Tartalea"
+  ],
+  'archimedes-floating-bodies-book-2-ch-9': [
+    { image: 'images/book-2-ch-9.png', width: 1180, height: 1200 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 399, leaf 439
+  ],
+  'archimedes-floating-bodies-book-2-ch-10': [
+    { image: 'images/book-2-ch-10-1.png', width: 1550, height: 1350 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 404, leaf 444 — main construction diagram introducing Prop. X (referenced throughout Parts I-V)
+    { image: 'images/book-2-ch-10-2.png', width: 1230, height: 1150 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 410, leaf 450 — Demonstratio partis II, figure 1
+    { image: 'images/book-2-ch-10-3.png', width: 910, height: 890 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 412, leaf 452 — Demonstratio partis II, figure 2 (continuation)
+    { image: 'images/book-2-ch-10-4.png', width: 1280, height: 1220 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 414, leaf 454 — Demonstratio partis III, figure 1
+    { image: 'images/book-2-ch-10-5.png', width: 980, height: 970 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 416, leaf 456 — Demonstratio partis III, figure 2; QC re-crop 2026-09-23: original crop clipped points A and O at the right edge and included stray marginal line-numbers "5"/"10" at the left; re-cropped from the cached leaf with those two line-number digits masked to paper tone before thresholding (threshold 170, lower than the 200 default, to suppress faint verso bleed-through in this crop region) so the full figure (through A, O and the second point A₁) is included with no stray text
+    { image: 'images/book-2-ch-10-6.png', width: 930, height: 860 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 417, leaf 457 — Demonstratio partis III, "tertia figura" (explicitly named in the text on p.416); QC trim 2026-09-23: top ~40px trimmed to remove stray descender fragments bleeding in from the text line above the figure on the printed page
+    { image: 'images/book-2-ch-10-7.png', width: 1170, height: 1050 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 419, leaf 459 — Demonstratio partis IV, figure 1
+    { image: 'images/book-2-ch-10-8.png', width: 860, height: 950 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 420, leaf 460 — Demonstratio partis IV, figure 2
+    { image: 'images/book-2-ch-10-9.png', width: 900, height: 820 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 421, leaf 461 — Demonstratio partis IV, "fig. 3" (explicitly cited in a footnote)
+    { image: 'images/book-2-ch-10-10.png', width: 1250, height: 1270 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 423, leaf 463 — Demonstratio partis V, figure 1
+    { image: 'images/book-2-ch-10-11.png', width: 1230, height: 970 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 424, leaf 464 — Demonstratio partis V, figure 2
+    { image: 'images/book-2-ch-10-12.png', width: 950, height: 980 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 426, leaf 466 — Demonstratio partis V, figure 3
+  ],
+
+  /**
+   * The Method - archive.org methodofarchimed00arch: T. L. Heath, The Method
+   * of Archimedes (Cambridge, 1912), which reproduces Heiberg's own figures
+   * for props. 1-13 (Heiberg's 1913 2nd-edition volume is not on
+   * archive.org). Props. 8, 10 and 11 carry no marker; prop. 9 prints no
+   * figure of its own (Heath: the same figure as 8 "with a slight change" -
+   * explicit null); props. 12 and 15 have two markers on one figure each.
+   * CAVEAT (also on the About page): the figures for props. 14 and 15 are
+   * NOT Archimedes'/Heiberg's - the ancient proof of 14 is fragmentary and 15
+   * is wholly lost; Heath prints his own (14) and H. G. Zeuthen's (15)
+   * modern reconstructions, and those are what is shown, labelled as such.
+   */
+  'archimedes-method-ch-1': [
+    { image: 'images/ch-1.png', width: 1100, height: 1050 }, // Heath, The Method of Archimedes (1912), p. 16, leaf 20 (after Heiberg)
+  ],
+  'archimedes-method-ch-2': [
+    { image: 'images/ch-2.png', width: 1115, height: 1055 }, // Heath, The Method of Archimedes (1912), p. 19, leaf 23 (after Heiberg)
+  ],
+  'archimedes-method-ch-3': [
+    { image: 'images/ch-3.png', width: 920, height: 1090 }, // Heath, The Method of Archimedes (1912), p. 22, leaf 26 (after Heiberg)
+  ],
+  'archimedes-method-ch-4': [
+    { image: 'images/ch-4.png', width: 830, height: 880 }, // Heath, The Method of Archimedes (1912), p. 24, leaf 28 (after Heiberg)
+  ],
+  'archimedes-method-ch-5': [
+    { image: 'images/ch-5.png', width: 770, height: 1020 }, // Heath, The Method of Archimedes (1912), p. 26, leaf 30 (after Heiberg)
+  ],
+  'archimedes-method-ch-6': [
+    { image: 'images/ch-6.png', width: 580, height: 1010 }, // Heath, The Method of Archimedes (1912), p. 28, leaf 32 (after Heiberg)
+  ],
+  'archimedes-method-ch-7': [
+    { image: 'images/ch-7.png', width: 1085, height: 1025 }, // Heath, The Method of Archimedes (1912), p. 30, leaf 34 (after Heiberg)
+  ],
+  'archimedes-method-ch-9': [
+    null,
+  ],
+  'archimedes-method-ch-12': [
+    { image: 'images/ch-12.png', width: 682, height: 685 }, // Heath, The Method of Archimedes (1912), p. 39, leaf 43 (after Heiberg)
+    { image: 'images/ch-12.png', width: 682, height: 685 }, // Heath, The Method of Archimedes (1912), p. 39, leaf 43 (after Heiberg)
+  ],
+  'archimedes-method-ch-13': [
+    { image: 'images/ch-13.png', width: 680, height: 715 }, // Heath, The Method of Archimedes (1912), p. 41, leaf 45 (after Heiberg)
+  ],
+  'archimedes-method-ch-14': [
+    { image: 'images/ch-14.png', width: 1100, height: 990 }, // Heath, The Method of Archimedes (1912), p. 45, leaf 49 (Heath's own reconstruction, not Heiberg's)
+  ],
+  'archimedes-method-ch-15': [
+    { image: 'images/ch-15.png', width: 1000, height: 995 }, // Heath, The Method of Archimedes (1912), p. 49, leaf 53 (H.G. Zeuthen's reconstruction, per Heath, not Heiberg's)
+    { image: 'images/ch-15.png', width: 1000, height: 995 }, // Heath, The Method of Archimedes (1912), p. 49, leaf 53 (H.G. Zeuthen's reconstruction, per Heath, not Heiberg's)
+  ],
+
+  /**
+   * Liber Assumptorum (Book of Lemmas) - archive.org archimedisoperao02arch
+   * (Heiberg 1st ed. vol. 2), leaves 468-487, one figure per proposition
+   * (Latin point-letters, as printed). See aboutText.ts KNOWN_GAPS.
+   */
+  'archimedes-liber-assumptorum-ch-1': [
+    { image: 'images/ch-1.png', width: 868, height: 610 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 428, leaf 468
+  ],
+  'archimedes-liber-assumptorum-ch-2': [
+    { image: 'images/ch-2.png', width: 853, height: 815 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 430, leaf 472
+  ],
+  'archimedes-liber-assumptorum-ch-3': [
+    { image: 'images/ch-3.png', width: 878, height: 509 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 431, leaf 473
+  ],
+  'archimedes-liber-assumptorum-ch-4': [
+    { image: 'images/ch-4.png', width: 958, height: 566 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 432, leaf 474
+  ],
+  'archimedes-liber-assumptorum-ch-5': [
+    { image: 'images/ch-5.png', width: 1370, height: 847 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 433, leaf 475
+  ],
+  'archimedes-liber-assumptorum-ch-6': [
+    { image: 'images/ch-6.png', width: 1384, height: 690 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 435, leaf 477
+  ],
+  'archimedes-liber-assumptorum-ch-7': [
+    { image: 'images/ch-7.png', width: 903, height: 814 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 437, leaf 481
+  ],
+  'archimedes-liber-assumptorum-ch-8': [
+    { image: 'images/ch-8.png', width: 798, height: 614 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 437, leaf 481
+  ],
+  'archimedes-liber-assumptorum-ch-9': [
+    { image: 'images/ch-9.png', width: 628, height: 600 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 438, leaf 482
+  ],
+  'archimedes-liber-assumptorum-ch-10': [
+    { image: 'images/ch-10.png', width: 1024, height: 655 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 439, leaf 483
+  ],
+  'archimedes-liber-assumptorum-ch-11': [
+    { image: 'images/ch-11.png', width: 743, height: 705 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 440, leaf 484
+  ],
+  'archimedes-liber-assumptorum-ch-12': [
+    { image: 'images/ch-12.png', width: 553, height: 857 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 441, leaf 485
+  ],
+  'archimedes-liber-assumptorum-ch-13': [
+    { image: 'images/ch-13.png', width: 724, height: 846 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 442, leaf 486
+  ],
+  'archimedes-liber-assumptorum-ch-14': [
+    { image: 'images/ch-14.png', width: 1031, height: 870 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 443, leaf 487
+  ],
+
+  /**
+   * The Sand-Reckoner - archive.org archimedisoperao02arch (Heiberg 1st ed.
+   * vol. 2), leaf 294 (printed p. 256): the one lettered figure in the work,
+   * the sun's-angular-diameter construction. See aboutText.ts KNOWN_GAPS.
+   */
+  'archimedes-sand-reckoner-ch-1': [
+    { image: 'images/ch-1.png', width: 1815, height: 1563 }, // Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 256, leaf 294
+  ],
+
+  /**
+   * Stomachion - NO image. The palimpsest fragment's own figure was never
+   * printed in a public-domain edition found on archive.org; the only PD
+   * diagram located (Suter 1899, an Arabic-tradition "loculus Archimedius")
+   * is a different, symmetric dissection and was deliberately rejected. Both
+   * markers are explicit nulls (confirmed absence). See aboutText.ts.
+   */
+  'archimedes-stomachion-ch-1': [
+    null,
+    null,
+  ],
+  // --- END GENERATED ---
 };
 
 export interface Anomaly {
@@ -432,7 +827,8 @@ function buildPassage(
   }
   if (wp.figureCount > 0) {
     const diagrams = DIAGRAMS[divisionId];
-    const diagram = diagrams?.[Math.min(figureOccurrence.n, diagrams.length - 1)];
+    const start = figureOccurrence.n;
+    const diagram = diagrams?.[Math.min(start, diagrams.length - 1)];
     figureOccurrence.n += wp.figureCount;
     const source = figureSource(entry, bookNumber, chapterLabel);
     if (diagram) {
@@ -440,9 +836,18 @@ function buildPassage(
         image: diagram.image,
         imageWidth: diagram.width,
         imageHeight: diagram.height,
-        alt: `Diagram for ${source}, from the printed edition (Heiberg, Archimedis Opera Omnia).`,
+        alt: `Diagram for ${source}, from the printed edition (${entry.workId === 'archimedes-method' ? 'Heath, The Method of Archimedes, 1912, after Heiberg' : 'Heiberg, Archimedis Opera Omnia'}).`,
         source,
       };
+      // A passage carrying several markers whose printed edition shows
+      // several DISTINCT figures for them shows the rest as `more`.
+      const more: NonNullable<PassageFigure['more']> = [];
+      for (let k = start + 1; k < start + wp.figureCount && diagrams && k < diagrams.length; k++) {
+        const e = diagrams[k];
+        if (!e || e.image === diagram.image) continue;
+        more.push({ image: e.image, imageWidth: e.width, imageHeight: e.height, alt: `Further diagram for ${source}, from the same printed edition.` });
+      }
+      if (more.length) figure.more = more;
       passage.figure = figure;
       anomalies.push({
         where,

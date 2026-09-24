@@ -1,0 +1,137 @@
+[
+  {
+    "find": "this p?.s?nge as follows",
+    "replace": "this passage as follows",
+    "note": "OCR garbled 'passage'"
+  },
+  {
+    "find": "and (^) passion, in reference to tlie aiulience.",
+    "replace": "and (b) passion, in reference to the audience.",
+    "note": "OCR misread (b) and 'the audience'"
+  },
+  {
+    "find": "In tlic former case the author acts by ccmposing the",
+    "replace": "In the former case the author acts by composing the",
+    "note": "OCR misread 'the' and 'composing'"
+  },
+  {
+    "find": "canzone; in the latter, tlie canzone, v/hich has been",
+    "replace": "canzone; in the latter, the canzone, which has been",
+    "note": "OCR misread 'the' and 'which'"
+  },
+  {
+    "find": "' acted,' i.f. composed by tlie author, may be said ir»",
+    "replace": "' acted,' i.e. composed by the author, may be said in",
+    "note": "OCR misread 'i.e.', 'the', 'in'"
+  },
+  {
+    "find": "its turn to act {yiJclur iJ^ere) on tlic audience, who",
+    "replace": "its turn to act (videtur agere) on the audience, who",
+    "note": "OCR garbled Latin phrase and 'the'"
+  },
+  {
+    "find": "undergo tlie 'passion.'",
+    "replace": "undergo the 'passion.'",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "26. Alviliilatiun of ioumiy i.e. a musical setting.",
+    "replace": "26. Modulation of sound, i.e. a musical setting.",
+    "note": "OCR garbled 'Modulation of sound,'"
+  },
+  {
+    "find": "70. The words ' ivhhuut ripresa ' (^sine resp'jnsor'io^ are",
+    "replace": "70. The words ' without ripresa ' (sine responsorio) are",
+    "note": "OCR garbled 'without' and Latin phrase"
+  },
+  {
+    "find": "ballata. The rtpresa was the opening portion of the",
+    "replace": "ballata. The ripresa was the opening portion of the",
+    "note": "OCR misread 'ripresa'"
+  },
+  {
+    "find": "Tempo, in liis treatise on vernacular rhymes {^Delle",
+    "replace": "Tempo, in his treatise on vernacular rhymes (Delle",
+    "note": "OCR misread 'his' and opening paren"
+  },
+  {
+    "find": "Hhne Vohi>iri), written in 1332, says that hallate were",
+    "replace": "Rime Volgari), written in 1332, says that ballate were",
+    "note": "OCR garbled 'Rime Volgari' and 'ballate'"
+  },
+  {
+    "find": "72. Dwnfy etc. The first line of the first canzone",
+    "replace": "72. Donne, etc. The first line of the first canzone",
+    "note": "OCR garbled 'Donne,'"
+  },
+  {
+    "find": "in tiie Vita Nw/iui. It is quoted again l)elow, iz: 19.",
+    "replace": "in the Vita Nuova. It is quoted again below, 12:19.",
+    "note": "OCR garbled 'the', 'Vita Nuova', 'below, 12:19'"
+  },
+  {
+    "find": "See Pur'^jlorio, XXIV. 49-5 1. It will be noticed that",
+    "replace": "See Purgatorio, XXIV. 49-51. It will be noticed that",
+    "note": "OCR garbled 'Purgatorio' and page range"
+  },
+  {
+    "find": "the next sentence in the Oxford Dante textis in the",
+    "replace": "the next sentence in the Oxford Dante text is in the",
+    "note": "OCR merged 'text is'"
+  },
+  {
+    "find": "tr;\\.Pslation transposed, in accordance with Rajna's",
+    "replace": "translation transposed, in accordance with Rajna's",
+    "note": "OCR garbled 'translation'"
+  },
+  {
+    "find": "[Having in ihc preceding chapter dcfinecl the canzone",
+    "replace": "[Having in the preceding chapter defined the canzone",
+    "note": "OCR misread 'the' and 'defined'"
+  },
+  {
+    "find": "ceeds to define the ttanza.]",
+    "replace": "ceeds to define the stanza.]",
+    "note": "OCR misread 'stanza'"
+  },
+  {
+    "find": "Inasmuch as the canzone is a joining together q^^^",
+    "replace": "Inasmuch as the canzone is a joining together",
+    "note": "stray margin-caption fragment ('Of the') left by auto-strip"
+  },
+  {
+    "find": "of stanzas, as has been said, we must necessarily stanza",
+    "replace": "of stanzas, as has been said, we must necessarily",
+    "note": "stray margin-caption fragment ('stanza') left by auto-strip"
+  },
+  {
+    "find": "be ignorant of the canzone if v/e do not know",
+    "replace": "be ignorant of the canzone if we do not know",
+    "note": "OCR misread 'we'"
+  },
+  {
+    "find": "defining ; and it therefore follows that we mast",
+    "replace": "defining ; and it therefore follows that we must",
+    "note": "OCR misread 'must'"
+  },
+  {
+    "find": "discover what it is, and what v/e mean to under-",
+    "replace": "discover what it is, and what we mean to under-",
+    "note": "OCR misread 'we'"
+  },
+  {
+    "find": "stand by it. And in reference to this r. ittcr we",
+    "replace": "stand by it. And in reference to this matter we",
+    "note": "OCR garbled 'matter'"
+  },
+  {
+    "find": "must observe that this word [lo] has been in-",
+    "replace": "must observe that this word [10] has been in-",
+    "note": "OCR misread bracketed line number [10] as [lo]"
+  },
+  {
+    "find": "must observe that this word [10] has been in-\nG",
+    "replace": "must observe that this word [10] has been in-",
+    "note": "trailing 'G' is a printer's gathering-signature mark (bookbinding apparatus at the foot of the page), not printed body text"
+  }
+]

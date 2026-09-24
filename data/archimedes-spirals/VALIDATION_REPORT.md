@@ -1,6 +1,6 @@
 # Archimedes validation report - archimedes-spirals
 
-Generated: 2026-09-22T21:51:17.418Z
+Generated: 2026-09-23T21:19:45.072Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -50,43 +50,43 @@ Generated: 2026-09-22T21:51:17.418Z
 
 - **archimedes-spirals / entity decoding** - The numeric entity "&#9651;" was decoded to the real character ▵ (U+25B3) 234 time(s) in this file.
 - **archimedes-spirals / character encoding** - Unicode NFC normalisation was applied to all extracted reading text (28 code point(s) remapped in this file - Greek ano teleia / acute-only Greek-Extended vowels to their monotonic-equivalent precomposed forms). Verified: zero standalone combining marks remain after normalisation.
-- **archimedes-spirals / division archimedes-spirals-ch-1 / passage[2]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-spirals / division archimedes-spirals-ch-1 / passage[2]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
 - **archimedes-spirals / division archimedes-spirals-ch-2 / passage[2]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-spirals / division archimedes-spirals-ch-5 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-6 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-7 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-8 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-9 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-10 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-spirals / division archimedes-spirals-ch-6 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-7 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-8 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-9 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-10 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
 - **archimedes-spirals / division archimedes-spirals-ch-10 / passage[2]** - <del> excluded from reading text: "περισσᾷ"
 - **archimedes-spirals / division archimedes-spirals-ch-10 / passage[2]** - <del> excluded from reading text: "πάσαις"
-- **archimedes-spirals / division archimedes-spirals-ch-11 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-12 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-13 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-spirals / division archimedes-spirals-ch-11 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-12 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-13 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
 - **archimedes-spirals / division archimedes-spirals-ch-13 / passage[2]** - <del> excluded from reading text: "τᾶς ΑΘ"
 - **archimedes-spirals / division archimedes-spirals-ch-14 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-spirals / division archimedes-spirals-ch-14 / passage[2]** - <del> excluded from reading text: "δέδεικται γὰρ τοῦτο ἔξω ἐν τοῖς πρώτοις"
 - **archimedes-spirals / division archimedes-spirals-ch-15 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-16 / passage[2]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-spirals / division archimedes-spirals-ch-16 / passage[2]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
 - **archimedes-spirals / division archimedes-spirals-ch-17 / passage[1]** - <del> excluded from reading text: "ποτὶ"
 - **archimedes-spirals / division archimedes-spirals-ch-17 / passage[1]** - <del> excluded from reading text: "ἴση μὲν γὰρ ἡ ΡΑ τῇ Α△, μείζων δὲ ἡ ΙΑ τῆς ΑΧ"
-- **archimedes-spirals / division archimedes-spirals-ch-17 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-18 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-18 / passage[3]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-19 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-20 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-spirals / division archimedes-spirals-ch-17 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-18 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-18 / passage[3]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-19 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-20 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
 - **archimedes-spirals / division archimedes-spirals-ch-21 / passage[1]** - <del> excluded from reading text: "κατὰ τὸ Ο ἁ ΟΜ"
-- **archimedes-spirals / division archimedes-spirals-ch-21 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-spirals / division archimedes-spirals-ch-21 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
 - **archimedes-spirals / division archimedes-spirals-ch-22 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-23 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-24 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-spirals / division archimedes-spirals-ch-23 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-24 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
 - **archimedes-spirals / division archimedes-spirals-ch-24 / passage[3]** - <del> excluded from reading text: "τῷ περιλαφθέντι ὑπὸ τᾶς ἕλικος καὶ τᾶς ΑΘ εὐθείας"
-- **archimedes-spirals / division archimedes-spirals-ch-24 / passage[3]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-25 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-25 / passage[4]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-26 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-26 / passage[4]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-spirals / division archimedes-spirals-ch-27 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-spirals / division archimedes-spirals-ch-24 / passage[3]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-25 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-25 / passage[4]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-26 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-26 / passage[4]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
+- **archimedes-spirals / division archimedes-spirals-ch-27 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-spirals/images/).
 - **archimedes-spirals / division archimedes-spirals-ch-27 / passage[3]** - <del> excluded from reading text: "καὶ ἀνάπαλιν"
 - **archimedes-spirals / division archimedes-spirals-ch-27 / passage[4]** - <del> excluded from reading text: "ΕΘ"
 - **archimedes-spirals / division archimedes-spirals-ch-28 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.

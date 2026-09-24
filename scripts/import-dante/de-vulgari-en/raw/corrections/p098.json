@@ -1,0 +1,107 @@
+[
+  {
+    "find": "with respect to the art [_oC the",
+    "replace": "with respect to the art [of the",
+    "note": "OCR garbled bracketed 'of'"
+  },
+  {
+    "find": "the canzonej ; namely,",
+    "replace": "the canzone] ; namely,",
+    "note": "OCR misread closing bracket as 'j'"
+  },
+  {
+    "find": "canzone ^^^q whole art of the canzone is contained should",
+    "replace": "the whole art of the canzone is contained should",
+    "note": "stray margin-caption fragment ('canzone ^^^q') left by auto-strip, replacing 'the'"
+  },
+  {
+    "find": "plain that the stanza of which we arc speaking",
+    "replace": "plain that the stanza of which we are speaking",
+    "note": "OCR misread 'are'"
+  },
+  {
+    "find": "will be the delimitation or []2o] jm'tinj.; toi;elher",
+    "replace": "will be the delimitation or [20] putting together",
+    "note": "OCR garbled bracketed number and 'putting together'"
+  },
+  {
+    "find": "I canzone embosoms the whole theme, so the",
+    "replace": "canzone embosoms the whole theme, so the",
+    "note": "stray leading garbage character from margin mark"
+  },
+  {
+    "find": "\\ stanza embosoms the whole art ; nor is it lawful",
+    "replace": "stanza embosoms the whole art ; nor is it lawful",
+    "note": "stray leading garbage character from margin mark"
+  },
+  {
+    "find": "' for the subsequent stanzas to call in any additional",
+    "replace": "for the subsequent stanzas to call in any additional",
+    "note": "stray leading garbage character from margin mark"
+  },
+  {
+    "find": ".^' we are in search of will become clear. The",
+    "replace": "we are in search of will become clear. The",
+    "note": "stray leading garbage characters from margin mark"
+  },
+  {
+    "find": "y^ whole art, therefore, of the canzone appears to",
+    "replace": "whole art, therefore, of the canzone appears to",
+    "note": "stray leading garbage characters from margin mark"
+  },
+  {
+    "find": "the musical setting ; second, on tlie arrangement",
+    "replace": "the musical setting ; second, on the arrangement",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "and syllables. But wc make no mention of",
+    "replace": "and syllables. But we make no mention of",
+    "note": "OCR misread 'we'"
+  },
+  {
+    "find": "stanza to introduce ^30^ new rhymes and to",
+    "replace": "stanza to introduce [30] new rhymes and to",
+    "note": "OCR garbled bracketed number [30]"
+  },
+  {
+    "find": "N,^ peculiar art of the canzone, as has been said.",
+    "replace": "peculiar art of the canzone, as has been said.",
+    "note": "stray leading garbage characters from margin mark"
+  },
+  {
+    "find": "• Anything, however, relating to rhyme which the",
+    "replace": "Anything, however, relating to rhyme which the",
+    "note": "stray leading garbage character from margin mark"
+  },
+  {
+    "find": "prised under the heading * Arrangement of the",
+    "replace": "prised under the heading ‘ Arrangement of the",
+    "note": "OCR misread opening quotation mark as asterisk"
+  },
+  {
+    "find": "Wherefore wc may thus collect the defining",
+    "replace": "Wherefore we may thus collect the defining",
+    "note": "OCR misread 'we'"
+  },
+  {
+    "find": "terms from what lias been said, and declare that",
+    "replace": "terms from what has been said, and declare that",
+    "note": "OCR misread 'has'"
+  },
+  {
+    "find": "I a stanza is a structure of lines and syllables",
+    "replace": "a stanza is a structure of lines and syllables",
+    "note": "stray leading garbage character from margin mark"
+  },
+  {
+    "find": "art vented solely with respect",
+    "replace": "vented solely with respect",
+    "note": "leading 'art' is a leaked fragment of the adjacent margin caption ('The art of the canzone')"
+  },
+  {
+    "find": "the canzone] ; namely,",
+    "replace": "canzone] ; namely,",
+    "note": "leading 'the' is a leaked fragment of the adjacent margin caption ('The art of the canzone')"
+  }
+]

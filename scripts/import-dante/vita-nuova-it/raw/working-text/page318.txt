@@ -1,0 +1,16 @@
+LEVEL:3
+
+
+<section begin="s5" />altrui, feci per lei certe cosette per rima, le quali non è mio intendimento di scrivere qui, se non in quanto [[#facesse a trattare|facesse a trattare]] di quella gentilissima Beatrice; e però le lascerò tutte, salvo che [[#alcuna cosa|alcuna cosa]] ne scriverò che pare che sia loda di lei.<section end="s5" />
+
+<section begin="s6" />Dico che in questo tempo che questa donna era schermo di tanto amore, quanto da la mia parte, sì mi venne una volontade di volere ricordare lo nome di quella gentilissima ed acompagnarlo di molti nomi di donne, e spezialmente del nome di questa gentile donna. E presi li nomi di sessanta le più belle donne de la cittade ove la mia donna fue posta da l’altissimo sire, e compuosi una pistola [[#sotto forma|sotto forma]] di serventese, la quale io non scriverò: e non n’avrei fatto menzione, se non per dire quello che, componendela, maravigliosamente adivenne,<section end="s6" />
+
+
+
+<section begin="c5" />
+
+{{§|facesse a trattare|}}{{Sc|facesse a trattare}}. La lezione ''facessero a trattare'', adottata da Frat., Giul. o Witte, proviene da M; ma è soltanto di questo codice, e la costruzione più regolare è la più sospetta.
+
+{{§|alcuna cosa|}}{{Sc|alcuna cosa}}. b* ha soltanto ''alcuna'', e perciò così leggono anche le più antiche edizioni. E in tal modo preferì leggere il D’Ancona nella 2ª ediz., essendogli parso che «l’''alcuna'' debba riferirsi a ''cosetta per rima'', e non ad un ''cosa'' generico». Ma se poniamo mente che nel paragrafo seguente Dante scrive ''alcuna cosa'' che riesce a lode di Beatrice, pur lasciando di riferire il serventese, la lezione più generica, che è anche la meglio fondata nei Mss., ci parrà l’unica che dia un senso perfetto.<section end="c5" />
+
+<section begin="c6" />{{§|sotto forma|}}{{Sc|{{Ec|.|sotto forma}}}} Invece di ''sotto forma'' può oggi parere ‘lectio difficilior’ ''sotto modo'', e porre quindi in sospetto che questa possa essere la lezione originale, nonostante la maggior diffusione dell’altra. Ma anche la forma ''sotto modo'' doveva esser allora assai ovvia, cfr. Manunzzi, s. v. § VI, e i seguenti esempi da me notati casualmente: nel cod. Magl. VII, 1152 del secolo xv (Commento anon. alla canz. ‘{{TestoCitato|Tre donne intorno al cor mi son venute|Tre donne intorno al cor}}’), c. 4<sup>b</sup>: ''Misse eziandio questa sua intenzione sotto modo di canzona''...; nel cod. II, IV, 127 della Naz. di Firenze (Rettorica di {{AutoreCitato|Brunetto Latini|Brunetto Latini}}), a c. 31°: ''e così sono quasi tutte le lectere e le cançoni d’amore in modo de tencione o tacita od espressa'', e a c. 31<sup>d</sup>: ''ma perciò che la pistola cioè la lectera dictata spessa mente non è per modo de tencione nè di contendere...'' Altri esempi mi porge il commento di {{AutoreCitato|Jacopo della Lana|Iacopo della Lana}}: ''qui tocca Dante la resurrezione di Cristo'' ecc. ''e mettelo sotto modo d’interrogazione'' (I, 139: Inf., IV, 45)... ''qui vuol Dante specificare alcuna di quelle ombre per nome, acciò che meglio s’intenda la ''<section end="c6" />

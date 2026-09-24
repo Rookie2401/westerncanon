@@ -1,0 +1,61 @@
+{
+  "workId": "newton-opticks-en",
+  "title": "Opticks: or, A Treatise of the Reflections, Refractions, Inflections and Colours of Light",
+  "author": "Isaac Newton",
+  "language": "en",
+  "edition": "The Fourth Edition, corrected (London: printed for William Innys, 1730)",
+  "provenance": "Project Gutenberg eBook #33504 (\"Opticks\", produced by Suzanne Lybarger, Steve Harris, Josephine Paolucci and the Online Distributed Proofreading Team at pgdp.net), fetched once (gutenberg.org/cache/epub/33504/pg33504.txt) and cached at scripts/import-newton/raw/opticks/pg33504.txt; imported by scripts/import-newton. pgdp.net is a page-by-page proofreading process (not raw/uncorrected OCR); nothing is loaded from the network at runtime.",
+  "license": "This is a Project Gutenberg eBook: the underlying 1730 text is in the public domain, and Project Gutenberg's own terms permit free use of the eBook text itself (see the licence text bundled inside the source file); the standard Project Gutenberg boilerplate/licence header and footer are stripped from the reading text.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Newton's Opticks, in its final, most complete form: the Fourth Edition (\"corrected\"), published in 1730, three years after Newton's death, from his own final manuscript revisions. It is written in English (unlike the Principia) and is Newton's other great work: the nature of light and colour (Books I-II) and, in Book III, diffraction and the celebrated 31 Queries - increasingly speculative, increasingly wide-ranging discussion questions covering optics, matter theory, chemistry, and natural philosophy generally, that grew from 16 in the first (1704) edition to 31 here.",
+        "The text here is Newton's English, verbatim throughout. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Isaac Newton, Opticks: or, A Treatise of the Reflections, Refractions, Inflections and Colours of Light. The Fourth Edition, corrected (London: printed for William Innys, 1730).",
+        "The front matter carries Newton's own signed \"Advertisements\" - Advertisement I (1704, signed \"I. N.\", explaining the work's long-delayed publication) and Advertisement II (1717, signed \"I. N.\", on the Queries added to the Second Edition) - imported here as a \"prefaces\" Division, exactly like the Principia's own Author's Preface. A third, UNSIGNED \"Advertisement to this Fourth Edition\" follows in the source; since it describes events after Newton's own death in 1727, it cannot be his, and is the publisher's own editorial note - excluded, and disclosed below, on the same principle as this batch's exclusion of the Principia's 1846 editorial Dedication.",
+        "The work is divided into three Books. Book I: Part I (Definitions - 8, Axioms - 8, Propositions I-VIII) and Part II (Propositions I-XI with supporting numbered Experiments, no further Definitions/Axioms). Book II: Part I (24 Observations), Part II (\"Remarks upon the foregoing Observations\" - discursive prose with no numbered items of its own), Part III (Propositions I-XX, printed without the \"Theorem/Problem\" sub-label Book I uses), and Part IV (13 Observations, with further Propositions and Experiments interleaved). Book III: one single Part (\"Part I\"), 11 Observations concerning diffraction, followed directly by the 31 Queries - Newton explicitly says in his own Advertisements that he left the Third Book \"imperfect,\" and no further Part was ever written."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is Project Gutenberg eBook #33504, a plain-text transcription produced through Distributed Proofreaders (pgdp.net) - a page-by-page human proofreading process against page scans, not raw/uncorrected OCR. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime. Project Gutenberg's own boilerplate (licence header/footer, \"Produced by...\" credit block) is stripped as transport furniture; none of Newton's own text is altered."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "This source is plain text (unlike the Principia's page-scan HTML), so structure is read from the printed labels themselves: \"DEFIN. N.\" / \"AX. N.\" (Book I Part I only), \"_PROP._ N. THEOR./PROB. N.\" (Book I, italicised in the source) or the plainer \"PROP. N.\" (Book II Part III only - a genuinely different typesetting, confirmed by direct inspection: Book II Parts I/II/IV and Book III carry no Propositions of their own at all), \"_Obs._ N.\" (Observation), \"_Exper._ N.\" (Experiment), and \"_Query_ N.\" / \"_Qu._ N.\" / \"_Quest._ N.\" (three different abbreviation styles the source itself uses for different Query numbers - all three preserved verbatim in each item's own heading, never normalised to one form). Each becomes its own reader Division, numbered exactly as printed.",
+        "Newton's own proofs constantly CITE an earlier Observation/Experiment/Hypothesis mid-sentence (\"by the 13th Observation...\", \"as appears by Exper. 4.\"), which reads identically to the marker that introduces a NEW item of the same kind. A citation is only ever treated as a new item when it sits at the very start of its paragraph, or immediately after a sentence-ending period - the same rule, and the same reasoning, this importer uses for the Principia's \"Hypoth.\"/\"Corol.\" citations (see data/newton-principia-la/about.json).",
+        "Book II Part II (\"Remarks upon the foregoing Observations\") and the short lead-in prose that opens several other Parts before their first numbered item carry no item numbering of the source's own. This text is never discarded: where a whole Part has no numbered items at all, its full text is held directly as that Part's own Passages; where only a short lead-in precedes the first numbered item, it becomes that Part's own \"-intro\" leaf Division. Either way the reading text is complete - nothing before a Part's first marker is dropped as if it were furniture."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Citation here is by Book, Part, and the item's own printed number/label (Definition/Axiom/Proposition/Observation/Experiment/Query), exactly as this edition prints it. This plain-text digitisation carries no page-number markers in the running text, so Division.ref and Passage.ref are null throughout."
+      ]
+    },
+    {
+      "heading": "Diagrams",
+      "paragraphs": [
+        "This source is a plain-text digitisation and carries no diagram images or markers of any kind (confirmed: Newton's own figure references, e.g. \"[in Fig. 6.]\", are plain inline text citing a printed plate, not a machine-readable marker this importer can act on). No `figure` field is set anywhere in this work; nothing is fabricated."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. All three Books, all Parts, all 8 Definitions, 8 Axioms, 19 Propositions and 31 supporting Experiments of Book I, all of Book II (37 Observations across Parts I/IV, 20 Propositions in Part III, and Part II's discursive prose), all 11 Observations of Book III, and all 31 Queries are present, matching this edition's own printed numbering and labelling exactly.",
+        "Query abbreviation is inconsistent IN THE SOURCE ITSELF, and this is preserved rather than normalised: Query 1 is headed \"Query 1\", Queries 2-29 are headed \"Qu. N\", and Queries 30-31 are headed \"Quest. N\" - three different abbreviations for the same word, printed exactly this way in the 1730 edition. Each Division's sourceHeading keeps whichever form that Query actually uses.",
+        "Excluded front/back matter. The UNSIGNED \"Advertisement to this Fourth Edition\" (describing events after Newton's 1727 death - certainly not his own words) and Project Gutenberg's own \"Transcriber's Note\" are excluded; see \"The edition\" above. Newton's own SIGNED Advertisements I and II are imported, under the \"prefaces\" Division.",
+        "No diagrams. See the dedicated section above."
+      ]
+    }
+  ]
+}

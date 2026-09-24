@@ -1,0 +1,87 @@
+[
+  {
+    "find": "bestowed on SorJcUo certain castles in the Abruzzi ;",
+    "replace": "bestowed on Sordello certain castles in the Abruzzi ;",
+    "note": "OCR misread \"Sordello\""
+  },
+  {
+    "find": "and it seems t'lat Charles (or perhaps his predecessor",
+    "replace": "and it seems that Charles (or perhaps his predecessor",
+    "note": "OCR misread \"that\""
+  },
+  {
+    "find": "Raymond liercnf|;er) had also provided Sordcllo with",
+    "replace": "Raymond Berenger) had also provided Sordello with",
+    "note": "OCR misread \"Berenger\"/\"Sordello\""
+  },
+  {
+    "find": "the exception of a long diilactic work, are exclusively",
+    "replace": "the exception of a long didactic work, are exclusively",
+    "note": "OCR misread \"didactic\""
+  },
+  {
+    "find": "7.4. 'Courtly' (</«//V«w). This term is explained\nbelow, I. 18 : 41,43. G. Ghisilieri (1244-1278) was a",
+    "replace": "24. 'Courtly' (aulicum). This term is explained\nbelow, I. 18 : 42, 43. G. Ghisilieri (1244-1278) was a",
+    "note": "note number and italic Latin word garbled; line-reference digit misread"
+  },
+  {
+    "find": "great family of the Laml>ertazzi and is said to have",
+    "replace": "great family of the Lambertazzi and is said to have",
+    "note": "OCR misread \"Lambertazzi\""
+  },
+  {
+    "find": "been a nephew of the Fabbro mentioned in Purgiitorioy",
+    "replace": "been a nephew of the Fabbro mentioned in Purgatorio,",
+    "note": "OCR misread italic title and trailing comma"
+  },
+  {
+    "find": "known to exist. Onesto was ? Doc'or of Laws of",
+    "replace": "known to exist. Onesto was a Doctor of Laws of",
+    "note": "OCR misread \"a Doctor\""
+  },
+  {
+    "find": "tion seems to have been Iiigher than that of the",
+    "replace": "tion seems to have been higher than that of the",
+    "note": "OCR misread \"higher\""
+  },
+  {
+    "find": "number of his poems liave survived and he is honour-",
+    "replace": "number of his poems have survived and he is honour-",
+    "note": "OCR misread \"have\""
+  },
+  {
+    "find": "48. MaJonmi^ etc. This canzone is attributed to",
+    "replace": "48. Madonna, etc. This canzone is attributed to",
+    "note": "OCR misread italic word and stray caret"
+  },
+  {
+    "find": "G. Ghisilieri below, II. 12 : 40 fT., where tlie same",
+    "replace": "G. Ghisilieri below, II. 12 : 40 ff., where the same",
+    "note": "OCR misread \"ff.\"/\"the\""
+  },
+  {
+    "find": "ning with a line of seven syllables. Ihnna is there",
+    "replace": "ning with a line of seven syllables. Donna is there",
+    "note": "OCR misread \"Donna\""
+  },
+  {
+    "find": "substituted for ALidonna. Reading MoJonnj, the vowel",
+    "replace": "substituted for Madonna. Reading Madonna, the vowel",
+    "note": "OCR misread italic word twice"
+  },
+  {
+    "find": "fr>.>m Guinizelli lias dropped out, and that Ghisilieri's",
+    "replace": "from Guinizelli has dropped out, and that Ghisilieri's",
+    "note": "OCR misread \"from\"/\"has\""
+  },
+  {
+    "find": "name has also dropped out before the words MaJonnaf",
+    "replace": "name has also dropped out before the words Madonna,",
+    "note": "OCR misread trailing word/punctuation"
+  },
+  {
+    "find": "50. Lo rneo, etc. Quoted again below, II. 12 : 46.",
+    "replace": "50. Lo meo, etc. Quoted again below, II. 12 : 46.",
+    "note": "OCR misread italic word \"meo\""
+  }
+]

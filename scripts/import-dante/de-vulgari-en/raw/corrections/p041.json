@@ -1,0 +1,167 @@
+[
+  {
+    "find": "F.arli/ Jtuliin Literature (QClsner's translation, pp.",
+    "replace": "Early Italian Literature (Œlsner's translation, pp.",
+    "note": "italic book title and editor name garbled"
+  },
+  {
+    "find": "55 <^-)-",
+    "replace": "55 ff.).",
+    "note": "page-range abbreviation misread"
+  },
+  {
+    "find": "16. The 'mark, to which it tends ' is the inciting",
+    "replace": "16. The 'mark to which it tends' is the inciting",
+    "note": "spurious comma inserted by OCR"
+  },
+  {
+    "find": "of the other Italian princes to emulate Frederick 11.",
+    "replace": "of the other Italian princes to emulate Frederick II.",
+    "note": "roman numeral II misread as 11"
+  },
+  {
+    "find": "veriiaciilar.",
+    "replace": "vernacular.",
+    "note": "veriiaciilar -> vernacular"
+  },
+  {
+    "find": "21. Casar, here = emperor, as in ParaJiso, I. 19.",
+    "replace": "21. Cæsar, here = emperor, as in Paradiso, I. 19.",
+    "note": "Casar -> Cæsar; ParaJiso -> Paradiso"
+  },
+  {
+    "find": "Frederick 1!., now of tlie Emperor Henry VI. by",
+    "replace": "Frederick II., son of the Emperor Henry VI. by",
+    "note": "roman numeral, 'son', and 'the' misread"
+  },
+  {
+    "find": "C«)iistance, lieiress of the Norman kinj^dom of Naples",
+    "replace": "Constance, heiress of the Norman kingdom of Naples",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "and Sicily, was born at Jesi, 1x94; succcetled liis father",
+    "replace": "and Sicily, was born at Jesi, 1194; succeeded his father",
+    "note": "date and 'succeeded his' misread"
+  },
+  {
+    "find": "as kinj^ of Naples and Sicily, 1x97; was crowned as",
+    "replace": "as king of Naples and Sicily, 1197; was crowned as",
+    "note": "kinj^ -> king; date misread"
+  },
+  {
+    "find": "emperor by Honorius III, in 1220; deposed by",
+    "replace": "emperor by Honorius III. in 1220 : deposed by",
+    "note": "punctuation misread"
+  },
+  {
+    "find": "Innocent IV. at the council of Lyons (1145), ''\"'' ^^^'^",
+    "replace": "Innocent IV. at the council of Lyons (1245), and died",
+    "note": "date misread; trailing garbage is 'and died'"
+  },
+  {
+    "find": "in 1250 Ills reign was one long struggle witli the",
+    "replace": "in 1250. His reign was one long struggle with the",
+    "note": "missing period and 'His'/'with' misread"
+  },
+  {
+    "find": "papal power. As he is commemorated liere for his",
+    "replace": "papal power. As he is commemorated here for his",
+    "note": "liere -> here"
+  },
+  {
+    "find": "Jn/'erno, X. 119 lie is Condemned as an epicurean on",
+    "replace": "Inferno, X. 119 he is condemned as an epicurean on",
+    "note": "Inferno, 'he', and lowercase 'condemned' misread"
+  },
+  {
+    "find": "Bennienilus cius JVTjnfreJus. Bene^^enltus IS an",
+    "replace": "Benegenitus eius Manfredus. Benegenitus is an",
+    "note": "italic Latin phrase heavily garbled"
+  },
+  {
+    "find": "oddly chobcn epithet, in view of Manfred's",
+    "replace": "oddly chosen epithet, in view of Manfred's",
+    "note": "chobcn -> chosen"
+  },
+  {
+    "find": "illegitimacy. It seems to he used in the same sense",
+    "replace": "illegitimacy. It seems to be used in the same sense",
+    "note": "he -> be"
+  },
+  {
+    "find": "as ten tuto in Pur^.itorio, V. 60, and ParjJ'uOy V. I15 ;",
+    "replace": "as ben nato in Purgatorio, V. 60, and Paradiso, V. 115 ;",
+    "note": "italic Latin phrase and citation garbled"
+  },
+  {
+    "find": "or the expression may allude to ATanfred's personal",
+    "replace": "or the expression may allude to Manfred's personal",
+    "note": "ATanfred's -> Manfred's"
+  },
+  {
+    "find": "beauty (^Purj^iitorio, III. 107), just as the corresponding",
+    "replace": "beauty (Purgatorio, III. 107), just as the corresponding",
+    "note": "citation garbled"
+  },
+  {
+    "find": "W/1///W// seems in Cowv/WoJUI. 4: 81 to mean ill-favoured;",
+    "replace": "mal nati seems in Convivio, III. 4: 81 to mean ill-favoured;",
+    "note": "italic Latin phrase and citation heavily garbled"
+  },
+  {
+    "find": "or perhaps Dante- intends to assert that Manfred was",
+    "replace": "or perhaps Dante intends to assert that Manfred was",
+    "note": "stray hyphen after Dante"
+  },
+  {
+    "find": "the jjhhituallij legitimate son of his father. On",
+    "replace": "the spiritually legitimate son of his father. On",
+    "note": "jjhhituallij -> spiritually"
+  },
+  {
+    "find": "Manlied, see Pur^^^atotio, III. 103-I45».",
+    "replace": "Manfred, see Purgatorio, III. 103-145n.",
+    "note": "Manlied -> Manfred; citation garbled"
+  },
+  {
+    "find": "35. Ji.u/ut. Thifi expression of contempt is taken",
+    "replace": "35. Racha. This expression of contempt is taken",
+    "note": "Racha (italicized) and This misread"
+  },
+  {
+    "find": "Constance, daughter of Manfred. See Convivir^, IV. 6 :",
+    "replace": "Constance, daughter of Manfred. See Convivio, IV. 6 :",
+    "note": "Convivir^ -> Convivio"
+  },
+  {
+    "find": "l%ln ;' J'ur^iitorio, VII. I1<.I20«; Pjr.iJLo, XIX. 1 30/1 /",
+    "replace": "182n ; Purgatorio, VII. 115-120n; Paradiso, XIX. 130n;",
+    "note": "citation chain heavily garbled"
+  },
+  {
+    "find": "38. On Charles II., king of Naples, see Purj^atorh,",
+    "replace": "38. On Charles II., king of Naples, see Purgatorio,",
+    "note": "Purj^atorh -> Purgatorio"
+  },
+  {
+    "find": "VII. I24-I29r». By the instrument here assigned to",
+    "replace": "VII. 124-129n. By the instrument here assigned to",
+    "note": "citation garbled"
+  },
+  {
+    "find": "this monarch in tlie orchestra of princes, Dante",
+    "replace": "this monarch in the orchestra of princes, Dante",
+    "note": "tlie -> the"
+  },
+  {
+    "find": "scenis to intimate that he thinks him fit for notliing",
+    "replace": "seems to intimate that he thinks him fit for nothing",
+    "note": "scenis -> seems; notliing -> nothing"
+  },
+  {
+    "find": "King Charles in many otlier places.",
+    "replace": "King Charles in many other places.",
+    "note": "otlier -> other"
+  }
+]

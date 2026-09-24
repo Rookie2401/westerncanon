@@ -1,0 +1,44 @@
+{
+  "workId": "dante-convivio-en",
+  "title": "The Banquet (Il Convito)",
+  "author": "Dante Alighieri",
+  "language": "en",
+  "translator": "Elizabeth Price Sayer",
+  "edition": "London: George Routledge and Sons, 1887, with an introduction by Henry Morley",
+  "provenance": "Project Gutenberg eBook #12867, \"The Banquet (Il Convito)\" (www.gutenberg.org/ebooks/12867), Distributed Proofreaders text; fetched once and cached under scripts/import-dante/convivio-en/raw/pg12867.txt. Nothing is downloaded at build or run time. Imported by scripts/import-dante/convivio-en.",
+  "license": "Sayer's translation (1887) and Dante's Italian original (c. 1304-07, unfinished) are both in the public domain worldwide. The Project Gutenberg digital transcription is released under the Project Gutenberg License.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Il Convivio (\"The Banquet\"), Dante's unfinished philosophical commentary on three of his own canzoni, in Elizabeth Price Sayer's 1887 English translation. Dante planned fourteen treatises of commentary plus an introductory first treatise (fifteen in all) but completed only four; this edition, like the Italian original, contains all four completed treatises and no more.",
+        "The text here is the translation, verbatim throughout. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Project Gutenberg eBook #12867, Distributed Proofreaders text (\"Produced by Paul Murray, Marc André Selig and PG Distributed Proofreaders\"), first released 2004 and most recently updated 2024. It is the complete text: all four treatises, 74 chapters (13 + 16 + 15 + 30)."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each treatise (\"The First Treatise\"..\"The Fourth Treatise\", as printed) is a top-level Division; each of its numbered chapters is a child Division holding a single Passage whose text is that chapter's paragraph-and-verse blocks, in order, joined by a blank line. A block is treated as verse (each printed line kept, joined by \"\\n\") when its own continuation lines carry the print's hanging indent - used here for Dante's own canzoni, quoted and then commented on stanza by stanza - and as prose (print-width-wrapped lines joined by a single space) otherwise, matching this batch's Commedia/Vita Nuova convention.",
+        "74 chapters, 444812 characters total."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Division.ref and Passage.ref are null throughout: citation is by treatise and chapter number only, which the Division id and number already carry."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Excluded editorial front matter (Henry Morley's introduction) is logged in anomalies.json. This app also holds no verbatim Italian edition of the Convivio at this time: the Italian sources checked during this import (Italian Wikisource's \"Convivio\", and LiberLiber's digitisation of the same) both explicitly state they reproduce the Busnelli-Vandelli critical edition (1st ed. 1934-37; the source used here is itself the 2nd edition, Le Monnier, 1964, with Antonio Enzo Quaglio's updating appendix) - a post-1931 critical text - and no complete, clearly pre-1931-edition, verbatim transcription of the Italian Convivio was located; see this importer's accompanying report for the full account. Only this English translation is shipped for the Convivio."
+      ]
+    }
+  ]
+}

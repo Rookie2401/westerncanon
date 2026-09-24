@@ -1,0 +1,52 @@
+{
+  "workId": "dante-commedia-en",
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "language": "en",
+  "translator": "Henry Wadsworth Longfellow",
+  "edition": "Longfellow's translation, first published complete 1867 (Boston: Ticknor and Fields)",
+  "provenance": "Project Gutenberg eBook #1004, \"Divine Comedy, Longfellow's Translation, Complete\" (www.gutenberg.org/ebooks/1004), fetched once and cached under scripts/import-dante/commedia-en/raw/pg1004.txt; nothing is downloaded at build or run time. The Gutenberg header carries no further source-edition note beyond naming Longfellow as translator; imported by scripts/import-dante/commedia-en.",
+  "license": "Longfellow's translation (complete 1867) and Dante's original Italian poem (completed c. 1320) are both in the public domain worldwide. The Project Gutenberg digital transcription is released under the Project Gutenberg License (freely usable; see www.gutenberg.org/policy/license.html).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Dante's Divina Commedia, in Henry Wadsworth Longfellow's blank-verse English translation - the first complete American translation of the poem, published in 1867. Longfellow rendered each of Dante's hendecasyllabic tercets as English blank verse, aiming for a close, line-by-line fidelity to the Italian rather than reproducing Dante's terza rima.",
+        "The text here is the translation, verbatim throughout. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Project Gutenberg eBook #1004, credited to producer Dennis McCarthy, first released 1997 and most recently updated 2024. It is the complete text: all three cantiche, 34 + 33 + 33 = 100 cantos.",
+        "Excluded from the reading text and disclosed here rather than silently dropped: the Gutenberg edition's own generated \"Contents\" table (a navigation index, not part of the poem), and a trailing \"APPENDIX / Six Sonnets on Dante's Divine Comedy by Henry Wadsworth Longfellow\" - six of Longfellow's own original sonnets about Dante, explicitly headed as an appendix in the source and not a translation of Dante's words."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each cantica (Inferno, Purgatorio, Paradiso) is a top-level Division; each of its cantos (34/33/33) is a child Division holding a single Passage whose text is every verse line of that canto, in order, joined by \"\\n\" - including the source's own blank line printed between successive tercets. Each line is trimmed of the hanging print-indent (this digitisation uses 4 spaces almost everywhere, occasionally 1 or 5 - a typesetting/transcription inconsistency, not a wording difference) used to mark a tercet's 2nd and 3rd lines; this is pure print layout, not part of Longfellow's wording, and no word was changed, added, or removed.",
+        "Total across the three cantiche: 14243 verse lines, 607712 characters."
+      ]
+    },
+    {
+      "heading": "Line counts",
+      "paragraphs": [
+        "The totals commonly cited for Dante's ITALIAN original are Inferno 4,720 / Purgatorio 4,755 / Paradiso 4,758 (14,233 lines). This digitisation of Longfellow's ENGLISH translation was measured at import time at Inferno 4721 / Purgatorio 4764 / Paradiso 4758 (14243 total). Longfellow's translation does not guarantee a strict one-line-per-Italian-line correspondence in every tercet, so a small difference from the Italian totals is expected in an English verse translation and is not evidence of missing or duplicated text; see anomalies.json for the per-cantica figures and this importer's own reasoning."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Division.ref and Passage.ref are null throughout: this digitisation prints no separate line-number citation apparatus (canto and line position are given structurally, by the Division id and the line's own position within the Passage text, not by an inline printed number)."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "See anomalies.json for the complete machine-readable log: the excluded Contents table and appendix sonnets, any collapsed run of blank lines, and the per-cantica line-count comparison against the commonly cited Italian totals.",
+        "This app also holds no verbatim Italian edition of the Commedia at this time: the two candidate digital sources checked during this import (Italian Wikisource's \"Divina Commedia\", and Project Gutenberg #1000) were found unusable - see this importer's accompanying report for the full account - so only this English translation is shipped for the Commedia."
+      ]
+    }
+  ]
+}

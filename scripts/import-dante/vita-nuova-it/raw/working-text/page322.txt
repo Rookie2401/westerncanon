@@ -1,0 +1,15 @@
+LEVEL:3
+
+
+<section begin="s8" /><poem>     Amor sente a pietà donne chiamare,
+     mostrando amaro duol per li occhi fore,
+     perchè villana morte in gentil core{{R|5}}
+     ha miso il suo crudele adoperare,
+     guastando ciò che al mondo è da laudare
+     in gentil donna sovra [[#sovra de l'onore|de l’onore]].</poem><section end="s8" />
+
+
+<section begin="c7" />codici, e che non è disforme dall’uso del tempo, come appare dai seguenti esempi: ''Furono due nobili cittadini di Vinegia, ch’ebbe nome l’uno messer Matteo e l’altro messer Nicolao'' (I viaggi di Marco Polo, ed. Bartoli, Firenze 1868, p. 1); - ''e questi due modi ell’uno'' (=l’uno) ''è contrario all’altro'' (Le antiche Chiose anonime all’Inferno di Dante secondo il testo Marciano, ed. Avalle, Città di Castello 1900, p. 90); - ''e ’l popolo trasse al palagio d’Uguccione e rubaronlo tutto, e alquanti di sua famiglia fue chi morto e chi preso'' (Storie pistoiesi, Firenze 1578, p. 61). Cfr. anche al Vocabolario sotto ''che'', relativo (Manuzzi § 4; Crusca<sup>5</sup> § VII): Franc. Sacch. nov. 101, ''Passava da un romitorio, dov’erano tre giovene remite, che l’una era bellissima quanto potesse essere; Vita S. Dorot. 128 (Legg. SS. M. 4, 128), Mandolla a due cristiane rinnegate, che l’una avea nome Crista, e Valtra Callista.<section end="c7" />
+
+<section begin="c8" />{{§|sovra de l'onore|}}{{Sc|sovra de l’onore}}. La lezione preferita dalle stampe è ''fora'' o ''fuora''; ''sovra'' è dato soltanto da Bisc., dagli Edd. Mil. e, quantunque S abbia ''sora'', anche da Pass.<sup>1</sup>; ''sora'' o ''suora'' non ha trovato grazia neppure fra i riproduttori di K (Cas., Pass.<sup>2</sup>, Beck, Melod.), sebbene ''sora'' sia proprio la sua lezione, benché in rasura, e non ''fora''. ''Fora'' o ''fuora'' ha ben scarso fondamento nei Mss.: si trova in Mgl. VII, 722 e Str. 170, ma non è sicuro che risalga fino a k, perchè la lezione originale di K doveva essere, com’abbiam mostrato, diversa, e T ha ''soura'' e b, affine di k, ha ''suora''. Si trova pure, ''fuora'', in Barb, ma tutti gli altri testi del gruppo hanno ''sora'' o ''soura''. Quanto al senso, leggendo ''fora'', i più hanno inteso: «guastando, fuor dell’onore che non può dalla morte ricevere detrimento alcuno, tutto ciò che al mondo è da
+lodare in una donna gentile, cioè la gioventù, la bellezza ecc.». Ad alcuno però, l’esclusione del l’onore dalle cose che possono essere guastate dalla morte, affermata in quel luogo e a quel modo, è parsa, e forse a ragione, inopportuna. Se non che il Casini ha proposto una diversa interpretazione: «guastando ciò che, oltre l’onore, si deve lodare in una donna gontile». Sarebbe un modo indiretto di ricor-<section end="c8" />

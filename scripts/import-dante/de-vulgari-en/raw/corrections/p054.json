@@ -1,0 +1,27 @@
+[
+  {
+    "find": "[Having failed to discover in any of tlie local dialects\na lanj4iiac;e fitlcil for the. whole of Italy, JJaiitc\nargues by analogy that there must be, as in all",
+    "replace": "[Having failed to discover in any of the local dialects\na language fitted for the whole of Italy, Dante\nargues by analogy that there must be, as in all",
+    "note": "multiple OCR letter misreadings in translator's argument"
+  },
+  {
+    "find": "Tliis is what he is in search of, a language\ncommon to all ]iarts without l^eing jjcculiar to\n/ any ; and this language he declares to be illus-",
+    "replace": "This is what he is in search of, a language\ncommon to all parts without being peculiar to\nany ; and this language he declares to be illus-",
+    "note": "OCR misreadings; remove stray leading slash mark (scan artifact)"
+  },
+  {
+    "find": "A After having scoured the heights and pastures\nstandard of Italy, v/ithout having found that panther\ncom- 1-1 • •. r • J .1 ^\noarison ^^^^'^'^ ^^''^ ^-^ ^\" pursuit or, in order that we\nmay be able to find hvr, let us now track, her\nout in a more -r^ition.d manner, so that we may\nwitli skilful efforts completely encloso within our\nJ\\jit. toils her who is fragrant everywhere but nowhere\n^i^^ Resuming, then, our huntlng-spcars, we say",
+    "replace": "AFTER having scoured the heights and pastures\nof Italy, without having found that panther\nwhich we are in pursuit of, in order that we\nmay be able to find her, let us now track her\nout in a more rational manner, so that we may\nwith skilful efforts completely enclose within our\ntoils her who is fragrant everywhere but nowhere\napparent.\nResuming, then, our hunting-spears, we say",
+    "note": "severely garbled passage where unstripped left-margin caption \"A standard of comparison\" collided with body text on every line; reconstructed from image, restoring the dropped word \"apparent.\""
+  },
+  {
+    "find": "one thing by which [^-to]] all the tilings of",
+    "replace": "one thing by which [10] all the things of",
+    "note": "bracket number and \"things\" misread"
+  },
+  {
+    "find": "substance ; namely, that evcrytliing considered",
+    "replace": "substance ; namely, that everything considered",
+    "note": "OCR misread \"everything\""
+  }
+]

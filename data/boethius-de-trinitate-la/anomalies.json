@@ -1,0 +1,22 @@
+[
+  {
+    "where": "boethius-de-trinitate-la / ch-pr",
+    "note": "This division's text opens with the manuscript's own incipit/dedication rubric (\"Anicii Manlii Severini Boethii V.C. et inl. excons. ord. patricii incipit liber quomodo tr…\"), kept verbatim as its first paragraph (genuine source text, not apparatus)."
+  },
+  {
+    "where": "boethius-de-trinitate-la / structure",
+    "note": "This edition divides the tractate into a Preface (\"pr\") and 6 numbered chapters, exactly as printed; imported as ch-pr, ch-1 .. ch-6."
+  },
+  {
+    "where": "boethius-de-trinitate-la / transport scaffolding",
+    "note": "73 <milestone unit=\"loebline\"/> ticks and 15 <pb/> page-break markers were dropped as pure typesetting scaffolding; this source carries no citation scheme this schema can use, so Division.ref and Passage.ref are null throughout."
+  },
+  {
+    "where": "boethius-de-trinitate-la / direct speech",
+    "note": "28 <q>...</q> span(s) carry no literal quotation-mark characters in this XML. 28 are fully contained within a single paragraph-level unit and are rendered wrapped in straight double quotes, matching this app's Consolatio handling. 0 wrap one or more WHOLE <p> paragraphs; for these no quote mark is synthesised, since placing one correctly across a paragraph boundary would be invented rather than read from the source."
+  },
+  {
+    "where": "boethius-de-trinitate-la / foreign-language text",
+    "note": "Boethius's own Greek philosophical terms (wrapped in <foreign xml:lang=\"grc\">) are kept verbatim, in their original script."
+  }
+]

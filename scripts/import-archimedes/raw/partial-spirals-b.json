@@ -1,0 +1,52 @@
+{
+  "divisions": {
+    "archimedes-spirals-ch-18": [
+      { "image": "images/ch-18.png", "width": 1789, "height": 555, "source": "Heiberg, Archimedis opera omnia vol. II, p. 72, leaf 94" }
+    ],
+    "archimedes-spirals-ch-19": [
+      { "image": "images/ch-19.png", "width": 1597, "height": 778, "source": "Heiberg, Archimedis opera omnia vol. II, p. 80, leaf 104" }
+    ],
+    "archimedes-spirals-ch-20": [
+      { "image": "images/ch-20.png", "width": 1741, "height": 591, "source": "Heiberg, Archimedis opera omnia vol. II, p. 84, leaf 108" }
+    ],
+    "archimedes-spirals-ch-21": [
+      { "image": "images/ch-21.png", "width": 962, "height": 874, "source": "Heiberg, Archimedis opera omnia vol. II, p. 88, leaf 112" }
+    ],
+    "archimedes-spirals-ch-23": [
+      { "image": "images/ch-23.png", "width": 769, "height": 763, "source": "Heiberg, Archimedis opera omnia vol. II, p. 98, leaf 126" }
+    ],
+    "archimedes-spirals-ch-24": [
+      { "image": "images/ch-24-1.png", "width": 900, "height": 1272, "source": "Heiberg, Archimedis opera omnia vol. II, p. 100, leaf 128" },
+      { "image": "images/ch-24-2.png", "width": 902, "height": 1326, "source": "Heiberg, Archimedis opera omnia vol. II, p. 104, leaf 134" }
+    ],
+    "archimedes-spirals-ch-25": [
+      { "image": "images/ch-25-1.png", "width": 887, "height": 1278, "source": "Heiberg, Archimedis opera omnia vol. II, p. 108, leaf 138" },
+      { "image": "images/ch-25-2.png", "width": 855, "height": 1210, "source": "Heiberg, Archimedis opera omnia vol. II, p. 112, leaf 142" }
+    ],
+    "archimedes-spirals-ch-26": [
+      { "image": "images/ch-26-1.png", "width": 818, "height": 1400, "source": "Heiberg, Archimedis opera omnia vol. II, p. 118, leaf 148" },
+      { "image": "images/ch-26-2.png", "width": 855, "height": 1255, "source": "Heiberg, Archimedis opera omnia vol. II, p. 122, leaf 154; QC re-crop 2026-09-23: original crop included a full column of Greek body text bleeding in from the right margin (and a text fragment at the top edge); re-cropped tighter around the two circles only, with the marginal line-numbers 15/20/25 masked to paper tone before thresholding (threshold 170, lower than the 200 default, to suppress faint verso bleed-through)" }
+    ],
+    "archimedes-spirals-ch-27": [
+      { "image": "images/ch-27.png", "width": 915, "height": 767, "source": "Heiberg, Archimedis opera omnia vol. II, p. 126, leaf 158" }
+    ]
+  },
+  "reportLines": [
+    { "division": "archimedes-spirals-ch-18", "markerIndex": 0, "leaf": 94, "printedPage": "72", "result": "image", "file": "images/ch-18.png" },
+    { "division": "archimedes-spirals-ch-18", "markerIndex": 1, "leaf": 96, "printedPage": "74-76", "result": "reused", "note": "Second marker falls at the conclusion of ch-18's proof (end of the 'not less' direction, p.74-76); no new diagram is printed there - the construction from p.72 (fig marker 0) is reused unchanged. Repeat-last-entry convention applies; only one array entry supplied." },
+    { "division": "archimedes-spirals-ch-19", "markerIndex": 0, "leaf": 104, "printedPage": "80", "result": "image", "file": "images/ch-19.png" },
+    { "division": "archimedes-spirals-ch-20", "markerIndex": 0, "leaf": 108, "printedPage": "84", "result": "image", "file": "images/ch-20.png" },
+    { "division": "archimedes-spirals-ch-21", "markerIndex": 0, "leaf": 112, "printedPage": "88", "result": "image", "file": "images/ch-21.png" },
+    { "division": "archimedes-spirals-ch-22", "markerIndex": 0, "leaf": 116, "printedPage": "92-94", "result": "no printed figure", "note": "Checked pp.92-96 (leaves 116-120) in full - proposition text explicitly says its construction is 'κατεσκευασθέντων κατὰ τὰ αὐτὰ τοῖς πρότερον' (built the same way as before, i.e. as prop 21) and no new diagram is printed for ch-22 in this edition." },
+    { "division": "archimedes-spirals-ch-23", "markerIndex": 0, "leaf": 126, "printedPage": "98", "result": "image", "file": "images/ch-23.png" },
+    { "division": "archimedes-spirals-ch-24", "markerIndex": 0, "leaf": 128, "printedPage": "100", "result": "image", "file": "images/ch-24-1.png" },
+    { "division": "archimedes-spirals-ch-24", "markerIndex": 1, "leaf": 134, "printedPage": "104", "result": "image", "file": "images/ch-24-2.png" },
+    { "division": "archimedes-spirals-ch-25", "markerIndex": 0, "leaf": 138, "printedPage": "108", "result": "image", "file": "images/ch-25-1.png" },
+    { "division": "archimedes-spirals-ch-25", "markerIndex": 1, "leaf": 142, "printedPage": "112", "result": "image", "file": "images/ch-25-2.png" },
+    { "division": "archimedes-spirals-ch-26", "markerIndex": 0, "leaf": 148, "printedPage": "118", "result": "image", "file": "images/ch-26-1.png" },
+    { "division": "archimedes-spirals-ch-26", "markerIndex": 1, "leaf": 154, "printedPage": "122", "result": "image", "file": "images/ch-26-2.png", "note": "QC re-crop 2026-09-23 — see divisions entry for detail (was showing a column of body text at the right edge; re-cropped tighter with marginal line-numbers masked out)" },
+    { "division": "archimedes-spirals-ch-27", "markerIndex": 0, "leaf": 158, "printedPage": "126", "result": "image", "file": "images/ch-27.png" },
+    { "division": "archimedes-spirals-ch-28", "markerIndex": 0, "leaf": 166, "printedPage": "134-138", "result": "no printed figure", "note": "Checked all three Greek pages of ch-28's text (pp.134, 136, 138, leaves 166/168/172) in full, including the colophon 'In fine Archimedous peri elikon' on p.138 marking the true end of the work - no diagram is printed anywhere in this proposition's construction or its long proportion-algebra proof." }
+  ],
+  "failures": []
+}

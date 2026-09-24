@@ -1,0 +1,18 @@
+[
+  {"find": "Subject poets, that is, the regular ones, for the hinguage", "replace": "poets, that is, the regular ones, for the language", "note": "OCR misread 'language'; removed leaked margin caption"},
+  {"find": "style ©f the great poets was regulated by art, whereas", "replace": "of the great poets was regulated by art, whereas", "note": "OCR misread 'of'; removed leaked margin caption"},
+  {"find": "these, as has been said, write at haj)hazard. It", "replace": "these, as has been said, write at haphazard. It", "note": "OCR misread 'haphazard'"},
+  {"find": "J the great poets, the more correct is the poetry", "replace": "the great poets, the more correct is the poetry", "note": "removed stray OCR mark"},
+  {"find": "I we write ; whence it behoves us, by devoting", "replace": "we write ; whence it behoves us, by devoting", "note": "removed stray OCR mark"},
+  {"find": "some trouble to the work of teaching, to eniulaif", "replace": "some trouble to the work of teaching, to emulate", "note": "OCR misread 'emulate'"},
+  {"find": "their poetic teaching, \"*", "replace": "their poetic teaching.", "note": "removed stray trailing quote and asterisk"},
+  {"find": "one C30J ought to adjust the weight of the", "replace": "one [30] ought to adjust the weight of the", "note": "OCR misread bracketed number"},
+  {"find": "{ advice our master Horace gives us when he", "replace": "advice our master Horace gives us when he", "note": "removed stray leading mark"},
+  {"find": "says in the beginning of his * Art of Poetry '", "replace": "says in the beginning of his ' Art of Poetry '", "note": "OCR misread opening quote as asterisk"},
+  {"find": "[]*.Ye who write] take up a subject [[suited to", "replace": "['Ye who write] take up a subject [suited to", "note": "OCR misread brackets and quote"},
+  {"find": "your strength *].", "replace": "your strength '].", "note": "OCR misread closing quote as asterisk"},
+  {"find": "to those tilings which suggest themselves to us", "replace": "to those things which suggest themselves to us", "note": "OCR misread 'things'"},
+  {"find": "(j/V) the higher style [[40], by comedy the lower", "replace": "(sic) the higher style [40], by comedy the lower", "note": "OCR misread '(sic)' and bracket"},
+  {"find": "wretclied. If our subject ajjpears fit to be sung", "replace": "wretched. If our subject appears fit to be sung", "note": "OCR misread 'wretched' and 'appears'"},
+  {"find": "we must b''^d up a canzone. If, however, it", "replace": "we must bind up a canzone. If, however, it", "note": "OCR misread 'bind'"}
+]

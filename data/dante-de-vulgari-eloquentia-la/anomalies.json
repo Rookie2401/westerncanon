@@ -1,0 +1,6 @@
+[
+  {
+    "where": "dante-de-vulgari-eloquentia-la / completeness",
+    "note": "Both books were confirmed free of red-linked (unproofread) djvu pages before this import (zero `class=\"new\"` \"page does not exist\" links in either rendered book), unlike English Wikisource's only available digitisation of the companion 1904 Howell/Wicksteed English translation of this same work, which was found to have large unproofread gaps (Book I missing djvu pages 23-39 and others; Book II missing pages 100-119 and others) and was therefore NOT imported - see this batch's accompanying report. This Latin text is complete."
+  }
+]

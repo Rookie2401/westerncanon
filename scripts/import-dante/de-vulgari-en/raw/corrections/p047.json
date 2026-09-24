@@ -1,0 +1,132 @@
+[
+  {
+    "find": "namely the Facntines Thomas and []2oJ Ugolino",
+    "replace": "namely the Faentines Thomas and [20] Ugolino",
+    "note": "Faentines and bracketed line-number garbled"
+  },
+  {
+    "find": "There Is also, as we have said, another type (2)",
+    "replace": "There is also, as we have said, another type (2)",
+    "note": "Is -> is"
+  },
+  {
+    "find": "of dialect, so bristlin;^ and sliaggy in its words rough",
+    "replace": "of dialect, so bristling and shaggy in its words",
+    "note": "bristling/shaggy garbled; trailing 'rough' is leaked margin caption ('(2) the rough')"
+  },
+  {
+    "find": "and accents that, owing to Its rou^h harsh.ncss, it",
+    "replace": "and accents that, owing to its rough harshness, it",
+    "note": "its/rough/harshness garbled"
+  },
+  {
+    "find": "not only distorts a v/oman's speech, but makes",
+    "replace": "not only distorts a woman's speech, but makes",
+    "note": "v/oman's -> woman's"
+  },
+  {
+    "find": "one doubt wlicthcr she is not a man. This type",
+    "replace": "one doubt whether she is not a man. This type",
+    "note": "wlicthcr -> whether"
+  },
+  {
+    "find": "of dialect prevails among all thoi:c who say",
+    "replace": "of dialect prevails among all those who say",
+    "note": "thoi:c -> those"
+  },
+  {
+    "find": "uur^iiniy^ namely the Broscians, Veronese, and",
+    "replace": "magara, 1 namely the Brescians, Veronese, and",
+    "note": "italic dialect word and footnote marker garbled; Broscians -> Brescians"
+  },
+  {
+    "find": "ugly syncopations of all the ])articiples In ius and",
+    "replace": "ugly syncopations of all the participles in ius and",
+    "note": "participles/in garbled"
+  },
+  {
+    "find": "denominatives in Ins^ as [[303 nicrco and lionte.",
+    "replace": "denominatives in tas, as [30] mercò and bontè.",
+    "note": "italic Latin/Italian terms and bracketed line-number heavily garbled"
+  },
+  {
+    "find": "With these we also class the 'I'revisans, who, like",
+    "replace": "With these we also class the Trevisans, who, like",
+    "note": "'I'revisans -> Trevisans"
+  },
+  {
+    "find": "the Brescians and their neighbours, pronounce^",
+    "replace": "the Brescians and their neighbours, pronounce f",
+    "note": "italic letter f misread as caret"
+  },
+  {
+    "find": "for consonnntal r/, cutting ofr' the final syllable of",
+    "replace": "for consonantal u, cutting off the final syllable of",
+    "note": "consonantal/u/off garbled"
+  },
+  {
+    "find": "the word, as uof ^ov nmrtn, I'if for TivOf which",
+    "replace": "the word, as nof for novem, vif for vivo, which",
+    "note": "italic Latin examples heavily garbled"
+  },
+  {
+    "find": "wc disapprove as a gross barbarism.",
+    "replace": "we disapprove as a gross barbarism.",
+    "note": "wc -> we"
+  },
+  {
+    "find": "which wc have been searching for ; and if any of",
+    "replace": "which we have been searching for ; and if any of",
+    "note": "wc -> we"
+  },
+  {
+    "find": "them, trusting in crror\\ shou'd cherish any de-",
+    "replace": "them, trusting in error, should cherish any de-",
+    "note": "error/should garbled"
+  },
+  {
+    "find": "lie has ever said [_^0~] * /Vr le phi^e de D'to tu",
+    "replace": "he has ever said [40] ' Per le plage de Dio tu",
+    "note": "he/bracketed line-number/italic quoted Venetian line garbled"
+  },
+  {
+    "find": "tion vcnis.' -",
+    "replace": "non veràs.' 2",
+    "note": "continuation of italic quoted Venetian line and footnote marker garbled"
+  },
+  {
+    "find": "to apply himself to the ciir'tiil vernacular lan-",
+    "replace": "to apply himself to the curial vernacular lan-",
+    "note": "ciir'tiil -> curial"
+  },
+  {
+    "find": "guage,- namely Ildebrandino of Padua.",
+    "replace": "guage; namely Ildebrandino of Padua.",
+    "note": "punctuation garbled"
+  },
+  {
+    "find": "\\Vherefore, on all the dialects mentioned In",
+    "replace": "Wherefore, on all the dialects mentioned in",
+    "note": "Wherefore/in garbled"
+  },
+  {
+    "find": "the present chapter coming uj) for judgment, our",
+    "replace": "the present chapter coming up for judgment, our",
+    "note": "uj) -> up"
+  },
+  {
+    "find": "decision Is that neither that of Romagna nor its",
+    "replace": "decision is that neither that of Romagna nor its",
+    "note": "Is -> is"
+  },
+  {
+    "find": "^ * Would it were so.*",
+    "replace": "1 ' Would it were so.'",
+    "note": "footnote marker and quote marks garbled"
+  },
+  {
+    "find": "' * By GoJ'swouiuIs thou slialt not come,'",
+    "replace": "2 ' By God's wounds thou shalt not come.'",
+    "note": "footnote marker and text garbled"
+  }
+]

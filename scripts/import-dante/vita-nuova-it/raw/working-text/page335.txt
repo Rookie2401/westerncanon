@@ -1,0 +1,13 @@
+LEVEL:3
+
+<section begin="s12" />
+in questo libello ancora in parte più dubbiosa; e allora intenda qui chi qui dubita, o chi qui volesse opporre in questo modo.
+<section end="s12" />
+
+<section begin="s13" />Appresso di questa soprascritta visione, avendo già dette le parole che Amore m’avea imposte a dire, mi cominciaro molti e diversi pensamenti a combattere ed a tentare, ciascuno quasi indefensibilemente; tra li quali pensamenti [[#quattro mi parea che ingombrassero|quattro mi parea che ingombrassero]] più lo riposo de la vita. L’uno de li quali era questo: buona è la signoria d’Amore, però che trae lo intendimento del suo fedele da tutte le [[#vili|vili]] cose. L’altro era questo: non buona è la signoria d’Amore, però che quanto lo suo fedele più fede li porta, tanto più gravi e dolorosi punti li conviene passare. L'altro era questo: lo nome d’Amore è sì dolce a udire che impossibile mi pare che la sua propria operazione sia ne le più cose altro che dolce, con ciò sia cosa che li nomi seguitino le nominate cose, sì come è scritto: ''Nomina sunt consequentia rerum''. Lo quarto era questo: la donna per cui Amore ti stringe così, non è come l’altre donne, che leggeramente si muova dal suo cuore. E ciascuno mi combattea tanto, che mi facea stare quasi come colui che non sa per qual via pigli lo suo cammino, e che vuole andare e non sa onde se ne vada; e se io pensava di volere cercare una comune via di costoro, cioè là ove tutti s’accordassero, questa era via molto inimica verso me, cioè di chiamare e di mettermi ne le braccia de la Pietà. E in questo stato dimorando, mi giunse volontade di scriverne parole rimate; e dissine allora questo sonetto, lo quale comincia: ''Tutti li miei penser''.
+<section end="s13" />
+
+<section begin="c13" />
+{{§|quattro mi parea che ingombrassero|}}{{Sc|quattro mi parea che ingombrassero}} è la lezione di β; la lezione corrotta di k ''quatro cheingombrassero'' conferma l'autenticità di quella di β e, bello stesso tempo, dà la ragione di quella di b, ''quattro mingombravano'': k ha riprodotto il testo corrotto dell'originale a lui comune con b; questo lo ha modificato in modo da ridare al periodo un senso qualsiasi.
+{{§|vili|}}{{Sc|vili}}: ''rie'' è lezione soltanto di b.
+<section end="c13" />

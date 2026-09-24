@@ -1,0 +1,44 @@
+{
+  "workId": "dante-monarchia-en",
+  "title": "De Monarchia",
+  "author": "Dante Alighieri",
+  "language": "en",
+  "translator": "F. J. Church",
+  "edition": "London: Macmillan and Co., 1879, translated \"from the text of Witte's second edition of the De Monarchia, 1874\"",
+  "provenance": "Project Gutenberg eBook #33896, \"Dante. An essay. To which is added a translation of De Monarchia.\" (www.gutenberg.org/ebooks/33896), Distributed Proofreaders text; fetched once and cached under scripts/import-dante/monarchia-en/raw/pg33896.txt. Nothing is downloaded at build or run time. Only the De Monarchia translation is imported (see \"How it was imported\"); R. W. Church's preceding essay \"Dante\" is not part of this library. Imported by scripts/import-dante/monarchia-en.",
+  "license": "Church's translation (1879) and Dante's Latin original (c. 1312-13) are both in the public domain worldwide. The Project Gutenberg digital transcription is released under the Project Gutenberg License.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "Dante's De Monarchia, a Latin political treatise arguing for the independent, God-given authority of universal secular monarchy (embodied by the Holy Roman Emperor) alongside, not subordinate to, the authority of the Papacy - in F. J. Church's English translation, made from Karl Witte's 1874 critical edition of the Latin text and first published 1879 as an appendix to his father R. W. Church's essay \"Dante\".",
+        "The text here is the translation, verbatim throughout. Nothing is modernised, paraphrased, or silently corrected."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "Project Gutenberg eBook #33896, first released 2010 and most recently updated 2024. The producer's own note states two edits to the source scan: a combined Table of Contents was added at the front \"for the reader's convenience\" (the original book's own contents lists remain in place further in, and are themselves excluded here as apparatus, not reading text), and quotations from the Divine Comedy within R. W. Church's separate essay (not part of this import) were corrected against the Singleton Princeton edition - disclosed here for completeness though it does not touch the De Monarchia translation itself."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "Each of the three books is a top-level Division; each of its numbered chapters (marked \"N.--\" at the head of its first paragraph in the source) is a child Division holding a single Passage whose text is that chapter's paragraph blocks, in order, joined by a blank line.",
+        "45 chapters across 3 books (16 + 13 + 16), 158308 characters total."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Division.ref and Passage.ref are null throughout: citation is by book and chapter number only, which the Division id and number already carry."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "The excluded footnote apparatus and inline reference markers are logged in anomalies.json with exact counts. This app also holds no verbatim Latin edition of De Monarchia at this time: the Latin sources checked during this import (Latin Wikisource's \"De monarchia\", and thelatinlibrary.com's copy) either explicitly declare their own source edition unknown (Latin Wikisource's page header literally states \"editio: incognita, fons: incognitus\") or state no source edition at all; the one clearly-attributed pre-1931 Latin edition located (E. Moore's Oxford text, as reprinted in Aurelia Henry's 1904 \"De Monarchia: Edited with Translation and Notes\" exists online only as raw, unproofread OCR, not a vetted verbatim transcription; see this importer's accompanying report for the full account. Only this English translation is shipped for De Monarchia."
+      ]
+    }
+  ]
+}

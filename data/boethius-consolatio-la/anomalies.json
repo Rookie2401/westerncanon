@@ -1,0 +1,54 @@
+[
+  {
+    "where": "boethius-consolatio-la / book-1",
+    "note": "Book 1: this source's own \"Pn\" section-number letter marks VERSE content and \"Mn\" marks PROSE - the REVERSE of the conventional Prosa/Metrum association (and the reverse of Books 2-5, which follow the standard convention). Preserved exactly as encoded; the letters are not swapped or renumbered to match the usual convention or the other books."
+  },
+  {
+    "where": "boethius-consolatio-la / book-2",
+    "note": "Book 2: this source's own \"Pn\" section-number letter marks PROSE and \"Mn\" marks VERSE, the standard Prosa/Metrum convention."
+  },
+  {
+    "where": "boethius-consolatio-la / book-3",
+    "note": "Book 3: this source's own \"Pn\" section-number letter marks PROSE and \"Mn\" marks VERSE, the standard Prosa/Metrum convention."
+  },
+  {
+    "where": "boethius-consolatio-la / book-4",
+    "note": "Book 4: this source's own \"Pn\" section-number letter marks PROSE and \"Mn\" marks VERSE, the standard Prosa/Metrum convention."
+  },
+  {
+    "where": "boethius-consolatio-la / book-5-sec-M2",
+    "note": "1 bare, self-closing <note.../> apparatus marker(s) with no content of their own in this transcription; dropped from the reading text (nothing to preserve)."
+  },
+  {
+    "where": "boethius-consolatio-la / book-5",
+    "note": "Book 5: this source's own \"Pn\" section-number letter marks PROSE and \"Mn\" marks VERSE, the standard Prosa/Metrum convention."
+  },
+  {
+    "where": "boethius-consolatio-la / transport scaffolding",
+    "note": "586 <milestone unit=\"loebline\"/> ticks (the Loeb facing-page edition's own line-count markers, printed every 5 lines) and 142 <pb/> page-break markers were dropped from the reading text as pure typesetting scaffolding; neither carries a citation this schema can use (see \"Reference scheme\" in about.json), so Division.ref and Passage.ref are null throughout."
+  },
+  {
+    "where": "boethius-consolatio-la / direct speech",
+    "note": "517 <q>...</q> spans (Boethius's and Philosophy's direct speech to one another) carry no literal quotation-mark characters in this XML - ordinary TEI practice, with the printed edition supplying them. 487 of them are fully contained within a single paragraph-level unit and are rendered wrapped in straight double quotes, reflecting what the edition itself prints. The remaining 30 wrap one or more WHOLE <p> paragraphs (Philosophy's longer speeches); for these no quote mark is synthesised, since placing one correctly across a paragraph boundary would be invented rather than read from the source - the <q> tags are simply dropped and the paragraph(s) they wrap are kept exactly as printed."
+  },
+  {
+    "where": "boethius-consolatio-la / dialogue outside <p>",
+    "note": "BUG FIX: 5 paragraph-level unit(s) of text sit OUTSIDE any <p> element in this source - short interlocutor exchanges between Boethius and Philosophy, printed as bare text (each quoted clause individually wrapped in its own <q>) between two <p>-wrapped speeches. An earlier revision of this importer read only <p> content and silently dropped these; they are now recovered in full, in document order, via extractProseUnits. Locations (unit count): book-1-sec-M6 (2), book-4-sec-P2 (2), book-5-sec-P4 (1)."
+  },
+  {
+    "where": "boethius-consolatio-la / apparatus",
+    "note": "1 bare, self-closing <note.../> marker(s) with no content of their own were dropped from the reading text (see the per-section anomaly note(s) above for location)."
+  },
+  {
+    "where": "boethius-consolatio-la / apparatus",
+    "note": "1 stray <lb/> line-break marker(s), found inside an embedded Greek quotation, rendered as a plain space."
+  },
+  {
+    "where": "boethius-consolatio-la / headings",
+    "note": "This transcription carries no <head> element anywhere in the file - not for the work, not for any Book, not for any section. Division.sourceHeading is therefore null throughout, for both Book and section divisions; no heading text is fabricated."
+  },
+  {
+    "where": "boethius-consolatio-la / foreign-language quotations",
+    "note": "Boethius quotes Homer and other Greek authors directly in several metra (wrapped in <foreign xml:lang=\"grc\">); this Greek text is kept verbatim, in its original script, exactly as printed."
+  }
+]

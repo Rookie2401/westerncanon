@@ -18,6 +18,8 @@ export interface PassageFigure {
   alt?: string;
   source: string;
   note?: string;
+  /** further distinct printed figures on the same passage (mirrors src/library/types.ts) */
+  more?: Array<{ image: string; imageWidth: number; imageHeight: number; alt?: string }>;
 }
 
 export interface Passage {

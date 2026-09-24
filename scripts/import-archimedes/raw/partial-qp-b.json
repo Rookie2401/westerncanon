@@ -1,0 +1,59 @@
+{
+  "divisions": {
+    "archimedes-quadrature-parabola-ch-13": [
+      { "image": "images/ch-13.png", "width": 1129, "height": 643, "source": "Heiberg, Archimedis opera omnia vol. II, p. 319, leaf 357" }
+    ],
+    "archimedes-quadrature-parabola-ch-14": [
+      { "image": "images/ch-14.png", "width": 1698, "height": 1163, "source": "Heiberg, Archimedis opera omnia vol. II, p. 322, leaf 360" }
+    ],
+    "archimedes-quadrature-parabola-ch-15": [
+      { "image": "images/ch-15.png", "width": 1150, "height": 1178, "source": "Heiberg, Archimedis opera omnia vol. II, p. 329, leaf 367" }
+    ],
+    "archimedes-quadrature-parabola-ch-16": [
+      { "image": "images/ch-16.png", "width": 949, "height": 1466, "source": "Heiberg, Archimedis opera omnia vol. II, p. 331, leaf 369" }
+    ],
+    "archimedes-quadrature-parabola-ch-17": [
+      { "image": "images/ch-17.png", "width": 578, "height": 1198, "source": "Heiberg, Archimedis opera omnia vol. II, p. 334, leaf 372" }
+    ],
+    "archimedes-quadrature-parabola-ch-18": [
+      { "image": "images/ch-18.png", "width": 697, "height": 410, "source": "Heiberg, Archimedis opera omnia vol. II, p. 338, leaf 376" }
+    ],
+    "archimedes-quadrature-parabola-ch-19": [
+      { "image": "images/ch-19.png", "width": 712, "height": 437, "source": "Heiberg, Archimedis opera omnia vol. II, p. 339, leaf 377" }
+    ],
+    "archimedes-quadrature-parabola-ch-20": [
+      { "image": "images/ch-20.png", "width": 799, "height": 485, "source": "Heiberg, Archimedis opera omnia vol. II, p. 340, leaf 378" }
+    ],
+    "archimedes-quadrature-parabola-ch-21": [
+      { "image": "images/ch-21.png", "width": 1194, "height": 620, "source": "Heiberg, Archimedis opera omnia vol. II, p. 342, leaf 380" }
+    ],
+    "archimedes-quadrature-parabola-ch-22": [
+      { "image": "images/ch-22-1.png", "width": 1109, "height": 562, "source": "Heiberg, Archimedis opera omnia vol. II, p. 346, leaf 384" },
+      { "image": "images/ch-22-2.png", "width": 1120, "height": 471, "source": "Heiberg, Archimedis opera omnia vol. II, p. 347, leaf 385" }
+    ],
+    "archimedes-quadrature-parabola-ch-23": [
+      { "image": "images/ch-23.png", "width": 1045, "height": 1298, "source": "Heiberg, Archimedis opera omnia vol. II, p. 348, leaf 386" }
+    ],
+    "archimedes-quadrature-parabola-ch-24": [
+      { "image": "images/ch-24-1.png", "width": 1180, "height": 667, "source": "Heiberg, Archimedis opera omnia vol. II, p. 350, leaf 388" },
+      { "image": "images/ch-24-2.png", "width": 1425, "height": 849, "source": "Heiberg, Archimedis opera omnia vol. II, p. 351, leaf 389" }
+    ]
+  },
+  "reportLines": [
+    { "division": "archimedes-quadrature-parabola-ch-13", "markerIndex": 0, "leaf": 357, "printedPage": "319", "result": "image", "file": "images/ch-13.png" },
+    { "division": "archimedes-quadrature-parabola-ch-14", "markerIndex": 0, "leaf": 360, "printedPage": "322", "result": "image", "file": "images/ch-14.png" },
+    { "division": "archimedes-quadrature-parabola-ch-15", "markerIndex": 0, "leaf": 367, "printedPage": "329", "result": "image", "file": "images/ch-15.png" },
+    { "division": "archimedes-quadrature-parabola-ch-16", "markerIndex": 0, "leaf": 369, "printedPage": "331", "result": "image", "file": "images/ch-16.png" },
+    { "division": "archimedes-quadrature-parabola-ch-17", "markerIndex": 0, "leaf": 372, "printedPage": "334", "result": "image", "file": "images/ch-17.png" },
+    { "division": "archimedes-quadrature-parabola-ch-18", "markerIndex": 0, "leaf": 376, "printedPage": "338", "result": "image", "file": "images/ch-18.png" },
+    { "division": "archimedes-quadrature-parabola-ch-19", "markerIndex": 0, "leaf": 377, "printedPage": "339", "result": "image", "file": "images/ch-19.png" },
+    { "division": "archimedes-quadrature-parabola-ch-20", "markerIndex": 0, "leaf": 378, "printedPage": "340", "result": "image", "file": "images/ch-20.png" },
+    { "division": "archimedes-quadrature-parabola-ch-21", "markerIndex": 0, "leaf": 380, "printedPage": "342", "result": "image", "file": "images/ch-21.png" },
+    { "division": "archimedes-quadrature-parabola-ch-22", "markerIndex": 0, "leaf": 384, "printedPage": "346", "result": "image", "file": "images/ch-22-1.png" },
+    { "division": "archimedes-quadrature-parabola-ch-22", "markerIndex": 1, "leaf": 385, "printedPage": "347", "result": "image", "file": "images/ch-22-2.png" },
+    { "division": "archimedes-quadrature-parabola-ch-23", "markerIndex": 0, "leaf": 386, "printedPage": "348", "result": "image", "file": "images/ch-23.png" },
+    { "division": "archimedes-quadrature-parabola-ch-24", "markerIndex": 0, "leaf": 388, "printedPage": "350", "result": "image", "file": "images/ch-24-1.png" },
+    { "division": "archimedes-quadrature-parabola-ch-24", "markerIndex": 1, "leaf": 389, "printedPage": "351", "result": "image", "file": "images/ch-24-2.png" }
+  ],
+  "failures": []
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "find": "[The illuslrious, car(lin:\\l, couilly, and ciirhil lansungc ^",
+    "replace": "[The illustrious, cardinal, courtly, and curial language",
+    "note": "OCR misread words; stray '^' is a margin tick, not printed"
+  },
+  {
+    "find": "bclonjjs lo the wIkjIc of It:ily, ami is the Ilulian",
+    "replace": "belongs to the whole of Italy, and is the Italian",
+    "note": "OCR misread multiple words"
+  },
+  {
+    "find": "vulvar lonijue. 'Die author aniKnmces his piir-",
+    "replace": "vulgar tongue. The author announces his pur-",
+    "note": "OCR misread multiple words"
+  },
+  {
+    "find": "jKise to treat in the succee'lin^ books of the use",
+    "replace": "pose to treat in the succeeding books of the use",
+    "note": "OCR misread 'succeeding'"
+  },
+  {
+    "find": "of this ilhistrious lanc^nai^e, am! afterwards t(Mlis-",
+    "replace": "of this illustrious language, and afterwards to dis-",
+    "note": "OCR misread multiple words"
+  },
+  {
+    "find": "cuss the lower forms of tiic vernacular in detail.]",
+    "replace": "cuss the lower forms of the vernacular in detail.]",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "Now wc declare that this vernacular language, The",
+    "replace": "Now we declare that this vernacular language,",
+    "note": "OCR misread 'we'; trailing 'The' is leaked margin caption"
+  },
+  {
+    "find": "which wc have shown to be illustrious, cardinal, standard",
+    "replace": "which we have shown to be illustrious, cardinal,",
+    "note": "OCR misread 'we'; trailing 'standard' is leaked margin caption"
+  },
+  {
+    "find": "courtly, and curial, is that which is called the J\"]^]^^?^",
+    "replace": "courtly, and curial, is that which is called the",
+    "note": "trailing garbage is leaked/garbled margin caption text"
+  },
+  {
+    "find": "\nZ , ^ ' . , common\nItalian vernacular, r or just as a vernacular can ^o",
+    "replace": "\nItalian vernacular. For just as a vernacular can",
+    "note": "stray caption/garbage line ('common') removed; fix 'For'; drop trailing garbled caption leak '^o'"
+  },
+  {
+    "find": "be found j^cculiar to Cremona, so can one be Italy",
+    "replace": "be found peculiar to Cremona, so can one be",
+    "note": "OCR misread 'peculiar'; trailing 'Italy' is leaked margin caption"
+  },
+  {
+    "find": "found ])cculiar to lyOTiibardy ; and just as one",
+    "replace": "found peculiar to Lombardy ; and just as one",
+    "note": "OCR misread 'peculiar'/'Lombardy'"
+  },
+  {
+    "find": "can be found jjcculiar to Lombardy, [so] can",
+    "replace": "can be found peculiar to Lombardy, [so] can",
+    "note": "OCR misread 'peculiar'"
+  },
+  {
+    "find": "one be found [loj peculiar to the whole of",
+    "replace": "one be found [10] peculiar to the whole of",
+    "note": "bracket number garbled"
+  },
+  {
+    "find": "can be found, so a!so can that which belongs to",
+    "replace": "can be found, so also can that which belongs to",
+    "note": "OCR misread 'also'"
+  },
+  {
+    "find": "the whole of Italy. And just as the lirst is called",
+    "replace": "the whole of Italy. And just as the first is called",
+    "note": "OCR misread 'first'"
+  },
+  {
+    "find": "Crenionese, the second Lombard, and the third",
+    "replace": "Cremonese, the second Lombard, and the third",
+    "note": "OCR misread 'Cremonese'"
+  },
+  {
+    "find": "language. I'^or this has been used by the",
+    "replace": "language. For this has been used by the",
+    "note": "OCR misread 'For'"
+  },
+  {
+    "find": "Apullans, Tuscans, natives of Romagna, and",
+    "replace": "Apulians, Tuscans, natives of Romagna, and",
+    "note": "OCR misread 'Apulians'"
+  },
+  {
+    "find": "ginning of this work, to give in.struction con-",
+    "replace": "ginning of this work, to give instruction con-",
+    "note": "OCR misread 'instruction' with a stray period"
+  },
+  {
+    "find": "following of those whom wc think worthy",
+    "replace": "following of those whom we think worthy",
+    "note": "OCR misread 'we'"
+  }
+]

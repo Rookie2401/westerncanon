@@ -1,0 +1,77 @@
+[
+  {
+    "find": "*can?one' proved in the third chapter of this book. And\nthe since the term which has been defined appears to\nstnct ^ common to many things, let us take up again",
+    "replace": "proved in the third chapter of this book. And\nsince the term which has been defined appears to\ncommon to many things, let us take up again",
+    "note": "removes marginal shoulder-caption leak (\"'canzone' in the strict\") fused at these line-starts"
+  },
+  {
+    "find": "thing which alone we arc in search of. We",
+    "replace": "thing which alone we are in search of. We",
+    "note": "misread are"
+  },
+  {
+    "find": "joining together in the tragic style of ec]i:al [^70]",
+    "replace": "joining together in the tragic style of equal [70]",
+    "note": "misread equal/bracketed number"
+  },
+  {
+    "find": "stanzas without a rlpresa^ referring to one sub-",
+    "replace": "stanzas without a ripresa, referring to one sub-",
+    "note": "misread ripresa"
+  },
+  {
+    "find": "ject, as we have shown in our composition * Donne",
+    "replace": "ject, as we have shown in our composition 'Donne",
+    "note": "asterisk misread of opening quote"
+  },
+  {
+    "find": "che avete intellecto (Vamore^^ C'^o])' Now the",
+    "replace": "che avete intellecto d'amore' [80]. Now the",
+    "note": "heavily garbled quotation title + bracketed number"
+  },
+  {
+    "find": "reason why we call it * a joining together in the",
+    "replace": "reason why we call it 'a joining together in the",
+    "note": "asterisk misread of opening quote"
+  },
+  {
+    "find": "cant'ilenay of which we intend to treat in the",
+    "replace": "cantilena, of which we intend to treat in the",
+    "note": "misread cantilena"
+  },
+  {
+    "find": "It. Canxone {cctntio). Here, ol course, and until the",
+    "replace": "11. Canzone (cantio). Here, of course, and until the",
+    "note": "misread note number/Canzone/cantio/of"
+  },
+  {
+    "find": "meaning is restricted in the latter part of tliis chapter",
+    "replace": "meaning is restricted in the latter part of this chapter",
+    "note": "misread this"
+  },
+  {
+    "find": "lent to song in its most general accei)tation ; but as",
+    "replace": "lent to song in its most general acceptation ; but as",
+    "note": "misread acceptation"
+  },
+  {
+    "find": "tlie word son^r cannot be used as an etjuivalent of",
+    "replace": "the word song cannot be used as an equivalent of",
+    "note": "misread the/song/equivalent"
+  },
+  {
+    "find": "canzone in its tcclinical sense, I have thoiiglit it better",
+    "replace": "canzone in its technical sense, I have thought it better",
+    "note": "misread technical/thought"
+  },
+  {
+    "find": "In English which expresses at once the 'action ' and",
+    "replace": "in English which expresses at once the 'action ' and",
+    "note": "wrong capitalisation (OCR)"
+  },
+  {
+    "find": "1 * Ladies that have understanding of love.'",
+    "replace": "1 'Ladies that have understanding of love.'",
+    "note": "asterisk misread of opening quote"
+  }
+]

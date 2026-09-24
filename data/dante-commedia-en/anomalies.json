@@ -1,0 +1,26 @@
+[
+  {
+    "where": "dante-commedia-en / whole work",
+    "note": "Excluded from the reading text: the Project Gutenberg \"Contents\" table (a generated navigation index, not Dante's or Longfellow's own words) preceding \"Inferno: Canto I\", and the trailing \"APPENDIX / SIX SONNETS ON DANTE'S DIVINE COMEDY BY HENRY WADSWORTH LONGFELLOW\" - six of Longfellow's own original sonnets about Dante, explicitly headed as an appendix in the source and not a translation of any part of the Commedia."
+  },
+  {
+    "where": "dante-commedia-en / inferno-canto-34",
+    "note": "4 consecutive blank lines in the source collapsed to one blank line between verse lines."
+  },
+  {
+    "where": "dante-commedia-en / purgatorio-canto-33",
+    "note": "4 consecutive blank lines in the source collapsed to one blank line between verse lines."
+  },
+  {
+    "where": "dante-commedia-en / inferno line count",
+    "note": "This digitisation of Longfellow's English translation of Inferno totals 4721 verse lines across 34 cantos (per-canto: 136, 142, 136, 151, 142, 115, 130, 130, 133, 136, 115, 139, 151, 142, 124, 136, 136, 136, 133, 130, 139, 151, 148, 151, 151, 142, 136, 142, 139, 148, 145, 139, 157, 140), versus the 4720 lines commonly cited for Dante's Italian original. The difference (+1) reflects Longfellow's own translation choices (his English does not guarantee a strict one-line-per-Italian-line correspondence in every tercet) and/or this digitisation's own line breaks; nothing was added, removed, or re-lineated by this importer to force a match against the Italian count."
+  },
+  {
+    "where": "dante-commedia-en / purgatorio line count",
+    "note": "This digitisation of Longfellow's English translation of Purgatorio totals 4764 verse lines across 33 cantos (per-canto: 136, 133, 145, 139, 136, 151, 136, 139, 145, 139, 142, 136, 154, 151, 145, 145, 139, 145, 145, 151, 136, 154, 133, 154, 139, 156, 142, 148, 154, 145, 145, 160, 146), versus the 4755 lines commonly cited for Dante's Italian original. The difference (+9) reflects Longfellow's own translation choices (his English does not guarantee a strict one-line-per-Italian-line correspondence in every tercet) and/or this digitisation's own line breaks; nothing was added, removed, or re-lineated by this importer to force a match against the Italian count."
+  },
+  {
+    "where": "dante-commedia-en / paradiso line count",
+    "note": "This digitisation of Longfellow's English translation of Paradiso totals 4758 verse lines across 33 cantos (per-canto: 142, 148, 130, 142, 139, 142, 148, 148, 142, 148, 139, 145, 142, 139, 148, 154, 142, 136, 148, 148, 142, 154, 139, 154, 139, 142, 148, 139, 145, 148, 142, 151, 145), versus the 4758 lines commonly cited for Dante's Italian original. The difference (+0) reflects Longfellow's own translation choices (his English does not guarantee a strict one-line-per-Italian-line correspondence in every tercet) and/or this digitisation's own line breaks; nothing was added, removed, or re-lineated by this importer to force a match against the Italian count."
+  }
+]

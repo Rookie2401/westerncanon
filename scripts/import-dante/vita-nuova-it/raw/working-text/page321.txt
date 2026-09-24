@@ -1,0 +1,23 @@
+LEVEL:3
+
+<section begin="s7" />
+profeta [[#che dicono|che dicono]]: ''O vos omnes qui transitis per viam, attendite et videte si est dolor sicut dolor meus'', e pregare che mi sofferino d’audire; nella seconda narro là ove Amore m’avea posto, con altro intendimento che l’estreme parti del sonetto non mostrano, e dico che io hoe ciò perduto. La seconda parte comincia quivi: ''Amor non già''.<section end="s7" />
+
+<section begin="s8" />Appresso lo partire di questa gentile donna fue piacere del segnore de li angeli di chiamare a la sua gloria una donna giovane e di gentile aspetto molto, la quale fue assai graziosa in questa sopradetta cittade; lo cui corpo io vidi giacere [[#sanza l'anima|sanza l’anima]] in mezzo di molte donne, le quali piangeano assai pietosamente. Allora ricordandomi che già l’avea veduta fare compagnia a quella gentilissima, non poteo sostenere alquante lagrime; anzi piangendo mi propuosi di dicere alquante parole de la sua morte in guiderdone di ciò che alcuna fiata l’avea veduta con la mia donna. E di ciò toccai alcuna cosa ne l’ultima parte de le parole che io ne dissi, sì come appare manifestamente a chi lo intende. E dissi allora questi due sonetti, [[#li quali comincia lo primo|li quali comincia lo primo]]: ''Piangete, amanti'', e lo secondo: ''Morte villana''.
+
+
+<poem>
+Piangete, amanti, poi che piange Amore,
+     udendo qual cagion lui fa plorare.
+</poem>
+<section end="s8" />
+
+
+<section begin="c7" />L, Vili, 305, n° 154, st. 2ª); ''und’eo tormento e doglio'' ({{AutoreCitato|Guittone d'Arezzo|{{Sc|Guittone}}}}, ‘Deo como pote’, v. 9); ''eo tormento'' ({{AutoreCitato|Dante da Maiano|{{Sc|Dante da Maiano}}}}, ed. Bertacchi, son. VIII, XIII, XXXVIII); ''presso a lei smarrisco e tremo'' ({{AutoreCitato|Cino da Pistoia|{{Sc|Cino da Pistoia}}}}, ‘Tanta paura in’è giunta’, st. 4ª).
+
+{{§|che dicono|}}{{Sc|che dicono}}. È dubbio se qui k abbia aggiunte questo parole, oppure se le abbiano omesse gli altri, essendo così facile l’aggiunta di espressioni consuetudinarie, come ovvia l’omissione di parole che paiano superflue. Cfr. XXX 1 «pigliando quello cominciamento di Geremia profeta che dice: ''Quomodo'' ecc. », dove pure il che dice vien dato soltanto da k.
+
+{{§|sanza l'anima|}}{{Sc|sanza l’anima}}. Il più delle edizioni ha ''sanza anima''; ma è lezione soltanto di b e di A.
+
+{{§|li quali comincia lo primo|}}{{Sc|li quali comincia lo primo}}. Così tutti i Mss., salvo b, che
+porta: ''dei quali comincia''. Tutte le edizioni seguono b, anche quelle recenti fondate su K e S (Cas., Pass., Beck. Melod.). Ma non c’è ragione d’abbandonare la lezione che ha più largo fondamento nei<section end="c7" />

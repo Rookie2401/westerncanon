@@ -7,7 +7,7 @@ import { Breadcrumbs } from '../components/Breadcrumbs.tsx';
 import { TopBar } from '../components/TopBar.tsx';
 import { AboutScreen } from './About.tsx';
 
-const LANG_NAME: Record<Lang, string> = { la: 'Latin', grc: 'Greek', en: 'English' };
+const LANG_NAME: Record<Lang, string> = { la: 'Latin', grc: 'Greek', en: 'English', it: 'Italian' };
 
 export function WorkAboutScreen() {
   const { workId = '' } = useParams();

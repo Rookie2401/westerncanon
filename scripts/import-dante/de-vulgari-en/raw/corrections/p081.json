@@ -1,0 +1,17 @@
+[
+  {"find": "the subjects. Wlicicfore let us hasten on to The", "replace": "the subjects. Wherefore let us hasten on to", "note": "OCR misread 'Wherefore'; removed leaked margin caption"},
+  {"find": "the statclincss of tlu: lines, in respect of which eleven-", "replace": "the stateliness of the lines, in respect of which", "note": "OCR misread words; removed leaked margin caption"},
+  {"find": "it is to be observed that our predecessors made ^y^^^Dlea", "replace": "it is to be observed that our predecessors made", "note": "removed leaked margin caption fragment"},
+  {"find": "use of diflerent lines in their canzoni, as the", "replace": "use of different lines in their canzoni, as the", "note": "OCR misread 'different'"},
+  {"find": "nioderns also do ; but we do not find that any", "replace": "moderns also do ; but we do not find that any", "note": "OCR misread 'moderns'"},
+  {"find": "[103 or less tlian three syllables. And though", "replace": "[10] or less than three syllables. And though", "note": "OCR misread bracketed number and 'than'"},
+  {"find": "Jie Italian poets have used the lines of thiCC", "replace": "the Italian poets have used the lines of three", "note": "OCR misread 'the' and 'three'"},
+  {"find": "ones, those of live, seven, and eleven syllables", "replace": "ones, those of five, seven, and eleven syllables", "note": "OCR misread 'five'"},
+  {"find": "are more frequently used [than tlie others^,", "replace": "are more frequently used [than the others],", "note": "OCR misread 'the' and closing bracket"},
+  {"find": "well by reason of the length of time it occu])ies", "replace": "well by reason of the length of time it occupies", "note": "OCR misread 'occupies'"},
+  {"find": "in the others]], as is plainly apparent ; for wher-", "replace": "in the others], as is plainly apparent ; for wher-", "note": "OCR misread closing bracket"},
+  {"find": "^ ylra atizir-ez encabalilz cantars.* ^", "replace": "'Ara auzirez encabalitz cantars.' 1", "note": "garbled Occitan quotation and footnote mark"},
+  {"find": "syllables, it is in reality of eleven [30]], for the", "replace": "syllables, it is in reality of eleven [30], for the", "note": "OCR misread closing bracket"},
+  {"find": "the rhyme is in this insLince completed by one", "replace": "the rhyme is in this instance completed by one", "note": "OCR misread 'instance'"},
+  {"find": "^ ' Now you slinll hear perfect songs.'", "replace": "1 'Now you shall hear perfect songs.'", "note": "OCR misread footnote mark and 'shall'"}
+]

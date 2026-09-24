@@ -1,0 +1,77 @@
+[
+  {
+    "find": "y\nBOOK 11\nCHAPTER I",
+    "replace": "BOOK II\nCHAPTER I",
+    "note": "stray leading 'y' (garbage) removed; 'BOOK 11' misread as 'BOOK II'"
+  },
+  {
+    "find": "[Ccginnin^ to carry out the scheme set forth \\n I.",
+    "replace": "[Beginning to carry out the scheme set forth in I.",
+    "note": "OCR misread 'Beginning'; stray '\\n' characters are garbage for 'in'"
+  },
+  {
+    "find": "19, t!ic author declares tliat the illustrious",
+    "replace": "19, the author declares that the illustrious",
+    "note": "OCR misread 'the'/'that'"
+  },
+  {
+    "find": "ill verse. V>vA as poetry seeirs to be a model",
+    "replace": "in verse. But as poetry seems to be a model",
+    "note": "OCR misread 'in'/'But'/'seems'"
+  },
+  {
+    "find": "for prose writers, he will first treat of the use_ of",
+    "replace": "for prose writers, he will first treat of the use of",
+    "note": "stray underscore garbage"
+  },
+  {
+    "find": "the langua.qe in metre. He begins by inquiring",
+    "replace": "the language in metre. He begins by inquiring",
+    "note": "OCR misread 'language'"
+  },
+  {
+    "find": "whether all poets writinj^ in the vernacular",
+    "replace": "whether all poets writing in the vernacular",
+    "note": "OCR misread 'writing'"
+  },
+  {
+    "find": "should use the illustrious languai'.e, and proves",
+    "replace": "should use the illustrious language, and proves",
+    "note": "OCR misread 'language'"
+  },
+  {
+    "find": "arc at libeity to do so.]",
+    "replace": "are at liberty to do so.]",
+    "note": "OCR misread 'are'/'liberty'"
+  },
+  {
+    "find": "Urging on once more the nimblcncss of our The",
+    "replace": "Urging on once more the nimbleness of our",
+    "note": "OCR misread 'nimbleness'; trailing 'The' is leaked margin caption"
+  },
+  {
+    "find": "wit, which is rcturninj; to tlic pen of useful ^^\"^^^^^",
+    "replace": "wit, which is returning to the pen of useful",
+    "note": "OCR misread 'returning'/'the'; trailing garbage is leaked margin caption"
+  },
+  {
+    "find": "work, wc declare in the first place that the p^^^°rn",
+    "replace": "work, we declare in the first place that the",
+    "note": "OCR misread 'we'; trailing garbage is leaked margin caption"
+  },
+  {
+    "find": "illustrious Italian vernacular is equally fit for f^j.",
+    "replace": "illustrious Italian vernacular is equally fit for",
+    "note": "trailing garbage is leaked margin caption"
+  },
+  {
+    "find": "use in jnose and in verse. I'ut because prose writers\nwriters rather get tliis languanc. from poets, and",
+    "replace": "use in prose and in verse. But because prose writers rather get this language from poets, and",
+    "note": "OCR misread 'prose'/'But'/'this'/'language'; duplicated 'writers' from leaked margin caption removed"
+  },
+  {
+    "find": "seem that they should, because every one who\nE «5",
+    "replace": "seem that they should, because every one who",
+    "note": "trailing page signature/number 'E 65' garbled and not part of the prose"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "find": "[The author hcj^ins to treat of the !niml>er of lines",
+    "replace": "[The author begins to treat of the number of lines",
+    "note": "OCR misread begins and number"
+  },
+  {
+    "find": "and -syllables in the stanza.]",
+    "replace": "and syllables in the stanza.]",
+    "note": "removed stray hyphen (not a real line-break)"
+  },
+  {
+    "find": "Having sufficiently treated of two things belong- Of",
+    "replace": "Having sufficiently treated of two things belong-",
+    "note": "removed leaked margin-caption fragment (Of the)"
+  },
+  {
+    "find": "ing to the art in the canzone, it now appears 1-^gth",
+    "replace": "ing to the art in the canzone, it now appears",
+    "note": "removed garbled leftover margin-caption fragment (length)"
+  },
+  {
+    "find": "that we ought to treat of the third, namely, the ^;",
+    "replace": "that we ought to treat of the third, namely, the",
+    "note": "removed garbled leftover margin-caption fragment"
+  },
+  {
+    "find": "number of the lines and syllables. And in the relation",
+    "replace": "number of the lines and syllables. And in the",
+    "note": "removed leaked margin-caption word (relation)"
+  },
+  {
+    "find": "iirst place we must make some observations with to",
+    "replace": "first place we must make some observations with",
+    "note": "OCR misread first; removed leaked margin-caption word (to)"
+  },
+  {
+    "find": "regard to the stanza as a whole ; then we will subject",
+    "replace": "regard to the stanza as a whole ; then we will",
+    "note": "removed leaked margin-caption word (subject)"
+  },
+  {
+    "find": "sung of [io3> because some stanzas seem to",
+    "replace": "sung of [10], because some stanzas seem to",
+    "note": "OCR misread bracketed line number [10],"
+  },
+  {
+    "find": "desire prolixity, and others do not. I''or wliereas",
+    "replace": "desire prolixity, and others do not. For whereas",
+    "note": "OCR misread For and whereas"
+  },
+  {
+    "find": "we sing of all the subjects we are sj^eaking of",
+    "replace": "we sing of all the subjects we are speaking of",
+    "note": "OCR misread speaking"
+  },
+  {
+    "find": "cither with reference to something favourable",
+    "replace": "either with reference to something favourable",
+    "note": "OCR misread either"
+  },
+  {
+    "find": "happens tliat we sing sometimes persuasively,",
+    "replace": "happens that we sing sometimes persuasively,",
+    "note": "OCR misread that"
+  },
+  {
+    "find": "tendency is unfavourable alv/ays hasten to the",
+    "replace": "tendency is unfavourable always hasten to the",
+    "note": "OCR misread always"
+  },
+  {
+    "find": "end, and the others gradually (^20] advance to",
+    "replace": "end, and the others gradually [20] advance to",
+    "note": "OCR misread bracketed line number [20]"
+  },
+  {
+    "find": "1-4. See al)Ovc, 11. 9 : 22-26.",
+    "replace": "1-4. See above, II. 9 : 22-26.",
+    "note": "OCR misread above and roman numeral II"
+  }
+]

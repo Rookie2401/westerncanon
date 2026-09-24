@@ -1,0 +1,55 @@
+{
+  "divisions": {
+    "archimedes-spirals-ch-1": [
+      { "image": "images/ch-1.png", "width": 1288, "height": 201, "source": "Heiberg, Archimedis opera omnia vol. II, p. 16, leaf 32" }
+    ],
+    "archimedes-spirals-ch-6": [
+      { "image": "images/ch-6.png", "width": 950, "height": 683, "source": "Heiberg, Archimedis opera omnia vol. II, p. 24, leaf 40" }
+    ],
+    "archimedes-spirals-ch-7": [
+      { "image": "images/ch-7.png", "width": 873, "height": 718, "source": "Heiberg, Archimedis opera omnia vol. II, p. 26, leaf 44" }
+    ],
+    "archimedes-spirals-ch-8": [
+      { "image": "images/ch-8.png", "width": 883, "height": 902, "source": "Heiberg, Archimedis opera omnia vol. II, p. 30, leaf 48" }
+    ],
+    "archimedes-spirals-ch-9": [
+      { "image": "images/ch-9.png", "width": 1039, "height": 929, "source": "Heiberg, Archimedis opera omnia vol. II, p. 32, leaf 50" }
+    ],
+    "archimedes-spirals-ch-10": [
+      { "image": "images/ch-10.png", "width": 729, "height": 806, "source": "Heiberg, Archimedis opera omnia vol. II, p. 36, leaf 54" }
+    ],
+    "archimedes-spirals-ch-11": [
+      { "image": "images/ch-11.png", "width": 656, "height": 823, "source": "Heiberg, Archimedis opera omnia vol. II, p. 46, leaf 66" }
+    ],
+    "archimedes-spirals-ch-12": [
+      { "image": "images/ch-12.png", "width": 777, "height": 530, "source": "Heiberg, Archimedis opera omnia vol. II, p. 54, leaf 76" }
+    ],
+    "archimedes-spirals-ch-13": [
+      { "image": "images/ch-13.png", "width": 904, "height": 581, "source": "Heiberg, Archimedis opera omnia vol. II, p. 56, leaf 78" }
+    ],
+    "archimedes-spirals-ch-16": [
+      { "image": "images/ch-16.png", "width": 1065, "height": 1074, "source": "Heiberg, Archimedis opera omnia vol. II, p. 64, leaf 86" }
+    ],
+    "archimedes-spirals-ch-17": [
+      { "image": "images/ch-17.png", "width": 1077, "height": 1024, "source": "Heiberg, Archimedis opera omnia vol. II, p. 68, leaf 90" }
+    ]
+  },
+  "reportLines": [
+    { "division": "archimedes-spirals-ch-1", "markerIndex": 0, "leaf": 32, "printedPage": "16", "result": "image", "file": "images/ch-1.png" },
+    { "division": "archimedes-spirals-ch-2", "markerIndex": 0, "leaf": 34, "printedPage": "18", "result": "no printed figure" },
+    { "division": "archimedes-spirals-ch-5", "markerIndex": 0, "leaf": 38, "printedPage": "22", "result": "no printed figure" },
+    { "division": "archimedes-spirals-ch-6", "markerIndex": 0, "leaf": 40, "printedPage": "24", "result": "image", "file": "images/ch-6.png" },
+    { "division": "archimedes-spirals-ch-7", "markerIndex": 0, "leaf": 44, "printedPage": "26", "result": "image", "file": "images/ch-7.png" },
+    { "division": "archimedes-spirals-ch-8", "markerIndex": 0, "leaf": 48, "printedPage": "30", "result": "image", "file": "images/ch-8.png" },
+    { "division": "archimedes-spirals-ch-9", "markerIndex": 0, "leaf": 50, "printedPage": "32", "result": "image", "file": "images/ch-9.png" },
+    { "division": "archimedes-spirals-ch-10", "markerIndex": 0, "leaf": 54, "printedPage": "36", "result": "image", "file": "images/ch-10.png" },
+    { "division": "archimedes-spirals-ch-11", "markerIndex": 0, "leaf": 66, "printedPage": "46", "result": "image", "file": "images/ch-11.png" },
+    { "division": "archimedes-spirals-ch-12", "markerIndex": 0, "leaf": 76, "printedPage": "54", "result": "image", "file": "images/ch-12.png" },
+    { "division": "archimedes-spirals-ch-13", "markerIndex": 0, "leaf": 78, "printedPage": "56", "result": "image", "file": "images/ch-13.png" },
+    { "division": "archimedes-spirals-ch-14", "markerIndex": 0, "leaf": 80, "printedPage": "58", "result": "no printed figure" },
+    { "division": "archimedes-spirals-ch-15", "markerIndex": 0, "leaf": 82, "printedPage": "60", "result": "no printed figure" },
+    { "division": "archimedes-spirals-ch-16", "markerIndex": 0, "leaf": 86, "printedPage": "64", "result": "image", "file": "images/ch-16.png" },
+    { "division": "archimedes-spirals-ch-17", "markerIndex": 0, "leaf": 90, "printedPage": "68", "result": "image", "file": "images/ch-17.png" }
+  ],
+  "failures": []
+}

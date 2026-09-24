@@ -1,0 +1,36 @@
+LEVEL:3
+
+
+<section begin="s12" />quale io seguitasse ciò che lo mio segnore m’avea [[#imposto|imposto]], e feci poi questa ballata, che comincia: ''Ballata, i’ voi''.
+
+
+
+<poem>
+Ballata, i’ voi che tu ritrovi Amore,
+     e con lui vade a madonna davante,
+     sì che la scusa mia, la qual tu cante,
+     ragioni poi con lei lo mio segnore.
+Tu vai, ballata, sì cortesemente,
+     che sanza compagnia
+     dovresti avere in tutte parti ardire;
+     ma se tu vuoli andar sicuramente,
+     retrova l’Amor pria,
+     chè forse non è bon sanza lui gire;
+     [[#però che quella|però che quella]] che ti dee	audire,
+     sì com’io credo, è ver di me adirata:
+     se tu di lui non fossi acompagnata,
+     leggeramente ti faria disnore.
+Con dolze sono, quando se’ con lui,
+     comincia este parole,
+     appresso che averai chesta pietate:
+     «Madonna, quelli che mi manda a vui,
+     quando vi piaccia, vole,
+     sed elli ha scusa, che la m’intendiate.</poem><section end="s12" />
+
+
+<section begin="c12" />il copista che l’introdusse, non penetrò ben addentro nel senso del passo.
+
+{{§|imposto|}}{{Sc|imposto}}. Il Casini e il Pass.<sup>2</sup>
+leggono ''proposto'', ma è lezione data soltanto da k e meno opportuna d’''imposto'': cfr. XII 7, ''voglio che tu dichi certe parole per rima'', e XIII 1, ''avendo già dette le parole che Amore m’avea imposte a dire''.
+
+{{§|però che quella|}}{{Sc|Però che quella}}	ecc. Le edizioni hanno ''se com’io'', ma la lezione dei Mss. (in b è omesso il	verso) è ''sicomio'' o ''sicome io''. Dato ciò, così mi è parso doversi leggere, e interpungere i tre versi in modo conseguente, e dello stesso parere fu il Todeschini. A me, come a lui, riesce poco credibile, che tanti copisti ponessero «un ''se'' in capo del terzo verso, so l’originale non avesse portata che un ''e''», e molto meno che a tutti venisse fatto nel secondo verso di mutare un ''se'' come che fosse dato dall’originale in ''sicome''. Il ragionamento procede così più<section end="c12" />

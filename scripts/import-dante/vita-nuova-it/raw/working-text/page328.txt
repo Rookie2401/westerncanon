@@ -1,0 +1,26 @@
+LEVEL:3
+
+<section begin="s9" />
+<poem>
+     Ne la sembianza mi parea meschino,{{R|5}}
+     come avesse perduta segnoria;
+     e sospirando pensoso venia,
+     per non veder la gente, a capo chino.
+Quando mi vide, mi chiamò per nome,
+     e disse: «Io vegno di lontana parte,{{R|10}}
+     ov’era lo tuo cor per mio volere;
+     e recolo a servir novo piacere».
+     Allora presi di lui sì gran parte,
+     ch’elli disparve, e non m’accorsi come.</poem>
+
+
+
+Questo sonetto ha tre parti: ne la prima parte dico sì com’io trovai Amore, e quale mi parea; ne la seconda	dico quello ch’elli mi disse, avegna che non compiutamente, per tema ch’avea di discovrire lo mio secreto; ne la terza dico com’elli mi disparve. La seconda comincia quivi: ''Quando mi vide''; la terza: ''Allora presi''.<section end="s9" />
+
+<section begin="s10" />Appresso la mia ritornata mi misi a cercare di questa donna che lo mio segnore m’avea nommata ne lo cammino de li sospiri; e acciò che lo mio parlare sia più brieve, dico che in poco tempo la feci mia difesa tanto, che troppa gente ne ragionava oltre li termini de la cortesia; onde molte fiate mi [[#pesava|pesava]] duramente. E per questa cagione, cioè di questa soverchievole voce che parea che nr infamasse viziosamente, quella gentilissima, la quale fue distruggitrice di tutti li vizi e regina de le virtudi, passando per alcuna parte, mi negè lo suo dolcissimo salutare, ne lo quale stava tutta la mia beatitudine. Ed uscendo alquanto del proposito presente, voglio dare a intendere quello che lo suo salutare in me virtuosamente [[#operava|operava]].<section end="s10" />
+
+
+
+<section begin="c10" />{{§|pesava|}}{{Sc|{{Ec|.|Pesava}}}} Ho adottato ''pesaua'', che	 meglio conviene al contesto.  Che,	data tale lezione, venisse facilmente fatto ai copisti di mutarla in ''pensaua'', ne abbiamo la riprova nel gruppo b, dove To ha ''pesaua'' e tre suoi derivati, Laur. XC s. 136, Panc. 10, Ricc. 1118, ''pensaua'' (nei primi due è stato poi dato di frego alla ''n'').
+
+{{§|operava|}}{{Sc|operava}}. Più usuale nella ''Vita Nuova'' è ''adoperare'' (cfr. VIII<section end="c10" />

@@ -1,0 +1,157 @@
+[
+  {
+    "find": "confusion different languages as there were different",
+    "replace": "race was accordingly then divided into as many\ndifferent languages as there were different",
+    "note": "restore entire first content line that the automatic strip dropped along with the leaked margin-caption word The/confusion, and remove leaked word confusion"
+  },
+  {
+    "find": "tong-ues tranches of the work ; and the [60] higher the",
+    "replace": "branches of the work ; and the [60] higher the",
+    "note": "remove leaked garbled margin-caption fragment tong-ues; fix tranches->branches"
+  },
+  {
+    "find": "branch of work the men were en-.>agcd in, the",
+    "replace": "branch of work the men were engaged in, the",
+    "note": "fix en-.>agcd->engaged"
+  },
+  {
+    "find": "But those to whom the Iiallowcd lani^ua^e re-",
+    "replace": "But those to whom the hallowed language re-",
+    "note": "fix Iiallowcd->hallowed, lani^ua^e->language"
+  },
+  {
+    "find": "niamcd were neither present, nor countcnMced",
+    "replace": "mained were neither present, nor countenanced",
+    "note": "fix niamcd->mained, countcnMced->countenanced"
+  },
+  {
+    "find": "foliy of those engaged in it. But these, a small",
+    "replace": "folly of those engaged in it. But these, a small",
+    "note": "fix foliy->folly"
+  },
+  {
+    "find": "from them si)rang the people of Lstacl, ' who",
+    "replace": "from them sprang the people of Israel, who",
+    "note": "fix si)rang->sprang, Lstacl->Israel; remove stray apostrophe"
+  },
+  {
+    "find": "L70J their dispersion.",
+    "replace": "[70] their dispersion.",
+    "note": "fix garbled bracket L70J->[70]"
+  },
+  {
+    "find": "$. Ourn,!„J rrcolh (^anhnnqu, rrfu.ri,t'\\ A rem hi -",
+    "replace": "5. Our mind recoils ('animusque refugiat'). A remin-",
+    "note": "fix heavily garbled note 5 opening"
+  },
+  {
+    "find": "Isccnce ol Virgil's ^ anir^us r.fu^ir (JiLhl, W iz)",
+    "replace": "iscence of Virgil's 'animus refugit' (Æneid, II. 12).",
+    "note": "fix heavily garbled continuation of note 5"
+  },
+  {
+    "find": "Compare /r,/,r„o, {.25. •\" ■^ ^ > '• ^^).",
+    "replace": "Compare Inferno, I. 25.",
+    "note": "fix heavily garbled citation"
+  },
+  {
+    "find": "18 '-rhou shalt not ride on horsel.ack before the",
+    "replace": "18. 'Thou shalt not ride on horseback before the",
+    "note": "fix heavily garbled note 18 opening"
+  },
+  {
+    "find": "rZu ''\"?5' .'■•'•. ;'^«\".sl^alt be punished at the third",
+    "replace": "third time,' i.e. thou shalt be punished at the third",
+    "note": "fix heavily garbled continuation"
+  },
+  {
+    "find": "lault. Gu!hani(wnt.ngin i878)says that the proverb",
+    "replace": "fault. Giuliani (writing in 1878) says that the proverb",
+    "note": "fix heavily garbled continuation"
+  },
+  {
+    "find": "was st.ll current /;.. .. ....///ai/., ,, .;,, ^ hor\"'",
+    "replace": "was still current. Dar un cavallo (lit., to give a horse)",
+    "note": "fix heavily garbled continuation"
+  },
+  {
+    "find": "= to pun.sh. 1 he expression onVinated. it seems, in",
+    "replace": "= to punish. The expression originated, it seems, in",
+    "note": "fix heavily garbled continuation"
+  },
+  {
+    "find": "he practice of putting „auohty boys astride the",
+    "replace": "the practice of putting naughty boys astride the",
+    "note": "fix he practice->the practice, „auohty->naughty"
+  },
+  {
+    "find": "back of some one, m order to receive a whippi,,,.",
+    "replace": "back of some one, in order to receive a whipping.",
+    "note": "fix m order->in order, whippi,,,.->whipping."
+  },
+  {
+    "find": "o torture known as the wooden horse. 'J-his ex",
+    "replace": "of torture known as the wooden horse. This ex-",
+    "note": "fix o torture->of torture, 'J-his->This"
+  },
+  {
+    "find": "planation is, however, exposed to tlie obvious obiec",
+    "replace": "planation is, however, exposed to the obvious objec-",
+    "note": "fix tlie->the, obiec->objec-"
+  },
+  {
+    "find": "101, thatthe human race had already been punished",
+    "replace": "tion that the human race had already been punished",
+    "note": "fix garbled 101, thatthe -> tion that the"
+  },
+  {
+    "find": "twice, VIZ by the expulsion from Eden and the",
+    "replace": "twice, viz., by the expulsion from Eden and the",
+    "note": "fix VIZ->viz.,"
+  },
+  {
+    "find": "Hood, while the third punishment, the confusion",
+    "replace": "flood, while the third punishment, the confusion",
+    "note": "fix Hood->flood"
+  },
+  {
+    "find": "of tongues, was less severe than tlie otiier two ^c",
+    "replace": "of tongues, was less severe than the other two. Ac-",
+    "note": "fix tlie otiier two ^c -> the other two. Ac-"
+  },
+  {
+    "find": "cording to anotlier exj,lanation, t!ie word. ;.. 'anU",
+    "replace": "cording to another explanation, the words non ante",
+    "note": "fix garbled anotlier, t!ie word. ;.. 'anU -> another explanation, the words non ante"
+  },
+  {
+    "find": "terl.ur^ cqu.tahn sliould be rendered ' Thou shah not be",
+    "replace": "tertium equitabis should be rendered 'Thou shalt not be",
+    "note": "fix garbled Latin and shah->shalt"
+  },
+  {
+    "find": "a rider till the tlird time,' with an allusion to the",
+    "replace": "a rider till the third time,' with an allusion to the",
+    "note": "fix tlird->third"
+  },
+  {
+    "find": "Mas been thrown three times.",
+    "replace": "has been thrown three times.",
+    "note": "fix Mas->has"
+  },
+  {
+    "find": "?.6. /.^. Nimrod (compare '///^/-//o, XXXf 77 78.",
+    "replace": "26. i.e. Nimrod (compare Inferno, XXXI. 77, 78;",
+    "note": "fix garbled note 26 opening and citation"
+  },
+  {
+    "find": "Pur^atorlo, XII. 34.36). who Is called a ghnt in",
+    "replace": "Purgatorio, XII. 34-36), who is called a giant in",
+    "note": "fix Pur^atorlo->Purgatorio, 34.36->34-36, Is->is, ghnt->giant"
+  },
+  {
+    "find": "ruder and more barbarous was the language thev",
+    "replace": "ruder and more barbarous was the language they",
+    "note": "OCR misread they (residual audit)"
+  }
+]

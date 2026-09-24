@@ -1,0 +1,142 @@
+[
+  {
+    "find": "showed,* etc. , may refer not to any poems in Italian, but",
+    "replace": "showed,' etc., may refer not to any poems in Italian, but",
+    "note": "stray asterisk should be closing quote; stray space before comma"
+  },
+  {
+    "find": "to some definite utterance of Sordello in reji^ard to the",
+    "replace": "to some definite utterance of Sordello in regard to the",
+    "note": "OCR misread \"regard\""
+  },
+  {
+    "find": "Mantuan dialect, in which, possibly, he justified lu'm-",
+    "replace": "Mantuan dialect, in which, possibly, he justified him-",
+    "note": "OCR misread \"him-\""
+  },
+  {
+    "find": "self for adopting Provcnqal, with other Italian poets,",
+    "replace": "self for adopting Provençal, with other Italian poets,",
+    "note": "OCR misread/missing cedilla \"Provençal\""
+  },
+  {
+    "find": "2. Com])are above, II. 5, 6.",
+    "replace": "2. Compare above, II. 5, 6.",
+    "note": "OCR misread \"Compare\""
+  },
+  {
+    "find": "8. All lurroiu front their nei'^JiLourSy e.^. the Apulians,",
+    "replace": "8. All borrow from their neighbours, e.g. the Apulians,",
+    "note": "OCR misread italic caption phrase"
+  },
+  {
+    "find": "Orvietans, etc. (aliove, 12 : 13).",
+    "replace": "Orvietans, etc. (above, 12 : 13).",
+    "note": "OCR misread \"above\""
+  },
+  {
+    "find": "9. There is much uncertainty about the carlit-r",
+    "replace": "9. There is much uncertainty about the earlier",
+    "note": "OCR misread \"earlier\""
+  },
+  {
+    "find": "period of Sordello's life, and autliL-ntic dates are want-",
+    "replace": "period of Sordello's life, and authentic dates are want-",
+    "note": "OCR misread \"authentic\""
+  },
+  {
+    "find": "about 1200. It is most likely (in sj)ite of his own",
+    "replace": "about 1200. It is most likely (in spite of his own",
+    "note": "OCR misread \"spite\""
+  },
+  {
+    "find": "vigorous disciaimi.'rs) that he followed tlie calling of",
+    "replace": "vigorous disclaimers) that he followed the calling of",
+    "note": "OCR misread \"disclaimers\"/\"the\""
+  },
+  {
+    "find": "a professional minstrel, AI)out the year 1225 (?) he",
+    "replace": "a professional minstrel. About the year 1225 (?) he",
+    "note": "OCR misread \"About\""
+  },
+  {
+    "find": "carried otffrom Verona Cuni7.za(Mee y./zW/VojlX. 33'/.),",
+    "replace": "carried off from Verona Cunizza (see Paradiso, IX. 33n.),",
+    "note": "OCR misread whole line: italic citation"
+  },
+  {
+    "find": "wife of Richard, Count of S. Bonifa/.io, daughrcr",
+    "replace": "wife of Richard, Count of S. Bonifazio, daughter",
+    "note": "OCR misread \"Bonifazio\"/\"daughter\""
+  },
+  {
+    "find": "of Ezzelino II. of Romano, and sister of Ez/dino III.,",
+    "replace": "of Ezzelino II. of Romano, and sister of Ezzelino III.,",
+    "note": "OCR misread \"Ezzelino\""
+  },
+  {
+    "find": "brother Alb(.ric. There is very strong reason to be-",
+    "replace": "brother Alberic. There is very strong reason to be-",
+    "note": "OCR misread \"Alberic\""
+  },
+  {
+    "find": "In the neighl)ourhood of Treviso I)eluiiging to three",
+    "replace": "in the neighbourhood of Treviso belonging to three",
+    "note": "OCR misread \"in\"/\"neighbourhood\"/\"belonging\""
+  },
+  {
+    "find": "mem.bers of the Strasso family, he secretly married their",
+    "replace": "members of the Strasso family, he secretly married their",
+    "note": "OCR misread \"members\""
+  },
+  {
+    "find": "near relative Otta. About 1230 (?) lie left Italy, and",
+    "replace": "near relative Otta. About 1230 (?) he left Italy, and",
+    "note": "OCR misread \"he\""
+  },
+  {
+    "find": "Blacatz, one of the chief iiobles of the country, a noted",
+    "replace": "Blacatz, one of the chief nobles of the country, a noted",
+    "note": "OCR misread \"nobles\""
+  },
+  {
+    "find": "protector of trouI>adours, and something of a poet",
+    "replace": "protector of troubadours, and something of a poet",
+    "note": "OCR misread \"troubadours\""
+  },
+  {
+    "find": "in the most famous of his pieces (see Puri^.rfon'o, VI.",
+    "replace": "in the most famous of his pieces (see Purgatorio, VI.",
+    "note": "OCR misread italic title"
+  },
+  {
+    "find": "58//.). By tlie early part of 1233 Sordello had secured",
+    "replace": "58n.). By the early part of 1233 Sordello had secured",
+    "note": "OCR misread footnote marker and \"the\""
+  },
+  {
+    "find": "a footing at the court of Raymond Berengt-r IV., Count",
+    "replace": "a footing at the court of Raymond Berenger IV., Count",
+    "note": "OCR misread \"Berenger\""
+  },
+  {
+    "find": "of Provence, and passed the rest of liis life in the",
+    "replace": "of Provence, and passed the rest of his life in the",
+    "note": "OCR misread \"his\""
+  },
+  {
+    "find": "cessor, Charles of Anjou. Sordello, w!io at some time",
+    "replace": "cessor, Charles of Anjou. Sordello, who at some time",
+    "note": "OCR misread \"who\""
+  },
+  {
+    "find": "unknown rtceived tlie honour of knighthood, followed",
+    "replace": "unknown received the honour of knighthood, followed",
+    "note": "OCR misread \"received the\""
+  },
+  {
+    "find": "the kingdom of Naples and Sicily. In X2(j9 Charles",
+    "replace": "the kingdom of Naples and Sicily. In 1269 Charles",
+    "note": "OCR misread \"1269\""
+  }
+]

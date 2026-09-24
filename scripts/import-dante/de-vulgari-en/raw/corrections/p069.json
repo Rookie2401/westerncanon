@@ -1,0 +1,102 @@
+[
+  {
+    "find": "f.O. Ox with tr.if'f/irij^s (I'oi'em epiphyalnrn). An ex-",
+    "replace": "80. Ox with trappings (bovem epiphyatum). An ex-",
+    "note": "OCR misread '80.'/'trappings'/'bovem epiphyatum'"
+  },
+  {
+    "find": "ample borrowct! at sccoml-hand from Horace, Rput,",
+    "replace": "ample borrowed at second-hand from Horace, Epist.",
+    "note": "OCR misread 'borrowed'/'second-hand'/'Epist.'"
+  },
+  {
+    "find": "1. xiv. 43 (Toynbee).",
+    "replace": "I. xiv. 43 (Toynbee).",
+    "note": "OCR misread roman numeral 'I.'"
+  },
+  {
+    "find": "90. tJCC Conv'tv'iOy IV. 29 : 89 fl\".",
+    "replace": "90. See Convivio, IV. 29 : 89 ff.",
+    "note": "OCR misread 'See'/'Convivio'/'ff.'"
+  },
+  {
+    "find": "[The illustrious lanc^uage must only be used in treat- /",
+    "replace": "[The illustrious language must only be used in treat-",
+    "note": "OCR misread 'language'; trailing stray margin-tick symbol removed"
+  },
+  {
+    "find": "ing of the worthiest .subjects, i.e. Arms, Love, and",
+    "replace": "ing of the worthiest subjects, i.e. Arms, Love, and",
+    "note": "OCR misread 'subjects'"
+  },
+  {
+    "find": "After having proved that not all those who Meaning",
+    "replace": "After having proved that not all those who",
+    "note": "trailing 'Meaning' is leaked margin caption"
+  },
+  {
+    "find": "write verse, but only those of the highest excel- ^^",
+    "replace": "write verse, but only those of the highest excel-",
+    "note": "trailing garbage is leaked margin caption"
+  },
+  {
+    "find": "lencc, ou^^ht to use the illustrious vernacular, we ^°",
+    "replace": "lence, ought to use the illustrious vernacular, we",
+    "note": "OCR misread 'lence,'/'ought'; trailing garbage is leaked margin caption"
+  },
+  {
+    "find": "mu?t in the next place establish whether every",
+    "replace": "must in the next place establish whether every",
+    "note": "OCR misread 'must'"
+  },
+  {
+    "find": "that which we call ivorthy, W'q say that a'",
+    "replace": "that which we call worthy. We say that a",
+    "note": "OCR misread 'worthy.'/'We'; stray trailing apostrophe removed"
+  },
+  {
+    "find": "say that [ to]] a thing which has nobility is noble ;",
+    "replace": "say that [10] a thing which has nobility is noble ;",
+    "note": "bracket number garbled"
+  },
+  {
+    "find": "that on which the habit is conferred is [alsoj",
+    "replace": "that on which the habit is conferred is [also]",
+    "note": "bracket garbled"
+  },
+  {
+    "find": "nCx'^s is, wc shall know also what ivorlhy is.",
+    "replace": "ness is, we shall know also what worthy is.",
+    "note": "OCR misread 'ness'/'we'/'worthy'"
+  },
+  {
+    "find": "Now worthiness is an eflcct or end of deserts ;",
+    "replace": "Now worthiness is an effect or end of deserts ;",
+    "note": "OCR misread 'effect'"
+  },
+  {
+    "find": "vthat he has arrived at worthiness of good; but",
+    "replace": "that he has arrived at worthiness of good; but",
+    "note": "OCR misread 'that'"
+  },
+  {
+    "find": "v/hen he has deserved ill, at worthiness of evil.",
+    "replace": "when he has deserved ill, at worthiness of evil.",
+    "note": "OCR misread 'when'"
+  },
+  {
+    "find": "Thus v/e say that a soldier who has fought well",
+    "replace": "Thus we say that a soldier who has fought well",
+    "note": "OCR misread 'we'"
+  },
+  {
+    "find": "has ruled well, at woithineas of a kingdom ; also",
+    "replace": "has ruled well, at worthiness of a kingdom ; also",
+    "note": "OCR misread 'worthiness'"
+  },
+  {
+    "find": "that a liar has arrived at [20J worthiness of",
+    "replace": "that a liar has arrived at [20] worthiness of",
+    "note": "bracket garbled"
+  }
+]

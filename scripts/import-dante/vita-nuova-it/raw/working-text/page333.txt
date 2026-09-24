@@ -1,0 +1,35 @@
+LEVEL:3
+
+<section begin="s12" />
+<poem>
+     [[#Amore è qui|Amore è qui]], che per vostra bieltate
+     lo face, come vol, vista cangiare:
+     dunque perchè li fece altra guardare
+     pensatel voi, da che non mutò ’l core».
+Dille: «Madonna, lo suo core è stato
+     con sì fermata fede,
+     che ’n voi servir [[#L'ha 'mpronto|l’ha ’mpronto]] onne pensero:
+     tosto fu vostro, e mai non s’è smagato».
+     Sed ella non ti crede,
+     dì che domandi Amor, [[#Che sa lo vero|che sa lo vero]]:
+     ed a la fine falle umil preghero,
+     lo	perdonare se le fosse a noia,
+     che mi comandi per messo ch’eo moia,
+     e vedrassi ubidir ben servidore.
+E dì a colui chi’è d’ogni pietà chiave,
+     avante che sdonnei,
+     che le saprà contar mia ragion bona:
+     «Per grazia de la mia nota soave</poem>
+<section end="s12" />
+
+<section begin="c12" />
+piano (disdice questo allo stile della ballata?), ma non meno bene; anzi viene ad acquistar più rilievo l’affermazione che Beatrice è adirata, fatto per il poeta molto notevole.
+
+{{§|Amor è qui|}}{{Sc|Amor è qui}}. Alcune edizioni hanno, per congettura del Fraticelli, ''Amor è quei'': ma tale lezione non ha fondamento nei Mss.; e d’altra parte l’avvertire espressamente la presenza d’Amore torna a proposito, dopo che nella stanza precedente è detto che la ballata devo ritrovare Amore e andare con lui davanti a Madonna. 
+
+
+
+{{§|L'ha 'mpronto|}}{{Sc|L’ha ’mpronto}}: cioè improntato, disposto, reso pronto: cfr. ''Bull. d. Soc. Dantesca, N. S., III'', 136.
+
+{{§|Che sa lo vero|}}{{Sc|Che sa lo vero}}. Questa lezione corrisponde meglio alla narrazione in prosa: XII 7 ''e di ciò chiama testimonio colui che lo sa''. L’altra, come frase più usuale (ad es., ''domanda se è vero'', ''dì se è vero''), potè esser facilmente sostituita dai copisti.
+<section end="c12" />

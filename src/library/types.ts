@@ -9,7 +9,7 @@
  * `data/isagoge-la/work.json` (and the matching `about.json`).
  */
 
-export type Lang = 'la' | 'grc' | 'en';
+export type Lang = 'la' | 'grc' | 'en' | 'it';
 export type WorkProfile = 'summa' | 'generic';
 
 export interface Author {
@@ -88,6 +88,18 @@ export interface PassageFigure {
   alt?: string;
   source: string;
   note?: string;
+  /** Further distinct printed figures belonging to the SAME passage (a
+   *  passage carrying two or more <figure/> markers whose printed edition
+   *  shows different diagrams for each, e.g. Euclid X.71, XI.31). Rendered
+   *  below the first image, in order. */
+  more?: PassageFigureImage[];
+}
+
+export interface PassageFigureImage {
+  image: string;
+  imageWidth: number;
+  imageHeight: number;
+  alt?: string;
 }
 
 export interface Passage {

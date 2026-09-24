@@ -1,0 +1,10 @@
+[
+  {
+    "where": "dante-monarchia-en / whole work",
+    "note": "Only the De Monarchia translation is imported from this combined volume. Excluded: R. W. Church's preceding essay \"Dante\" (a critical essay about Dante, not a translation of anything Dante wrote, and outside this batch's brief), the book's front title pages and \"NOTICE\", and the trailing \"CONTENTS OF DE MONARCHIA\" chapter-title index (back-matter table of contents, not translated text)."
+  },
+  {
+    "where": "dante-monarchia-en / footnotes",
+    "note": "173 \"[Footnote N: ...]\" translator/editorial footnote block(s) were removed wholesale from the reading text; their content is not preserved anywhere in this build. 173 inline \"[N]\" reference markers were also stripped from the running text."
+  }
+]

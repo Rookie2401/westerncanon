@@ -1,0 +1,162 @@
+[
+  {
+    "find": "lanj^uage we now call Provencal prevailed over tlie",
+    "replace": "language we now call Provençal prevailed over the",
+    "note": "fix lanj^uage->language, Provencal->Provençal, tlie->the"
+  },
+  {
+    "find": "whole of Aragon and Catalonia; while tlie Kings of",
+    "replace": "whole of Aragon and Catalonia; while the Kings of",
+    "note": "fix tlie->the"
+  },
+  {
+    "find": "Toulouse (1249), the representative princes of tlie",
+    "replace": "Toulouse (1249), the representative princes of the",
+    "note": "fix tlie->the"
+  },
+  {
+    "find": "language of oc. In the same way tlie trou!)adour",
+    "replace": "language of oc. In the same way the troubadour",
+    "note": "fix tlie->the, trou!)adour->troubadour"
+  },
+  {
+    "find": "Albert of Sisteron [c. izzo) refers to tlie speakers of",
+    "replace": "Albert of Sisteron (c. 1220) refers to the speakers of",
+    "note": "fix [c. izzo)->(c. 1220), tlie->the"
+  },
+  {
+    "find": "50. Tlie specimen words here chosen represent",
+    "replace": "50. The specimen words here chosen represent",
+    "note": "fix Tlie->The"
+  },
+  {
+    "find": "the most imj)ortant notions (God, heaven, love, sea,",
+    "replace": "the most important notions (God, heaven, love, sea,",
+    "note": "fix imj)ortant->important"
+  },
+  {
+    "find": "earth, being, living, dying, loving). Dinte riglitly",
+    "replace": "earth, being, living, dying, loving). Dante rightly",
+    "note": "fix Dinte->Dante, riglitly->rightly"
+  },
+  {
+    "find": "argues that the fact tliat 'almost all ' the words in",
+    "replace": "argues that the fact that 'almost all' the words in",
+    "note": "fix tliat->that"
+  },
+  {
+    "find": "the languages of oc, o/7, anil tt are forms of the same",
+    "replace": "the languages of oc, oïl, and sì are forms of the same",
+    "note": "fix o/7->oïl, anil->and, tt->sì"
+  },
+  {
+    "find": "languages, though his theory of tlie conventional",
+    "replace": "languages, though his theory of the conventional",
+    "note": "fix tlie->the"
+  },
+  {
+    "find": "origin of Latin, the literary language (see l)el<)w, I.",
+    "replace": "origin of Latin, the literary language (see below, I.",
+    "note": "fix l)el<)w->below"
+  },
+  {
+    "find": "9 • 93 '^O prevents liim from drawing tlie inference",
+    "replace": "9 : 93 ff.) prevents him from drawing the inference",
+    "note": "fix garbled 9 • 93 '^O -> 9 : 93 ff.), liim->him, tlie->the"
+  },
+  {
+    "find": "that tliey are derived from Latin. In fact, on liis",
+    "replace": "that they are derived from Latin. In fact, on his",
+    "note": "fix tliey->they, liis->his"
+  },
+  {
+    "find": "hypothesis, tlie vulgar tongue must liave preceded",
+    "replace": "hypothesis, the vulgar tongue must have preceded",
+    "note": "fix tlie->the, liave->have"
+  },
+  {
+    "find": "61, 62. 'riie statement that the mountains of Aragon",
+    "replace": "61, 62. The statement that the mountains of Aragon",
+    "note": "fix 'riie->The"
+  },
+  {
+    "find": "oil is puzzling. Orosius (Hist. I. z), who was mucli",
+    "replace": "oïl is puzzling. Orosius (Hist. I. 2), who was much",
+    "note": "fix oil->oïl, z)->2), mucli->much"
+  },
+  {
+    "find": "series, p. 110), says tliat Gallia Narbonensis (wliich",
+    "replace": "series, p. 110), says that Gallia Narbonensis (which",
+    "note": "fix tliat->that, wliich->which"
+  },
+  {
+    "find": "comprised the territory of tlie mediival countsliips of",
+    "replace": "comprised the territory of the mediaeval countships of",
+    "note": "fix tlie->the, mediival->mediaeval, countsliips->countships"
+  },
+  {
+    "find": "Provence and Toulouse) was I)ounded on the west by",
+    "replace": "Provence and Toulouse) was bounded on the west by",
+    "note": "fix I)ounded->bounded"
+  },
+  {
+    "find": "in Beazley's Prince Henry tlie Naiii^uitor\"), which is about",
+    "replace": "in Beazley's Prince Henry the Navigator), which is about",
+    "note": "fix tlie->the, garbled Naiii^uitor\")-> Navigator),"
+  },
+  {
+    "find": "contemporary with tliis treatise, the Iberian Penin-",
+    "replace": "contemporary with this treatise, the Iberian Penin-",
+    "note": "fix tliis->this"
+  },
+  {
+    "find": "sula is twisted round nortliward in such a way tliat",
+    "replace": "sula is twisted round northward in such a way that",
+    "note": "fix nortliward->northward, tliat->that"
+  },
+  {
+    "find": "tlie east coast of Spain is matle to run parallel wit!i",
+    "replace": "the east coast of Spain is made to run parallel with",
+    "note": "fix tlie->the, matle->made, wit!i->with"
+  },
+  {
+    "find": "the nortli coast of Africa! and consecjuently t!ie line",
+    "replace": "the north coast of Africa ! and consequently the line",
+    "note": "fix nortli->north, consecjuently->consequently, t!ie->the"
+  },
+  {
+    "find": "of th.e Pyrenees (which, however, are not marked)",
+    "replace": "of the Pyrenees (which, however, are not marked)",
+    "note": "fix th.e->the"
+  },
+  {
+    "find": "France. But even assuming that t!ie * mountains of",
+    "replace": "France. But even assuming that the 'mountains of",
+    "note": "fix t!ie->the; fix stray asterisk to opening quote mark"
+  },
+  {
+    "find": "Aragon ' = tlie Pyrenees, and tliat Dante shared an",
+    "replace": "Aragon' = the Pyrenees, and that Dante shared an",
+    "note": "fix tlie->the, tliat->that"
+  },
+  {
+    "find": "opinion jirevalent in his time that tlie Pyrenees",
+    "replace": "opinion prevalent in his time that the Pyrenees",
+    "note": "fix jirevalent->prevalent, tlie->the"
+  },
+  {
+    "find": "stretclied from nortli to south instead of from east to",
+    "replace": "stretched from north to south instead of from east to",
+    "note": "fix stretclied->stretched, nortli->north"
+  },
+  {
+    "find": "west, it is fiirtlier necessary to assume, in order to",
+    "replace": "west, it is further necessary to assume, in order to",
+    "note": "fix fiirtlier->further"
+  },
+  {
+    "find": "the Pyrenees to extend so far north as to form j)art of",
+    "replace": "the Pyrenees to extend so far north as to form part of",
+    "note": "fix j)art->part"
+  }
+]

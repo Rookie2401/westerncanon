@@ -1,0 +1,15 @@
+LEVEL:3
+
+<section begin="s8" /><poem>Audite quanto Amor le fece orranza,
+     ch’io’l vidi lamentare in forma vera{{R|10}}
+     sovra la morta imagine avenente;
+     e riguardava ver lo ciel sovente,
+     ove l’alma gentil già locata era,
+     che donna fu di sì gaia sembianza.</poem>
+
+
+
+Questo primo sonetto si divide in tre parti: ne la prima chiamo e sollicito li fedeli d’Amore a piangere e dico che lo segnore loro piange, e dico «udendo la cagione per che piange», acciò che s’acconcino più ad ascoltarmi; ne la seconda narro la cagione; ne la terza parlo d’alcuno onore che<section end="s8" />
+
+
+<section begin="c8" />dare tutti quei pregi esteriori che in una donna giovane sono richiesti oltre alle doti morali e intellettuali, che costituiscono l’onore nel suo più largo senso. Ma se è tolta così la difficoltà del senso, resta sempre quella dello scarso fondamento della lezione ''fora'' nella tradizione manoscritta. Il contrario avviene per ''sora'' o ''suora'': concordando in essa b s ed alcuni Mss. di x, fra cui M, sembra avere il favore di tutte le tradizioni; ma per il senso è poco sodisfacente. Vero è che anche {{AutoreCitato|Lapo Gianni|Lapo Gianni}} dice della sua donna (‘Dolce il pensier’. v. 8): ''d’Amor sorella mi sembla al parlare''; ma Amore è personificazione tradizionale, non così l’Onore; e, d’altra parte, tutto il contesto dei due versi sembra portare a una frase finale che appartenga, non a ''gentil donna'', ma a ''è da laudare''. Anche quel maggiore accordo dei codici nel legger ''suora, sora'', è cosa molto incerta, perchè facile è passare a siffatta lezione così da ''fuora'', ''fora'' per la somiglianza della ''s'' con la ''f'', come da ''soura'', per il doppio valore della ''u'', se non si pensi subito a ''sovra'' e s’aspetti invece ''dopo gentil donna'' un’apposizione. Scarso, come per ''fuora'', è il fondamento ne’ Mss. (K T w) per ''sovra'', che, riferito a lodare, potrebbe dare, credo, lo stesso senso di quella prima lezione intesa al modo del Casini (è da scartare l’interpretazione del Parenti, riferita dal Torri a p. 120, secondo la quale il poeta mostrerebbe di stimare «l’avvenenza superiore all’onestà»). Ma per ''sovra'' si può far valere una considerazione. Mentre per ''fora'' e ''sora'' un senso facile e buono (a non andar tanto per la sottile) si presenta alla prima, per ''sovra'' il senso non è, se non vien fatto di riferirlo subito a ''laudare'', ovvio, nè, se s’intende come il Parenti, sodisfacente; sicché ogni copista può avere avuto la spinta a correzioni, per sè facili, come ''soura'' in ''suora'' e ''fuora'': e siamo quindi indotti ad applicare il principio della lectio ‘difficilior’, che ha in questo caso il vantaggio di avere nella tradizione manoscritta più<section end="c8" />

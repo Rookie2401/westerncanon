@@ -1,0 +1,117 @@
+[
+  {
+    "find": "find that some writers have begun with a line of Combina'",
+    "replace": "find that some writers have begun with a line of",
+    "note": "stray margin-caption fragment ('Combina-') left by auto-strip"
+  },
+  {
+    "find": "seven syHables in the traiiic style [\"40'], namely, tions",
+    "replace": "seven syllables in the tragic style [40], namely,",
+    "note": "OCR misread 'syllables', 'tragic', bracketed number; stray margin-caption fragment ('tions') removed"
+  },
+  {
+    "find": "'■-^sin",
+    "replace": "",
+    "note": "stray garbage line composed entirely of leaked margin-caption fragments"
+  },
+  {
+    "find": "Guido dei Ghisilieri and Fabruzzo, both of !\\\"^^",
+    "replace": "Guido dei Ghisilieri and Fabruzzo, both of",
+    "note": "stray margin-caption fragment removed"
+  },
+  {
+    "find": "„ , , ' the",
+    "replace": "",
+    "note": "stray garbage line composed entirely of leaked margin-caption fragments"
+  },
+  {
+    "find": "» o",
+    "replace": "",
+    "note": "stray garbage line composed entirely of leaked margin-caption fragments"
+  },
+  {
+    "find": "Bologna, as thus :",
+    "replace": "Bologna, as thus :—",
+    "note": "OCR dropped printed em dash"
+  },
+  {
+    "find": "* D't fermo sqffenre^ * ^",
+    "replace": "' Di fermo sofferire,' 1",
+    "note": "OCR badly garbled italic Italian quotation and footnote marker"
+  },
+  {
+    "find": "and, * DotiTUij lo fertuo corfy",
+    "replace": "and, ' Donna, lo fermo core,' 2",
+    "note": "OCR badly garbled italic Italian quotation and footnote marker"
+  },
+  {
+    "find": "and, * IjO meo lontano girc,^ '^",
+    "replace": "and, ' Lo meo lontano gire,' 3",
+    "note": "OCR badly garbled italic Italian quotation and footnote marker"
+  },
+  {
+    "find": "and some others also, liut if we go carefully",
+    "replace": "and some others also. But if we go carefully",
+    "note": "OCR misread 'But' (also fixed stray comma to period)"
+  },
+  {
+    "find": "faint sliadow of elegy.",
+    "replace": "faint shadow of elegy.",
+    "note": "OCR misread 'shadow'"
+  },
+  {
+    "find": "in a great poem It is sufllclcnt for a single line",
+    "replace": "in a great poem it is sufficient for a single line",
+    "note": "OCR misread 'it' and 'sufficient'"
+  },
+  {
+    "find": "tliree syllables existing on. its own account should",
+    "replace": "three syllables existing on its own account should",
+    "note": "OCR misread 'three' and added spurious period"
+  },
+  {
+    "find": "♦existing on its own account,' because it often",
+    "replace": "' existing on its own account,' because it often",
+    "note": "OCR misread opening quotation mark"
+  },
+  {
+    "find": "a])pears to have been adopted by way of a certain",
+    "replace": "appears to have been adopted by way of a certain",
+    "note": "OCR misread 'appears'"
+  },
+  {
+    "find": "in that canzone of Guido of Florence, ^ Donna",
+    "replace": "in that canzone of Guido of Florence, ' Donna",
+    "note": "OCR misread opening quotation mark"
+  },
+  {
+    "find": "tnr prc^^tiy* and in the following of ours : —",
+    "replace": "me prega,' and in the following of ours : —",
+    "note": "OCR badly garbled italic Italian words"
+  },
+  {
+    "find": "* Poschi ch^ Amor del lutto m hit lasciato.*",
+    "replace": "' Poscia ch' Amor del tutto m' ha lasciato.'",
+    "note": "OCR badly garbled italic Italian quotation"
+  },
+  {
+    "find": "ing like an echo to the rhyme ot tlie line",
+    "replace": "ing like an echo to the rhyme of the line",
+    "note": "OCR misread 'of' and 'the'"
+  },
+  {
+    "find": "^ * Of steadfast endurance.'",
+    "replace": "1 ' Of steadfast endurance.'",
+    "note": "OCR garbled footnote marker"
+  },
+  {
+    "find": "- Sec above, p. 50. ' Sec above, p. 50.",
+    "replace": "2 See above, p. 50.   3 See above, p. 50.",
+    "note": "OCR garbled footnote markers and 'See'"
+  },
+  {
+    "find": "And there the line of three syllables docs not",
+    "replace": "And there the line of three syllables does not",
+    "note": "OCR misread does (residual audit)"
+  }
+]

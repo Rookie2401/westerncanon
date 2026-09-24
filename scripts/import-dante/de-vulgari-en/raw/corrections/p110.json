@@ -1,0 +1,72 @@
+[
+  {
+    "find": "the And so it remains for us only to dwell upon",
+    "replace": "And so it remains for us only to dwell upon",
+    "note": "removed leaked margin-caption word (Of the) at line edge"
+  },
+  {
+    "find": "rhymed the mixed rhymes.",
+    "replace": "the mixed rhymes.",
+    "note": "removed leaked margin-caption word (rhymed) at line edge"
+  },
+  {
+    "find": "stanza niarked [|2o3 that in this matter almost all",
+    "replace": "marked [20] that in this matter almost all",
+    "note": "removed leaked margin-caption word (stanza); fixed misread marked and [20]"
+  },
+  {
+    "find": "who sometimes do not make all the en-lings",
+    "replace": "who sometimes do not make all the endings",
+    "note": "OCR misread endings (not a real line-break hyphenation)"
+  },
+  {
+    "find": "of the lines -hyme in the same stanza, but repeat",
+    "replace": "of the lines rhyme in the same stanza, but repeat",
+    "note": "OCR misread rhyme"
+  },
+  {
+    "find": "recited to us many good can/.oni of his own.",
+    "replace": "recited to us many good canzoni of his own.",
+    "note": "OCR misread canzoni"
+  },
+  {
+    "find": "accompanied by a rhyme C30]], which he called",
+    "replace": "accompanied by a rhyme [30], which he called",
+    "note": "OCR misread bracketed line number [30]"
+  },
+  {
+    "find": "ing it by the consonance of one or mc^rc rhynu-s.",
+    "replace": "ing it by the consonance of one or more rhymes.",
+    "note": "OCR misread more and rhymes"
+  },
+  {
+    "find": "Some poets also make the rhymes of the linos",
+    "replace": "Some poets also make the rhymes of the lines",
+    "note": "OCR misread lines"
+  },
+  {
+    "find": "following the diesis diiTercnt from the rhymes",
+    "replace": "following the diesis different from the rhymes",
+    "note": "OCR misread different"
+  },
+  {
+    "find": "of the lines preceding it [^40j ; while some do",
+    "replace": "of the lines preceding it [40] ; while some do",
+    "note": "OCR misread bracketed line number [40]"
+  },
+  {
+    "find": "former [part of the\"] stanza, and weave them",
+    "replace": "former [part of the] stanza, and weave them",
+    "note": "removed stray quote mark inside bracket"
+  },
+  {
+    "find": "coda, every wis!ied-for licence should, it seems,",
+    "replace": "coda, every wished-for licence should, it seems,",
+    "note": "OCR misread wished-for"
+  },
+  {
+    "find": "be conceded [50] ; but srill the endings- of the",
+    "replace": "be conceded [50] ; but still the endings of the",
+    "note": "OCR misread still; removed stray hyphen (not a real line-break)"
+  }
+]

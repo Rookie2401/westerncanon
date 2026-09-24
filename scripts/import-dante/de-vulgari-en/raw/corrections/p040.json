@@ -1,0 +1,122 @@
+[
+  {
+    "find": "The which is the most worthy of praise, as wc show",
+    "replace": "The which is the most worthy of praise, as we show",
+    "note": "wc -> we"
+  },
+  {
+    "find": "Apulian further on.",
+    "replace": "further on.",
+    "note": "leading 'Apulian' is leaked margin caption ('Apulian dialect')"
+  },
+  {
+    "find": "dialect \"Ylie Apulians also, because of their own",
+    "replace": "The Apulians also, because of their own",
+    "note": "leading 'dialect' is leaked margin caption; \"Ylie -> The"
+  },
+  {
+    "find": "and the people of the March []of Ancona^,",
+    "replace": "and the people of the March [of Ancona],",
+    "note": "bracketed editorial gloss misread"
+  },
+  {
+    "find": "[]6o3, * /'o/zrni che chi(in\\iesse lo (junlrdro.^ ^",
+    "replace": "[60], ' Volzera che chiangesse lo quatraro.' 1",
+    "note": "bracketed line-number and italic quoted Apulian line heavily garbled"
+  },
+  {
+    "find": "liut thou|',h the natives of Aj)ulia conunonly",
+    "replace": "But though the natives of Apulia commonly",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "language, inserting more curia/ words into their",
+    "replace": "language, inserting more curial words into their",
+    "note": "curia/ -> curial"
+  },
+  {
+    "find": "of their works, for instance, * AluJonna, Jtr vi",
+    "replace": "of their works, for instance, ' Madonna, dir vi",
+    "note": "italic canzone title garbled"
+  },
+  {
+    "find": "voglloy 2 and * Perjirw amore vo s) le! anient e.^ ^",
+    "replace": "voglio,' 2 and ' Per fino amore vo sì letamente.' 3",
+    "note": "italic canzone title and footnote markers garbled"
+  },
+  {
+    "find": "[jc'] Wherefore it should become clear to",
+    "replace": "[70] Wherefore it should become clear to",
+    "note": "bracketed line-number misread"
+  },
+  {
+    "find": "12-14. Aitor chfy etc. Amor che, etc. The open-",
+    "replace": "12-14. Ancor che, etc. Amor che, etc. The open-",
+    "note": "Aitor chfy -> Ancor che,"
+  },
+  {
+    "find": "hipf lines of tvsro canzoni by Guido delle Colonne, a",
+    "replace": "ing lines of two canzoni by Guido delle Colonne, a",
+    "note": "hipf -> ing (continuing 'open-ing'); tvsro -> two"
+  },
+  {
+    "find": "judge and notary of Messina (fl. i257.i?,88). He",
+    "replace": "judge and notary of Messina (fl. 1257-1288). He",
+    "note": "date range misread"
+  },
+  {
+    "find": "accompanied Eilward I. to England when tliat",
+    "replace": "accompanied Edward I. to England when that",
+    "note": "Eilward -> Edward; tliat -> that"
+  },
+  {
+    "find": "monarcl) was returning from cru^ude on f'le death",
+    "replace": "monarch was returning from crusade on the death",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "of Henry III. (1272), and he was the aiitiior of a",
+    "replace": "of Henry III. (1272), and he was the author of a",
+    "note": "aiitiior -> author"
+  },
+  {
+    "find": "History of Troy (loiinded on a French romance), on",
+    "replace": "History of Troy (founded on a French romance), on",
+    "note": "loiinded -> founded"
+  },
+  {
+    "find": "the strength of whicli he is commemorateti by",
+    "replace": "the strength of which he is commemorated by",
+    "note": "whicli -> which; commemorateti -> commemorated"
+  },
+  {
+    "find": "reason to think he belonged to tlie great Roman",
+    "replace": "reason to think he belonged to the great Roman",
+    "note": "tlie -> the"
+  },
+  {
+    "find": "house of Colonna. Tlie exi)ression 'weighty poetry '",
+    "replace": "house of Colonna. The expression 'weighty poetry '",
+    "note": "Tlie -> The; exi)ression -> expression"
+  },
+  {
+    "find": "refers to the dignity of its subject matter fseo bnlow",
+    "replace": "refers to the dignity of its subject matter (see below",
+    "note": "fseo bnlow -> (see below"
+  },
+  {
+    "find": "\n..... - ,-,1 -^x.- ^\"\"\n* Meaning uncfr*-'-;..-\" '",
+    "replace": "\n1 Meaning uncertain.",
+    "note": "removed a line of pure OCR noise from a diagonal crease/scratch on the scanned page (no corresponding print); recovered footnote 1 text obscured by the same mark"
+  },
+  {
+    "find": "2 •I.5''-- -.-Will tell you [how love has seized me],'",
+    "replace": "2 'Lady, I will tell you [how love has seized me].'",
+    "note": "footnote 2 text obscured by scan crease/scratch mark"
+  },
+  {
+    "find": "^...--^^' For pure love I go so joyfully.'",
+    "replace": "3 'For pure love I go so joyfully.'",
+    "note": "footnote 3 marker and text obscured by scan crease/scratch mark"
+  }
+]

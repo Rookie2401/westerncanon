@@ -1,0 +1,17 @@
+LEVEL:3
+
+<section begin="s1" />[[#libello|libello]]; e se non tutte, almeno la loro sentenzia.<section end="s1" />
+
+<section begin="s2" />Nove fiate già appresso lo mio nascimento era tornato lo 
+cielo de la luce quasi a uno medesimo punto, quanto a la sua
+propria girazione, quando a li miei occhi apparve prima la [[#gloriosa|gloriosa]] donna de la mia mente, la quale fu chiamata da molti Beatrice, [[#li|li]] quali non sapeano che si chiamare. Ella era in<section end="s2" />
+
+
+
+<section begin="c1" />{{Pt|sti|copisti}} a sostituire ad una forma letteraria la più usuale, ''asemplare'', e non ''assemprare'', parrà nel passo la forma preferibile, perchè S, e anche V, legge ''dasemplare'', M ''di <nowiki>|</nowiki> semplare'', e anche nel gruppo k troviamo ''dasemplarle'' in Am. Oltre a ciò comune è ''asemplare'' e ''asemprare'' per trascrivere, copiare codici e carte, ritrarre (''Inf''. XXIV,4); ma ''assemprare'' nel senso voluto dal Luciani non esiste: ''asembrare'' è nella stessa ''Vita Nuova'' (XXXIII 5) la forma del verbo usato a significare ‘raccogliere’. E che Dante in questo primo paragrafo intenda dire ‘ritrarre, trascrivere’ se n’ha la conferma dalla fine del § II.
+
+{{§|libello|}} La lezione assai vulgata ''libro'', invece di ''libello'', è data soltanto dal gruppo b. S’aggiunge contro di essa l’osservazione del Todeschini: «Poco prima Dante ha mentovato il ''libro della sua memoria'': al paragone di questo libro era ben giusto che l’operetta breve e d’argomento tenue ch’egli si poneva a scrivere, non fosse chiamata che ''libello''». E altre volte (avevano già avvertito gli Edd. Milanesi) Dante nella stessa ''Vita Nuova'' chiama ''libello'' questa sua opera (XXV 9; XXVIII 2). Così nel ''Conv''. (II, 2) parlando di essa: ''E sì come è ragionato per me nello allegato libello''.<section end="c1" />
+
+<section begin="c2" />{{§|gloriosa|}} {{Sc|gloriosa}}. La lezione ''graziosa'', ignota ai Mss., è dovuta allo scrupolo religioso di Serm.; cfr. l’introduz., p. [[Vita nuova/III - Edizioni#gloriosa|{{Sc|lxxix}}]].
+
+{{§|li|}} I Mss. sono concordi nella lezione ''li'' (o ''i'') ''quali non sapeano che si'' (o ''chessi'') ''chiamare'', senz’altro. Le lezioni congetturali proposte: ''e quali non sapeano che si chiamare'' (Fratic. <sup>1</sup>), ''li quali non sapeano che sì chiamare ella dirittamente si dovea'' ({{Sc|A. Borgognoni}}, ''Della lezione di un passo nella Vita Nova'', Ravenna, stamp. nazionale, 1866; ristampato in ''Scelta di scritti danteschi'' del medesimo autore, Città di Castello, Lapi, 1897, Collez. di opusc. danteschi, nº 46-48, p. 189 ss.), ''non sapeano ch'essi chiamaro'' ({{Sc|Boehmer}}, cfr. p. {{Sc|ci}}), ''li quali non sapeano che si chiamasse'' ({{Sc|De Gubernatis}} in ''Riv. Europea'', 1873, IV, 374), ''che sì si chiamasse'' ({{Sc|B. Bressan}}, appr. Todeschini, II, 9), ''che sie'' (cioè ''sia'') ''chiamare'' ({{Sc|Th. Davidsohn}}, ''Dante Textcriticism'', in ''Modern language notes'', Baltimore, 4 aprile 1887), ''che sia chiamare'' oppure ''ch’è sì chiamare'' ({{Sc|A. Tobler}} in ''Archiv f. n. Sprachen u. Litter.'', XCVIII, 219) — sono emendamenti vani, poichè la lezione dei Mss. dà un senso ragionevole: fu da molti chiamata Beatrice i quali non sapevano che si chiamare, che nome proferire<section end="c2" />

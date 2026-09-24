@@ -1,0 +1,17 @@
+[
+  {"find": "number of And just as we have said that the frontey", "replace": "And just as we have said that the fronte,", "note": "stray margin-caption fragment ('number of') removed; OCR misread trailing comma"},
+  {"find": "and [^though]] exceeded {[by the verses^] in syllables", "replace": "[though] exceeded [by the verses] in syllables", "note": "stray margin-caption fragment ('and') removed; OCR garbled brackets"},
+  {"find": "syllaDles j^^y exceed them in lines, and conversely, so we", "replace": "may exceed them in lines, and conversely, so we", "note": "stray margin-caption fragment ('syllables') removed; OCR misread 'may'"},
+  {"find": "or three verses and two feet ; nor are wc limited", "replace": "or three verses and two feet ; nor are we limited", "note": "OCR misread 'we'"},
+  {"find": "more [[503 feet as well as verses in like manner.", "replace": "more [50] feet as well as verses in like manner.", "note": "OCR garbled bracketed number [50]"},
+  {"find": "same as regards the feet and verses [[compared", "replace": "same as regards the feet and verses [compared", "note": "OCR duplicated opening bracket"},
+  {"find": "Nor must v/e omit to mention that we take", "replace": "Nor must we omit to mention that we take", "note": "OCR misread 'we'"},
+  {"find": "Nor must we [60J also omit to state again", "replace": "Nor must we [60] also omit to state again", "note": "OCR misread closing bracket"},
+  {"find": "an equality of lines and syllables, and tlieir", "replace": "an equality of lines and syllables, and their", "note": "OCR misread 'their'"},
+  {"find": "declare tliat the same rule is to be observed in", "replace": "declare that the same rule is to be observed in", "note": "OCR misread 'that'"},
+  {"find": "12-24. Trii<r^em'i,ctc. This canzone Is lost. Dante's", "replace": "22-24. Traggemi, etc. This canzone is lost. Dante's", "note": "OCR garbled note range, italic 'Traggemi, etc.', and 'is'"},
+  {"find": "practice In this chapter is not to give details as to the", "replace": "practice in this chapter is not to give details as to the", "note": "OCR misread 'in'"},
+  {"find": "ence for Iiimself. In this case, however, there seems to", "replace": "ence for himself. In this case, however, there seems to", "note": "OCR misread 'himself'"},
+  {"find": "have been a possibility of misconceiving tlie structure", "replace": "have been a possibility of misconceiving the structure", "note": "OCR misread 'the'"},
+  {"find": "In the musical setting, or else Tas Rajna suggests) the", "replace": "in the musical setting, or else (as Rajna suggests) the", "note": "OCR misread 'in' and garbled '(as Rajna suggests)'"}
+]

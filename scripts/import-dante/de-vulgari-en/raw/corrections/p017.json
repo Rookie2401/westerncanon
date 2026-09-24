@@ -1,0 +1,137 @@
+[
+  {
+    "find": "17\nIn this form of speech Adam spoke [50] ; Hebrew\n",
+    "replace": "In this form of speech Adam spoke [50] ;\n",
+    "note": "remove stray leftover printed page-number line and leaked margin word Hebrew"
+  },
+  {
+    "find": "all his descendants spoke the\n",
+    "replace": "all his descendants spoke\n",
+    "note": "remove leaked margin-caption word the"
+  },
+  {
+    "find": "of the Tower of Babel, which primitive\n",
+    "replace": "of the Tower of Babel, which\n",
+    "note": "remove leaked margin-caption word primitive"
+  },
+  {
+    "find": "is by interpretation the tower of confusion ; and ^^8^\"^S:*",
+    "replace": "is by interpretation the tower of confusion ; and",
+    "note": "remove leaked garbled margin-caption fragment (language)"
+  },
+  {
+    "find": "Hcber, who after him v/ere called Hebrews.",
+    "replace": "Heber, who after him were called Hebrews.",
+    "note": "fix Hcber->Heber, v/ere->were"
+  },
+  {
+    "find": "Wit!i them alone did it remain after the con-",
+    "replace": "With them alone did it remain after the con-",
+    "note": "fix Wit!i->With"
+  },
+  {
+    "find": "fusion, in order that our Redeemer (who wr.s,",
+    "replace": "fusion, in order that our Redeemer (who was,",
+    "note": "fix wr.s->was"
+  },
+  {
+    "find": "the lips of tiie first speaker formed.",
+    "replace": "the lips of the first speaker formed.",
+    "note": "fix tiie->the"
+  },
+  {
+    "find": "7. See above, V. i^n.",
+    "replace": "7. See above, V. 13n.",
+    "note": "fix garbled i^n->13n"
+  },
+  {
+    "find": "10. Pictrainala was a villaj^e in tlie Apennines,",
+    "replace": "10. Pietramala was a village in the Apennines,",
+    "note": "fix Pictrainala->Pietramala, villaj^e->village, tlie->the"
+  },
+  {
+    "find": "about tWMtity miles soutli of Bologna. Fraticelli",
+    "replace": "about twenty miles south of Bologna. Fraticelli",
+    "note": "fix tWMtity->twenty, soutli->south"
+  },
+  {
+    "find": "quotes a similar ironical sayinp^ about another in-",
+    "replace": "quotes a similar ironical saying about another in-",
+    "note": "fix sayinp^->saying"
+  },
+  {
+    "find": "signifjcant place: ' So and so has travelled a great",
+    "replace": "significant place: ' So and so has travelled a great",
+    "note": "fix signifjcant->significant"
+  },
+  {
+    "find": "19. Compare l)elo\\v, I. 8 : 13; ConvivloAV. i.t: nS '\nyKr/^/.-/, VII. 715. ^ '",
+    "replace": "19. Compare below, I. 8 : 13; Convivio, IV. 14 : 116;\nÆneid, VII. 715.",
+    "note": "fix garbled note 19 citation"
+  },
+  {
+    "find": "22. Compare Convhto, II. 12 : 4, where Dante speaks",
+    "replace": "22. Compare Convivio, II. 12 : 4, where Dante speaks",
+    "note": "fix Convhto->Convivio"
+  },
+  {
+    "find": "of the 'face ' of his discourse, and below, Epi,tU VI ■",
+    "replace": "of the 'face' of his discourse, and below, Epistle VI.",
+    "note": "fix Epi,tU->Epistle and stray square glyph after VI"
+  },
+  {
+    "find": "45. By « construction * Dante means the grammati-",
+    "replace": "45. By 'construction' Dante means the grammati-",
+    "note": "fix garbled quote marks around construction"
+  },
+  {
+    "find": "cal arrangement of words in sentences (see below, 11.",
+    "replace": "cal arrangement of words in sentences (see below, II.",
+    "note": "fix 11.->II."
+  },
+  {
+    "find": "means t!ie pronunciation.",
+    "replace": "means the pronunciation.",
+    "note": "fix t!ie->the"
+  },
+  {
+    "find": "61. 'riie statement here made as to the permanency",
+    "replace": "61. The statement here made as to the permanency",
+    "note": "fix garbled The"
+  },
+  {
+    "find": "of the la:;gu.i,-e spoken by Adam and repeated below.",
+    "replace": "of the language spoken by Adam and repeated below,",
+    "note": "fix garbled language and period->comma"
+  },
+  {
+    "find": "I. 7 : 61 ft. ; 9 : 51, cannot be reconciled with Para-",
+    "replace": "I. 7 : 61 ff. ; 9 : 51, cannot be reconciled with Para-",
+    "note": "fix ft.->ff."
+  },
+  {
+    "find": "<r,.«>j XXVI. 124-126, wliere we are told that the",
+    "replace": "diso, XXVI. 124-126, where we are told that the",
+    "note": "fix garbled completion of Paradiso (diso,) and wliere->where"
+  },
+  {
+    "find": "before tlie building of Babel; and we must accord-",
+    "replace": "before the building of Babel; and we must accord-",
+    "note": "fix tlie->the"
+  },
+  {
+    "find": "change by the time he was working at the P^r.iJho.",
+    "replace": "change by the time he was working at the Paradiso.",
+    "note": "fix garbled Paradiso"
+  },
+  {
+    "find": "passage in the Para<i'i:o was inserted expressly to",
+    "replace": "passage in the Paradiso was inserted expressly to",
+    "note": "fix garbled Paradiso"
+  },
+  {
+    "find": "in tliis form of speech all his descendants spoke",
+    "replace": "in this form of speech all his descendants spoke",
+    "note": "OCR misread this (residual audit)"
+  }
+]

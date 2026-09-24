@@ -1,0 +1,117 @@
+[
+  {
+    "find": "Pistoja (see //^ir/zo, XXIV. 126; XXV. 10-12J was",
+    "replace": "Pistoja (see Inferno, XXIV. 126; XXV. 10-12) was",
+    "note": "Inferno garbled; closing bracket misread as J"
+  },
+  {
+    "find": "no doubt due to the fact of its haviiij^ Iieen the phice",
+    "replace": "no doubt due to the fact of its having been the place",
+    "note": "having/been/place garbled"
+  },
+  {
+    "find": "whore tlie feud of the Bianchi and Neri I)eo;an, which",
+    "replace": "where the feud of the Bianchi and Neri began, which",
+    "note": "where/the/began garbled"
+  },
+  {
+    "find": "was the source of the tr(nil)les that devastated",
+    "replace": "was the source of the troubles that devastated",
+    "note": "tr(nil)les -> troubles"
+  },
+  {
+    "find": "{Crossinj^ the Apennines, the author notices the pre-",
+    "replace": "[Crossing the Apennines, the author notices the pre-",
+    "note": "opening brace should be bracket; Crossinj^ -> Crossing"
+  },
+  {
+    "find": "valence of two alternalinij types of tlialect, one",
+    "replace": "valence of two alternating types of dialect, one",
+    "note": "alternating/dialect garbled"
+  },
+  {
+    "find": "diblMif;uished by its softness, the other by its",
+    "replace": "distinguished by its softness, the other by its",
+    "note": "diblMif;uished -> distinguished"
+  },
+  {
+    "find": "harshness ; the first j>rcvails in Ronin-^na ; the",
+    "replace": "harshness ; the first prevails in Romagna ; the",
+    "note": "prevails/Romagna garbled"
+  },
+  {
+    "find": "second in Ihescia, V'eronn, X'icenza, Pachia, and",
+    "replace": "second in Brescia, Verona, Vicenza, Padua, and",
+    "note": "place names garbled"
+  },
+  {
+    "find": "Trcviso ; both arc rejected, as is also the dialect",
+    "replace": "Treviso ; both are rejected, as is also the dialect",
+    "note": "Trcviso -> Treviso; arc -> are"
+  },
+  {
+    "find": "Two ^-'^■''' \"5 \"^^^ cross the leaf-clad shoulders of the",
+    "replace": "LET us now cross the leaf-clad shoulders of the",
+    "note": "leading 'Two' is leaked margin caption ('Two types of dialect in Italy'); 'LET us now' garbled"
+  },
+  {
+    "find": "of Apennines, and liunt inquiringly, as we are wont,",
+    "replace": "Apennines, and hunt inquiringly, as we are wont,",
+    "note": "leading 'of' is leaked margin caption fragment ('types of'); liunt -> hunt"
+  },
+  {
+    "find": "in over the left side of Italy, beginning from the",
+    "replace": "over the left side of Italy, beginning from the",
+    "note": "leading 'in' is leaked margin caption fragment ('dialect in')"
+  },
+  {
+    "find": "Italy ^,,^3^^",
+    "replace": "east.",
+    "note": "leading 'Italy' is leaked margin caption; remainder is the garbled word 'east.'"
+  },
+  {
+    "find": "smooth Entering Romagna, then, we rem irk that we",
+    "replace": "Entering Romagna, then, we remark that we",
+    "note": "leading 'smooth' is leaked margin caption ('(1) the smooth'); rem irk -> remark"
+  },
+  {
+    "find": "dialect with certain opjjosite characteristics in",
+    "replace": "dialect with certain opposite characteristics in",
+    "note": "opjjosite -> opposite"
+  },
+  {
+    "find": "which they respectively agree. One of thc«e,",
+    "replace": "which they respectively agree. One of these,",
+    "note": "thc«e, -> these,"
+  },
+  {
+    "find": "nunciation, seems so feminine [^loj that it causes",
+    "replace": "nunciation, seems so feminine [10] that it causes",
+    "note": "bracketed line-number misread"
+  },
+  {
+    "find": "believed to be a v/oman. This tv])e of dialect",
+    "replace": "believed to be a woman. This type of dialect",
+    "note": "woman/type garbled"
+  },
+  {
+    "find": "These pco])le say dcusci in affirmation, and uf^e",
+    "replace": "These people say deusci in affirmation, and use",
+    "note": "people/deusci/use garbled"
+  },
+  {
+    "find": "* Orlo meo ' ^ and ' Conida trier. ' - as terms of",
+    "replace": "' Oclo meo' 1 and ' Corada mea' 2 as terms of",
+    "note": "italic dialect terms and footnote markers heavily garbled"
+  },
+  {
+    "find": "endearment. ^Ve have heard that some of them",
+    "replace": "endearment. We have heard that some of them",
+    "note": "^Ve -> We"
+  },
+  {
+    "find": "1 «My eye.' 2 <Wy heart.'",
+    "replace": "1 ' My eye.' 2 ' My heart.'",
+    "note": "quote marks garbled"
+  }
+]

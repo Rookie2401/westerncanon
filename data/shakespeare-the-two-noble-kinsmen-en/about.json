@@ -1,0 +1,51 @@
+{
+  "workId": "shakespeare-the-two-noble-kinsmen-en",
+  "title": "The Two Noble Kinsmen",
+  "author": "William Shakespeare",
+  "language": "en",
+  "edition": "The Globe Edition of the Works of William Shakespeare, ed. William George Clark & William Aldis Wright (Cambridge/London: Macmillan, 1864/1866), by way of the \"Moby Shakespeare\" re-keying (released to the public domain, 1995); transcribed as Project Gutenberg eBook #100, \"The Complete Works of William Shakespeare\" (first released 1994-01-01; most recently updated 2025-08-24).",
+  "provenance": "Project Gutenberg eBook #100, \"The Complete Works of William Shakespeare\" (source heading \"THE TWO NOBLE KINSMEN\"); imported by scripts/import-shakespeare.",
+  "license": "Public domain. Shakespeare’s plays and poems (author d. 1616); the Globe edition’s text (Clark & Wright, 1864/1866, both long deceased); and the \"Moby Shakespeare\" digital transcription (explicitly released to the public domain, 1995). Project Gutenberg’s own eBook #100 is distributed \"for the use of anyone anywhere... with almost no restrictions whatsoever\" under the terms of the Project Gutenberg License (see gutenberg.org/policy/license.html); no additional restriction is added here.",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "This is the text of The Two Noble Kinsmen as printed in Project Gutenberg's \"The Complete Works of William Shakespeare\" (eBook #100), source heading \"THE TWO NOBLE KINSMEN\".",
+        "The text here is verbatim: nothing is modernised, paraphrased, or silently corrected. Archaic spellings, elisions, and apostrophe forms (\"’d\", \"’t\", etc.) are kept exactly as printed."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "The Globe Edition of the Works of William Shakespeare, ed. William George Clark & William Aldis Wright (Cambridge/London: Macmillan, 1864/1866), by way of the \"Moby Shakespeare\" re-keying (released to the public domain, 1995); transcribed as Project Gutenberg eBook #100, \"The Complete Works of William Shakespeare\" (first released 1994-01-01; most recently updated 2025-08-24).",
+        "See this batch’s importer (scripts/import-shakespeare/index.ts) module doc for exactly what the eBook’s own file header states versus what is externally documented about its textual ancestry (the Globe/Moby lineage) - the two are kept distinct, not conflated."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is Project Gutenberg eBook #100, fetched once (raw/pg100.txt) and bundled with the app; nothing is loaded from the network at runtime. The PG licence header (before \"*** START OF THE PROJECT GUTENBERG EBOOK ***\") and footer (after \"*** END OF THE PROJECT GUTENBERG EBOOK ***\") are stripped as transport boilerplate, not part of the literary text; nothing else is removed."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "This play has 5 act(s) / 24 scene(s) (source Contents: 7 top-level entries, 24 scene lines). Divisions: a `dramatis-personae` division (the printed cast list, plus the play’s own whole-play \"SCENE.\" setting note, appended as the list’s final line - the source prints it immediately after the cast with no heading of its own), then one Division per ACT (id `act-N`) or per bare PROLOGUE/EPILOGUE/INDUCTION label the source places at the top level, each with `<id>-scene-M` children for its printed SCENE headings.",
+        "Every Passage is one speech: the speaker’s name exactly as printed (all capitals, trailing period) on its own first line, then the speech. A speech is classified as verse (kept one printed line per \"\\n\") unless an interior line begins with a lowercase letter, which only happens in this transcription when a PROSE paragraph was mechanically word-wrapped at the plain-text file’s column width (verified by direct inspection: this typesetting convention capitalises the first word of every real verse line regardless of grammar); prose speeches are then reflowed to a single paragraph (space-joined), collapsing that wrap artifact rather than preserving it as a false line break. A stand-alone stage direction (an \"Enter\"/\"Exit\"/\"Exeunt\"/\"Re-enter\"/similar block, or a bracketed \"[...]\" direction) is its own Passage with no speaker line; a direction printed inline within a speech (e.g. \"[Aside.]\" prefixed to a dialogue line) stays inline, on that line, exactly as printed. PG100’s own underscore italic markers (\"_..._\") are unwrapped (they are transcription markup for italic type, not literal underscores or printed text); real printed brackets around a stage direction are kept.",
+        "Passage.n is '' and ref is null throughout this batch: the Globe text prints no citable line numbers for its plays, Sonnets, or most poems."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "This edition prints no line-citable reference scheme; Division.number carries the act/scene/sonnet/part number as printed (arabic), and Division.ref/Passage.ref are always null."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "Completeness. 0 anomalies are logged for this work - see anomalies.json for the full list. Nothing is dropped, merged, or reordered beyond what is documented there and above."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "find": "The But because the business of every science is not",
+    "replace": "But because the business of every science is not",
+    "note": "leading 'The' is a leaked fragment of the adjacent margin caption ('The subject defined'), not part of the sentence"
+  },
+  {
+    "find": "^i to prove but to explain its subject, in order that",
+    "replace": "to prove but to explain its subject, in order that",
+    "note": "leading garbled characters are a leaked margin-caption fragment ('subject'), not printed body text"
+  },
+  {
+    "find": "men may know what iliat is [20] with which",
+    "replace": "men may know what that is [20] with which",
+    "note": "OCR misread 'that'"
+  },
+  {
+    "find": "those who are about them when they first bcpin",
+    "replace": "those who are about them when they first begin",
+    "note": "OCR misread 'begin'"
+  },
+  {
+    "find": "we acquire without any rule, by imitatin;; our",
+    "replace": "we acquire without any rule, by imitating our",
+    "note": "OCR misread 'imitating'"
+  },
+  {
+    "find": "nurses. Tiiere further springs from this another",
+    "replace": "nurses. There further springs from this another",
+    "note": "OCR misread 'There'"
+  },
+  {
+    "find": "secondary s]>eech, which the Romans called",
+    "replace": "secondary speech, which the Romans called",
+    "note": "OCR misread 'speech'"
+  },
+  {
+    "find": "grammar. And this [30^ secondary speech",
+    "replace": "grammar. And this [30] secondary speech",
+    "note": "OCR garbled closing bracket"
+  },
+  {
+    "find": "the Greeks aljo have, as well as otliers, but not",
+    "replace": "the Greeks also have, as well as others, but not",
+    "note": "OCR misread 'also'/'others'"
+  },
+  {
+    "find": "sj)ecch, because we can only be guided and",
+    "replace": "speech, because we can only be guided and",
+    "note": "OCR misread 'speech'"
+  },
+  {
+    "find": "by the human race, as because the v/hole world",
+    "replace": "by the human race, as because the whole world",
+    "note": "OCR misread 'whole'"
+  },
+  {
+    "find": "' It is also the nobler as being natural to us,",
+    "replace": "It is also the nobler as being natural to us,",
+    "note": "stray leading quote/ink-speck artifact, no corresponding printed punctuation"
+  },
+  {
+    "find": "whereas the other is [^403 rather of an artificial",
+    "replace": "whereas the other is [40] rather of an artificial",
+    "note": "OCR garbled bracketed number"
+  },
+  {
+    "find": "Tlie orij^inal chapter heaJinp^s, wliich arc not by",
+    "replace": "The original chapter headings, which are not by",
+    "note": "OCR misread 'The'/'original'/'headings'/'which'/'are'"
+  },
+  {
+    "find": "the hand of Dante and are inadctiuate and sometimes",
+    "replace": "the hand of Dante and are inadequate and sometimes",
+    "note": "OCR misread 'inadequate'"
+  },
+  {
+    "find": "contents prefixed to each cliaptcr. When in tlie",
+    "replace": "contents prefixed to each chapter. When in the",
+    "note": "OCR misread 'chapter'/'the'"
+  },
+  {
+    "find": "notes appended to each chapter citations of passaj^es",
+    "replace": "notes appended to each chapter citations of passages",
+    "note": "OCR misread 'passages'"
+  },
+  {
+    "find": "from the D'lilna C;'wot<:.//.; and the Cow-v/'-j/ci are followed",
+    "replace": "from the Divina Commedia and the Convivio are followed",
+    "note": "OCR badly garbled the italicized work titles 'Divina Commedia' and 'Convivio'"
+  },
+  {
+    "find": "by the letter /;., it is to be understood that the notes to",
+    "replace": "by the letter n., it is to be understood that the notes to",
+    "note": "OCR misread italic 'n.'"
+  }
+]

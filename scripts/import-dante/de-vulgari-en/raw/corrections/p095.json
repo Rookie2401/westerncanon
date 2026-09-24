@@ -1,0 +1,77 @@
+[
+  {
+    "find": "to act on some one else ; and so in the first case Mean-",
+    "replace": "to act on some one else ; and so in the first case",
+    "note": "removes marginal shoulder-caption leak (\"Mean-\") at line-end"
+  },
+  {
+    "find": "it appears to be tlic action of some one, and in the i^S-\"^",
+    "replace": "it appears to be the action of some one, and in the",
+    "note": "misread the; removes marginal shoulder-caption leak (\"ings of\") at line-end"
+  },
+  {
+    "find": "second it [303 also appears to he the passion of <^^^^one",
+    "replace": "second it [30] also appears to be the passion of",
+    "note": "misread bracketed number/be; removes marginal shoulder-caption leak (\"'canzone'\") at line-end"
+  },
+  {
+    "find": "the proof of this is, thnt we never say * This is",
+    "replace": "the proof of this is, that we never say 'This is",
+    "note": "misread that; asterisk misread of opening quote"
+  },
+  {
+    "find": "Moreover, we must discuss the question\"^",
+    "replace": "Moreover, we must discuss the question",
+    "note": "stray glyphs removed"
+  },
+  {
+    "find": "the words which are set to music, or [^403 the",
+    "replace": "the words which are set to music, or [40] the",
+    "note": "misread bracketed number"
+  },
+  {
+    "find": "music itself; and, v/ith regard to this, we say '",
+    "replace": "music itself; and, with regard to this, we say",
+    "note": "misread with; stray quote mark removed"
+  },
+  {
+    "find": "that no music [^alonej is ever called a canzone,",
+    "replace": "that no music [alone] is ever called a canzone,",
+    "note": "misread bracket"
+  },
+  {
+    "find": "canzoni. And siich words, even when written",
+    "replace": "canzoni. And such words, even when written",
+    "note": "misread such"
+  },
+  {
+    "find": "we call canzoni ; and therefore [50]] a canzone",
+    "replace": "we call canzoni ; and therefore [50] a canzone",
+    "note": "doubled bracket"
+  },
+  {
+    "find": "Vv'herefore we shall call canzoni not only the",
+    "replace": "Wherefore we shall call canzoni not only the",
+    "note": "misread Wherefore"
+  },
+  {
+    "find": "b:illate 'and sonnets, and all words of whatever",
+    "replace": "ballate and sonnets, and all words of whatever",
+    "note": "misread ballate; stray quote mark removed"
+  },
+  {
+    "find": "and in Latin. I^ut, inasmuch as we arc only",
+    "replace": "and in Latin. But, inasmuch as we are only",
+    "note": "misread But/are"
+  },
+  {
+    "find": "[603 we call canzone by super-excellence.",
+    "replace": "[60] we call canzone by super-excellence.",
+    "note": "misread bracketed number"
+  },
+  {
+    "find": "'Now the supremacy of the canzone has been",
+    "replace": "Now the supremacy of the canzone has been",
+    "note": "stray leading quote mark removed"
+  }
+]

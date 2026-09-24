@@ -75,7 +75,12 @@ export type Shape =
   | { kind: 'flat-paragraph'; wrapperSubtype: string }
   | { kind: 'book-chapter'; bookSubtype: string; chapterSubtype: string }
   | { kind: 'book-chapter-filtered'; filterSubtype: string; filterN: string; bookSubtype: string; chapterSubtype: string }
-  | { kind: 'book-page'; bookSubtype: string; pageSubtype: string };
+  | { kind: 'book-page'; bookSubtype: string; pageSubtype: string }
+  /** Mechanica only: the source's `chapter` divs are the traditional
+   *  numbered Problems (n="0" = the unnumbered preface), each holding its own
+   *  restarting `section` numbering -> `preface`/`preface-ch-M` and
+   *  `problem-N`/`problem-N-ch-M` (globally unique ids). */
+  | { kind: 'problem-section'; problemSubtype: string; sectionSubtype: string };
 
 export type Authenticity = 'authentic' | 'disputed' | 'pseudo';
 
@@ -693,11 +698,11 @@ export const WORKS: readonly WorkEntry[] = [
     englishBundledConcurrently: false,
     englishNote:
       'No English translation is bundled: the only public-domain English translation (E. S. Forster, 1913, in the Ross-edited "Works of Aristotle" series) exists today only as unproofread OCR of a scanned printing, which this library does not ship as reading text; a proofread source may be added later.',
-    shape: { kind: 'flat-chapter', chapterSubtype: 'section' },
-    expectedBooks: null,
+    shape: { kind: 'problem-section', problemSubtype: 'chapter', sectionSubtype: 'section' },
+    expectedBooks: 36,
     expectedChapters: 158,
     bibliographicNote:
-      'This source wraps its ENTIRE text in a single `chapter n="0"` div with no further division into the traditional ~35 numbered "problems" - only a flat, continuously-incrementing `section` numbering (1-158) survives beneath it. The wrapper is transparently skipped (see shapes.ts#findAllBySubtype) and `section` is used as the flat chapter unit; the traditional problem numbering is not recoverable from this transcription and is not fabricated here.',
+      'This source divides the work into 36 `chapter` divs numbered n="0" to n="35": n="0" is the treatise\'s unnumbered preface (13 sections) and n="1"-"35" are the traditional numbered Problems, each holding its own `section` numbering that restarts at 1 (158 sections in all). They are imported as a two-level tree - a "Preface" division and Problems 1-35, each with its sections as leaves (ids `preface-ch-M`, `problem-N-ch-M`) - so every division id is unique. (An earlier build of this library folded the sections into one flat `ch-N` list, which silently produced duplicate ids because the section numbers restart in every problem; that is what the two-level scheme replaces.)',
   },
   {
     workId: 'problemata-grc',

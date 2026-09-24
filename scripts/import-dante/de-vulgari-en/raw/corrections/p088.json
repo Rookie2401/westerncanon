@@ -1,0 +1,142 @@
+[
+  {
+    "find": "Classical highest except by examples of this kind. And",
+    "replace": "highest except by examples of this kind. And",
+    "note": "removes marginal shoulder-caption leak (\"Classical models\") at line-start"
+  },
+  {
+    "find": "models jt would possibly be very useful in orticr to the",
+    "replace": "it would possibly be very useful in order to the",
+    "note": "removes marginal caption leak; misread it/order"
+  },
+  {
+    "find": "surveyed the regular poets, I mean [^80]] Virgil,",
+    "replace": "surveyed the regular poets, I mean [80] Virgil,",
+    "note": "misread bracketed number"
+  },
+  {
+    "find": "Ovid in his ]\\IetamorpljoscSy St:itius, and Lucan,",
+    "replace": "Ovid in his Metamorphoses, Statius, and Lucan,",
+    "note": "misread Metamorphoses/Statius"
+  },
+  {
+    "find": "as well as other writers who have em])loyed the",
+    "replace": "as well as other writers who have employed the",
+    "note": "misread employed"
+  },
+  {
+    "find": "most loftv ])rose, as Titus Livius, Pliny,",
+    "replace": "most lofty prose, as Titus Livius, Pliny,",
+    "note": "misread lofty/prose"
+  },
+  {
+    "find": "Let, then, those foliov/ers of ignorance hold their",
+    "replace": "Let, then, those followers of ignorance hold their",
+    "note": "misread followers"
+  },
+  {
+    "find": "pence who praise up Guittone of Arezzo and",
+    "replace": "peace who praise up Guittone of Arezzo and",
+    "note": "misread peace"
+  },
+  {
+    "find": "16. By 'a rep^nlated arrangement of words,* and",
+    "replace": "16. By 'a regulated arrangement of words,' and",
+    "note": "misread regulated; asterisk misread of closing quote"
+  },
+  {
+    "find": "♦words arranged by rule,' Dante means a sentence free",
+    "replace": "'words arranged by rule,' Dante means a sentence free",
+    "note": "stray glyph misread of opening quote"
+  },
+  {
+    "find": "from barbarisms, i.e. errors in single words (lJ()limer. )",
+    "replace": "from barbarisms, i.e. errors in single words (Böhmer.)",
+    "note": "misread Böhmer; stray space before close paren"
+  },
+  {
+    "find": "17 ff. By a ' congruous construction Dante means",
+    "replace": "17 ff. By a 'congruous construction' Dante means",
+    "note": "dropped closing quote mark"
+  },
+  {
+    "find": "(Buhmer).",
+    "replace": "(Böhmer).",
+    "note": "misread Böhmer"
+  },
+  {
+    "find": "20. ' ]lei^iniiin^ of our Jistinctiun,^ The reference is to",
+    "replace": "20. 'Beginning of our distinction.' The reference is to",
+    "note": "misread Beginning/distinction; wrong closing punctuation"
+  },
+  {
+    "find": "42-44' I^auJahilis Jiscrelio miirchioiiit F.siensis et sijii",
+    "replace": "42-44. Laudabilis discretio marchionis Estensis et sua",
+    "note": "heavily garbled Latin"
+  },
+  {
+    "find": "ma^niijicentia prepurata cunctit ilium fucit eue dilectum.",
+    "replace": "magnificentia preparata cunctis illum facit esse dilectum.",
+    "note": "heavily garbled Latin"
+  },
+  {
+    "find": "With a comma after f//«f//«r the meaning is as in tlie",
+    "replace": "With a comma after cunctis the meaning is as in the",
+    "note": "misread cunctis/the"
+  },
+  {
+    "find": "text. With a comma :s.{tKX prepiiruta the meaning is,",
+    "replace": "text. With a comma after preparata the meaning is,",
+    "note": "misread after/preparata"
+  },
+  {
+    "find": "'The praiseworthy discernment of the Alanpiis of",
+    "replace": "'The praiseworthy discernment of the Marquis of",
+    "note": "misread Marquis"
+  },
+  {
+    "find": "32-50. Tiie four typical sentences here given by",
+    "replace": "32-50. The four typical sentences here given by",
+    "note": "misread The"
+  },
+  {
+    "find": "Saintsbury as follows: (i) Slieer jnose ; (2) I'.flbrts",
+    "replace": "Saintsbury as follows: (1) Sheer prose ; (2) Efforts",
+    "note": "misread numeral/Sheer/prose/Efforts"
+  },
+  {
+    "find": "at style; (3) Ornate prose witliout mucli distinction ;",
+    "replace": "at style; (3) Ornate prose without much distinction ;",
+    "note": "misread without/much"
+  },
+  {
+    "find": "(4) Style achieved. The last tliree of the sentences",
+    "replace": "(4) Style achieved. The last three of the sentences",
+    "note": "misread three"
+  },
+  {
+    "find": "^ are significant. The first of them contains a",
+    "replace": "are significant. The first of them contains a",
+    "note": "stray leading caret removed"
+  },
+  {
+    "find": "pathetic allusion to the author's exile. The seconil,",
+    "replace": "pathetic allusion to the author's exile. The second,",
+    "note": "misread second"
+  },
+  {
+    "find": "ba!)ly alludes to t!:e welcome given by A/.zo",
+    "replace": "bably alludes to the welcome given by Azzo",
+    "note": "misread bably/the/Azzo"
+  },
+  {
+    "find": "VlII., Marquis of Este, to Charles of Valois in",
+    "replace": "VIII., Marquis of Este, to Charles of Valois in",
+    "note": "misread roman numeral VIII"
+  },
+  {
+    "find": "a sentence Iree from solecisms, i.e. errors in syntax",
+    "replace": "a sentence free from solecisms, i.e. errors in syntax",
+    "note": "misread free"
+  }
+]

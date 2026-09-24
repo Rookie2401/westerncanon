@@ -1,0 +1,18 @@
+[
+  {"find": "Comblna- style, the line of eleven syllables deserves, on", "replace": "style, the line of eleven syllables deserves, on", "note": "stray margin-caption fragment ('Combina-') left by auto-strip"},
+  {"find": "IhiTs ^^^^°\"\"\\ of ^ certain excellence, the privilege of", "replace": "account of a certain excellence, the privilege of", "note": "line badly garbled by leaked margin-caption text mixed with OCR misreads"},
+  {"find": "thestanza J^''^^^'^^'\"^\"^^\" '\" '^^ structure [of the stanza].", "replace": "predominance in the structure [of the stanza].", "note": "stray margin-caption fragment ('the stanza') left by auto-strip, plus badly garbled OCR"},
+  {"find": "as this one of Guido of Florence :", "replace": "as this one of Guido of Florence :—", "note": "OCR dropped printed em dash"},
+  {"find": "* Donna me prepay perch* I'o vo^/io dire.* 1", "replace": "' Donna me prega, perch' io voglio dire.' 1", "note": "OCR badly garbled italic Italian quotation"},
+  {"find": "* Donne ch* avete inleUecto iV unwre* 2", "replace": "' Donne ch' avete intellecto d'amore.' 2", "note": "OCR badly garbled italic Italian quotation"},
+  {"find": "poetry in the vernacular of oc. Ainieric de", "replace": "poetry in the vernacular of oc. Aimeric de", "note": "OCR misread 'Aimeric'"},
+  {"find": "Bclenoi [has written] —", "replace": "Belenoi [has written] —", "note": "OCR misread 'Belenoi'"},
+  {"find": "* Niils horn non pot compUr adrechamen* 3", "replace": "' Nuls hom non pot complir adrechamen.' 3", "note": "OCR badly garbled italic Provencal quotation"},
+  {"find": "be except where there is a froute or a coda,", "replace": "be except where there is a fronte or a coda,", "note": "OCR misread 'fronte'"},
+  {"find": "an equality of h\"nes and syllables is observed.", "replace": "an equality of lines and syllables is observed.", "note": "OCR misread 'lines'"},
+  {"find": "odd number of lines where there is no fronle or", "replace": "odd number of lines where there is no fronte or", "note": "OCR misread 'fronte'"},
+  {"find": "woven together with two, three, four, or' five", "replace": "woven together with two, three, four, or five", "note": "stray trailing apostrophe removed"},
+  {"find": "the lines of eleven syllables prcdommate ' in", "replace": "the lines of eleven syllables predominate in", "note": "OCR misread 'predominate' and dropped stray apostrophe"},
+  {"find": "» 'A lady prays me, therefore I will speak.'", "replace": "1 ' A lady prays me, therefore I will speak.'", "note": "OCR garbled footnote marker"},
+  {"find": "' See shove, p. 96. ? iJce above, p, 87,", "replace": "2 See above, p. 96.   3 See above, p. 87.", "note": "OCR garbled footnote markers and 'above'"}
+]

@@ -1,0 +1,18 @@
+LEVEL:3
+
+{{RigaIntestazione||{{Sc|vita nuova iii}} 7 - 10|10|riga=si}}
+
+<section begin="s3" />gendo, si ricogliea questa donna ne le sue braccia, e con essa mi parea che si ne gisse verso lo cielo; onde io sostenea sì grande angoscia, che lo mio deboletto sonno non poteo sostenere, anzi si ruppe e fui disvegliato. E mantenente cominciai a pensare, e trovai che l’ora ne la quale m’era questa visione apparita, era la quarta de la notte stata; sì che appare manifestamente ch’ella fue la prima ora de le nove ultime ore de la notte. Pensando io a ciò che m’era apparato, propuosi di farlo sentire a molti, li quali erano famosi trovatori in quello tempo: e con ciò fosse cosa che io avesse già veduto per me medesimo l’arte del dire parole per rima, propuosi di faro uno sonetto, ne lo quale io salutasse tutti li fedeli d’Amore; e pregandoli che giudicassero la mia visione, scrissi a loro ciò che io avea nel mio sonno veduto. E cominciai allora questo sonetto, lo quale comincia: ''A ciascun’alma presa''.
+
+
+<poem>
+A ciascun’alma presa e gentil core
+    nel cui cospetto ven lo dir presente,
+    [[#in ciò|in ciò]] che mi [[#rescrivan suo|rescrivan suo]] parvente,
+    salute in lor segnor, cioè Amore.
+</poem><section end="s3" />
+
+
+<section begin="c3" />{{§|in ciò|}}{{Sc|in ciò}}. Questa è la lezione dei Mss., e così ebbero le prime stampe sino al Fraticelli, che giudicò «lezione da preferirsi» ''a ciò'' (''Ragionamento sulle rime di Dante'', nel t. I delle ''Opere minori'', Firenze 1834, p. {{Sc|cclxv}}), e la introdusse nel testo sin dalla sua 1ª edizione. E fu seguito da tutti gli editori dipoi, eccettuato il Beck, parendo loro (e anche al Todeschini) erronea la lezione dei codici. Il Casini: «essendo qui espresso un rapporto finale, parve necessaria la correzione già introdotta dal Torri [anzi dal Fraticelli, come abbiam visto], la quale è già in alcuni Mss.». In Mss. tardi, però, e di rime varie (Laur. LXI, 20 e Magl. VII, 1108 citati dal Fratic. e Mgl. VII, 1060), e di quelli della ''Vita Nuova'', oltre al cit. Laur. XLI, 20, soltanto in Pal. 204, e anche qui per correzione. Nè vediamo per qual ragione ''in ciò'' che non possa esprimere un rapporto finale, quando si piega a esprimere sin quello causale, e scorgiamo ''a ciò che'' indicare così bene rapporti di causalità come di finalità. Sono congiunzioni queste, come anche ''perchè, però che, per ciò che'' assai compiacenti: non facciamo loro torti.
+
+{{§|rescrivan suo|}} {{Sc|rescrivan suo}}. La lezione di Cas. e Pass. ''rescriva in su'', e di Beck ''rescriva ’n  su’'', deriva da K: ''rescriua insu'' (T: rescriua<section end="c3" />

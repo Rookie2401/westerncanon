@@ -1,0 +1,16 @@
+LEVEL:3
+
+
+<section begin="s12" />lacrimare, misimi ne la mia camera, là ov’io potea lamentarmi sanza essere udito. E quivi chiamando misericordia a la donna de la cortesia, e dicendo «Amore, aiuta lo tuo fedele», m’adormentai come uno pargoletto battuto lagrimando. Avenne quasi nel mezzo de lo mio dormire che me parve vedere ne la mia camera lungo me sedere uno giovane vestito di bianchissime vestimento, e, pensando molto quanto a la vista sua, mi riguardava là ov’io giacca; e quando m’avea guardato alquanto, pareami che sospirando mi chiamasse, e diceami queste parole: «Fili mi, tempus est ut pretermictantur [[#simulacra|simulacra]] nostra». Allora mi parea che io lo conoscesse, però che mi chiamava così come assai fiate ne li miei [[#sonni|sonni]] m’avea già chiamato; e riguardandolo, parvemi che piangesse pietosamente, e parea che attendesse da me alcuna parola; ond’io, assicurandomi, cominciai a parlare così con esso: «Segnore de la nobiltade, e perché piangi tu?». E quelli mi dicea queste parole: «Ego tamquam centrum circuli, cui simili modo se habent circumferentie partes; tu autem non sic». Allora, pensando a le sue parole, mi parea che m’avesse parlato molto oscuramente, sì ch’io mi sforzava di parlare, e diceali queste parole: «Che è ciò, segnore, che mi parli con tanta oscuritade?». E quelli mi dicea in parole volgari: «Non dimandare più che utile ti sia».
+<section end="s12" />
+
+
+<section begin="c11" />{{AutoreCitato|Chiaro Davanzati|{{Sc|Chiaro Davanzati}}}}, ‘Di lungia parte’), v. 47: ''E par che ne soleni mia pesanza''; n° cclxxxxv ({{Sc|Neri}}, ‘Crudel affanno’), v. 42 ''E sollenar lo foco | che m’arde a poco a poco''.<section end="c11" />
+
+<section begin="c12" />{{§|simulacra|}}{{Sc|simulacra}}. La lezione ''simulata'', introdotta dal Fraticelli e accolta dal Giuliani, non si trova se non in M.
+
+{{§|sonni|}}{{Sc|sonni}}. ''Sospiri'' è soltanto di b<sup>1</sup> e b<sup>3</sup>. È anche in p, ma aggiuntovi da b<sup>3</sup> nei margini o fra le linee, non come variante di ''sonni'', che in p mancava, ma come
+supplemento: difatti in P ''nelli miei sospiri'' è interlineare; in Co Mgl è entrato nel testo, ma fuor
+di posto, leggendovisi: ''me hauea già chiamato ne mei sospiri''. Il Rajna osserva: «quantunque questa seconda lezione [''sonni''] possa a prima giunta piacere di più, bisognerà pure ammettere che se
+l’originale avesse detto ''sonni'', nessuno avrebbe pensato a sostituire ''sospiri''». Ma con ''Amore'' anche ''sospiri'' lega bene, e son anzi concetti che pensando all’uno facilmente può venire in mente l’altro; nè è improbabile che tale associazione sia stata favorita dalla grafia ''sõpni''.
+<section end="c12" />

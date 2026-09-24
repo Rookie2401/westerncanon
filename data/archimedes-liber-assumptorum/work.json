@@ -20,8 +20,11 @@
           "text": "Ἔστωσαν δύο κύκλοι, ὧν κέντρα τὰ Ζ, Η, ἐπιψαύοντες ἀλλάλων κατὰ τὸ Ε σαμεῖον, διάμετρος δὲ ἁ ΑΒ παρὰ διάμετρον τὰν Γ△· φαμὶ δή, ἐπιζευχθεῖσαι αἱ Ε△, △Β εὐθεῖαι ἐσσοῦνται ἀλλάλαις ἐπʼ εὐθείας.",
           "ref": "Mugler vol. 3 p. 134",
           "figure": {
-            "source": "Mugler, Liber assumptorum 1",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-1.png",
+            "imageWidth": 868,
+            "imageHeight": 610,
+            "alt": "Diagram for Mugler, Liber assumptorum 1, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 1"
           }
         },
         {
@@ -54,8 +57,11 @@
           "text": "Ἐπεζεύχθω γὰρ ἁ ΑΒ καὶ ἐκβληθεῖσαι αἱ ΑΒ, Γ△ συμπιπτέτωσαν κατὰ τὸ Η σαμεῖον καὶ ἄχθω ἁ ΒΓ.",
           "ref": "Mugler vol. 3 p. 136",
           "figure": {
-            "source": "Mugler, Liber assumptorum 2",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-2.png",
+            "imageWidth": 853,
+            "imageHeight": 815,
+            "alt": "Diagram for Mugler, Liber assumptorum 2, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 2"
           }
         },
         {
@@ -83,8 +89,11 @@
           "text": "Ἐπεζεύχθωσαν γὰρ αἱ ΑΒ, ΒΖ, ΖΕ, ΕΒ εὐθεῖαι· καὶ ἐπεὶ ἁ Α△ τᾷ △Ε ἐστὶν ἴσα, κοινὰ δὲ ἁ Β△, δύο δὴ αἱ Α△, △Β δυσὶ ταῖς Ε△, △Β ἑκατέρα ἑκατέρᾳ ἴσαι ἐντί· ἔστι δὲ γωνία ἁ ὑπὸ Α△Β γωνίᾳ τᾷ ὑπὸ Ε△Β ἴσα βάσις ἄρα ἁ ΕΒ βάσει τᾷ ΑΒ, τουτέστι τᾷ ΒΖ, ἐστὶν ἴσα γωνία ἄρα ἁ ὑπὸ ΒΕΖ γωνίᾳ τᾷ ὑπὸ ΒΖΕ ἐστὶν ἴσα. Καὶ ἐπεὶ τετράπλευρον τὸ ΑΒΖΓ ἐν κύκλῳ ἐστίν, γωνίαι αἱ ἀπεναντίον αἱ ὑπὸ ΓΖΒ, ΓΑΒ, τουτέστιν αἱ ὑπὸ ΓΖΒ, ΒΕΑ, δυσὶν ὀρθαῖς ἴσαι ἐντί. Ἔστι δὲ καὶ συναμφότερος ἁ ὑπὸ ΓΕΒ, ΒΕΑ δυσὶν ὀρθαῖς ἴσα κοινὰ ἀφαιρήσθω ἁ ὑπὸ ΒΕΑ γωνία ἄρα ἁ ὑπὸ ΓΖΒ γωνίᾳ τᾷ ὑπὸ ΓΕΒ ἐστὶν ἴσα κοινὰ ἀφαιρήσθω ἁ ὑπὸ ΒΖΕ, τουτέστιν ἁ ὑπὸ ΒΕΖ· λοιπαὶ ἄρα αἱ ποτὶ τᾷ βάσει τᾷ ΕΖ τριγώνου τοῦ ΕΓΖ· γωνίαι αἱ ὑπὸ ΓΖΕ, ΖΕΓ ἴσαι ἀλλάλαις ἐντί· πλευρὰ ἄρα ἁ ΖΓ πλευρᾷ τᾷ ΕΓ ἐστὶν ἴσα δέδεικται οὖν τὸ προτεθέν.",
           "ref": "Mugler vol. 3 p. 137",
           "figure": {
-            "source": "Mugler, Liber assumptorum 3",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-3.png",
+            "imageWidth": 878,
+            "imageHeight": 509,
+            "alt": "Diagram for Mugler, Liber assumptorum 3, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 3"
           }
         }
       ]
@@ -107,8 +116,11 @@
           "text": "Ἔστω ἁμικύκλιον τὸ ΑΒΓ καὶ σαμεῖόν τι ἐπὶ διαμέτρου τᾶς ΑΓ τὸ △, καὶ ἀπὸ διαμέτρων τῶν Γ△, △Α ἁμικύκλια ἀναγεγράφθων ἐντός, ἀπὸ δὲ τοῦ △ σαμείου ἀνεστακέτω ποτʼ ὀρθὰς τᾷ ΑΓ ἁ △Β φαμὶ δή, σχῆμα τὸ ὑπὸ τῶν τριῶν περιφερειῶν περιεχόμενον, τουτέστι τοῦ μείζονος ἁμικυκλίου καὶ τῶν δύο ἀναγραφέντων ἐντός, ὅπερ Et ἄρβηλος καλείσθω, κύκλῳ, οὗ διάμετρος ἁ △Β, ἴσον ἐστίν.",
           "ref": "Mugler vol. 3 p. 139",
           "figure": {
-            "source": "Mugler, Liber assumptorum 4",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-4.png",
+            "imageWidth": 958,
+            "imageHeight": 566,
+            "alt": "Diagram for Mugler, Liber assumptorum 4, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 4"
           }
         },
         {
@@ -136,8 +148,11 @@
           "text": "Ἔστω ἁμικύκλιον, οὗ διάμετρος ἁ ΑΒ, σαμεῖον δέ τι ἐπʼ αὐτᾶς τὸ Γ· ἀναγεγράφθω δὲ ἀπὸ τμαμάτων τῶν ΑΓ, ΓΒ ἁμικύκλια ἐντός, καὶ ἀπὸ τοῦ Γ σαμείου ἀνεστακέτω ποτʼ ὀρθὰς διαμέτρω τᾷ ΑΒ ἁ Γ△, γεγράφθων δὲ δύο κύκλοι ἐπʼ ἀμφότερα τᾶς ἀνεστακούσας εὐθείας ἐπιψαύοντες τᾶς τε ἀνεστακούσας καὶ τῶν ἁμικυκλίων· φαμὶ δή, οἱ γραφέντες κύκλοι ἴσοι ἀλλάλοις ἐντί.",
           "ref": "Mugler vol. 3 p. 142",
           "figure": {
-            "source": "Mugler, Liber assumptorum 5",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-5.png",
+            "imageWidth": 1370,
+            "imageHeight": 847,
+            "alt": "Diagram for Mugler, Liber assumptorum 5, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 5"
           }
         },
         {
@@ -165,8 +180,11 @@
           "text": "ΑΒΓ, σαμεῖον δὲ τι ἐπὶ τᾶς διαμέτρου τὸ △ καὶ πεποιήσθω οὕτως, ὥστε τὸ μεῖζον τμᾶμα τὸ Α△ ἐλάσσονος τοῦ △Γ ἁμιόλιον εἶμεν, καὶ ἀπὸ τμαμάτων τῶν Α△, △Β ἀναγεγράφθων ἁμικύκλια, γεγράφθω δὲ ἐν τῷ ἀρβήλω κύκλος ὁ ΕΖ ἐπιψαύων τῶν τριῶν ἁμικυκλίων, καὶ ἄχθω διάμετρος αὐτοῦ παρὰ τὰν ΑΓ ἁ ΕΖ. Εὑρεῖν τὸν λόγον διαμέτρου τᾶς ΑΓ ποτὶ διάμετρον τὰν ΕΖ.",
           "ref": "Mugler vol. 3 p. 144",
           "figure": {
-            "source": "Mugler, Liber assumptorum 6",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-6.png",
+            "imageWidth": 1384,
+            "imageHeight": 690,
+            "alt": "Diagram for Mugler, Liber assumptorum 6, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 6"
           }
         },
         {
@@ -199,8 +217,11 @@
           "text": "Ἔστω γὰρ κύκλος ὁ ΑΒ περὶ τετράγωνον τὸ ΑΒ καὶ ἐν αὐτῷ ἐγγεγραμμένος κύκλος ὁ Γ△, διάμετρος δὲ τοῦ περιγεγραμμένου κύκλου καὶ τοῦ τετραγώνου ἄχθω δὲ διάμετρος τοῦ ἐγγεγραμμένου κύκλου ἁ Γ△ παρὰ τὰν ΑΕ· φαμὶ Et δή, ὁ περιγεγραμμένος κύκλος τοῦ ἐγγεγραμμένου ἐστὶ διπλασίων.",
           "ref": "Mugler vol. 3 p. 147",
           "figure": {
-            "source": "Mugler, Liber assumptorum 7",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-7.png",
+            "imageWidth": 903,
+            "imageHeight": 814,
+            "alt": "Diagram for Mugler, Liber assumptorum 7, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 7"
           }
         },
         {
@@ -228,8 +249,11 @@
           "text": "Ἄχθω γὰρ ἁ ΕΗ παρὰ τὰν ΑΒ καὶ ἐπεζεύχθων αἱ △Β, △Η. Ἐπεὶ οὖν γωνίαι αἱ ὑπὸ ΒΓ△, Β△Γ, △ΕΗ, △ΗΕ ἴσαι ἀλλάλαις ἐντί, γωνία δὲ ἁ ὑπὸ Γ△Η γωνίας τᾶς ὑπὸ △ΕΗ ἐστὶ διπλασίων, ἐσσεῖται ἄρα γωνία ἁ ὑπὸ Β△Η γωνίας τᾶς ὑπὸ Β△Γ τριπλασίων. Ἐσσεῖται ἄρα περιφέρεια ἁ ΒΗ, τουτέστιν ἁ ΑΕ, περιφερείας τᾶς ΒΖ τριπλασίων· δέδεικται οὖν τὸ προτεθέν.",
           "ref": "Mugler vol. 3 p. 148",
           "figure": {
-            "source": "Mugler, Liber assumptorum 8",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-8.png",
+            "imageWidth": 798,
+            "imageHeight": 614,
+            "alt": "Diagram for Mugler, Liber assumptorum 8, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 8"
           }
         }
       ]
@@ -252,8 +276,11 @@
           "text": "Ἔστω κύκλος ὁ ΑΒΓ καὶ δύο εὐθεῖαι αἱ ΑΒ, Γ△ τέμνουσαι ἀλλάλας ποτʼ ὀρθάς, μὴ διὰ τοῦ κέντρου οὖσαι· φαμὶ δή, δύο αἱ ἀπεναντίον περιφέρειαι αἱ Α△, ΓΒ δυσὶ ταῖς ἀπεναντίον ταῖς ΑΓ, Β△ ἴσαι ἀλλάλαις ἐντί.",
           "ref": "Mugler vol. 3 p. 149",
           "figure": {
-            "source": "Mugler, Liber assumptorum 9",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-9.png",
+            "imageWidth": 628,
+            "imageHeight": 600,
+            "alt": "Diagram for Mugler, Liber assumptorum 9, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 9"
           }
         },
         {
@@ -286,8 +313,11 @@
           "text": "Ἐπεζεύχθω γὰρ ἁ ΑΓ. Ἐπεὶ οὖν εὐθεῖα ἁ △Α ἐπιψαύουσα τοῦ κύκλου ἐστίν, ἁ δὲ ΑΓ τέμνουσα αὐτόν, γωνία ἁ ὑπὸ △ΑΓ τᾷ ἐν τῷ ἐναλλὰξ τμάματι τοῦ κύκλου γωνίᾳ τᾷ ὑπὸ ΑΕΓ, τουτέστι τᾷ ὑπὸ ΑΖ△, ἐστὶν ἴσα. Ἔστι γὰρ ἁ ΓΕ παρὰ τὰν Β△. Καὶ ἐπεὶ ἐν δυσὶ τριγώνοις τοῖς △ΑΖ, ΑΘ△ δύο γωνίαι αἱ ὑπὸ ΑΖ△, ΘΑ△ ἴσαι ἀλλάλαις ἐντί, γωνία δὲ ἁ πρὸς τῷ △ κοινά, τὸ ἄρα ὑπὸ τῶν Ζ△, △Θ περιεχόμενον ὀρθογώνιον τῷ ἀπὸ τᾶς △Α, τουτέστι τῷ ἀπὸ τᾶς △Γ τετραγώνῳ, ἐστὶν ἴσον ἐπεὶ οὖν ὃν λόγον ἔχει ἁ Ζ△ ποτὶ τὰν △Γ, τοῦτον ἔχει καὶ ἁ △Γ ποτὶ τὰν △Θ, γωνία δὲ ἁ ποτὶ τὸ △ σαμεῖον κοινά ἐστιν, τρίγωνα ἄρα τὰ △ΖΓ, △ΓΘ ἐστὶν ὅμοια καὶ γωνίαι αἱ ὑπὸ △ΖΓ, △ΓΘ, △ΑΘ, ΑΖ△ ἴσαι ἀλλάλαις ἐντί· ἔστι δὲ καὶ γωνία ἁ ὑπὸ △ΖΓ τᾷ ὑπὸ ΖΓΕ ἴσα· ἦν δὲ καὶ ἁ ὑπὸ △ΖΑ τᾷ ὑπὸ ΑΕΓ ἴσα ἐν δυσὶ τριγώνοις ἄρα τοῖς ΕΗΖ, ΓΗΖ δύο γωνίαι αἱ ὑπὸ ΗΕΖ, ΗΓΖ ἴσαι ἀλλάλαις ἐντὶ καὶ αἱ ποτὶ τῷ Η σαμείῳ γωνίαι ὀρθαί· ἔστι ὲ πλευρὰ ἁ ΗΖ κοινά ἔστιν ἄρα ἁ ΕΗ τᾷ ΗΓ ἴσα· δέδεικται οὖν τὸ προτεθέν.",
           "ref": "Mugler vol. 3 p. 151",
           "figure": {
-            "source": "Mugler, Liber assumptorum 10",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-10.png",
+            "imageWidth": 1024,
+            "imageHeight": 655,
+            "alt": "Diagram for Mugler, Liber assumptorum 10, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 10"
           }
         }
       ]
@@ -310,8 +340,11 @@
           "text": "Ἔστω γὰρ κύκλος ὁ ΑΒΓ, καὶ δύο εὐθεῖαι αἱ ΑΒ, Γ△ τετμάσθων ποτʼ ὀρθὰς κατὰ τὸ Ε σαμεῖον· φαμὶ δή, τὰ ἀπὸ τῶν τμαμάτων τῶν ΑΕ, ΕΒ, ΓΕ, Ε△ τετράγωνα τῷ ἀπὸ τᾶς διαμέτρου τοῦ κύκλου ἴσα ἐστίν.",
           "ref": "Mugler vol. 3 p. 152",
           "figure": {
-            "source": "Mugler, Liber assumptorum 11",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-11.png",
+            "imageWidth": 743,
+            "imageHeight": 705,
+            "alt": "Diagram for Mugler, Liber assumptorum 11, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 11"
           }
         },
         {
@@ -334,8 +367,11 @@
           "text": "Εἴ κα ἐκ σαμείου ἐκτὸς ἁμικυκλίου δύο εὐθεῖαι ἀχθέωντι ἐπιψαύουσαι αὐτοῦ, ἀχθέωντι δὲ ἐκ τῶν σαμείων ἁφᾶς δύο εὐθεῖαι ποτὶ τὰ ἀπεναντίον πέρατα τᾶς διαμέτρου τέμνουσαι ἀλλάλας, ἁ ἐκ τοῦ ἐκτὸς σαμείου ποτὶ τὸ σαμεῖον τομᾶς τῶν δύο εὐθειῶν ἀχθεῖσα καὶ ἐκβληθεῖσα ποτὶ τὰν διάμετρον ἐσσεῖται ταύτᾳ ποτʼ ὀρθάς.",
           "ref": "Mugler vol. 3 p. 154",
           "figure": {
-            "source": "Mugler, Liber assumptorum 12",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-12.png",
+            "imageWidth": 553,
+            "imageHeight": 857,
+            "alt": "Diagram for Mugler, Liber assumptorum 12, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 12"
           }
         },
         {
@@ -368,8 +404,11 @@
           "text": "Ἔστω κύκλος ὁ ΑΒΓ καὶ ἐν αὐτῷ δύο εὐθεῖαι τέμνουσαι ἀλλάλας μὴ ποτʼ ὀρθὰς αἱ ΑΒ, Γ△, ἇν ἁ ΑΒ διάμετρος τοῦ κύκλου, καὶ ἀπὸ τῶν περάτων τᾶς διαμέτρου τῶν Α, Β ἄχθωσαν τᾷ Γ△ ποτʼ ὀρθὰς εὐθεῖαι αἱ ΑΕ, ΒΖ φαμὶ δή, αἱ ἀπὸ τῶν περάτων τᾶς διαμέτρου ἀπολαφθεῖσαι εὐθεῖαι αἱ ΓΖ, △Ε ἴσαι ἀλλάλαις ἐντί.",
           "ref": "Mugler vol. 3 p. 157",
           "figure": {
-            "source": "Mugler, Liber assumptorum 13",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-13.png",
+            "imageWidth": 724,
+            "imageHeight": 846,
+            "alt": "Diagram for Mugler, Liber assumptorum 13, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 13"
           }
         },
         {
@@ -407,8 +446,11 @@
           "text": "Ἐπεὶ γὰρ εὐθεῖα· γραμμὰ ἁ △Γ δίχα τέτμαται κατὰ τὸ Ε σαμεῖον, ποτίκειται δὲ αὐτᾷ εὐθεῖα ἐπʼ εὐθείας ἁ ΓΑ, τὸ ἀπὸ τᾶς △Α καὶ τὸ ἀπὸ τᾶς ποτικειμένας τᾶς ΓΑ τὰ συναμφότερα τετράγωνα διπλασίονά ἐντι τοῦ τε ἀπὸ τᾶς ἁμισείας τᾶς △Ε καὶ τοῦ ἀπὸ τᾶς ΕΑ τετραγώνου. Ἔστι δὲ ἁ ΖΗ τᾷ △Α ἴσα ἔστιν ἄρα καὶ τὰ ἀπὸ τῶν ΖΗ, ΓΑ διπλασίονα τοῦ τε ἀπὸ τᾶς △Ε καὶ τοῦ ἀπὸ τᾶς ΕΑ. Καὶ ἐπεὶ ἁ ΑΒ τᾶς ΑΕ διπλασίων ἐστὶ καὶ ἁ Γ△ τᾶς △Ε, ἐσσεῖται καὶ τὰ ἀπὸ τῶν ΑΒ, Γ△ τοῖς ἀπὸ τῶν △Ε, ΕΑ τετραπλασίονα, τουτέστι τοῖς ἀπὸ τῶν ΖΗ, ΓΑ διπλασίονα· κύκλοι ἄρα, ὧν διάμετροι αἱ ΑΒ, △Γ εὐθεῖαι, κύκλων, ὧν διάμετροι αἱ ΖΗ, ΓΑ, διπλασίονές ἐντι· ἁμικύκλια ἄρα, ὧν διάμετροι αἱ ΑΒ, △Γ εὐθεῖαι, κύκλοις, ὧν διάμετροι αἱ ΖΗ, ΓΑ, ἴσα ἐστίν· κοινὸν ἀφαιρήσθω κύκλος, οὗ διάμετρος ἁ ΑΓ, τουτέστι δύο ἁμικύκλια, ὧν διάμετροι αἱ ΑΓ, △Β· λοιπὸν ἄρα χωρίον τὸ ὑπὸ τῶν περιφερειῶν τῶν ἁμικυκλίων περιεχόμενον, ὅπερ σελήνιον καλεῖται, κύκλῳ, οὗ διάμετρος ἁ ΖΗ, ἴσον ἐστίν· δῆλον οὖν τὸ προτεθέν.",
           "ref": "Mugler vol. 3 p. 160",
           "figure": {
-            "source": "Mugler, Liber assumptorum 14",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-14.png",
+            "imageWidth": 1031,
+            "imageHeight": 870,
+            "alt": "Diagram for Mugler, Liber assumptorum 14, from the printed edition (Heiberg, Archimedis Opera Omnia).",
+            "source": "Mugler, Liber assumptorum 14"
           }
         }
       ]

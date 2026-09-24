@@ -1,0 +1,92 @@
+[
+  {
+    "find": "there 18 no question ; for no one will say that No;",
+    "replace": "there is no question ; for no one will say that",
+    "note": "OCR misread 'is'; trailing 'No;' is leaked margin caption"
+  },
+  {
+    "find": "if things arc suitable according to worth, that is",
+    "replace": "if things are suitable according to worth, that is",
+    "note": "OCR misread 'are'"
+  },
+  {
+    "find": "this language is suited to dwellers in the moun- ^e",
+    "replace": "this language is suited to dwellers in the moun-",
+    "note": "trailing garbage is leaked margin caption"
+  },
+  {
+    "find": "tains dealing with rustic concerns [533 • there- •",
+    "replace": "tains dealing with rustic concerns [53]: there-",
+    "note": "bracket garbled; stray bullet symbols removed"
+  },
+  {
+    "find": "fore it is suited in respect of the individual. But only",
+    "replace": "fore it is suited in respect of the individual. But",
+    "note": "trailing 'only' is leaked margin caption"
+  },
+  {
+    "find": "nothing is suited to an individual except on ac- the",
+    "replace": "nothing is suited to an individual except on ac-",
+    "note": "trailing 'the' is leaked margin caption"
+  },
+  {
+    "find": "count of his particular v/orth, as for instance thoughts",
+    "replace": "count of his particular worth, as for instance",
+    "note": "OCR misread 'worth'; trailing 'thoughts' is leaked margin caption"
+  },
+  {
+    "find": "others worthier and others worthiest) [^o], it is",
+    "replace": "others worthier and others worthiest) [60], it is",
+    "note": "bracket number garbled"
+  },
+  {
+    "find": "besthorses arc suited to the best knights, as has",
+    "replace": "best horses are suited to the best knights, as has",
+    "note": "OCR misread 'best horses'/'are'"
+  },
+  {
+    "find": "genius^ are found ; and so the best language is",
+    "replace": "genius are found ; and so the best language is",
+    "note": "stray trailing symbol removed"
+  },
+  {
+    "find": "[^suited to all who write verse]]. Wherefore, if",
+    "replace": "[suited to all who write verse]. Wherefore, if",
+    "note": "bracket garbled"
+  },
+  {
+    "find": "manner. And as to the statement that every 1",
+    "replace": "manner. And as to the statement that every",
+    "note": "trailing stray symbol (printer's brace) removed"
+  },
+  {
+    "find": "one ought to adorn his verse as far as he can I",
+    "replace": "one ought to adorn his verse as far as he can",
+    "note": "trailing stray symbol (printer's brace) removed"
+  },
+  {
+    "find": "[80], we declare that it is true ; but we should/",
+    "replace": "[80], we declare that it is true ; but we should",
+    "note": "trailing stray symbol (printer's brace) removed"
+  },
+  {
+    "find": "a belt as adorned, nay rather we laugh at them'",
+    "replace": "a belt as adorned, nay rather we laugh at them",
+    "note": "trailing stray symbol (printer's brace) removed"
+  },
+  {
+    "find": "not describe an ox with trappings or a swine with ;",
+    "replace": "not describe an ox with trappings or a swine with",
+    "note": "stray trailing semicolon not present in print"
+  },
+  {
+    "find": "as disfigured ; for adornment is the addition of!",
+    "replace": "as disfigured ; for adornment is the addition of",
+    "note": "trailing stray symbol (printer's brace) removed"
+  },
+  {
+    "find": "some suitable thing, '",
+    "replace": "some suitable thing.",
+    "note": "trailing stray symbol (printer's brace) removed; fixed punctuation"
+  }
+]

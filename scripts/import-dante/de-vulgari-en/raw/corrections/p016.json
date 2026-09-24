@@ -1,0 +1,87 @@
+[
+  {
+    "find": "Dante's of his birth is the most delightful under the sun,",
+    "replace": "of his birth is the most delightful under the sun,",
+    "note": "remove leaked margin-caption word Dante's"
+  },
+  {
+    "find": "for ^ilso rates his o^vn vernacular (that is, Iiis niothcr-",
+    "replace": "also rates his own vernacular (that is, his mother-",
+    "note": "remove leaked margin word for; fix ^ilso->also, o^vn->own, Iiis->his, niothcr-->mother-"
+  },
+  {
+    "find": "o^cnce tongue) above all others, and consequently",
+    "replace": "tongue) above all others, and consequently",
+    "note": "remove leaked garbled margin-caption fragment o^cnce"
+  },
+  {
+    "find": "But wc, to whom t' • world is our native country,",
+    "replace": "But we, to whom the world is our native country,",
+    "note": "fix wc->we and garbled the"
+  },
+  {
+    "find": "just as the sea is t the fish, though we drank of",
+    "replace": "just as the sea is to the fish, though we drank of",
+    "note": "fix garbled to"
+  },
+  {
+    "find": "love [203 Florence so dearly that for the love wc",
+    "replace": "love [20] Florence so dearly that for the love we",
+    "note": "fix garbled bracket [203->[20], wc->we"
+  },
+  {
+    "find": "take account within ourselves of the ^30^ various",
+    "replace": "take account within ourselves of the [30] various",
+    "note": "fix garbled bracket ^30^->[30]"
+  },
+  {
+    "find": "situations of ^l^e places of the wojid and their",
+    "replace": "situations of the places of the world and their",
+    "note": "fix ^l^e->the, wojid->world"
+  },
+  {
+    "find": "arrangement with respect to the two j)oies and",
+    "replace": "arrangement with respect to the two poles and",
+    "note": "fix j)oies->poles"
+  },
+  {
+    "find": "to the equator, our deliberate and firm oi)inion",
+    "replace": "to the equator, our deliberate and firm opinion",
+    "note": "fix oi)inion->opinion"
+  },
+  {
+    "find": "nobler and more de'ightful than Tuscany and",
+    "replace": "nobler and more delightful than Tuscany and",
+    "note": "fix de'ightful->delightful"
+  },
+  {
+    "find": "and also that a great niany nations and races use",
+    "replace": "and also that a great many nations and races use",
+    "note": "fix niany->many"
+  },
+  {
+    "find": "able than the Ifilians do. Returning therefore",
+    "replace": "able than the Italians do. Returning therefore",
+    "note": "fix Ifilians->Italians"
+  },
+  {
+    "find": "to our subject, we say that I'^o'] a certain",
+    "replace": "to our subject, we say that [40] a certain",
+    "note": "fix garbled bracket I'^o']->[40]"
+  },
+  {
+    "find": "form of sjyjech was created by God together",
+    "replace": "form of speech was created by God together",
+    "note": "fix sjyjech->speech"
+  },
+  {
+    "find": "with the first soul. And I say * a form,' both",
+    "replace": "with the first soul. And I say 'a form,' both",
+    "note": "fix stray asterisk to opening quote mark"
+  },
+  {
+    "find": "form every tongue of s|.eaking men would use,",
+    "replace": "form every tongue of speaking men would use,",
+    "note": "fix s|.eaking->speaking"
+  }
+]

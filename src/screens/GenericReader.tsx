@@ -70,6 +70,19 @@ function PassageList({
                   {p.figure.note}
                 </p>
               )}
+              {p.figure.more?.map((extra, j) => (
+                <span
+                  key={j}
+                  className="gr-figure__img"
+                  style={{
+                    WebkitMaskImage: `url(${genericAssetUrl(workId, extra.image)})`,
+                    maskImage: `url(${genericAssetUrl(workId, extra.image)})`,
+                    aspectRatio: `${extra.imageWidth} / ${extra.imageHeight}`,
+                  }}
+                  role="img"
+                  aria-label={extra.alt ?? ''}
+                />
+              ))}
               <figcaption className="gr-figure__source" lang="en">
                 {p.figure.source}
               </figcaption>

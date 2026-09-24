@@ -1,0 +1,521 @@
+{
+  "workId": "dante-de-vulgari-eloquentia-la",
+  "language": "la",
+  "divisions": [
+    {
+      "id": "book-1",
+      "number": "1",
+      "ref": null,
+      "sourceHeading": "Liber Primus",
+      "editorialTitle": null,
+      "children": [
+        {
+          "id": "book-1-ch-1",
+          "number": "1",
+          "ref": null,
+          "sourceHeading": "Quid sit Vulgaris locutio, et quo differat a Grammatica.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Cum neminem ante nos de Vulgaris Eloquentiæ doctrina quicquam inveniamus tractasse, atque talem, scilicet Eloquentiam, penitus omnibus necessariam videamus (cum ad eam non tantum viri, sed etiam mulieres, et parvuli nitantur, in quantum Natura permittit), volentes discretionem aliqualiter lucidare illorum, qui tanquam cæci ambulant per plateas, plerumque anteriora posteriora putantes; Verbo aspirante de Cælis, locutioni vulgarium gentium prodesse tentabimus, non solum aquam nostri ingenii ad tantum poculum haurientes, sed accipiendo vel compilando ab aliis, potiora miscentes, ut exinde potionare possimus dulcissimum hydromellum. Sed quia unamquamque doctrinam oportet non probare, sed suum aperire subjectum, ut sciatur quid sit, super quod illa versatur, dicimus celeriter expedientes, quod Vulgarem locutionem appellamus eam, qua infantes adsuefiunt ab adsistentibus, cum primitus distinguere voces incipiunt: vel quod brevius dici potest, Vulgarem locutionem asserimus, quam sine omni regula, nutricem imitantes, accipimus. Est et inde alia locutio secundaria nobis, quam Romani Grammaticam vocaverunt. Hanc quidem secundariam Græci habent, et alii, sed non omnes. Ad habitum vero hujus pauci perveniunt, quia non nisi per spatium temporis et studii assiduitatem regulamur, et doctrinamur in illa. Harum quoque duarum nobilior est Vulgaris, tum quia prima fuit humano Generi usitata, tum quia totus orbis ipsa perfruitur, licet in diversas prolationes et vocabula sit divisa; tum quia naturalis est nobis, cum illa potius artificialis existat; et de hac nobiliori nostra est intentio pertractare.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-2",
+          "number": "2",
+          "ref": null,
+          "sourceHeading": "Quod solus Homo habet commercium sermonis.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Hæc est nostra vera prima locutio: non dico autem nostra, ut si aliam sit esse locutionem, quam hominis: nam eorum, quæ sunt omnium, soli homini datum est loqui, cum solum sibi necessarium fuit. Non Angelis, non inferioribus animalibus necessarium fuit: sed nequicquam datum fuisset eis; quod nempe facere Natura abhorret. Si etenim perspicaciter consideremus, quid cum loquimur intendamus, patet, quod nihil aliud, quam nostræ mentis enucleare aliis conceptum. Cum igitur Angeli ad pandendas gloriosas eorum conceptiones habeant promptissimam atque ineffabilem suffcientiam intellectus (qua vel alter alteri totaliter innotescit per se, vel saltem per illud fulgentissimum Speculum, in quo cuncti repræsentantur pulcherrimi, atque avidissimi speculantur) nullo signo locutionis indiguisse videntur. Et si objiciatur de iis, qui corruere Spiritibus, dupliciter responderi potest. Primo, quod cum de his, quæ necessaria sunt ad bene esse, tractamus, eos præterire debemus, cum divinam curam perversi expectare noluerunt. Secundo, et melius: quod ipsi Demones ad manifestandam inter se perfidiam suam non indigent, nisi ut sciant quidlibet de quolibet, quia est, et quantus est: quod quidem sciunt; cognoverunt enim se invicem ante ruinam suam. Inferioribus quoque animalibus, cum solo naturæ instinctu ducantur, de locutione non oportuit provideri; nam omnibus ejusdem speciei sunt iidem actus, et passiones: et sic possunt per proprios alienos cognoscere. Inter ea vero, quæ diversarum sunt specierum, non solum non necessaria fuit locutio, sed prorsus damnosa fuisset, cum nullum amicabile commercium fuisset in illis. Et si objiciatur de Serpente loquente ad primam mulierem, vel de Asina Balaam, quod locuti sint; ad hoc respondemus, quod Angelus in illa, et Diabolus in illo taliter operati sunt, quod ipsa animalia moverent organa sua; sic et vox inde resultavit distincta, tanquam vera locutio: non quod aliud esset Asinæ illud quam rudere, nec quam sibilare Serpentis. Si vero contra argumentetur quis de eo, quod Ovidius dicit in V Metamorphoseos de Picis loquentibus; dicimus quod hoc figurate dicit, aliud intelligens. Et si dicatur quod Picæ adhuc, et aliæ aves loquuntur, dicimus quod falsum est; quia talis actus locutio non est, sed quædam imitatio soni nostræ vocis, vel quod nituntur imitari nos, in quantum sonamus, sed non in quantum loquimur. Unde si expresse dicenti resonaret etiam Pica, non esset hoc nisi repræsentatio, vel imitatio soni illius, qui prius dixisset. Et sic patet soli homini datum fuisse loqui. Sed quare necessarium sibi foret, breviter pertractare conemur.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-3",
+          "number": "3",
+          "ref": null,
+          "sourceHeading": "Quod necessarium fuit homini commercium sermonis.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Cum igitur homo non naturæ instinctu, sed ratione moveatur, et ipsa ratio vel circa discretionem, vel circa judicium, vel circa electionem diversificetur in singulis, adeo ut fere quilibet sua propria specie videatur gaudere; per proprios actus, vel passiones, ut brutum animal, neminem alium intelligere opinamur; nec per spiritualem speculationem, ut Angelum, alterum alterum introire contingit, cum grossitie atque opacitate mortalis corporis humanus spiritus sit obtentus. Oportuit ergo genus humanum ad comunicandum inter se conceptiones suas, aliquod rationale signum, et sensuale habere; quia cum aliquid a ratione accipere habeat, et in rationem portare, rationale esse oportuit; cumque de una ratione in aliam nihil deferri possit nisi per medium sensuale, sensuale esse oportuit; quia si tantum rationale esset, pertransire non posset: si tantum sensuale, nec a ratione accipere, nec in rationem deponere potuisset. Hoc equidem signum est ipsum subjectum nobile, de quo loquimur: natura sensuale quidem, in quantum sonus est; rationale vero, in quantum aliquid significare videtur ad placitum.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-4",
+          "number": "4",
+          "ref": null,
+          "sourceHeading": "Cui Homini primum datus est sermo, quid primo dixit, et sub quo idiomate.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Soli homini datum fuit ut loqueretur, ut ex præmissis manifestum est. Nunc quoque investigandum esse existimo, cui hominum primum locutio data sit, et quid primitus locutus fuerit, et ad quem, et ubi, et quando, nec non et sub quo idiomate primiloquium emanavit. Secundum id quod in principio legitur Genesis, ubi de primordio mundi sacratissima Scriptura pertractat, Mulierem invenitur ante omnes fuisse locutam, scilicet præsumptuosissimam Evam, cum Diabolo sciscitanti respondit: «De fructu lignorum, quæ sunt in Paradiso vescimur; de fructu vero ligni, quod est in medio Paradisi, præcepit nobis Deus ne comederemus, nec tangeremus, ne forte moriamur.» Sed quamquam mulier in scriptis prius inveniatur locuta, rationabile tamen est, ut hominem prius locutum fuisse credamus: nec inconvenienter putatur, tam egregium humani generis actum prius a viro, quam a fœmina profluisse. Rationabiliter ergo credimus ipsi Adæ prius datum fuisse loqui ab Eo, qui statim ipsum plasmaverat. \n  Quod autem prius vox primi loquentis sonaverit, viro sanæ mentis in promptu esse non titubo, ipsum fuisse, quod Deus est, scilicet El, vel per modum interrogationis, vel per modum responsionis. Absurdum, atque rationi videtur horrificum, ante Deum ab homine quicquam nominatum fuisse, cum ab Ipso, et per Ipsum factus fuisset homo. Nam sicut post prævaricationem humani generis quidlibet exordium suæ locutionis incipit ab heu, rationabile est, quod ante, quidlibet inciperet a gaudio; et quum nullum gaudium sit extra Deum, sed totum in Deo, et ipse Deus totum sit gaudium, consequens est, quod primus loquens, primo et ante omnia dixisset Deus. Oritur et hic ista quæstio; cum dicimus superius, per viam responsionis hominem primum fuisse locutum, si responsio fuit, fuit ad Deum; et si ad Deum fuit, jam videretur, quod Deus locutus extitisset, quod contra superius prælibata videtur insurgere. Ad quod quidem dicimus, quod bene potuit respondisse, Deo interrogante, nec propter hoc Deus locutus est ipsam quam dicimus locutionem. Quis enim dubitat quicquid est, ad Dei nutum esse flexibile? quo quidem facta, quo etiam gubernata sunt omnia. Igitur cum ad tantas alterationes moveatur aër imperio Naturæ inferioris, quæ ministra et factura Dei est, ut tonitrua personet, ignem fulgoret, aquam gemat, spargat nivem, grandines lancinet; nonne imperio Dei movebitur ad quædam sonare verba, Ipso distinguente, qui majora distinxit? Quidni? Quare ad hoc, et ad quædam alia hæc sufficere credimus.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-5",
+          "number": "5",
+          "ref": null,
+          "sourceHeading": "Ubi, et cui primum Homo locutus sit.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Opinantes autem (non sine ratione tam ex superioribus, quam inferioribus sumpta), ad ipsum Deum primitus, primum hominem direxisse locutionem, rationabiliter dicimus ipsum Loquentem primum, mox, postquam afflatus est ab animante virtute, incunctanter fuisse locutum. Nam in homine sentiri humanius credimus, quam sentire, dummodo sentiatur, et sentiat tanquam homo. Si ergo Faber ille, atque perfectionis principium et amator, afflando, primum hominem omni perfectione complevit, rationabile nobis apparet, nobilissimum animal non ante sentire, quam sentiri cœpisse. Si quis vero fatetur contra objiciens, quod non oportebat illum loqui, cum solus adhuc homo existeret, et Deus omnia sine verbis arcana nostra discernat, etiam ante quam nos; cum illa reverentia dicimus, qua uti oportet, cum de æterna Voluntate aliquid judicamus, quod licet Deus sciret, imo præsciret (quod idem est quantum ad Deum), absque locutione conceptum primi Loquentis, voluit tamen et ipsum loqui, ut in explicatione tantæ dotis gloriaretur Ipse, qui gratis dotaverat: et ideo divinitus in nobis esse credendum est, quod actu nostrorum affectuum ordinato lætamur. Et hinc penitus eligere possumus locum illum, ubi effutita est prima locutio: quoniam si extra Paradisum afflatus est homo, extra; si vero intra, intra fuisse locum primæ locutionis conjicimus.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-6",
+          "number": "6",
+          "ref": null,
+          "sourceHeading": "Sub quo idiomate primum locutus est Homo, et unde fuit auctor hujus operis.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Quoniam permultis ac diversis idiomatibus negotium exercitatur humanum, ita quod multi multis non aliter intelliguntur per verba, quam sine verbis; de idiomate illo venari nos decet, quo Vir sine matre, Vir sine lacte, qui neque pupillarem ætatem, nec vidit adultam, creditur usus. In hoc, sicut etiam in multis aliis, Petramala civitas amplissima est, et patria majori parti filiorum Adam. Nam quicumque tam obscenæ rationis est, ut locum suæ nationis delitiosissimum credat esse sub Sole, huic etiam præ cunctis proprium Vulgare licebit, idest maternam locutionem, præponere: et per consequens credere ipsum fuisse illud, quod fuit Adæ. Nos autem cui mundus est patria, velut piscibus æquor, quamquam Sarnum biberimus ante dentes, et Florentiam adeo diligamus, ut quia dileximus, exilium patiamur injuste, ratione magis, quam sensu, scapulas nostri judicii podiamus. Et quamvis ad voluptatem nostram, sive nostræ sensualitatis quietem, in terris amœnior locus, quam Florentia non existat, revolventes et Poetarum, et aliorum Scriptorum volumina, quibus mundus universaliter, et membratim describitur, ratiocinantesque in nobis situationes varias mundi locorum, et eorum habitudinem ad utrumque polum et circulum æquatorem, multas esse perpendimus, firmiterque censemus, et magis nobiles, et magis delitiosas et regiones et urbes, quam Thusciam et Florentiam, unde sum oriundus et civis, et plerasque nationes, et gentes delectabiliori atque utiliori sermone uti, quam Latinos. Redeuntes igitur ad propositum dicimus, certam formam locutionis a Deo cum Anima prima concreatam fuisse; dico autem formam, et quantum ad rerum vocabula, et quantum ad vocabulorum constructionem, et quantum ad constructionis prolationem, qua quidem forma omnis lingua loquentium uteretur, nisi culpa præsumptionis humanæ dissipata fuisset, ut inferius ostendetur. Hac forma locutionis locutus est Adam, hac forma locuti sunt omnes posteri ejus usque ad ædificationem turris Babel, quæ turris confusionis interpretatur: hanc formam locutionis hereditati sunt filii Heber, qui ab eo dicti sunt Hebræi. Iis solis post confusionem remansit, ut Redemptor noster, qui ex illis oriturus erat secundum humanitatem, non lingua confusionis, sed gratiæ frueretur. Fuit ergo Hebraicum idioma id, quod primi Loquentis labia fabricaverunt.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-7",
+          "number": "7",
+          "ref": null,
+          "sourceHeading": "De divisione sermonis in plures linguas.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Dispudet heu nunc humani generis ignominiam renovare! Sed quia præterire non possumus quin transeamus per illam (quamquam rubor in ora consurgat animusque refugiat) percurremus. Oh semper nostra natura prona peccatis, oh ab initio, et nunquam desinens nequitatrix! Num fuerat satis ad tui correctionem, quod per primam prævaricationem elimitata delitiarum exulabas a Patria? num satis quod per universalem familiæ tuæ luxuriem et trucitatem, unica reservata domo, quicquid tui juris erat cataclysmo perierat, et pœnas malorum, quæ commiseras tu, animalia cælique terræque jam luerant? Quippe satis extiterat; sed sicut proverbialiter dici solet: «Non ante tertium equitabis,» misera miserum venire maluisti ad equum. Ecce, lector, quod vel oblitus homo, vel vilipendens disciplinas priores, et avertens oculos a vibicibus, quæ remanserant, tertio insurrexit ad verbera per superbiam suam et stultitiam præsumendo. Præsumpsit ergo in corde suo incurabilis homo, sub persuasione Gigantis, arte sua non solum superare Naturam, sed et ipsum Naturantem, qui Deus est; et cœpit ædificare turrim in Sennaar, quæ postea dicta est Babel, hoc est confusio, per quam cælum sperabat ascendere: intendens inscius non æquare, sed suum superare Factorem. Oh sine mensura clementia cælestis Imperii! quis pater tot sustineret insultus a filio? Sed exurgens, non hostili scutica, sed paterna, et aliis verberibus assueta, rebellantem filium pia correctione, necnon memorabili, castigavit. Siquidem pene totum humanum genus ad opus iniquitatis cojerat; pars imperabant, pars architectabantur, pars muros moliebantur, pars amussibus tegulabant, pars trullis linebant, pars scindere rupes, pars mari, pars terræ intendebant vehere, partesque diversæ diversis aliis operibus indulgebant, cum cælitus tanta confusione percussi sunt, ut qui omnes una eademque loquela deserviebant ad opus, ab opere multis diversificati loquelis desinerent, et nunquam ad idem commercium convenirent. Solis etenim in uno convenientibus actu eadem loquela remansit, puta cunctis architectoribus una, cunctis saxa volventibus una, cunctis ea parantibus una, et sic de singulis operantibus accidit. Quotquot autem exercitii varietates tendebant ad opus, tot tot idiomatibus tunc genus humanum disjungitur; et quanto excellentius exercebant, tanto rudius nunc et barbarius loquuntur. Quibus autem sanctum idioma remansit, nec aderant, nec exercitium commendabant, sed graviter detestantes, stoliditatem operantium deridebant. Sed hæc minima pars quantum ad numerum fuit de semine Sem, sicut conjicio, qui fuit tertius filius Noe: de qua quidem ortus est populus Isræl, qui antiquissima locutione sunt usi usque ad suam dispersionem.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-8",
+          "number": "8",
+          "ref": null,
+          "sourceHeading": "Subdivisio idiomatis per orbem et præcipue in Europa.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Ex præcedenti memorata confusione linguarum non leviter opinamur, per universa mundi climata, climatumque plagas incolendas, et angulos, tunc homines primum fuisse dispersos. Et cum Radix humanæ propaginis principaliter in oris Orientalibus sit plantata; nec non ab inde ad utrumque latus per diffusos moltipliciter palmites nostra sit extensa propago; demum ad fines Occidentales protracta est, unde primitus tunc vel totius Europæ flumina, vel saltem quædam rationalia guttura potaverunt. Sed sive advenæ tunc primitus advenissent, sive ad Europam indigenæ repedassent, idioma secum trifarium homines attulerunt, et afferentium hoc alii meridionalem, alii septemtrionalem regionem in Europa sibi sortiti sunt; et tertii, quos nunc Græcos vocamus, partem Europæ, partem Asiæ occuparunt. Ab uno postea, eodemque idiomate, immunda confusione recepto, diversa Vulgaria traxerunt originem, sicut inferius ostendemus. Nam totum quod ab ostiis est Danubii, sive Meotidis paludibus usque ad fines Occidentales (qui Angliæ, Italorum, Francorumque finibus, et Oceano limitantur) solum unum obtinuit idioma, licet postea per Sclavones, Ungaros, Teutonicos, Saxones, Anglicos, et alias nationes quamplures, fuerit per diversa Vulgaria derivatum; hoc solo fere omnibus in signum ejusdem principii remanet, quod quasi prædicti omnes Jò affirmando respondent. Ab isto incipiens idiomate, videlicet a finibus Ungarorum versus Orientem, aliud occupavit totum quod ab inde vocatur Europa, nec non ulterius est protractum. Totum autem, quod in Europa restat ab istis, tertium tenuit idioma, licet nunc trifarium videatur. Nam alii Oc, alii Oil, alii Sì affirmando loquuntur, ut puta Hispani, Franci et Latini. Signum autem quod ab uno eodemque idiomate istarum trium gentium progrediantur Vulgaria, in promptu est, quia multa per eadem vocabula nominare videntur, ut Deum, Cœlum, Amorem, Mare, Terram, et Vivit, Moritur, Amat, et alia fere omnia. Istorum vero proferentes Oc, Meridionalis Europæ tenent partem Occidentalem, a Januensium finibus incipientes. Qui autem Sì dicunt, a prædictis finibus Orientalem tenent, videlicet usque ad promontorium illud Italiæ, qua sinus Adriatici maris incipit, et Sicilia. Sed loquentes Oil, quodammodo Septemtrionales sunt respectu istorum; nam ab Oriente Alamannos habent et a Septemtrione ab Occidente Anglico mari vallati sunt, et montibus Aragonise terminati, a Meridie quoque Provincialibus, et Appennini devexione clauduntur.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-9",
+          "number": "9",
+          "ref": null,
+          "sourceHeading": "De triplici varietate sermonis, et qualiter per tempora idem idioma mutatur, et de inventione Grammaticæ.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Nos autem nunc oportet quam habemus rationem periclitari; cum inquirere intendamus de iis, in quibus nullius auctoritate fulcimur, hoc est de unius ejusdemque a principio idiomatis variatione secuta. Et quia per notiora itinera securius breviusque transitur, per istud tantum quod nobis est idioma pergamus, alia deserentes. Nam quod in uno est rationale, videtur in aliis esse eadem causa. Est igitur super quod gradimur idioma tractando, trifarium, ut superius dictum est, nam alii Oc, alii Sì, alii vero dicunt Oil. Et quod unum fuerit a principio confusionis (quod prius probandum est) apparet, quod convenimus in vocabulis multis, velut eloquentes doctores ostendunt. Quæ quidem convenientia ipsi confusioni repugnat, quæ fuit propter delictum in ædificatione Babel. Trilingues ergo doctores in multis conveniunt, et maxime in hoc vocabulo, quod est Amor:\n\nGerardus de Borneil:\n«Si m sentis fizels amics\nPer ver encusar Amor.»\nRex Navarriæ:\n«De fin Amor si vient sen et bonté.»\nDom. Guido Guinicelli:\n« Nè fe’ Amor, prima che gentil core,\nNè cor gentil, prima ch’Amor, natura.»\n\nQuare autem trifarie principalius variatum sit, investigemus, et quare quælibet istarum variationum in se ipsa varietur, puta dextræ Italiæ locutio ab ea quæ est sinistræ; nam aliter Paduani, et aliter Pisani loquuntur; et quare vicinius habitantes adhuc discrepant in loquendo, ut Mediolanenses et Veronenses, Romani et Florentini, nec non convenientes in eodem nomine gentis, ut Neapolitani et Cajetani, Ravennates et Faventini, et quod mirabilius est, sub eadem civitate morantes, ut Bononienses Burgi S. Felicis, et Bononienses Stratæ Majoris. Eæ omnes differentiæ, atque sermonum varietates, quæ accidunt, una eademque ratione patebunt. Dicimus ergo, quod nullus effectus superat suam caussam, in quantum efifectus est, quia nihil potest efficere, quod non est. Cum igitur omnis nostra loquela (præter illam homini primo concreatam a Deo), sit a nostro beneplacito reparata post confusionem illam, quæ nil fuit aliud, quam prioris oblivio, et homo sit instabilissimum, atque variabilissimum animal, nec durabilis nec continua esse potest; sed sicut alia, quæ nostra sunt, puta mores et habitus, per locorum, temporumque distantias variari oportet. Nec dubitandum reor modo in eo quod diximus temporum distantia locutionem variari, sed potius opinamur tenendum; nam si alia nostra opera perscrutemur, multo magis discrepare videmur a vetustissimis concivibus nostris, quam a coetaneis perlonginquis. Quapropter audacter testamur, quod si vetustissimi Papienses nunc resurgerent, sermone vario, vel diverso cum modernis Papiensibus loquerentur; nec aliter mirum videatur quod dicimus, quam prospicere juvenem exoletum, quem exolescere non vidimus. Nam quæ paulatim moventur, minime perpenduntur a nobis, et quanto longiora tempora variatio rei ad perpendi requirit, tanto rem illam stabiliorem putamus. Non etenim admiramur, si æstimationes hominum, qui parum distant a brutis, putant eandem civitatem sub invariabili semper civicasse sermone, cum sermonis variatio civitatis ejusdem non sine longissima temporum successione paulatim contingat, et hominiam vita sit etiam ipsa sua natura brevissima. Si ergo per eandem gentem sermo variatur, ut dictum est, successive per tempora, nec stare ullo modo potest; necesse est, ut disjunctim, abmotimque morantibus varie varietur, ceu varie variantur mores et habitus, qui nec natura, nec consortio firmantur, sed humanis beneplacitis, localique congruitate nascuntur. Hinc moti sunt inventores Grammaticæ facultatis: quæ quidem Grammatica nil aliud est, quam quædam inalterabilis locutionis identitas diversis temporibus, atque locis. Hæc cum de communi consensu multarum gentium fuerit regulata, nulli singulari arbitrio videtur obnoxia, et per consequens, nec variabilis esse potest. Adinvenerunt ergo illam, ne propter variationem sermonis, arbitrio singularium fluitantis, vel nullo modo, vel saltem imperfecte antiquorum attingeremus auctoritates et gesta, sive illorum, quos a nobis locorum diversitas facit esse diversos.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-10",
+          "number": "10",
+          "ref": null,
+          "sourceHeading": "De varietate idiomatis in Italia a dextris et a sinistris montis Appennini.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Trifario nunc exeunte nostro idiomate (ut superius dictum est), in comparatione sui ipsius, secundum quod trisonum factum est, cum tanta timiditate cunctamur librantes, quod hanc, vel istam, vel illam partem in comparando præponere non audemus, nisi eo Sic quod Grammaticæ positores inveniuntur accepisse per adverbium affirmandi; quod quandam anterioritatem erogare videtur Italis qui Sì dicunt. Quælibet enim partium largo testimonio se tuetur. Allegat ergo pro se Lingua Oil, quod propter sui faciliorem ac delectabiliorem vulgaritatem, quicquid redactum, sive inventum est ad vulgare prosaicum, suum est: videlicet Biblia cum Trojanorum, Romanorumque gestibus compilata, et Arturi Regis ambages pulcherrimæ, et quam plures aliæ historiæ, ac doctrinæ. Pro se vero argumentatur alia, scilicet Oc, quod vulgares Eloquentes in ea primitus poetati sunt, tanquam in perfectiori, dulciorique loquela: ut puta Petrus de Alvernia, et alii antiquiores doctores. Tertia, quæ Latinorum est, se duobus privilegiis attestatur præesse: primo quidem, quod qui dulcius, subtiliusque poetati Vulgariter sunt, ii familiares, et domestici sui sunt: puta Cinus Pistoriensis, et amicus ejus. Secundo, quia magis videtur inniti Grammaticæ, quæ communis est; quod rationabiliter inspicientibus videtur gravissimum argumentum. Nos vero judicium reliquentes in hoc, et tractatum nostrum ad Vulgare Latinum retrahentes, et receptas in se variationes dicere, nec non illas invicem comparare conemur. Dicimus ergo primo, Latium bipartitum esse in dextrum, et sinistrum. Si quis autem quærat de linea dividente, breviter respondemus esse jugum Appennini, quod ceu fistulæ culmen, hinc inde ad diversa stillicidia grundat, et aquæ ad alterna hinc inde litora per umbricia longa distillant, ut Lucanus in II describit. Dextrum quoque latus Tyrrenum mare grundatorium habet: lævum vero in Adriaticum cadit. Et dextri regiones sunt Apulia, sed non tota, Roma, Ducatus, Tuscia, et Januensis Marchia. Sinistri autem pars Apuliæ, Marca Anconitana, Romandiola, Lombardia, Marchia Trivisiana cum Venetiis. Forum Julii vero et Istria non nisi levæ Italiæ esse possunt: nec Insulæ Tyrreni maris, videlicet Sicilia et Sardinia, non nisi dextræ Italiæ sunt, vel ad dextram Italiam sociandæ. In utroque quidem duorum laterum, et iis, quæ sequuntur ad ea, linguæ hominum variantur, ut lingua Siculorum cum Apulis; Apulorum cum Romanis; Romanorum cum Spoletanis; horum cum Tuscis; Tuscorum cum Januensibus; Januensium cum Sardis; nec non Calabrorum cum Anconitanis; horum cum Romandiolis; Romandiolorum cum Lombardis; Lombardorum cum Trivisianis et Venetis, et horum cum Aquilejensibus, et istorum cum Istrianis: de quo Latinorum neminem nobiscum dissentire putamus. Quare a non minus XIV Vulgaribus sola videtur Italia variari: quæ adhuc omnia Vulgaria in se se variantur, ut puta in Tuscia Senenses et Aretini; in Lombardia Ferrarienses et Placentini: nec non in eadem civitate aliqualem variationem perpendimus, ut superius in Capitulo immediato posuimus. Quapropter si primas, et secundarias, et subsecundarias Vulgaris Italiæ variationes calculare velimus, in hoc minimo mundi angulo, non solum ad millenam Loquelæ variationem venire contigerit, sed etiam ad magis ultra.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-11",
+          "number": "11",
+          "ref": null,
+          "sourceHeading": "Ostenditur Italiæ aliquos habere Idioma incomptum et ineptum.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Tam multis varietatibus Latino dissonante Vulgari, decentiorem atque iilustrem Italiæ venemur loquelam, et ut nostræ venationi pervium callem habere possimus, perplexos frutices, atque sentes prius ejiciamus de silva. Sicut ergo Romani se cunctis præponendos existimant, in hac eradicatione sive discerptione non immerito eos aliis præponamus, protestantes eosdem in nulla Vulgaris eloquentiæ ratione fore tangendos. Dicimus ergo Romanorum non Vulgare, sed potius tristiloquium, Italorum Vulgarium omnium esse turpissimum: nec mirum, cum etiam morum, habituumque deformitate præ cunctis videantur fœtere; dicunt enim: Me sure, quinte dici, Post hos incolas Anconitanæ Marchiæ decerpamus, qui Chignamente sciate state loquuntur: cum quibus et Spoletanos abjicimus: nec prætereundum est quod in improperium istarum trium gentium Cantiones quam plures inventæ sunt, inter quas unam vidimus recte, atque perfecte ligatam: quam quidam Florentinus nomine Castra composuerat; incipiebat etenim:\n\n«Una ferina vosco poi da Gascoli\nÇita Çita sen gì a grande aina.»\n\nPost quos Mediolanenses, atque Bergomates, eorumque finitimos eruncemus: in quorum etiam improperium quemdam cecinisse recolimus:\n\n«In te l’ora del Vesper\nZiò fu del mes d’Ochiover.»\n\nPost hos Aquilejenses, et Istrianos cribremus, qui Çes fastù, crudeliter accentuando, eructant. Cumque iis montaninas omnes, et rusticanas loquelas ejiciamus, quæ semper mediastinis civibus accentus enormitate dissonare videntur, ut Casentinenses, et Pratenses. Sardos etiam, qui non Latini sunt, sed Latinis adsociandi videntur, ejiciamus: quoniam soli sine proprio Vulgari esse videntur, Grammaticam, tanquam simiæ homines, imitantes, nam Domus mea, et Dominus meus loquuntur.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-12",
+          "number": "12",
+          "ref": null,
+          "sourceHeading": "De idiomate Siculo et Apulo.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Exacceratis quodammodo Vulgaribus Italis, inter ea, quæ remanserunt in cribro, comparationem facientes, honorabilius, atque honorificentius, breviter seligamus. Et primo de Siciliano examinemus ingenium, nam videtur Sicilianum Vulgare sibi famam præ aliis adsciscere, eo quod quicquid poetantur Itali Sicilianum vocatur, et eo quod perplures doctores indigenas invenimus graviter cecinisse, puta in Cantionibus illis:\n\n«Ancor che l’acqua per lo foco lassi.»\n\nEt\n\n«Amor, che longamente m’hai menato.»\n\nSed hæc fama Trinacriæ terræ, si recte signum ad quod tendit inspiciamus, videtur tantum in opprobrium Italorum Principum remansisse, qui non eroico more, sed plebeo sequuntur superbiam. Siquidem illustres heroes Federicus Cæsar, et bene genitus ejus Manfredus, nobilitatem ac rectitudinem suæ formæ pandentes, donec fortuna permansit, humana secuti sunt, brutalia dedignantes: propter quod corde nobiles, atque gratiarum dotati, inhærere tantorum Principum majestati conati sunt: ita quod eorum tempore quicquid excellentes Latinorum enitebantur, primitus in tantorum Coronatorum aula prodibat. Et quia regale solium erat Sicilia, factum est, ut quicquid nostri prædecessores Vulgariter protulerunt, Sicilianum vocetur: quod quidem retinemus et nos, nec posteri nostri permutare valebunt. Racha, Racha! Quid nunc personat tuba novissimi Federici? quid tintinnabulum II Caroli? quid cornua Johannis et Azzonis Marchionum potentum? quid aliorum Magnatum tibiæ? nisi, Venite, carnifices; Venite, altriplices; Venite, avaritiæ sectatores. Sed præstat ad propositum repedare; quam frustra loqui: et dicimus, quod si Vulgare Sicilianum accipere volumus, scilicet quod proditur e terrigenis mediocribus, ex ore quorum judicium eliciendum videtur, prælationis minime dignum est; quia non sine quodam tempore profertur, ut puta ibi:\n\n«Traggemi d’este focora, — Se t’este a bolontate.»\n\nSi autem istum accipere nolumus, sed quod ab ore primorum Siculorum emanat, ut in præallegatis Cantionibus perpendi potest, nihil differt ab illo, quod laudabilissimum est, sicut inferius ostendemus. Apuli quoque, vel a sui acerbitate, vel finitimorum suorum contiguitate, qui Romani, et Marchiani sunt, turpiter barbarizant; dicunt enim:\n\n«Volzera che chiangesse lo quatraro.»\n\nSed quamvis terrigenæ Apuli loquantur obscene communiter, præfulgentes eorum quidam polite loquuti sunt, vocabula curialiora in suis Cantionibus compilantes, ut manifeste apparet eorum dicta prospicientibus, ut puta:\n\n«Madonna, dir vi voglio.»\n\nEt\n\n«Per fino amore vo’ sì lietamente.»\n\nQuapropter superiora notantibus innotescere debet, neque Siculum, neque Apulum esse illud, quod in Italia pulcherrimum est Vulgare, cum Eloquentes indigenas ostenderimus a proprio divertisse.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-13",
+          "number": "13",
+          "ref": null,
+          "sourceHeading": "De idiomate Tuscorum et Januensium.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Post hos veniamus ad Tuscos; qui propter amentiam suam infruniti, titulum sibi Vulgaris Illustris arrogare videntur, et in hoc non solum plebeorum dementat opinio, sed famosos quamplures viros hoc tenuisse comperimus: puta Guittonem Aretinum, qui nunquam se ad Curiale Vulgare direxit; Bonagiuntam Lucensem, Gallum Pisanum, Minum Mocatum Senensem, et Brunetum Florentinum; quorum dicta, si rimari vacaverit, non curialia, sed municipalia tantum invenientur. Et quoniam Tusci præ aliis in hac ebrietate bacchantur, dignum, utileque videtur municipalia Vulgaria Tuscanorum singulatim in aliquo depompare. Loquuntur Florentini, et dicunt:\n\n«Manuchiamo introcque:\nNon facciamo altro.»\n\nPisani:\n\n«Se ne andonno li fanti di Fioransa per Pisa.»\n\nLucenses:\n\n«Fo voto a Dio, che in gassara eie lo comuno de Luca.»\n\nSenenses:\n\n«Onche rinegata avesse io Siena.»\n\nAretini:\n\n«Vo’ tu venire ov’elle.»\n\nDe Perusio, Urbe Veteri, Viterbio, nec non de Civitate Castellana propter adfinitatem, quam cum Romanis et Spoletanis habent, nihil tractare intendimus. Sed quamquam fere omnes Tusci in suo turpiloquio sint obtusi, nonnullos Vulgaris excellentiam cognovisse sensimus, scilicet Guidonem, Lapum, et unum alium, Florentinos, et Cinum Pistoriensem, quem nunc indigne postponimus, non indigne coacti. Itaque si Tuscanas examinemus loquelas, cum pensemus qualiter viri præhonorati a propria diverterunt, non restat in dubio, quin aliud sit Vulgare, quod quærimus, quam quod attingit populus Tuscanorum. Si quis autem quod de Tuscis asserimus, de Januensibus asserendum non putet, hoc solum in mente premat, quod si per oblivionem Januenses ammitterent z litteram, vel mutire totaliter eos, vel novam reperire oporteret loquelam; est enim z maxima pars eorum locutionis: quæ quidem littera non sine multa rigiditate profertur.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-14",
+          "number": "14",
+          "ref": null,
+          "sourceHeading": "De idiomate Romandiolorum, et de quibusdam Transpadanis et præcipue de Veneto.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Transeuntes nunc humeros Appennini frondiferos, lævam Italiam cunctam venemur, ceu solemus, orientaliter ineuntes. Romandiolam igitur ingredientes, dicimus nos duo in Latio invenisse Vulgaria, quibusdam convenientiis contrariis alternata. Quorum unum in tantum muliebre videtur propter vocabulorum et prolationis mollitiem, quod virum (etiam si viriliter sonet) fœminam tamen facit esse credendum. Hoc Romandioli omnes habent, et præsertim Forlivenses: quorum civitas, licet novissima sit, meditullium tamen esse videtur totius provinciæ; hi Deusci affirmando loquuntur, et Oclo meo, et Corada mea proferunt blandientes. Horum aliquos a proprio poetando divertisse audivimus, Thomam videlicet, et Ugolinum Bucciolam Faventinos. Est et aliud, sicut dictum est, adeo vocabulis, accentibusque hirsutum et hispidum, quod propter sui rudem asperitatem, mulierem loquentem non solum disterminat, sed esse virum dubitare facit. Hoc omnes, qui Magara dicunt, Brixienses, videlicet, Veronenses, et Vicentini habent, nec non Paduani turpiter syncopantes onmia in tus participia, et denominativa in tas, ut mercò et bonté. Cum quibus et Trivisianos adducimus, qui more Brixianorum, et finitimorum suorum v consonantem per f apocopando proferunt, puta nof pro nove, vif pro vivo, quod quidem barbarissimum reprobamus. Veneti quoque nec se se investigati Vulgaris honore dignantur; et si quis eorum, errore compulsus, vanitaret in hoc, recordetur si unquam dixit:\n\n«Per le plage de Dio tu non veras;»\n\ninter quos unum vidimus nitentem divertere a materno et ad Curiale Vulgare intendere, videlicet Ildebrandinum Paduanum. Quare omnibus præsentis Capituli ad judicium comparentibus arbitramur, nec Romandiolum, nec suum oppositum, ut dictum est, nec Venetianum esse illud, quod quærimus, Vulgare Illustre.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-15",
+          "number": "15",
+          "ref": null,
+          "sourceHeading": "Facit magnam discussionem de idiomate Bononiensi.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Illud autem, quod de Italica silva remanet, percunctari conemur expedientes. Dicimus ergo quod forte non male opinantur, qui Bononienses asserunt pulchriori locutione loquentes, cum ab Imolensibus, Ferrariensibus, et Mutinensibus circumstantibus aliquid proprio Vulgari adsciscunt; sicut facere quoslibet a finitimis suis conjicimus, ut Sordellus de Mantua sua ostendit, Cremonæ, Brixiæ, atque Veronæ confini: qui tantus eloquentiæ vir existens non solum in poetando, sed quomodolibet loquendo, patrium Vulgare deseruit. Accipiunt etiam præfati cives ab Imolensibus lenitatem atque mollitiem, a Ferrariensibus vero et Mutinensibus aliqualem garrulitatem, quæ propria Lombardorum est. Hanc ex commixtione advenarum Longobardorum terrigenis credimus remansisse; et hæc est causa, quare Ferrariensium, Mutinensium, vel Regianorum nullum invenimus poetasse. Nam propriæ garrulitati assuefacti, nullo modo possunt ad Vulgare Aulicum, sine quadam acerbitate venire; quod multo magis de Parmensibus est putandum, qui monto pro molto dicunt. Si ergo Bononienses utrinque accipiunt, ut dictum est, rationabile videtur esse, quod eorum locutio per commixtionem oppositorum, ut dictum est, ad laudabilem suavitatem remaneat temperata: quod procui dubio nostro judicio sic esse censemus. Ita si præponentes eos in Vulgari sermone, sola municipalia Latinorum Vulgaria comparando considerant, allubescentes concordamus cum illis; si vero simpliciter Vulgare Bononiense præferendum existimant, dissentientes discordamus ab eis: non etenim esi quod Aulicum et Illustre vocamus; quoniam si fuisset, Maximus Guido Guinicelli, Guido Ghiselerius, Fabricius, et Honestus, et alii poetantes Bononiæ, nunquam ab ipso divertissent; qui doctores fuerunt illustres, et Vulgarium discretione repleti.\n\nMaximus Guido:\n«Madonna, il fermo core.»\nFabritius\n«Lo mio lontano gire.» \nHonestus:\n«Più non attendo il tuo soccorso, Amore.»\n\nQuæ quidem verba prorsus a mediastinis Bononiæ sunt diversa. Cumque de residibus in extremis Italiæ civitatibus neminem dubitare pendamus, et si quis dubitat, illum nulla nostra solutione dignamur; parum restat in nostra discussione dicendum. Quare cribellum cupientes deponere, ut residentiam cito visamus, dicimus Tridentum atque Taurinum, nec non Alexandriam civitates metis Italiæ in tantum sedere propinquas, quod puras nequeunt habere loquelas; ita quod si, sicut turpissimum habent Vulgare, haberent pulcherrimum, propter aliorum commixtionem esse vere Latinum negaremus. Quare si Latinum illustre venamur, quod venamur in illis inveniri non potest.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-16",
+          "number": "16",
+          "ref": null,
+          "sourceHeading": "De excellentia Vulgaris eloquentiæ, et quod communis est omnibus Italicis.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Postquam venati saltus et pascua sumus Italiæ, nec panteram, quam sequimur, adinvenimus; ut ipsam reperire possimus, rationabilius investigemus de illa, ut solerti studio redolentem ubique, nec usquam residentem, nostris penitus irretiamus tendiculis. Resumentes igitur venabula nostra, dicimus quod in omni genere rerum unum oportet esse, quo generis illius omnia comparentur et ponderentur, ut illinc aliorum omnium mensuram accipiamus. Sicut in numero cuncta mensurantur uno, et plura, vel pauciora dicuntur, secundum quod distant ab uno, vel ei propinquant; et sic in coloribus omnes Albo mensurantur; nam visibiles magis dicuntur, et minus, secundum quod accedunt, vel recedunt. Et quemadmodum de iis dicimus, quæ quantitatem et qualitatem ostendunt, de prædicamentorum quolibet, et de substantia posse dici putamus, scilicet quod unumquodque mensurabile sit in genere illo, secundum id quod simplicissimum est in ipso genere. Quapropter in actionibus nostris, quantumcumque dividantur in species, hoc signum inveniri oportet, quo et ipsæ mensurentur. Primum, in quantum simpliciter ut homines agimus, Virtutem habemus, ut generaliter illas intelligamus; nam, secundum ipsam, bonum et malum hominem judicamus: in quantum ut homines cives agimus, habemus Legem, secundum quam dicitur civis bonus et malus: in quantum ut homines Latini agimus, quædam habemus simplicissima signa, idest morum, et habituum, et locutionis, quibus Latinæ actiones ponderantur, et mensurantur. Quæ quidem nobilissima sunt earum, quæ Latinorum sunt, actionum, hæc nullius civitatis Italiæ propria sunt, sed in omnibus communia sunt. Inter quæ nunc potest discerni Vulgare, quod superius venabamur, quod in qualibet redolet civitate, nec cubat in ulla. Potest tamen magis in una quam in alia redolere, sicut simplicissima substantiarum, quæ Deus est, qui in homine magis redolet, quam in bruto: in animali, quam in planta: in hac, quam in minêra: in hac, quam in igne: in igne, quam in terra. Et simplicissima quantitas, quod est Unum, in impari numero redolet magis quam in pari, et simplicissimus color, qui Albus est, magis in citrino quam in viridi redolet. Itaque adepti quod qærebamus, dicimus Illustre, Cardinale, Aulicum, et Curiale Vulgare in Latio, quod omnis Latiæ civitatis est, et nullius esse videtur, et quo municipalia Vulgaria omnia Latinorum mensurantur, ponderantur, et comparentur.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-17",
+          "number": "17",
+          "ref": null,
+          "sourceHeading": "Quare hoc Idioma Illustre vocetur.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Quare autem Idioma, quod repertum est, Illustre, Cardinale, Aulicum, et Curiale adjicientes vocemus, nunc denudandum est; per quod clarius quod ipsum est faciemus patere. Primum igitur quid intendimus, cum illustre adjicimus, et quare illustre dicimus, denudemus. Per hoc quidquid Illustre dicimus, intelligimus quidquid illuminans, et illuminatum præfulget. Et hoc modo viros appellamus Illustres, vel quia potestate illuminati, alios et justitia et caritate illuminant, vel quia excellenter magistrati excellenter magistrent, ut Seneca, et Numa Pompilius. Et Vulgare, de quo loquimur, et sublimatum est magistratu et potestate, et suos honore sublimat et gloria. Magistratu quidem sublimatum videtur, cum de tot rudibus Latinorum vocabulis, de tot perplexis constructionibus, de tot defectivis prolationibus, de tot rusticanis accentibus, tam egregium, tam extricatum, tam perfectum, et tam urbanum videamus reductum, ut Cinus Pistoriensis, et Amicus ejus ostendunt in Cantionibus suis. Quod autem sit exaltatum potestate, videtur. Et quid majoris potestatis est, quam quod humana corda versare potest; ita ut nolentem, volentem, et volentem, nolentem faciat, velut ipsum et fecit, et facit? Quod autem honore sublimet, in promptu est. Nonne domestici sui Reges, Marchiones, et Comites, et Magnates quoslibet fama vincunt? Minime hoc probatione indiget. Quantum vero suos familiares gloriosos efficiat, nos ipsi novimus, qui hujus dulcedine gloriæ nostrum exilium postergamus. Quare ipsum Illustre merito profiteri debemus.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-18",
+          "number": "18",
+          "ref": null,
+          "sourceHeading": "Quare hoc Idioma vocetur Cardinale, Aulicum et Curiale.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Neque sine ratione ipsum Vulgarem Illustrem decoramus adjectione secunda, videlicet ut id Cardinale vocemus: nam sicut totum ostium cardinem sequitur, et quo cardo vertitur, versatur et ipsum, sive introrsum sive extrorsum flectatur: sic et universus municipalium Vulgarium grex vertitur et revertitur, movetur et pausat secundum quod istud; quod quidem vere paterfamilias esse videtur. Nonne quotidie extirpat sentosos frutices de Italica silva? nonne quotidie vel plantas inserit, vel plantaria plantat? quid aliud agricolæ sui satagunt, nisi ut admoveant, et removeant, ut dictum est? Quare prorsus tanto decorari vocabulo promeretur. \n  Quia vero Aulicum nominamus, illud causa est, quod si Aulam nos Itali haberemus, palatinum foret: nam si Aula totius Regni communis est domus, et omnium Regni partium gubernatrix augusta, quicquid tale est, ut omnibus sit commune, nec proprium ulli, conveniens est, ut in ea conversetur, et habitet: nec aliquod aliud habitaculum tanto dignum est habitante. Hoc nempe videtur esse id, de quo loquimur, Vulgare; et hinc est, quod in Regiis omnibus conversantes, semper Illustri Vulgari loquuntur. Hinc etiam est, quod nostrum Illustre velut accola peregrinatur, et in humilibus hospitatur asylis, cum Aula vacemus. \n  Est etiam merito Curiale dicendum, quia curialitas nil aliud est, quam librata regula eorum, quæ peragenda sunt, et quia statera hujusmodi librationis tantum in excellentissimis Curiis esse solet, hinc est quod quicquid in actibus nostris bene libratum est, curiale dicatur. Unde cum istud in excellentissima Italorum Curia sit libratum, dici Curiale meretur. Sed dicere quod in excellentissima Italorum curia sit libratum, videtur nugatio, cum Curia careamus. Ad quod facile respondetur. Nam licet Curia (secundum quod unica accipitur, ut curia Regis Alamaniæ) in Italia non sit, membra tamen ejus non desunt: et sicut membra illius uno Principe uniuntur, sic membra hujus gratioso lumine rationis unita sunt: quare falsum esset dicere, Curia carere Italos, quamquam Principe careamus; quoniam Curiam habemus, licet corporaliter sit dispersa.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-19",
+          "number": "19",
+          "ref": null,
+          "sourceHeading": "Idiomata italica ad unum reducuntur, quod appellatur Latinum.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Hoc autem Vulgare, quod Illustre, Cardinale, Aulicum esse, et Curiale ostensum est, dicimus esse illud, quod Vulgare Latinum appellatur. Nam sicut quoddam Vulgare est invenire, quod proprium est Cremonæ, sic quoddam est invenire, quod proprium est Lombardiæ, et sicut est invenire aliquod, quod sit totius sinistræ Italiæ proprium; et sicut omnia hæc est invenire, sic et illud quod totius Italiæ est. Et sicut illud Cremonense, ac illud Lombardum, et tertium Semilatium dicitur, sic istud, quod totius Italiæ est, Latinum Vulgare vocatur. Hoc enim usi sunt Doctores illustres, qui lingua Vulgari poetati sunt in Italia, ut Siculi, Apuli, Tusci, Romandioli, Lombardi et utriusque Marchiæ viri. Et quia intentio nostra, ut polliciti sumus in principio hujus Operis, est doctrinam de Vulgari Eloquentia tradere: ab ipso, tanquam ab excellentissimo incipientes, quos putamus ipso dignos uti, et propter quid, et quomodo, nec non ubi, quando, et ad quos ipsum dirigendum sit, in immediatis libris tractabimus. Quibus illuminatis, inferiora Vulgaria illuminare curabimus, gradatim descendentes ad illud, quod unius solius Familiæ proprium est.",
+              "ref": null
+            }
+          ]
+        }
+      ],
+      "passages": []
+    },
+    {
+      "id": "book-2",
+      "number": "2",
+      "ref": null,
+      "sourceHeading": "Liber Secundus",
+      "editorialTitle": null,
+      "children": [
+        {
+          "id": "book-2-ch-1",
+          "number": "1",
+          "ref": null,
+          "sourceHeading": "Quibus conveniat, aut non, uti polito et ornato Vulgari.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Pollicitantes iterum sedulitatem ingenii nostri, et ad calamum frugi operis redeuntes, ante omnia confitemur Latinum Vulgare Illustre tam prosaice, quam metrice decere proferri. Sed quia ipsum Prosaicantes ab Inventoribus magis accipiunt; et quia quod inventum est prosaicantibus permanet firmum exemplar, et non e contrario, quamvis quædam videntur præbere primatum versui; ergo secundum quod metricum est, ipsum carminemus, ordine pertractantes illo, quem in fine primi Libri polliciti sumus. Quæramus igitur prius, utrum Versificantes vulgariter debeant illud uti; et superficie tenus videtur, quod sic; quia omnis qui versificatur, suos versus exornare debet in quantum potest. Quare cum nullum sit tam grandis exornationis, quam Vulgare Illustre, videtur, quod quisque versificator debeat ipsum uti. Præterea quod optimum est in genere suo, si suis inferioribus misceatur, non solum nil derogare videtur eis, sed ea meliorare videtur. Quare si quis versificator, quamquam rude versificetur, ipsum suæ ruditati admisceat, non solum bene ipsi ruditati faciet, sed ipsum sic facere oportere videtur. Multo magis opus est adjutorio illis, qui pauca, quam qui multa possunt, et sic apparet quod omnibus versificantibus liceat ipsum uti. \n  Sed hoc falsissimum est, quia nec semper excellentissime poetantes debent illud induere, sicut per inferius pertractata comprehendi poterit. Exigit ergo istud sibi consimiles viros, quemadmodum alii nostri mores et habitus: exigit enim magnificentia magna potentes, purpura viros nobiles, sic et hoc excellentes ingenio et scientia quærit, et alios aspernatur, ut per inferiora patebit: nam quicquid nobis convenit, vel gratia generis, vel speciei, vel individui convenit, ut sentire, ridere, militare; sed nobis non convenit hoc gratia generis, quia etiam brutis conveniret: nec gratia speciei, quia cunctis hominibus esset conveniens, de quo nulla quæstio est: nemo enim montaninis hoc dicet esse conveniens, quia optimæ conceptiones non possunt esse nisi ubi scientia et ingenium est. Ergo optima loquela, non rusticana tractantibus, convenit nobis individui gratia.\n  Sed nihil individuo convenit, nisi per proprias dignitates, puta mercari, et militare, ac regere; quare si convenientia respiciunt dignitates, hoc est dignos (et quidam digni, quidam digniores, quidam dignissimi esse possunt), manifestum est quod bona dignis, meliora dignioribus, et optima dignissimis convenient. Et cum loquela non aliter sit necessarium instrumentum nostræ conceptionis, quam equus militis; et optimis militibus optimi conveniant equi, optimis conceptionibus, ut dictum est, optima loquela conveniet. Sed optimæ conceptiones non possunt esse, nisi ubi scientia et ingenium est; ergo optima loquela non convenit nisi illis, in quibus ingenium et scientia est; et sic non omnibus versificantibus optima loquela convenit (cum plerique sine scientia et ingenio versificentur), et per consequens, nec optimum Vulgare. Quare si non omnibus convenit, non omnes ipsum debent uti; quia inconvenienter agere nullus debet. Et ubi dicitur quod quilibet suos versus exornare debet in quantum potest, verum esse testamur; sed nec bovem ephippiatum, nec balteatum suem dicemus ornatum, immo potius deturpatum ridemus illum; est enim exornatio alicujus convenientis additio. Ad illud ubi dicitur, quod superiora inferioribus admixta perfectum adducunt, dicimus verum esse, quando cesset discretio, puta si aurum cum argento conflemus: sed si discretio remanet, inferiora vilescunt, puta cum formosæ mulieres deformibus admiscentur. Unde cum sententia versificantium semper verbis discretive mixta remaneat, si non fuerit optima, optimo sociata Vulgari, non melior, sed deterior apparebit, quemadmodum turpis mulier, si auro vel serico vestiatur.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-2",
+          "number": "2",
+          "ref": null,
+          "sourceHeading": "In qua materia conveniat ornata Eloquentia Vulgaris.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Postquam non omnes versificantes, sed tantum excellentissimos Illustre uti Vulgare debere astruximus, consequens est astruere, utrum omnia ipso tractanda sint, aut non; et si non omnia, quæ ipso digna sunt segregatim ostendere. Circa quod primo reperiendum est id, quod intelligimus per illud quod dicimus dignum. Dignum est quod dignitatem habet, sicut nobile, quod nobilitatem; et sicut, cognito habituante, habituatum cognoscitur, in quantum hujus: inde cognita dignitate, cognoscemus et dignum. Est enim dignitas meritorum effectus, sive terminus: ut cum quis benemeruit, ad boni dignitatem perventum esse dicimus: cum male vero, ad mali: puta bene militantem, ad victoriæ dignitatem; bene autem regentem, ad regni: nec non mendacem ad ruboris dignitatem, et latronem ad eam, quæ est mortis. Sed cum in benemerentibus fiant comparationes sicut in aliis, ut quidam bene, quidam melius, quidam optime, quidam male, quidam pejus, quidam pessime mereantur, et hujusmodi comparationes non fiant, nisi per respectum ad terminum, quem dignitatem dicimus, ut dictum est: manifestum est quod dignitates inter se comparentur secundum magis et minus, ut quædam magnæ, quædam majores, quædam maximæ sint, et per consequens aliud dignum, aliud dignius, aliud dignissimum esse constat. Et cum comparatio dignitatum non fiat circa idem objectum, sed circa diversa, ut dignius dicamus quod majoribus, dignissimum quod maximis dignum est, quia nihil eodem dignius esse potest; manifestum est, quod optima optimis, secundum rerum exigentiam, digna sint. Unde cum hoc, quod dicimus Illustre, sit optimum aliorum Vulgarium, consequens est, ut sola optima digna sint ipso tractari: quæ quidem tractandorum dignissima nuncupamus.   Nunc autem quæ sint ipsa venemur. Ad quorum evidentiam sciendum est, quod sicut homo tripliciter spirituatus est, videlicet vegetabilis, animalis et rationalis, triplex iter perambulat. Nam secundum quod vegetabilis est, utile quærit, in quo cum plantis communicat; secundum quod animalis, delectabile, in quo cum brutis; secundum quod rationalis, honestum quærit, in quo solus est, vel Angelicæ naturæ sociatur. Per hæc tria quicquid agimus, agere videmur; et quia in quolibet istorum quædam sunt majora, quædam maxima, secundum quod talia, quæ maxima sunt, maxime pertractanda videntur; et per consequens maximo Vulgari. \n  Sed disserendum est, quæ maxima sint; et primo in eo quod est utile: in quo, si callide consideremus intentum omnium quærentium utilitatem, nil aliud, quam Salutem inveniemus. Secundo in eo, quod est delectabile: in quo dicimus illud esse maxime delectabile, quod per pretiosissimum objectum appetitus delectat: hoc autem Venus est. Tertio in eo, quod est honestum: in quo nemo dubitat esse Virtutem. Quare hæc tria, Salus videlicet, Venus, Virtus apparent esse illa magnalia, quæ sint maxime pertractanda, hoc est ea, quæ maxima sunt ad ista, ut armorum Probitas, amoris Accensio, et Directio voluntatis. Circa quæ sola, si bene recolimus, illustres viros invenimus vulgariter poetasse; scilicet Bertramum de Bornio, Arma; Arnaldum Danielem, Amorem; Gerardum de Bornello, Rectitudinem; Cinum Pistoriensem, Amorem; Amicum ejus, Rectitudinem.\n\nBertramus etenim ait:\n«Non puesc mudar qu’un chantar non esparja.» \nArnaldus:\n«L’aura amara fa ’ls broils blancutz clarzir.»\nGerardus:\n«Per solatz revelhar\nQue s’es trop endormitz.»\nCinus:\n«Degno son io ch’io mora.»\nAmicus ejus\n«Doglia mi reca nello core ardire.»\n\nArma vero nullum Italum adhuc invenio poetasse. His proinde visis, quæ canenda sint Vulgari altissimo innotescunt.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-3",
+          "number": "3",
+          "ref": null,
+          "sourceHeading": "Distinguit quibus modis Vulgariter versificatores poetantur.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Nunc autem quomodo ea coartare debemus, quæ tanlo sunt digna Vulgari, sollicite vestigare conemur. Volentes ergo modum tradere, quo ligari hæc digna existant, primum dicimus esse ad memoriam reducendum, quod Vulgariter poetantes sua Poemata multimode protulerunt; quidam per Cantiones, quidam per Ballatas, quidam per Sonitus, quidam per alios illegitimos et irregulares modos, ut inferius ostendetur. Horum autem modorum Cantionum modum excellentissimum esse pensamus: quare si excellentissima excellentissimis digna sunt, ut superius est probatum, illa quæ excellentissimo digna sunt Vulgari, modo excellentissimo digna sunt, et per consequens in Cantionibus pertractanda. Quod autem modus Cantionum sit talis, ut dictum est, pluribus potest rationibus indagari. Prima quidem quia, cum quicquid versificamur sit Cantio, solæ Cantiones hoc vocabulum sibi sortitæ sunt: quod nunquam sine vetusta provisione processit. Adhuc, quicquid per se ipsum efficit illud, ad quod factum est, nobilius esse videtur, quam quod extrinseco indiget; sed Cantiones per se totum quod debent, efficiunt, quod Ballatæ non faciunt (indigent enim plausoribus, ad quos editæ sunt): ergo Cantiones nobiliores Ballatis esse sequitur æstimandas, et per consequens nobilissimum aliorum esse modum illarum: cum nemo dubitet, quin Ballatæ Sonitus nobilitate modi excellant. Præterea illa videntur nobiliora esse, quæ conditori suo magis honoris afferunt: sed Cantiones magis honoris afferunt suis conditoribus, quam Ballatæ: ergo nobiliores sunt, et per consequens modus earum nobilissimus aliorum. Præterea, quæ nobilissima sunt, carissime conservantur; sed inter ea quæ cantata sunt, Cantiones carissime conservantur, ut constat visitantibus libros: ergo Cantiones nobilissimæ sunt, et per consequens modus earum nobilissimus est. Adhuc in artificiatis illud est nobilissimum, quod totam comprehendit artem: cum ergo ea, quæ cantantur, artificiata existant, et in solis Cantionibus ars tota comprehendatur, Cantiones nobilissimæ sunt, et sic modus earum nobilissimus aliorum. Quod autem tota comprehendatur in Cantiones ars cantandi poetice, in hoc patet, quod quicquid artis reperitur, in ipsis est, sed non convertitur hoc. Signum autem horum, quæ dicimus, promptum in conspectu habetur: nam quicquid de cacuminibus illustrium capitum poetantium profluxit ad labia, in solis Cantionibus invenitur. Quare ad propositum patet quod ea, quæ digna sunt Vulgari altissimo, in Cantionibus tractanda sunt.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-4",
+          "number": "4",
+          "ref": null,
+          "sourceHeading": "De varietate Stili eorum, qui poetice scribunt.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Quando quidem adprobavimus extricantes, illos qui sint Aulico digni Vulgari, et quæ, nec non modus, quem tanto dignamur honore, ut solus altissimo Vulgari conveniat; antequam migremus ad alia, modum Cantionum, quem casu magis, quam arte multi usurpare videntur, enucleemus. Et quod huc usque casualiter est assumptum, illius artis magisterium reseremus, modum Ballatarum et Sonituum omittentes, quia illum elucidare intendimus in IV hujus Operis, cum de mediocri Vulgari tractabimus. Revisentes ergo ea, quæ dicta sunt, recolimus nos eos, qui Vulgariter versificantur, plerumque vocasse Poetas; quod procul dubio rationabiliter eructare præsumpsimus, quia prorsus Poetæ sunt, si Poesim recte consideremus; quæ nihil aliud est, quam fictio rethorica, in musica posita. Differunt tamen a magnis Poetis, hoc est regularibus; quia isti magno sermone, et arte regulari poetati sunt: illi vero casu, ut dictum est. Idcirco accidit, ut quantum istos proximius imitemur, tantum rectius poetemur. Unde nos doctrinæ aliquid operæ nostræ impendentes, doctrinas eorum Poeticas semulari oportet. Ante omnia ergo dicimus, unumquemque debere materiæ pondus propriis humeris excipere æquale, ne forte humerorum nimio gravatam virtutem in cœnum cespitare necesse sit. Hoc est, quod magister noster Horatius præcipit, cum in principio Poeticæ, «Sumite materiam vestris, qui scribitis, æquam Viribus,» dicit. \n  Deinde in iis, quæ dicenda occurrunt, debemus discretione potiri, utrum tragice, sive comice, sive elegiace sint canenda. Per Tragœdiam, Superiorem stilum intelligimus; per Comœdiam, Mediocrem; per Elegiam stilum intelligimus Inferiorem. Si tragice canenda videntur, tunc adsumendum est Vulgare Illustre, et per consequens Cantionem ligare. Si vero comice, tunc quandoque illustre, quandoque humile Vulgare sumatur; et ejus discretionem in IV hujus (Operis) reservamus ostendere. Si autem elegiace, solum humile nos oportet sumere. Sed omittamus alios, et nunc, ut conveniens est, de Stilo tragico, pertractemus.\n  Stilo equidem tragico tunc uti videmur, quando cum gravitate sententiæ, tam superbia carminum, quam constructionis elatio, et excellentia vocabulorum concordat. Sed quia, si bene recolimus, summa summis esse digna jam fuit probatum, et iste, quem tragicum appellamus, summus videtur esse stilorum, illa quæ summe canenda distinximus, isto solo sunt stilo canenda, videlicet Salus, Amor et Virtus, et quæ propter ea concipimus, dummodo nullo accidente vilescant. Caveat ergo quilibet, et discernat ea, quæ dicimus; et quando tria hæc pure cantare intendit, vel quæ ad ea directe et pure sequuntur, prius Helicone potatus, tensis fidibus adsumat secure plectrum, et cum more incipiat. Sed Cantionem, atque discretionem hanc, sicut decet, facere, hoc opus et labor est; quoniam nunquam sine strenuitate ingenii, et artis assiduitate, scientiarumque habitu fieri potest. Et ii sunt, quos Poeta Æeidorum sexto, dilectos Dei, et ab ardente virtute sublimatos ad æthera, Deorumque filios vocat, quamquam figuraliter loquatur. Et ideo confiteamur eorum stultitiam, qui arte, scientiaque immunes, de solo ingenio confidentes, ad summa summe canenda prorumpunt; et a tanta prosumptuositate desistant; et si anseres naturali desidia sunt, nolint astripetam aquilam imitari.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-5",
+          "number": "5",
+          "ref": null,
+          "sourceHeading": "De compositione Versuum et varietate eorum per syllabas.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "De gravitate sententiarum, vel satis dixisse videmur, vel saltem totum, quod operis est nostri. Quapropter ad superbiam carminum festinemus; circa quod sciendum est, quod prædecessores nostri diversis carminibus usi sunt in Cantionibus suis, quod et moderni faciunt: sed nullum adhuc invenimus carmen in syllabicando endecasyllabum transcendisse, nec a trisyllabo descendisse. Et licet trisyllabo carmine atque endecasyllabo, et omnibus intermediis cantores Latii usi sint, pentasyllabum, et eptasyllabum, et endecasillabum in usu frequentiori habentur: et post hæc trisyllabum ante alia; quorum omnium endecasyllabum videtur esse superbius, tam temporis occupatione, quam capacitate sententiæ, constructionis, et vocabulorum; quorum omnium speciositas magis multiplicatur in illo, ut manifeste apparet; nam ubicumque ponderosa multiplicantur, et pondus. Et omnes hoc Doctores perpendisse videntur, Cantiones illustres incipientes ab illo, ut Gerardus de Bornello:\n\n«Ara auziretz encabalitz chantars.»\n\nQuod carmen licet decasyllabum videatur, secundum rei veritatem, endecasyllabum est: nam duæ consonantes extremæ non sunt de syllaba præcedente. Et licet propriam vocalem non habeant, virtutem syllabæ non tamen amittunt. Signum autem est, quod rithimus ibi una vocali perficitur, quod esse non posset, nisi virtute alterius ibi subintellectæ.\n\nRex Navarriæ:\n«De fin Amor si vient sen et bonté.»\n\nUbi si consideretur accentus, et ejus pausa, endecasyllabum esse constabit.\n\nGuido Guinicelli:\n«Al cuor gentil ripara sempre Amore.»\nJudex de Columnis de Messana:\n«Amor, che longamente m’hai menato.»\nRenaldus de Aquino:\n«Per fino Amore vo sì lietamente.»\nCinus Pistoriensis:\n«Non spero che giammai per mia salute.»\nAmicus ejus:\n«Amor, che muovi tua virtù dal cielo. »\n\nEt licet hoc endecasyllabum celeberrimum carmen, ut dictum est, videatur omnium aliorum, si eptasyllabi aliqualem societatem assumat, dummodo principatum obtineat, clarius magisque sursum superbire videtur; sed hoc ulterius elucidandum remaneat. Et dicimus eptasyllabum sequi illud, quod maximum est in celebritate. Post hoc pentasyllabum, et deinde trisyllabum ordinamus. Enneasyllabum vero, quia triplicatum trysillabum videbatur, vel nunquam in honore fuit, vel propter fastidium obsoluit. Parisyllabos vero propter sui ruditatem non utimur, nisi raro; retinent enim naturam suorum numerorum, qui numeris imparibus, quemadmodum materia formæ, subsistunt. Et sic recolligentes prædicta, endecasyllabum videtur esse superbissimum carmen, et hoc est quod quærebamus. Nunc autem restat investigandum de constructionibus elatis, et fastigiosis vocabulis, et demum, fustibus torquibusque paratis, promissum fascem, hoc est Cantionem, quomodo ligare quis debeat, instruemus.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-6",
+          "number": "6",
+          "ref": null,
+          "sourceHeading": "De varia constructione, qua utendum est in Cantionibus.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Quia circa Vulgare Illustre nostra versatur intentio, quod nobilissimum est aliorum; et ea quæ digna sunt illo cantari, discrevimus, quæ tria nobilissima sunt, ut superius est adstructum; et modum Cantionum selegimus illis, tanquam aliorum modorum summum; et ut ipsum perfectius edocere possimus, quædam jam præparavimus, Stilum videlicet, atque Carmen; nunc de Constructione agamus. Est enim sciendum, quod Constructionem vocamus regulatam compaginem dictionum, ut: Aristotiles philosophatus est tempore Alexandri. Sunt enim hic quinque dictiones compactæ regulariter, et unam faciunt constructionem. Circa quidem hanc prius considerandum est, quod constructionum alia congrua est, alia vero incongrua est; et quia, si primordium bene discretionis nostræ recolimus, sola suprema venamur; nullum in nostra venatione locum habet incongua, quia inferiorem gradum bonitatis promeruit. Pudeat ergo, pudeat idiotas tantum audere deinceps, ut ad Cantiones prorumpant; quos non aliter deridemus, quam cæcum de coloribus distinguentem. Est ut videtur congrua, quam sectamur: sed non minoris difficultatis accidit discretio, priusquam, quam quærimus, attingamus, videlicet urbanitate plenissimam. Sunt etenim gradus constructionum quamplures, videlicet insipidus, qui est rudium, ut: Petrus amat multum dominam Bertam. Est pure sapidus, qui est rigidorum scholarium, vel magistrorum, ut: Piget me miserorum, sed pietatem majorem illorum habeo, quicumque in exilio tabescentes, patriam tantum somniando revisunt. Est et sapidus et venustus, qui est quorumdam superficie tenus rethoricam haurientium, ut: Laudabilis discretio Marchionis Estensis, et sua magnificentia, præparata cunctis, illum facit esse dilectum. Est et sapidus, et venustus, etiam et excelsus, qui est dictatorum illustrium, ut: Ejecta maxima parte florum de sinu tuo, Florentia, nequicquam Trinacriam Totila serus adivit. Hunc gradum constructionis excellentissimum nominamus: et hic est quem quærimus, cum suprema venemur, ut dictum est. Hoc solum illustres Cantiones inveniuntur contextæ, ut: \nGerardus:\n\n«Si per mon Sobre-Totz no fos.»\n\nRex Navarriæ:\n\n«Dreit Amor qu’en mon cor repaire.»\n\nFolquetus de Marsilia:\n\n«Tam m’abelhis l’amoros pensamens.»\n\nHarnaldus Daniel:\n\n«Sols sui qui sai lo sobrafan, que m sortz.»\n\nHamericus de Belinoi:\n\n«Nuls hom no pot complir adreitamen.»\n\nHamericus de Peculiano:\n\n«Si com l’arbres, que per sobrecarcar.»\n\nGuido Guinicelli.\n\n«Tegno di folle impresa allo ver dire.»\n\nGuido Cavalcanti:\n\n«Poi che di doglia cuor convien ch’io porti.»\n\nCinus de Pistorio:\n\n«Avvenga ch’io non aggia più per tempo.»\n\nAmicus ejus:\n\n«Amor, che nella mente mi ragiona.»\n\nNec mireris, Lector, de tot reductis Auctoribus ad memoriam. Non enim quam supremam vocamus constructionem, nisi per hujusmodi exempla possumus indicare. Et fortassis utilissimum foret ad illam habituandam regulatos vidisse Poetas, Virgilium videlicet, Ovidium in Metamorphoseos, Statium atque Lucanum, nec non alios, qui usi sunt altissimas prosas, ut Tullius, Livium, Plinium, Frontinum, Paulum Orosium, et multos alios, quos amica solitudo nos visitare invitat. Desistant ergo ignorantiæ sectatores Guidonem Aretinum, et quosdam alios extollentes, nunquam in vocabulis atque constructione desuetos plebescere.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-7",
+          "number": "7",
+          "ref": null,
+          "sourceHeading": "Quæ sint ponenda Vocabula, et quæ in metro Vulgari cadere non possunt.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Grandiosa modo vocabula sub præelato stilo digna consistere, successiva nostræ progressionis provincia lucidari expostulat. Testamur, proinde incipientes, non minimum opus esse rationis discretionem vocabulorum habere, quoniam perplures eorum species inveniri posse videmus. Nam vocabulorum quædam puerilia, quædam muliebria, quædam virilia; et horum quædam silvestria, quædam urbana; et eorum, quæ urbana vocamus, quædam pexa et lubrica, quædam irsuta et reburra sentimus: inter quæ quidem pexa atque irsuta sunt illa, quæ vocamus grandiosa: lubrica vero et reburra vocamus illa, quæ in superfluum sonant. Quemadmodum in humanis operibus, quædam magnanimitatis sunt opera, quædam fumi; ubi, licet in superficie quidam consideretur adscensus, ex quo limitata virtutis linea prævaricatur, bona ratione non adscensus, sed per alta declivia ruina constabit. Intuearis ergo, Lector, quantum ad exacceranda egregia verba te cribrare oportet: nam si Vulgare Illustre consideres, quo tragice debent uti Poetæ Vulgares, ut superius dictum est, quos informare intendimus, sola vocabula nobilissima in cribro tuo residere curabis. In quorum numero, nec puerilia propter sui simplicitatem, ut Mamma et Babbo, Mate et Pate; nec muliebria propter sui mollitiem, ut dolciada et placevole; nec silvestria, propter asperitatem, ut greggia, et cætera; nec urbana lubrica et reburra, ut femina et corpo, ullo modo poteris conlocare. Sola etenim pexa, irsutaque urbana tibi restare videbis, quæ nobilissima sunt, et membra Vulgaris illustris. Et pexa vocamus illa, quæ trisyllaba, vel vicinissima trisyllabilitati, sine aspiratione, sine accentu acuto, vel circumflexo, sine z vel x duplicibus, sine duarum liquidarum geminatione vel sine positione immediate post mutam duplicatam, quasi loquentem cum quadam suavitate relinquunt, ut Amore, donna, disio, virtute, donare, letizia, salute, securitate, difesa. Irsuta quoque dicimus omnia, præter hæc, quæ vel necessaria, vel ornativa videntur Vulgaris Illustris. Et necessaria quidem appellamus, quæ campsare non possumus, ut quædam monosyllaba, ut sì, vo, me, te, se, a, e, i, o, u, interjectiones, et alia multa. Ornativa vero dicimus omnia polisyllaba, quæ mixta cum pexis pulchram faciunt armoniam compaginis, quamvis asperitatem habeant adspirationis, et accentus, et duplicium, et liquidarum, et prolixitatis, ut Terrà, honore, spezza, gravitate, alleviato, impossibilitate, benavventuratissimo, avventuratissimamente, disavventuratissimamente, sovramagnificentissimamente, quod endecasyllabum est. Posset adhuc inveniri plurium syllabarum vocabulum, sive verbum, sed quia capacitatem nostrorum omnium carminum superexcedit, rationi præsenti non videtur obnoxium, sicut et illud Onorificabilitudinitate, quod duodena perficitur syllaba in Vulgari, et in Grammatica tredena perficitur, in duobus obliquis. Quomodo autem pexis, irsuta hujusmodi sint armonizanda per metra, inferius instruendm relinquimus. Et quæ dicta sunt de fastigiositate vocabulorum, ingenuæ discretioni sufficiant.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-8",
+          "number": "8",
+          "ref": null,
+          "sourceHeading": "Quid sit Cantio, et quod pluribus modis variatur.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Præparatis fustibus, torquibusque ad fascem, nunc fasciandi tempus incumbit; sed quia cujuslibet operis cognitio præcedere debet operationem, velut signum ante admissionem sagittæ, vel jaculi, primo et principaliter quid sit iste fascis, quem fasciare intendimus, videamus. Fascis igitur iste, si bene comminiscimur omnia prælibata, Cantio est. Quapropter quid sit Cantio videamus, et quid intelligimus cum dicimus Cantionem. Est enim Cantio, secundum verum nominis significatum, ipse canendi actus, vel passio, sicut lectio, passio, vel actus legendi.\n  Sed divaricemus, quod dictum est, utrum videlicet hæc sit Cantio, prout est actus, vel prout passio. Circa hoc considerandum est, quod Cantio dupliciter accipi potest; uno modo secundum quod fabricatur ab auctore suo, et sic est actio; et secundum istum modum Virgilius primo Æneidos dicit:\n\n«Arma virumque cano.»\n\nAlio modo, secundum quod fabricata profertur vel ab auctore, vel ab alio quicumque sit, sive cum soni modulatione proferatur, sive non, et sic est passio. Nam tunc agitur, modo vero agere videtur in alium, et sic tunc alicujus actio, modo quoque passio alicujus videtur. Et quia prius agitur ipsa, quam agat, magis, immo prorsus, denominari videtur ab eo quod agitur (et est actio alicujus), quam ab eo quod agit in alios. Signum autem hujus est, quod nunquam dicimus: hæc est Cantio Petri eo quod ipsam proferat, sed eo quod fabricaverit illam. Præterea distinguendum est, utrum Cantio dicatur fabricatio verborum armonizatorum, vel ipsa modulatio. Ad quod dicimus, quod nunquam modulatio dicitur Cantio, sed sonus, vel tonus, vel nota, vel melos. Nullus enim tubicen, vel organista, vel citharædus melodiam suam Cantionem vocat, nisi in quantum nupta est alicui Cantioni, sed armonizantes verba, opera sua Cantiones vocant. Et etiam talia verba in chartulis, absque prolatore jacentia, Cantiones vocamus; et ideo Cantio nil aliud esse videtur, quam actio completa dictantis verba modulationi armonizata. Quapropter tam Cantiones, quas nunc tractamus, quam Ballatæ et Sonitus, et omnia cujuscumque modi verba sint armonizata Vulgariter et regulariter, Cantiones esse dicimus. Sed quia sola Vulgaria ventilamus, regulata liquentes, dicimus vulgarium Poematum unum esse supremum, quod per superexcellentiam Cantionem vocamus; quod autem supremum quid sit Cantio, in tertio hujus Libri capitulo est probatum. Et quoniam quod diffinitum est, pluribus generale videatur, resumentes diffinitum jam generale vocabulum, per quædam differentias solum, quod petimus, distinguamus. Dicimus ergo quod Cantio, prout nos quærimus, in quantum per superexcellentiam dicitur, est æqualium stantiarum sine responsorio ad unam sententiam tragica conjugatio, ut nos ostendimus, cum diximus:\n\n«Donne, che avete intelletto d’amore.»\n\nEt sic patet quid Cantio sit, et prout accipitur generaliter, et prout per superexcellentiam vocamus eam. Satis etiam patere videtur, quid intelligimus cum Cantionem vocamus, et per consequens, quid sit ille fascis, quem ligare molimur. Quod autem dicimus «tragica conjugatio» est quia cum comice fiet hæc conjugatio, Cantilenam vocamus per diminutionem, de qua in quarto hujus (Operis) tractare intendimus.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-9",
+          "number": "9",
+          "ref": null,
+          "sourceHeading": "Quæ sint principales in Cantione partes, et quod Stantia in Cantione principalior pars est.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Quia, ut dictum est, Cantio est conjugatio Stantiarum, ignorato quid sit Stantia, necesse est Cantionem ignorare: nam ex diffinientium cognitione diffiniti resultat cognitio; et ideo consequenter de Stantia est agendum, ut scilicet investigemus, quid ipsa sit, et quid per eam intelligere volumus. Et circa hoc sciendum est, quod hoc vocabulum per solius artis respectum inventum est, videlicet, ut in quo tota Cantionis ars esset contenta, illud diceretur Stantia, hoc est mansio capax, vel receptaculum totius artis. Nam quemadmodum Cantio est gremium totius sententiæ, sic Stantia totam artem ingremiat: nec licet aliquid artis sequentibus arrogare, sed solam artem antecedentis induere. Per quod patet, quod ipsa, de qua loquimur, erit conterminatio, sive compages omnium eorum, quæ Cantio sumit ab arte; quibus devaricatis, quam quærimus, descriptio innotescit. Tota igitur ars Cantionis circa tria videtur consistere, primo circa cantus divisionem, secundo circa partium habitudinem, tertio circa numerum carminum et syllabarum. De rithimo vero mentionem non facimus, quia de propria Cantionis arte non est. Licet enim in qualibet Stantia rithimos innovare, et eosdem reiterare ad libitum; quod, si de propria Cantionis arte rithimus esset, minime liceret, quod dictum est. Si quid autem rithimi servare interest hujus quod est artis, comprehendetur ibi, cum dicemus partium habitudinem. Quare hic colligere possumus ex prædictis diffinientes, et dicere: Stantiam esse, sub certo cantu et habitudine, limitatam carminum et syllaharum compagem.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-10",
+          "number": "10",
+          "ref": null,
+          "sourceHeading": "Quid sit cantus Stantiæ, et quod Stantia variatur pluribus modis in Cantione.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Scientes quod rationale animal homo est, et quod sensibilis anima et corpus est animal, et ignorantes de hac anima, quid ea sit, vel de ipso corpore, perfectam hominis cognitionem habere non possumus; quia cognitionis perfectio uniuscujusque terminatur ad ultima elementa, sicut Magister sapientum in principio Physicorum testatur. Igitur ad habendam Cantionis cognitionem, quam inhiamus, nunc diffinientia suum diffiniens sub compendio ventilemus: et primo de cantu Stantiæ, deinde de habitudine, et postmodum de carminibus et syllabis percunctemur. \n  Dicimus ergo, quod omnis Stantia ad quandam odam recipiendam armonizata est; sed in modo diversificari videtur; quia quædam sunt sub una oda continua, usque ad ultimum progressive, hoc est sine iteratione modulationis cujusquam, et sine dieresi (et dieresim dicimus deductionem vergentem de una oda in aliam: hanc Voltam vocamus, cum Vulgus alloquimur): et hujusmodi Stantia usus est fere in omnibus Cantionibus suis Arnaldus Daniel: et nos eum secuti sumus, cum diximus:\n\n«Al poco giorno, ed al gran cerchio d’ombra.»\n\nQuædam vero sunt dieresim patientes, et dieresis esse non potest secundum quod eam appellamus, nisi reiteratio unius odæ fiat, vel ante dieresim, vel post, vel utrinque. Si ante dieresim repetitio fiat, Stantiam dicimus habere Pedes; et duos habere decet, licet quandoque tres fiant, rarissime tamen. Si repetitio fiat post dieresim, tunc dicimus, Stantiam habere Versus. Si ante non fiat repetitio, Stantiam dicimus habere Frontem: si post non fiat, dicimus habere Syrma, sive Caudam. Vide igitur, Lector, quanta licentia data sit Cantiones poetantibus; et considera, cujus rei causa tam largum arbitrium sibi usus adsciverit; et si recto calle ratio te direxerit, videbis auctoritatis dignitate sola, quod dicimus, esse concessum. Satis hinc innotescere potest, quomodo Cantionis ars circa cantus divisionem constat, et ideo ad habitudinem procedamus.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-11",
+          "number": "11",
+          "ref": null,
+          "sourceHeading": "De habitudine Stantiæ, de numero pedum et syllabarum, et de distinctione carminum ponendorum in dictamine.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Videtur nobis hæc, quam habitudinem dicimus, maxima pars ejus, quod artis est; hæc enim circa cantus divisionem, atque contextum carminum, et rithimorum relationem consistit: quapropter diligentissime videtur esse tractanda. Incipientes ergo dicimus, quod Frons cum Versibus, et Pedes cum Syrmate sive Cauda, et quidem Pedes cum Versibus in Stantia se habere diversimode possunt: nam quandoque Frons Versus excedit in syllabis et carminibus, vel excedere potest; et dicimus potest, quoniam habitudinem hanc adhuc non vidimus. Quandoque in carminibus excedere, et in syllabis superari potest, ut si Frons esset pentametra, et quilibet Versus dimeter, et metra Frontis eptasyllaba, et Versus endecasyllaba essent. Quandoque Versus Frontem superant syllabis et carminibus, ut in illa quam diximus:\n\n«Traggemi della mente Amor la stiva.»\n\nFuit hæc tetrametra Frons tribus endecasyllabis, et uno eptasyllabo contexta: non etenim potuit in Pedes dividi, cum sequalitas carminum et syllabarum requiratur in Pedibus inter se, et etiam in Versibus inter se. Et quemadmodum dicimus Versus superare posse carminibus et syllabis Frontem, sic dici potest, Frontem, in his duobus, posse superare Versus: sicut quando quilibet Versus esset duobus eptasyllabis metris, et Frons esset pentametra, duobus endecasyllabis et tribus eptasyllabis contexta. Quandoque vero Pedes Caudam superant carminibus et syllabis, ut in illa, quam diximus:\n\n«Amor, che muovi tua virtù dal Cielo.»\n\nQuandoque Pedes a Syrmate superantur in toto, ut in illa, quam diximus:\n\n«Donna pietosa, e di novella etate.»\n\nEt quemadmodum diximus, Frontem posse superare carminibus, et syllabis superari, et e contrario; sic de Syrmate dicimus. Pedes quoque Versus in numero superant, et superantur ab iis: possunt enim in Stantia esse tres Pedes et duos Versus, et tres Versus et duos Pedes: nec hoc numero limitamur, quin liceat piures et Pedes et Versus simul contexere. Et quemadmodum de victoria carminum et syllabarum diximus inter alia, nunc etiam inter Pedes et Versus dicimus; nam eodem modo vinci, et vincere possunt. Nec prætermittendum est, quod nos e contrario regulatis Poetis Pedes accipimus, quia illi carmen ex Pedibus, nos vero ex carminibus Pedem constare dicimus, ut satis evidenter apparet. Nec etiam prætermittendum est, quin iterum asseramus, Pedes ab invicem necessario carminum et syllabarum æqualitatem, et habitudinem accipere, quia non aliter cantus repetitio fieri posset. Hoc idem in Versibus esse servandum astruimus.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-12",
+          "number": "12",
+          "ref": null,
+          "sourceHeading": "Ex quibus carminibus fiant Stantiæ, et de numero syllabarum in Carminibus.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Est etiam, ut superius dictum est, habitudo quædam, quam carmina contexendo considerare debemus; et ideo rationem faciamus de illa, repetentes proinde quæ superius de carminibus diximus. In usu nostro maxime tria carmina frequentandi prærogativam habere videntur, endecasyllabum scilicet, et eptasyllabum, et pentasyllabum; quæ ante alia sequenda astruximus. Horum prorsus, cum tragice poetari conamur, endecasyllabum propter quandam excellentiam in contextu vincendi privilegium promeretur. Nam quædam Stantia est, quæ solis endecasyllabis gaudet esse contexta, ut illa Guidonis de Florentia:\n\n«Donna mi prega, perch’io voglio dire.»\n\nEt etiam nos diximus:\n\n«Donne, che avete intelletto d’amore.»\n\nHoc etiam Hispani usi sunt; et dico Hispanos qui poetati sunt in Vulgari Oc. Hamericus de Belinoi:\n\n«Nuls hom non pot complir adreitamen.»\n\nQuædam est, in qua tantum eptasyllabum intexitur unum, et hoc esse non potest, nisi ubi Frons est, vel Cauda, quoniam (ut dictum est) in Pedibus atque Versibus attenditur æqualitas carminum et syllabarum. Propter quod etiam nec numeris impar carminum potest esse ubi Frons, vel Cauda non est: sed ubi hæc est, vel altera sola, pari et impari numero in carminibus licet uti ad libitum. Et sicut quædam Stantia est uno eptasyllabo conformata, sic duobus, tribus, quatuor, quinque videtur posse contexi, dummodo in tragico vincat endecasyllabum, et principiet. Verumtamen quosdam ab eptasyllabo tragice principiasse invenimus, videlicet Guidonem de Ghisileriis et Fabritium, Bononienses:\n\n«Di fermo sofifrire.»\n\nEt,\n\n«Donna, lo fermo cuore.»\n\nEt,\n\n«Lo mio lontano gire.»\n\nEt quosdam alios. Sed si ad eorum sensum subtiliter intrare velimus, non sine quodam Elegiæ umbraculo hæc Tragœdia procedere videbitur. De pentasyllabo quoque non sic concedimus; in dictamine magno sufficit unicum pentasyllabum in tota Stantia conseri, vel duo ad plus in Pedibus; et dico in Pedibus, propter necessitatem, qua Pedibusque Versibusque cantatur: minime autem trisyllabum in tragico videtur esse sumendum, per se subsistens; et dico, per se subsistens, quia per quandam rithimorum repercussionem frequenter videtur assumptum, sicut inveniri potest in illa Guidonis Florentini:\n\n«Donna mi prega, perch’io voglio dire.»\n\nEt in illa quam diximus:\n\n«Poscia ch’Amor del tutto m’ha lasciato.»\n\nNec per se ibi carmen est omnino, sed pars endecasyllabi tantum, ad rithimum præcedentis carminis, velut Echo respondens. E satis hinc, Lector, sufficienter eligere potes, qualiter tibi habituanda sit Stantia: habitudo namque circa carmina consideranda videtur. Et hoc etiam præcipue attendendum est circa carminum habitudinem, quod si eptasyllabum interseratur in primo Pede, quem situm accipit ibi, eundem resumat in altero: puta, si pars trimetra primum et ultimum carmen endecasyllabum habet, et medium, hoc est secundum, eptasyllabum, sic pars altera, extrema endecasyllaba et medium eptasyllabum habeat: non aliter ingeminatio cantus fieri posset, ad quam Pedes fiunt; ut dictum est; et per consequens Pedes esse non possent. Et quemadmodum de Pedibus dicimus, et de Versibus; in nullo enim Pedes et Versus differre videmus nisi in situ, quia illi ante, hi post dieresim Stantiæ ponantur. Et etiam quemadmodum de trimetro Pede, et de omnibus aliis servandum esse asserimus. Et sicut de uno eptasyllabo, sic de duobus et de pluribus, et de pentasyllabo, et omni alio dicimus.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-13",
+          "number": "13",
+          "ref": null,
+          "sourceHeading": "De relatione Rithimorum, et quo ordine ponendi sunt in Stantia.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Rithimorum quoque relationi vacemus, nihil de rithimo, secundum se, modo tractantes: proprium enim eorum tractatum in posterum prorogamus, cum de mediocri Poemate intendemus. In principio hujus capituli quædam reserando videntur; unum est Stantia sine rithimis, in qua nulla rithimorum habitudo attenditur, et hujusmodi Stantiis usus est Arnaldus Daniel frequentissime, velut ibi:\n\n«Si m fos Amors, de joi donar tan larga.»\n\nEt nos diximus:\n\n«Al poco giorno, ed al gran cerchio d’ombra.»\n\nAliud est Stantia, cujus omnia carmina eundem rithimum reddunt; in qua superfluum esse constat habitudinem quærere. \n  Sic proinde restat circa rithimos mixtos tantum debere insisti; et primo sciendum est, quod in hoc amplissimam sibi licentiam fere omnes assumunt, et ex hoc maxime totius armoniæ dulcedo intenditur. Sunt etenim quidam, qui non omnes quandoque desinentias carminum rithimantur in eadem Stantia, sed easdem repetunt, sive rithimantur in aliis, sicut fuit Gottus Mantuanus, qui Suas multas et bonas Cantiones nobis ore tenus intonavit. Hic semper in Stantia unum carmen incomitatum texebat, quod Clavem vocabat. Et sicut de uno licet, licet etiam de duobus et forte de pluribus. Quidam alii sunt, et fere omnes Cantionum inventores, qui nullum in Stantia carmen incomitatum relinquunt, quin sibi rithimi concrepantiam reddant, vel unius, vel plurium. Et quidam diversos rithimos faciunt esse carminum, quæ post dieresim sunt, a rithimis eorum, quæ sunt ante; quidam vero non sic, sed desinentias partis anterioris Stantiæ inter postera carmina referentes inserunt. Sæpissime tamen hoc fit ut desinentia ultimi (carminis) anterioris (partis Stantiæ) quamplurimi rithimantur ei, quæ est primi posterioris: quod non aliud esse videtur, quam quædam ipsius Stantiæ concatenatio pulchra. \n  De rithimorum quoque habitudine, prout sunt in Fronte, vel in Cauda, videtur omnis apta licentia concedenda: pulcherrime tamen se habent ultimorum carminum desinentiæ, si cum rithimo in silentium cadent. In Pedibus vero cavendum est: et habitudinem quandam servatam esse invenimus. Et discretionem facientes, dicimus, quod Pes vel pari vel impari metro completur: et utrobique comitata, et incomitata desinentia esse potest; nam in pari metro nemo dubitat; in alio vero, si quis dubius est, recordetur ea, quæ diximus in præimmediato capitulo de trysyllabo, quando pars existens endecasyllabi velut Echo respondet. Et si in altero Pedum exortem rithimi desinentiam esse contingat, omni modo in altero sibi instauratio fiat; si vero quælibet desinentia in altero Pede rithimi consortium habeat, in altero prout libet referre vel innovari desinentias licet, vel totaliter, vel in parte; dum tamen præcedentium ordo servetur in totum; puta si extremæ desinentiæ trimetrum, hoc est prima et ultima, concrepabunt in primo Pede, sic secundi extremas desinentias convenit concrepare: et qualem se in primo media videt comitatam quidem vel incomitatam, talis in secundo resurgat; et sic de aliis Pedibus est servandum. \n  In Versibus quoque fere semper hac lege perfruimur; et fere dicimus, quia propter concatenationem prænotatam, et combinationem desinentiarum ultimarum, quandoque ordinem jam dictum perverti contingit. \n  Præterea nobis bene convenire videtur, quæ cavenda sunt circa rithimos, huic appendere capitulo, cum in isto Libro nil ulterius de rithimorum doctrina tangere intendamus. Tria ergo sunt, quæ circa rithimorum positionem reperiri dedecet aulice poetantem, nimia scilicet ejusdem rithimi repercussio, nisi forte novum aliquid atque intentatum Artis hoc sibi præroget; ut nascentis militiæ dux, qui cum nulla prærogativa suam indignatur præterire dietam: hoc etenim nos facere visi sumus ibi:\n\n«Amor, tu vedi ben, che questa Donna.»\n\nSecundum vero est ipsa inutilis æquivocatio, quæ semper sententiæ quicquam derogare videtur; et tertium rithimorum asperitas, nisi forte sit lenitati permixta: nam lenium asperorumque rithimorum mixtura ipsa Tragœdia nitescit. Et hæc de Arte prout habitudinem respicit, tantum sufficiant.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-14",
+          "number": "14",
+          "ref": null,
+          "sourceHeading": "De numero Carminum et Syllabarum in Stantia.",
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Ex quo quæ sunt artis in Cantione satis sufficienter tractavimus, nunc de tertio videtur esse tractandum, videlicet de numero carminum et syllabarum. Et primo secundum totam Stantiam videre oportet aliquid, et aliquid dividere, quod postea secundum partes ejus videbimus. Nostra ergo primo refert discretionem facere inter ea, quæ canenda occurrunt, quia quædam Stantiæ prolixitatem videntur appetere, quædam non: cum ea quæ canimus cuncta, vel circa dextrum aliquid vel sinistrum canamus, ut quandoque persuasorie, quandoque dissuasorie, quandoque gratulanter, quandoque ironice, quandoque laudabiliter, quandoque contemptive canere contingit. Quæ circa sinistrum sunt verba, semper ad extremum festinent, et alia decenti prolixitate passim veniant ad extremum....",
+              "ref": null
+            }
+          ]
+        }
+      ],
+      "passages": []
+    }
+  ]
+}

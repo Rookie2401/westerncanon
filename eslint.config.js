@@ -16,6 +16,9 @@ export default tseslint.config(
       'coverage',
       'node_modules',
       'scripts/import-summa/raw',
+      // Raw-source caches and the one-off crop/OCR helper scripts kept beside
+      // them (not app or importer source; most are gitignored scan caches).
+      'scripts/**/raw/**',
       'data/summa/*.json',
     ],
   },

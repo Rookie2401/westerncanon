@@ -1,0 +1,122 @@
+[
+  {
+    "find": "^\"^o\"o1l-^%n'''r'(^\"'\"«\"''^ ^^°^^°^ ^'^^^^'^^ these\ncnfu^h ,^'\"^^'^ ^ 'Y'''^ :^^ ^^as bc-cn said, it seems\nf^j. reasonable that their speech should [30] by this\nillustrious mixture of oi)posites remain tempered to a j/rni'-e-\nw^ters^yorthy sweetness; and this we wi'hout hesita-\ntion judjje to be tl>e case. 'J^J^ereforc if those",
+    "replace": "the people of Bologna borrow from both these\nkinds of dialect, as has been said, it seems\nreasonable that their speech should [30] by this\nmixture of opposites remain tempered to a praise-\nworthy sweetness; and this we without hesita-\ntion judge to be the case. Therefore if those",
+    "note": "top of page severely garbled by unstripped margin caption \"but not good enough for illustrious writers\"; reconstructed from image"
+  },
+  {
+    "find": "who place tlie people of Bologna first in the",
+    "replace": "who place the people of Bologna first in the",
+    "note": "OCR misread \"the\""
+  },
+  {
+    "find": "matter of the vernacular merely have rcoard in",
+    "replace": "matter of the vernacular merely have regard in",
+    "note": "OCR misread \"regard\""
+  },
+  {
+    "find": "their com])anson to the municipal dialects of the",
+    "replace": "their comparison to the municipal dialects of the",
+    "note": "OCR misread \"comparison\""
+  },
+  {
+    "find": "Itahans we are disposed to agree with them;",
+    "replace": "Italians, we are disposed to agree with them;",
+    "note": "OCR misread \"Italians\" and missing comma"
+  },
+  {
+    "find": "but if tliey consider that the dialect of Jiolo-na",
+    "replace": "but if they consider that the dialect of Bologna",
+    "note": "OCR misread \"they\"/\"Bologna\""
+  },
+  {
+    "find": "ip taken absolutely, worthy of preference, we",
+    "replace": "is, taken absolutely, worthy of preference, we",
+    "note": "OCR misread \"is,\""
+  },
+  {
+    "find": "disagree with them altogether [,o] ; for this",
+    "replace": "disagree with them altogether [40] ; for this",
+    "note": "bracket number misread as [,o]"
+  },
+  {
+    "find": "dialect IS not that language which we term courtly",
+    "replace": "dialect is not that language which we term courtly",
+    "note": "OCR capitalisation misread \"IS\"->\"is\""
+  },
+  {
+    "find": "and 1 lustnous, since if it Iiad been so, the greatest",
+    "replace": "and illustrious, since if it had been so, the greatest",
+    "note": "OCR misread \"illustrious\"/\"had\""
+  },
+  {
+    "find": "GuKlo Gumizelh, Guido Ghisilieri, Fabruzzo,",
+    "replace": "Guido Guinizelli, Guido Ghisilieri, Fabruzzo,",
+    "note": "OCR misread \"Guido Guinizelli\""
+  },
+  {
+    "find": "and Onesto, and other pcets of Bologna would",
+    "replace": "and Onesto, and other poets of Bologna would",
+    "note": "OCR misread \"poets\""
+  },
+  {
+    "find": "never have de|,nirted from their own dialect • and",
+    "replace": "never have departed from their own dialect ; and",
+    "note": "OCR misread \"departed\"; bullet misread for semicolon"
+  },
+  {
+    "find": "these were illustrious writers, con)petcnt iuds'es",
+    "replace": "these were illustrious writers, competent judges",
+    "note": "OCR misread \"competent judges\""
+  },
+  {
+    "find": "ot dialects. TJic \"•-c'lfr'•^ r^,/; l« ''\n.. ^'''- ,.cattot l^uulo, wrote:\nJlLu/o,m.'i lofcrmo core ' ; • I- a!>ruzzo f <:ol ' / o\nmeo lontano rrire^ ,2 Onesto, < 7 V. uonati-ruhil\nf'osccorso yhnore^ ;^ :,nd tliese words are alto-\ngcther dillerent from the dialect of the citizens\nor Ijolofina.",
+    "replace": "of dialects. The greatest Guido, wrote:\n'Madonna lo fermo core' ;1 Fabruzzo [50], 'Lo\nmeo lontano gire' ;2 Onesto, 'Più non attendo il\ntuo secorso, Amore' ;3 and these words are alto-\ngether different from the dialect of the citizens\nof Bologna.",
+    "note": "severely garbled passage (quoted Italian verse with footnote markers) reconstructed from image"
+  },
+  {
+    "find": "doubt as to ihe remaining towns at the extremities",
+    "replace": "doubt as to the remaining towns at the extremities",
+    "note": "OCR misread \"the\""
+  },
+  {
+    "find": "ot Italy an<l if any one does, we do not deem",
+    "replace": "of Italy (and if any one does, we do not deem",
+    "note": "OCR misread \"of\"/\"and\"; missing opening parenthesis"
+  },
+  {
+    "find": "iiim wortliy of any answer from us), little remains",
+    "replace": "him worthy of any answer from us), little remains",
+    "note": "OCR misread \"him worthy\""
+  },
+  {
+    "find": "to be mentioned in our discussion. W],ereforc",
+    "replace": "to be mentioned in our discussion. Wherefore",
+    "note": "OCR misread \"Wherefore\""
+  },
+  {
+    "find": "I.60J being eager to put down our sieve so that",
+    "replace": "[60] being eager to put down our sieve so that",
+    "note": "bracket misread as I.60J"
+  },
+  {
+    "find": ". we may quickly see what is left in it, we say",
+    "replace": "we may quickly see what is left in it, we say",
+    "note": "stray leading period/space removed"
+  },
+  {
+    "find": "J 'Lady, tilt steadfast lieart.'",
+    "replace": "1 'Lady, the steadfast heart.'",
+    "note": "footnote marker and text garbled"
+  },
+  {
+    "find": "^ *My goiii^r afar.'",
+    "replace": "2 'My going afar.'",
+    "note": "footnote marker and text garbled"
+  },
+  {
+    "find": "« 'No more do I await thy succour, Love '",
+    "replace": "3 'No more do I await thy succour, Love.'",
+    "note": "footnote marker garbled; missing final period"
+  }
+]

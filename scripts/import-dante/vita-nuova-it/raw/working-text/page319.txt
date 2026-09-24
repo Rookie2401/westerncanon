@@ -1,0 +1,23 @@
+LEVEL:3
+
+
+<section begin="s6" />cioè che in alcuno altro numero non sofferse lo nome de la mia donna stare, se non in su lo nove, tra li nomi di queste donne.<section end="s6" />
+
+{{R|VII}}<section begin="s7" />La donna co la quale io avea tanto tempo celata la mia volontade, convenne che si partisse de la sopradetta cittade e andasse in paese molto lontano: per che io quasi sbigottito de la bella difesa che m’era venuta meno, assai me ne disconfortai, più che io medesimo non avrei creduto dinanzi. E pensando che se de la sua partita io non parlasse alquanto dolorosamente, le persone sarebbero accorte più tosto de lo mio nascondere, propuosi di farne alcuna lamentanza in uno sonetto, lo quale io scriverò, acciò che la mia donna fue immediata cagione di certe parole che ne lo sonetto sono, sì come appare a chi lo intende. E allora dissi questo sonetto, che comincia: ''O voi che per la via''.
+
+
+<poem>O voi che per la via d’amor passate,
+     attendete e guardate
+     s’elli è dolore alcun, quanto’l mio, grave;
+     e prego sol eh’audir mi sofferiate,
+     e poi imaginate{{R|5}}
+     s’io son [[#d’ogni tormento ostale|d’ogni tormento ostale]] e chiave.
+     Amor, non già per mia poca bontate,
+     ma per sua nobiltate,</poem><section end="s7" />
+
+
+
+
+<section begin="c6" />''{{Ec|dizione|condizione}} di quelle, e ponlo sotto modo d’interrogazione'' (I, 158: Inf. V,	50). E mi par che bastino al bisogno, senza ch’io stia a far ricerche speciali.<section end="c6" />
+
+<section begin="c7" />{{§|d’ogni tormento ostale|}}{{Sc|d’ogni tormento ostale}}. La lezione ''dolore'' si trova soltanto in b, e per  effetto di b anche in A. ''Ostello'' è pure lezione caratteristica di b, ma k legge ''ostale''; e con k è β, perché quantunque, per i soliti imprestiti da b o per arbitrio, abbiano ''ostello'' anche A P W Rediano, ''ostale'' si mantiene iu M Barb C Laur. XL 44 Co Mgl, e ''ostiale'' è pur dato da s. È una voce ''ostale'' che ha incontrato poco favore presso gli editori della ''Vita Nuova'', sebbene sia di chiara derivazione, schiettamente italiana, e non ne manchino esempi ne’ vocabolari. Più altri se ne potrebbero aggiungere; ma basti questo i {{AutoreCitato|Guittone d'Arezzo|Guittone d’Arezzo}}, notevole per la somiglianza che ha col passo di Dante: ''...sì com’eo, lasso, ostal d’ogne tormento?'' (ed. Pellegrini, I, 280, ‘Tutto ’l dolor’). Il nome ''Ostale'' è anche rimasto a luoghi alpestri dove erano spedali pei pellegrini: cfr. {{Sc|Repetti}}, Diz. geografico, s. v.<section end="c7" />

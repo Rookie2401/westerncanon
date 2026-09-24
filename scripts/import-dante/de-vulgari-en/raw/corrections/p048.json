@@ -1,0 +1,147 @@
+[
+  {
+    "find": "Venice is that illustrious vernacular which wo are",
+    "replace": "Venice is that illustrious vernacular which we are",
+    "note": "wo -> we"
+  },
+  {
+    "find": "14. Tht nervest (novtahna), A sinj:^iilur cpitlict for",
+    "replace": "14. The newest (novissima). A singular epithet for",
+    "note": "italic 'newest (novissima)' and following words garbled"
+  },
+  {
+    "find": "a city of the antiquity of Forli (^Fomm L'tvii), said to",
+    "replace": "a city of the antiquity of Forlì (Forum Livii), said to",
+    "note": "italic Latin name garbled"
+  },
+  {
+    "find": "have been founded b.c, 207 I>y M. Livius Salinator,",
+    "replace": "have been founded b.c. 207 by M. Livius Salinator,",
+    "note": "punctuation and 'by' garbled"
+  },
+  {
+    "find": "however, informed by Dr Paj^et Toynbee that I'rof,",
+    "replace": "however, informed by Dr Paget Toynbee that Prof.",
+    "note": "Paget/Prof. garbled"
+  },
+  {
+    "find": "Rajna, in a letter written to him, suj^j^ests tliat novis-",
+    "replace": "Rajna, in a letter written to him, suggests that novis-",
+    "note": "suggests/that garbled"
+  },
+  {
+    "find": "jima may here be ?;.ken in the sense of 'lowest in rank,'",
+    "replace": "sima may here be taken in the sense of 'lowest in rank,'",
+    "note": "sima (continuation of italic 'novissima') and 'taken' garbled"
+  },
+  {
+    "find": "an expression of contempt possibly due to the ij^no-",
+    "replace": "an expression of contempt possibly due to the igno-",
+    "note": "ij^no- -> igno-"
+  },
+  {
+    "find": "minious failure of the attack on Florence made Ijy",
+    "replace": "minious failure of the attack on Florence made by",
+    "note": "Ijy -> by"
+  },
+  {
+    "find": "the exiled 15ianchi in March 1303 (known as the",
+    "replace": "the exiled Bianchi in March 1303 (known as the",
+    "note": "15ianchi -> Bianchi"
+  },
+  {
+    "find": "second war of iVIu^^ello), under the cf)niniaTid of Scar,",
+    "replace": "second war of Mugello), under the command of Scar-",
+    "note": "Mugello/command garbled; trailing comma should be hyphen (word continues 'Scar-petta')"
+  },
+  {
+    "find": "petta degli Ordelafii, the head of the Gliibelline party",
+    "replace": "petta degli Ordelaffi, the head of the Ghibelline party",
+    "note": "Ordelaffi/Ghibelline garbled"
+  },
+  {
+    "find": "Toynbee, • to have a hit at Forli on some such",
+    "replace": "Toynbee, ' to have a hit at Forli on some such",
+    "note": "quote mark garbled"
+  },
+  {
+    "find": "20. U}^olino Bucci-ola belonj;ed to the important",
+    "replace": "20. Ugolino Bucciola belonged to the important",
+    "note": "Ugolino/Bucciola/belonged garbled"
+  },
+  {
+    "find": "family of the Manfred! of Faen/a, I)eiii}!; a son t)f that",
+    "replace": "family of the Manfredi of Faenza, being a son of that",
+    "note": "Manfredi/Faenza/being/of garbled"
+  },
+  {
+    "find": "Allierigo Manfiedi whose treicherous murder of his",
+    "replace": "Alberigo Manfredi whose treacherous murder of his",
+    "note": "Alberigo/Manfredi/treacherous garbled"
+  },
+  {
+    "find": "kinsman is alhuled to in ///y'trwo, XXXIII. ii8-i?o.",
+    "replace": "kinsman is alluded to in Inferno, XXXIII. 118-120.",
+    "note": "alluded/Inferno/citation numbers garbled"
+  },
+  {
+    "find": "Ugolino was born about 1245. lie behmj^ed to the",
+    "replace": "Ugolino was born about 1245. He belonged to the",
+    "note": "He/belonged garbled"
+  },
+  {
+    "find": "pelled to retire to Ravenna, wliere he died in 1301.",
+    "replace": "pelled to retire to Ravenna, where he died in 1301.",
+    "note": "wliere -> where"
+  },
+  {
+    "find": "Thomas, whom Dante here couples with Ugcilino,",
+    "replace": "Thomas, whom Dante here couples with Ugolino,",
+    "note": "Ugcilino -> Ugolino"
+  },
+  {
+    "find": "belonged to the^ame family; l.e flourished about 1280",
+    "replace": "belonged to the same family; he flourished about 1280",
+    "note": "the same/he garbled"
+  },
+  {
+    "find": "30. The Italian forms are murcato (market) and",
+    "replace": "30. The Italian forms are mercato (market) and",
+    "note": "murcato -> mercato"
+  },
+  {
+    "find": "^ori/a (goodness). In the first example the' participle",
+    "replace": "bontà (goodness). In the first example the 'participle",
+    "note": "italic 'bontà' garbled; misplaced quote mark"
+  },
+  {
+    "find": "in tus ' is mrrcatus (from mercor^. In the second the",
+    "replace": "in tus ' is mercatus (from mercor). In the second the",
+    "note": "mercatus and closing parenthesis garbled"
+  },
+  {
+    "find": "• denominative in tas * in bon'itas (from bonus'),",
+    "replace": "' denominative in tas ' in bonitas (from bonus).",
+    "note": "quote marks and 'bonitas'/'bonus' garbled"
+  },
+  {
+    "find": "34. Nbfem is the Latin for ' nine ' (ftal. nnve).",
+    "replace": "34. Novem is the Latin for ' nine ' (Ital. nove).",
+    "note": "Novem/Ital./nove garbled"
+  },
+  {
+    "find": "43. Ildebrandino, otherwise Aldobrandino del",
+    "replace": "43. Ildebrandino, otherwise Aldobrandino dei",
+    "note": "del -> dei"
+  },
+  {
+    "find": "the People' at Florence from ATay 1291 till May",
+    "replace": "the People' at Florence from May 1291 till May",
+    "note": "ATay -> May"
+  },
+  {
+    "find": "1292, A sonnet of his in reply to one of Dante's",
+    "replace": "1292. A sonnet of his in reply to one of Dante's",
+    "note": "comma should be period"
+  }
+]

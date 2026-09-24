@@ -1,0 +1,75 @@
+LEVEL:3
+
+<section begin="s2" />questa vita già stata tanto, che ne lo suo tempo lo cielo stellato era mosso verso la parte d’oriente de le dodici parti l’una
+<section end="s2" />
+
+<section begin="c2" />
+per indicar lei. La chiamavano Beatrice, desumendo il nome dalla beatitudine che dava il suo aspetto, giusta la comune opinione di allora che i nomi siano effetto delle cose (''Vita Nuova'', XIII 4; {{AutoreCitato|Francesco di Bartolo|{{Sc|Francesco da Buti}}}}, {{TestoCitato|Commedia (Buti)|''Comm. alla D. C.''}}, [[Commedia (Buti)/Inferno/Proemio#Buti1|I, 11]] «per quello che si dice comunemente: nomina et pronomina sunt consequentia rerum»; {{Sc|Benevenutus de Imola}}, ''Comentum super D. A. Comoediam'', [[Commedia (Imola)/Inferno/Proemio#Imola1|I, 229]] «et est nomen consequens rei; Ciachus enim dicitur quasi ciens, idest vocans cibos»). Su questo principio della convenienza dei nomi colle cose molto insistono gli scrittori così di prosa come di poesia in quell’età. Bastino qui pochi esempi. {{AutoreCitato|Guittone d'Arezzo|{{Sc|Guittone}}}} a m. Onesto bolognese:
+
+
+<poem>
+''Credo savete ben, messer Onesto,''
+     ''che proceder dal fatto il nome dia,''
+     ''e chi nome ha prenda rispetto d’esto,''
+     ''che concordevol fatto al nome sia...''
+     ''mutarvi nome over fatto vorria,''
+</poem>
+
+
+A cui {{AutoreCitato|Onesto da Bologna|{{Sc|M. Onesto}}}} rispondeva, ‘Vostro saggio parlar’:
+
+
+<poem>
+''Spero trovar perdon del mio peccato,''
+     ''lo nome e ’l fatto sì bene accordando,''
+     ''ch’io ne saraggio ne la fin laudato.''
+</poem>
+
+
+{{AutoreCitato|Ubertino Del Bianco|{{Sc|Giudice Ubertino}}}} a fra Guittone:
+
+
+<poem>
+''Se ’l nome deve seguitar lo fatto,''
+     ''vera vita è la tua, fra Guittone...,''
+</poem>
+
+
+E questi rispondendo:
+
+
+<poem>
+''Giudice Ubertino, in catun fatto''
+     ''ove pertegno voi, ver sor guittone.''
+</poem>
+
+
+Perciò del suo nome ‘Guittoncino’ si doleva l’amoroso rimatore pistoiese:
+
+
+<poem>
+''Omo lo cui nome per effetto''
+     ''importa povertà di gioi d’amore;''
+</poem>
+
+
+e sgomento prendeva di quello della sua Selvaggia:
+
+
+<poem>
+''Se ’l core vostro de lo nome sente,''
+     ''non udirete mai chiamar mercede;''
+     ''ansi mi vederete, per mia fede,''
+     ''andar pensoso e lagrimar sovente.''
+</poem>
+
+
+Curioso il principio d’uno dei sonetti di {{AutoreCitato|Giovanni Quirini|Giovanni Quirini}} a {{AutoreCitato|Matteo Mezzovillani|Matteo Mezzovillani}}:
+
+
+<poem>
+''Non vi dovrebbe di mezi villani''
+     ''chiamar algun, ma tuto dir cortese.''</poem>
+
+
+Cfr. poi per la convenienza del suo nome ad Amore i sonetti ‘Amor chi ti nomò primieramente’ e ‘Amor che tutte cose segnoreggia’ nel canzoniere Chig. L, VIII, 305, nº 328, 362, e il son. di m. Tommaso da Faenza ‘In voi Amore lo nome ha faluto’ nel Rediano IX, nº 392. Dante da un’opinione così comune ha voluto trarre sin dal principio del suo amoroso libretto un modo indiretto ma efficacissimo di lodar la sua donna: l’esser detta Beatrice da chi la vedesse, anche se non sapevano come chiamarla, viene a dire che ella beatificava tanto, che a molti bastava questo mirabile effetto della sua presenza per indovinarne il nome: se beatifica così, non può che chiamarsi Beatrice. Quanto all’espressione ''che si chiamare'' nel senso di ‘che nome chiamare, proferire’, cfr. ''Vita Nuova'' XXIII 13: ''e con tutto che io chiamasse questo nome, la mia voce era sì rotta dal singulto del piangere che queste donne non mi potero intendere''; il congedo della canz. dantesca ‘Doglia mi reca’: ''Bella, saggia, cortese <nowiki>|</nowiki> la chiaman tutti .... <nowiki>|</nowiki> Bianca, Giovanna, Contessa chiamando'', ossia proferendo i nomi di Bianca, Giovanna e Contessa; e questo passo<section end="c2" />

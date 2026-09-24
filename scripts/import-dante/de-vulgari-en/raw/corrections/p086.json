@@ -1,0 +1,57 @@
+[
+  {
+    "find": "Degrees struction finds no place in our pursuit, because\ncon- j^ Y^^^ jjQ[ gy(,p proved deserving of a lower\ntions ^^g^^*^ o^ goodness. Let thcicfore illiterate\npersons be ashamed — I say, let thcni be ashamed",
+    "replace": "struction finds no place in our pursuit, because\nit has not even proved deserving of a lower\ndegree of goodness. Let therefore illiterate\npersons be ashamed — I say, let them be ashamed",
+    "note": "removes marginal shoulder-caption leak (\"Degrees of 'constructions'\") merged into main text at these line-starts; fixes heavy OCR garbling of \"it has not even\"/\"degree of\"/therefore/them"
+  },
+  {
+    "find": "distinction of not less dilTicuity",
+    "replace": "distinction of not less difficulty",
+    "note": "misread difficulty"
+  },
+  {
+    "find": "[^303 before we can reach tliat construction",
+    "replace": "[30] before we can reach that construction",
+    "note": "misread bracketed number/that"
+  },
+  {
+    "find": "namely, [^first] the insipid",
+    "replace": "namely, [first] the insipid",
+    "note": "misread bracketed word"
+  },
+  {
+    "find": "Mistress Bertha.^ []Then1 there is that which",
+    "replace": "Mistress Bertha.' [Then] there is that which",
+    "note": "misread closing quote/bracketed word"
+  },
+  {
+    "find": "uncultivated people ; as, * Peter is very fond of",
+    "replace": "uncultivated people ; as, ' Peter is very fond of",
+    "note": "asterisk misread of opening quote mark"
+  },
+  {
+    "find": "rigid scholars or masters ; as, * I, greater in pity",
+    "replace": "rigid scholars or masters ; as, ' I, greater in pity",
+    "note": "asterisk misread of opening quote mark"
+  },
+  {
+    "find": "*The praiseworthy discernment of the Marquis of",
+    "replace": "'The praiseworthy discernment of the Marquis of",
+    "note": "asterisk misread of opening quote mark"
+  },
+  {
+    "find": "him beloved.' Then there is that which has\n» flavour and grace and also elevation, which\n\\ belongs to illustrious writers ; as, * Having cast",
+    "replace": "him beloved.' Then there is that which has\nflavour and grace and also elevation, which\nbelongs to illustrious writers ; as, ' Having cast",
+    "note": "removes stray printer's-mark characters at line starts; asterisk misread of opening quote mark"
+  },
+  {
+    "find": "the second Totila wont fruitlessly",
+    "replace": "the second Totila went fruitlessly",
+    "note": "misread went"
+  },
+  {
+    "find": "call the most excellent [50^, and this is the",
+    "replace": "call the most excellent [50], and this is the",
+    "note": "misread bracketed number"
+  }
+]

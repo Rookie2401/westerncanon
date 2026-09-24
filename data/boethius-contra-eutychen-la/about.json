@@ -1,0 +1,50 @@
+{
+  "workId": "boethius-contra-eutychen-la",
+  "title": "Contra Eutychen et Nestorium",
+  "author": "Anicius Manlius Severinus Boethius",
+  "language": "la",
+  "edition": "Boethius: The Theological Tractates, The Consolation of Philosophy, ed. & trans. H. F. Stewart and E. K. Rand (Loeb Classical Library 74; London: William Heinemann Ltd.; Cambridge, MA: Harvard University Press, 1918)",
+  "provenance": "TEI XML from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository (CTS author id stoa0058), digitising the Loeb 1918 Stewart & Rand edition; imported by scripts/import-boethius. Raw files fetched once (cached at scripts/import-boethius/raw/) and bundled with the app; nothing is loaded from the network at runtime. Loeb page-image reference: https://archive.org/details/in.ernet.dli.2015.155564",
+  "license": "The Loeb 1918 Latin text and English translation are in the public domain (6th-century source text; 1918 publication, long out of copyright in every jurisdiction with a life+70 or fixed 95-year term). The digital transcription is distributed by the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).",
+  "sections": [
+    {
+      "heading": "About this edition",
+      "paragraphs": [
+        "One of Boethius's theological tractates (Opuscula sacra): Contra Eutychen et Nestorium.",
+        "The text here is Stewart & Rand's Latin critical text, verbatim throughout. Nothing is modernised, paraphrased or silently corrected."
+      ]
+    },
+    {
+      "heading": "The edition",
+      "paragraphs": [
+        "Boethius: The Theological Tractates, The Consolation of Philosophy, ed. & trans. H. F. Stewart and E. K. Rand (Loeb Classical Library 74; London: William Heinemann Ltd.; Cambridge, MA: Harvard University Press, 1918).",
+        "Divisions: a flat list of chapters (ch-pr, ch-1, ch-2, ...) or, where the source marks none, a single division ch-1 - see the importer's own module doc for which of the five tractates has real chapter divisions in this edition."
+      ]
+    },
+    {
+      "heading": "Digital source",
+      "paragraphs": [
+        "The machine-readable text is stoa0058.stoa023.perseus-lat1.xml from the Perseus Digital Library / OpenGreekAndLatin canonical-latinLit repository. It was fetched once and is bundled with the app; nothing is loaded from the network at runtime."
+      ]
+    },
+    {
+      "heading": "How it was imported",
+      "paragraphs": [
+        "See this importer's own module doc comments (scripts/import-boethius/parseConsolatioLa.ts, parseConsolatioEn.ts, parseTractateLa.ts, parseTractateEn.ts) for the complete, source-verified account of this specific work's markup and every editorial decision made while reading it. In every case: entities are decoded and whitespace collapsed; transport scaffolding (page breaks, the Loeb edition's own facing-page line-count ticks) is dropped; nothing is added to or removed from the actual reading text beyond what each importer's doc comment discloses."
+      ]
+    },
+    {
+      "heading": "Reference scheme",
+      "paragraphs": [
+        "Division.ref and Passage.ref are null throughout every one of these twelve works: none of these sources carries a page-marker or line-milestone citation scheme this schema could use. Citation here is by the division id alone (Book/section for the Consolatio, chapter for the tractates), matching each edition's own numbering exactly."
+      ]
+    },
+    {
+      "heading": "Known gaps & anomalies",
+      "paragraphs": [
+        "9 top-level division(s) in this work; see anomalies.json for the complete, machine-readable log of every irregularity encountered while importing it (with location and excerpt), and this importer's own module doc comments for the narrative account."
+      ]
+    }
+  ],
+  "editor": "H. F. Stewart and E. K. Rand"
+}

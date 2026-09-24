@@ -1,0 +1,67 @@
+[
+  {
+    "find": "ou;;ht to be",
+    "replace": "ought to be",
+    "note": "OCR misread 'ought'"
+  },
+  {
+    "find": "rest used. And after making all this clear, we will",
+    "replace": "used. And after making all this clear, we will",
+    "note": "leading 'rest' is leaked margin caption"
+  },
+  {
+    "find": "^'^'^^ make it our business to throw light on the lower",
+    "replace": "make it our business to throw light on the lower",
+    "note": "leading garbage is leaked margin caption"
+  },
+  {
+    "find": "[I30]] belongs to a single family.",
+    "replace": "[30] belongs to a single family.",
+    "note": "bracket number garbled"
+  },
+  {
+    "find": "30. This curious passaj:je is ilhutrated by a quota-",
+    "replace": "30. This curious passage is illustrated by a quota-",
+    "note": "OCR misread 'passage'/'illustrated'"
+  },
+  {
+    "find": "tion from Trissino's dialogu*^ // CaitfUano fsee Ap.",
+    "replace": "tion from Trissino's dialogue Il Castellano (see Ap.",
+    "note": "OCR misread title and 'see'"
+  },
+  {
+    "find": "pcndix I. p. 117). Giovanni Ruccllai, t!ie 'Castcllano'",
+    "replace": "pendix I. p. 117). Giovanni Rucellai, the 'Castellano'",
+    "note": "OCR misread 'pendix'/'Rucellai'/'the'/'Castellano'"
+  },
+  {
+    "find": "of the castle of St Angclo, says to Filippo Strozzi,",
+    "replace": "of the castle of St Angelo, says to Filippo Strozzi,",
+    "note": "OCR misread 'Angelo'"
+  },
+  {
+    "find": "peculiarities of speech wliich others have not ; my",
+    "replace": "peculiarities of speech which others have not ; my",
+    "note": "OCR misread 'which'"
+  },
+  {
+    "find": "brother Palla, for instance, has jome pcculiirities in",
+    "replace": "brother Palla, for instance, has some peculiarities in",
+    "note": "OCR misread 'some'/'peculiarities'"
+  },
+  {
+    "find": "brother Lorenzo has some wliich you have not; and",
+    "replace": "brother Lorenzo has some which you have not; and",
+    "note": "OCR misread 'which'"
+  },
+  {
+    "find": "so likewise tliere are some points in wliich the",
+    "replace": "so likewise there are some points in which the",
+    "note": "OCR misread 'there'/'which'"
+  },
+  {
+    "find": "speech of our family diflers from that of yours.'",
+    "replace": "speech of our family differs from that of yours.'",
+    "note": "OCR misread 'differs'"
+  }
+]

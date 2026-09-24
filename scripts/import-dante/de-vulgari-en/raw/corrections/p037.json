@@ -1,0 +1,82 @@
+[
+  {
+    "find": "Istrians, w^^o belch forth with cruelly hivch The",
+    "replace": "Istrians, who belch forth with cruelly harsh",
+    "note": "OCR misreads 'who'/'harsh'; trailing 'The' is leaked margin caption ('The Sardinian dialect') to remove"
+  },
+  {
+    "find": "accents, * Ccj i\\:.tup'^ Avl wltli tlKse we ?.^^^^'\"*'*",
+    "replace": "accents, ' Ces fastu?' 1 And with these we",
+    "note": "Heavy OCR garbling of 'Ces fastu?' and footnote marker; trailing garbage is leaked margin caption 'Sardinian'"
+  },
+  {
+    "find": "C'i'^tout all the mountainous and rural dialect?,",
+    "replace": "cast out all the mountainous and rural dialects,",
+    "note": "OCR misreads 'cast out' and 'dialects,'"
+  },
+  {
+    "find": "cordant [403 to the citizens",
+    "replace": "cordant [40] to the citizens",
+    "note": "bracketed line-number misread as [403 instead of [40]"
+  },
+  {
+    "find": "alone Seem to be without",
+    "replace": "alone seem to be without",
+    "note": "spurious capital S"
+  },
+  {
+    "find": "for they say, * Damns nova ' ^ ^^d * dominus\nmetis. ^",
+    "replace": "for they say, 'Domus nova' 2 and 'dominus\nmeus.' 3",
+    "note": "OCR garbles 'Domus nova', 'and', 'dominus meus', and footnote markers"
+  },
+  {
+    "find": "z6 Nothing else is known of Castra.",
+    "replace": "26 Nothing else is known of Castra.",
+    "note": "note number misread z6 -> 26"
+  },
+  {
+    "find": "in (juestioii, which is very obscure and difficult, is\nheaded in the only MS. in which it ia preserved by\nthe name ' Tvlesser Osmano.' It is sugj^ested by\nMonaci (who prints the poem in his Creitomazia\ni/,ilij/i,7, p. 493) that this name may be either a pseu-\ndonym, or else tlie name of the person to whom the",
+    "replace": "in question, which is very obscure and difficult, is\nheaded in the only MS. in which it is preserved by\nthe name ' Messer Osmano.' It is suggested by\nMonaci (who prints the poem in his Crestomazia\nitaliana, p. 493) that this name may be either a pseu-\ndonym, or else the name of the person to whom the",
+    "note": "fix cluster of OCR letter errors: question, is, Messer, suggested, Crestomazia italiana, the"
+  },
+  {
+    "find": "42. It is curious to find t!ie town of Prato (about",
+    "replace": "42. It is curious to find the town of Prato (about",
+    "note": "t!ie -> the"
+  },
+  {
+    "find": "resembled that spoken among the neiglibouring",
+    "replace": "resembled that spoken among the neighbouring",
+    "note": "neiglibouring -> neighbouring"
+  },
+  {
+    "find": "(jffiritc (licarif^iinilc) on Dante's part.",
+    "replace": "(spirito di campanile) on Dante's part.",
+    "note": "italic gloss garbled: spirito di campanile"
+  },
+  {
+    "find": "47.. Tliere are at least two jilaces called Dcnus novas in",
+    "replace": "47. There are at least two places called Domus novas in",
+    "note": "fix note number punctuation and OCR letter errors"
+  },
+  {
+    "find": "Sardinia, and Rajna thinks it likely tliat this proper",
+    "replace": "Sardinia, and Rajna thinks it likely that this proper",
+    "note": "tliat -> that"
+  },
+  {
+    "find": "name is tlie source of the first of these examples.",
+    "replace": "name is the source of the first of these examples.",
+    "note": "tlie -> the"
+  },
+  {
+    "find": "1 ' What doest thou ? ' ' • New house/",
+    "replace": "1 ' What doest thou ? ' 2 ' New house.'",
+    "note": "footnote 2 marker and closing punctuation misread"
+  },
+  {
+    "find": "'MMylord.'",
+    "replace": "3 ' My lord.'",
+    "note": "footnote 3 marker and text garbled"
+  }
+]

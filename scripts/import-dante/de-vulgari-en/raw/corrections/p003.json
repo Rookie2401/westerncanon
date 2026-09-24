@@ -1,0 +1,92 @@
+[
+  {
+    "find": "intc-nds",
+    "replace": "intends",
+    "note": "OCR misread 'intends' as 'intc-nds'"
+  },
+  {
+    "find": "sijccch of niankind, wliicli he dis-",
+    "replace": "speech of mankind, which he dis-",
+    "note": "OCR misread 'speech'/'mankind'/'which'"
+  },
+  {
+    "find": "tini^uislics fioin llie ' sccoiulary.' and ' artificial '",
+    "replace": "tinguishes from the ' secondary' and ' artificial '",
+    "note": "OCR misread 'tinguishes'/'from'/'the'/'secondary' and inserted spurious period (image shows no punctuation before closing quote)"
+  },
+  {
+    "find": "speech of the learned, and declares to be the •",
+    "replace": "speech of the learned, and declares to be the",
+    "note": "stray bullet character artifact at line end, not printed"
+  },
+  {
+    "find": "noMer. The treatise, as ajipears from the con-",
+    "replace": "nobler. The treatise, as appears from the con-",
+    "note": "OCR misread 'nobler'/'appears'"
+  },
+  {
+    "find": "cluding passaj^'c of Dock I. ai:d the opening",
+    "replace": "cluding passage of Book I. and the opening",
+    "note": "OCR misread 'passage'/'Book'/'and'"
+  },
+  {
+    "find": "passaije of liook II., was to embrace the ver-",
+    "replace": "passage of Book II., was to embrace the ver-",
+    "note": "OCR misread 'passage'/'Book'"
+  },
+  {
+    "find": "nacular oflti'ly in all its forms and ramifications,-",
+    "replace": "nacular of Italy in all its forms and ramifications,",
+    "note": "OCR misread 'of Italy'; stray trailing hyphen after comma is garbage, not a genuine line-break hyphenation"
+  },
+  {
+    "find": "Since wc do not find that any one before us has import-",
+    "replace": "Since we do not find that any one before us has",
+    "note": "OCR misread 'we'; trailing 'import-' is a leaked fragment of the adjacent margin caption ('Importance of the subject'), not part of the sentence"
+  },
+  {
+    "find": "treated of the science of the vernacular lan.^uagc, ance",
+    "replace": "treated of the science of the vernacular language,",
+    "note": "OCR misread 'language'; trailing 'ance' is a leaked margin-caption fragment"
+  },
+  {
+    "find": "while in fact wc see that this language is higlily the_",
+    "replace": "while in fact we see that this language is highly",
+    "note": "OCR misread 'we'/'highly'; trailing 'the_' is a leaked margin-caption fragment"
+  },
+  {
+    "find": "necessary for all, inasmuch as not only men, ^^°J^\"",
+    "replace": "necessary for all, inasmuch as not only men,",
+    "note": "trailing garbled characters are a leaked margin-caption fragment ('subject'), not printed body text"
+  },
+  {
+    "find": "nature allov/s them, to acquire it ; and since it is",
+    "replace": "nature allows them, to acquire it ; and since it is",
+    "note": "OCR misread 'allows'"
+  },
+  {
+    "find": "our wisli to enlighten to sonie little extent the",
+    "replace": "our wish to enlighten to some little extent the",
+    "note": "OCR misread 'wish'/'some'"
+  },
+  {
+    "find": "discernment of those wh.o walk through the \"",
+    "replace": "discernment of those who walk through the",
+    "note": "OCR misread 'who'; trailing stray quote mark is garbage, not printed"
+  },
+  {
+    "find": "streets [lOj like blind men, generally fincying",
+    "replace": "streets [10] like blind men, generally fancying",
+    "note": "OCR misread bracketed number '[10]' and 'fancying'"
+  },
+  {
+    "find": "them arc behind them, wc will endeavour, the",
+    "replace": "them are behind them, we will endeavour, the",
+    "note": "OCR misread 'are'/'we'"
+  },
+  {
+    "find": "the vernaculir sjK-ech ; not only drawing the",
+    "replace": "the vernacular speech ; not only drawing the",
+    "note": "OCR misread 'vernacular'/'speech' (mid-word garbling, not a genuine hyphenation)"
+  }
+]

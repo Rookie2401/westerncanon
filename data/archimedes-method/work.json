@@ -126,8 +126,11 @@
           "text": "Λέγω ὅτι ἐπίτριτόν ἐστιν τὸ ΑΒΓ τμῆμα τοῦ ΑΒΓ τριγώνου.",
           "ref": "Mugler vol. 3 p. 86",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 1",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-1.png",
+            "imageWidth": 1100,
+            "imageHeight": 1050,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 1, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 1"
           }
         },
         {
@@ -165,8 +168,11 @@
           "text": "Ἔστω γάρ τις σφαῖρα, ἐν ᾗ μέγιστος κύκλος ὁ ΑΒΓ△, διάμετροι δὲ αἱ ΑΓ, Β△ πρὸς ὀρθὰς ἀλλήλαις οὖσαι, ἔστω δὲ κύκλος ἐν τῇ σφαίρᾳ περὶ διάμετρον τὴν Β△ ὀρθὸς πρὸς τὸν ΑΒΓ△ κύκλον, καὶ ἀπὸ τοῦ ὀρθοῦ κύκλου τούτου κῶνος ἀναγεγράφθω κορυφὴν ἔχων τὸ Α σημεῖον, καὶ ἐκβληθείσης τῆς ἐπιφανείας αὐτοῦ τετμήσθω ὁ κῶνος ἐπιπέδῳ διὰ τοῦ Γ παρὰ τὴν βάσιν ποιήσει δὴ κύκλον ὀρθὸν πρὸς τὴν ΑΓ, καὶ διάμετρος αὐτοῦ ἡ ΕΖ. Ἀπὸ δὲ τοῦ κύκλου τούτου κύλινδρος ἀναγεγράφθω ἄξονα ἔχων τῇ ΑΓ ἴσον, πλευραὶ δὲ ἔστωσαν τοῦ κυλίνδρου αἱ ΕΛ, ΖΗ· καὶ ἐκβεβλήσθω ἡ ΓΑ, καὶ κείσθω αὐτῇ ἴση ἡ ΑΘ, καὶ νοείσθω ζυγὸς ὁ ΓΘ, μέσον δὲ αὐτοῦ τὸ Α, καὶ ἤχθω τις παράλληλος ὑπάρχουσα τῇ Β△ ἡ ΜΝ, τεμνέτω δὲ αὕτη τὸν μὲν ΑΒΓ△ κύκλον κατὰ τὰ Ξ, Ο, τὴν δὲ ΑΓ διάμετρον κατὰ τὸ Σ, τὴν δὲ ΑΕ εὐθεῖαν κατὰ τὸ Π, τὴν δὲ ΑΖ κατὰ τὸ Ρ, καὶ ἀπὸ τῆς ΜΝ εὐθείας ἐπίπεδον ἀνεστάτω ὀρθὸν πρὸς τὴν ΑΓ · ποιήσει δὴ τοῦτο ἐν μὲν τῷ κυλίνδρῳ τομὴν κύκλον, οὗ ἔσται διάμετρος ἡ ΜΝ, ἐν δὲ τῇ ΑΒΓ△ σφαίρᾳ κύκλον, οὗ ἔσται διάμετρος ἡ ΞΟ, ἐν δὲ τῷ ΑΕΖ κώνῳ κύκλον, οὗ ἔσται διάμετρος ἡ ΠΡ.",
           "ref": "Mugler vol. 3 p. 89",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 2",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-2.png",
+            "imageWidth": 1115,
+            "imageHeight": 1055,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 2, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 2"
           }
         },
         {
@@ -204,8 +210,11 @@
           "text": "Ἔστω γάρ τι σφαιροειδὲς καὶ τετμήσθω ἐπιπέδῳ διὰ τοῦ ἄξονος, καὶ γινέσθω ἐν τῇ ἐπιφανείᾳ αὐτοῦ ὀξυγωνίου κώνου τομὴ ἡ ΑΒΓ△, διάμετροι δὲ αὐτῆς ἔστωσαν αἱ ΑΓ, Β△, κέντρον δὲ τὸ Κ, ἔστω δὲ κύκλος ἐν τῷ σφαιροειδεῖ περὶ διάμετρον τὴν Β△ ὀρθὸς πρὸς τὴν ΑΓ, νοείσθω δὲ κῶνος βάσιν ἔχων τὸν εἰρημένον κύκλον, κορυφὴν δὲ τὸ Α σημεῖον, καὶ ἐκβληθείσης τῆς ἐπιφανείας αὐτοῦ τετμήσθω ὁ κῶνος ἐπιπέδῳ διὰ τοῦ Γ παρὰ τὴν βάσιν ἔσται δὴ ἡ τομὴ αὐτοῦ κύκλος ὀρθὸς πρὸς τὴν ΑΓ, διάμετρος δὲ αὐτοῦ ἡ ΕΖ. Ἔστω δὲ καὶ κύλινδρος βάσιν μὲν ἔχων τὸν αὐτὸν κύκλον, οὗ διάμετρος ἡ ΕΖ, ἄξονα δὲ τὴν ΑΓ εὐθεῖαν, καὶ ἐκβληθείσης τῆς ΓΑ κείσθω αὐτῇ ἴση ἡ ΑΘ, καὶ νοείσθω ζυγὸς ὁ ΘΓ, μέσον δὲ αὐτοῦ τὸ Α, ἤχθω δέ τις ἐν τῷ ΛΖ παραλληλογράμμῳ παρὰ τὴν ΕΖ ἡ ΜΝ, καὶ ἀπὸ τῆς ΜΝ ἐπίπεδον ἀνεστάτω ὀρθὸν πρὸς τὴν ΑΓ ποιήσει δὴ τοῦτο ἐν μὲν τῷ κυλίνδρῳ τομὴν κύκλον, οὗ διάμετρος ἡ ΜΝ, ἐν δὲ τῷ σφαιροειδεῖ τομὴν κύκλον, οὗ διάμετρος ἡ ΞΟ, ἐν δὲ τῷ κώνῳ τομὴν κύκλον, οὗ διάμετρος ἡ ΠΡ.",
           "ref": "Mugler vol. 3 p. 93",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 3",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-3.png",
+            "imageWidth": 920,
+            "imageHeight": 1090,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 3, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 3"
           }
         },
         {
@@ -243,8 +252,11 @@
           "text": "Ἔστω γὰρ ὀρθογώνιον κωνοειδὲς καὶ τετμήσθω ἐπιπέδῳ διὰ τοῦ ἄξονος, καὶ ποιείτω τομὴν ἐν τῇ ἐπιφανείᾳ ὀρθογωνίου κώνου τομὴν τὴν ΑΒΓ, τετμήσθω δὲ καὶ ἑτέρῳ ἐπιπέδῳ ὀρθῷ πρὸς τὸν ἄξονα, καὶ ἔστω αὐτῶν κοινὴ τομὴ ἡ ΒΓ, ἄξων δὲ ἔστω τοῦ τμήματος ἡ △Α, καὶ ἐκβεβλήσθω ἡ △Α ἐπὶ τὸ Θ, καὶ κείσθω αὐτῇ ἴση ἡ ΑΘ, καὶ νοείσθω ζυγὸς ὁ △Θ, μέσον δὲ αὐτοῦ τὸ Α, ἔστω δὲ ἡ τοῦ τμήματος βάσις ὁ περὶ διάμετρον τὴν ΒΓ κύκλος ὀρθὸς ὢν πρὸς τὴν Α△, νοείσθω δὲ κῶνος βάσιν μὲν ἔχων τὸν κύκλον, οὗ ἐστι διάμετρος ἡ ΒΓ, κορυφὴν δὲ τὸ Α σημεῖον, ἔστω δὲ καὶ κύλινδρος βάσιν μὲν ἔχων τὸν κύκλον, οὗ διάμετρος ἡ ΒΓ, ἄξονα δὲ τὸν Α△, καὶ ἤχθω τις ἐν τῷ παραλληλογράμμῳ ἡ ΜΝ παράλληλος οὖσα τῇ ΒΓ, καὶ ἀπὸ τῆς ΜΝ ἐπίπεδον ἀνεστάτω ὀρθὸν πρὸς τὴν Α△· ποιήσει δὴ τοῦτο ἐν μὲν τῷ κυλίνδρῳ τομὴν κύκλον, οὗ διάμετρος ἡ ΜΝ, ἐν δὲ τῷ τμήματι τοῦ ὀρθογωνίου κωνοειδοῦς τομὴν κύκλον, οὗ διάμετρος ἡ ΞΟ.",
           "ref": "Mugler vol. 3 p. 97",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 4",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-4.png",
+            "imageWidth": 830,
+            "imageHeight": 880,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 4, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 4"
           }
         },
         {
@@ -272,8 +284,11 @@
           "text": "Ἔστω τμῆμα ὀρθογωνίου κωνοειδοῦς ἀποτεμνόμενον ἐπιπέδῳ ὀρθῷ πρὸς τὸν ἄξονα καὶ τετμήσθω ἐπιπέδῳ ἑτέρῳ διὰ τοῦ ἄξονος, καὶ ποιείτω τομὴν ἐν τῇ ἐπιφανείᾳ τὴν ΑΒΓ ὀρθογωνίου κώνου τομήν, τοῦ δὲ ἀποτετμηκότος τὸ τμῆμα ἐπιπέδου καὶ τοῦ τέμνοντος κοινὴ τομὴ ἔστω ἡ ΒΓ, ἄξων δὲ ἔστω τοῦ τμήματος καὶ διάμετρος τῆς ΑΒΓ τομῆς ἡ Α△ εὐθεῖα, καὶ τῆς △Α ἐκβληθείσης ἴση αὐτῇ κείσθω ἡ ΑΘ, καὶ νοείσθω ζυγὸς ὁ △Θ, μέσον δὲ αὐτοῦ τὸ Α, ἔστω δὲ καὶ κῶνος ἐγγεγραμμένος ἐν τῷ τμήματι, πλευραὶ δὲ αὐτοῦ αἱ ΒΑ, ΑΓ, ἤχθω δέ τις ἐν τῇ τοῦ ὀρθογωνίου κώνου τομῇ ἡ ΞΟ παράλληλος οὖσα τῇ ΒΓ, τεμνέτω δὲ αὕτη τὴν μὲν τοῦ ὀρθογωνίου κώνου τομὴν κατὰ τὰ Ξ, Ο, τὰς δὲ τοῦ κώνου πλευρὰς κατὰ τὰ Π, Ρ σημεῖα.",
           "ref": "Mugler vol. 3 p. 100",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 5",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-5.png",
+            "imageWidth": 770,
+            "imageHeight": 1020,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 5, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 5"
           }
         },
         {
@@ -301,8 +316,11 @@
           "text": "Ἔστω σφαῖρα καὶ τετμήσθω ἐπιπέδῳ διὰ τοῦ κέντρου, καὶ γενέσθω ἐν τῇ ἐπιφανείᾳ τομὴ ὁ ΑΒΓ△ κύκλος, διάμετροι δὲ ἔστωσαν τοῦ κύκλου πρὸς ὀρθὰς ἀλλήλαις αἱ ΑΓ, Β△, ἀπὸ δὲ τῆς Β△ ἐπίπεδον ἀνεστάτω ὀρθὸν πρὸς τὴν ΑΓ, καὶ ἔστω κῶνος βάσιν μὲν ἔχων τὸν περὶ διάμετρον τὴν Β△ κύκλον, κορυφὴν δὲ τὸ Α σημεῖον, πλευραὶ δὲ ἔστωσαν τοῦ κώνου αἱ ΒΑ, Α△, καὶ ἐκβεβλήσθω ἡ ΓΑ, καὶ κείσθω τῇ ΓΑ ἴση ἡ ΑΘ, καὶ νοείσθω ζυγὸς ἡ ΘΓ εὐθεῖα, μέσον δὲ αὐτοῦ τὸ Α, καὶ ἤχθω τις ἐν τῷ ΒΑ△ ἡμικυκλίῳ ἡ ΞΟ παράλληλος οὖσα τῇ Β△, τεμνέτω δὲ αὕτη τὴν μὲν τοῦ ἡμικυκλίου περιφέρειαν κατὰ τὰ Ξ, Ο, τὰς δὲ τοῦ κώνου πλευρὰς κατὰ τὰ Π, Ρ σημεῖα, τὴν δὲ ΑΓ κατὰ τὸ Ε, καὶ ἀπὸ τῆς ΞΟ ἐπίπεδον ἀνεστάτω ὀρθὸν πρὸς τὴν ΑΕ· ποιήσει δὴ τοῦτο ἐν μὲν τῷ ἡμισφαιρίῳ τομὴν κύκλον, οὗ διάμετρος ἡ ΞΟ, ἐν δὲ τῷ κώνῳ τομὴν κύκλον, οὗ διάμετρος ἡ ΠΡ.",
           "ref": "Mugler vol. 3 p. 103",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 6",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-6.png",
+            "imageWidth": 580,
+            "imageHeight": 1010,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 6, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 6"
           }
         },
         {
@@ -327,8 +345,11 @@
           "ref": "Mugler vol. 3 p. 105",
           "anomaly": "44 lacunae (editorial gaps, reason: \"omitted\") occur in this passage; no text is supplied for the gaps.",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 7",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-7.png",
+            "imageWidth": 1085,
+            "imageHeight": 1025,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 7, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 7"
           }
         }
       ]
@@ -417,8 +438,11 @@
           "text": "Νοείσθω πρίσμα ὀρθὸν τετραγώνους ἔχον βάσεις καὶ ἐν τῷ πρίσματι κύλινδρος ἐγγεγραμμένος ὡς εἴρηται, τμηθέντος δὲ τοῦ πρίσματος διὰ τοῦ ἄξονος ἐπιπέδῳ ὀρθῷ πρὸς τὸ ἐπίπεδον τὸ ἀποτετμηκὸς τὸ τμῆμα τοῦ κυλίνδρου τοῦ μὲν πρίσματος τοῦ τὸν κύλινδρον ἔχοντος τομὴ ἔστω τὸ ΑΒ παραλληλόγραμμον, τοῦ δὲ ἐπιπέδου τοῦ ἀποτετμηκότος τὸ τμῆμα ἀπὸ τοῦ κυλίνδρου καὶ τοῦ διὰ τοῦ ἄξονος ἠγμένου ἐπιπέδου ὀρθοῦ πρὸς τὸ ἐπίπεδον τὸ ἀποτετμηκὸς τὸ ἀπὸ τοῦ κυλίνδρου τμῆμα κοινὴ τομὴ ἔστω ἡ ΒΓ εὐθεῖα, ἄξων δὲ ἔστω τοῦ πρίσματος καὶ τοῦ κυλίνδρου ἡ Γ△ εὐθεῖα, καὶ τεμνέτω αὐτὴν ἡ ΕΖ δίχα καὶ πρὸς ὀρθάς, καὶ διὰ τῆς ΕΖ ἐπίπεδον ἀνεστάτω ὀρθὸν πρὸς τὴν Γ△· ποιήσει δὴ τοῦτο ἐν μὲν τῷ πρίσματι τομὴν τετράγωνον, ἐν δὲ τῷ κυλίνδρῳ τομὴν κύκλον. Ἔστω οὖν τοῦ μὲν πρίσματος τομὴ τὸ ΜΝ τετράγωνον, τοῦ δὲ κυλίνδρου ὁ ΞΟΠΡ κύκλος, καὶ ἐφαπτέσθω ὁ κύκλος τῶν τοῦ τετραγώνου πλευρῶν κατὰ τὰ Ξ, Ο, Π, Ρ σημεῖα, τοῦ δὲ ἐπιπέδου τοῦ ἀποτετμηκότος τὸ τμῆμα ἀπὸ τοῦ κυλίνδρου καὶ τοῦ διὰ τῆς ΕΖ ἀχθέντος ἐπιπέδου ὀρθοῦ πρὸς τὸν ἄξονα τοῦ κυλίνδρου κοινὴ τομὴ ἔστω ἡ ΚΛ εὐθεῖα τέμνει δὲ αὐτὴν δίχα ἡ ΠΘΞ. Ἤχθω δέ τις εὐθεῖα ἐν τῷ ΟΠΡ ἡμικυκλίῳ ἡ ΣΤ πρὸς ὀρθὰς οὖσα τῇ ΠΧ, καὶ ἀπὸ τῆς ΣΤ ἐπίπεδον ἀνασταθὲν ὀρθὸν πρὸς τὴν ΞΠ ἐκβεβλήσθω ἐφʼ ἑκάτερα τοῦ ἐπιπέδου, ἐν ᾧ ἐστιν ὁ ΞΟΠΡ κύκλος ποιήσει δὴ τοῦτο ἐν τῷ ἡμικυλίνδρῳ, οὗ ἐστι βάσις τὸ ΟΠΡ ἡμικύκλιον, ὕψος δὲ ὁ ἄξων τοῦ πρίσματος, τομὴν παραλληλόγραμμον, οὗ ἔσται μία μὲν πλευρὰ ἡ ἴση τῇ ΣΤ, ἡ δὲ ἑτέρα τῇ τοῦ κυλίνδρου πλευρᾷ, ποιήσει δὲ καὶ ἐν τῷ τμήματι τῷ ἀποτετμημένῳ ἀπὸ τοῦ κυλίνδρου τομὴν παραλληλόγραμμον, οὗ ἐστιν ἡ μὲν ἑτέρα πλευρὰ ἴση τῇ ΣΤ, ἡ δὲ ἑτέρα τῇ ΝΥ· ἔστω δὲ οὕτως ἡ ΝΥ ἠγμένη ἐν τῷ △Ε παραλληλογράμμῳ παράλληλος οὖσα τῇ ΒΩ ἴσην ἀπολαμβάνουσα τὴν ΕΙ τῇ ΠΧ. Καὶ ἐπεὶ παραλληλόγραμμόν ἐστι τὸ ΕΓ, καὶ παράλληλος ἡ ΝΙ τῇ ΘΓ, καὶ διηγμέναι εἰσὶν αἱ ΕΘ, ΓΒ, ἔστιν ὡς ἡ ΕΘ πρὸς ΘΙ, οὕτως ἡ ΩΓ πρὸς ΓΝ, τουτέστιν ἡ ΒΩ πρὸς ΥΝ. Ὡς δὲ ἡ ΒΩ πρὸς ΥΝ, οὕτως τὸ παραλληλόγραμμον τὸ γενόμενον ἐν τῷ ἡμικυλινδρίῳ πρὸς τὸ γενόμενον ἐν τῷ ἀποτμήματι τῷ ἀποτμηθέντι ἀπὸ τοῦ κυλίνδρου· ἀμφοτέρων γὰρ τῶν παραλληλογράμμων ἡ αὐτὴ πλευρά ἐστιν ἡ ΣΤ· καὶ ἴση ἐστὶν ἡ ΕΘ τῇ ΘΠ, ἡ δὲ ΙΘ τῇ ΧΘ· καὶ ἐπεὶ ἴση ἐστὶν ἡ ΠΘ τῇ ΘΞ, ὡς ἄρα ἡ ΘΞ πρὸς ΘΧ, οὕτως τὸ γενόμενον παραλληλόγραμμον ἐν τῷ ἡμικυλινδρίῳ πρὸς τὸ γενόμενον ἐν τῷ ἀποτμήματι τῷ ἀπὸ τοῦ κυλίνδρου.",
           "ref": "Mugler vol. 3 p. 115",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 12",
-            "note": "2 diagrams appear here in the printed edition; not yet available in this build."
+            "image": "images/ch-12.png",
+            "imageWidth": 682,
+            "imageHeight": 685,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 12, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 12"
           }
         },
         {
@@ -442,8 +466,11 @@
           "ref": "Mugler vol. 3 p. 118",
           "anomaly": "A lacuna (editorial gap, reason: \"omitted\") occurs in this passage; no text is supplied for the gap.",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 13",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-13.png",
+            "imageWidth": 680,
+            "imageHeight": 715,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 13, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 13"
           }
         }
       ]
@@ -462,8 +489,11 @@
           "ref": "Mugler vol. 3 p. 119",
           "anomaly": "21 lacunae (editorial gaps, reason: \"omitted\") occur in this passage; no text is supplied for the gaps.",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 14",
-            "note": "A diagram appears here in the printed edition; not yet available in this build."
+            "image": "images/ch-14.png",
+            "imageWidth": 1100,
+            "imageHeight": 990,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 14, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 14"
           }
         }
       ]
@@ -488,8 +518,11 @@
           "ref": "Mugler vol. 3 p. 123",
           "anomaly": "122 lacunae (editorial gaps, reason: \"omitted\") occur in this passage; no text is supplied for the gaps.",
           "figure": {
-            "source": "Mugler, Ad Eratosthenem methodus 15",
-            "note": "2 diagrams appear here in the printed edition; not yet available in this build."
+            "image": "images/ch-15.png",
+            "imageWidth": 1000,
+            "imageHeight": 995,
+            "alt": "Diagram for Mugler, Ad Eratosthenem methodus 15, from the printed edition (Heath, The Method of Archimedes, 1912, after Heiberg).",
+            "source": "Mugler, Ad Eratosthenem methodus 15"
           }
         }
       ]

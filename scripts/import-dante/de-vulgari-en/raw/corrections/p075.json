@@ -1,0 +1,17 @@
+[
+  {"find": "in that of ballatc, some in that of sonnets, some The", "replace": "in that of ballate, some in that of sonnets, some", "note": "OCR misread 'ballate' and removed leaked margin caption"},
+  {"find": "[lo] in otlicr illegitimate and irregular forms, canzone", "replace": "[10] in other illegitimate and irregular forms,", "note": "OCR misread bracketed number and 'other'; removed leaked margin caption"},
+  {"find": "as will be shown farther on. Now we consider , .", "replace": "as will be shown farther on. Now we consider", "note": "removed stray leaked margin caption fragment"},
+  {"find": "tliat of these forms that of canzoni is the most f^^", "replace": "that of these forms that of canzoni is the most", "note": "OCR misread 'that'; removed leaked margin caption fragment"},
+  {"find": "excellent ; and therefore, if the most excellent >", "replace": "excellent ; and therefore, if the most excellent", "note": "removed stray leaked margin caption fragment"},
+  {"find": "things are worthy of the most excellent, as has '\"", "replace": "things are worthy of the most excellent, as has", "note": "removed stray leaked margin caption fragment"},
+  {"find": "been proved above, those subjects which are A*-<", "replace": "been proved above, those subjects which are", "note": "removed stray leaked margin caption fragment"},
+  {"find": "of canzoni is such [^oj ^^ '^^s been said. The", "replace": "of canzoni is such [20] as has been said. The", "note": "OCR misread bracketed number and words"},
+  {"find": "calledj have alone acquired this name ; and this", "replace": "called] have alone acquired this name ; and this", "note": "OCR misread closing bracket"},
+  {"find": "canzoni })roduce by themselves the whole effect", "replace": "canzoni produce by themselves the whole effect", "note": "OCR misread 'produce'"},
+  {"find": "they ought to produce ; v/hich ballate do not", "replace": "they ought to produce ; which ballate do not", "note": "OCR misread 'which'"},
+  {"find": "[30J, for they require the assistance of the", "replace": "[30], for they require the assistance of the", "note": "OCR misread closing bracket"},
+  {"find": "canzoni bring more [honour^ to their authors", "replace": "canzoni bring more [honour] to their authors", "note": "OCR misread closing bracket"},
+  {"find": "than ballate ; therefore [40J they are nobler", "replace": "than ballate ; therefore [40] they are nobler", "note": "OCR misread closing bracket"},
+  {"find": "[than these^, and consequently their form is the", "replace": "[than these], and consequently their form is the", "note": "OCR misread closing bracket"}
+]

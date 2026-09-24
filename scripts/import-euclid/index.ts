@@ -32,18 +32,18 @@
  *   - <add> (rare editorial insertion) is INCLUDED in the reading text and
  *     logged individually; the containing Passage also carries `anomaly`.
  *   - <figure/> (498 total) has no legitimately recoverable image via the
- *     TEI (its graphic url points at a dead host). For Book I's 48
- *     propositions, Book II's 14, Book III's 37, and 15 of Book IV's 16
- *     (114 total), a real diagram image has instead been sourced directly
- *     from the scanned printed edition (Heiberg, Euclidis Opera Omnia vol. I,
- *     archive.org identifier euclidisoperaomn01eucluoft) and cropped to the
- *     diagram's portion of the page - see BOOK_1_DIAGRAMS/BOOK_2_DIAGRAMS/
- *     BOOK_3_DIAGRAMS/BOOK_4_DIAGRAMS below and data/euclid-elements/images/.
- *     Book IV.16 has no printed diagram in this edition at all (the
- *     construction is given purely in words), so it keeps the honest note
- *     like any other genuine gap. Every other marker (384 of 498) is
- *     preserved as an honest `figure: { source, note }` on its passage
- *     (never a fabricated image) and logged individually to anomalies.json.
+ *     TEI (its graphic url points at a dead host). Instead, real diagram
+ *     images have been sourced directly from the scanned printed edition
+ *     (Heiberg, Euclidis Opera Omnia vols. I-IV, archive.org identifiers
+ *     euclidisoperaomn01eucluoft / 02eucluoft / 03eucl / 04eucl) and cropped
+ *     to the diagram's portion of the page: Books I-IV via
+ *     BOOK_1_DIAGRAMS..BOOK_4_DIAGRAMS below, Books V-XIII via the maps in
+ *     scripts/import-euclid/diagrams/*.ts (each with a marker-by-marker
+ *     report), all merged into REAL_DIAGRAMS keyed by leaf id and consumed
+ *     in marker order. A leaf whose printed page carries no figure (all of
+ *     Book V, and a handful elsewhere - see the reports) keeps the honest
+ *     `figure: { source, note }` on its passage (never a fabricated image);
+ *     every marker, image or note, is logged individually to anomalies.json.
  */
 
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
@@ -61,7 +61,11 @@ import {
   isTypeCode,
   type TypeCode,
 } from '../import-euclid-shared/structure.ts';
-import { ABOUT_SECTIONS, LICENSE, PROVENANCE } from '../import-euclid-shared/aboutText.ts';
+import { buildAboutSections, LICENSE, PROVENANCE } from '../import-euclid-shared/aboutText.ts';
+import type { DiagramCoverage } from '../import-euclid-shared/aboutText.ts';
+import { DIAGRAMS_BOOKS_5_9 } from './diagrams/books-5-9.ts';
+import { DIAGRAMS_BOOK_10 } from './diagrams/book-10.ts';
+import { DIAGRAMS_BOOKS_11_13 } from './diagrams/books-11-13.ts';
 import { cleanText } from '../import-isagoge-shared/text.ts';
 import type { Division, GenericWork, Passage } from '../../data/euclid-elements/types.ts';
 
@@ -261,14 +265,15 @@ function main(): void {
     );
   /** Same treatment again, extended to 15 of Book IV's 16 propositions (like
    *  Books II-III, these sit only on the Latin-facing page of this print).
-   *  Proposition 16 (inscribe a regular 15-gon) has NO printed diagram in
-   *  this edition at all - the construction is given purely in words, with
-   *  no indented figure anywhere in its text - so it keeps the honest
-   *  `figure` note like any other diagram-less marker, same as genuine gaps
-   *  in earlier books. Proposition 5 prints three small side-by-side case
-   *  diagrams (centre inside/on/outside the triangle) rather than one; all
-   *  three were kept as a single wide composite image, since together they
-   *  are this proposition's one diagram. */
+   *  Proposition 16 (inscribe a regular 15-gon) was at first believed to
+   *  have no printed diagram; a later pass found its figure two pages after
+   *  the enunciation, on the GREEK page (vol. I leaf 334, p. 320) rather
+   *  than the Latin page every other Book II-IV diagram sits on - it is
+   *  supplied by diagrams/books-11-13.ts (DIAGRAMS_BOOKS_11_13, key
+   *  'book-4-prop-16'), not here. Proposition 5 prints three small
+   *  side-by-side case diagrams (centre inside/on/outside the triangle)
+   *  rather than one; all three were kept as a single wide composite image,
+   *  since together they are this proposition's one diagram. */
   const BOOK_4_DIAGRAM_SIZE: Record<number, [number, number]> = {
     1: [283, 236], 2: [330, 220], 3: [394, 267], 4: [310, 253], 5: [864, 197],
     6: [229, 226], 7: [222, 224], 8: [239, 234], 9: [228, 225], 10: [306, 233],
@@ -285,17 +290,42 @@ function main(): void {
         },
       ]),
     );
-  const REAL_DIAGRAMS: Record<string, { image: string; width: number; height: number }> = {
-    ...BOOK_1_DIAGRAMS,
-    ...BOOK_2_DIAGRAMS,
-    ...BOOK_3_DIAGRAMS,
-    ...BOOK_4_DIAGRAMS,
+  /**
+   * Every real diagram image, keyed by LEAF ID (e.g. "book-6-prop-7",
+   * "book-10-prop2-71"), each an ordered list consumed in <figure/> marker
+   * order within that leaf: a passage's first marker takes the next unused
+   * entry; a leaf with more markers than entries repeats its last entry (the
+   * printed edition shows the same figure again, not a new one); a passage
+   * carrying several markers with several DISTINCT entries shows the first
+   * as its figure and the rest as `figure.more`. Books I-IV are converted
+   * here from the citation-keyed maps above; Books V-XIII (and the Book
+   * IV.16 correction) come from scripts/import-euclid/diagrams/*.ts.
+   */
+  type DiagramEntry = { image: string; width: number; height: number; source?: string };
+  const REAL_DIAGRAMS: Record<string, DiagramEntry[]> = {};
+  const addCitationKeyed = (m: Record<string, { image: string; width: number; height: number }>, book: number): void => {
+    for (const [citation, e] of Object.entries(m)) {
+      const n = citation.slice(citation.lastIndexOf('.') + 1);
+      REAL_DIAGRAMS[`book-${book}-prop-${n}`] = [{ ...e, source: 'Heiberg, Euclidis Opera Omnia vol. I' }];
+    }
   };
+  addCitationKeyed(BOOK_1_DIAGRAMS, 1);
+  addCitationKeyed(BOOK_2_DIAGRAMS, 2);
+  addCitationKeyed(BOOK_3_DIAGRAMS, 3);
+  addCitationKeyed(BOOK_4_DIAGRAMS, 4);
+  for (const m of [DIAGRAMS_BOOKS_5_9, DIAGRAMS_BOOK_10, DIAGRAMS_BOOKS_11_13]) {
+    for (const [leafId, entries] of Object.entries(m)) {
+      if (REAL_DIAGRAMS[leafId]) throw new Error(`duplicate diagram map entry for ${leafId}`);
+      if (entries.length === 0) throw new Error(`empty diagram map entry for ${leafId}`);
+      REAL_DIAGRAMS[leafId] = entries;
+    }
+  }
+  const volumeOf = (source: string | undefined): string => source?.match(/Euclidis Opera Omnia vol\. [IVX]+/)?.[0] ?? 'Heiberg, Euclidis Opera Omnia';
 
   /** figures seen inside a <p> that cleaned to empty text, keyed by leaf id, awaiting a surviving passage to attach to */
   const pendingFigures = new Map<string, number>();
   /** deferred figure counts per surviving Passage object; resolved into a single PassageFigure after the whole document is parsed, so an orphan reattachment can never clobber a passage's own inline figure */
-  const figureCounts = new Map<Passage, { count: number; citation: string }>();
+  const figureCounts = new Map<Passage, { count: number; citation: string; leafId: string }>();
 
   function citationFor(bookNum: number, type: TypeCode, number: string): string {
     const roman = BOOK_TITLES[bookNum - 1]!.number;
@@ -306,7 +336,7 @@ function main(): void {
   function bumpFigure(passage: Passage, bookNum: number, type: TypeCode, number: string, add: number): void {
     const citation = citationFor(bookNum, type, number);
     const prev = figureCounts.get(passage);
-    figureCounts.set(passage, { count: (prev?.count ?? 0) + add, citation });
+    figureCounts.set(passage, { count: (prev?.count ?? 0) + add, citation, leafId: leafIdOf(bookNum, type, number) });
   }
 
   /** Shared wording for every passage carrying Heiberg's bracketed-interpolation
@@ -556,7 +586,7 @@ function main(): void {
         if (figuresThisP > 0) {
           bumpFigure(passage, bookNum, type, number, figuresThisP);
           const citation = citationFor(bookNum, type, number);
-          const hasRealImage = citation in REAL_DIAGRAMS;
+          const hasRealImage = currentLeafId in REAL_DIAGRAMS;
           for (let i = 0; i < figuresThisP; i++) {
             anomalies.push({
               where: currentLeafId,
@@ -720,19 +750,55 @@ function main(): void {
   }
 
   // --- resolve deferred figure counts into actual PassageFigure objects ---
-  let totalRealImages = 0;
-  for (const [passage, { count, citation }] of figureCounts) {
-    const diagram = REAL_DIAGRAMS[citation];
-    if (diagram) {
+  // figureCounts is in document order (a passage is inserted at its first
+  // marker), so a per-leaf cursor walks that leaf's diagram entries in the
+  // same order its <figure/> markers occur.
+  let totalRealImages = 0; // passages carrying an image
+  let totalExtraImages = 0; // further distinct images on the same passage (figure.more)
+  let markersWithImage = 0;
+  const leafCursor = new Map<string, number>();
+  const coverageByBook = new Map<number, { propositionsWithImage: Set<string>; images: number; noteMarkers: number }>();
+  const bookOf = (leafId: string): number => Number(leafId.match(/^book-(\d+)-/)![1]);
+  const bookCov = (b: number) => {
+    let c = coverageByBook.get(b);
+    if (!c) {
+      c = { propositionsWithImage: new Set(), images: 0, noteMarkers: 0 };
+      coverageByBook.set(b, c);
+    }
+    return c;
+  };
+  for (const [passage, { count, citation, leafId }] of figureCounts) {
+    const entries = REAL_DIAGRAMS[leafId];
+    const start = leafCursor.get(leafId) ?? 0;
+    leafCursor.set(leafId, start + count);
+    const diagram = entries ? entries[Math.min(start, entries.length - 1)] : undefined;
+    if (entries && diagram) {
       totalRealImages += 1;
+      markersWithImage += count;
+      const cov = bookCov(bookOf(leafId));
+      cov.propositionsWithImage.add(leafId);
+      cov.images += 1;
       passage.figure = {
         source: citation,
         image: diagram.image,
         imageWidth: diagram.width,
         imageHeight: diagram.height,
-        alt: `Diagram for ${citation}, from the printed edition (Heiberg, Euclidis Opera Omnia vol. I).`,
+        alt: `Diagram for ${citation}, from the printed edition (${volumeOf(diagram.source)}).`,
       };
+      // Distinct further entries consumed by this same passage's extra markers.
+      const more = [];
+      for (let k = start + 1; k < start + count && k < entries.length; k++) {
+        const e = entries[k]!;
+        if (e.image === diagram.image) continue;
+        more.push({ image: e.image, imageWidth: e.width, imageHeight: e.height, alt: `Further diagram for ${citation}, from the printed edition (${volumeOf(e.source)}).` });
+      }
+      if (more.length) {
+        passage.figure.more = more;
+        totalExtraImages += more.length;
+        cov.images += more.length;
+      }
     } else {
+      bookCov(bookOf(leafId)).noteMarkers += count;
       passage.figure = {
         source: citation,
         note:
@@ -752,9 +818,29 @@ function main(): void {
     where: 'euclid-elements / reading text',
     note: `${totalAddSpans} <add> editorial insertions were kept verbatim in the reading text; every occurrence is logged individually above.`,
   });
+  // Sanity: every map entry must have been consumed by some marker (a stray
+  // key would mean an image silently never shown).
+  for (const leafId of Object.keys(REAL_DIAGRAMS)) {
+    if (!leafCursor.has(leafId)) fail(`diagram map entry ${leafId} matched no <figure/> marker in the transcription`);
+  }
+  const coverage: DiagramCoverage = {
+    markers: totalFigureMarkers,
+    markersWithImage,
+    noteMarkers: totalFigureMarkers - markersWithImage,
+    imagePassages: totalRealImages,
+    images: totalRealImages + totalExtraImages,
+    books: [...coverageByBook.entries()]
+      .sort((a, b) => a[0] - b[0])
+      .map(([book, c]) => ({
+        roman: BOOK_TITLES[book - 1]!.number,
+        propositionsWithImage: c.propositionsWithImage.size,
+        images: c.images,
+        noteMarkers: c.noteMarkers,
+      })),
+  };
   anomalies.push({
     where: 'euclid-elements / diagrams',
-    note: `${totalFigureMarkers} <figure/> diagram markers total (the source graphic references a dead heml.mta.ca host, so none is recoverable via the TEI itself). ${totalRealImages} of these - Book I's 48 propositions and Book II's 14 - instead carry a real diagram image, sourced by rendering the actual printed page from Heiberg's edition (archive.org euclidisoperaomn01eucluoft) and cropping to the diagram; every crop was checked by hand against the source page. The remaining ${totalFigureMarkers - totalRealImages} markers are preserved as honest "not yet available" notes; every occurrence (image or note) is logged individually above.`,
+    note: `${totalFigureMarkers} <figure/> diagram markers total (the source graphic references a dead heml.mta.ca host, so none is recoverable via the TEI itself). ${markersWithImage} of these carry a real diagram image (${coverage.images} images on ${totalRealImages} passages, across ${coverage.books.filter((b) => b.images > 0).map((b) => `Book ${b.roman}`).join(', ')}), sourced by rendering the actual printed page from Heiberg's edition (archive.org euclidisoperaomn01eucluoft, 02eucluoft, 03eucl, 04eucl) and cropping to the diagram; every crop was checked by hand against the source page. The remaining ${totalFigureMarkers - markersWithImage} markers are preserved as honest "not yet available" notes (the printed page carries no figure there - see scripts/import-euclid/diagrams/*.report.md); every occurrence (image or note) is logged individually above.`,
   });
   anomalies.push({
     where: 'euclid-elements / passages',
@@ -804,7 +890,7 @@ function main(): void {
     editor: 'Johan Ludvig Heiberg',
     provenance: PROVENANCE,
     license: LICENSE,
-    sections: ABOUT_SECTIONS,
+    sections: buildAboutSections(coverage),
   };
 
   writeJson('work.json', work);

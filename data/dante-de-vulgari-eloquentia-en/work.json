@@ -1,0 +1,1046 @@
+{
+  "workId": "dante-de-vulgari-eloquentia-en",
+  "language": "en",
+  "divisions": [
+    {
+      "id": "book-1",
+      "number": "1",
+      "ref": null,
+      "sourceHeading": "Book I",
+      "editorialTitle": null,
+      "children": [
+        {
+          "id": "book-1-ch-1",
+          "number": "1",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The author intends to treat of the vernacular or natural speech of mankind, which he distinguishes from the ' secondary' and ' artificial ' speech of the learned, and declares to be the nobler. The treatise, as appears from the concluding passage of Book I. and the opening passage of Book II., was to embrace the vernacular of Italy in all its forms and ramifications, both literary and popular.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Since we do not find that any one before us has treated of the science of the vernacular language, while in fact we see that this language is highly necessary for all, inasmuch as not only men, but even women and children, strive, in so far as nature allows them, to acquire it ; and since it is our wish to enlighten to some little extent the discernment of those who walk through the streets [10] like blind men, generally fancying that those things which are [really] in front of them are behind them, we will endeavour, the Word aiding us from heaven, to be of service to the vernacular speech ; not only drawing the water of our own wit for such a drink, but mixing with it the best of what we have taken or compiled from others, so that we may thence be able to give draughts of the sweetest hydromel. 3 But because the business of every science is not to prove but to explain its subject, in order that men may know what that is [20] with which the science is concerned, we say (to come quickly to the point) that what we call the vernacular speech is that to which children are accustomed by those who are about them when they first begin to distinguish words ; or to put it more shortly, we say that the vernacular speech is that which we acquire without any rule, by imitating our nurses. There further springs from this another secondary speech, which the Romans called grammar. And this [30] secondary speech the Greeks also have, as well as others, but not all. Few, however, acquire the use of this speech, because we can only be guided and instructed in it by the expenditure of much time, and by assiduous study. Of these two kinds of speech also, the vernacular is the nobler, as well because it was the first employed by the human race, as because the whole world makes use of it, though it has been divided into forms differing in pronunciation and vocabulary. It is also the nobler as being natural to us, whereas the other is [40] rather of an artificial kind ; and it is of this our nobler speech that we intend to treat.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-2",
+          "number": "2",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The author lays it down that man alone, as distinguished from the angels and the brutes, is endowed with speech. He shows that both for the angels and the brutes speech would have been unnecessary, and therefore repugnant to nature. He anticipates objections which might be founded on stories of animals talking, in the Bible and in Ovid, and on the fact that magpies and other birds can talk.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "This [then] is our true first speech. I do not, however, say ' our ' as implying that any other kind of speech exists beside man's ; for to man alone of all existing beings was speech given, because for him alone was it necessary. Speech was not necessary for the angels or for the lower animals, but would have been given to them in vain, which nature, as we know, shrinks from doing. For if we [10] clearly consider what our intention is when we speak, we shall find that it is nothing else but to unfold to others the thoughts of our own mind. Since, then, the angels have, for the purpose of manifesting their glorious thoughts, a most ready and indeed ineffable sufficiency of intellect, by which one of them is known in all respects to another, either of himself, or at least by means of that most brilliant mirror in which all of them are represented [20] in the fulness of their beauty, and into which they all most eagerly gaze, they do not seem to have required the outward indications of speech. And if an objection be raised concerning the spirits who fell, it may be answered in two ways. First we may say that inasmuch as we are treating of those things which are necessary for well-being, we ought to pass over the fallen angels, because they perversely refused to wait for the divine care. Or secondly (and better), that the devils themselves only need [30], in order to disclose their perfidy to one another, to know, each of another, that he exists, and what is his power : which they certainly do know, for they had knowledge of one another before their fall.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "The lower animals also, being guided by natural instinct alone, did not need to be provided with the power of speech, for all those of the same species have the same actions and passions ; and so they are enabled by their own actions and passions to know those of others. But among those of different [40] species not only was speech unnecessary, but it would have been altogether harmful, since there would have been no friendly intercourse between them. And if it be objected concerning the serpent in speaking to the first woman, or concerning Balaam's ass, that they spoke, we reply that the angel in the latter, and the devil in the former, wrought in such a manner that the animals themselves set their organs in motion in such wise that the voice thence sounded clear like [50] genuine speech; not that the sound uttered was to the ass anything but braying, or to the serpent anything but hissing.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "But if any one should argue in opposition, from what Ovid says in the fifth book of the Metamorphoses about magpies speaking, we reply that he says this figuratively, meaning something else. And if any one should rejoin that even up to the present time magpies and other birds speak, we say that it is false, because such action is not speaking, but a kind of imitation of the sound of [60] our voice, or in other words, we say that they try to imitate us in so far as we utter sounds, but not in so far as we speak. If accordingly any one were to say expressly ' Pica ' [magpie], and ' Pica ' were answered back, this would be but a copy or imitation of the sound made by him who had first said the word. And so it is evident that speech has been given to man alone. But let us briefly endeavour to explain why this was necessary for him.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-3",
+          "number": "3",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Inasmuch as human beings are not, like the brutes, guided as to their knowledge of one another by instinct alone, nor are they able, like the angels, to know each other's thoughts by intuition, but differ from both by the possession of reason together with senses, they require a means of communication which shall be both rational and sensible, and such is speech.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Since, then, man is not moved by natural instinct but by reason, and reason itself differs in individuals in respect of discernment, judgment, and choice, so that each one or us appears almost to rejoice in his own species, we are of opinion that no one has knowledge of another by means of his own actions or passions, as a brute beast ; nor does it happen that one man can enter into another by spiritual insight [10], like an angel, since the human spirit is held back by the grossness and opacity of its mortal body. It was therefore necessary that the human race should have some sign, at once rational and sensible, for the inter-communication of its thoughts, because the sign, having to receive something from the reason of one and to convey it to the reason of another, had to be rational ; and since nothing can be conveyed from one reason to another except [20] through a medium of sense, it had to be sensible ; for, were it only rational, it could not pass [from the reason of one to that of another] ; and were it only sensible it would neither have been able to take from the reason of one nor to deposit in that of another. Now this sign is that noble subject itself of which we are speaking ; for in so far as it is sound, it is sensible, but in so far as it appears to carry some meaning according to the pleasure [of the speaker] it is rational.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-4",
+          "number": "4",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The origin of speech. It is proved that Adam was the first speaker, and that the first word he said was the name of God, addressed to God.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "SPEECH was given to man alone, as is plain from what has been said above. And now I think we ought also to investigate to whom of mankind speech was first given, and what was the first thing he said, and to whom, where, and when he said it ; and also in what language this first speech came forth. Now, according to what we read in the beginning of Genesis, where the most sacred [10] Scripture is treating of the origin of the world, we find that a woman spoke before all others, I mean that most presumptuous Eve, when in answer to the inquiry of the devil she said, ' We eat of the fruit of the trees which are in Paradise, but of the fruit of the tree which is in the midst of Paradise God has commanded us not to eat, nor to touch it, lest peradventure we die.' But though we find it written that the woman spoke first, it is, however, reasonable for us to suppose that [20] the man spoke first; and it is unseemly to think that so excellent an act of the human race proceeded even earlier from woman than from man. We therefore reasonably believe that speech was given to Adam first by him who had just formed him.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Now I have no doubt that it is obvious to a man of sound mind that the first thing the voice of the first speaker uttered was the equivalent of God, namely El, whether in the [30] way of a question or in the way of an answer. It seems absurd and repugnant to reason that anything should have been named by man before God, since man had been made by him and for him. For as, since the transgression of the human race, every one begins his first attempt at speech with a cry of woe, it is reasonable that he who existed before that transgression should begin with joy ; and since there is no joy without God, but [40] all joy is in God, and God himself is wholly joy, it follows that the first speaker said first and before anything else ' God.' Here also this question arises from our saying above that man spoke first by way of answer : If an answer, was it addressed to God ? For if so it would seem that God had already spoken, which appears to make against what has been said above. To which [50] we reply that he might well have made answer when God questioned him ; but it does not follow from this that God uttered what we call speech. For who doubts that whatsoever is can be bent according to the will of God ? For by him all things were made, by him they are preserved, and by him also they are governed. Therefore since the air is made to undergo such great disturbances by the ordinance of that lower nature which is the minister and workmanship of God, that it causes the thunder to peal, the [60] lightning to flash, the water to drop, and scatters the snow and hurls down the hail, shall it not be moved to utter certain words rendered distinct by him who has distinguished greater things ? Why not ? Wherefore we consider that these observations are a sufficient answer to this difficulty, and to some others.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-5",
+          "number": "5",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The time and place of Adam's first utterance.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "THINKING then (not without reason drawn as well from the foregoing considerations as from those which follow) that the first man directed his speech first of all to the Lord himself, we may reasonably say that this first speaker at once, after having been inspired by the vivifying power, spoke without hesitation. For in man we believe it to be more characteristic of humanity to be heard than to hear, provided he be heard and hear [10] as a man. If, therefore, that workman and origin and lover of perfection by his breath made the first of us complete in all perfection, it appears to us reasonable that this most noble of animals did not begin to hear before he began to be heard. But if any one raises the objection that there was no need for him to speak, as he was, so far, the only human being, whilst God discerns all our secret thoughts without any words of ours, even before. [20] we do ourselves, we say with that reverence which we ought to use in judging anything respecting the eternal will, that though God knew, nay, even fore-knew (which is the same thing in respect of God) the thought of the first man who spoke, without any words being said, still he wished that the man should also speak, in order that, in the unfolding of so great a gift, he himself who had freely bestowed it might glory. And therefore it is to be believed that it is by God's appointment that we rejoice in the well-ordered play of our emotions. [30] Hence also we can fully determine the place where our first speech was uttered ; for if man was inspired with life outside Paradise, he first spoke outside ; but if within, we have proved that the place of his first speech was within.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-6",
+          "number": "6",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Dante, purposing to investigate what was the language spoken by Adam, takes occasion to inveigh against the petty local conceit of those (especially Florentines) who believe the place where they were born to be the most delightful in the world, and their native tongue to be the best in the world, and consequently that which Adam spoke. After this digression he declares that the primitive language spoken by Adam and his descendants until the confusion of tongues was Hebrew.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Since human affairs are carried on in very many different languages, so that many men are not understood by many with words any better than without words, it is meet for us to make investigation concerning that language which that man who had no mother, who was never suckled, who never saw either childhood or youth, is believed to have spoken. In this as in much else Pietramala [10] is a most populous city, and the native place of the majority of the children of Adam. For whoever is so offensively unreasonable as to suppose that the place of his birth is the most delightful under the sun, also rates his own vernacular (that is, his mothertongue) above all others, and consequently believes that it actually was that of Adam. But we, to whom the world is our native country, just as the sea is to the fish, though we drank of Arno before our teeth appeared, and though we love [20] Florence so dearly that for the love we bore her we are wrongfully suffering exile — we rest the shoulders of our judgment on reason rather than on feeling. And although as regards our own pleasure or sensuous comfort there exists no more agreeable place in the world than Florence, still, when we turn over the volumes both of poets and other writers in which the world is generally and particularly described, and take account within ourselves of the [30] various situations of the places of the world and their arrangement with respect to the two poles and to the equator, our deliberate and firm opinion is that there are many countries and cities both nobler and more delightful than Tuscany and Florence of which we are a native and a citizen, and also that a great many nations and races use a speech both more agreeable and more serviceable than the Italians do. Returning therefore to our subject, we say that [40] a certain form of speech was created by God together with the first soul. And I say 'a form,' both in respect of words and their construction and of the utterance of this construction ; and this form every tongue of speaking men would use, if it had not been dissipated by the fault of man's presumption, as shall be shown further on.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "In this form of speech Adam spoke [50] ; in this form of speech all his descendants spoke until the building of the Tower of Babel, which is by interpretation the tower of confusion ; and this form of speech was inherited by the sons of Heber, who after him were called Hebrews. With them alone did it remain after the confusion, in order that our Redeemer (who was, as to his humanity, to spring from them) might use, not the language of confusion, but of grace. Therefore Hebrew was [60] the language which the lips of the first speaker formed.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-7",
+          "number": "7",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Description of the building of Babel and of the confusion of tongues. Those who retained the primitive language did not join in the wicked work; and their language was spoken by their descendants, the Israelites, until their dispersion.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "It is, alas ! with feelings of shame that we now recall the ignominy of the human race. But since it is impossible for us to avoid passing through it, we will hasten through it, though the blush of shame rises to our cheeks and our mind recoils. O thou our human nature, ever prone to sin ! O thou, full of iniquity from the first and ever afterwards without cessation ! Did it suffice for thy correction that, deprived of light through thy first [10] transgression, thou wast banished from thy delightful native land ? Did it suffice, did it suffice that through the universal lust and cruelty of thy family, one house alone excepted, whatsoever was subject to thee had perished in the Flood, and that the animals of earth and air had already been punished for what thou hadst committed? Certainly this should have been enough ! But as men are wont to say in the proverb, 'Thou shalt not ride on horseback before the third time,' thou, wretched one, didst choose rather to come to a wretched steed. [20] See, reader, how man, either forgetting or despising his former discipline, and turning aside his eyes from the marks of the stripes which had remained, for the third time provoked the lash by his stupid and presumptuous pride ! For incorrigible man, persuaded by the giant, presumed in his heart to surpass by his own skill not only nature, but even the very power that works in nature, who is God ; and he began to build a tower in Sennear, which was afterwards [30] called Babel, that is, confusion, by which he hoped to ascend to heaven ; purposing in his ignorance, not to equal, but to surpass his Maker. O boundless clemency of the heavenly power ! Who among fathers would bear so many insults from a son ? But he arose, and, with a scourge which was not hostile but paternal and had been wont at other times to smite, he chastised his rebellious son with correction at once merciful and memorable. For almost the whole human race had come together [40] to the work of wickedness. Some were giving orders, some were acting as architects, some were building the walls, some were adjusting the masonry with rules, some were laying on the mortar with trowels, some were quarrying stone, some were engaged in bringing it by sea, some by land ; and different companies were engaged in different other occupations, when they were struck by such confusion from heaven, that all those who were attending to the work, using one and the same language, left off the work on being [50] estranged by many different languages and never again came together in the same intercourse. For the same language remained to those alone who were engaged together in the same kind of work ; for instance, one language remained to all the architects, another to those rolling down blocks of stone, another to those preparing the stone ; and so it happened to each group of workers. And the human race was accordingly then divided into as many different languages as there were different branches of the work ; and the [60] higher the branch of work the men were engaged in, the ruder and more barbarous was the language they afterwards spoke. ^ ^ But those to whom the hallowed language remained were neither present, nor countenanced the work ; but utterly hating it, they mocked the folly of those engaged in it. But these, a small minority, were of the seed of Shem (as I conjecture), who was the third son of Noah ; and from them sprang the people of Israel, who made use of the most ancient language until [70] their dispersion.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-8",
+          "number": "8",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Dante here confines his attention to Europe. Its inhabitants, coming from the East, brought a threefold language with them which accordingly, in process of time, became divided into three principal varieties of speech : (1) That prevailing over the North of Europe, subdivided afterwards into various tongues, almost all of which betray their common origin by the use of the affirmative particle iò. (2) That prevailing over the East of Europe and extending into Asia, spoken by the Greeks. (3) That prevailing in the South, now subdivided into the tongues distinguished by the affirmative particles oc, oïl, and sì. The boundaries of these languages described.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "On account of the confusion of tongues related above we have no slight reason for thinking that men were at that time first scattered through all the climes of the world, and the habitable regions and corners of those climes. And as the original root of the human race was planted in the regions of the East, and our race also spread out from there on both sides by a manifold diffusion of shoots [10], and finally reached the boundaries of the West, it was then perhaps that rational throats first drank of the rivers of the whole of Europe, or at least of some of them. But whether these men then first arrived as strangers, or whether they came back to Europe as natives, they brought a threefold language with them, and of those who brought it some allotted to themselves the southern, others the northern part of Europe, while the third body, whom we [20] now call Greeks, seized partly on Europe and partly on Asia.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Afterwards, from one and the same idiom received at the avenging confusion, various vernaculars drew their origin, as we shall show farther on. For one idiom alone prevailed in all the country which from the mouths of the Danube, or marshes of Mæotis to the western boundary of England, is bounded by the frontiers of Italy and France and by the ocean ; though afterwards through the [30] Sclavonians, Hungarians, Teutons, Saxons, English, and many other nations it was drawn off into various vernaculars, this alone remaining to almost all of them as a sign of their common origin, that nearly all the above-named answer in affirmation iò.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Starting from this idiom, that is to say eastward from the Hungarian frontier, another language prevailed over all the territory in that direction comprised in Europe, and even extended beyond. [40] But a third idiom prevailed in all that part of Europe which remains from the other two, though it now appears in a threefold form. For of those who speak it, some say in affirmation oc, others oïl, and others sì, namely the Spaniards, the French, and the Italians. Now the proof that the vernaculars of these nations proceed from one and the same idiom is obvious, because we see that they call many things by the same names, as Deum, celum, amorem, mare, terram, vivit [50], moritur, amat, and almost all other things. Now those of them who say oc inhabit the western part of the South of Europe, beginning from the frontier of the Genoese ; while those who say sì inhabit the country east of the said frontier, namely that which extends as far as that promontory of Italy where the Gulf of the Adriatic Sea begins, and Sicily. But those who say oïl lie in some sort to the north of these last ; for they have the Germans [60] on their east and north ; on the west they are enclosed by the English sea, and bounded by the mountains of Aragon ; they are also shut off on the south by the inhabitants of Provence, and the precipices of the Apennines.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-9",
+          "number": "9",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Dante further restricts his survey to the threefold language of the South, and proves by the fact that many words are common to all its forms that the language was at first uniform. This leads to a discussion of the cause of the variation in languages, and an explanation of the institution of a conventional invariable literary language (grammar) to obviate the inconveniences due to the mutability of natural speech.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "We must now put whatever reason we possess to the proof, since it is our purpose to investigate matters in which we are supported by the authority of none, namely, the change which has passed over a language which was originally of one and the same form. [And] because it is safer as well as quicker to travel by known paths, let us proceed with that language alone which belongs to us, neglecting the others. For that which we find in one [10] appears by analogy to exist in the others also.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "The language, then, which we are proceeding to treat of is threefold, as has been mentioned above ; for some of those who speak it say oc, others sì, and others oïl. And that this language was uniform at the beginning of the confusion (which must first be proved) appears from the fact that we agree in many words, as eloquent writers show, which agreement is repugnant to that confusion which expiated the crime [committed] [20] in the building of Babel.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "The writers of all three forms of the language agree, then, in many words, especially in the word Amor. Giraut de Borneil says : 'Sim sentis fezelz amics per ver encusera Amor.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "The King of Navarre : — 'De fine amor si vient sen et bonté.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Messer Guido Guinizelli : — 'Nè fa amor prima che gentil core [30] nè gentil cor prima che amor natura.' Let us now inquire why it is that this language has varied into three chief forms, and why each of these variations varies in itself; why, for instance, the speech of the right side of Italy varies from that of the left (for the Paduans speak in one way and the Pisans in another) ; and also why those who live nearer together still vary in their speech, as the Milanese and Veronese, the Romans and the Florentines, and even those who [40] have the same national designation, as the Neapolitans and the people of Gaeta, those of Ravenna and those of Faenza, and what is stranger still, the inhabitants of the same city, like the Bolognese of the Borgo S. Felice and the Bolognese of the Strada Maggiore. One and the same reason will explain why all these differences and varieties of speech occur.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "We say, therefore, that no effect as such goes, beyond its cause, because nothing can [50] bring about that which itself is not. Since therefore every language of ours, except that created by God with the first man, has been restored at our pleasure after the confusion, which was nothing else but forgetfulness of the former language, and since man is a most unstable and changeable animal, no human language can be lasting and continuous, but must needs vary like other properties of ours, as for instance our manners and our dress, according to distance of time and place [60]. And so far am I from thinking that there is room for doubt as to the truth of our remark that speech varies 'according to difference of time,' that we are of opinion that this is rather to be held as certain. For, if we consider our other actions, we seem to differ much more from our fellow-countrymen in very distant times than from our contemporaries very remote in place. Wherefore we boldly affirm that if the ancient Pavians were to rise from the dead they would talk in a language varying or differing from that of the modern [70] Pavians. Nor should what we are saying appear more wonderful than to observe that a young man is grown up whom we have not seen growing. For the motion of those things which move gradually is not considered by us at all ; and the longer the time required for perceiving the variation of a thing, the more stable we suppose that thing to be. Let us not therefore be surprised if the opinions of men who are but little removed from the brutes suppose that the citizens of the same [80] town have always carried on their intercourse with an unchangeable speech, because the change in the speech of the same town comes about gradually, not without a very long succession of time, whilst the life of man is in its nature extremely short.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "If, therefore, the speech of the same people varies (as has been said ) successively in course of time, and cannot in any wise stand still, the speech of people living apart and removed from one another must needs vary in different ways ; just as [90] manners and dress vary in different ways, since they are not rendered stable either by nature or by intercourse, but arise according to men's inclinations and local fitness. Hence were set in motion the inventors of the art of grammar, which is nothing else but a kind of unchangeable identity of speech in different Invention times and places. This having been settled by the common consent of many peoples [100], seems exposed to the arbitrary will of none in particular, and consequently cannot be variable. They therefore invented grammar in order that we might not, on account of the variation of speech fluctuating at the will of individuals, either fail altogether in attaining, or at least attain but a partial knowledge of the opinions and exploits of the ancients, or of those whom difference of place causes to differ from us.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-10",
+          "number": "10",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Declining to decide the question which of the three languages of oïl, oc, and sì merits the preference, Dante, after stating the claims which each of them might urge, confines himself to the vernacular Italian and enumerates the principal dialects of Italy, classified with reference to their position west or east of the Apennines, and refers to the numerous subordinate variations of speech.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Our language being now spoken under three forms (as has been said above), we feel, when comparing it with itself, according to the three forms that it has assumed, such great hesitation and timidity in placing [its different forms] in the balances, that we dare not, in our comparison, give the preference to any one of them, except in so far as we find that the founders of grammar have taken sì as the adverb of affirmation, which seems to confer [10] a kind of precedence on the Italians, who say sì. For each of the three divisions [of our language] defends its pretensions by copious evidence. That of oïl, then, alleges on its behalf that because of its being an easier and pleasanter vernacular language, whatever has been translated into or composed in vernacular prose belongs to it, namely, the compilations of the exploits of the Trojans and Romans, the exquisite legends of King Arthur, and very many [20] other works of history and learning. Another, namely that of oc, claims that eloquent speakers of the vernacular first employed it for poetry, as being a more finished and sweeter language, for instance Peter of Auvergne and other ancient writers. The third also, which is the language of the Italians, claims pre-eminence on the strength of two privileges : first, that the sweetest and most subtle poets who have written in the vernacular are its intimate friends and belong to its household [30], like Cino of Pistoia and his friend ; second, that it seems to lean more on grammar, which is common : and this appears a very weighty argument to those who examine the matter in a rational way.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "We, however, decline to give judgment in this case, and confining our treatise to the vernacular Italian, let us endeavour to enumerate the variations it has received into itself, and also to compare these with one another. In the first place, then, we say that Italy has a twofold division [40] into right and left. But, if any should ask what is the dividing line, we answer shortly that it is the ridge of the Apennines, which like the ridge of a tiled roof discharges its droppings in different directions on either side, and pours its waters down to either shore alternately through long gutter-tiles, as Lucan describes in his second book. Now the right side has the Tyrrhenian Sea as its basin, while the waters on the left fall into the Adriatic. The districts on the right [50] are Apulia (but not the whole of it), the Duchy [of Spoleto], Tuscany, and the March of Genoa.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Those on the left are part of Apulia, the March of Ancona, Romagna, Lombardy, and the March of Treviso with Venetia. Friuli and Istria cannot but belong to the left of Italy, and the islands of the Tyrrhenian Sea, namely Sicily and Sardinia, must belong to, or be associated with the right of Italy. Now in each of these two [60] sides, and those districts which follow them, the languages of the inhabitants vary, as for instance the language of the Sicilians as compared with that of the Apulians, of the Apulians with that of the Romans, of the Romans with that of the Spoletans, of these with that of the Tuscans, of the Tuscans with that of the Genoese, of the Genoese with that of the Sardinians ; also of the Calabrians with that of the people of Ancona, of these with that of the people of Romagna, of the people of Romagna with that of the Lombards, of the Lombards with that of the Trevisans and Venetians, and of these last with that of the [70] Aquileians, and of them with that of the Istrians ; and we do not think that any Italian will disagree with us in this statement. Whence it appears that Italy alone is diversified by fourteen dialects at least, all of which again vary in themselves: as for instance in Tuscany the Sienese differ in speech from the Aretines ; in Lombardy the Ferrarese from the Placentines ; in the same city also we observe some variation, as we remarked above in the last chapter [80]. Wherefore if we would calculate the primary, secondary, and subordinate variations of the vulgar tongue of Italy, we should find that in this tiny corner of the world the varieties of speech not only come up to a thousand but even exceed that figure.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-11",
+          "number": "11",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "In view of the many discordant varieties of the Italian vernacular, Dante purposes to search for a language fitted to belong to the whole of Italy, and proceeds in this and the next four chapters to reject the claims of the principal dialects to occupy that position. He first rejects the dialects of Rome, the March of Ancona, Spoleto, Milan, Bergamo, etc., Aquileia and Istria, Casentino, Prato, and Sardinia.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "As the Italian vernacular has so very many discordant varieties, let us hunt after a more fitting and an illustrious Italian language ; and in order that we may be able to have a practicable path for our chase, let us first cast the tangled bushes and brambles out of the wood. Therefore, as the Romans think that they ought to have precedence over all the rest, let us in this process of uprooting or clearing away give them (not undeservedly) precedence [10], declaring that we will have nothing to do with them in any scheme of a vernacular language. We say, then, that the vulgar tongue of the Romans, or rather their hideous jargon, is the ugliest of all the Italian dialects ; nor is this surprising, since in the depravity of their manners and customs also they appear to stink worse than all the rest. For they say 'Mezzure, quinto dici?' After them, let us get rid of the inhabitants of the March of Ancona, who say, 'Chignamente scate sciate?' [20] with whom we reject the Spoletans also. Nor must we forget that a great many canzoni have been written in contempt of these three peoples, among which we have noticed one correctly and perfectly constructed, which a certain Florentine named Castra had composed. It began :— 'Una fermana scopai da Cascioli Cita cita sen già'n grande aina.' [30] And after these let us weed out the people of Milan and Bergamo with their neighbours, in reproach of whom we recollect that some one has sung :— 'Enti l'ora del vesper, Ciò fu del mes d'ochiover.' After them let us sift out the Aquileians and Istrians, who belch forth with cruelly harsh accents, ' Ces fastu?' And with these we cast out all the mountainous and rural dialects, as those ol Caocntino and Prato, which by the extravagance of their accent always seem discordant [40] to the citizens dwelling in the midst of the towns. Let us also cast out the Sardinians, who are not Italians, but are, it seems, to be associated with them ; since they alone seem to be without any vulgar tongue of their own, imitating Latin as apes do men : for they say, 'Domus nova' and 'dominus meus.'",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-12",
+          "number": "12",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The examination of the Sicilian dialect is interrupted by a digression on the degeneracy of the present magnates of Italy as compared with the Emperor Frederick II. and his son Manfred, the patrons of the Sicilian school of poetry. After the digression, the local Sicilian dialect is summarily rejected, as is that of Apulia, the evidence of disqualification being the fact that the local poets did not compose in the local dialect, but in that language which belongs to the whole of Italy.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Having sifted, so to speak, the Italian vernaculars, let us, comparing together those left in our sieve, briefly choose out the one most honourable and conferring most honour. And first let us examine the genius of the Sicilian, for the Sicilian vernacular appears to arrogate to itself a greater renown than the others, both because whatever poetry the Italians write is called Sicilian, and because we find that very many [10] natives of Sicily have written weighty poetry, as in the canzoni, ' Ancor che l'aigua per lo focho lassi,' and ' Amor che lungiamente m'ai menato.' But this fame of the land of Trinacria appears, if we rightly examine the mark to which it tends, only to have survived by way of a reproach to the princes of Italy, who, not in a heroic but in a plebeian manner, follow pride. [20] But those illustrious heroes Frederick. Caesar and his happy-born son Manfred, displaying the nobility and righteousness of their character, as long as fortune remained favourable, followed what is human, disdaining what is bestial ; wherefore those who were of noble heart and endowed with graces strove to attach themselves to the majesty of such great princes ; so that in their time, whatever the best Italians attempted first appeared [30] at the court of these mighty sovereigns. And from the fact that the royal throne was Sicily it came to pass that whatever our predecessors wrote in the vulgar tongue was called Sicilian ; and this name we also retain, nor will our successors be able to change it. Racha, racha ! what is the sound now uttered by the trumpet of the latest Frederick ? What is that uttered by the bell of Charles II.? What is that uttered by the horns of the powerful Marquises John and Azzo ? What is that uttered by the flutes of the other [40] magnates ? What but ' Come, ye murderers ; come, ye traitors ; come, ye followers of avarice.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "But it is better to return to our subject than to speak in vain : and we declare that if we take the Sicilian dialect, that namely spoken by the common people, out of whose mouths it appears our judgment should be drawn, it is in nowise worthy of preference, because it is not uttered without drawling, as for instance here [50] : 'Tragemi d'este focora, se t'este a boluntate.' If, however, we choose to take the language as it flows fron) the mouths of the highest Sicilians, as it may be examined in the canzoni quoted before, it differs in nothing from that language The which is the most worthy of praise, as we show further on. The Apulians also, because of their own harshness of speech, or else because of their nearness to their neighbours who arc the Romans and the people of the March [of Ancona], make use of shameful barbarisms, for they say [60], ' Volzera che chiangesse lo quatraro.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "But though the natives of Apulia commonly speak in a hideous manner, some of them have been distinguished by their use of polished language, inserting more curial words into their canzoni, as clearly appears from an examination of their works, for instance, ' Madonna, dir vi voglio,' and ' Per fino amore vo sì letamente.' [70] Wherefore it should become clear to those who mark what has been said above, that neither the Sicilian nor the Apulian dialect is that vulgar tongue which is the most beautiful in Italy, for we have shown that eloquent natives of those parts have diverged from their own dialect.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-13",
+          "number": "13",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The Tuscan claim to the possession of the illustrious vernacular is indignantly denied, the speech of Florence, Pisa, Lucca, Siena, and Arezzo being rejected in detail. Guido Cavalcanti, Lapo Gianni, Cino of Pistoja, and 'another' (Dante himself) are commended for deviating from the Tuscan dialect. The claim of the Umbrian cities is dismissed in a parenthesis, and Genoa is disposed of in a few lines.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Next let us come to the Tuscans, who, infatuated through their frenzy, seem to arrogate to themselves the title of the illustrious vernacular ; and in this matter not only the minds of the common people are crazed, but we find that many distinguished men have embraced the delusion ; for instance Guittone of Arezzo, who never aimed at the curial vernacular, Bonagiunta of Lucca, Gallo of Pisa [10], Mino Mocato of Siena, and Brunetto of Florence, whose works, if there be leisure to examine them, will be found to be not curial but merely municipal. And since the Tuscans exceed the rest in this frenzied intoxication, it seems right and profitable to deal with the dialects of the Tuscan towns one by one, and to The take off somewhat of their vain glory. The Florentines open their mouths and say, ' Manichiamo introque [20].—Noi non facciano atro' ; 1 the Pisans, ' Bene andonno li fanti De Fiorensa per Pisa' ; 2 the people of Lucca, ' Fo voto a Dio che in gassarra eie lo comuno de Lucca' ; 3 the Sienese, ' Onche renegata avesse io Siena ! ' ' Ch’ee chesto ? ’ the Aretines, ‘ Vo tu venire ovelle ? ’ (We do not intend to deal with Perugia, Orvieto [30], and Città Castellana at all, because of their close connection with the Romans and Spoletans.) But obtuse as almost all the Tuscans are in their degraded dialect, we notice that some have recognised wherein the excellence of the vernacular consists, namely, Guido, Lapo, and another, all Florentines, and Cino of Pistoja, whom we now undeservedly put last, having been not undeservedly driven to do so. Therefore if we examine the Tuscan [40] dialects, reflecting how the writers commended above have deviated from their own dialect, it does not remain doubtful that the vernacular we are in search of is different from that which the people of Tuscany attain to. But if any one thinks that what we say of the Tuscans may not also be said of the Genoese, let him but bear this in mind, that if the Genoese were through forgetfulness to lose the letter z, they would have either to be dumb altogether, or to discover some new [50] kind of speech, for z forms the greatest part of their dialect, and this letter is not uttered without great harshness.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-14",
+          "number": "14",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Crossing the Apennines, the author notices the prevalence of two alternating types of dialect, one distinguished by its softness, the other by its harshness ; the first prevails in Romagna ; the second in Brescia, Verona, Vicenza, Padua, and Treviso ; both are rejected, as is also the dialect of Venice.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "LET us now cross the leaf-clad shoulders of the Apennines, and hunt inquiringly, as we are wont, over the left side of Italy, beginning from the east. Entering Romagna, then, we remark that we have found in Italy two alternating types of dialect with certain opposite characteristics in which they respectively agree. One of these, on account of the softness of its words and pronunciation, seems so feminine [10] that it causes a man, even when speaking like a man, to be believed to be a woman. This type of dialect prevails among all the people of Romagna, and especially those of Forli, whose city, though the newest, seems to be the centre of all the province. These people say deusci in affirmation, and use ' Oclo meo' and ' Corada mea' as terms of endearment. We have heard that some of them have diverged in poetry from their own dialect, namely the Faentines Thomas and [20] Ugolino Bucciola.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "There is also, as we have said, another type (2) of dialect, so bristling and shaggy in its words and accents that, owing to its rough harshness, it not only distorts a woman's speech, but makes one doubt whether she is not a man. This type of dialect prevails among all those who say magara, 1 namely the Brescians, Veronese, and Viccntines, as well as the Paduans, with their ugly syncopations of all the participles in ius and denominatives in tas, as [30] mercò and bontè. With these we also class the Trevisans, who, like the Brescians and their neighbours, pronounce f for consonantal u, cutting off the final syllable of the word, as nof for novem, vif for vivo, which we disapprove as a gross barbarism.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Nor do the Venetians also deem themselves worthy of possessing that vernacular language which we have been searching for ; and if any of them, trusting in error, should cherish any delusion on this point, let him remember whether he has ever said [40] ' Per le plage de Dio tu non veràs.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Among all these we have noticed one man striving to depart from his mother-tongue, and to apply himself to the curial vernacular language; namely Ildebrandino of Padua.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Wherefore, on all the dialects mentioned in the present chapter coming up for judgment, our decision is that neither that of Romagna nor its opposite (as we have mentioned), nor that of Venice is that illustrious vernacular which we are seeking.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-15",
+          "number": "15",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The dialect of Bologna, though the best of the local dialects, is not that courtly and illustrious language which the author is in search of.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Let us now endeavour to clear the way by tracking out what remains of the Italian wood.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "We say, then, that perhaps those are not far wrong who assert that the people of Bologna use a more beautiful speech [than the others], since they receive into their own dialect something borrowed from their neighbours of Imola, Ferrara, and Modena, just as we conjecture that all borrow from their neighbours, as Sordello showed with respect to his own Mantua, which is adjacent to [10] Cremona, Brescia, and Verona; and he who was so distinguished by his eloquence, not only in poetry but in every other form of utterance forsook his native vulgar tongue. Accordingly the above-mentioned citizens [of Bologna] get from those of Imola their smoothness and softness [of speech], and from those of Ferrara and Modena a spice of sharpness characteristic of the Lombards. This we believe has remained with the natives of that district as a relic of the admixture of the immigrant Longobards with them [20] : and this is the reason why we find that there has been no poet among the people of Ferrara, Modena, or Reggio ; for from being accustomed to their own sharpness they cannot adopt the courtly vulgar tongue without a kind of roughness ; and this we must consider to be much more the case with the people of Parma, who say monto instead of multo. If, therefore, D the people of Bologna borrow from both these kinds of dialect, as has been said, it seems reasonable that their speech should [30] by this mixture of opposites remain tempered to a praiseworthy sweetness; and this we without hesitation judge to be the case. Therefore if those who place the people of Bologna first in the matter of the vernacular merely have regard in their comparison to the municipal dialects of the Italians, we are disposed to agree with them; but if they consider that the dialect of Bologna is, taken absolutely, worthy of preference, we disagree with them altogether [40] ; for this dialect is not that language which we term courtly and illustrious, since if it had been so, the greatest Guido Guinizelli, Guido Ghisilieri, Fabruzzo, and Onesto, and other poets of Bologna would never have departed from their own dialect ; and these were illustrious writers, competent judges of dialects. The greatest Guido, wrote: 'Madonna lo fermo core' ;1 Fabruzzo [50], 'Lo meo lontano gire' ;2 Onesto, 'Più non attendo il tuo secorso, Amore' ;3 and these words are altogether different from the dialect of the citizens of Bologna. And since we consider that no one feels any doubt as to the remaining towns at the extremities of Italy (and if any one does, we do not deem him worthy of any answer from us), little remains to be mentioned in our discussion. Wherefore [60] being eager to put down our sieve so that we may quickly see what is left in it, we say that the towns of Trent and Turin, as well as Alessandria, are situated so near the frontiers of Italy that they cannot possess pure languages, so that even if their vernaculars were as lovely as they are hideous, we should still say that they were not truly Italian, because of their foreign ingredients. Wherefore if we are hunting for an illustrious Italian language, what we are hunting for [70] cannot be found in them.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-16",
+          "number": "16",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Having failed to discover in any of the local dialects a language fitted for the whole of Italy, Dante argues by analogy that there must be, as in all our other actions, some common measure or standard of comparison for the local dialects. This is what he is in search of, a language common to all parts without being peculiar to any ; and this language he declares to be illustrious, cardinal, courtly, and curial ; epithets explained in the next two chapters.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "AFTER having scoured the heights and pastures of Italy, without having found that panther which we are in pursuit of, in order that we may be able to find her, let us now track her out in a more rational manner, so that we may with skilful efforts completely enclose within our toils her who is fragrant everywhere but nowhere apparent. Resuming, then, our hunting-spears, we say that in every kind of things there must be one thing by which [10] all the things of that kind may be compared and weighed, and which we may take as the measure of all the others ; just as in numbers all are measured by unity and are said to be more or fewer according as they are distant from or near to unity ; so also in colours all are measured by white, for they are said to be more or less visible according as they approach or recede from it. And what we say of the predicaments which indicate [20] quantity and quality, we think may also be said of any of the predicaments and even of substance ; namely, that everything considered as belonging to a kind becomes measurable by that which is simplest in that kind. Wherefore in our actions, however many the species into which they are divided may be, we have to discover this standard by which they may be measured. Thus, in what concerns our actions as human beings simply, we have virtue [30], understanding it generally ; for according to it we judge a man to be good or bad ; in what concerns our actions as citizens, we have the law, according to which a citizen is said to be good or bad ; in what concerns our actions as Italians, we have certain very simple standards of manners, customs, and language, by which our actions as Italians are weighed and measured. Now the supreme standards [40] of those activities which are generically Italian are not peculiar to any one town in Italy, but are common to all ; and among these can now be discerned that vernacular language which we were hunting for above, whose fragrance is in every town, but whose lair is in none. It may, however, be more perceptible in one than in another, just as the simplest of substances, which is God, is more perceptible in a man than in [50] a brute, in an animal than in a plant, in a plant than in a mineral, in a mineral than in an element, in fire than in earth. And the simplest quantity, which is unity, is more perceptible in an odd than in an even number ; and the simplest colour, which is white, is more perceptible in orange than in green.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Having therefore found what we were searching for, we declare the illustrious, cardinal, courtly, and curial vernacular language in Italy to be that which belongs to all [60] the towns in Italy but does not appear to belong to any one of them, and by which all the municipal dialects of the Italians are measured, weighed, and compared.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-17",
+          "number": "17",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Meaning of the epithet illustrious as applied to the language common to all Italy. This language is illustrious (1) by training, i.e. purification from unsuitable elements ; (2) by its inherent power ; (3) by the honour it confers on its followers.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "We must now set forth why it is that we call this language we have found by the epithets illustrious, cardinal, courtly, and curial ; and by doing this we disclose the nature of the language itself more clearly. First, then, let us lay bare what we mean by the epithet illustrious, and why we call the language illustrious. Now we understand by this term 'illustrious' something which shines forth illuminating and [10] illuminated. And in this way we call men illustrious either because, being illuminated by power, they illuminate others by justice and charity ; or else because, having been excellently trained, they in turn give excellent training, like Seneca and Numa Pompilius. And the vernacular of which we are speaking has both been exalted by training and power, and also exalts its followers by honour and glory.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Now it appears to have been exalted by training, inasmuch as from amid so many rude Italian [20] words, involved constructions, faulty expressions, and rustic accents we see that it has been chosen out in such a degree of excellence, clearness, completeness, and polish as is displayed by Cino of Pistoja and his friend in their canzoni.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "And that it has been exalted by power is plain ; for what is of greater power than that which can sway the hearts of men, so as to make an unwilling man willing [30], and a willing man unwilling, just as this language has done and is doing ?",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Now that it exalts by honour is evident. Do not they of its household surpass in renown kings, marquises, counts, and all other magnates ? This has no need at all of proof.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "But how glorious it makes its familiar friends we ourselves know, who for the sweetness of this glory cast [even] our exile behind our back. Wherefore we ought deservedly to proclaim this language illustrious.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-18",
+          "number": "18",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Explanation of the epithets cardinal, courtly and curial, applied to the illustrious language.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "NOR is it without reason that we adorn this illustrious vernacular language with a second epithet, that is, that we call it cardinal : for as the whole door follows its hinge, so that whither the hinge turns the door also may turn, whither it be moved inward or outward, in like manner also the whole herd of municipal dialects turns, and returns, moves and pauses according [10] as this illustrious language does, which really seems to be the father of the family. Does it not daily root out the thorny bushes from the Italian wood ? Does it not daily insert grafts or plant young trees? What else have its foresters to do but to take away and bring in, as has been said? Wherefore it surely deserves to be adorned with so great a name as this.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Now the reason why we call it ' courtly ' is that if we Italians had a court [20] it would be spoken at court. For if a court is a common home of all the realm and an august ruler of all parts of the realm, it is fitting that whatever is of such a character as to be common to all [parts] without being peculiar to any, should frequent this court and dwell there; nor is any other abode worthy of so great an inmate. Such in fact seems to be that vernacular language of which we are speaking ; and hence it is that those who frequent all royal palaces [30] always speak the illustrious vernacular. Hence also it is that our illustrious language wanders about like a wayfarer, and is welcomed in humble shelters, seeing we have no court.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "This language is also deservedly to be styled 'curial,' because 'curiality' is nothing else but the justly balanced rule of things which have to be done ; and because the scales required for this kind of balancing are only wont to be found in the most excellent courts of justice, it follows that whatever in our actions [40] has been well balanced is called curial. Wherefore since this illustrious language has been weighed in the balances of the most excellent court of justice of the Italians, it deserves to be called curial. But it seems mere trifling to say that it has been weighed in the balances of the most excellent court of justice of the Italians, because we have no [Imperial] court of justice. To this the answer is easy. For though there is no court of justice of Italy in the sense of a single [supreme] court, like the court of the king of Germany, still the members of such a court are not wanting. And just as the members [50] of the German court are united under one prince, so the members of ours have been united by the gracious light of Reason. Wherefore, though we have no prince, it would be false to assert that the Italians have no [such] court of justice, because we have a court, though in the body it is scattered.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-1-ch-19",
+          "number": "19",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The illustrious, cardinal, courtly, and curial language belongs to the whole of Italy, and is the Italian vulgar tongue. The author announces his purpose to treat in the succeeding books of the use of this illustrious language, and afterwards to discuss the lower forms of the vernacular in detail.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Now we declare that this vernacular language, which we have shown to be illustrious, cardinal, courtly, and curial, is that which is called the Italian vernacular. For just as a vernacular can be found peculiar to Cremona, so can one be found peculiar to Lombardy ; and just as one can be found peculiar to Lombardy, [so] can one be found [10] peculiar to the whole of the left side of Italy. And just as all these can be found, so also can that which belongs to the whole of Italy. And just as the first is called Cremonese, the second Lombard, and the third Semi-Italian, so that which belongs to the whole of Italy is called the Italian vernacular language. For this has been used by the illustrious writers who have written poetry in the vernacular throughout Italy, as Sicilians, Apulians, Tuscans, natives of Romagna, and men of both the Marches. And because our intention is [20], as we promised in the beginning of this work, to give instruction concerning the vernacular speech, we will begin with this illustrious Italian as being the most excellent, and treat in the books immediately following of those whom we think worthy to use it ; and for what, and how, and also of where, when, and to whom, it ought to be used. And after making all this clear, we will make it our business to throw light on the lower vernaculars, gradually coming down to that which [30] belongs to a single family.",
+              "ref": null
+            }
+          ]
+        }
+      ],
+      "passages": []
+    },
+    {
+      "id": "book-2",
+      "number": "2",
+      "ref": null,
+      "sourceHeading": "Book II",
+      "editorialTitle": null,
+      "children": [
+        {
+          "id": "book-2-ch-1",
+          "number": "1",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Beginning to carry out the scheme set forth in I. 19, the author declares that the illustrious Italian language is equally fit for use in prose and in verse. But as poetry seems to be a model for prose writers, he will first treat of the use of the language in metre. He begins by inquiring whether all poets writing in the vernacular should use the illustrious language, and proves that only those that have knowledge and genius are at liberty to do so.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Urging on once more the nimbleness of our wit, which is returning to the pen of useful work, we declare in the first place that the illustrious Italian vernacular is equally fit for use in prose and in verse. But because prose writers rather get this language from poets, and because poetry seems to remain a pattern to prose writers, and not the converse, which things [10] appear to confer a certain supremacy, let us first disentangle this language as to its use in metre, treating of it in the order we set forth at the end of the first book. Let us then first inquire whether all those who write verse in the vernacular should use this illustrious language ; and so far as a superficial consideration of the matter goes, it would seem that they should, because every one who writes verse ought to adorn his verse as far as he is able. Wherefore, since nothing affords so great an adornment [20] as the illustrious vernacular does, it would seem that every writer of verse ought to employ it. Besides, if that which is best in its kind be mixed with things inferior to itself, it not only appears not to detract anything from them but even to improve them. Wherefore if any writer of verse, even though his verse be rude in matter, mixes the illustrious vernacular with his rudeness of matter, he not only appears to do well, but to be actually obliged to take this course [30]. Those who can do little need help much more than those who can do much, and thus it appears that all writers of verse are at liberty to use this illustrious language. But this is quite false, because not even poets of the highest order ought always to assume it, as will appear from a consideration of what is discussed farther on. This illustrious language, then, just like our behaviour in other matters and our dress, demands men of like quality to its own; for munificence demands men of great resources, and the purple, men of noble character, and in the same way [40] this illustrious language seeks for men who excel in genius and knowledge, and despises others, as will appear from what is said below. For everything which is suited to us is so either in respect of the genus, or of the species, or of the individual, as sensation, laughter, war; but this illustrious language is not suited to us in respect of our genus, for then it would also be suited to the brutes ; nor in respect of our species, for then it would be suited to all men; and as to this there is no question ; for no one will say that this language is suited to dwellers in the mountains dealing with rustic concerns [53]: therefore it is suited in respect of the individual. But nothing is suited to an individual except on account of his particular worth, as for instance commerce, war, and government. Wherefore if things are suitable according to worth, that is the worthy (and some men may be worthy, others worthier and others worthiest) [60], it is plain that good things will be suited to the worthy, better things to the worthier, and the best things to the worthiest. And since language is as necessary an instrument of our thought as a horse is of a knight, and since the best horses are suited to the best knights, as has been said, the best language will be suited to the best thoughts. But the best thoughts cannot exist except where knowledge and genius are found ; therefore the best [70] language is only suitable in those in whom knowledge and genius are found ; and so the best language is not suited to all who write verse, since a great many write without knowledge and genius ; and consequently neither is the best vernacular [suited to all who write verse]. Wherefore, if it is not suited to all, all ought not to use it, because no one ought to act in an unsuitable manner. And as to the statement that every one ought to adorn his verse as far as he can [80], we declare that it is true ; but we should not describe an ox with trappings or a swine with a belt as adorned, nay rather we laugh at them as disfigured ; for adornment is the addition of some suitable thing. As to the statement that superior things mixed with inferior effect an improvement [in the latter], we say that it is true if the blending is complete, for instance when we mix gold and silver together ; but if it is not, the inferior things appear worse [90], for instance when beautiful women are mixed with ugly ones. Wherefore, since the theme of those who write verse always persists as an ingredient distinct from the words, it will not, unless of the highest quality, appear better when associated with the best vernacular, but worse ; like an ugly woman if dressed out in gold or silk.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-2",
+          "number": "2",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The illustrious language must only be used in treating of the worthiest subjects, i.e. Arms, Love, and Virtue.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "After having proved that not all those who write verse, but only those of the highest excellence, ought to use the illustrious vernacular, we must in the next place establish whether every subject ought to be handled in it, or not ; and if not, we must set out by themselves those subjects that are worthy of it. And in reference to this we must first find out what we understand by that which we call worthy. We say that a thing which has worthiness is worthy, just as we say that [10] a thing which has nobility is noble ; and if when that which confers the habit is known, that on which the habit is conferred is [also] known, as such, then if we know what worthiness is, we shall know also what worthy is. Now worthiness is an effect or end of deserts ; so that when any one has deserved well we say that he has arrived at worthiness of good; but when he has deserved ill, at worthiness of evil. Thus we say that a soldier who has fought well has arrived at worthiness of victory ; one who has ruled well, at worthiness of a kingdom ; also that a liar has arrived at [20] worthiness of shame, and a robber at worthiness of death. But inasmuch as [further] comparisons are made among those who deserve well, and also among those who deserve ill, so that some deserve well, some better, and some best ; some badly, some worse, and some worst ; while such comparisons are only made with respect to the end of deserts, which (as has been mentioned before) we call worthiness, it is plain that worthinesses [30] are compared together according as they are greater or less, so that some are great, some greater, and some greatest ; and, consequently, it is obvious that one thing is worthy, another worthier, and another worthiest. And whereas there can be no such comparison of worthinesses with regard to the same object [of desert] but [only] with regard to different objects, so that we call worthier that which is worthy of greater objects, and worthiest that which is worthy of the greatest, because no thing can be more worthy [than another] in virtue of the same qualification, it is evident that the best things are worthy of the best [objects of desert], [40] according to the requirement of the things. Whence it follows that, since the language we call illustrious is the best of all the other forms of the vernacular, the best subjects alone are worthy of being handled in it, and these we call the worthiest of those subjects which can be handled ; and now let us hunt out what they are. And, in order to make this clear, it must be observed that, as man has been endowed with a threefold life, namely, vegetable, animal, and rational, he journeys along a threefold road [50] ; for in so far as he is vegetable he seeks for what is useful, wherein he is of like nature with plants ; in so far as he is animal he seeks for that which is pleasurable, wherein he is of like nature with the brutes ; in so far as he is rational he seeks for what is right — and in this he stands alone, or is a partaker of the nature of the angels. It is by these three kinds of life that we appear to carry out whatever we do ; and because in each one of them some things are greater, some greatest, within the range of their kind, it follows that those which are greatest [60] appear the ones which ought to be treated of supremely, and consequently, in the greatest vernacular.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "But we must discuss what things are greatest ; and first in respect of what is useful. Now in this matter, if we carefully consider the object of all those who are in search of what is useful, we shall find that it is nothing else but safety. Secondly, in respect of what is pleasurable ; and here we say that that is most pleasurable which gives pleasure by the most exquisite object of appetite, and this [70] is love. Thirdly, in respect of what is right ; and here no one doubts that virtue has the first place. Wherefore these three things, namely, safety, love, and virtue, appear to be those capital matters which ought to be treated of supremely, I mean the things which are most important in respect of them, as prowess in arms, the fire of love, and the direction of the will. And if we duly consider, we shall find that the illustrious writers have written poetry in the vulgar tongue on these subjects exclusively ; namely, Bertran de Born [80] on Arms, Arnaut Daniel on Love, Giraut de Borneil on Righteousness, Cino of Pistoja on Love, his friend on Righteousness. For Bertran says : — 'Non posc mudar c'un cantar non exparja.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Arnaut : 'L'aura amara fals bruols brancuz clairir.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Giraut : 'Per solaz reveillar [90] que s'es trop endormitz.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Cino : 'Digno sono eo de morte.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "His friend : 'Doglia mi reca nello core ardire.' I do not find, however, that any Italian has as yet written poetry on the subject of Arms.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Having then arrived at this point, we know what are the proper subjects to be sung in the highest vernacular language.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-3",
+          "number": "3",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The canzone is the noblest form of poetry, and therefore the subjects which have been proved worthy of the illustrious vulgar tongue ought to be treated of in canzoni.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "But now let us endeavour carefully to examine how those matters which are worthy of so excellent a vernacular language are to be restricted. As we wish, then, to set forth the form by which these matters are worthy to be bound, we say that it must first be borne in mind that those who have written poetry in the vernacular have uttered their poems in many different forms, some in that of canzoni, some in that of ballate, some in that of sonnets, some [10] in other illegitimate and irregular forms, as will be shown farther on. Now we consider that of these forms that of canzoni is the most excellent ; and therefore, if the most excellent things are worthy of the most excellent, as has been proved above, those subjects which are worthy of the most excellent vernacular are worthy of the most excellent form, and consequently ought to be handled in canzoni. Now we may discover by several reasons that the form of canzoni is such [20] as has been said. The first reason is that though whatever we write in verse is a canzone, the canzoni [technically so called] have alone acquired this name ; and this has never happened apart from ancient provision.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Moreover, whatever produces by itself the effect for which it was made, appears nobler than that which requires external assistance. But canzoni produce by themselves the whole effect they ought to produce ; which ballate do not [30], for they require the assistance of the performers for whom they are written ; it therefore follows that canzoni are to be deemed nobler than ballate, and therefore that their form is the noblest of any, for no one doubts that ballate excel sonnets in nobility of form.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Besides, those things appear to be nobler which bring more honour to their author ; but canzoni bring more [honour] to their authors than ballate ; therefore [40] they are nobler [than these], and consequently their form is the noblest of any.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Furthermore, the noblest things are the most fondly preserved ; but among poems canzoni are the most fondly preserved, as is evident to those who look into books ; therefore canzoni are the noblest [poems], and consequently their form is the noblest.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Also, in works of art, that is noblest which embraces the whole art. Since, therefore [50], poems are works of art, and the whole of the art is embraced in canzoni alone, canzoni are the noblest poems, and so their form is the noblest of any. Now, that the whole of the art of poetic song is embraced in canzoni is proved by the fact that whatever is found to belong to the art is found in them ; but the converse is not true. But the proof of what we are saying is at once apparent ; for all that has flowed from the [60] tops of the heads of illustrious poets down to their lips is found in canzoni alone. Wherefore, in reference to the subject before us, it is clear that the matters which are worthy of the highest vulgar tongue ought to be handled in canzoni.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-4",
+          "number": "4",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The author begins to treat of the form of the canzone. The regular (i.e. Latin) poets proposed as models for the vernacular poets' imitation. Choice of subject and its bearing on the style to be adopted, viz., tragic, comic, or elegiac. The illustrious language appropriated to the tragic style. Definition of the tragic style, in which alone the subjects worthy to be handled in canzoni are to be sung. Denunciation of those who attempt the tragic style without the proper equipment.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Having then laboured by a process of disentangling [to show] what persons and things are worthy of the courtly vernacular, as well as the form of verse which we deem worthy of such honour that it alone is fitted for the highest vernacular, before going off to other topics, let us explain the form of the canzone, which many appear to adopt rather at haphazard than with art ; and let us unlock the workshop of the art of that form which has hitherto been adopted in a casual way [10], omitting the form of ballate and sonnets, because we intend to explain this in the fourth book of this work, when we shall treat of the middle vernacular language.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Reviewing, therefore, what has been said, we remember that we have frequently called those who write verse in the vernacular poets ; and this we have doubtless ventured to say with good reason, because they are in fact poets, if we take a right view of poetry, which is nothing else but [20] a rhetorical composition set to music. But these poets differ from the great poets, that is, the regular ones, for the language of the great poets was regulated by art, whereas these, as has been said, write at haphazard. It therefore happens that the more closely we copy the great poets, the more correct is the poetry we write ; whence it behoves us, by devoting some trouble to the work of teaching, to emulate their poetic teaching.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Before all things therefore we say that each one [30] ought to adjust the weight of the subject to his own shoulders, so that their strength may not be too heavily taxed, and he be forced to tumble into the mud. This is the advice our master Horace gives us when he says in the beginning of his ' Art of Poetry ' ['Ye who write] take up a subject [suited to your strength '].",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Next we ought to possess a discernment as to those things which suggest themselves to us as fit to be uttered, so as to decide whether they ought to be sung in the way of tragedy, comedy, or elegy. By tragedy we bring in (sic) the higher style [40], by comedy the lower style, by elegy we understand the style of the wretched. If our subject appears fit to be sung in the tragic style, we must then assume the illustrious vernacular language, and consequently we must bind up a canzone. If, however, it appears fit to be sung in the comic style, sometimes the middle and sometimes the lowly vernacular should be used ; and the discernment to be exercised in this case we reserve for treatment in the fourth book. But if our subject appears fit to be sung in the elegiac style, we must adopt the lowly vernacular alone.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "But let us omit the other styles and [50] now, as is fitting, let us treat of the tragic style. We appear then to make use of the tragic style when the stateliness of the lines is well as the loftiness of the construction and the excellence of the words agree with the weight of the subject. And because, if we remember rightly, it has already been proved that the highest things are worthy of the highest, and because the style which we call tragic appears to be the highest style, those things which we have distinguished as being worthy of the highest song [60] are to be sung in that style alone, namely, Safety, Love, and Virtue, and those other things, our conceptions of which arise from these ; provided that they be not degraded by any accident.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Let every one therefore beware and discern what we say ; and when he purposes to sing of these three subjects simply, or of those things which directly and simply follow after them, let him first drink of Helicon, and then, after adjusting the strings, boldly take up his plectrum and begin to ply it. But it is in the exercise of the needful caution and discernment [70] that the real difficulty lies ; for this can never be attained to without strenuous efforts of genius, constant practice in the art, and the habit of the sciences. And it is those [so equipped] whom the poet in the sixth book of the Æneid describes as beloved of God, raised by glowing virtue to the sky, and sons of the Gods, though he is speaking figuratively. And therefore let those, who, innocent of art and science, and trusting to genius alone, rush forward to sing of the highest subjects in the highest style, confess their folly [80] and cease from such presumption ; and if in their natural sluggishness they are but geese, let them abstain from imitating the eagle soaring to the stars.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-5",
+          "number": "5",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Of the different lines admissible in canzoni. The line of eleven syllables is the stateliest (see preceding chapter, line 53), and therefore the most eligible ; next come the lines of seven, five, and three syllables. The line of nine syllables is obsolete, and lines with an even number of syllables are rarely used.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "We seem to have said enough, or at least as much as our work requires, about the weight of the subjects. Wherefore let us hasten on to the stateliness of the lines, in respect of which it is to be observed that our predecessors made use of different lines in their canzoni, as the moderns also do ; but we do not find that any one has hitherto used a line of more than eleven [10] or less than three syllables. And though the Italian poets have used the lines of three and of eleven syllables and all the intermediate ones, those of five, seven, and eleven syllables are more frequently used [than the others], and next to them, that of three syllables in preference to the others. But of all these the line of eleven syllables seems the stateliest, as well by reason of the length of time it occupies as of its capacity in regard to subject, construction, and words [20] : and the beauty of all these things is more multiplied in this line [than in the others], as is plainly apparent ; for wherever things that weigh are multiplied so also is weight. And all the teachers seem to have given heed to this, beginning their illustrious canzoni with a line of eleven syllables, as Giraut de Borneil : — 'Ara auzirez encabalitz cantars.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "And though this line appears to be of ten syllables, it is in reality of eleven [30], for the last two consonants do not belong to the preceding syllable. And though they have no vowel belonging to them, still they do not lose the force of a syllable ; and the proof of this is that the rhyme is in this instance completed by one vowel, which could not be the case except by virtue of another understood there. The king of Navarre writes : — 'De fine Amor si vient sen et bonté,' where, if the accent and its cause be considered [40] the line will be found to have eleven syllables. Guido Guinizelli writes : — 'Al cor gentil repara sempre Amore.' The Judge [Guido] delle Colonne of Messina:— 'Amor che lungiamente m' ài menato.' Rinaldo d' Aquino: — 'Per fino amore vo sì letamente.' Cino of Pistoja : — 'Non spero che già mai per mia salute.' His friend : — [50] 'Amor che movi tua vertù da cielo.' And though this line which has been mentioned appears, as is worthy, the most celebrated of all, yet, if it be associated in some slight degree with the line of seven syllables (provided only it retain its supremacy), it seems to rise still more clearly and loftily in its stateliness. But this must be left for further explanation.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "We say also that the line of seven syllables follows next after that which is greatest in celebrity. After this we place the line of five, and [60] then that of three syllables. But the line of nine syllables, because it appeared to consist of the line of three taken three times, was either never held in honour or fell 1 See above, p. 26. into disuse on account of its being disliked. As for the lines of an even number of syllables, we use them but rarely, because of their rudeness ; for they retain the nature of their numbers, which are subject to the odd numbers as matter to form. And so, summing up what has been said, the line of eleven syllables appears to be the stateliest [70] line, and this is what we were in search of. But now it remains for us to investigate concerning exalted constructions and pre-eminent words ; and at length, after having got ready our sticks and ropes, we will teach how we ought to bind together the promised faggot, that is the canzone.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-6",
+          "number": "6",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Of construction, i.e. the arrangement of words in sentences. Different kinds of construction. The most excellent kind is alone suitable for the canzone.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Inasmuch as our Intention has reference to the illustrious vernacular, which is the noblest of all, and we have distinguished the things which are worthy of being sung in it, which are the three noblest subjects, as has been established above, and have chosen the form of canzoni for them, as being the highest form of any, and have also (in order that we may be able more perfectly to give thorough instruction in this form) already settled certain points, namely the style [10] and the line, let us now deal with the construction.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Now it must be observed that we call construction a regulated arrangement of words, as 'Aristotle philosophised in Alexander's time,' for here there are five words arranged by rule, and they form one construction. Now in reference to this we must first bear in mind that one construction is congruous, while another is incongruous ; and inasmuch as, if [20] we recollect the beginning of our distinction, we are only pursuing the highest things, the incongruous construction finds no place in our pursuit, because it has not even proved deserving of a lower degree of goodness. Let therefore illiterate persons be ashamed — I say, let them be ashamed of being henceforth so bold as to burst forth into canzoni, for we laugh at them as at a blind man making distinctions between colours.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "It is, then, it seems, the congruous construction after which we are following. But here we come to a distinction of not less difficulty [30] before we can reach that construction which we are in search of, the construction, I mean, which is most full of refinement. For there are a great many degrees of constructions ; namely, [first] the insipid, which is that of uncultivated people ; as, ' Peter is very fond of Mistress Bertha.' [Then] there is that which has flavour but nothing else, which belongs to rigid scholars or masters ; as, ' I, greater in pity than all, am sorry for all those who, languishing in exile, only revisit their native land in their dreams.' There is also [40] that which has flavour and grace, which belongs to some who have taken a shallow draught of rhetoric ; as, 'The praiseworthy discernment of the Marquis of Este and his munificence prepared for all makes him beloved.' Then there is that which has flavour and grace and also elevation, which belongs to illustrious writers ; as, ' Having cast the greatest part of the flowers out of thy bosom, O Florence, the second Totila went fruitlessly to Trinacria.' This degree of construction we call the most excellent [50], and this is the one we are seeking for, since, as has been said, we are in pursuit of the highest things. Of this alone are illustrious canzoni found to be made up as [that by] Giraut de Borneil, 'Si per mon Sobre-totz no fos.' [that by] Folquet of Marseilles, 'Tan m'abellis l'amoros pensamens.' [60] [that by] Arnaut Daniel, 'Sols sui qui sai lo sobraffan quem sortz.' [that by] Aimeric de Belenoi, 'Nuls hom non pot complir addreciamen.' [that by] Aimeric de Pegulhan, 'Si com l'arbres que per sobrecarcar.' [that by] the King of Navarre, 'Ire d'amor qui en mon cor repaire.' [that by] Guido Guinizelli, 'Tegno de folle 'mpresa a lo ver dire.' [that by] Guido Cavalcanti, 'Poi che di doglia cor conven ch'io porti.' [70] [that by] Cino of Pistoja, 'Avegna che io aggia più per tempo.' [that by] his friend, 'Amor che nella mente mi ragiona.' Nor, reader, must you be surprised at our calling to memory so many poets ; for we cannot point out that construction which we call the highest except by examples of this kind. And it would possibly be very useful in order to the full acquirement of this construction if we had surveyed the regular poets, I mean [80] Virgil, Ovid in his Metamorphoses, Statius, and Lucan, as well as other writers who have employed the most lofty prose, as Titus Livius, Pliny, Frontinus, Paulus Orosius, and many others whom friendly solitude invites us to consult. Let, then, those followers of ignorance hold their peace who praise up Guittone of Arezzo and some others who have never got out of the habit of being plebeian in words and in construction.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-7",
+          "number": "7",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Classification of the words admissible into canzoni.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "The next division of our progress now demands that an explanation be given as to those words which are of such grandeur as to be worthy of being admitted into that style to which we have awarded the first place. We declare therefore to begin with that the exercise of discernment as to words involves by no means the smallest labour of our reason, since we see that a great many sorts of them can be found. For some words are childish, some feminine, and some [10] manly; and of these last some are sylvan, others urban; and of those we call urban we feel that some are combed-out and glossy, some shaggy and rumpled. Now among these urban words the combed-out and the shaggy are those which we call grand ; whilst we call the glossy and the rumpled those whose sound tends to superfluity, just as among great works some are works of magnanimity, others of smoke ; and as to these last, although when superficially looked at [20] there may be thought to be a kind of ascent, to sound reason no ascent, but rather a headlong fall down giddy precipices will be manifest, because the marked-out path of virtue is departed from. Therefore look carefully, Reader, consider how much it behoves thee to use the sieve in selecting noble words ; for if thou hast regard to the illustrious vulgar tongue which (as has been said above) poets ought to use when writing in the tragic style in the vernacular (and these are the persons whom we intend to fashion), thou wilt take care that the noblest words alone are left in thy sieve [30]. And among the number of these thou wilt not be able in any wise to place childish words, because of their simplicity, as mamma and babbo, mate and pate; nor feminine words, because of their softness, as dolciada and placevole ; nor sylvan words, because of their roughness, as greggia and cetra ; nor the glossy nor the rumpled urban words, as femina and corpo. Therefore thou wilt see that only the combed-out and the shaggy urban words will be left to thee, which are the noblest, and members of the illustrious vulgar tongue [40]. Now we call those words combed-out which have three, or as nearly as possible three syllables ; which are without aspirate, without acute or circumflex accent, without the double letters z or x, without double liquids, or a liquid placed immediately after a mute, and which, having been planed (so to say), leave the speaker with a certain sweetness, like amore, donna, disio, vertute, donare, letitia, salute, securitate, defesa.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "We call shaggy all words besides these which appear either necessary [50] or ornamental to the illustrious vulgar tongue. We call necessary those which we cannot avoid, as certain monosyllables like si, no, me, te, se, a, e, i, o, u, the interjections, and many more. We describe as ornamental all polysyllables which when mixed with combed-out words produce a fair harmony of structure, though they may have the roughness of aspirate, accent, double letters, liquids, and length [60] ; as terra, honore, speranza, gravitate, alleviato, impossibilità, impossibilitate, benaventuratissimo, inanimatissimamente, disaventuratissimamente, sovramagnificentissimamente, which last has eleven syllables. A word might yet be found with more syllables still ; but as it would exceed the capacity of all our lines it does not appear to fall into the present discussion ; such is that word honorificabilitudinitate, which runs [70] in the vernacular to twelve syllables, and in grammar to thirteen, in two oblique cases.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "In what way shaggy words of this kind are to be harmonised in the lines with combed-out words, we leave to be taught farther on. And what has been said [here] on the pre-eminent nature of the words to be used may suffice for every one of inborn discernment.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-8",
+          "number": "8",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Meanings of the term canzone. Definition of the canzone in the technical sense in which Dante uses it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Having prepared the sticks and cords for our faggot, the time is now come to bind it up. But inasmuch as knowledge of every work should precede performance, just as there must be a mark to aim at, before we let fly an arrow or javelin, let us first and principally see what that faggot is which we intend to bind up. That faggot, then (if we bear well in mind all that has been said before), is the canzone [10]. Wherefore let us see what a canzone is, and what we mean when we speak of a canzone. Now canzone, according to the true meaning of the name, is the action or passion itself of singing, just as lectio is the passion or action of reading. But let us examine what has been said, I mean whether a canzone is so called as being an action or as being a passion. In reference to this we must bear in mind that a canzone may be taken in two ways. In the first way [20], as its author's composition, and thus it is an action ; and it is in this way that Virgil says in the first book of the Æneid, 'I sing of arms and the man.' In another way, when, after having been composed it is uttered either by the author or by some one else, whether with or without modulation of sound; and thus it is a passion. For in the first case it is acted, but in the second it appears to act on some one else ; and so in the first case it appears to be the action of some one, and in the second it [30] also appears to be the passion of some one. And because it is acted on before it acts, it appears rather, nay, altogether, to get its name from its being acted and being the act of some one than from its acting on others. Now the proof of this is, that we never say 'This is Peter's canzone,' meaning that he utters it, but meaning that he has composed it.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Moreover, we must discuss the question whether we call a canzone the composition of the words which are set to music, or [40] the music itself; and, with regard to this, we say that no music [alone] is ever called a canzone, but a sound, or tone, or note, or melody. For no trumpeter, or organist, or lute-player calls his melody a canzone, except in so far as it has been wedded to some canzone ; but those who write the words for music call their words canzoni. And such words, even when written down on paper without any one to utter them, we call canzoni ; and therefore [50] a canzone appears to be nothing else but the completed action of one writing words to be set to music. Wherefore we shall call canzoni not only the canzoni of which we are now treating, but also ballate and sonnets, and all words of whatever kind written for music, both in the vulgar tongue and in Latin. But, inasmuch as we are only discussing works in the vulgar tongue, setting aside those in Latin, we say that of poems in the vulgar tongue there is one supreme which [60] we call canzone by super-excellence. Now the supremacy of the canzone has been proved in the third chapter of this book. And since the term which has been defined appears to common to many things, let us take up again the common term which has been defined, and distinguish by means of certain differences that thing which alone we are in search of. We declare therefore that the canzone as so called by super-excellence which we are in search of is a joining together in the tragic style of equal [70] stanzas without a ripresa, referring to one subject, as we have shown in our composition 'Donne che avete intellecto d'amore' [80].",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Now the reason why we call it 'a joining together in the tragic style ' is because when such a composition is made in the comic style we call it diminutively cantilena, of which we intend to treat in the fourth book of this work [74]. And thus it appears what a canzone is, both as it is taken generally, and as we call it in a super-excellent sense. It also appears sufficiently plain what we mean when we speak of a canzone, and consequently what that faggot is which we are endeavouring to bind up.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-9",
+          "number": "9",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Having in the preceding chapter defined the canzone as a joining together of stanzas, the author proceeds to define the stanza.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Inasmuch as the canzone is a joining together of stanzas, as has been said, we must necessarily be ignorant of the canzone if we do not know what a stanza is, for knowledge of the thing defined results from knowledge of the things defining ; and it therefore follows that we must treat of the stanza, in order, that is, that we may discover what it is, and what we mean to understand by it. And in reference to this matter we must observe that this word [10] has been invented solely with respect to the art [of the canzone] ; namely, in order that that in which the whole art of the canzone is contained should be called stanza, that is a room able to hold, or a receptacle for the whole art. For just as the canzone embosoms the whole theme, so the stanza embosoms the whole art ; nor is it lawful for the subsequent stanzas to call in any additional scrap of the art, but only to clothe themselves with the art of the first stanza ; from which it is plain that the stanza of which we are speaking will be the delimitation or [20] putting together of all those things which the canzone takes from the art ; and if we explain them, the description we are in search of will become clear. The whole art, therefore, of the canzone appears to depend on three things : first, on the division of the musical setting ; second, on the arrangement of the parts ; third, on the number of the lines and syllables. But we make no mention of rhyme, because it does not concern the peculiar art of the canzone, for it is allowable in any stanza to introduce [30] new rhymes and to repeat the same at pleasure, but this would by no means be allowed if rhyme belonged to the peculiar art of the canzone, as has been said. Anything, however, relating to rhyme which the art, as such, is concerned to observe will be comprised under the heading ‘ Arrangement of the Parts.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Wherefore we may thus collect the defining terms from what has been said, and declare that a stanza is a structure of lines and syllables limited by reference to a certain musical setting, and to the arrangement [of its parts].",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-10",
+          "number": "10",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The author enters on the discussion of the stanza, and in this chapter examines its structure in relation to the musical setting. The different kinds of stanza made use of in the canzone depended upon the musical setting for which they were designed. I. The musical setting might consist of one continuous melody without any repetitions or division. II. The musical setting might be divided into two different Melodic Sections, which Dante calls Odes, the repetition of one of which was compulsory, and might be made either — (a) Before the transition to the second ode (which transition Dante calls diesis). Here the first part of the stanza was divided into parts called feet (two in number, or, very rarely, three), each of course sung to the same ode. If the ode used in the second part of the stanza was not to be repeated, the second part of the stanza was called the sirma or coda. (b) After the diesis, or transition. Here the first ode was not to be repeated, and the first part of the stanza, which was consequently undivided, was called the fronte (i.e. brow), while the divisions of the second part of the stanza (each sung to the second ode) were called verses. (c) Lastly, both odes might be repeated, and in this case both parts of the stanza were divided; the divisions of the first part being called feet, and those of the second verses.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "If we know that man is a rational animal, and that an animal consists of a sensible soul and a body, but are ignorant concerning what this soul is or concerning the body itself, we cannot have perfect knowledge of man, because the perfect knowledge of every single thing extends to its ultimate elements, as the master of the wise testifies in the beginning of the Physics. Therefore in order to [10] have that knowledge of the canzone which we are panting for, let us now compendiously examine the things which define its defining term ; and first let us inquire concerning the musical setting, next concerning the arrangement [of the parts], and afterwards concerning the lines and syllables.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "We say, therefore, that every stanza is set for the reception of a certain ode; but they appear to differ in the modes [in which this is done] ; for some proceed throughout to one continuous ode [20], that is, without the repetition of any musical phrase, and without any diesis : and we understand by diesis a transition from one ode to another. (This when speaking to the common people we call volta.) And this kind of stanza was used by Arnaut Daniel in almost all his canzoni, and we have followed him in ours beginning — ' Al poco giorno e al gran cerchio d'ombra.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "But there are some stanzas which admit of a diesis [30] : and there can be no diesis in our sense of the word unless a repetition of one ode be made either before the diesis, or after, or both. If the repetition be made before [the diesis] we say that the stanza has feet ; and it ought to have two, though sometimes there are three ; very rarely, however. If the repetition be made after the diesis, then we say that the stanza has verses. If no repetition be made before [the diesis] we say that the stanza has a Fronte [40] ; if none be made after, we say that it has a Sinria or Coda. See, therefore. Reader, how much licence has been given to poets who write canzoni, and consider on what account custom has claimed so wide a choice ; and if Reason shall have guided thee by a straight path, thou wilt see that this licence of which we are speaking has been granted by worthiness of authority alone.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Hence it may become sufficiently plain how the art of the canzone depends on the division of the musical setting ; and therefore let us go on to the [50] arrangement [of the parts].",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-11",
+          "number": "11",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The author, beginning to treat of the arrangement of the parts of the stanza, discusses the relation between its several parts in regard to the number of lines and syllables they contain.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "It appears to us that what we call the arrangement [of the parts of the stanza] is the most important section of what belongs to the art [of the canzone], for this depends on the division of the musical setting, the putting together of the lines, and the relation of the rhymes ; wherefore it seems to require to be most diligently treated of.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "We therefore begin by saying that the fronte with the verses, and the feet with the coda or sirma, and also the feet with the verses [10], may be differently arranged in the stanza. For sometimes the fronte exceeds or may exceed the verses in syllables and in lines ; and we say ' may exceed ' because we have never yet met with this arrangement. Sometimes [the fronte] may exceed [the verses] in lines, and be exceeded by them in syllables ; as, if the fronte had five lines, and each verse had two lines, while the lines of the fronte were of seven syllables and those of the verses of eleven syllables. Sometimes the verses [20] exceed the fronte in syllables and in lines, as in our canzone ' Traggemi de la mente Amor la stiva.' Here the fronte was composed of four lines, three of eleven syllables and one of seven syllables ; for it could not be divided into feet, since an equality of lines and syllables is required in the feet with respect to one another, and also in the verses with respect to one another. And what we say of the fronte we might also say of the verses ; for the verses might exceed the fronte in lines and be exceeded by it in syllables ; for instance, if each verse had three lines of seven syllables [33] and the fronte were made up of five lines, two of eleven syllables and three of seven syllables.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "And sometimes the feet exceed the coda in lines and syllables as in our canzone, ' Amor che movi tua vertù da cielo.' Sometimes the feet arc exceeded by the sirma [40] both in lines and syllables, as in our canzone, ' Donna pietosa e di novella etate.' And just as we have said that the fronte, [though] exceeded [by the verses] in syllables may exceed them in lines, and conversely, so we say of the sirma [in relation to the feet].",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "The feet likewise may exceed the verses in number, and be exceeded by them ; for there may be in a stanza three feet and two verses, or three verses and two feet ; nor are we limited by that number so as not to be able to combine more [50] feet as well as verses in like manner.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "And just as we have spoken of the victory of lines and syllables in comparing the other paits of the stanza together, we now also say the same as regards the feet and verses [compared together^ : for these can be conquered and conquer in the same way.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Nor must we omit to mention that we take feet in a sense contrary to that of the regular poets, because they said that a line consisted of feet, but we say that a foot consists of lines, as appears plainly enough.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Nor must we [60] also omit to state again that the feet necessarily receive from one another an equality of lines and syllables, and their arrangement, for otherwise the repetition of the melodic section could not take place. And we declare that the same rule is to be observed in the verses.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-12",
+          "number": "12",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Arrangement of the parts of the stanza in relation to the different kinds of lines employed.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "There is also, as has been said above, a certain arrangement which we ought to consider in putting the lines together ; and therefore let us deal with this, repeating what we have said above respecting the lines.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "In our practice three lines especially appear to have the prerogative of frequent use, namely, the line of eleven syllables, that of seven syllables, and that of five syllables, and [10] we have shown that the line of three syllables follows them, in preference to the others. Of these, when we are attempting poetry in the tragic style, the line of eleven syllables deserves, on account of a certain excellence, the privilege of predominance in the structure [of the stanza]. For there is a certain stanza which rejoices in being made up of lines of eleven syllables alone, as this one of Guido of Florence :— ' Donna me prega, perch' io voglio dire.' And we also say : — ' Donne ch' avete intellecto d'amore.' [20] The Spaniards have also used this line, and I mean by Spaniards those who have written poetry in the vernacular of oc. Aimeric de Belenoi [has written] — ' Nuls hom non pot complir adrechamen.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "There is a stanza where a single line of seven syllables is woven in, and this cannot be except where there is a fronte or a coda, since (as has been said) in the feet and verses an equality of lines and syllables is observed. Wherefore also neither can there be [30] an odd number of lines where there is no fronte or no coda, but where these occur, or one of them alone, we may freely use an even or an odd number of lines. And just as there is a certain stanza formed containing a single line of seven syllables, so it appears that a stanza may be woven together with two, three, four, or five such lines, provided only that in the tragic style the lines of eleven syllables predominate in number, and one such line begin. We do indeed find that some writers have begun with a line of seven syllables in the tragic style [40], namely, Guido dei Ghisilieri and Fabruzzo, both of Bologna, as thus :— ' Di fermo sofferire,' and, ' Donna, lo fermo core,' and, ' Lo meo lontano gire,' and some others also. But if we go carefully into the sense of these writers, their tragedy will not appear to have proceeded without a certain faint shadow of elegy. [50] With regard to the line of five syllables also, we are not so liberal in our concessions ; in a great poem it is sufficient for a single line of five syllables to be inserted in the whole stanza, or two at most in the feet : and I say * in the feet,' because of the requirements of the musical setting in the feet and verses. But it by no means appears that the line of three syllables existing on its own account should be adopted in the tragic style ; and I say, ' existing on its own account,' because it often appears to have been adopted by way of a certain [60] echoing of rhymes, as may be discovered in that canzone of Guido of Florence, ' Donna me prega,' and in the following of ours : — ' Poscia ch' Amor del tutto m' ha lasciato.' And there the line of three syllables does not appear at all on its own account, but only as a part of a line of eleven syllables [68], answering like an echo to the rhyme of the line before. [72] This further point also must be specially attended to with regard to the arrangement of the lines, [namely] that if a line of seven syllables be inserted in the first foot, it must take up the same position in the second that it receives in the first. For instance, if a foot of three lines has the first and last of eleven syllables, and the middle one — that is the second — of seven syllables [80], so the second foot must have the second line of seven syllables and the first and last of eleven syllables, otherwise the repetition of the melodic section, with reference to which the feet are constructed, as has been said, could not take place ; and consequently there could be no feet. And what we have said of the feet we say of the verses also ; for we see that the feet and the verses differ in nothing but position, the former term being used before the diesis of the stanza, and the latter after it. And we declare also that what has been said of the foot of three lines [90] is to be observed in all other feet. And what we have said of one line of seven syllables we also say of more than one, and of the line of five syllables, and of every other line. [69] Hence, Reader, you are sufficiently able to choose how your stanza is to be arranged as regards the arrangement which it appears should be considered with reference to the lines.",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-13",
+          "number": "13",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "Rhyme in relation to the arrangement of the parts of the stanza.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Let us apply ourselves to the relation of the rhymes, not [however] in any way treating of unrhymed rhyme in itself; for we put off the special treatment of them (sic) till afterwards, when we shall deal with poems in the middle vulgar tongue.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "At the beginning of this chapter it seems advisable to exclude certain things : one is the unrhymed stanza, in which no attention is given to arrangement of rhymes [10]; and Arnaut Daniel very often made use of this kind of stanza, as here : — 'Sim fos Amors de joi donar;' and we say: 'Al poco giorno.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Another is the stanza all of whose lines give the same rhyme ; and here it is plainly unnecessary to seek for any arrangement [of rhymes]. And so it remains for us only to dwell upon the mixed rhymes. And first it must be remarked [20] that in this matter almost all writers take the fullest licence; and this is what is chiefly relied on for the sweetness of the whole harmony. There are, then, some poets who sometimes do not make all the endings of the lines rhyme in the same stanza, but repeat the same endings, or make rhymes to them, in the other stanzas: as Gotto of Mantua, who recited to us many good canzoni of his own. He always wove into his stanza one line unaccompanied by a rhyme [30], which he called the key. And as one such line is allowable, so also are two and perhaps more.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "There are also some other poets, and almost all the authors of canzoni, who never leave any line unaccompanied in the stanza without answering it by the consonance of one or more rhymes.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Some poets also make the rhymes of the lines following the diesis different from the rhymes of the lines preceding it [40] ; while some do not do this, but bring back the endings of the former [part of the] stanza, and weave them into the lines of the latter part. But this occurs oftenest in the ending of the first line of the latter part of the stanza, which very many poets make to rhyme with the ending of the last line of the former part ; and this appears to be nothing else but a kind of beautiful linking together of the whole stanza.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Also with regard to the arrangement of the rhymes, according as they are in the fronte or coda, every wished-for licence should, it seems, be conceded [50] ; but still the endings of the last lines are most beautifully disposed if they fall with a rhyme into silence.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "But in the feet we must be careful ; and [here] we find that a particular arrangement has been observed; and, making a distinction, we say that a foot is completed with either an even or odd number of lines, and in both cases there may be rhymed and unrhymed endings. In [the foot of] an even number of lines, no one feels any doubt [as to this] ; but in the other, if any one is doubtful [60], let him remember what was said in the next preceding chapter about the line of three syllables, when, as forming part of a line of eleven syllables, it answers like an echo. And if there happens to be an unrhymed ending in one of the feet, it must by all means be answered by a rhyme in the other. But if all the endings in one of the feet are rhymed, it is allowable in the other either to repeat the endings, or to put new ones, either wholly, or in part, at pleasure, provided, however, that the order of the preceding endings [70] be observed in its entirety ; for instance, if in a first foot of three lines, the extreme endings, that is, the first and last, rhyme together, so the extreme endings of the second foot must rhyme together; and according as the middle line in the first foot sees itself accompanied or unaccompanied by a rhyme, so let it rise up again in the second ; and the same rule is to be observed with regard to the other kinds of feet. In the verses also we almost always obey this law ; and we say 'almost,' because on account of [80] the above-mentioned linking together [of the two parts of the stanza], and combination of the final endings, it someThings times happens that the order now stated is upset. Moreover, it seems suitable for us to add to this chapter what things are to be avoided with regard to the rhymes, because we do not intend to deal any further in this book with the learning relating to rhyme. There are, then, three things, which with regard to the placing of rhymes it is unbecoming for a courtly poet to use, namely, [first], excessive repetition of the same [90] rhyme, unless perchance something new and before unattempted in the art claim this for itself; just like the day of incipient knighthood, which disdains to let the period of initiation pass without any special distinction. And this we have striven to accomplish in the canzone 'Amor, tu vedi ben che questa donna.'",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "The second of the things to be avoided is that useless equivocation which always seems to detract somewhat from the theme ; and the third is roughness of rhymes [100], unless it be mingled with smoothness ; for from a mixture of smooth and rough rhymes the tragedy itself gains in brilliancy.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "And let this suffice concerning the art [of the canzone] so far as it relates to the arrangement [of the parts of the stanza].",
+              "ref": null
+            }
+          ]
+        },
+        {
+          "id": "book-2-ch-14",
+          "number": "14",
+          "ref": null,
+          "sourceHeading": null,
+          "editorialTitle": null,
+          "children": [],
+          "passages": [
+            {
+              "n": "",
+              "text": "The author begins to treat of the number of lines and syllables in the stanza.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "Having sufficiently treated of two things belonging to the art in the canzone, it now appears that we ought to treat of the third, namely, the number of the lines and syllables. And in the first place we must make some observations with regard to the stanza as a whole ; then we will make some observations as to its parts.",
+              "ref": null
+            },
+            {
+              "n": "",
+              "text": "It concerns us therefore first to make a distinction between those subjects which fall to be sung of [10], because some stanzas seem to desire prolixity, and others do not. For whereas we sing of all the subjects we are speaking of either with reference to something favourable or else to something unfavourable, so that it happens that we sing sometimes persuasively, sometimes dissuasively, sometimes in congratulation, sometimes in irony, sometimes in praise, sometimes in contempt, let those words whose tendency is unfavourable always hasten to the end, and the others gradually [20] advance to the end with a becoming prolixity. ...",
+              "ref": null
+            }
+          ]
+        }
+      ],
+      "passages": []
+    }
+  ]
+}

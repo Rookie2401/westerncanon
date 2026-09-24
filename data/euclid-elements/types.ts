@@ -23,9 +23,12 @@ export type Lang = 'la' | 'grc';
 /**
  * A diagram marker bundled alongside a passage. Every `<figure/>` in the
  * source TEI is real structural information (498 total) but points only to a
- * dead image host, so `image`/`alt` are always omitted here and `note` always
- * carries the honest "not yet available" sentence; `source` names the exact
- * Heiberg book/proposition citation (e.g. "Heiberg, Elements I.47").
+ * dead image host. Where the printed edition carries a figure, `image`
+ * (a PNG cropped from Heiberg's scanned page, black ink on transparent) with
+ * its pixel size and `alt` are set; where the printed page carries no figure,
+ * `note` carries the honest "not yet available" sentence instead. `source`
+ * always names the exact Heiberg book/proposition citation (e.g. "Heiberg,
+ * Elements I.47").
  */
 export interface PassageFigure {
   image?: string;
@@ -34,6 +37,10 @@ export interface PassageFigure {
   alt?: string;
   source: string;
   note?: string;
+  /** further distinct printed figures on the same passage (a passage with
+   *  several <figure/> markers whose printed page shows different diagrams
+   *  for each, e.g. X.71, XI.31) */
+  more?: Array<{ image: string; imageWidth: number; imageHeight: number; alt?: string }>;
 }
 
 export interface Passage {

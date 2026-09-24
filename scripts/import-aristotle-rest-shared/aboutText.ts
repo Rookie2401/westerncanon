@@ -25,6 +25,8 @@ export interface AboutStats {
   choiceSicCount: number;
   bekkerSpan: string | null;
   hasBekkerMarks: boolean;
+  /** real printed diagrams attached by the importer (see diagrams/aristotle.ts) */
+  diagrams: Array<{ divisionId: string; source: string }>;
 }
 
 function shapeDescription(entry: WorkEntry): string {
@@ -39,6 +41,8 @@ function shapeDescription(entry: WorkEntry): string {
       return `Book -> Chapter, after first restricting the source to its "${entry.shape.filterN}" division only (see "Known gaps & anomalies" below).`;
     case 'book-page':
       return 'Book -> Chapter, where each Chapter is one Bekker PAGE\'s worth of text (this source divides directly at every Bekker page, with no separate chapter-numbering level of its own).';
+    case 'problem-section':
+      return `Preface / Problem -> Section (ids \`preface\`, \`preface-ch-M\`, \`problem-N\`, \`problem-N-ch-M\`, rendered "Preface", "Problem N" and "§ M"): the source's "${entry.shape.problemSubtype}" divs (n="0" = the unnumbered preface, then the traditional numbered problems) each hold their own restarting "${entry.shape.sectionSubtype}" numbering, so the two levels are both kept to keep every id unique.`;
   }
 }
 
@@ -107,6 +111,16 @@ export function buildAboutSections(entry: WorkEntry, stats: AboutStats): WorkAbo
         : 'No <del>/<sic>/<add>/<gap>/discarded-<note> apparatus occurs in this particular file.',
     ],
   });
+
+  if (stats.diagrams.length > 0) {
+    sections.push({
+      heading: 'Diagrams',
+      paragraphs: [
+        `${stats.diagrams.length} printed geometric diagram${stats.diagrams.length === 1 ? '' : 's'} are bundled as images, cropped from the actual scanned page of a public-domain edition (Otto Apelt's 1888 Teubner text of the Mechanica, Internet Archive identifier deplantisalia00apelgoog) - the printed ink only, thresholded to black on a transparent background so the app can tint it to its own accent colour; never redrawn, straightened or reconstructed from the text. Each image sits beside its exact citation (edition, printed page, Bekker line, archive.org leaf).`,
+        `The digital transcription carries no <figure> marker anywhere, so the placement is editorial: every printed figure was matched to the one passage whose own Greek names the same point-letters (Α, Β, Γ, ...) in the same construction, checked side by side (the full research table, including the editions examined for every other Aristotelian work and why they carry no diagrams, is in scripts/import-aristotle-rest-shared/diagrams/aristotle.report.md). Divisions carrying an image: ${stats.diagrams.map((d) => d.divisionId).join(', ')}. Every attachment is also logged in anomalies.json.`,
+      ],
+    });
+  }
 
   sections.push({
     heading: 'Reference scheme',

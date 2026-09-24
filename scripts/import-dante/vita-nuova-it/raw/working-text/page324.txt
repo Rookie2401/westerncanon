@@ -1,0 +1,24 @@
+LEVEL:3
+
+<section begin="s8" />
+Amore fece a questa donna. La seconda parte comincia quivi: ''Amor sente''; la terza quivi: ''Audite''. 
+
+
+<poem>Morte villana, di pietà nemica,
+     di dolor madre antica,
+     giudicio incontastabile gravoso,
+     poi che hai data matera al cor doglioso,
+     ond’io vado pensoso,
+     di te blasmar la lingua s’affatica.
+     [[#voi far mendica|E s’io di grazia ti voi far mendica]],
+     convenesi ch’eo dica
+     lo tuo fallar d’onni torto tortoso,
+     non però ch’a la gente sia nascoso,
+     ma per farne cruccioso
+     chi d’amor per innanzi si notrica.
+</poem><section end="s8" />
+
+
+<section begin="c8" />consenso di ''fora'' o d’esser più conveniente al contesto di ''sora''.
+
+{{§|voi far mendica|}}{{Sc|{{Ec|.|E s’io di grazia ti voi far mendica.}}}} La lezione genuina del verso è certamente quella che abbiamo accolto. Se l’''io'' non fosse stato nell’originale, come avrebbero pensato i copisti ad aggiungerlo, specialmente nella divisione (VIII 12), data la forma del verbo, ''voi'', che si prestava ad essere intesa come seconda persona più che come prima? Agli esempi addotti dal {{AutoreCitato|Giosuè Carducci|Carducci}} (ed. D’Anc.<sup>2</sup>, p. 67) per provare che presso gli antichi ''mendico'' aveva il senso di ‘privo, mancante’, o non già di ‘mendicante’, si possono aggiungere quest’altri: ''lui'' (Amore) ''seguendo rimarrai mendico''... ''del cuore e de l’aver'' ({{AutoreCitato|Guido Cavalcanti|{{Sc|Guido Cavalcanti}}}} (?), Trattato d’amore, son. 41 ‘I’ragionai l’altrier’, v. 4,6); - ''Amore il qual mi tien di gio’ mendico'' ({{AutoreCitato|Cino da Pistoia|{{Sc|Cino da Pistoia}}}}, ‘Cori gentili’, v. 14); - ''amar troppo celato'' <nowiki>|</nowiki> ''ten l’om de gioi d’amor sempre mendico'' ({{AutoreCitato|Guittone d'Arezzo|{{Sc|Guittone}}}}, ‘Ai! bona donna’, v. 68, 64); - (il vizioso amore) ''d’ongne rasgional vertù fati mendico'' ({{AutoreCitato|Monte Andrea|{{Sc|Monte}}}}, ‘Ai! misero tapino’, Vat. 3793, n° cclxxxiij, v. 26); - ''quanto avere à l’uomo, tanto vale, se fosse di bontà tuto mendico'' ({{Sc|Lo stesso}}, ‘Più soferir non posso’, Vat. 3793, n° cclxxxiv, v. 71, 72); - ''Ond’io, vedendo il cor fatto mendico'' <nowiki>|</nowiki> ''di natural calore e di sua forza'' <nowiki>|</nowiki> ''vo disperato a chi mia vita ammorza'' (Raccolta di rime attribuite a {{AutoreCitato|Francesco Petrarca|{{Sc|Franc. Petrarca}}}}, Padova 1874, son. ‘Io venni a rimirar’, vv. 12-14).<section end="c8" />

@@ -1,0 +1,132 @@
+[
+  {
+    "find": "into disuse on account of its being disliked. Odd",
+    "replace": "into disuse on account of its being disliked.",
+    "note": "removed leaked margin caption"
+  },
+  {
+    "find": "As for the lines of an even number of syl- even",
+    "replace": "As for the lines of an even number of syl-",
+    "note": "removed leaked margin caption"
+  },
+  {
+    "find": "lables, \\vc use them but rarely, because of°^™",
+    "replace": "lables, we use them but rarely, because of",
+    "note": "OCR misread 'we'; removed leaked margin caption fragment"
+  },
+  {
+    "find": "of their numbers, wliich are subject to the",
+    "replace": "of their numbers, which are subject to the",
+    "note": "OCR misread 'which'"
+  },
+  {
+    "find": "eleven syllables appears to be the stateliest [70]]",
+    "replace": "eleven syllables appears to be the stateliest [70]",
+    "note": "OCR misread closing bracket"
+  },
+  {
+    "find": "our sticks and ropes, wc will teach how we",
+    "replace": "our sticks and ropes, we will teach how we",
+    "note": "OCR misread 'we'"
+  },
+  {
+    "find": "19. Conitructir.n. This subject is dealt with in the",
+    "replace": "19. Construction. This subject is dealt with in the",
+    "note": "OCR misread 'Construction'"
+  },
+  {
+    "find": "next following cliapter.",
+    "replace": "next following chapter.",
+    "note": "OCR misread 'chapter'"
+  },
+  {
+    "find": "24. Teachers. See above, I, 9 t 17/1.",
+    "replace": "24. Teachers. See above, I. 9 : 17n.",
+    "note": "garbled citation"
+  },
+  {
+    "find": "36. Undenlood there. 'Dante's meaning is, The",
+    "replace": "36. Understood there. 'Dante's meaning is, The",
+    "note": "OCR misread 'Understood'"
+  },
+  {
+    "find": "rhymes in a canzoi^e must consist of two syllables,",
+    "replace": "rhymes in a canzone must consist of two syllables,",
+    "note": "OCR misread 'canzone'"
+  },
+  {
+    "find": "without, liowever, the consonants belonginj^ to it",
+    "replace": "without, however, the consonants belonging to it",
+    "note": "OCR misread 'however' and 'belonging'"
+  },
+  {
+    "find": "losing the force of a syll.'.hle ' (Eohmer). In giving",
+    "replace": "losing the force of a syllable' (Böhmer). In giving",
+    "note": "OCR misread 'syllable' and 'Böhmer'"
+  },
+  {
+    "find": "a Provcnqa! example, he implies tliat tlie rule was",
+    "replace": "a Provençal example, he implies that the rule was",
+    "note": "OCR misread 'Provençal', 'that', 'the'"
+  },
+  {
+    "find": "wron<^. In Provencal prosody the final unaccented",
+    "replace": "wrong. In Provençal prosody the final unaccented",
+    "note": "OCR misread 'wrong' and 'Provençal'"
+  },
+  {
+    "find": "to the Provcnqal reckoning, the line here tjuoted from",
+    "replace": "to the Provençal reckoning, the line here quoted from",
+    "note": "OCR misread 'Provençal' and 'quoted'"
+  },
+  {
+    "find": "G, de Borneil has ten syllables, and the line from",
+    "replace": "G. de Borneil has ten syllables, and the line from",
+    "note": "OCR misread punctuation"
+  },
+  {
+    "find": "Eertran de Born, quoted above, II. i : 85, * Non pose",
+    "replace": "Bertran de Born, quoted above, II. 1 : 85, 'Non pose",
+    "note": "OCR misread 'Bertran', '1', quote mark"
+  },
+  {
+    "find": "mti.Lir tin catitar non expjrj,iy lias ten sylla'.)les also,",
+    "replace": "mudar un cantar non exparja,' has ten syllables also,",
+    "note": "garbled Occitan quotation"
+  },
+  {
+    "find": "tlioiigh Dante would say that in both instances there",
+    "replace": "though Dante would say that in both instances there",
+    "note": "OCR misread 'though'"
+  },
+  {
+    "find": "were eleven. Moreover, as is pointed out by Mr '",
+    "replace": "were eleven. Moreover, as is pointed out by Mr",
+    "note": "removed stray trailing quote"
+  },
+  {
+    "find": "Tozer in his essay on tiie metre of the D'lvlna CcmtrJia •'",
+    "replace": "Tozer in his essay on the metre of the Divina Comedia",
+    "note": "garbled italic title"
+  },
+  {
+    "find": "Cprinted at the end of Moore's Textual Criticism of",
+    "replace": "(printed at the end of Moore's Textual Criticism of",
+    "note": "OCR misread opening parenthesis"
+  },
+  {
+    "find": "the D.C), Dante's implied statement that the Pro-",
+    "replace": "the D.C.), Dante's implied statement that the Pro-",
+    "note": "OCR misread punctuation"
+  },
+  {
+    "find": "vencal and Old Frencli line of ten syllables is an",
+    "replace": "vençal and Old French line of ten syllables is an",
+    "note": "OCR misread 'vençal' and 'French'"
+  },
+  {
+    "find": "impossible, since the monf('!yllabic rhyme and con-",
+    "replace": "impossible, since the monosyllabic rhyme and con-",
+    "note": "OCR misread 'monosyllabic'"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {"find": "this case both parts of llie]stan/.a were divided;", "replace": "this case both parts of the stanza were divided;", "note": "OCR garbled 'the stanza'"},
+  {"find": "the divisions of the /JVj/ part beiny; called feet,", "replace": "the divisions of the first part being called feet,", "note": "OCR garbled italic 'first' and 'being'"},
+  {"find": "the If we know that man is a rational animal, and", "replace": "If we know that man is a rational animal, and", "note": "stray margin-caption fragment ('the') left by auto-strip"},
+  {"find": "musical tb^it j^n animal consists of a sensible soul and", "replace": "that an animal consists of a sensible soul and", "note": "stray margin-caption fragment ('musical') left by auto-strip, and garbled 'that an'"},
+  {"find": "^ofthe''^ body, but are ignorant concerning what this", "replace": "a body, but are ignorant concerning what this", "note": "stray margin-caption fragment ('of the') left by auto-strip, replacing 'a'"},
+  {"find": "staxiza ^'^^ ^^ o'\" concerning the body itsclT, we cannot", "replace": "soul is or concerning the body itself, we cannot", "note": "stray margin-caption fragment ('stanza') left by auto-strip, and garbled 'soul is or ... itself'"},
+  {"find": "have perfect knowledge o^ man, because the", "replace": "have perfect knowledge of man, because the", "note": "OCR misread 'of'"},
+  {"find": "Therefore in order to [_io~\\ have that knowledge", "replace": "Therefore in order to [10] have that knowledge", "note": "OCR garbled bracketed number [10]"},
+  {"find": "nov/ compendiously examine the things which", "replace": "now compendiously examine the things which", "note": "OCR misread 'now'"},
+  {"find": "the arrangement [of the partsj], and afterwards", "replace": "the arrangement [of the parts], and afterwards", "note": "OCR misread closing bracket"},
+  {"find": "We say, therefore, that every stanza id set for", "replace": "We say, therefore, that every stanza is set for", "note": "OCR misread 'is'"},
+  {"find": "to differ in the modes [in which this is done^ ;", "replace": "to differ in the modes [in which this is done] ;", "note": "OCR misread closing bracket"},
+  {"find": "ode [20J, that is, without the repetition of any", "replace": "ode [20], that is, without the repetition of any", "note": "OCR misread closing bracket"},
+  {"find": "another. (This when sj)eaking to the common", "replace": "another. (This when speaking to the common", "note": "OCR misread 'speaking'"},
+  {"find": "people we call vol/ii.'j And this kind of stanza", "replace": "people we call volta.) And this kind of stanza", "note": "OCR garbled 'volta.)'"},
+  {"find": "was used by Arn;iut Daniel in almost all his", "replace": "was used by Arnaut Daniel in almost all his", "note": "OCR misread 'Arnaut'"},
+  {"find": "* yll poco g'torno e al gran cercJno (fomhra^", "replace": "' Al poco giorno e al gran cerchio d'ombra.'", "note": "OCR badly garbled italic Italian quotation"}
+]

@@ -1,0 +1,19 @@
+[
+  {"find": "Dante expresses hlnist-lf thus), the undivided stanza", "replace": "Dante expresses himself thus), the undivided stanza", "note": "OCR misread 'himself'"},
+  {"find": "is used (Canello, Jr/m/Jo Dunletlo, p. 23). The", "replace": "is used (Canello, Arnaldo Daniello, p. 23). The", "note": "OCR garbled italic title 'Arnaldo Daniello'"},
+  {"find": "purpose of settinj; tlie stanza to an undivided melody", "replace": "purpose of setting the stanza to an undivided melody", "note": "OCR misread 'setting' and 'the'"},
+  {"find": "melodic sections involved in the use of tlie divided", "replace": "melodic sections involved in the use of the divided", "note": "OCR misread 'the'"},
+  {"find": "stanza. This disadvantaj^e would, iiowever, be more", "replace": "stanza. This disadvantage would, however, be more", "note": "OCR misread 'disadvantage' and 'however'"},
+  {"find": "apparent in the Provenqal than in the Italian canzoni,", "replace": "apparent in the Provençal than in the Italian canzoni,", "note": "OCR misread cedilla in 'Provençal'"},
+  {"find": "since the stanzas of tlie former were as a rule both", "replace": "since the stanzas of the former were as a rule both", "note": "OCR misread 'the'"},
+  {"find": "therefore tlie repetitit)ns would I)e more frecjuent and", "replace": "therefore the repetitions would be more frequent and", "note": "OCR garbled 'the repetitions would be more frequent'"},
+  {"find": "38. In Convk'io, II. 2; ill. I, aiul clsewliere «v<rjo'", "replace": "38. In Convivio, II. 2 ; III. 1, and elsewhere ' verso'", "note": "OCR garbled cross-reference and italic word 'verso'"},
+  {"find": "41. Sirma is the Greek avpfxa. It means anything", "replace": "41. Sirma is the Greek σύρμα. It means anything", "note": "OCR garbled Greek word"},
+  {"find": "46. JJy icorthlness of airtlioriti^y i.e. by the virtue of", "replace": "46. By worthiness of authority, i.e. by the virtue of", "note": "OCR garbled 'By worthiness of authority,'"},
+  {"find": "the It appears to us that wliat wc call the arrangc-", "replace": "It appears to us that what we call the arrange-", "note": "stray margin-caption fragment ('the') left by auto-strip; OCR misread 'what', 'we', 'arrange-'"},
+  {"find": "relation mcnt [of the parts of the stanza] Is the most", "replace": "ment [of the parts of the stanza] is the most", "note": "stray margin-caption fragment ('relation') left by auto-strip; OCR misread 'ment' and 'is'"},
+  {"find": "between jp^portant ecction of what belongs to the art", "replace": "important section of what belongs to the art", "note": "stray margin-caption fragment ('between') left by auto-strip; OCR garbled 'important section'"},
+  {"find": "several L°^ ^^^^ canzone], for this depends on the", "replace": "[of the canzone], for this depends on the", "note": "stray margin-caption fragment ('several') left by auto-strip; OCR garbled bracketed phrase"},
+  {"find": "We therefore begin by saying that the fronle", "replace": "We therefore begin by saying that the fronte", "note": "OCR misread 'fronte'"},
+  {"find": "sirma, and also the feet with the vcr8c;i [10],", "replace": "sirma, and also the feet with the verses [10],", "note": "OCR misread 'verses'"}
+]

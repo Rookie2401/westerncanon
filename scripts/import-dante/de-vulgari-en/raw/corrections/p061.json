@@ -1,0 +1,67 @@
+[
+  {
+    "find": "Now the reason why wc call it * courtly Ms 'courtly'",
+    "replace": "Now the reason why we call it ' courtly ' is",
+    "note": "OCR misread 'we'; margin caption 'courtly' leaked in, garbled closing quote"
+  },
+  {
+    "find": "that if wc Italians liad a court [20]] it would ^^^",
+    "replace": "that if we Italians had a court [20] it would",
+    "note": "OCR misreads 'we'/'had'; bracket dup; stray margin-caption leak '^^^' ('and')"
+  },
+  {
+    "find": "\nV be spoken at court. For if a court is a",
+    "replace": "\nbe spoken at court. For if a court is a",
+    "note": "stray leading mark 'V' (margin tick) not printed text"
+  },
+  {
+    "find": "language of which we arc speaking ; and hence",
+    "replace": "language of which we are speaking ; and hence",
+    "note": "OCR misread 'are'"
+  },
+  {
+    "find": "to all fparts] without being peculiar to any,",
+    "replace": "to all [parts] without being peculiar to any,",
+    "note": "bracket misread as 'f'"
+  },
+  {
+    "find": "[I303 always speak the illustrious vernacular.",
+    "replace": "[30] always speak the illustrious vernacular.",
+    "note": "bracketed number garbled"
+  },
+  {
+    "find": "* curial,* because * curiality ' is nothing else but",
+    "replace": "'curial,' because 'curiality' is nothing else but",
+    "note": "asterisks are misread quote marks"
+  },
+  {
+    "find": "this kind of balancing arc only wont to be found",
+    "replace": "this kind of balancing are only wont to be found",
+    "note": "OCR misread 'are'"
+  },
+  {
+    "find": "\nly that whatever in our actions [^403 has been well",
+    "replace": "\nthat whatever in our actions [40] has been well",
+    "note": "stray leading 'ly' (margin tick) and garbled bracket number"
+  },
+  {
+    "find": "balanced is called curlal. Wherefore since this",
+    "replace": "balanced is called curial. Wherefore since this",
+    "note": "OCR misread 'curial'"
+  },
+  {
+    "find": "But it seems mere trilling to say that it has been",
+    "replace": "But it seems mere trifling to say that it has been",
+    "note": "OCR misread 'trifling'"
+  },
+  {
+    "find": "court of juRMce of the Italians, because we have",
+    "replace": "court of justice of the Italians, because we have",
+    "note": "OCR misread 'justice'"
+  },
+  {
+    "find": "no [[Imj^erialJ court of justice. To this the",
+    "replace": "no [Imperial] court of justice. To this the",
+    "note": "bracket/word garbled"
+  }
+]

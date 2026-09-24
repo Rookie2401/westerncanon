@@ -1,0 +1,11 @@
+LEVEL:4
+
+
+
+<section begin="s1" />In quella parte del libro de la mia memoria, dinanzi a la quale poco si potrebbe leggere, si trova una rubrica, la quale dice: ''Incipit vita nova''. Sotto la quale rubrica io trovo [[#scritte le parole|scritte le parole]] le quali è mio intendimento d’[[#forme pleonastiche|asemplare]] in questo<section end="s1" />
+
+
+
+<section begin="c1" />{{§|scritte le parole|}} {{Sc|scritte le parole.}} La lezione ''scritte molte cose e le parole'', apparsa prima nella stampa di Pesaro, combattuta dal Todeschini, difesa dal Pasqualigo (''Pensieri sull'allegoria della V. N.'', p. 18) non ha altro fondamento che p. Il Tod. osserva: «Sotto la rubrica ''Incipit vita nova'' non dovevano già essere scritte cose di vario genere, ma soltanto le ''parole'', che porgevano argomento al libro della ''Vita Nuova''». La questione per questa parte, cioè della ragionevolezza della variante, è veramente connessa con l'altra sul significato della voce ''parole'' in questo luogo. Se per esse si dovesse intendere solo le ''rime'' che lo scrittore aveva in mente, come vorrebbe il Renier (''Giorn. stor. d. lett. ital.'', VII, 258, n. 1), si potrebbe credere che in ''molte cose'' fossero indicate le reminiscenze varie del suo amore assemplate nella parte prosaica della ''Vita Nuova''. Ma concepita la memoria come un libro, anche le varie reminiscenze vengono necessariamente ad esser ''parole'' di questo libro: onde quel ''molte cose'', oltre che mal sorretto dai testi, appare superfluo.
+
+{{§|forme pleonastiche|}} Le forme pleonastiche come ''asemplarle'' non sono rare negli antichi (cfr. le ''Annotazioni'' dei Deputati alla correzione del Decameron, nº xli), e un caso simile si ha anche qui appresso in V 4 e in ''Inf''. V, 69. Ma quest’ultimo esempio è in rima; e in ambedue i casi della ''Vita Nuova'' k resta solo contro tutti gli altri testi, nè abbiamo ragioni speciali per adottare la lezione che ha meno conforto dai Mss. — Il Luciani preferisce la forma ''assemprare'', e non crede che questo verbo «qui voglia dire ritrarre, copiare, bensì invece radunare». E il Fratic. prima e il Cas. poi, leggendo allo stesso modo, rimasero incerti fra le due interpretazioni. Ma tenendo conto della tendenza nei {{Pt|copi-|}}<section end="c1" />

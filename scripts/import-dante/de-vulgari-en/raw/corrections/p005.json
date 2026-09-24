@@ -1,0 +1,182 @@
+[
+  {
+    "find": "* ^* T):e riumlcrt inserted in the text in square Iraclett^",
+    "replace": "⁂ The numbers inserted in the text in square brackets,",
+    "note": "OCR garbled the printer's asterism ornament and misread 'The numbers'/'brackets'"
+  },
+  {
+    "find": "used for reference in the notes and elseivhcre, are those of the",
+    "replace": "used for reference in the notes and elsewhere, are those of the",
+    "note": "OCR misread 'elsewhere'"
+  },
+  {
+    "find": "lines in Dr Islooie's Oxford Dante, The ori^itial Latin",
+    "replace": "lines in Dr Moore's Oxford Dante. The original Latin",
+    "note": "OCR misread 'Moore's'/'original'; comma should be a period (new sentence)"
+  },
+  {
+    "find": "text folloived is that of R.ijna^i svtalUr tdili'.n (^Florence ^",
+    "replace": "text followed is that of Rajna's smaller edition (Florence,",
+    "note": "OCR misread 'followed'/'Rajna's'/'smaller'/'edition'/'Florence,'"
+  },
+  {
+    "find": "Successori Le Alonnier, 1897). On the title, date, and",
+    "replace": "Successori Le Monnier, 1897). On the title, date, and",
+    "note": "OCR misread 'Monnier'"
+  },
+  {
+    "find": "history of this iccrl-^ see Aj'peiidix 1. p. 11 6.",
+    "replace": "history of this work, see Appendix I. p. 116.",
+    "note": "OCR misread 'work,'/'Appendix'/roman numeral 'I.'/'116'"
+  },
+  {
+    "find": "2. Comi)are Paradiso, II. 7 ; De Alonarchia, I. I :",
+    "replace": "2. Compare Paradiso, II. 7 ; De Monarchia, I. I :",
+    "note": "OCR misread 'Compare'/'Monarchia'"
+  },
+  {
+    "find": "18, :9.",
+    "replace": "18, 19.",
+    "note": "OCR misread '19'"
+  },
+  {
+    "find": "8. Compare Co/ivivio, I. 11 : 18 fT. ; IV. 8 : 1-6.",
+    "replace": "8. Compare Convivio, I. 11 : 18 ff. ; IV. 8 : 1-6.",
+    "note": "OCR misread 'Convivio'/'ff.'"
+  },
+  {
+    "find": "11. The Word is here e<juivalcnt to t!ie Wisdom of",
+    "replace": "11. The Word is here equivalent to the Wisdom of",
+    "note": "OCR misread 'equivalent'/'the'"
+  },
+  {
+    "find": "Goil, as in Paradiso, XIX. 44- Compare Convivio, II.",
+    "replace": "God, as in Paradiso, XIX. 44. Compare Convivio, II.",
+    "note": "OCR misread 'God'; trailing hyphen should be a period"
+  },
+  {
+    "find": "12. Lit., 'To the speech of ihc vul>;ar peoples,'",
+    "replace": "12. Lit., 'To the speech of the vulgar peoples,'",
+    "note": "OCR misread 'the'/'vulgar'"
+  },
+  {
+    "find": "i.e. the dilfVrent varieties of the vernacular in Italy.",
+    "replace": "i.e. the different varieties of the vernacular in Italy.",
+    "note": "OCR misread 'different'"
+  },
+  {
+    "find": "ly. Sed quia unamquanqite doctrinam oh'^rtct nnn prohart-",
+    "replace": "17. Sed quia unamquanque doctrinam oportet non probare·",
+    "note": "OCR misread the note number '17' and the Latin words; trailing hyphen should be a raised interpunct mark, not a line-break hyphen"
+  },
+  {
+    "find": "sed suum apirire iuliectum. See Convivio, II. 14 • ^4 ^'' >",
+    "replace": "sed suum aperire subiectum. See Convivio, II. 14 : 14 ff. ;",
+    "note": "OCR misread 'aperire subiectum' and the following reference '14 : 14 ff. ;'"
+  },
+  {
+    "find": "and compare /^(//v;7/jo, XXIV. 70-78. The vernacular",
+    "replace": "and compare Paradiso, XXIV. 70-78. The vernacular",
+    "note": "OCR badly garbled 'Paradiso'"
+  },
+  {
+    "find": "was not one of the recojjiiised sciences (Co/:wt/o, II.",
+    "replace": "was not one of the recognised sciences (Convivio, II.",
+    "note": "OCR misread 'recognised'/'Convivio'"
+  },
+  {
+    "find": "14 : 55 iT,\\ hence Dante here speaks of the learning",
+    "replace": "14 : 55 ff.), hence Dante here speaks of the learning",
+    "note": "OCR misread the closing 'ff.),' punctuation"
+  },
+  {
+    "find": "relatitip^ thereto as doctrin.r, not tcientia.",
+    "replace": "relating thereto as doctrina, not scientia.",
+    "note": "OCR misread 'relating'/'doctrina'/'scientia'"
+  },
+  {
+    "find": "lanj^iinge of conventional origin, artificial construc-",
+    "replace": "language of conventional origin, artificial construc-",
+    "note": "OCR misread 'language'"
+  },
+  {
+    "find": "tion, and permanent cliaracter ; v/itli special reference",
+    "replace": "tion, and permanent character ; with special reference",
+    "note": "OCR misread 'character'/'with'"
+  },
+  {
+    "find": "to Latin, See below, I. 9 : loi//. In Convivio, I. 11 :",
+    "replace": "to Latin. See below, I. 9 : 101 n. In Convivio, I. 11 :",
+    "note": "comma should be a period (new sentence); OCR misread '101 n.'"
+  },
+  {
+    "find": "95 (f., he talks of ' the Grammar of t!ie Greeks,'",
+    "replace": "95 ff., he talks of ' the Grammar of the Greeks,'",
+    "note": "OCR misread 'ff.'/'the'"
+  },
+  {
+    "find": "34. For Dante's own experience, sec Co/ivivio, II,",
+    "replace": "34. For Dante's own experience, see Convivio, II,",
+    "note": "OCR misread 'see'/'Convivio'"
+  },
+  {
+    "find": "13: 21 fT.",
+    "replace": "13: 21 ff.",
+    "note": "OCR misread 'ff.'"
+  },
+  {
+    "find": "41. Tlicre is a contradiction, more apparent than",
+    "replace": "41. There is a contradiction, more apparent than",
+    "note": "OCR misread 'There'"
+  },
+  {
+    "find": "real, berween tliis passage and C'juvi-vio, I. 5 : 45-106, ,,",
+    "replace": "real, between this passage and Convivio, I. 5 : 45-106,",
+    "note": "OCR misread 'between'/'this'/'Convivio'; trailing extra comma is stray OCR noise (likely from a pencil mark in the margin), not printed"
+  },
+  {
+    "find": "wliere Latin is proved superior to the vernacular (.:)",
+    "replace": "where Latin is proved superior to the vernacular (a)",
+    "note": "OCR misread 'where' and the list marker '(a)'"
+  },
+  {
+    "find": "on the grouml of p<.I)ility, because of its being un-",
+    "replace": "on the ground of nobility, because of its being un-",
+    "note": "OCR misread 'ground'/'nobility'"
+  },
+  {
+    "find": "changeable [as to t «is see below, note on I. 9: 101] ;",
+    "replace": "changeable [as to this see below, note on I. 9: 101] ;",
+    "note": "OCR misread 'this'"
+  },
+  {
+    "find": "(b) l)ecause of its greater efficiency as a veliicle of",
+    "replace": "(b) because of its greater efficiency as a vehicle of",
+    "note": "OCR misread 'because'/'vehicle'"
+  },
+  {
+    "find": "thought, (f) because of tlie greater !)eauty due to its",
+    "replace": "thought, (c) because of the greater beauty due to its",
+    "note": "OCR misread the list marker '(c)' and 'the'/'beauty'"
+  },
+  {
+    "find": "artificial cliaracter. To understand the relation",
+    "replace": "artificial character. To understand the relation",
+    "note": "OCR misread 'character'"
+  },
+  {
+    "find": "between these two passnges it must be borne in mind",
+    "replace": "between these two passages it must be borne in mind",
+    "note": "OCR misread 'passages'"
+  },
+  {
+    "find": "that in Convivio. I. 5 the comj^arison is between Latin",
+    "replace": "that in Convivio, I. 5 the comparison is between Latin",
+    "note": "period should be a comma; OCR misread 'comparison'"
+  },
+  {
+    "find": "as a literary lr.nguage in the fixed and perfected state",
+    "replace": "as a literary language in the fixed and perfected state",
+    "note": "OCR misread 'language'"
+  }
+]

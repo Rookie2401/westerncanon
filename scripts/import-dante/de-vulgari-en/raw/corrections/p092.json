@@ -1,0 +1,122 @@
+[
+  {
+    "find": "Oiiheffrnina and corfo. Therefore thou wilt see that",
+    "replace": "femina and corpo. Therefore thou wilt see that",
+    "note": "removes marginal shoulder-caption leak (\"Of the\") fused at line-start; misread corpo"
+  },
+  {
+    "find": "choice of only ihe conibcJ-out and the shaggy urban words",
+    "replace": "only the combed-out and the shaggy urban words",
+    "note": "removes marginal shoulder-caption leak (\"choice of\"); misread the/combed-out"
+  },
+  {
+    "find": "words ^,,jj| ^g |p£j. J.Q thee, which are the noblest, and",
+    "replace": "will be left to thee, which are the noblest, and",
+    "note": "removes marginal shoulder-caption leak (\"words\"); misread will be left to"
+  },
+  {
+    "find": "members of the illustrious vulgar tongue [^4oJ.",
+    "replace": "members of the illustrious vulgar tongue [40].",
+    "note": "misread bracketed number"
+  },
+  {
+    "find": "Now we call those words covibcd-out which have",
+    "replace": "Now we call those words combed-out which have",
+    "note": "misread combed-out"
+  },
+  {
+    "find": "three, or as nt-arly as possible three syllables ;",
+    "replace": "three, or as nearly as possible three syllables ;",
+    "note": "misread nearly"
+  },
+  {
+    "find": "V'hich are without aspirate, witliout acute or",
+    "replace": "which are without aspirate, without acute or",
+    "note": "misread which/without"
+  },
+  {
+    "find": "circumflex accent, without tlie double letters z",
+    "replace": "circumflex accent, without the double letters z",
+    "note": "misread the"
+  },
+  {
+    "find": "or Xy without double liquids, or a liquid placed",
+    "replace": "or x, without double liquids, or a liquid placed",
+    "note": "misread x"
+  },
+  {
+    "find": "immediately after a mute, and v/h.ich, having been",
+    "replace": "immediately after a mute, and which, having been",
+    "note": "misread which"
+  },
+  {
+    "find": "planed (so to say), leave the speaker witii a",
+    "replace": "planed (so to say), leave the speaker with a",
+    "note": "misread with"
+  },
+  {
+    "find": "certain sweetness, like aniore, clouna^ d'ts'ioy",
+    "replace": "certain sweetness, like amore, donna, disio,",
+    "note": "misread amore/donna/disio"
+  },
+  {
+    "find": "•vertutey donarey let'it'ir.y salutCy securildtfy dtfesa.",
+    "replace": "vertute, donare, letitia, salute, securitate, defesa.",
+    "note": "heavily garbled Italian word list"
+  },
+  {
+    "find": "We call shn^^y all words besides tlicse wiiich",
+    "replace": "We call shaggy all words besides these which",
+    "note": "misread shaggy/these/which"
+  },
+  {
+    "find": "appear either necessary [^50] or ornamental to",
+    "replace": "appear either necessary [50] or ornamental to",
+    "note": "misread bracketed number"
+  },
+  {
+    "find": "syllables like /», nOy mcy tCy scy a^ <*, /, <?, ;/, the",
+    "replace": "syllables like si, no, me, te, se, a, e, i, o, u, the",
+    "note": "heavily garbled Italian letter list"
+  },
+  {
+    "find": "ornamental all ])olysylIal')lcs which when mixed",
+    "replace": "ornamental all polysyllables which when mixed",
+    "note": "misread polysyllables"
+  },
+  {
+    "find": "lengtii [^>o3 ; as terray honorcy speranza,",
+    "replace": "length [60] ; as terra, honore, speranza,",
+    "note": "misread length/bracketed number/terra/honore"
+  },
+  {
+    "find": "f^ravitatCy alleiuatoy hnpossil'ditay hnpnss'ibd'itatey",
+    "replace": "gravitate, alleviato, impossibilità, impossibilitate,",
+    "note": "heavily garbled Italian word list"
+  },
+  {
+    "find": "hena'vcnturatiss'imOy ituiriitiiatiss'iiiunncnley d'tsa-",
+    "replace": "benaventuratissimo, inanimatissimamente, disa-",
+    "note": "heavily garbled Italian word list"
+  },
+  {
+    "find": "venttiratisshiuiwniley sovrawn^nl/irailiss'inuiwcntey",
+    "replace": "venturatissimamente, sovramagnificentissimamente,",
+    "note": "heavily garbled Italian word list"
+  },
+  {
+    "find": "^' such is that word honorificahU'ifudinitatey which",
+    "replace": "such is that word honorificabilitudinitate, which",
+    "note": "stray leading glyphs removed; misread honorificabilitudinitate"
+  },
+  {
+    "find": "runs [703 in the vernacular to twelve syllables,",
+    "replace": "runs [70] in the vernacular to twelve syllables,",
+    "note": "misread bracketed number"
+  },
+  {
+    "find": "In what way shaggy words of this kind arc to",
+    "replace": "In what way shaggy words of this kind are to",
+    "note": "misread are"
+  }
+]

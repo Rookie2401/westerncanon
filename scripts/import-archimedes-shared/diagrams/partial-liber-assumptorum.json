@@ -1,0 +1,65 @@
+{
+  "workId": "archimedes-liber-assumptorum",
+  "sourceIdentifier": "archimedisoperao02arch",
+  "sourceDescription": "Heiberg, Archimedis Opera Omnia cum commentariis Eutocii, 1st ed., vol. 2 (Teubner, 1880/81)",
+  "divisions": {
+    "archimedes-liber-assumptorum-ch-1": [
+      { "image": "images/ch-1.png", "width": 868, "height": 610, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 428, leaf 468" }
+    ],
+    "archimedes-liber-assumptorum-ch-2": [
+      { "image": "images/ch-2.png", "width": 853, "height": 815, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 430, leaf 472" }
+    ],
+    "archimedes-liber-assumptorum-ch-3": [
+      { "image": "images/ch-3.png", "width": 878, "height": 509, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 431, leaf 473" }
+    ],
+    "archimedes-liber-assumptorum-ch-4": [
+      { "image": "images/ch-4.png", "width": 958, "height": 566, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 432, leaf 474" }
+    ],
+    "archimedes-liber-assumptorum-ch-5": [
+      { "image": "images/ch-5.png", "width": 1370, "height": 847, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 433, leaf 475" }
+    ],
+    "archimedes-liber-assumptorum-ch-6": [
+      { "image": "images/ch-6.png", "width": 1384, "height": 690, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 435, leaf 477" }
+    ],
+    "archimedes-liber-assumptorum-ch-7": [
+      { "image": "images/ch-7.png", "width": 903, "height": 814, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 437, leaf 481" }
+    ],
+    "archimedes-liber-assumptorum-ch-8": [
+      { "image": "images/ch-8.png", "width": 798, "height": 614, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 437, leaf 481" }
+    ],
+    "archimedes-liber-assumptorum-ch-9": [
+      { "image": "images/ch-9.png", "width": 628, "height": 600, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 438, leaf 482" }
+    ],
+    "archimedes-liber-assumptorum-ch-10": [
+      { "image": "images/ch-10.png", "width": 1024, "height": 655, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 439, leaf 483" }
+    ],
+    "archimedes-liber-assumptorum-ch-11": [
+      { "image": "images/ch-11.png", "width": 743, "height": 705, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 440, leaf 484" }
+    ],
+    "archimedes-liber-assumptorum-ch-12": [
+      { "image": "images/ch-12.png", "width": 553, "height": 857, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 441, leaf 485" }
+    ],
+    "archimedes-liber-assumptorum-ch-13": [
+      { "image": "images/ch-13.png", "width": 724, "height": 846, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 442, leaf 486" }
+    ],
+    "archimedes-liber-assumptorum-ch-14": [
+      { "image": "images/ch-14.png", "width": 1031, "height": 870, "source": "Heiberg, Archimedis opera omnia (1st ed.) vol. II, p. 443, leaf 487" }
+    ]
+  },
+  "markers": [
+    { "division": "archimedes-liber-assumptorum-ch-1", "index": 0, "leaf": 468, "printedPage": "428", "image": "images/ch-1.png", "note": "Proposition I diagram: two circles AEB, CED tangent at E, with parallel diameters AB, CD and centres O, G." },
+    { "division": "archimedes-liber-assumptorum-ch-2", "index": 0, "leaf": 472, "printedPage": "430", "image": "images/ch-2.png", "note": "Proposition II diagram: semicircle CBA with tangents DC, DB and perpendicular BE." },
+    { "division": "archimedes-liber-assumptorum-ch-3", "index": 0, "leaf": 473, "printedPage": "431", "image": "images/ch-3.png", "note": "Proposition III diagram: circle segment CA with point B, perpendicular BD, and points E, F." },
+    { "division": "archimedes-liber-assumptorum-ch-4", "index": 0, "leaf": 474, "printedPage": "432", "image": "images/ch-4.png", "note": "Proposition IV diagram: the Arbelon figure (semicircle ABC with two smaller semicircles AD, DC on the diameter)." },
+    { "division": "archimedes-liber-assumptorum-ch-5", "index": 0, "leaf": 475, "printedPage": "433", "image": "images/ch-5.png", "note": "Proposition V diagram: semicircle AB with point C on the diameter, two semicircles AC, CB, and two tangent circles (points D,F,I,H,E,N,G,L,M)." },
+    { "division": "archimedes-liber-assumptorum-ch-6", "index": 0, "leaf": 477, "printedPage": "435", "image": "images/ch-6.png", "note": "Proposition VI diagram: semicircle ABC with point D (AD sesquialtera of DC), two semicircles on AD/DC, and inscribed circle EF (the 19:6 ratio construction)." },
+    { "division": "archimedes-liber-assumptorum-ch-7", "index": 0, "leaf": 481, "printedPage": "437", "image": "images/ch-7.png", "note": "Proposition VII diagram: circle circumscribing square AB with inscribed circle CD." },
+    { "division": "archimedes-liber-assumptorum-ch-8", "index": 0, "leaf": 481, "printedPage": "437", "image": "images/ch-8.png", "note": "Proposition VIII diagram: circle with line AB produced to C, and points D, E, F, G (arc trisection construction). Same printed leaf/page as Proposition VII, which precedes it on the same page." },
+    { "division": "archimedes-liber-assumptorum-ch-9", "index": 0, "leaf": 482, "printedPage": "438", "image": "images/ch-9.png", "note": "Proposition IX diagram: circle with two perpendicular chords AB, CD meeting off-centre, diameter EF, and points G, H." },
+    { "division": "archimedes-liber-assumptorum-ch-10", "index": 0, "leaf": 483, "printedPage": "439", "image": "images/ch-10.png", "note": "Proposition X diagram: circle ABC with tangent DA, secant DB, tangent DC, and points E, F, G, H." },
+    { "division": "archimedes-liber-assumptorum-ch-11", "index": 0, "leaf": 484, "printedPage": "440", "image": "images/ch-11.png", "note": "Proposition XI diagram: circle with two perpendicular chords AB, CD meeting at E (not the centre), points D, A, C, B, F." },
+    { "division": "archimedes-liber-assumptorum-ch-12", "index": 0, "leaf": 485, "printedPage": "441", "image": "images/ch-12.png", "note": "Proposition XII diagram: semicircle on diameter AB with two tangents from external point C touching at D, E, meeting chords at F, and CG perpendicular to AB." },
+    { "division": "archimedes-liber-assumptorum-ch-13", "index": 0, "leaf": 486, "printedPage": "442", "image": "images/ch-13.png", "note": "Proposition XIII diagram: circle with diameter AB, chord CD, perpendiculars AE, BF, and centre I with perpendicular IG." },
+    { "division": "archimedes-liber-assumptorum-ch-14", "index": 0, "leaf": 487, "printedPage": "443", "image": "images/ch-14.png", "note": "Proposition XIV diagram: the Salinon figure (semicircle AB, equal segments AC, BD, semicircles on AC, CD, DB, and circle FG)." }
+  ]
+}

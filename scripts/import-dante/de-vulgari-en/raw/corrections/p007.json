@@ -1,0 +1,62 @@
+[
+  {
+    "find": "vain, which nature, as we know, shrinks from Neither",
+    "replace": "vain, which nature, as we know, shrinks from",
+    "note": "trailing 'Neither' is a leaked fragment of the adjacent margin caption ('Neither angels nor brutes speak'), not part of the sentence"
+  },
+  {
+    "find": "doing. For if we [lO^ clearly consider what ^\"S^ls",
+    "replace": "doing. For if we [10] clearly consider what",
+    "note": "OCR garbled the bracketed number '[10]'; trailing garbled characters are a leaked margin-caption fragment ('angels')"
+  },
+  {
+    "find": "our intention is when we speak, we shall find 5°^^^^",
+    "replace": "our intention is when we speak, we shall find",
+    "note": "trailing garbled characters are a leaked margin-caption fragment, not printed body text"
+  },
+  {
+    "find": "thoughts of our owu mind. Since, then, the",
+    "replace": "thoughts of our own mind. Since, then, the",
+    "note": "OCR misread 'own'"
+  },
+  {
+    "find": "ineifable sulliciency of intellect, by which one of",
+    "replace": "ineffable sufficiency of intellect, by which one of",
+    "note": "OCR misread 'ineffable'/'sufficiency'"
+  },
+  {
+    "find": "sented []2o3 in the fulness of their beauty, and",
+    "replace": "sented [20] in the fulness of their beauty, and",
+    "note": "OCR garbled the bracketed number '[20]'"
+  },
+  {
+    "find": "not seem to have required the outv/ard Indica-.",
+    "replace": "not seem to have required the outward indica-",
+    "note": "OCR misread 'outward'; capital 'I' is wrong mid-sentence and the trailing period is spurious (the hyphenated word continues 'indications' on the next line)"
+  },
+  {
+    "find": "concerning the spirits who tell, it may be",
+    "replace": "concerning the spirits who fell, it may be",
+    "note": "OCR misread 'fell'"
+  },
+  {
+    "find": "answered in two ways, lurst we may say that",
+    "replace": "answered in two ways. First we may say that",
+    "note": "comma should be a period (new sentence); OCR misread 'First'"
+  },
+  {
+    "find": "pass over the fallen angels, because, they per-",
+    "replace": "pass over the fallen angels, because they per-",
+    "note": "spurious comma after 'because', not printed"
+  },
+  {
+    "find": "nnd so they are enabled by their own actions and",
+    "replace": "and so they are enabled by their own actions and",
+    "note": "OCR misread 'and'"
+  },
+  {
+    "find": "those of ditferent ^40] species not only was",
+    "replace": "those of different [40] species not only was",
+    "note": "OCR misread 'different' and garbled the bracketed number '[40]'"
+  }
+]

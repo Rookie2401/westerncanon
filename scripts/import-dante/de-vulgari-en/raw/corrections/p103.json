@@ -1,0 +1,23 @@
+[
+  {"find": "the verses in syllnbles and in lines ; and we say parts", "replace": "the verses in syllables and in lines ; and we say", "note": "OCR misread 'syllables'; stray margin-caption fragment ('parts') removed"},
+  {"find": "* may exceed ' because we have never yet ^^", "replace": "' may exceed ' because we have never yet", "note": "stray margin-caption fragment ('of the') removed"},
+  {"find": "met with this nrran.c^cment. Sometimes [the Lp-ard", "replace": "met with this arrangement. Sometimes [the", "note": "OCR misread 'arrangement'; stray margin-caption fragment ('stanza in') removed"},
+  {"find": "fronie] may exceed [the verses^ in lines, and", "replace": "fronte] may exceed [the verses] in lines, and", "note": "OCR misread 'fronte' and closing bracket"},
+  {"find": "fronie had five lines, and each verse had two", "replace": "fronte had five lines, and each verse had two", "note": "OCR misread 'fronte'"},
+  {"find": "lines, while the lines of the fronte v/ere of", "replace": "lines, while the lines of the fronte were of", "note": "OCR misread 'were'"},
+  {"find": "seven syllal)lc8 and those of the verses of eleven", "replace": "seven syllables and those of the verses of eleven", "note": "OCR misread 'syllables'"},
+  {"find": "syllables. Sometimes the verses [20]] exceed the", "replace": "syllables. Sometimes the verses [20] exceed the", "note": "OCR duplicated closing bracket"},
+  {"find": "* Trag^emi de la merit e Amor la st'iva^ ^", "replace": "' Traggemi de la mente Amor la stiva.' 1", "note": "OCR badly garbled italic Italian quotation and footnote marker"},
+  {"find": "Here \\.\\\\c' fronte was composed of four lines,", "replace": "Here the fronte was composed of four lines,", "note": "OCR garbled 'the'"},
+  {"find": "and also in the verises with respect to one another.", "replace": "and also in the verses with respect to one another.", "note": "OCR misread 'verses'"},
+  {"find": "And what we say of the frorie we might also say", "replace": "And what we say of the fronte we might also say", "note": "OCR misread 'fronte'"},
+  {"find": "for instance, if each verse had three lines of'", "replace": "for instance, if each verse had three lines of", "note": "stray trailing apostrophe removed"},
+  {"find": "seven syllables [33] and the yVorj/^ were made", "replace": "seven syllables [33] and the fronte were made", "note": "OCR garbled italic 'fronte'"},
+  {"find": "ot seven syllables.", "replace": "of seven syllables.", "note": "OCR misread 'of'"},
+  {"find": "■ * yfrnor che ino'vi tua vertii da c'ulo.*", "replace": "' Amor che movi tua vertù da cielo.'", "note": "stray leading garbage character removed; OCR badly garbled italic Italian quotation"},
+  {"find": "[403 both in lines and syllables, as in our canzone,", "replace": "[40] both in lines and syllables, as in our canzone,", "note": "OCR misread closing bracket"},
+  {"find": "* Donna p'lrtosa e di novella elale.^ ^", "replace": "' Donna pietosa e di novella etate.' 2", "note": "OCR garbled italic Italian quotation and footnote marker"},
+  {"find": "^ * Love drags the ploiigh-pnle of my mind.'", "replace": "1 ' Love drags the plough-pole of my mind.'", "note": "OCR garbled footnote marker and 'plough-pole'"},
+  {"find": "^ 'A very pitiful lady, very young.'", "replace": "2 ' A very pitiful lady, very young.'", "note": "OCR garbled footnote marker"},
+  {"find": "(Rossetti's tren«.) ,", "replace": "(Rossetti's trans.)", "note": "OCR garbled 'trans.' and stray trailing comma"}
+]

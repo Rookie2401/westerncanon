@@ -1,0 +1,122 @@
+[
+  {
+    "find": "Literary Germany, still the members of such a court arc",
+    "replace": "Germany, still the members of such a court are",
+    "note": "leaked margin caption 'Literary'; OCR misread 'are'"
+  },
+  {
+    "find": "tribunal j^q* wanting. And just as the members [[50]]",
+    "replace": "not wanting. And just as the members [50]",
+    "note": "leaked margin caption 'tribunal'; 'not' garbled; doubled bracket"
+  },
+  {
+    "find": "Italv o^^^^ German court arc united under one ])rince,",
+    "replace": "of the German court are united under one prince,",
+    "note": "leaked margin caption 'Italy'; 'of the' garbled; 'are'/'prince' misread"
+  },
+  {
+    "find": "gracious !i;;ht of Reason. Wherefore, though",
+    "replace": "gracious light of Reason. Wherefore, though",
+    "note": "OCR misread 'light'"
+  },
+  {
+    "find": "that the Italians have no QsuchJ court of justice,",
+    "replace": "that the Italians have no [such] court of justice,",
+    "note": "bracket misread"
+  },
+  {
+    "find": "because we have a court, thougli in the body",
+    "replace": "because we have a court, though in the body",
+    "note": "OCR misread 'though'"
+  },
+  {
+    "find": "19. Dy ' court ' (./;//j) Dante means tlie soverei}:jn's",
+    "replace": "19. By 'court' (aula) Dante means the sovereign's",
+    "note": "OCR misread 'By', Latin word 'aula', 'the sovereign's'"
+  },
+  {
+    "find": "residence. He implies that there oiu^lit to he an",
+    "replace": "residence. He implies that there ought to be an",
+    "note": "OCR misread 'ought to be'"
+  },
+  {
+    "find": "emperor k.eei)inj^ liis court at J^onie.",
+    "replace": "emperor keeping his court at Rome.",
+    "note": "OCR misread 'keeping his ... Rome'"
+  },
+  {
+    "find": "38. Ccurts of justice (cur lis). Dante is no douht",
+    "replace": "38. Courts of justice (curiis). Dante is no doubt",
+    "note": "OCR misread 'Courts'/'curiis'/'doubt'"
+  },
+  {
+    "find": "referrinj.^ to tliose asscml)lies lield liy sovereljjn",
+    "replace": "referring to those assemblies held by sovereign",
+    "note": "OCR misread multiple words"
+  },
+  {
+    "find": "princes (with special reference, of course, to tlie",
+    "replace": "princes (with special reference, of course, to the",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "emperor) at the cliief festivals, whicii were attenilfd",
+    "replace": "emperor) at the chief festivals, which were attended",
+    "note": "OCR misread multiple words"
+  },
+  {
+    "find": "by the noI)K-s and ])relates of the realm, and in which",
+    "replace": "by the nobles and prelates of the realm, and in which",
+    "note": "OCR misread 'nobles'/'prelates'"
+  },
+  {
+    "find": "national afliiirs of the greatest importance were",
+    "replace": "national affairs of the greatest importance were",
+    "note": "OCR misread 'affairs'"
+  },
+  {
+    "find": "transacted, and dispntes Ijetween the majMiater, of",
+    "replace": "transacted, and disputes between the magnates of",
+    "note": "OCR misread 'disputes'/'between'/'magnates'"
+  },
+  {
+    "find": "the realm detei mined.",
+    "replace": "the realm determined.",
+    "note": "OCR misread 'determined'"
+  },
+  {
+    "find": "55, In the lamented alisence of ai\\ imperial court",
+    "replace": "55. In the lamented absence of an imperial court",
+    "note": "OCR misread 'absence'/'an'"
+  },
+  {
+    "find": "of justice, t!ie arhiters of literary excellence must he",
+    "replace": "of justice, the arbiters of literary excellence must be",
+    "note": "OCR misread 'the'/'arbiters'/'be'"
+  },
+  {
+    "find": "deemed to he tlie writers of the illustrious vid}';ar",
+    "replace": "deemed to be the writers of the illustrious vulgar",
+    "note": "OCR misread 'be'/'the'/'vulgar'"
+  },
+  {
+    "find": "tongue 'scattered' in <!i(I\"erent parts of Italy, l)Ut",
+    "replace": "tongue 'scattered' in different parts of Italy, but",
+    "note": "OCR misread 'different'/'but'"
+  },
+  {
+    "find": "'united hy the j^racious li^ht of Reason ' and giving",
+    "replace": "'united by the gracious light of Reason' and giving",
+    "note": "OCR misread 'by'/'gracious'/'light'"
+  },
+  {
+    "find": "sentence hy their writings and jiractice. It would",
+    "replace": "sentence by their writings and practice. It would",
+    "note": "OCR misread 'by'/'practice'"
+  },
+  {
+    "find": "therefore seem that Dante's itleal t^^overnment would",
+    "replace": "therefore seem that Dante's ideal government would",
+    "note": "OCR misread 'ideal'/'government'"
+  }
+]

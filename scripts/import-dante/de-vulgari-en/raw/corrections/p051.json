@@ -1,0 +1,202 @@
+[
+  {
+    "find": "that the towns of Trent and Turin, as well as The",
+    "replace": "that the towns of Trent and Turin, as well as",
+    "note": "remove leftover margin-caption fragment \"The\""
+  },
+  {
+    "find": "Alessandria, arc situated so near the frontiers of f\\Ontier",
+    "replace": "Alessandria, are situated so near the frontiers of",
+    "note": "OCR misread \"are\"; remove leftover margin-caption fragment \"frontier\""
+  },
+  {
+    "find": "Italy that they cannot possess pure Ian<;uages, so ^^^^<^^3",
+    "replace": "Italy that they cannot possess pure languages, so",
+    "note": "OCR misread \"languages\"; remove leftover margin-caption fragment \"dialects\""
+  },
+  {
+    "find": "that even if their vernaculars v/ere as lovely as",
+    "replace": "that even if their vernaculars were as lovely as",
+    "note": "OCR misread \"were\""
+  },
+  {
+    "find": "they arc hideous, we should still say that they",
+    "replace": "they are hideous, we should still say that they",
+    "note": "OCR misread \"are\""
+  },
+  {
+    "find": "were not truly Italian, because of their forcij'^n",
+    "replace": "were not truly Italian, because of their foreign",
+    "note": "OCR misread \"foreign\""
+  },
+  {
+    "find": "inj;redien(s. Wherefore if we are hunting; for an",
+    "replace": "ingredients. Wherefore if we are hunting for an",
+    "note": "OCR misread \"ingredients\"; stray semicolon after \"hunting\""
+  },
+  {
+    "find": "illustrious Italian language, what v/e arc hunting",
+    "replace": "illustrious Italian language, what we are hunting",
+    "note": "OCR misread \"we\"/\"are\""
+  },
+  {
+    "find": "for [[/Oj cannot be lound in them.",
+    "replace": "for [70] cannot be found in them.",
+    "note": "bracket/word misread"
+  },
+  {
+    "find": "General note to lines x-33.",
+    "replace": "General note to lines 1-33.",
+    "note": "OCR misread \"1\" as \"x\""
+  },
+  {
+    "find": "The reasoiiiiijj; by which t!ie relative superiority of",
+    "replace": "The reasoning by which the relative superiority of",
+    "note": "OCR misread \"reasoning\"/\"the\""
+  },
+  {
+    "find": "tlie Bolof^iKi diah'ct is e.staljli^hed is less tl-jaily ex-",
+    "replace": "the Bologna dialect is established is less clearly ex-",
+    "note": "OCR misread multiple words"
+  },
+  {
+    "find": "presseil tlian is usual with Dante. Tlje following free",
+    "replace": "pressed than is usual with Dante. The following free",
+    "note": "OCR misread \"pressed\"/\"The\""
+  },
+  {
+    "find": "parapli rase is submit ted as a plan -.ihh.-exiilaiiat ion of this",
+    "replace": "paraphrase is submitted as a plausible explanation of this",
+    "note": "OCR misread multiple words"
+  },
+  {
+    "find": "dillicult passap;c. ♦ I'lie peoples of every city borrow",
+    "replace": "difficult passage. 'The peoples of every city borrow",
+    "note": "OCR misread \"difficult passage\"; stray symbol to opening quote"
+  },
+  {
+    "find": "from their nei;;lil)ours, and tlieir dialects are better or",
+    "replace": "from their neighbours, and their dialects are better or",
+    "note": "OCR misread \"neighbours\"/\"their\""
+  },
+  {
+    "find": "worse(froni the literary point of view) according to the",
+    "replace": "worse(from the literary point of view) according to the",
+    "note": "OCR misread \"from\""
+  },
+  {
+    "find": "character resultin_^ from the mixture of the borrowed",
+    "replace": "character resulting from the mixture of the borrowed",
+    "note": "OCR misread \"resulting\""
+  },
+  {
+    "find": "elements with the original spivch. Hence the superior-",
+    "replace": "elements with the original speech. Hence the superior-",
+    "note": "OCR misread \"speech\""
+  },
+  {
+    "find": "ity of the 15<)lo<;-na dialect : for thouj^li the sharj>neS8",
+    "replace": "ity of the Bologna dialect : for though the sharpness",
+    "note": "OCR misread multiple words"
+  },
+  {
+    "find": "borrowed from Terrara and rvTodtma is bad in itself,",
+    "replace": "borrowed from Ferrara and Modena is bad in itself,",
+    "note": "OCR misread \"Ferrara and Modena\""
+  },
+  {
+    "find": "it mixes well witii the smootliness and softness",
+    "replace": "it mixes well with the smoothness and softness",
+    "note": "OCR misread \"with\"/\"smoothness\""
+  },
+  {
+    "find": "as re;^ards Mantua by the case of Sordcllo, The",
+    "replace": "as regards Mantua by the case of Sordello. The",
+    "note": "OCR misread \"regards\"/\"Sordello\"; comma should be full stop"
+  },
+  {
+    "find": "dialect of tliis place is bad, because of the badness of",
+    "replace": "dialect of this place is bad, because of the badness of",
+    "note": "OCR misread \"this\""
+  },
+  {
+    "find": "the elements Ix^rowed from Cremona, I'rescia, and",
+    "replace": "the elements borrowed from Cremona, Brescia, and",
+    "note": "OCR misread \"borrowed\"/\"Brescia\""
+  },
+  {
+    "find": "Verona. Sordello, in fact, after some literary attem[)ts",
+    "replace": "Verona. Sordello, in fact, after some literary attempts",
+    "note": "OCR misread \"attempts\""
+  },
+  {
+    "find": "in this dialect, found it so unsuitable that he fortujok",
+    "replace": "in this dialect, found it so unsuitable that he forsook",
+    "note": "OCR misread \"forsook\""
+  },
+  {
+    "find": "his native tongue entirely, wrote exclu>ively in",
+    "replace": "his native tongue entirely, wrote exclusively in",
+    "note": "OCR misread \"exclusively\""
+  },
+  {
+    "find": "Provencal, and became a Provc-n^al to all intents and",
+    "replace": "Provençal, and became a Provençal to all intents and",
+    "note": "missing cedilla, OCR misread \"Provencal\""
+  },
+  {
+    "find": "purposes.' It is no donl)t true that so far no writings",
+    "replace": "purposes.' It is no doubt true that so far no writings",
+    "note": "OCR misread \"doubt\""
+  },
+  {
+    "find": "of Sordello have been discovered which arc not in",
+    "replace": "of Sordello have been discovered which are not in",
+    "note": "OCR misread \"are\""
+  },
+  {
+    "find": "Provencal ; but Dante's language certainly suggests",
+    "replace": "Provençal ; but Dante's language certainly suggests",
+    "note": "missing cedilla"
+  },
+  {
+    "find": "the possibility of his having written in lus native",
+    "replace": "the possibility of his having written in his native",
+    "note": "OCR misread \"his\""
+  },
+  {
+    "find": "tongue, and Uertoni, wlio ii\\ 1901 j^rinred t»vo",
+    "replace": "tongue, and Bertoni, who in 1901 printed two",
+    "note": "OCR misread multiple words"
+  },
+  {
+    "find": "Provencal poems by Sonlello previously unknown,",
+    "replace": "Provençal poems by Sordello previously unknown,",
+    "note": "missing cedilla; OCR misread \"Sordello\""
+  },
+  {
+    "find": "printed with them ancKher poem in a Nortli Italian",
+    "replace": "printed with them another poem in a North Italian",
+    "note": "OCR misread \"another\"/\"North\""
+  },
+  {
+    "find": "dialect, of which he tliinks that Sordello may have",
+    "replace": "dialect, of which he thinks that Sordello may have",
+    "note": "OCR misread \"thinks\""
+  },
+  {
+    "find": "been the autlior ((Hor/hi/e stor.\\o lull.t UttcLitura",
+    "replace": "been the author (Giornale storico della letteratura",
+    "note": "OCR misread italic title; doubled paren"
+  },
+  {
+    "find": "itiilidna, vol. xxxviii. pp. 269 ff.) It has I)een",
+    "replace": "italiana, vol. xxxviii. pp. 269 ff.) It has been",
+    "note": "OCR misread \"italiana\"/\"been\""
+  },
+  {
+    "find": "suggested, however, that tlie expression 'as Sordello",
+    "replace": "suggested, however, that the expression 'as Sordello",
+    "note": "OCR misread \"the\""
+  }
+]

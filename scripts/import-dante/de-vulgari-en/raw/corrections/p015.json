@@ -1,0 +1,112 @@
+[
+  {
+    "find": "distlnpinshes man from the brutes",
+    "replace": "distinguishes man from the brutes",
+    "note": "fix distlnpinshes->distinguishes"
+  },
+  {
+    "find": "tlian merely liearinj^ what is uttered by another.",
+    "replace": "than merely hearing what is uttered by another.",
+    "note": "fix tlian->than, liearinj^->hearing"
+  },
+  {
+    "find": "10. 'I'liat is, as a man guided by reason and not as",
+    "replace": "10. That is, as a man guided by reason and not as",
+    "note": "fix garbled That"
+  },
+  {
+    "find": "a beast. See Co/ivivio, \\\\, 8: 24 ff. ; IV. 5 : 73-7^.",
+    "replace": "a beast. See Convivio, II. 8: 24 ff. ; IV. 5 : 73-75.",
+    "note": "fix Co/ivivio->Convivio, garbled II, 73-7^->73-75"
+  },
+  {
+    "find": "13. See Pannfuo, Xlll. 37-45, 82, 83, and XXVI.",
+    "replace": "13. See Paradiso, XIII. 37-45, 82, 83, and XXVI.",
+    "note": "fix Pannfuo->Paradiso, Xlll->XIII"
+  },
+  {
+    "find": "23. Sec /*<vr</<///o, XVil. 37-42.",
+    "replace": "23. See Paradiso, XVII. 37-42.",
+    "note": "fix garbled See Paradiso XVII"
+  },
+  {
+    "find": "25. Cf. J'lns^itforio, XXXI. 37-42; Puritil'tso, XVII.",
+    "replace": "25. Cf. Purgatorio, XXXI. 37-42; Paradiso, XVII.",
+    "note": "fix garbled Purgatorio/Paradiso"
+  },
+  {
+    "find": "7.12, and XXIV. 40 (f.",
+    "replace": "7-12, and XXIV. 40 ff.",
+    "note": "fix 7.12->7-12, (f.->ff."
+  },
+  {
+    "find": "34. St Thomas <Iecides that Adam was formed",
+    "replace": "34. St Thomas decides that Adam was formed",
+    "note": "fix <Iecides->decides"
+  },
+  {
+    "find": "tiutsiJe i'aradisc {Sumwa 'I'licol., part I., question 102,",
+    "replace": "outside Paradise (Summa Theol., part I., question 102,",
+    "note": "fix garbled outside Paradise (Summa Theol."
+  },
+  {
+    "find": "[Dante, purposini; lo invcslij^atc what was the lan-\nfjuage spoken I^y Adam, takes occasion lo inveij,'h\nai^ainst the i)elty local conceit of lliose (especially\nriorcntines) who believe the place wliere they\nwere born to be the most delightful in the worid,\nand (heir native toni^uc to be the best in the world,\nand conse(jucntly that which Ada-n spoke. After\nthis di_t;ression he declares tiiat the primitive\nIaniuta;;c spoken by Adam and his descendants\nuntil the confusion of tongues was Hebrew.]",
+    "replace": "[Dante, purposing to investigate what was the lan-\nguage spoken by Adam, takes occasion to inveigh\nagainst the petty local conceit of those (especially\nFlorentines) who believe the place where they\nwere born to be the most delightful in the world,\nand their native tongue to be the best in the world,\nand consequently that which Adam spoke. After\nthis digression he declares that the primitive\nlanguage spoken by Adam and his descendants\nuntil the confusion of tongues was Hebrew.]",
+    "note": "fix heavily garbled bracketed translator argument for Chapter VI"
+  },
+  {
+    "find": "Since liunian affairs arc carried on In very many What",
+    "replace": "Since human affairs are carried on in very many",
+    "note": "fix liunian->human, arc->are, In->in; remove leaked margin-caption word What"
+  },
+  {
+    "find": "ditfercnt languages, so that many men are not was",
+    "replace": "different languages, so that many men are not",
+    "note": "fix ditfercnt->different; remove leaked margin-caption word was"
+  },
+  {
+    "find": "understood by many with words any better than 7^Fh^^\\",
+    "replace": "understood by many with words any better than",
+    "note": "remove leaked garbled margin-caption fragment"
+  },
+  {
+    "find": "without words, it Is meet for us to make in-",
+    "replace": "without words, it is meet for us to make in-",
+    "note": "fix Is->is"
+  },
+  {
+    "find": "vestigation concerning that language which tliat",
+    "replace": "vestigation concerning that language which that",
+    "note": "fix tliat->that"
+  },
+  {
+    "find": "man w!)0 had no niothe'\", who was never suckled,",
+    "replace": "man who had no mother, who was never suckled,",
+    "note": "fix w!)0->who, niothe->mother"
+  },
+  {
+    "find": "who never sav/ either childhood or youth, is",
+    "replace": "who never saw either childhood or youth, is",
+    "note": "fix sav/->saw"
+  },
+  {
+    "find": "believed to have s])oken. In this as in much",
+    "replace": "believed to have spoken. In this as in much",
+    "note": "fix s])oken->spoken"
+  },
+  {
+    "find": "and the native ]>lace of the majority of the",
+    "replace": "and the native place of the majority of the",
+    "note": "fix ]>lace->place"
+  },
+  {
+    "find": "children of Adam. For whoever is so offcn-",
+    "replace": "children of Adam. For whoever is so offen-",
+    "note": "fix offcn-->offen-"
+  },
+  {
+    "find": "sively unreasonable a.s to suppose that the place",
+    "replace": "sively unreasonable as to suppose that the place",
+    "note": "fix a.s->as"
+  }
+]

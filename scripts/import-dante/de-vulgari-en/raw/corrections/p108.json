@@ -1,0 +1,20 @@
+[
+  {"find": "Special [72] This further point also must be", "replace": "[72] This further point also must be", "note": "stray margin-caption fragment ('Special') left by auto-strip"},
+  {"find": "for specially attended to with regard to the arrangc-", "replace": "specially attended to with regard to the arrange-", "note": "stray margin-caption fragment ('for') left by auto-strip; OCR misread 'arrange-'"},
+  {"find": "ment of the lines, rnameiyl that if a line of", "replace": "ment of the lines, [namely] that if a line of", "note": "OCR garbled bracketed word '[namely]'"},
+  {"find": "verses .\n", "replace": "", "note": "stray garbage line composed entirely of leaked margin-caption text ('verses')"},
+  {"find": "4. Repeating, etc. See above, 11. 5.", "replace": "4. Repeating, etc. See above, II. 5.", "note": "OCR misread roman numeral 'II.' as '11.'"},
+  {"find": "that It receives in the first. For instance, if a", "replace": "that it receives in the first. For instance, if a", "note": "OCR misread 'it'"},
+  {"find": "— of seven syllables [SoJ) so the second foot", "replace": "— of seven syllables [80], so the second foot", "note": "OCR garbled bracketed number [80]"},
+  {"find": "And what we have said of the foet we", "replace": "And what we have said of the feet we", "note": "OCR misread 'feet'"},
+  {"find": "/ say of the verses also ; for we sec that the feet", "replace": "say of the verses also ; for we see that the feet", "note": "stray leading garbage character from margin mark; OCR misread 'see'"},
+  {"find": "I and the verses differ in nothing but position, the", "replace": "and the verses differ in nothing but position, the", "note": "stray leading garbage character from margin mark"},
+  {"find": "I former term being used before the diesis of the", "replace": "former term being used before the diesis of the", "note": "stray leading garbage character from margin mark"},
+  {"find": "I stanza, and tlie latter after it.", "replace": "stanza, and the latter after it.", "note": "stray leading garbage character from margin mark; OCR misread 'the'"},
+  {"find": "•. And we declare also that what has been said", "replace": "And we declare also that what has been said", "note": "stray leading garbage characters from margin mark"},
+  {"find": "of the foot of three lines [^90] is to be observed", "replace": "of the foot of three lines [90] is to be observed", "note": "OCR garbled bracketed number [90]"},
+  {"find": "17. Donna, etc. T!ie opening line of Guido Caval-", "replace": "17. Donna, etc. The opening line of Guido Caval-", "note": "OCR misread 'The'"},
+  {"find": "cante's celebrated canzone on t.hc nature of love,", "replace": "cante's celebrated canzone on the nature of love,", "note": "OCR misread 'the'"},
+  {"find": "19. Compare above, II. 8 : 72/7,", "replace": "19. Compare above, II. 8 : 72n.", "note": "OCR garbled cross-reference"},
+  {"find": "20-23. See above, I. 8 : 44//. ; If, 6 : S^n,", "replace": "20-23. See above, I. 8 : 44n. ; II. 6 : 63n.", "note": "OCR garbled cross-references"}
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "find": "- [The examinalion of tlic Sicilian diaicct is inleriiiplcd",
+    "replace": "[The examination of the Sicilian dialect is interrupted",
+    "note": "leading '- ' is a stray pencil checkmark on the scan, not print; fix OCR letter errors"
+  },
+  {
+    "find": "J by a ditjrcsslon on the dcs^cnciMcy of the jircscnt",
+    "replace": "by a digression on the degeneracy of the present",
+    "note": "stray leading 'J' from indentation artifact; fix OCR letter errors"
+  },
+  {
+    "find": "ma;;nates of Italy as C()m])arc'.l with the Emperor",
+    "replace": "magnates of Italy as compared with the Emperor",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "I-'rcderick II. and his son Manfred, ilie patrons",
+    "replace": "Frederick II. and his son Manfred, the patrons",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "of the Sicilian school of ]ioetry. After the",
+    "replace": "of the Sicilian school of poetry. After the",
+    "note": "]ioetry -> poetry"
+  },
+  {
+    "find": "dir^ression, the local Sicilian dialect is summarily",
+    "replace": "digression, the local Sicilian dialect is summarily",
+    "note": "dir^ression -> digression"
+  },
+  {
+    "find": "rejected, as is that of A[)ulia, the eviilenee of",
+    "replace": "rejected, as is that of Apulia, the evidence of",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "disqualification bein;^ the fact that tlie local",
+    "replace": "disqualification being the fact that the local",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "poets did not coin[)ose in the local diak-ct, but",
+    "replace": "poets did not compose in the local dialect, but",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "in tliat language which belongs to the whole of",
+    "replace": "in that language which belongs to the whole of",
+    "note": "tliat -> that"
+  },
+  {
+    "find": "Sicilian Having sifted, so to speak, the Italian vcr-",
+    "replace": "Having sifted, so to speak, the Italian ver-",
+    "note": "leading 'Sicilian' is leaked margin caption ('Sicilian poets'); fix vcr- -> ver-"
+  },
+  {
+    "find": "poets naculars, let us, comparing together those left in",
+    "replace": "naculars, let us, comparing together those left in",
+    "note": "leading 'poets' is leaked margin caption"
+  },
+  {
+    "find": "our sieve, briefly choose out the one most lionour-",
+    "replace": "our sieve, briefly choose out the one most honour-",
+    "note": "lionour- -> honour-"
+  },
+  {
+    "find": "us examine th.e j^enius of the Sicilian, for tlie",
+    "replace": "us examine the genius of the Sicilian, for the",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "Sicilian vernacular aj)pears to arro;^ate to itself a",
+    "replace": "Sicilian vernacular appears to arrogate to itself a",
+    "note": "OCR letter errors"
+  },
+  {
+    "find": "greater renown than tlie others, both because",
+    "replace": "greater renown than the others, both because",
+    "note": "tlie -> the"
+  },
+  {
+    "find": "whatever poetry t!ic Italians write is called",
+    "replace": "whatever poetry the Italians write is called",
+    "note": "t!ic -> the"
+  },
+  {
+    "find": "[]ioJ natives of Sicily have written weij^iity",
+    "replace": "[10] natives of Sicily have written weighty",
+    "note": "bracketed line-number misread; weij^iity -> weighty"
+  },
+  {
+    "find": "poetry, as in the canzoni, *• Jlncor che V .ugua jyer",
+    "replace": "poetry, as in the canzoni, ' Ancor che l'aigua per",
+    "note": "italic canzone title garbled"
+  },
+  {
+    "find": "lo focho lass'iy^ ^ and * Amor che luii^'iivufitie ni\\)i",
+    "replace": "lo focho lassi,' 1 and ' Amor che lungiamente m'ai",
+    "note": "italic canzone title and footnote marker garbled"
+  },
+  {
+    "find": "rnenaio.'- Lut this fame of the land of Trinacria",
+    "replace": "menato.' 2 But this fame of the land of Trinacria",
+    "note": "menato, footnote marker 2, and 'But' garbled"
+  },
+  {
+    "find": "appears, if we rightly examine the mark to whicii",
+    "replace": "appears, if we rightly examine the mark to which",
+    "note": "whicii -> which"
+  },
+  {
+    "find": "heroic but in a plebeian manner, follow ])ri'.le.",
+    "replace": "heroic but in a plebeian manner, follow pride.",
+    "note": "])ri'.le. -> pride."
+  },
+  {
+    "find": "[^203 But those illustrious heroes Frederick.",
+    "replace": "[20] But those illustrious heroes Frederick.",
+    "note": "bracketed line-number misread as [^203 instead of [20]"
+  },
+  {
+    "find": "Caesar and his happy-born son Manfred, dlsplay-",
+    "replace": "Caesar and his happy-born son Manfred, display-",
+    "note": "dlsplay- -> display-"
+  },
+  {
+    "find": "* 'Even though through fire water forsakes [its",
+    "replace": "1 'Even though through fire water forsakes [its",
+    "note": "footnote marker 1 misread as asterisk"
+  },
+  {
+    "find": "'^ « O love, who long hast led me.'",
+    "replace": "2 'O love, who long hast led me.'",
+    "note": "footnote marker 2 and quote mark garbled"
+  }
+]

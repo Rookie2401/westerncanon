@@ -1,0 +1,23 @@
+[
+  {"find": "Canzom the most fonJIy preserved, as is cvlt'ent to those", "replace": "the most fondly preserved, as is evident to those", "note": "OCR misread 'fondly'/'evident'; removed leaked margin caption"},
+  {"find": "the xvho look into books ; therefoie canzoni are the", "replace": "who look into books ; therefore canzoni are the", "note": "OCR misread 'who'/'therefore'; removed leaked margin caption"},
+  {"find": "\"ooems \"^^'*^^t [[poemsj, and consequently their form is", "replace": "noblest [poems], and consequently their form is", "note": "removed leaked margin caption and fixed garbled brackets"},
+  {"find": "embraces the wiiole art. oince, therefore [[50],", "replace": "embraces the whole art. Since, therefore [50],", "note": "OCR misread 'whole'/'Since' and bracket"},
+  {"find": "art is embraced in canzoni alone, canzoni arc", "replace": "art is embraced in canzoni alone, canzoni are", "note": "OCR misread 'are'"},
+  {"find": "tlie noblest poems, and so their form is the", "replace": "the noblest poems, and so their form is the", "note": "OCR misread 'the'"},
+  {"find": "noblest of any. Now, that tiie whole of the", "replace": "noblest of any. Now, that the whole of the", "note": "OCR misread 'the'"},
+  {"find": "belong to the art is found in t!iem ; but the", "replace": "belong to the art is found in them ; but the", "note": "OCR misread 'them'"},
+  {"find": "we are saying is at once apparent ; lor all that", "replace": "we are saying is at once apparent ; for all that", "note": "OCR misread 'for'"},
+  {"find": "has flowed from the [60^ tops of the heads", "replace": "has flowed from the [60] tops of the heads", "note": "OCR misread closing bracket"},
+  {"find": "in canzoni alone. VS'hcrefore, in reference to", "replace": "in canzoni alone. Wherefore, in reference to", "note": "OCR misread 'Wherefore'"},
+  {"find": "22-24. See below, 8: 12, witli rote. Dante here", "replace": "22-24. See below, 8: 12, with note. Dante here", "note": "OCR misread 'with note'"},
+  {"find": "eeeniiugly }.Mve3 u» to imderstaiul that tlie adoption", "replace": "seemingly gives us to understand that the adoption", "note": "heavily garbled note text"},
+  {"find": "of the name was\" not casual but by the deliberate", "replace": "of the name was not casual but by the deliberate", "note": "removed stray quote character"},
+  {"find": "choice of those who invented the tiling or by the", "replace": "choice of those who invented the thing or by the", "note": "OCR misread 'thing'"},
+  {"find": "early framers of teclmical language.", "replace": "early framers of technical language.", "note": "OCR misread 'technical'"},
+  {"find": "30. Bjlliite (from kilLire, to dance) were intended to", "replace": "30. Ballate (from ballare, to dance) were intended to", "note": "OCR misread italic terms"},
+  {"find": "be si'ng by dancers.", "replace": "be sung by dancers.", "note": "OCR misread 'sung'"},
+  {"find": "43. Pcfrns, I^it., 'those things wliich have been", "replace": "43. Poems. Lit., 'those things which have been", "note": "OCR misread 'Poems. Lit.' and 'which'"},
+  {"find": "8ung.* See the definition of poetry in the next", "replace": "sung.' See the definition of poetry in the next", "note": "OCR misread 'sung.''"},
+  {"find": "■which is in the forehead' (F, da Buti),", "replace": "which is in the forehead' (F. da Buti).", "note": "removed stray leading mark and fixed punctuation"}
+]

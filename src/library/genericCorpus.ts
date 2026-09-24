@@ -159,11 +159,27 @@ const PROPOSITION_ID = /-prop[123]?-\d+$/;
 const CHAPTER_ID = /^book-\d+-ch-\d+[A-Za-z]?$/;
 const SPEECH_ID = /^speech-\d+$/;
 const ACTIO_ID = /^actio-\d+$/;
+// Phase 2 shapes: Shakespeare acts/scenes, Dante cantos, the Sonnets, and
+// Newton's lemmas (Principia) alongside its propositions.
+const ACT_ID = /^act-\d+$/;
+const SCENE_ID = /^act-\d+-scene-\d+$/;
+const CANTO_ID = /^(?:inferno|purgatorio|paradiso)-canto-\d+$/;
+const SONNET_ID = /^sonnet-\d+$/;
+const LEMMA_ID = /^book-\d+-lemma-\d+$/;
+// pseudo-Aristotle's Mechanica: the 35 numbered problems (`problem-N`); their
+// `problem-N-ch-M` / `preface-ch-M` sections fall through to "§ M".
+const PROBLEM_ID = /^problem-\d+$/;
 
 function kindLabel(d: Division): string | null {
   if (BOOK_ID.test(d.id)) return 'Book';
   if (PROPOSITION_ID.test(d.id)) return 'Proposition';
   if (CHAPTER_ID.test(d.id)) return 'Chapter';
+  if (SCENE_ID.test(d.id)) return 'Scene';
+  if (ACT_ID.test(d.id)) return 'Act';
+  if (CANTO_ID.test(d.id)) return 'Canto';
+  if (SONNET_ID.test(d.id)) return 'Sonnet';
+  if (LEMMA_ID.test(d.id)) return 'Lemma';
+  if (PROBLEM_ID.test(d.id)) return 'Problem';
   if (SPEECH_ID.test(d.id)) return 'Speech';
   if (ACTIO_ID.test(d.id)) return 'Actio';
   return null;
@@ -173,6 +189,11 @@ function kindLabel(d: Division): string | null {
  *  or a group's own editorial title ("Definitions") when it has no number of
  *  its own. */
 export function divisionShortLabel(d: Division): string {
+  // Boethius' Consolatio alternates prose and verse sections, numbered P1,
+  // M1, P2, ... (`book-N-sec-P1` / `book-N-sec-M1`); label them as such
+  // rather than "§ P1".
+  const pm = d.id.match(/^book-\d+-sec-([PM])(\d+)$/);
+  if (pm) return `${pm[1] === 'P' ? 'Prose' : 'Metre'} ${pm[2]}`;
   if (d.number !== null) {
     const kind = kindLabel(d);
     return kind ? `${kind} ${d.number}` : `§ ${d.number}`;

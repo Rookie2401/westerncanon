@@ -1,0 +1,97 @@
+[
+  {
+    "find": "medium of literature and scliolarship, just as Dante",
+    "replace": "medium of literature and scholarship, just as Dante",
+    "note": "OCR misread \"scholarship\""
+  },
+  {
+    "find": "31-34- The latin text, dilfercntly punctuated, may",
+    "replace": "32-34. The Latin text, differently punctuated, may",
+    "note": "OCR misread note number, \"Latin\", \"differently\""
+  },
+  {
+    "find": "be translated tlius: 'Do not tliey of its household,",
+    "replace": "be translated thus: 'Do not they of its household,",
+    "note": "OCR misread \"thus\"/\"they\""
+  },
+  {
+    "find": "Kajna adopts this punctuation, but it seems to yield a",
+    "replace": "Rajna adopts this punctuation, but it seems to yield a",
+    "note": "OCR misread \"Rajna\""
+  },
+  {
+    "find": "ha. indiscriminately condemned all the marrnates of\nItaly According to the punctuation adopted in the",
+    "replace": "has indiscriminately condemned all the magnates of\nItaly. According to the punctuation adopted in the",
+    "note": "OCR misread \"has\"/\"magnates\"; missing full stop after \"Italy\""
+  },
+  {
+    "find": "and his brother poets, the familiar friends rcompare\nLc,,v:vw, I. iz and 13) of the illustrious langua;^e,",
+    "replace": "and his brother poets, the familiar friends (compare\nConvivio, I. 12 and 13) of the illustrious language,",
+    "note": "OCR misread \"(compare\" and italic title \"Convivio\""
+  },
+  {
+    "find": "with the infamy he lias poured on the Italian princes",
+    "replace": "with the infamy he has poured on the Italian princes",
+    "note": "OCR misread \"has\""
+  },
+  {
+    "find": "cunal, apphcd to the illustrious language.]'",
+    "replace": "curial, applied to the illustrious language.]",
+    "note": "OCR misread \"curial\"/\"applied\"; stray trailing quote removed"
+  },
+  {
+    "find": "c;f^nZrS •^^'^ •'' '' \"^''^^^^ Tcnson that wc adorn this",
+    "replace": "NOR is it without reason that we adorn this",
+    "note": "line severely garbled by unstripped margin caption \"The standard language is 'cardinal'\"; reconstructed from image"
+  },
+  {
+    "find": "ll^uaYe '\"\"f °\"', ^'\"\"^-^c^J'-^r language with a second",
+    "replace": "illustrious vernacular language with a second",
+    "note": "remove leftover garbled margin-caption fragment \"standard\""
+  },
+  {
+    "find": "is epithet, that ib, that wc call it cardinal : for as",
+    "replace": "epithet, that is, that we call it cardinal : for as",
+    "note": "remove leftover margin-caption fragment \"is\"; OCR misread \"is,\"/\"we\""
+  },
+  {
+    "find": "'cardinal' the whole door follows its hinge, so that whither",
+    "replace": "the whole door follows its hinge, so that whither",
+    "note": "remove leftover margin-caption fragment \"'cardinal'\""
+  },
+  {
+    "find": "the hinge turns the door aJso may turn, whither",
+    "replace": "the hinge turns the door also may turn, whither",
+    "note": "OCR misread \"also\""
+  },
+  {
+    "find": "It be moved inward or outward, in like manner",
+    "replace": "it be moved inward or outward, in like manner",
+    "note": "OCR misread capitalisation \"It\"->\"it\""
+  },
+  {
+    "find": "'also the whole herd of municipal dialects turns,",
+    "replace": "also the whole herd of municipal dialects turns,",
+    "note": "remove stray leading quote mark (scan artifact)"
+  },
+  {
+    "find": "as this illustrious language docs, which rca'ly'",
+    "replace": "as this illustrious language does, which really",
+    "note": "OCR misread \"does\"/\"really\""
+  },
+  {
+    "find": "/ seems to be the father of the family. Does it",
+    "replace": "seems to be the father of the family. Does it",
+    "note": "remove stray leading slash mark (scan artifact)"
+  },
+  {
+    "find": "Italian wood ? Does it not dally insert grafts",
+    "replace": "Italian wood ? Does it not daily insert grafts",
+    "note": "OCR misread \"daily\""
+  },
+  {
+    "find": "foresters to do but to take away and brintj",
+    "replace": "foresters to do but to take away and bring",
+    "note": "OCR misread \"bring\""
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "find": "masculine, hut",
+    "replace": "masculine, but",
+    "note": "misread but"
+  },
+  {
+    "find": "an even numl)er feminine",
+    "replace": "an even number feminine",
+    "note": "misread number"
+  },
+  {
+    "find": "Compare aI)ove, I. 16",
+    "replace": "Compare above, I. 16",
+    "note": "misread above"
+  },
+  {
+    "find": "the arranj^ement of words",
+    "replace": "the arrangement of words",
+    "note": "misread arrangement"
+  },
+  {
+    "find": "DilTcront kinds of construction",
+    "replace": "Different kinds of construction",
+    "note": "misread Different"
+  },
+  {
+    "find": "is alone suital^le for the",
+    "replace": "is alone suitable for the",
+    "note": "misread suitable"
+  },
+  {
+    "find": "reference to the Of\nillustrious vernacular, which is the noblest of all, arrang^e-\nand we have distinguished the things which arc \"^^\"^\nworthy of being sung in it, which arc the three sentences\nnoblest subjects, a^ has been established above,",
+    "replace": "reference to the\nillustrious vernacular, which is the noblest of all,\nand we have distinguished the things which are\nworthy of being sung in it, which are the three\nnoblest subjects, as has been established above,",
+    "note": "removes marginal shoulder-caption leak (\"Of arrangements of words in sentences\") that survived at these line-ends; fixes arc->are, a^->as"
+  },
+  {
+    "find": "in order tliat we may",
+    "replace": "in order that we may",
+    "note": "misread that"
+  },
+  {
+    "find": "give thorough in!;truclion in this form",
+    "replace": "give thorough instruction in this form",
+    "note": "misread instruction"
+  },
+  {
+    "find": "namely the style [|io] and",
+    "replace": "namely the style [10] and",
+    "note": "misread bracketed number"
+  },
+  {
+    "find": "let us now deal v/ith tnc construc-",
+    "replace": "let us now deal with the construc-",
+    "note": "misread with/the"
+  },
+  {
+    "find": "Now it must be observed that v/e call con-",
+    "replace": "Now it must be observed that we call con-",
+    "note": "misread we"
+  },
+  {
+    "find": "ence to this wc n)ust first bear in mind",
+    "replace": "ence to this we must first bear in mind",
+    "note": "misread we must"
+  },
+  {
+    "find": "if [203 we recol- '",
+    "replace": "if [20] we recol-",
+    "note": "misread bracketed number; stray quote mark removed"
+  },
+  {
+    "find": "Icct the beginning of our distinction, v/c are only",
+    "replace": "lect the beginning of our distinction, we are only",
+    "note": "misread lect/we"
+  },
+  {
+    "find": "pursuing the highest things, the incongruoua con-",
+    "replace": "pursuing the highest things, the incongruous con-",
+    "note": "misread incongruous"
+  },
+  {
+    "find": "struction a regulated arrangement of words, as\n* Aristotle philosophised in Alexander's time,'",
+    "replace": "struction a regulated arrangement of words, as\n'Aristotle philosophised in Alexander's time,'",
+    "note": "asterisk misread of opening quote mark"
+  }
+]

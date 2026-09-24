@@ -1,0 +1,137 @@
+[
+  {
+    "find": "14. The practice of setting canzoni to muBic fell",
+    "replace": "24. The practice of setting canzoni to music fell",
+    "note": "OCR misread note number 24 as 14, and 'music'"
+  },
+  {
+    "find": "into disuse not lon;^ after Dante's time (Carducci,",
+    "replace": "into disuse not long after Dante's time (Carducci,",
+    "note": "OCR misread 'long'"
+  },
+  {
+    "find": "Studi Utterari, 30 1, jpi).",
+    "replace": "Studi letterari, 301, 302).",
+    "note": "OCR garbled italic title and page numbers"
+  },
+  {
+    "find": "29-31. Dante's argument is this: The subsequent",
+    "replace": "29-32. Dante's argument is this: The subsequent",
+    "note": "OCR misread note range 29-32"
+  },
+  {
+    "find": "be!i-ng to the peculiar art of the canzone.",
+    "replace": "belong to the peculiar art of the canzone.",
+    "note": "OCR misread 'belong'"
+  },
+  {
+    "find": "35. * yirtjn\\r,„ienl of fhe fiurtt.' Ik- lo W, C. I 3.",
+    "replace": "35. ' Arrangement of the parts.' Below, c. 13.",
+    "note": "OCR badly garbled italic cross-reference"
+  },
+  {
+    "find": "CH7\\PTER X",
+    "replace": "CHAPTER X",
+    "note": "OCR garbled chapter heading"
+  },
+  {
+    "find": "[The author enters dm the discussion of the stanza,",
+    "replace": "[The author enters on the discussion of the stanza,",
+    "note": "OCR misread 'on'"
+  },
+  {
+    "find": "relation tu the musical .settinjj. The diflerent",
+    "replace": "relation to the musical setting. The different",
+    "note": "OCR misread 'to', 'setting.', 'different'"
+  },
+  {
+    "find": "depended u[)on t!ic musical setting for which",
+    "replace": "depended upon the musical setting for which",
+    "note": "OCR misread 'upon', 'the'"
+  },
+  {
+    "find": "tlicy were (Jesii;ncd.",
+    "replace": "they were designed.",
+    "note": "OCR misread 'they were designed.'"
+  },
+  {
+    "find": "II. Ilic musical sct'.ing might be divided into two",
+    "replace": "II. The musical setting might be divided into two",
+    "note": "OCR misread 'The', 'setting'"
+  },
+  {
+    "find": "diderent Melodic Scc/i'ou!;, which Dante calls",
+    "replace": "different Melodic Sections, which Dante calls",
+    "note": "OCR garbled 'different Melodic Sections,'"
+  },
+  {
+    "find": "Odfs, tlic repetition of one of wliich was com-",
+    "replace": "Odes, the repetition of one of which was com-",
+    "note": "OCR misread 'Odes', 'the', 'which'"
+  },
+  {
+    "find": "pulsory, and might be made eltlier —",
+    "replace": "pulsory, and might be made either —",
+    "note": "OCR misread 'either'"
+  },
+  {
+    "find": "(</) I'efore the transiiiijn to the second ode",
+    "replace": "(a) Before the transition to the second ode",
+    "note": "OCR garbled '(a) Before the transition'"
+  },
+  {
+    "find": "the y?^^/ part of the stanza was divided into",
+    "replace": "the first part of the stanza was divided into",
+    "note": "OCR garbled italic 'first'"
+  },
+  {
+    "find": "parts called feet (two in nund)er, or, very",
+    "replace": "parts called feet (two in number, or, very",
+    "note": "OCR misread 'number'"
+  },
+  {
+    "find": "{b) After the diesis, or transition. Here the",
+    "replace": "(b) After the diesis, or transition. Here the",
+    "note": "OCR misread opening parenthesis"
+  },
+  {
+    "find": "yirsl ode was not to be repeated, and the",
+    "replace": "first ode was not to be repeated, and the",
+    "note": "OCR garbled italic 'first'"
+  },
+  {
+    "find": "JilS/ part of I he stanza, which was conse-",
+    "replace": "first part of the stanza, which was conse-",
+    "note": "OCR garbled italic 'first' and 'the'"
+  },
+  {
+    "find": "quently undivided, was called \\\\\\c front e (i.e.",
+    "replace": "quently undivided, was called the fronte (i.e.",
+    "note": "OCR garbled 'the fronte'"
+  },
+  {
+    "find": "of the stan/a (each sung to the second ode)",
+    "replace": "of the stanza (each sung to the second ode)",
+    "note": "OCR misread 'stanza'"
+  },
+  {
+    "find": "ous meiody without any repetitions or division.",
+    "replace": "ous melody without any repetitions or division.",
+    "note": "OCR misread melody (residual audit)"
+  },
+  {
+    "find": "brow), while the divisions of the secotid part",
+    "replace": "brow), while the divisions of the second part",
+    "note": "OCR misread second (residual audit)"
+  },
+  {
+    "find": "and in this cliapter examines its structure in",
+    "replace": "and in this chapter examines its structure in",
+    "note": "OCR misread chapter (residual audit)"
+  },
+  {
+    "find": "I. Tlie musical setting might consist of one continu-",
+    "replace": "I. The musical setting might consist of one continu-",
+    "note": "OCR misread The (residual audit)"
+  }
+]

@@ -1,0 +1,17 @@
+LEVEL:3
+
+<section begin="s9" />bello e corrente e chiarissimo, lo quale sen già lungo questo cammino là ov’io era. A me parve che Amore mi chiamasse e dicessemi queste parole: «Io vegno da quella donna la quale è stata tua lunga difesa, e so che lo suo rivenire non sarà a gran tempi; e però quello cuore che io ti facea avere a lei, io l’ho meco, e portolo a donna, la quale sarà tua difensione, come questa era». E [[#nominolami|nominolami]] per nome, sì che io la conobbi bene. «Ma tuttavia, di queste parole ch’io t’ho ragionate se [[#alcuna cosa|alcuna cosa]] ne dicessi, dille nel modo che per loro non si discernesse lo simulato amore che tu hai mostrato a questa e che ti converrà mostrare ad altri». E dette queste parole, disparve questa mia imaginazione tutta subitamente per la grandissima parte che mi parve che Amore mi desse di sè; e, quasi cambiato ne la vista mia, cavalcai quel giorno pensoso molto ed acompagnato da molti sospiri. Appresso lo giorno cominciai di ciò questo sonetto, lo quale comincia: ''Cavalcando''.
+
+
+<poem>Cavalcando l’altr’ier per un cammino,
+     pensoso de l’andar che mi sgradia,
+     trovai	Amore in mezzo de la via
+     in abito leggier di peregrino.</poem>
+<section end="s9" />
+
+<section begin="" />sta’ di IX 7, che dice più e altro: cfr. XIV 12, ''ond’io mi cangio in figura d’altrui''; XXII 6, ''Vedi questi che non pare esso, tal è divenuto''.<section end="c8" />
+
+<section begin="c9" />{{§|nominolami|}}{{Sc|{{Ec|.|nominolami per nome}}}} Sono rimasto a lungo in dubbio se accogliere nel testo ''per  nome''. Ben è vero che se l’originale l’aveva, potè sembrare tanto a b quanto
+a β un riempitivo inutile e quindi esser lasciato fuori. Ma potè anche venir aggiunto inavvertitamente per essere l’espressione ''nominar per nome'' usuale, avendosi pur nel ''Novellino'', nov. XIV, secondo il testo Gualteruzzi: ''innanzi a llui fecie mettere molte belle gioie e dimolte belle donzelle, tutte cose nominando per nome''. Anche il copista del codice di Oxford, sebbene, nel nostro passo, l’originale suo avesse semplicemente ''nominolami'', v’aggiunse ''per nome''.
+
+{{§|alcuna cosa|}}{{Sc|{{Ec|.|alcuna cosa}}}} Questa è la lezione di tutti i capostipiti. ''Alcuna'' (senza ''cosa''), introdotta dagli Edd. Mil. e accettata dal Torri e dal D’Ancona<sup>2</sup>, è soltanto in un sottogruppo di b<sup>3</sup>, cioè in Pal-N&c. Arbitraria la mutazione in ''alcune'' fatta dal Fraticelli (seguito dal Giuliani), forse per attrazione del ''dille''.<section end="c9" />

@@ -1,0 +1,23 @@
+[
+  {"find": "first one and the same form.", "replace": "one and the same form.", "note": "leading 'first' is a leftover fragment of the marginal shoulder caption ('at first') that the automatic strip missed"},
+  {"find": "umlorm safer as well as quicker to travel by known", "replace": "safer as well as quicker to travel by known", "note": "leading 'umlorm' is a leftover garbled fragment of the marginal shoulder caption ('uniform') that the automatic strip missed"},
+  {"find": "paths, let us proceed with that lan;;uagc alone", "replace": "paths, let us proceed with that language alone", "note": "OCR misreading"},
+  {"find": "which belongs to us, neglecting the'' others.", "replace": "which belongs to us, neglecting the others.", "note": "remove stray OCR quote marks"},
+  {"find": "For that which we find in one [lo] appears by", "replace": "For that which we find in one [10] appears by", "note": "OCR misread the printed bracketed number '10' as 'lo'"},
+  {"find": "The language, then, which we arc proceeding", "replace": "The language, then, which we are proceeding", "note": "OCR misreading"},
+  {"find": "above ; for some of those who speak it say or,", "replace": "above ; for some of those who speak it say oc,", "note": "OCR misread 'oc' as 'or'"},
+  {"find": "others //, and others oil. And that this langunnc", "replace": "others sì, and others oïl. And that this language", "note": "OCR misreadings"},
+  {"find": "mitted] [20] in the building of Babcl.", "replace": "mitted] [20] in the building of Babel.", "note": "OCR misreading"},
+  {"find": "word ylmor. Giraut de Bornell says :", "replace": "word Amor. Giraut de Borneil says :", "note": "OCR misreadings of name and word"},
+  {"find": "* Sim senlts fezeh ain'ics", "replace": "'Sim sentis fezelz amics", "note": "OCR misreadings of Provencal quotation"},
+  {"find": "per ver encusera ylmor.'' ^", "replace": "per ver encusera Amor.' 1", "note": "OCR misreadings; garbled footnote marker"},
+  {"find": "* Dejitie amor si vie-nt sen et I out c J 2", "replace": "'De fine amor si vient sen et bonté.' 2", "note": "OCR misreadings of French quotation"},
+  {"find": "* Ne fa amor prima che grntil core", "replace": "'Nè fa amor prima che gentil core", "note": "OCR misreadings of Italian quotation"},
+  {"find": "[30] nt gen til cor prima che amor natura' 3", "replace": "[30] nè gentil cor prima che amor natura.' 3", "note": "OCR misreadings"},
+  {"find": "* ' If a faithful friend licard me, I would make", "replace": "1 'If a faithful friend heard me, I would make", "note": "OCR misreadings; garbled footnote marker"},
+  {"find": "2 •From pure love proceeds wisdom and pood-", "replace": "2 'From pure love proceeds wisdom and good-", "note": "OCR misreadings"},
+  {"find": "(Rossetti's translation.)\nness", "replace": "(Rossetti's translation.)", "note": "remove stray trailing OCR noise fragment after the last line of the page"},
+  {"find": ";ss.'", "replace": "ness.'", "note": "OCR misreading of 'ness.''"},
+  {"find": "» * Before the gentle heart, in nature's scheme", "replace": "3 'Before the gentle heart, in nature's scheme", "note": "OCR misreadings; garbled footnote marker"},
+  {"find": "Lore was not, nor the jrentle heart ere love.'", "replace": "Love was not, nor the gentle heart ere love.'", "note": "OCR misreadings"}
+]

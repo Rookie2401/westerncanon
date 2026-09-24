@@ -1,0 +1,10 @@
+[
+  {
+    "where": "boethius-de-fide-catholica-la / structure",
+    "note": "This edition marks no internal chapter divisions for this tractate at all: the entire text is one continuous `<div subtype=\"section\" n=\"1\">`. Imported as a single division, ch-1, rather than an invented chapter split."
+  },
+  {
+    "where": "boethius-de-fide-catholica-la / transport scaffolding",
+    "note": "55 <milestone unit=\"loebline\"/> ticks and 10 <pb/> page-break markers were dropped as pure typesetting scaffolding; this source carries no citation scheme this schema can use, so Division.ref and Passage.ref are null throughout."
+  }
+]

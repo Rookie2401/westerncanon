@@ -1,0 +1,147 @@
+[
+  {
+    "find": "_Of As to the statement that superior thln^^s mixed",
+    "replace": "As to the statement that superior things mixed",
+    "note": "leading 'Of' is leaked margin caption; OCR misread 'things'"
+  },
+  {
+    "find": "mixing- ^yjth inferior elTect an improvement [in the latter^,",
+    "replace": "with inferior effect an improvement [in the latter],",
+    "note": "leading 'mixing-' is leaked margin caption; OCR misread 'effect'; bracket garbled"
+  },
+  {
+    "find": "with ^'^ ^^y ^^^^^ '^^ ^^ ^^\"^ '^ ^'^^ blending is com-",
+    "replace": "we say that it is true if the blending is com-",
+    "note": "leading 'with' is leaked margin caption; rest heavily garbled OCR"
+  },
+  {
+    "find": "inferior pl^te, for instance when we mix gold and silver",
+    "replace": "plete, for instance when we mix gold and silver",
+    "note": "leading 'inferior' is leaked margin caption; OCR misread 'plete'"
+  },
+  {
+    "find": "things together ; but if it is not, tlie inferior thin;;3",
+    "replace": "together ; but if it is not, the inferior things",
+    "note": "leading 'things' is leaked margin caption; OCR misread 'the'/'things'"
+  },
+  {
+    "find": "appear worse [^yo^, for instance when beautiful",
+    "replace": "appear worse [90], for instance when beautiful",
+    "note": "bracket number garbled"
+  },
+  {
+    "find": "it will not, unless of t^he highest quality, appear",
+    "replace": "it will not, unless of the highest quality, appear",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "6, Prose ivritirs. 'Both amonpf the Creeks and",
+    "replace": "6. Prose writers. 'Both among the Greeks and",
+    "note": "OCR misread 'writers'/'among'/'Greeks'"
+  },
+  {
+    "find": "among the Latins, verse rt-ceived attention long before",
+    "replace": "among the Latins, verse received attention long before",
+    "note": "OCR misread 'received'"
+  },
+  {
+    "find": "verse, wliile the study of prose flourished later ' (St",
+    "replace": "verse, while the study of prose flourished later' (St",
+    "note": "OCR misread 'while'"
+  },
+  {
+    "find": "Isidore, Elym. i. 37).",
+    "replace": "Isidore, Etym. i. 37).",
+    "note": "OCR misread 'Etym.'"
+  },
+  {
+    "find": "18, Ai far as lie is able. Compare Co/ivJvlo, IV. 30 :",
+    "replace": "18. As far as he is able. Compare Convivio, IV. 30 :",
+    "note": "OCR misread 'As'/'he'/'Convivio'"
+  },
+  {
+    "find": "\nIS ff.",
+    "replace": "\n15 ff.",
+    "note": "OCR misread '15'"
+  },
+  {
+    "find": "25- -Evf/i f/ioui^/i Jtis verse he ruJe in m, liter (quiinnuum",
+    "replace": "25. Even though his verse be rude in matter (quanquam",
+    "note": "OCR heavily misread this Latin/English note line"
+  },
+  {
+    "find": "rude versifuftur^. It is clear from what Dante says at",
+    "replace": "rude versificetur). It is clear from what Dante says at",
+    "note": "OCR misread Latin word 'versificetur'"
+  },
+  {
+    "find": "the end of the chapter, wliere he is sliowing the",
+    "replace": "the end of the chapter, where he is showing the",
+    "note": "OCR misread 'where'/'showing'"
+  },
+  {
+    "find": "fallacy of this reasoning, that the phrase ruJ<- versifi-",
+    "replace": "fallacy of this reasoning, that the phrase rude versifi-",
+    "note": "OCR misread 'rude'"
+  },
+  {
+    "find": "cttur refers to poverty of matter, rather tlian to rude-",
+    "replace": "cetur refers to poverty of matter, rather than to rude-",
+    "note": "OCR misread 'cetur'/'than'"
+  },
+  {
+    "find": "3S. Liumjicence {tnugnijicenli<i^. See PurjJisoy XXXI.",
+    "replace": "38. Munificence (magnificentia). See Paradiso, XXXI.",
+    "note": "OCR heavily misread this note line"
+  },
+  {
+    "find": "\n%?n.",
+    "replace": "\n88n.",
+    "note": "OCR misread '88n.'"
+  },
+  {
+    "find": "39. Compare Co/ivivio, IV. 29 : 16 fT. ; Pur^iUso,",
+    "replace": "39. Compare Convivio, IV. 29 : 16 ff. ; Paradiso,",
+    "note": "OCR misread 'Convivio'/'ff.'/'Paradiso'"
+  },
+  {
+    "find": "XVJII. 91.",
+    "replace": "XVIII. 91.",
+    "note": "OCR misread roman numeral"
+  },
+  {
+    "find": "44. J.iiti^httr. Compare Filu Nuova, 25 : 17 fT. ;",
+    "replace": "44. Laughter. Compare Vita Nuova, 25 : 17 ff. ;",
+    "note": "OCR misread 'Laughter'/'Vita'/'ff.'"
+  },
+  {
+    "find": "Letter to Can Grande, § 26, line 504. IVIan's genus",
+    "replace": "Letter to Can Grande, § 26, line 504. Man's genus",
+    "note": "OCR misread 'Man's'"
+  },
+  {
+    "find": "animal,' Waging war is proper to him if his",
+    "replace": "animal.' Waging war is proper to him if his",
+    "note": "fixed punctuation to closing period"
+  },
+  {
+    "find": "individual circumstances justify it (compare ParaJiso^",
+    "replace": "individual circumstances justify it (compare Paradiso,",
+    "note": "OCR misread 'Paradiso,'"
+  },
+  {
+    "find": "VI. io6>",
+    "replace": "VI. 106).",
+    "note": "OCR misread '106).'"
+  },
+  {
+    "find": "56. Compare PLinuViso, VIII. 139-14S",
+    "replace": "56. Compare Paradiso, VIII. 139-148",
+    "note": "OCR misread 'Paradiso'/'148'"
+  },
+  {
+    "find": "64. Compare Convivio, I. 5 : !io H,",
+    "replace": "64. Compare Convivio, I. 5 : 80 ff.",
+    "note": "OCR misread '80 ff.'"
+  }
+]

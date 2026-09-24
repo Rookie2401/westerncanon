@@ -1,0 +1,26 @@
+[
+  {
+    "where": "boethius-de-trinitate-en / running-title leak",
+    "note": "Removed the running page-title \"DE TRINITATE\" (leaked into the body text at a scanned-page boundary) and rejoined the paragraph it spuriously split. Raw fragment before the fix: \"DE TRINITATE pen; if there be any external reward, we may not look for more warmth in the verdict than the subject itself arouses. For, apar\""
+  },
+  {
+    "where": "boethius-de-trinitate-en / structure",
+    "note": "This translation marks its 6 chapters with a bare Roman numeral in its own paragraph (\"I.\", \"II.\", ...) rather than any <div> structure; each marker is used to place the division boundary (ch-1 .. ch-6) and then dropped from the passage text itself, matching this app's established handling of a structural-but-not-textual heading marker (see scripts/import-aristotle-rest-en-shared/wikitext.ts's \"Part N\" headings). Everything before the first marker is the Preface, ch-pr."
+  },
+  {
+    "where": "boethius-de-trinitate-en / transport scaffolding",
+    "note": "15 <pb/> page-break markers were dropped from the reading text as pure typesetting scaffolding; this source carries no citation scheme this schema can use, so Division.ref and Passage.ref are null throughout."
+  },
+  {
+    "where": "boethius-de-trinitate-en / direct speech",
+    "note": "36 <q>...</q> span(s) carry no literal quotation-mark characters in this XML; each is rendered wrapped in straight double quotes, reflecting what the edition itself prints, matching this app's Consolatio handling."
+  },
+  {
+    "where": "boethius-de-trinitate-en / footnote apparatus",
+    "note": "This digitization marks its footnote apparatus with no <note>/<ref> element at all - apparently bare inline letters/numbers in the printed style of the edition's own superscript markers, with no markup distinguishing them from ordinary running text. Because they cannot be identified programmatically without risk of deleting a genuine word, they are left exactly as printed rather than guessed at and removed; a disclosed limitation of the source, not a correction made here."
+  },
+  {
+    "where": "boethius-de-trinitate-en / running-title leak (summary)",
+    "note": "1 running-title leak(s) of the kind described in this module's doc comment were found and repaired; see the individual anomaly note(s) above for the exact text."
+  }
+]

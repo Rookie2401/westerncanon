@@ -1,0 +1,26 @@
+{
+  "workId": "archimedes-stomachion",
+  "sourceIdentifier": "none found",
+  "sourceDescription": "No legitimately-sourced printed diagram of the actual palimpsest Stomachion (the asymmetric 14-piece square dissection recovered from the Archimedes Palimpsest and published by Heiberg 1899/1906-7) was found on archive.org. See per-marker notes for the bounded search performed and what was found and rejected.",
+  "divisions": {
+    "archimedes-stomachion-ch-1": [null, null]
+  },
+  "markers": [
+    {
+      "division": "archimedes-stomachion-ch-1",
+      "index": 0,
+      "leaf": null,
+      "printedPage": null,
+      "image": null,
+      "note": "No usable printed diagram found. Checked, in order: (1) T.L. Heath, The Method of Archimedes (1912, archive.org methodofarchimed00arch), the same book used for archimedes-method - its introduction (djvu.txt lines 178-180, p.xiv) mentions the Stomachion only in passing ('the MS. contains two short propositions, in addition to the preface, of a work called Stomachion... treated of a sort of Chinese puzzle known afterwards by the name of loculus Archimedius') while explaining why the palimpsest is significant; the book covers only The Method in full and contains no Stomachion text or diagram anywhere else in it (checked via archive.org's fulltext search-inside API for 'Stomachion'/'loculus' - only the two hits at that one passage, both p.xiv/leaf9). (2) A general archive.org search for 'stomachion archimedes' / 'loculus archimedius' / 'ostomachion' turned up only modern (post-1929, non-PD) 3D-printing/thingiverse files and a 2007 popular book on the palimpsest - nothing usable. (3) Located and inspected Heinrich Suter, 'Der Loculus Archimedius oder das Syntemachion des Archimedes' (Zeitschrift fur Mathematik und Physik, Hist.-litt. Abt., vol. 44, 1899, pp. 491-499; archive.org identifier zeitschriftfurm32unkngoog, leaves 514-520) - Suter's edition/German translation of an Arabic treatise on this puzzle (two Berlin manuscripts, Mf.258 and Mq.559, copied 1651 and c.1591) - genuinely a related textual tradition of the same 'loculus Archimedius'/14-piece-square problem, WITH a printed diagram (p.495 / leaf 519)."
+    },
+    {
+      "division": "archimedes-stomachion-ch-1",
+      "index": 1,
+      "leaf": null,
+      "printedPage": null,
+      "image": null,
+      "note": "Deliberately NOT used, per the task's own guidance to lean toward rejecting a related-but-different-tradition diagram: Suter's Arabic-tradition diagram (square ABGD with both full diagonals AG/BZ/ZG drawn, plus perpendicular bisectors at the midpoints of each side/diagonal) constructs a SYMMETRIC 7+7 dissection of the square purely from diagonals and midpoint bisections - a mathematically regular, fully symmetric partition. This is demonstrably NOT the same configuration as the historically-attested Stomachion recovered from the Greek palimpsest (an asymmetric arrangement of 14 differently-shaped polygonal pieces cut along a grid of specific non-midpoint fractional points, popularly illustrated as an ox-hide/tangram-like puzzle, per Heiberg's 1906-7 publication and the modern Netz/Saito/etc. reconstructions). Suter's own introduction confirms no Greek or other Arabic source for this text was known to connect it definitively to the palimpsest's actual figure - it is presented as a separate, independently-transmitted Arabic tradition of a puzzle sharing the name and piece-count only. Using it here would misrepresent what this app's own Stomachion text (translated from the Greek palimpsest fragment) actually describes, so both of this division's <figure> markers are left null rather than force-fitting an unrelated configuration."
+    }
+  ]
+}

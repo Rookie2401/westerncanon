@@ -1,0 +1,829 @@
+[
+  {
+    "page": 307,
+    "qualityLevel": 4,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly; no corrections needed (Wikisource-validated page)."
+    ]
+  },
+  {
+    "page": 308,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 309,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 310,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 311,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 312,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 313,
+    "qualityLevel": 3,
+    "correctionsCount": 2,
+    "notes": [
+      "Residual-error audit (vocabulary cross-check, then re-viewed against the scan): \"so non poche\" -> \"se non poche\"; \"cho in mano\" -> \"che in mano\". Both had passed the initial review because the wikitext matched what the eye expected."
+    ]
+  },
+  {
+    "page": 314,
+    "qualityLevel": 3,
+    "correctionsCount": 1,
+    "notes": [
+      "Residual-error audit: \"propuosi di faro uno sonetto\" -> \"fare\" (scan)."
+    ]
+  },
+  {
+    "page": 315,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 316,
+    "qualityLevel": 3,
+    "correctionsCount": 1,
+    "notes": [
+      "Residual-error audit: \"comenciò\" -> \"cominciò\" (scan)."
+    ]
+  },
+  {
+    "page": 317,
+    "qualityLevel": 1,
+    "correctionsCount": 0,
+    "notes": [
+      "Unproofread page, but its wikitext transcription already matches the scan exactly; no corrections needed."
+    ]
+  },
+  {
+    "page": 318,
+    "qualityLevel": 3,
+    "correctionsCount": 1,
+    "notes": [
+      "Residual-error audit: \"componendela\" -> \"componendola\" (scan)."
+    ]
+  },
+  {
+    "page": 319,
+    "qualityLevel": 3,
+    "correctionsCount": 1,
+    "notes": [
+      "Residual-error audit: \"eh’audir\" -> \"ch’audir\" (scan; \"ostale\" on this page confirmed as printed, Barbi discusses it in the apparatus)."
+    ]
+  },
+  {
+    "page": 320,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 321,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 322,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 323,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 324,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 325,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 326,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 327,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 328,
+    "qualityLevel": 3,
+    "correctionsCount": 3,
+    "notes": [
+      "Residual-error audit: \"nr infamasse\" -> \"m’infamasse\"; \"mi negè lo suo\" -> \"mi negò lo suo\"; \"m’avea nommata\" -> \"m’avea nominata\" (all per scan)."
+    ]
+  },
+  {
+    "page": 329,
+    "qualityLevel": 3,
+    "correctionsCount": 2,
+    "notes": [
+      "Wikitext ran 'e chi' together as 'echi' ('...m'avesse offeso; echi allora m'avesse domandato...'); image clearly shows two words 'e chi'. Corrected to 'e chi'.",
+      "Residual-error audit: \"d’umiilitade\" -> \"d’umilitade\" (scan; OCR doubled the i)."
+    ]
+  },
+  {
+    "page": 330,
+    "qualityLevel": 3,
+    "correctionsCount": 3,
+    "notes": [
+      "Residual-error audit: \"lacrimare, misimi\" -> \"lagrimare, misimi\"; \"bianchissime vestimento\" -> \"vestimenta\"; \"ov’io giacca\" -> \"ov’io giacea\" (all per scan)."
+    ]
+  },
+  {
+    "page": 331,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 332,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 333,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 334,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 335,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 336,
+    "qualityLevel": 3,
+    "correctionsCount": 0,
+    "notes": [
+      "Matches image exactly."
+    ]
+  },
+  {
+    "page": 337,
+    "qualityLevel": 1,
+    "correctionsCount": 5,
+    "notes": [
+      "Unproofread raw OCR page (this is where the prior importer's <section> parsing broke down). Main-text errors found and corrected against the image, all in the closing division paragraph of chapter XIII: 'ne la quarte' -> 'ne la quarta'; 'non ho da qual parte' -> 'non so da qual parte'; 'con vene che io chiami' -> 'convene che io chiami'; \"la terza quivi: e noi s'accordano\" -> \"e sol s'accordano\" (matches the sonnet's own line 7 on the facing page); \"la quarta quivi: Ond'io non no\" -> \"Ond'io non so\" (matches sonnet line 9). The chapter XIV opening ('Appresso la battaglia...') on this same page was already accurate."
+    ]
+  },
+  {
+    "page": 338,
+    "qualityLevel": 1,
+    "correctionsCount": 5,
+    "notes": [
+      "Raw OCR garbling corrected against the image: 'propnosi' -> 'propuosi'; 'j>er la forza' -> 'per la forza'; 'Io dico cho molte' -> 'Io dico che molte'; 'molto mi* dolca' -> 'molto mi dolea'; stray OCR-injected digits/asterisks from paragraph-number markers removed from running text."
+    ]
+  },
+  {
+    "page": 339,
+    "qualityLevel": 1,
+    "correctionsCount": 9,
+    "notes": [
+      "Raw OCR garbling corrected: 'qual©' -> 'quale'; 'da Ini' -> 'da lui'; '(piale' -> 'quale' (ne la quale); 'significiissc' -> 'significasse'; 'trastiguramento' -> 'trasfiguramento'; \"ch'ella non ò\" -> \"ch'ella non è\"; 'ghignerebbe' -> 'giugnerebbe'; 'so non por aprire' -> 'se non per aprire'. The embedded sonnet 'Con l'altre donne' itself was already accurately OCR'd."
+    ]
+  },
+  {
+    "page": 340,
+    "qualityLevel": 1,
+    "correctionsCount": 19,
+    "notes": [
+      "Heavily garbled raw OCR page, corrected word-by-word against the image: 'le parple' -> 'le parole'; 'queste^ sonotto' -> 'questo sonetto'; '.clic Amore' -> 'che Amore'; 'salve»' (line-end) -> 'salvo' (che fuori...); 'a sol vere' -> 'a solvere'; \"non ò bene a mo di dichiarare\" -> \"non è bene a me di dichiarare\"; 'Poscia die tu pervieni' -> 'Poscia che tu pervieni'; 'Ecco che lo fossi domandato' -> 'Ecco che tu fossi domandato'; 'rÌ8pondoa ... penserò' -> 'rispondea ... pensero'; 'le mio vertudi' -> 'le mie vertudi'; 'cho sì tosto' -> 'che sì tosto'; 'mi giugno uno desiderio' -> 'mi giugne uno desiderio'; 'cho uccide e distrugge' -> 'che uccide e distrugge'; 'cscusandomi a lei' -> 'escusandomi a lei'; \"Ciò ohe m'incontra\" -> \"Ciò che m'incontra\"; \"quand'i'vegno\" -> \"quand'i' vegno\" (missing space). This page contains the chapter XIV/XV boundary: XIV closes with '...o vero di soperchio.' and XV opens with 'Appresso la nuova trasfigurazione mi giunse uno pensamento forte...' (confirmed against the image; no section markup survives on this or any later page, so the boundary was located by content)."
+    ]
+  },
+  {
+    "page": 341,
+    "qualityLevel": 1,
+    "correctionsCount": 3,
+    "notes": [
+      "Sonnet lines corrected against image: 'Fuggì' -> 'Fuggi' (imperative, no accent); 't.'è noia' -> 't'è noia' (stray period); 'clic, tramortendo' -> 'che, tramortendo'. The long apparatus block filling the rest of the page is Barbi's critical commentary (footnote-style, two-column), excluded as in every other page."
+    ]
+  },
+  {
+    "page": 342,
+    "qualityLevel": 1,
+    "correctionsCount": 3,
+    "notes": [
+      "Sonnet lines corrected: 'face olii allora' -> 'face chi allora'; 'clie?l vostro gabbo' -> \"che 'l vostro gabbo\"; '«li lor pianto' -> 'di lor pianto'. Remainder of page is apparatus commentary, excluded."
+    ]
+  },
+  {
+    "page": 343,
+    "qualityLevel": 1,
+    "correctionsCount": 5,
+    "notes": [
+      "Main text (sonnet's own division, part of chapter XV) corrected: 'non ini tengo' -> 'non mi tengo'; 'die mi diviene' -> 'che mi diviene'; 'e qumd'io vi son prefìtto' -> \"e quand'io vi son presso\"; 'j)er la pietosa' -> 'per la pietosa'; 'gingne' -> 'giugne'. Remainder is apparatus commentary, excluded."
+    ]
+  },
+  {
+    "page": 344,
+    "qualityLevel": 1,
+    "correctionsCount": 16,
+    "notes": [
+      "Closes chapter XV ('La seconda parte comincia quivi: Lo viso mostra...') and opens chapter XVI ('Appresso ciò, che io dissi questo sonetto...', confirmed against image; no section markup survives here). Corrections against the image: 'Lo riso mostra' -> 'Lo viso mostra'; 'per ine' -> 'per me'; 'm’assai ia' -> 'm’assalia'; \"olio'n me\" -> \"che 'n me\"; 'discontìggea' -> 'disconfiggea'; 'difendevi' -> 'difendea'; \"di'Amor m'assale subi tana mente\" -> \"ch'Amor m'assale subitanamente\"; 'ur abandona' -> \"m'abandona\"; 'i>ercliò' -> 'perchè'; 'veggio a vedervi' -> 'vegno a vedervi'; plus several stray OCR digits/accents removed."
+    ]
+  },
+  {
+    "page": 345,
+    "qualityLevel": 1,
+    "correctionsCount": 10,
+    "notes": [
+      "Closes chapter XVI, contains the whole of chapter XVII (a short transitional paragraph, confirmed by the source's own '1 XVII' / '1 XVIII' paragraph-number gutter marks visible in the image), and opens chapter XVIII (the 'gentili donne' scene) - no section markup survives, boundaries located by content/gutter numbers. Corrections: 'ini ai comincia' -> 'mi si comincia'; 'de*polsi' -> \"de' polsi\"; 'non m’iutrametto' -> \"non m'intrametto\"; 'raatera nuova' -> 'matera nuova'; 'clic la cagione' -> 'che la cagione'; 'nuova muterà' -> 'nuova matera'; 'dilettevolc' -> 'dilettevole'; 'la diccrò' -> 'la dicerò'; \"l'ima ne la compagnia\" -> \"l'una ne la compagnia\"; '«li queste gentili' -> 'di queste gentili'."
+    ]
+  },
+  {
+    "page": 346,
+    "qualityLevel": 1,
+    "correctionsCount": 10,
+    "notes": [
+      "Chapter XVIII continues (gentili donne dialogue). Corrections: 'le salutili' -> 'le salutai'; 'lo line' -> 'lo fine' (x2 occurrences); 'B poi che' -> 'E poi che'; 'Mais donne' -> 'Madonne'; 'fuo già' -> 'fue già'; 'ed iu quello' -> 'ed in quello'; 'Ma poi cho le piacque' -> 'Ma poi che le piacque'; '|)osto tutta' -> 'posto tutta'; 'venire mono' -> 'venire meno'."
+    ]
+  },
+  {
+    "page": 347,
+    "qualityLevel": 1,
+    "correctionsCount": 8,
+    "notes": [
+      "Closes chapter XVIII and opens chapter XIX ('Avenne poi che passando per uno cammino...', confirmed against image). Corrections: 'bella nove' -> 'bella neve'; 'ini parea' -> 'mi parea'; \"ni* avea prima parlato\" -> \"m'avea prima parlato\"; 'quello parole' -> 'quelle parole'; 'fra mo medesimo' -> 'fra me medesimo'; 'quanto a ine' -> 'quanto a me'; 'tauta volontade' -> 'tanta volontade'."
+    ]
+  },
+  {
+    "page": 348,
+    "qualityLevel": 1,
+    "correctionsCount": 2,
+    "notes": [
+      "Chapter XIX continues into the opening of the canzone 'Donne ch'avete intelletto d'amore'. Corrections: 'pensando «li prenderle' -> 'pensando di prenderle'; 'a Cospetto di lei' -> 'a respetto di lei' (canzone line)."
+    ]
+  },
+  {
+    "page": 349,
+    "qualityLevel": 1,
+    "correctionsCount": 9,
+    "notes": [
+      "Canzone 'Donne ch'avete' continues. Corrections: 'ne Patto che procede' -> \"ne l'atto che procede\"; 'Lo ciclo, cho non ave altro diletto' -> 'Lo cielo, che non ave altro difetto'; \"ov1 è alcun\" -> \"ov'è alcun\"; 'no lo inferno' -> 'ne lo inferno'; 'gentil donna parerò' -> 'gentil donna parere'; 'onne lor penserò aghiaccia' -> 'onne lor pensero aghiaccia'; 'o qual soffrisse' -> 'e qual soffrisse'."
+    ]
+  },
+  {
+    "page": 350,
+    "qualityLevel": 1,
+    "correctionsCount": 15,
+    "notes": [
+      "Canzone continues (stanzas 3-4). Corrections against image: 'vertuto' -> 'vertute'; 'o sì l’umilia' -> 'e sì l’umilia'; 'cho non po' -> 'che non po'; '|>o si adorna e sì pura t »' -> 'po sì adorna e sì pura?»'; \"ne 'utenda\" -> \"ne 'ntenda\"; 'Oolor di perle' -> 'Color di perle'; 'con vene a donna' -> 'convene a donna'; 'ella ò quanto' -> 'ella è quanto'; 'i>or esemplo' -> 'per esemplo'; 'Do li occhi' -> 'De li occhi'; \"si clie'l cor\" -> \"sì che 'l cor\"; 'non poto alcun mirarla tiso' -> 'non pote alcun mirarla fiso'."
+    ]
+  },
+  {
+    "page": 351,
+    "qualityLevel": 1,
+    "correctionsCount": 6,
+    "notes": [
+      "Canzone's closing congedo stanza. Corrections: 'perdi'io t'ho allevata' -> \"perch'io t'ho allevata\"; \"eli' io son mandata\" -> \"ch'io son mandata\"; '(li cui laude' -> 'di cui laude'; \"so'adornata *\" -> \"so' adornata»\"; 'per via tostami' -> 'per via tostana'."
+    ]
+  },
+  {
+    "page": 352,
+    "qualityLevel": 1,
+    "correctionsCount": 14,
+    "notes": [
+      "Canzone congedo closes; the rest of the page is chapter XIX's own division of the canzone (its own text, not apparatus - Barbi's editorial paragraphing calls this 'La seconda comincia quivi...' analysis, part of Dante's own division-passages). Corrections: 'è lo intente trattato' -> 'è lo intento trattato'; 'quasi nna servitale' -> 'quasi una serviziale'; 'Canzone, io no che' -> 'Canzone, io so che'; ']>erchò io io voglio dire' -> 'e perchè io la voglio dire'; 'no la seconda dico' -> 'ne la seconda dico'; \"dico'a loro\" -> 'dico a loro'; 'la quarto: donne e donzelle' -> 'la quarta: donne e donzelle'; 'Questa seconda parto' -> 'Questa seconda parte'; 'cho ne la prima' -> 'che ne la prima'; 'ue la seconda dico' -> 'ne la seconda dico'; '(pianto da la parte' -> 'quanto da la parte'."
+    ]
+  },
+  {
+    "page": 353,
+    "qualityLevel": 1,
+    "correctionsCount": 8,
+    "notes": [
+      "Chapter XIX's division of the canzone continues (still Dante's own text, not apparatus). Corrections: 'quivi: IHoe di lei Amor' -> 'quivi: Dice di lei Amor'; 'De li occhi /tuoi' -> 'De li occhi suoi'; 'quale ò line d’amore' -> 'quale è fine d’amore'; 'fue line de li miei desiderii' -> 'fue fine de li miei desiderii'; '«ancella de l’altre' -> 'ancella de l’altre'; 'ultima parte ò lieve' -> 'ultima parte è lieve'; 'più minutò divisioni' -> 'più minute divisioni'."
+    ]
+  },
+  {
+    "page": 354,
+    "qualityLevel": 1,
+    "correctionsCount": 15,
+    "notes": [
+      "Closes chapter XIX and opens chapter XX (sonnet 'Amor e 'l cor gentil sono una cosa'). Corrections: stray mid-word period in 'chè .certo' removed; 's’elli a venisse' -> \"s'elli avenisse\"; 'alquanto di Volgata' -> 'alquanto divolgata'; 'pregare ine' -> 'pregare me'; duplicated 'io propuosi' -> 'propuosi' (no leading io, per image); \"e'1 cor gentil\" -> \"e 'l cor gentil\" (x2); 'razionai' -> 'razional'; 'donna pili' -> 'donna pui'; 'clic fa svegliar' -> 'che fa svegliar'; 'in dolina omo valente' -> 'in donna omo valente'; 'divide in duo' -> 'divide in due'."
+    ]
+  },
+  {
+    "page": 355,
+    "qualityLevel": 1,
+    "correctionsCount": 8,
+    "notes": [
+      "Closes chapter XX and opens chapter XXI (sonnet 'Ne li occhi porta la mia donna Amore'). Corrections: 'Jìieltate ap- .s parcy' -> 'Bieltate appare'; 'B allora dissi' -> 'E allora dissi'; 'mirabilomento operando' -> 'mirabilemente operando'; 'Nc li occhi porta' -> 'Ne li occhi porta'; stray dash inside the sonnet's first line removed; 'ogne penserò umile' -> 'ogne pensero umile'; \"dicer nò tenere\" -> \"dicer nè tenere\"; 'sì ò novo miracolo' -> 'sì è novo miracolo'."
+    ]
+  },
+  {
+    "page": 356,
+    "qualityLevel": 1,
+    "correctionsCount": 24,
+    "notes": [
+      "Closes chapter XXI and opens chapter XXII (death of Beatrice's father). Heavily garbled page; corrections against image include: 'buissima parte' -> 'bilissima parte'; 'sna bocca' -> 'sua bocca'; \"eh1 è quasi domandatrioe\" -> \"ch'è quasi domandatrice\"; 'od a la sequente' -> 'ed a la sequente'; 'ue la prima parte' -> 'ne la prima parte'; \"ue'loro cuori\" -> \"ne' loro cuori\"; \"ov'ella panna\" -> \"ov'ella passa\"; 'Polo scia (piando dico' -> 'Poscia quando dico'; 'detto è no la prima parte' -> 'detto è ne la prima parte'; 'due atti do la sua bocca' -> 'due atti de la sua bocca'; 'nò sua operazione' -> 'nè sua operazione'; 'negoe la morto a sè' -> 'negoe la morte a sè'; \"era'stato genitore\" -> 'era stato genitore'; 'quanti! si vedea' -> 'quanta si vedea'; 'gloria etternaie' -> 'gloria etternale'; \"coloro òlio rimangono\" -> 'coloro che rimangono'; 'sì intima ainistade' -> 'sì intima amistade'; 'buon iigliuolo' -> 'buon figliuolo'; 'altissimo grado di boutade' -> 'altissimo grado di bontade'; 'donna fuo amarissimamente' -> 'donna fue amarissimamente'; \"l'usanza do la sopradetta\" -> \"l'usanza de la sopradetta\"; \"s'aduuino a cotale\" -> \"s'adunino a cotale\"."
+    ]
+  },
+  {
+    "page": 357,
+    "qualityLevel": 1,
+    "correctionsCount": 16,
+    "notes": [
+      "Chapter XXII continues. Corrections: 'elio quale la mirasse' -> 'che quale la mirasse'; 'queste donile' -> 'queste donne'; 'a li mioi occhi' -> 'a li miei occhi'; 'audire ancho di lei' -> 'audire anche di lei'; \"ch'io ora in luogo\" -> \"ch'io era in luogo\"; \"eh'è qui piange\" -> \"ch'è qui piange\"; 'nò più nò meno' -> 'nè più nè meno'; 'non paro esso' -> 'non pare esso'; 'queate donne' -> 'queste donne'; 'Ondo io poi pensando' -> 'Onde io poi pensando'; 'ne lo quali pai-ole' -> 'ne le quali parole'; 'inteso avea da questo donne' -> 'inteso avea da queste donne'; \"o però cho volentieri\" -> \"e però che volentieri\"."
+    ]
+  },
+  {
+    "page": 358,
+    "qualityLevel": 1,
+    "correctionsCount": 7,
+    "notes": [
+      "Chapter XXII continues with the two sonnets 'Voi che portate' / 'Se' tu colui'. Corrections: 'die noi primo domando' -> 'che nel primo domando'; \"cli'io udio\" -> \"ch'io udio\"; \"Se'tu colui\" -> \"Se' tu colui\"; \"che *1 vostro colore\" -> \"che 'l vostro colore\"; 'simile f' -> 'simile?'; 'pianto Amore!' -> 'pianto Amore?'."
+    ]
+  },
+  {
+    "page": 359,
+    "qualityLevel": 1,
+    "correctionsCount": 16,
+    "notes": [
+      "Chapter XXII continues (both sonnets' division + the second sonnet 'Se' tu colui'). Corrections: 'lo veggio' -> 'Io veggio'; 'ne trienni' -> 'ne triema'; 'se vcgnono da lei' -> 'se vegnono da lei'; 'no la seconda' -> 'ne la seconda'; 'dinanzi a verno narrato' -> 'dinanzi avemo narrato'; \"c' bai trattato\" -> \"c'hai trattato\"; 'a nui ì' -> 'a nui?'; 'venir altrui f' -> 'venir altrui?'; 'Yedestù' -> 'Vedestù'; \"celai' la dolorosa mente!\" -> \"celar la dolorosa mente?\"; 'mai ue conforta' -> 'mai ne conforta'; \"V udimmo parlare\" -> \"l'udimmo parlare\"; \"Eli'ha nel viso\" -> \"Ell'ha nel viso\"; \"m'intrametto di uar-\" -> \"m'intrametto di nar-\"."
+    ]
+  },
+  {
+    "page": 360,
+    "qualityLevel": 1,
+    "correctionsCount": 10,
+    "notes": [
+      "Closes chapter XXII and opens chapter XXIII (Dante's illness / vision of Beatrice's death). Corrections: 'però lo distinguo' -> 'però le distinguo'; \"Eli1 ha nel riso\" -> \"Ell'ha nel viso\"; 'infermi tade' -> 'infermitade'; 'cbe me con venia staio' -> 'che me convenia stare'; 'dico clic ne lo nono' -> 'dico che ne lo nono'; 'intollerabilcmente' -> 'intollerabilemente'; 'a mo giunse' -> 'a me giunse'; 'uno penserò' -> 'uno pensero'; 'E quando oi pen-sato' -> 'E quando ei pensato'."
+    ]
+  },
+  {
+    "page": 361,
+    "qualityLevel": 1,
+    "correctionsCount": 22,
+    "notes": [
+      "Chapter XXIII continues (the great death-vision passage, canzone 'Donna pietosa' setup). Heavily garbled; corrections include: 'fra mo stesso' -> 'fra me stesso'; 'conveno cbe' -> 'convene che'; \"muoia*. B però\" -> \"muoia». E però\"; 'travagliare sì conio' -> 'travagliare sì come'; 'ed a iinaginare' -> 'ed a imaginare'; 'visi di donno scapigliate' -> 'visi di donne scapigliate'; \"E poi doj>o queste donne\" -> \"E poi dopo queste donne\"; \"Tn se'morto\" -> \"Tu se' morto\"; 'mi parca donne andare' -> 'mi parea donne andare'; 'lo solo oscurare' -> 'lo sole oscurare'; 'le stello si mostravano' -> 'le stelle si mostravano'; 'intaglimi alcuno amico' -> 'imaginai alcuno amico'; 'una ue-billetta bianchissima' -> 'una nebuletta bianchissima'; 'mi parca udire cho' -> 'mi parea udire che'; 'Osanna in exùebi*)' -> 'Osanna in excelsis;'; 'non mi parea udirò' -> 'non mi parea udire'; \"V'oro ò che mortai giace\" -> \"Vero è che morta giace\"."
+    ]
+  },
+  {
+    "page": 362,
+    "qualityLevel": 1,
+    "correctionsCount": 19,
+    "notes": [
+      "Chapter XXIII vision continues (Beatrice's death-bed, angels, 'O Beatrice'). Corrections: 'e fne sì torte' -> 'e fue sì forte'; 'con mio bianco velo' -> 'con uno bianco velo'; 'tanta nmilitade' -> 'tanta umilitade'; 'e dicca' -> 'e dicea'; \"non m7 essere villana, j>erò\" -> \"non m'essere villana, però\"; \"se'stata!\" -> \"se' stata!\"; 'le oorpora de li morti' -> 'le corpora de li morti'; 'sì forte era lamia ima-ginazione' -> 'sì forte era la mia imaginazione'; 'anima vilissima' -> 'anima bellissima'; 'come ò beato' -> 'come è beato'; 'onde laccendo lei partire' -> 'onde faccendo lei partire'; \"la quale er^ meco\" -> \"la quale era meco\"; 'san-gninitade congiunta' -> 'sanguinitade congiunta'; \"ch'eo volea dicero\" -> \"ch'eo volea dicere\"; 'con tutto cho io chiamasse' -> 'con tutto che io chiamasse'."
+    ]
+  },
+  {
+    "page": 363,
+    "qualityLevel": 1,
+    "correctionsCount": 15,
+    "notes": [
+      "Chapter XXIII continues into the opening of the canzone 'Donna pietosa e di novella etate'. Corrections: 'non ini poterò' -> 'non mi potero'; 'e avegna ehe io' -> 'e avegna che io'; stray apostrophe after 'diceano’' removed; \"cli'i'hoe avuto\" -> \"ch'i' hoe avuto\"; 'inftiio a la fine' -> 'infino a la fine'; 'dissi loro quello cho' -> 'dissi loro quello che'; \"ni'era adivenuto\" -> \"m'era adivenuto\"; 'mi parea clic fosse' -> 'mi parea che fosse'; \"novella etate1\" -> 'novella etate,'; \"età te,\" (canzone opening) -> 'etate,'; '«li gentilezze umane' -> 'di gentilezze umane'; \"pien di pietà te,\" -> 'pien di pietate,'; 'ascoltando lo parole vane' -> 'ascoltando le parole vane'."
+    ]
+  },
+  {
+    "page": 364,
+    "qualityLevel": 1,
+    "correctionsCount": 14,
+    "notes": [
+      "Canzone 'Donna pietosa' continues (stanzas 2-3). Corrections: 'sconfortof»' -> 'sconforte?»'; 'voce mia si dolorosa' -> 'voce mia sì dolorosa'; 'Deli, consoliam costui *' -> 'Deh, consoliam costui»'; 'nmilemente' -> 'umilemente'; 'vedesti!, che tu non hai valore ! »' -> \"vedestù, che tu non hai valore?»\"; \"vedea ?1 suo durar coni' à leggero\" -> \"vedea 'l suo durar com'è leggero\"; \"por che l'anima\" -> \"per che l'anima\"; 'dicea nel penserò' -> 'dicea nel pensero'; 'la mia donna inora' -> 'la mia donna mora'; 'smarrimento1 allora' -> 'smarrimento allora'; 'chiusi li ocelli vilmente' -> 'chiusi li occhi vilmente'."
+    ]
+  },
+  {
+    "page": 365,
+    "qualityLevel": 1,
+    "correctionsCount": 6,
+    "notes": [
+      "Canzone 'Donna pietosa' continues (short stanza). Corrections: 'spirti mioi, elio ciascun' -> 'spirti miei, che ciascun'; 'o poscia imaginando' -> 'e poscia imaginando'; 'cannosconza' -> 'cannoscenza'; 'visi di donno' -> 'visi di donne'; 'morrà ti' -> 'morràti' (spacing, matches the rhyme word)."
+    ]
+  },
+  {
+    "page": 366,
+    "qualityLevel": 1,
+    "correctionsCount": 16,
+    "notes": [
+      "Canzone 'Donna pietosa' continues (stanzas 4-5). Corrections: 'coso dubitose' -> 'cose dubitose'; 'vano imacinare' -> 'vano imaginare'; 'od esser mi parea' -> 'ed esser mi parea'; 'por via disciolte' -> 'per via disciolte'; 'qual lacrimando' -> 'qual lagrimando'; 'turbai* lo sole' -> 'turbar lo sole'; 'volando per Pare' -> \"volando per l'âre\"; 'Che fai! non sai novellai' -> 'Che fai? non sai novella?'; 'e vedea (cho parean' -> 'e vedea (che parean'; 'avean duvanti' -> 'avean davanti'; 'o se altro avesser dotto' -> 'e se altro avesser detto'; 'Amor : - Più noi ti colo' -> 'Amor: - Più nol ti celo'; 'nostra donna (die giace' -> 'nostra donna che giace'."
+    ]
+  },
+  {
+    "page": 367,
+    "qualityLevel": 1,
+    "correctionsCount": 8,
+    "notes": [
+      "Canzone 'Donna pietosa' closes (stanzas 6-7 + congedo), followed by its own division (chapter XXIII's text). Corrections: 'tonta nmiltà formata' -> \"tanta umiltà formata\"; 'consumato ogno duolo' -> 'consumato ogne duolo'; 'Questo canzono ha due parti' -> 'Questa canzone ha due parti'; \"d'nna vana fantasia\" -> \"d'una vana fantasia\"; 'I>er la mia fantasia' -> 'per la mia fantasia'; 'Eil intorno a ciò' -> 'Ed intorno a ciò'."
+    ]
+  },
+  {
+    "page": 368,
+    "qualityLevel": 1,
+    "correctionsCount": 14,
+    "notes": [
+      "Closes chapter XXIII and opens chapter XXIV (Giovanna/Primavera vision). Corrections: 'maro, lo ringrazio' -> 'maro, le ringrazio'; 'Voi mi Chiamante' -> 'Voi mi chiamaste'; 'sedendo io ixmsoso' -> 'sedendo io pensoso'; 'cosi come se io' -> 'così come se io'; 'pareami cbe lietamente' -> 'pareami che lietamente'; 'me parca avere' -> 'me parea avere'; 'per la sna nuova' -> 'per la sua nuova'; 'lo nomo di questa donna' -> 'lo nome di questa donna'; 'salvo che por la sua' -> 'salvo che per la sua'; \"chò io mossi\" -> \"chè io mossi\"; 'cioè prima vorrà lo die' -> 'cioè prima verrà lo die'; 'E so anche voli' -> 'E se anche voli'; \"nome Giovanna ò da quello\" -> \"nome Giovanna è da quello\"; 'Ego vox clamantin' -> 'Ego vox clamantis'."
+    ]
+  },
+  {
+    "page": 369,
+    "qualityLevel": 1,
+    "correctionsCount": 2,
+    "notes": [
+      "Chapter XXIV continues (sonnet 'Io mi sentì svegliar'). Corrections: 'tacendomi coite parole' -> 'tacendomi certe parole'; hyphenated 'cre-fi dendo' line-wrap garble -> 'credendo'. The poem itself was cleanly OCR'd."
+    ]
+  },
+  {
+    "page": 370,
+    "qualityLevel": 1,
+    "correctionsCount": 0,
+    "notes": [
+      "Only 3 lines of main text (start of the sonnet's division); the rest of the page is a very long apparatus footnote (excluded). Main text matches the image exactly, no corrections needed."
+    ]
+  },
+  {
+    "page": 371,
+    "qualityLevel": 1,
+    "correctionsCount": 6,
+    "notes": [
+      "Closes chapter XXIV and opens chapter XXV (Dante's rhetorical digression on personifying Love). Corrections: 'me parca cbe Amore' -> 'me parea che Amore'; 'questi lue alquanto' -> 'questi fue alquanto'; '(juivi: dicendo: Or penna' -> 'quivi: dicendo: Or pensa'; 'ue la seconda dico' -> 'ne la seconda dico'."
+    ]
+  },
+  {
+    "page": 372,
+    "qualityLevel": 1,
+    "correctionsCount": 3,
+    "notes": [
+      "Chapter XXV continues. Corrections: 'Dico anche di lui cho ridea' -> 'Dico anche di lui che ridea'; stray backslash after 'parlava' -> 'parlava;'; \"erano dicitori (l'amore\" -> \"erano dicitori d'amore\"."
+    ]
+  },
+  {
+    "page": 373,
+    "qualityLevel": 1,
+    "correctionsCount": 12,
+    "notes": [
+      "Chapter XXV continues (Dante's remarks on vernacular vs Latin poets). Corrections: 'questo cose trattavano' -> 'queste cose trattavano'; \"cbe apparirò\" -> \"che appariro\"; 'dire.per rima' -> 'dire per rima'; \"d'ooo e in quella\" -> \"d'oco e in quella\"; 'cose detto' -> 'cose dette'; 'dissero iu lingua' -> 'dissero in lingua'; 'si mosse però cho' -> 'si mosse però che'; 'E questo ò contra coloro' -> 'E questo è contra coloro'; '15 cho cotale modo' -> 'che cotale modo'; 'a li poeto sia conceduta' -> 'a li poete sia conceduta'; 'altro ehe jioete volgari' -> 'altro che poete volgari'."
+    ]
+  },
+  {
+    "page": 374,
+    "qualityLevel": 1,
+    "correctionsCount": 8,
+    "notes": [
+      "Chapter XXV continues (Virgil/Lucan/Horace citations). Corrections: 'conceduto ò a fi rimatori' -> 'conceduto è a li rimatori'; \"d'aprire por prosa\" -> \"d'aprire per prosa\"; Latin quote 'mi chi jnssa capessere fan est' -> 'michi jussa capessere fas est'; 'nel terzo do lo Eneida' -> 'nel terzo de lo Eneida'; 'debes cwilibus armis' -> 'debes civilibus armis'; \"parole d7 Orazio\" -> \"parole d'Orazio\"; 'Poetria: JHc michi' -> 'Poetria: Dic michi'."
+    ]
+  },
+  {
+    "page": 375,
+    "qualityLevel": 1,
+    "correctionsCount": 8,
+    "notes": [
+      "Chapter XXV closes (Ovid citation, Dante's closing remark on rhetorical justification). Corrections: 'virimi' -> 'virum'; \"libro o'ha nome\" -> \"libro c'ha nome\"; '(li questo mio libello' -> 'di questo mio libello'; 'non ue pigli alcuna' -> 'non ne pigli alcuna'; 'dico che nò li poete' -> 'dico che nè li poete'; 'però cho grande vergogna' -> 'però che grande vergogna'; 'di coloro rettori co' -> 'di colore rettorico'; 'quelli cho così rimano' -> 'quelli che così rimano'."
+    ]
+  },
+  {
+    "page": 376,
+    "qualityLevel": 1,
+    "correctionsCount": 15,
+    "notes": [
+      "Opens chapter XXVI (Beatrice's effect on those who see her). Corrections: \"grazia' de le genti, Mie quando\" -> 'grazia de le genti, che quando'; 'le i>ersone correano' -> 'le persone correano'; 'B quando ella fosse' -> 'E quando ella fosse'; 'nel cuore rii quello, cbe non ardia' -> 'nel cuore di quello, che non ardia'; 'molti, sì come esperti, ini potrebbero' -> 'molti, sì come esperti, mi potrebbero'; 'anzi è uno' (from 'any.i') -> 'anzi è uno'; \"E altri diceano: «Questa è ima maraviglia»\" -> \"«Questa è una maraviglia»\"; 'sae adoperare 1 »' -> 'sae adoperare!»'; 'tanto cho rid icore' -> 'tanto che ridicere'; 'nò alcuno era' -> 'nè alcuno era'; 'nel principio noi convenisse' -> 'nel principio nol convenisse'; 'ne lo quali io dessi' -> 'ne le quali io dessi'."
+    ]
+  },
+  {
+    "page": 377,
+    "qualityLevel": 1,
+    "correctionsCount": 15,
+    "notes": [
+      "Chapter XXVI's famous sonnet 'Tanto gentile e tanto onesta pare'. Corrections: \"quand7ella altrui\" -> \"quand'ella altrui\"; \"eh'ogne lingua,\" -> \"ch'ogne lingua\"; 'vestii ta' -> 'vestuta'; 'a miraeoi mostrare' -> 'a miracol mostrare'; 's) piacente' -> 'sì piacente'; 'ìi occhi' -> 'li occhi'; 'dolcezza al coro' -> 'dolcezza al core'; 'labbia si inova' -> 'labbia si mova'; \"che/Va dicendo a T anima: «Sospira*\" -> \"che va dicendo a l'anima: «Sospira»\"; 'sonetto è si piano' -> 'sonetto è sì piano'; 'bissando lui' -> 'lassando lui'; 'ciò c volendo' -> 'ciò e volendo'; 'chi ciò non vodea' -> 'chi ciò non vedea'."
+    ]
+  },
+  {
+    "page": 378,
+    "qualityLevel": 1,
+    "correctionsCount": 16,
+    "notes": [
+      "Chapter XXVI closes with sonnet 'Vede perfettamente onne salute' and its division; chapter XXVII opens (the never-finished canzone). Corrections: '«ua divisione' -> 'sua divisione'; 'quelle cbe vanno' -> 'quelle che vanno'; 'bieltate è (li tanta vertute' -> 'bieltate è di tanta vertute'; 'andar seco vestuto' -> 'andar seco vestute'; 'sola sò parer piacente' -> 'sola sè parer piacente'; 'clic non sospiri' -> 'che non sospiri'; 'sonetto ba tre parti' -> 'sonetto ha tre parti'; 'no la seconda dico' -> 'ne la seconda dico'; 'ultima parto si divide' -> 'ultima parte si divide'; \"operava ne le donne, ciò ò per loro\" -> \"operava ne le donne, ciò è per loro\"; 'no la sua presenzia' -> 'ne la sua presenzia'; 'mirabilemente ojierava' -> 'mirabilemente operava'; 'questi duo sonetti' -> 'questi due sonetti'; 'nel mio penserò' -> 'nel mio pensero'; 'dire parole, no le quali' -> 'dire parole, ne le quali'."
+    ]
+  },
+  {
+    "page": 379,
+    "qualityLevel": 1,
+    "correctionsCount": 7,
+    "notes": [
+      "Chapter XXVII's unfinished canzone 'Sì lungiamente m'ha tenuto Amore' (breaks off after one stanza, per Barbi's edition). Corrections: \"m* lia tenuto\" -> \"m'ha tenuto\"; 'a la sna segnoria' -> 'a la sua segnoria'; \"com'elli in'era forte\" -> \"com'elli m'era forte\"; \"dolcezza, clie'l viso\" -> \"dolcezza, che 'l viso\"; 'per darmi più salate' -> 'per darmi più salute'; \"e sì ò cosa umil, che noi si credo\" -> \"e sì è cosa umil, che nol si crede\"."
+    ]
+  },
+  {
+    "page": 380,
+    "qualityLevel": 1,
+    "correctionsCount": 1,
+    "notes": [
+      "Chapter XXVII's canzone breaks off unfinished after one stanza (confirmed: the source itself gives no more of it - Beatrice's death interrupts the writing, exactly as chapter XXVII's own text foreshadows); chapter XXVIII opens with the Latin Lamentations quotation 'Quomodo sedet sola civitas...' announcing her death. This page was unusually clean for a raw/unproofread page: only one correction found, 'anfcora' -> 'ancora'."
+    ]
+  },
+  {
+    "page": 381,
+    "qualityLevel": 1,
+    "correctionsCount": 9,
+    "notes": [
+      "Closes chapter XXVIII and opens chapter XXIX (the number nine digression). Corrections: 'per quello elio, trattando' -> 'per quello che, trattando'; 'a chi lo lite' -> 'a chi lo fae'; stray period after 'trattato .' removed; 'poi ir asegnerò' -> \"poi n'asegnerò\"; 'a noi ò Ottobre' -> 'a noi è Ottobre'; 'cioè do li anni Domini' -> 'cioè de li anni Domini'; 'numero novo volte' -> 'numero nove volte'; 'ed olla fue' -> 'ed ella fue'; 'in tauto amico' -> 'in tanto amico'."
+    ]
+  },
+  {
+    "page": 382,
+    "qualityLevel": 1,
+    "correctionsCount": 10,
+    "notes": [
+      "Closes chapter XXIX and opens chapter XXX (letter to the princes of the earth, quoting the Lamentations opening in Latin). Corrections: 'ragione (li ciò' -> 'ragione di ciò'; 'litudine dico, c ciò' -> 'litudine dico, e ciò'; 'però cbe sanza numero' -> 'però che sanza numero'; 'vedemo numi lestamente' -> 'vedemo manifestamente'; 'ma questo è quella' -> 'ma questa è quella'; 'Quonvodo sedet sola civttas' -> 'Quomodo sedet sola civitas'; \"io V abbia allegato\" -> \"io l'abbia allegato\"; 'cscusomcne, però cho' -> 'escusomene, però che'; 'scrivere altro clic' -> 'scrivere altro che'."
+    ]
+  },
+  {
+    "page": 383,
+    "qualityLevel": 1,
+    "correctionsCount": 13,
+    "notes": [
+      "Opens chapter XXXI (canzone 'Li occhi dolenti per pietà del core' and its division). Corrections: 'e tauto affaticati' -> 'e tanto affaticati'; 'propuosi di faro una canzone' -> 'propuosi di fare una canzone'; 'de Tanima mia' -> \"de l'anima mia\"; 'Io dico cho questa' -> 'Io dico che questa'; \"nJ è Beatrice\" -> \"n'è Beatrice\"; 'io voglio diro' -> 'io voglio dire'; 'la terza quivi: Dannami angoscia' -> 'la terza quivi: Dannomi angoscia'; '(lisignandole a quali donne' -> 'disignandole a quali donne'; 'e steasi con loro' -> 'e stessi con loro'; 'Li ocelli dolenti' -> 'Li occhi dolenti'; stray extra comma after 'sofferta pena,,' removed; 'remasi ornai' -> 'remasi omai'; \"convenemi parlai* traendo guai\" -> \"convenemi parlar traendo guai\"."
+    ]
+  },
+  {
+    "page": 384,
+    "qualityLevel": 1,
+    "correctionsCount": 14,
+    "notes": [
+      "Canzone 'Li occhi dolenti' continues (stanzas 2-4). Corrections: 'B perché me ricorda' -> 'E perché me ricorda'; 'mentre che vivi a,' -> 'mentre che vivia,'; \"si nè gita in ciel\" -> \"si n'è gita in ciel\"; \"in Paltò cielo\" -> \"in l'alto cielo\"; 'sua gran benigni tate' -> 'sua gran benignitate'; 'cliè luce de la sua' -> 'chè luce de la sua'; \"fez inaia vigliar Petterno sire\" -> \"fe' maravigliar l'etterno sire\"; 'chiamai- tanta salute' -> 'chiamar tanta salute'; \"perchè vcdea ch'està vita noiosa\" -> \"perchè vedea ch'esta vita noiosa\"; 'Pan ima gentile' -> \"l'anima gentile\"; \"ed òsi gloriosa\" -> \"ed èsi gloriosa\"; \"eh' entrar no i puote\" -> \"ch'entrar no i puote\"."
+    ]
+  },
+  {
+    "page": 385,
+    "qualityLevel": 1,
+    "correctionsCount": 1,
+    "notes": [
+      "Canzone 'Li occhi dolenti' stanza 4 closes (only 4 lines of main text; rest of page is apparatus discussing the doglia/voglia textual variant). Correction: 'nel penserò alcuna volta' -> 'nel pensero alcuna volta'."
+    ]
+  },
+  {
+    "page": 386,
+    "qualityLevel": 1,
+    "correctionsCount": 6,
+    "notes": [
+      "Canzone 'Li occhi dolenti' closes (final stanza + congedo, chapter XXXI's canzone). Corrections: \"quando 'l penserò ne la mente\" -> \"quando 'l pensero ne la mente\"; \"maginar mi ven bon fiso\" -> \"maginar mi ven ben fiso\"; \"ch'io ini riscuoto\" -> \"ch'io mi riscuoto\"; \"per dolor eli'i'sento\" -> \"per dolor ch'i' sento\"; 'e sì tatto divento' -> 'e sì fatto divento'; \"dico: «Or se'tu morta!*\" -> \"dico: «Or se' tu morta?»\"."
+    ]
+  },
+  {
+    "page": 387,
+    "qualityLevel": 1,
+    "correctionsCount": 9,
+    "notes": [
+      "Canzone 'Li occhi dolenti' congedo/final stanzas ('Pianger di doglia...', 'Pietosa mia canzone...'), closing chapter XXXI's canzone. Corrections: \"sospirar cP angoscia\" -> \"sospirar d'angoscia\"; \"ne ^crescerebbe ... m'audesso\" -> \"ne 'ncrescerebbe ... m'audesse\"; 'lingua uo ò che dieer' -> 'lingua no è che dicer'; \"la quale ò sì 'nvilita\" -> \"la quale è sì 'nvilita\"; \"Ma qual eh' io sia\" -> \"Ma qual ch'io sia\"; 'c ritraeva le donne' -> 'e ritruova le donne'; \"se'figliuola di trestizia\" -> \"se' figliuola di trestizia\"."
+    ]
+  },
+  {
+    "page": 388,
+    "qualityLevel": 1,
+    "correctionsCount": 9,
+    "notes": [
+      "Opens chapter XXXII (Beatrice's brother asks for verses, sonnet 'Venite a intender li sospiri miei'). Corrections: 'venne n me uno. lo' -> 'venne a me uno, lo'; \"presso Pera\" -> \"presso l'era\"; \"paresse che dicesse d'un* altra\" -> \"paresse che dicesse d'un'altra\" (fixed 'aeciò' -> 'acciò' too); 'di lare ciò' -> 'di fare ciò'; 'mi dolo mandava' -> 'mi domandava'; 'sonetto, die comincia' -> 'sonetto, che comincia'; 'narro do la mia misera' -> 'narro de la mia misera'; 'quivi: li quai di sconsolati' -> 'quivi: li quai disconsolati'; \"e s'e'non fosser\" -> \"e s'e' non fosser\"."
+    ]
+  },
+  {
+    "page": 389,
+    "qualityLevel": 1,
+    "correctionsCount": 3,
+    "notes": [
+      "Sonnet 'Venite a intender' second quatrain (only 4 lines of main text; rest is apparatus). Corrections: 'però ehe gli occhi' -> 'però che gli occhi'; 'molte flate più' -> 'molte fiate più'; 'che sfogavsser lo cor' -> 'che sfogasser lo cor'."
+    ]
+  },
+  {
+    "page": 390,
+    "qualityLevel": 1,
+    "correctionsCount": 2,
+    "notes": [
+      "Sonnet 'Venite a intender' closes (6 lines; rest of page is a long apparatus footnote on 'reo'). Corrections: \"che si n7è gita\" -> \"che si n'è gita\"; 'de la sua vertuto' -> 'de la sua vertute'."
+    ]
+  },
+  {
+    "page": 391,
+    "qualityLevel": 1,
+    "correctionsCount": 16,
+    "notes": [
+      "Opens chapter XXXIII (second sonnet for Beatrice's brother, and the canzone 'Quantunque volte'). Corrections: '(letto oi questo sonetto' -> 'detto ei questo sonetto'; \"eh' io li dessi\" -> \"ch'io li dessi\"; 'due stanzio d’una canzone' -> 'due stanzie d’una canzone'; \"l'altra por me\" -> \"l'altra per me\"; \"per ima persona detta\" -> \"per una persona detta\"; 'vede bene cho diverse' -> 'vede bene che diverse'; \"l'ima non chiama\" -> \"l'una non chiama\"; 'io apparo manifestamente' -> 'io appare manifestamente'; \"cioò no l'altra\" -> \"cioè ne l'altra\"; \"l'una de lo quali\" -> \"l'una de le quali\"; \"intorno'l cor m'asembra\" -> \"intorno 'l cor m'asembra\"; 'chè non teli vai?' -> 'chè non ten vai?'; \"nel secol, cho t'ò già\" -> \"nel secol, che t'è già\"."
+    ]
+  },
+  {
+    "page": 392,
+    "qualityLevel": 1,
+    "correctionsCount": 23,
+    "notes": [
+      "Closes chapter XXXIII's canzone and opens chapter XXXIV (anniversary of Beatrice's death, sonnet 'Era venuta'). Corrections: \"Ond7 io chiamo\" -> \"Ond'io chiamo\"; \"e dico: «Vieni a me* con tanto amore\" -> \"e dico: «Vieni a me» con tanto amore\"; 'a lei si volsor tutti' -> 'a lei si volser tutti'; 'da la sna crudelitate' -> 'da la sua crudelitate'; \"per cho 'l piacere\" -> \"per che 'l piacere\"; 'per lo cielo spando' -> 'per lo cielo spande'; 'luco d’amor' -> 'luce d’amor'; \"maravigliar, sì v'ò gentile\" -> \"maravigliar, sì v'è gentile\"; \"l'anno cho questa donna\" -> \"l'anno che questa donna\"; 'c vidi lungo mo uomini ... di faro onore' -> 'e vidi lungo me uomini ... di fare onore'; 'secondo che mo fu detto' -> 'secondo che me fu detto'; \"anzi che io 1110 ne accorgesse\" -> \"anzi che io me ne accorgesse\"; 'Ondo partiti costoro' -> 'Onde partiti costoro'; 'disegnare figuro d’angeli' -> 'disegnare figure d’angeli'; 'facccendo ciò, mi venne uno penserò di diro parolo' -> 'faccendo ciò, mi venne uno pensero di dire parole'; 'quasi per annovaie' -> 'quasi per annovale'; 'questo sonetto ha tre parti: no' -> 'questo sonetto ha tre parti: ne'.",
+      "Residual-error audit: \"spiritai bellezza\" -> \"spirital bellezza\" (scan; a hand-transcription slip that copied the OCR i-for-l)."
+    ]
+  },
+  {
+    "page": 393,
+    "qualityLevel": 1,
+    "correctionsCount": 16,
+    "notes": [
+      "Chapter XXXIV's division and BOTH versions of the sonnet 'Era venuta ne la mente mia' (Barbi's edition preserves two alternate openings, 'Primo cominciamento' / 'Secondo cominciamento', confirmed by the source's own headings). Corrections: 'no la seconda dico' -> 'ne la seconda dico'; 'de gli ottetti d’Amore' -> 'de gli effetti d’Amore'; 'Piangendo uscitali for. Questa parto' -> 'Piangendo uscivan for. Questa parte'; \"comincia quivi: Ma tjmi\" -> \"comincia quivi: Ma quei\"; \"e ciò non dico ne V altro\" -> \"e ciò non dico ne l'altro\"; 'Era venuta no la mente mia' -> 'Era venuta ne la mente mia'; \"altissimo signoro\" -> \"altissimo signore\"; \"noi ciel de l'umiltate, ov'ò Maria\" -> \"nel ciel de l'umiltate, ov'è Maria\"; 'donna gentil cui piango Amore' -> 'donna gentil cui piange Amore'; \"vi trasso a riguardar\" -> \"vi trasse a riguardar\"; 'nel destrutto coro' -> 'nel destrutto core'; \"a'sospiri: «Andate foro»\" -> \"a' sospiri: «Andate fore»\"; 'Piangendo nscivan for' -> 'Piangendo uscivan for'; 'voce che sovente mona' -> 'voce che sovente mena'."
+    ]
+  },
+  {
+    "page": 394,
+    "qualityLevel": 1,
+    "correctionsCount": 9,
+    "notes": [
+      "Opens chapter XXXV (the pitying donna gentile at the window, sonnet 'Videro li occhi miei'). Corrections: 'mi laccano parere' -> 'mi faceano parere'; 'di loro conilo passione altrui' -> 'di loro compassione altrui'; 'ne lo (piale io parlasse' -> 'ne lo quale io parlasse'; 'narrato ò in questa ragione' -> 'narrato è in questa ragione'; 'Videro li occhi mici quanta piotate' -> 'Videro li occhi miei quanta pietate'; 'E tolsinii dinanzi a voi' -> 'E tolsimi dinanzi a voi'; \"dicea poscia no l'anima trista\" -> \"dicea poscia ne l'anima trista\"; 'mi face andai* così piangendo' -> 'mi face andar così piangendo'."
+    ]
+  },
+  {
+    "page": 395,
+    "qualityLevel": 1,
+    "correctionsCount": 12,
+    "notes": [
+      "Opens chapter XXXVI (sonnet 'Color d’amore e di pietà sembianti'). Corrections: 'A venne poi olio là' -> 'Avenne poi che là'; \"tacca d'una vista\" -> \"facea d'una vista\"; 'molte Hate mi ricordava' -> 'molte fiate mi ricordava'; 'non potendo lacrimare' -> 'non potendo lagrimare'; 'la quale parea cbe' -> 'la quale parea che'; 'io ò piano sanza dividerlo' -> 'è piano sanza dividerlo'; \"j>er la sua precedente ragione\" -> \"per la sua precedente ragione\"; \"Oolor d'amore\" -> \"Color d'amore\"; 'viso di donna, por veder' -> 'viso di donna, per veder'; 'sì die per voi' -> 'sì che per voi'; \"pianger eh'elli hanno\" -> \"pianger ch'elli hanno\"."
+    ]
+  },
+  {
+    "page": 396,
+    "qualityLevel": 1,
+    "correctionsCount": 3,
+    "notes": [
+      "Opens chapter XXXVII (Dante berates his own eyes for being drawn to the donna gentile). Corrections: 'onde inulte volte' -> 'onde molte volte'; 'nel mio penserò' -> 'nel mio pensero'; 'fate, cliò io la vi pur' -> 'fate, chè io la vi pur'."
+    ]
+  },
+  {
+    "page": 397,
+    "qualityLevel": 1,
+    "correctionsCount": 10,
+    "notes": [
+      "Chapter XXXVII's sonnet 'L'amaro lagrimar che voi faceste'. Corrections: 'a li miei ocelli' -> 'a li miei occhi'; \"e li sospiri m7 assalivano\" -> \"e li sospiri m'assalivano\"; 'cbe questa battaglia' -> 'che questa battaglia'; '1/ amaro lacrimar' -> \"L'amaro lagrimar\"; 'mio cuore iu me medesimo' -> 'mio cuore in me medesimo'; 'quivi: Coni dice' -> 'quivi: Così dice'; 'de la piotate' -> 'de la pietate'; \"sMo fosse dal mio lato\" -> \"s'io fosse dal mio lato\"; \"eh' i' non ven disturbasse\" -> \"ch'i' non ven disturbasse\"; 'M inombrandovi colei' -> 'membrandovi colei'."
+    ]
+  },
+  {
+    "page": 398,
+    "qualityLevel": 1,
+    "correctionsCount": 8,
+    "notes": [
+      "Closes chapter XXXVII's sonnet and opens chapter XXXVIII (inner temptation toward the donna gentile continues). Corrections: 'Voi non dovreste mai, Re non per morte' -> 'Voi non dovreste mai, se non per morte'; \"donna, cli'ò morta\" -> \"donna, ch'è morta\"; \"dice *1 meo core\" -> \"dice 'l meo core\"; 'che molte volte no pensava' -> 'che molte volte ne pensava'; 'che penserò è questo' -> 'che pensero è questo'; \"altro pensare!»\" -> \"altro pensare?»\"; 'rilevava un altro penserò' -> 'rilevava un altro pensero'; \"Or tu se'stato\" -> \"Or tu se' stato\"."
+    ]
+  },
+  {
+    "page": 399,
+    "qualityLevel": 1,
+    "correctionsCount": 13,
+    "notes": [
+      "Chapter XXXVIII continues (sonnet 'Gentil pensero, che parla di vui' and its division). Corrections: 'amaritudine !' -> 'amaritudine?'; 'uno apiramento d’Amore' -> 'uno spiramento d’Amore'; \"mostrata *\" -> \"mostrata»\"; 'comincia: Gentil penserò' -> 'comincia: Gentil pensero'; 'chè por altro' -> 'chè per altro'; 'In questo sonotto fo' -> 'In questo sonetto fo'; 'contra quella do li occhi, e ciò paro contrario' -> 'contra quella de li occhi, e ciò pare contrario'; \"intendo j>er lo appetito\" -> \"intendo per lo appetito\"; 'di vedere.costei' -> 'di vedere costei'; 'ne la seconda dic-o come' -> 'ne la seconda dico come'; 'Gentil penserò, che parla' -> 'Gentil pensero, che parla'; 'sen vene a dimorai* meco' -> 'sen vene a dimorar meco'."
+    ]
+  },
+  {
+    "page": 400,
+    "qualityLevel": 1,
+    "correctionsCount": 15,
+    "notes": [
+      "Closes chapter XXXVIII's sonnet and opens chapter XXXIX (vision of Beatrice in crimson recalls Dante). Corrections: ']>ossente' -> 'possente'; 'star con nuit»' -> 'star con nui?»'; 'spiri tei novo' -> 'spiritel novo'; 'con quello vestimenta' -> 'con quelle vestimenta'; 'a pentere do lo desiderio' -> 'a pentere de lo desiderio'; 'cuore, cho li sospiri' -> 'cuore, che li sospiri'; 'però cho tutti quasi' -> 'però che tutti quasi'; 'lo nomo di quella' -> 'lo nome di quella'; 'avea in sò alcuno penserò, eli’ io' -> \"avea in sè alcuno pensero, ch'io\"; 'racceudimento de’sospiri' -> 'raccendimento de’ sospiri'; 'lagrimare iu guisa cho li miei' -> 'lagrimare in guisa che li miei'; 'cho per lo lungo continuare' -> 'che per lo lungo continuare'."
+    ]
+  },
+  {
+    "page": 401,
+    "qualityLevel": 1,
+    "correctionsCount": 8,
+    "notes": [
+      "Chapter XXXIX continues, introducing the sonnet 'Lasso! per forza di molti sospiri'. Corrections: 'luoro degnamente guiderdonati' -> 'fuoro degnamente guiderdonati'; 'non potere mirare persona' -> 'non potero mirare persona'; 'tentazione paresse distratto, Hi che' -> 'tentazione paresse distrutto, sì che'; 'non potessero iuducere le rimate paiole' -> 'non potessero indurre le rimate parole'; 'e dissi « bisso » in quanto' -> 'e dissi «lasso» in quanto'.",
+      "Residual-error audit: hand-transcription had \"indurre\"; scan reads \"inducere le rimate parole\" - corrected."
+    ]
+  },
+  {
+    "page": 402,
+    "qualityLevel": 1,
+    "correctionsCount": 15,
+    "notes": [
+      "Closes chapter XXXIX's sonnet and opens chapter XL (pilgrims passing through Florence, sonnet 'Deh peregrini' setup). Corrections: 'sonetto non (livido, però che assai lo mapifeeta' -> 'sonetto non divido, però che assai lo manifesta'; 'di lacrimare e di mostrar' -> 'di lagrimare e di mostrar'; \"piangon sì, eh' Amore\" -> \"piangon sì, ch'Amore\"; 'diventali ne lo cor' -> 'diventan ne lo cor'; \"eh'Amor vi tramortisce, si lien dole\" -> \"ch'Amor vi tramortisce, sì lien dole\"; \"però eh7 elli hanno\" -> \"però ch'elli hanno\"; 'o de la morte sua' -> 'e de la morte sua'; 'questa tabulazione avenne' -> 'questa tribulazione avenne'; 'benedetta la quale,«Tesa Cristo' -> 'benedetta la quale Jesu Cristo'; 'quasi mezzo do la cittade' -> 'quasi mezzo de la cittade'; 'nacque e vivotte e inorio' -> 'nacque e vivette e morio'."
+    ]
+  },
+  {
+    "page": 403,
+    "qualityLevel": 1,
+    "correctionsCount": 17,
+    "notes": [
+      "Chapter XL continues (Dante's imagined address to the pilgrims, sonnet 'Deh peregrini che pensosi andate' setup). Corrections: 'li loro incisori sono d?altre cose' -> 'li loro penseri sono d’altre cose'; 'conoscemo»* Poi dicea' -> 'conoscemo». Poi dicea'; 'fra mo medesimo: « Jo so' -> 'fra me medesimo: «Io so'; '« So io li po-tesse' -> '«Se io li potesse'; \"anzi eh'elli uscissero\" -> \"anzi ch'elli uscissero\"; 'Ondo, passati costoro' -> 'Onde, passati costoro'; 'mia veduta-, propuosi' -> 'mia veduta, propuosi'; 'ne lo «piale io manifestasse' -> 'ne lo quale io manifestasse'; 'peregrini che pensosi andato' -> 'peregrini che pensosi andate'; \"dissi «peregrini *\" -> \"dissi «peregrini»\"; 'éigmficazione del vocabolo; chò peregrini' -> 'significazione del vocabulo; chè peregrini'; 'in largo, iu quanto' -> 'in largo, in quanto'; \"verso la casa di sa'Ja-\" -> \"verso la casa di sa' Ja-\"."
+    ]
+  },
+  {
+    "page": 404,
+    "qualityLevel": 1,
+    "correctionsCount": 8,
+    "notes": [
+      "Chapter XL closes (explains palmieri/peregrini/romei) and gives the opening of sonnet 'Deh peregrini che pensosi andate'. Corrections: 'da sapere cbe in tre modi' -> 'da sapere che in tre modi'; 'mano propriamente lo genti' -> 'mano propriamente le genti'; 'chiamanti palmieri' -> 'chiamansi palmieri'; \"sepulturadi sa'Jacopo\" -> \"sepultura di sa' Jacopo\"; 'fne più lontana' -> 'fue più lontana'; 'cbiamansi romei' -> 'chiamansi romei'; 'peregrini che pensosi andato' -> 'peregrini che pensosi andate'."
+    ]
+  },
+  {
+    "page": 405,
+    "qualityLevel": 1,
+    "correctionsCount": 3,
+    "notes": [
+      "Sonnet 'Deh peregrini' closes chapter XL. Corrections: 'l>er lo suo mezzo' -> 'per lo suo mezzo'; 'cor de? sospiri' -> \"cor de' sospiri\"; \"EU'ha perduta\" -> \"Ell'ha perduta\"."
+    ]
+  },
+  {
+    "page": 406,
+    "qualityLevel": 1,
+    "correctionsCount": 13,
+    "notes": [
+      "Opens chapter XLI (two ladies ask for verses, sonnet 'Oltre la spera' and its 5-part division). Corrections: 'a me predando che*' -> 'a me pregando che'; 'queste mio paróle rimate' -> 'queste mie parole rimate'; 'onde io,.pensando' -> 'onde io, pensando'; 'ha in sò cinque parti' -> 'ha in sè cinque parti'; 'primo penserò, nominandolo ... d?alcuno' -> \"primo pensero, nominandolo ... d'alcuno\"; 'lo mio penserò saie ne la qualitade' -> 'lo mio pensero sale ne la qualitade'; \"l'occhio del>ole a lo sole\" -> \"l'occhio debole a lo sole\"; 'lo penserò mi trae' -> 'lo pensero mi trae'; \"tutto è lo cotale pensare de la mia donna, però eh' io sento\" -> \"tutto è lo cotale pensare de la mia donna, però ch'io sento\"; 'nel mio penserò: e nel fine' -> 'nel mio pensero: e nel fine'."
+    ]
+  },
+  {
+    "page": 407,
+    "qualityLevel": 1,
+    "correctionsCount": 14,
+    "notes": [
+      "Closes chapter XLI (sonnet 'Oltre la spera che più larga gira') and opens chapter XLII (the final mirabile visione). Corrections: 'donne mie caro' -> 'donne mie care'; 'quivi: intelli-gema nova' -> 'quivi: intelligenza nova'; \"Quanti' elli è giunto\" -> \"Quand'elli è giunto\"; 'quivi: Yedela tal' -> 'quivi: Vedela tal'; \"passa'l sospiro\" -> \"passa 'l sospiro\"; \"che 1'Amore\" -> \"che l'Amore\"; 'e luce si, che' -> 'e luce sì, che'; \"Vedala tal, che quando'l mi ridice\" -> \"Vedela tal, che quando 'l mi ridice\"; \"sì eli' io lo 'ntendo ben\" -> \"sì ch'io lo 'ntendo ben\"; 'apparve a me unamirabile visione' -> 'apparve a me una mirabile visione'; 'intino a tanto' -> 'infino a tanto'; \"posso, si com'ella sae\" -> \"posso, sì com'ella sae\"."
+    ]
+  },
+  {
+    "page": 408,
+    "qualityLevel": 1,
+    "correctionsCount": 8,
+    "notes": [
+      "FINAL page of the Vita Nuova text proper: chapter XLII's closing paragraph, ending with the Latin doxology 'qui est per omnia secula benedictus.' (confirmed against the image - the canonical ending of the work). Below this on the page, faint bleed-through of the NEXT page's apparatus is visible along with the start of the book's own back-matter index ('Prefazione ...'), confirming the reading text ends here. Corrections: 'sporo eli dicer di loi' -> 'spero di dicer di lei'; 'quello elio tifai non fuo' -> 'quello che mai non fue'; 'dotto d’alcuna' -> 'detto d’alcuna'; 'colui che è feire de la cortesia' -> 'colui che è sire de la cortesia'; 'cbe la mia anima so no i>o8sa gire' -> 'che la mia anima se ne possa gire'; 'colui qui est per omnia secala benedtitòus,' -> 'colui qui est per omnia secula benedictus.'."
+    ]
+  },
+  {
+    "page": 409,
+    "qualityLevel": 1,
+    "correctionsCount": 0,
+    "notes": [
+      "This page is the book's own INDICE (table of contents for Barbi's front matter: Prefazione, Introduzione Cap. I-V, Appendice), confirmed by direct inspection of the image - not part of Dante's Vita Nuova text at all. No reading-text content on this page; correctly excluded from the imported work (contributes 0 characters). This is the last page of the 307-409 range and completes the 103-page review."
+    ]
+  }
+]

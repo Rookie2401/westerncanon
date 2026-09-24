@@ -1,0 +1,97 @@
+[
+  {
+    "find": "Amor che neUa mente^ etc.",
+    "replace": "Amor che nella mente, etc.",
+    "note": "OCR misread italic title words nella/mente and comma"
+  },
+  {
+    "find": "of. »See its first stanza in Appendix 11.",
+    "replace": "of. See its first stanza in Appendix II.",
+    "note": "stray OCR character before See; roman numeral II misread as digits 11"
+  },
+  {
+    "find": "36 fF.",
+    "replace": "36 ff.",
+    "note": "OCR misread ff. abbreviation"
+  },
+  {
+    "find": "52. A grciit poem^ i.e. a canzone.",
+    "replace": "52. A great poem, i.e. a canzone.",
+    "note": "OCR misread great and comma"
+  },
+  {
+    "find": "65. I'osiiii, etc. Translated, Con-vivlo, page 404.",
+    "replace": "65. Poscia, etc. Translated, Convivio, page 404.",
+    "note": "OCR misread italic Poscia and Convivio"
+  },
+  {
+    "find": "Sec- first stanza in Appendix II. below.",
+    "replace": "See first stanza in Appendix II. below.",
+    "note": "OCR misread See"
+  },
+  {
+    "find": "•72. The sentence inchuled in lines 69-72 (Oxford",
+    "replace": "72. The sentence included in lines 69-72 (Oxford",
+    "note": "stray bullet character and misread included"
+  },
+  {
+    "find": "[Rhyme in relation to the arranp;ement of the parts",
+    "replace": "[Rhyme in relation to the arrangement of the parts",
+    "note": "OCR misread arrangement"
+  },
+  {
+    "find": "of tiie stanza.]",
+    "replace": "of the stanza.]",
+    "note": "OCR misread the"
+  },
+  {
+    "find": "relation of the Of\nrhymes, not [hov/cvcrj in any way treating",
+    "replace": "relation of the\nrhymes, not [however] in any way treating",
+    "note": "removed leaked margin-caption word Of at line edge; fixed misread [however]"
+  },
+  {
+    "find": "the special ^^^^^^\ntreatment of them (/rV) till afterwards, v/hcn we",
+    "replace": "the special\ntreatment of them (sic) till afterwards, when we",
+    "note": "removed garbled leftover margin-caption fragment (stanza); fixed (sic) and when"
+  },
+  {
+    "find": "[lOj ; and Arnaut",
+    "replace": "[10]; and Arnaut",
+    "note": "OCR misread bracketed line number [10]"
+  },
+  {
+    "find": "* Sim f OS yhnors dc jot Jonar ; ' ^",
+    "replace": "'Sim fos Amors de joi donar;' 1",
+    "note": "OCR badly misread Provençal quotation and footnote marker"
+  },
+  {
+    "find": "and we say ; * yll poco ^'lorno.*",
+    "replace": "and we say: 'Al poco giorno.'",
+    "note": "OCR misread quotation title and punctuation"
+  },
+  {
+    "find": "Another is the stan/a all of whose lines give",
+    "replace": "Another is the stanza all of whose lines give",
+    "note": "OCR misread stanza"
+  },
+  {
+    "find": "here it is jilainly unneces-",
+    "replace": "here it is plainly unneces-",
+    "note": "OCR misread plainly"
+  },
+  {
+    "find": "sary to seek for any arrangement [of rhymes]].",
+    "replace": "sary to seek for any arrangement [of rhymes].",
+    "note": "removed duplicated closing bracket"
+  },
+  {
+    "find": "^* If love were as bountiful in bestowing joy upon",
+    "replace": "1 'If love were as bountiful in bestowing joy upon",
+    "note": "OCR misread footnote marker and opening quote"
+  },
+  {
+    "find": "a/r.-ction].'",
+    "replace": "affection].'",
+    "note": "OCR misread affection"
+  }
+]

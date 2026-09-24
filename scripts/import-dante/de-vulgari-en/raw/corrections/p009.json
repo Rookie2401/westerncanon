@@ -1,0 +1,157 @@
+[
+  {
+    "find": "ever gazlnj:^ into tliis mirror, sec, am! tlicrcfore know,",
+    "replace": "ever gazing into this mirror, see, and therefore know,",
+    "note": "OCR misread 'gazing'/'this'/'see'/'and'/'therefore'"
+  },
+  {
+    "find": "all thinj^fi. This iiica runs throiij^li the l\\iiijJiio (f.t^.,",
+    "replace": "all things. This idea runs through the Paradiso (e.g.,",
+    "note": "OCR misread 'things'/'idea'/'runs'/'through'/'Paradiso'/'e.g.'"
+  },
+  {
+    "find": "XI. 19-xi ; XV. 61-63;.",
+    "replace": "XI. 19-21 ; XV. 61-63).",
+    "note": "OCR misread the line number '21'; trailing ';.' should be ')."
+  },
+  {
+    "find": "26. i.e. ' They anticipated tlie divine solicitude for",
+    "replace": "26. i.e. ' They anticipated the divine solicitude for",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "tlieir wcU-bciiij^. ' Tlie cxj^rcssion 'divine care*",
+    "replace": "their well-being.' The expression 'divine care'",
+    "note": "OCR misread 'their'/'well-being'/'The'/'expression'; trailing asterisk should be a closing quote"
+  },
+  {
+    "find": "appears to be used in a prcj;nant sense as meaning",
+    "replace": "appears to be used in a pregnant sense as meaning",
+    "note": "OCR misread 'pregnant'"
+  },
+  {
+    "find": "'Tlie time api)ointed l)y God's providence.* See",
+    "replace": "'The time appointed by God's providence.' See",
+    "note": "OCR misread 'The'/'appointed'/'by'; trailing asterisk should be a closing quote"
+  },
+  {
+    "find": "PuraJiso , XiX. .{.8//.",
+    "replace": "Paradiso, XIX. 48 n.",
+    "note": "OCR misread 'Paradiso'/'XIX'/'48 n.'"
+  },
+  {
+    "find": "31. St Thomas {Swnma Theol., part I., question 56,",
+    "replace": "31. St Thomas (Summa Theol., part I., question 56,",
+    "note": "curly brace should be a parenthesis; OCR misread 'Summa'"
+  },
+  {
+    "find": "article z) discusses t!ie question wliether one angel",
+    "replace": "article 2) discusses the question whether one angel",
+    "note": "OCR misread the article number '2', 'the', 'whether'"
+  },
+  {
+    "find": "can know anotlier, and tiecides it in the aflirmative.",
+    "replace": "can know another, and decides it in the affirmative.",
+    "note": "OCR misread 'another'/'decides'/'affirmative'"
+  },
+  {
+    "find": "He holds tiiat the angels are distinj^uish-ed from one",
+    "replace": "He holds that the angels are distinguished from one",
+    "note": "OCR misread 'that'/'distinguished' (mid-word garbling, not a genuine hyphenation)"
+  },
+  {
+    "find": "anotlier l)y the difi'erent degrees of tlieir perfection,",
+    "replace": "another by the different degrees of their perfection,",
+    "note": "OCR misread 'another'/'by'/'different'/'their'"
+  },
+  {
+    "find": "and that this c'ifl'erence is the cause of their being aliL*",
+    "replace": "and that this difference is the cause of their being able",
+    "note": "OCR misread 'difference'/'able'"
+  },
+  {
+    "find": "to know one another. He holds also that lliis",
+    "replace": "to know one another. He holds also that this",
+    "note": "OCR misread 'this'"
+  },
+  {
+    "find": "dillerence in the degrees of their perfection persisted",
+    "replace": "difference in the degrees of their perfection persisted",
+    "note": "OCR misread 'difference'"
+  },
+  {
+    "find": "in the angels who fell (see Summa T/uol.y part I.,",
+    "replace": "in the angels who fell (see Summa Theol., part I.,",
+    "note": "OCR misread 'Theol.,'"
+  },
+  {
+    "find": "question 109, article 1), and Dante's expression * wliat",
+    "replace": "question 109, article 1), and Dante's expression ' what",
+    "note": "stray asterisk should be a quote mark; OCR misread 'what'"
+  },
+  {
+    "find": "is his power' (^quuntus est') refers to this.",
+    "replace": "is his power' (quantus est) refers to this.",
+    "note": "OCR misread the italic Latin 'quantus est'; stray quote before closing parenthesis removed"
+  },
+  {
+    "find": "34. St Thomas (^Summa Tlicol., part I., question",
+    "replace": "34. St Thomas (Summa Theol., part I., question",
+    "note": "OCR misread 'Summa Theol.,'"
+  },
+  {
+    "find": "107, article 3) declnres that * as regards things per-",
+    "replace": "107, article 3) declares that ' as regards things per-",
+    "note": "OCR misread 'declares'; stray asterisk should be a quote mark"
+  },
+  {
+    "find": "taining to natural knowledge Quitur.ilis co<rnitio^ tliere is",
+    "replace": "taining to natural knowledge (naturalis cognitio) there is",
+    "note": "OCR misread the italic Latin parenthetical '(naturalis cognitio)' and 'there'"
+  },
+  {
+    "find": "angels or devils ; Ijecause . . . from the very be-",
+    "replace": "angels or devils ; because . . . from the very be-",
+    "note": "OCR misread 'because'"
+  },
+  {
+    "find": "ledge.' t!ie angels, both good and bad, have a faculty",
+    "replace": "ledge.' the angels, both good and bad, have a faculty",
+    "note": "OCR misread 'the'"
+  },
+  {
+    "find": "•internal speech' (il/iJ., article i), wliich of course",
+    "replace": "' internal speech' (ibid., article 1), which of course",
+    "note": "OCR misread the opening quote mark as a bullet, and 'ibid.'/article number '1'/'which'"
+  },
+  {
+    "find": "does not conflict witli wh.al Dante says in this chapter,",
+    "replace": "does not conflict with what Dante says in this chapter,",
+    "note": "OCR misread 'with'/'what'"
+  },
+  {
+    "find": "for he is here only referring to externa! speech by",
+    "replace": "for he is here only referring to external speech by",
+    "note": "OCR misread 'external'"
+  },
+  {
+    "find": "37. ^Actions Olid passions.'' See lielow, I. 16: 21 n.",
+    "replace": "37. 'Actions and passions.' See below, I. 16: 21 n.",
+    "note": "OCR misread the opening quote, 'and', and 'below'; duplicated closing quote reduced to one"
+  },
+  {
+    "find": "and II. 8 : li IT., where these terms are exemj^lified ;",
+    "replace": "and II. 8 : 12 ff., where these terms are exemplified ;",
+    "note": "OCR misread the line number '12', 'ff.', and 'exemplified'"
+  },
+  {
+    "find": "also Cvn-vivlo, II. 10 : 67/;.",
+    "replace": "also Convivio, II. 10 : 67 n.",
+    "note": "OCR misread 'Convivio'/'67 n.'"
+  },
+  {
+    "find": "58, Compare Ci.nvivin. Ill 7, where Dante raises .nnd",
+    "replace": "58. Compare Convivio, III. 7, where Dante raises and",
+    "note": "comma after '58' should be a period; OCR misread 'Convivio,'/'III.'/'and'"
+  }
+]

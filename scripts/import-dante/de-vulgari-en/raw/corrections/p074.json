@@ -1,0 +1,21 @@
+[
+  {"find": "88, L'aura, etc. Arnaiit Daniel (i\\. 1 180.1 too) was", "replace": "88. L'aura, etc. Arnaut Daniel (fl. 1180-1200) was", "note": "garbled opening line"},
+  {"find": "Dante to place him above G. de Borneil as ' .1", "replace": "Dante to place him above G. de Borneil as 'a", "note": "OCR misread quoted fragment"},
+  {"find": "better craftsnian of the mother-tongue,' in Fur^.,iono,", "replace": "better craftsman of the mother-tongue,' in Purgatorio,", "note": "OCR misread 'craftsman' and 'Purgatorio'"},
+  {"find": "u *'^ ^' sliould not be forgotten, iiowever", "replace": "XXVI. 115 ff. It should not be forgotten, however", "note": "heavily garbled citation and words"},
+  {"find": ", \".\"u'^ '\"\"l!'' ^''\"^^'••Jf ^^ a singer of righteousness,", "replace": "Borneil with himself as a singer of righteousness,", "note": "heavily garbled line"},
+  {"find": "94. Do^Ha, iitc. See Cu»vivlo, page 41 2, wliere tlie", "replace": "94. Doglia, etc. See Convivio, page 412, where the", "note": "garbled note reference"},
+  {"find": "6/ />er mon Suirc-totz no fos ' (quoted for a dirierent", "replace": "'Si per mon Sobre-totz no fos' (quoted for a different", "note": "garbled Occitan quotation"},
+  {"find": "blance to this canzone of I^ante's, both in subject (the", "replace": "blance to this canzone of Dante's, both in subject (the", "note": "OCR misread 'Dante's'"},
+  {"find": "would (one miglit think) be a better example of a", "replace": "would (one might think) be a better example of a", "note": "OCR misread 'might'"},
+  {"find": "poem on righteousness than 'Per ,o/jz rncilLr'", "replace": "poem on righteousness than 'Per solaz reveillar,'", "note": "garbled Occitan quotation"},
+  {"find": "commonplace with the trouoadours from first to", "replace": "commonplace with the troubadours from first to", "note": "OCR misread 'troubadours'"},
+  {"find": "last) very much in the spirit of Pur.atorio, XIV.", "replace": "last) very much in the spirit of Purgatorio, XIV.", "note": "OCR misread 'Purgatorio'"},
+  {"find": "103 fT. i > .", "replace": "103 ff.", "note": "stray OCR garbage removed"},
+  {"find": "[The canzone Is the noblest form of poetry, and there-", "replace": "[The canzone is the noblest form of poetry, and there-", "note": "OCR misread 'is'"},
+  {"find": "treated of in canzoni.j", "replace": "treated of in canzoni.]", "note": "OCR misread closing bracket"},
+  {"find": "Different But now let us endeavour carefully to examine", "replace": "But now let us endeavour carefully to examine", "note": "removed leaked margin caption 'Different'"},
+  {"find": "poems '^'°^^ \"'''^\"^\" ^''^'^^^ ^^<^ ^vo^^^y o^ so", "replace": "how those matters which are worthy of so", "note": "removed leaked margin caption and fixed heavily garbled line"},
+  {"find": "vernacular have uttered their poems In many", "replace": "vernacular have uttered their poems in many", "note": "OCR misread 'in'"},
+  {"find": "different forms, some In that of canzoni, some\nih", "replace": "different forms, some in that of canzoni, some", "note": "OCR misread 'in' and removed stray catchword fragment at page foot"}
+]

@@ -1,6 +1,6 @@
 # Archimedes validation report - archimedes-sphere-cylinder
 
-Generated: 2026-09-22T23:20:01.320Z
+Generated: 2026-09-23T21:19:45.070Z
 
 **Result: PASS** - 0 error(s), 0 warning(s).
 
@@ -238,19 +238,19 @@ Generated: 2026-09-22T23:20:01.320Z
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-1-ch-44 / passage[2]** - <del> excluded from reading text: "δέδεικται γὰρ τοῦτο ὅτι ὁ τηλικοῦτος κῶνος ἐλάσσων ἐστὶ τοῦ περιγεγραμμένου σχήματος περὶ τὸν τομέα"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[1]** - <del> excluded from reading text: "τῶν δὲ ἴσων κυλίνδρων ἀντιπεπόνδασιν αἱ βάσεις τοῖς ὕψεσιν"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[1]** - <del> excluded from reading text: "ὁ γὰρ ἡμιόλιος κύλινδρος τῆς σφαίρας ἴσον ἔχει τὸν ἄξονα τῇ διαμέτρῳ τῆς σφαίρας, καὶ ὁ Κ κύκλος μέγιστός ἐστι τῶν ἐν τῇ σφαίρᾳ"
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[4]** - <del> excluded from reading text: "ὡς ἄρα ἡ Γ△ πρὸς ΜΝ, τουτέστιν ὡς τὸ ἀπὸ τῆς Γ△ πρὸς τὸ ἀπὸ ΗΘ, οὕτως ὁ Ε κύκλος πρὸς τὸν Κ κύκλον"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[4]** - <del> excluded from reading text: "τῶν"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-1 / passage[4]** - <del> excluded from reading text: "ὕψεσιν"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[2]** - <del> excluded from reading text: "τοῦτο γὰρ ἐν τοῖς λήμμασι τοῦ πρώτου βιβλίου δέδεικται. Ἢ οὕτως· Ἐπεί ἐστιν, ὡς ἡ △Θ πρὸς τὸ ὕψος τοῦ Μ κώνου, οὕτως ὁ Μ κύκλος πρὸς τὸν περὶ διάμετρον τὴν ΒΖ κύκλον, ἴσος ἄρα ἐστὶν ὁ Μ κῶνος τῷ κώνῳ, οὗ βάσις μὲν ὁ περὶ διάμετρον τὴν ΒΖ κύκλος, ὕψος δὲ ἡ △Θ· ἀντιπεπόνθασι γὰρ αὐτῶν αἱ βάσεις τοῖς ὕψεσιν. Ἀλλʼ ὁ κῶνος ὁ βάσιν μὲν ἔχων τὸν περὶ διάμετρον τὴν ΒΖ κύκλον, ὕψος δὲ τὴν △Θ, ἴσος ἐστὶ τῷ Β△ΖΘ στερεῷ ῥόμβῳ"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[2]** - <del> excluded from reading text: "ὁ"
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[2]** - <figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[2]** - <figure> diagram marker (2) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[5]** - <del> excluded from reading text: "τὴν"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[5]** - <del> excluded from reading text: "ἡ γὰρ σφαῖρα δέδεικται τετραπλασία τοῦ κώνου τοῦ βάσιν μὲν ἔχοντος τὸν μέγιστον κύκλον καὶ ὕψος τὴν ἐκ τοῦ κέντρου. Ἀλλὰ μὴν καὶ ὁ Ν κῶνος τοῦ αὐτοῦ ἐστι τετραπλάσιος, ἐπεὶ καὶ ἡ βάσις τῆς βάσεως καὶ ἡ ἐπιφάνεια τῆς σφαίρας τοῦ μεγίστου κύκλου τῶν ἐν αὐτῇ"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[5]** - <del> excluded from reading text: "ἢ οὕτως· ἔστιν ἄρα, ὡς ὁ Ν κύκλος πρὸς τὸν περὶ διάμετρον τὴν ΒΖ κύκλον, οὕτως ἡ △Κ πρὸς τὸ ὕψος τοῦ Ν κώνου· ἴσος ἄρα ἐστὶν ὁ Ν κῶνος τῷ κώνῳ, οὗ βάσις μέν ἐστιν ὁ περὶ διάμετρον τὴν ΒΖ κύκλος, ὕψος δὲ ἡ △Κ· ἀντιπεπόνθασιν γὰρ αὐτῶν αἱ βάσεις τοῖς ὕψεσιν. Ἀλλʼ οὗτος ὁ κῶνος ἴσος ἐστὶ τῷ Β△ΖΚ στερεῷ ῥόμβῳ· καὶ ὁ Ν ἄρα κῶνος, τουτέστιν ἡ σφαῖρα, ἴση ἐστὶ τῷ ΒΖΚ△ στερεῷ ῥόμβῳ"
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[5]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-3 / passage[3]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-4 / passage[2]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-2 / passage[5]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-3 / passage[3]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-4 / passage[2]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-4 / passage[3]** - <del> excluded from reading text: "ἐπείπερ τὴν αὐτὴν βάσιν ἔχουσιν τὸν περὶ διάμετρον τὴν ΑΓ κύκλον"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-4 / passage[3]** - <del> excluded from reading text: "καὶ ὡς ἄρα τὸ ἀπὸ ΚΛ πρὸς τὸ ἀπὸ Λ△, οὕτως τὸ ἀπὸ Β△ πρὸς τὸ ἀπὸ △Χ. Πάλιν, ἐπεί ἐστιν, ὡς ἡ ΛΧ πρὸς △Χ, συναμφότερος ἡ ΚΒ, ΒΧ πρὸς ΒΧ, διελόντι, ὡς ἡ Λ△ πρὸς △Χ, οὕτως ἡ ΚΒ πρὸς ΒΧ"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-4 / passage[3]** - <del> excluded from reading text: "καὶ ἔσται, ὡς ἡ Λ△ πρὸς △Χ, οὕτως ἡ ΖΒ πρὸς ΒΧ· ὥστε καί, ὡς ἡ △Λ πρὸς ΛΧ, ἡ ΒΖ πρὸς ΖΧ"
@@ -263,15 +263,15 @@ Generated: 2026-09-22T23:20:01.320Z
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-5 / passage[2]** - <del> excluded from reading text: "τῶν δὲ ἴσων κώνων ἀντιπεπόνθασιν αἱ βάσεις τοῖς ὕψεσιν"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-5 / passage[2]** - <del> excluded from reading text: "τοῦτὸ γὰρ δειχθήσεται"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-5 / passage[2]** - <del> excluded from reading text: "διὰ τὸ ἴσον εἶναι τὸ ἀπὸ ΘΚ τῷ ὑπὸ τῶν ΑΒ, ς"
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-5 / passage[2]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-5 / passage[2]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-6 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-6 / passage[2]** - <del> excluded from reading text: "αἱ γὰρ ἐπιφάνειαι τῶν εἰρημένων τμημάτων ἴσαι ἐδείχθησαν κύκλοις, ὧν αἱ ἐκ τῶν κέντρων ἴσαι εἰσὶν ταῖς ἀπὸ τῶν κορυφῶν τῶν τμημάτων ἐπὶ τὰς βάσεις ἐπιζευγνυούσαις"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-6 / passage[2]** - <del> excluded from reading text: "ὅμοια γὰρ τὰ τρίγωνα"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-6 / passage[3]** - <del> excluded from reading text: "μὲν"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[2]** - <del> excluded from reading text: "ὥστε καὶ τῆς Ε△ πρὸς △Ζ· δοθεῖσα ἄρα καὶ ἡ △Ζ"
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[2]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[2]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[3]** - <del> excluded from reading text: "ὀ ἀπὸ"
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[3]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-7 / passage[3]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]** - <del> excluded from reading text: "δεικτέον ὅτι τὸ μεῖζον τμῆμα τῆς σφαίρας πρὸς τὸ ἔλασσον ἐλάσσονα λόγον ἔχει ἢ διπλάσιον ἤπερ ἡ ἐπιφάνεια τοῦ μείζονος τμήματος πρὸς τὴν ἐπιφάνειαν τοῦ ἐλάσσονος τμήματος"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]** - <del> excluded from reading text: "μὲν"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]** - <del> excluded from reading text: "ὡς δὲ συναμφότερος ἡ ΕΒΖ πρὸς ΒΖ, οὕτως ἡ ΖΗ πρὸς Ζ△"
@@ -281,11 +281,11 @@ Generated: 2026-09-22T23:20:01.320Z
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]** - <del> excluded from reading text: "ἡ ΚΖ πρὸς ΖΗ ἐλάσσονα λόγον ἔχει ἢ διπλασίονα τοῦ ὃν ἔχει ἡ ΒΖ πρὸς Ζ△"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]** - <del> excluded from reading text: "καὶ τὸ ἀπὸ ΘΖ ἄρα πρὸς τὸ ἀπὸ ΖΚ μείζονα λόγον ἔχει ἤπερ ἡ ΘΒ πρὸς ΒΚ, τουτέστιν ἡ ΘΒ πρὸς ΒΕ, τουτέστιν ἡ ΚΖ πρὸς ΖΗ"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]** - <del> excluded from reading text: "τοῦτο γὰρ ἐπὶ τέλει"
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[1]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[4]** - <del> excluded from reading text: "ἡ"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[4]** - <del> excluded from reading text: "τοῦ"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[4]** - <del> excluded from reading text: "ΘΓ"
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[4]** - <figure> diagram marker (1) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[4]** - <figure> diagram marker (1) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[5]** - <del> excluded from reading text: "ὁ ἀπὸ τῆς ΑΒ κύβος πρὸς τὸν ἀπὸ τῆς ΒΓ κύβον, τουτέστιν"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[5]** - <del> excluded from reading text: "ἄρα"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-8 / passage[5]** - <del> excluded from reading text: "τὸ ἀπὸ ΑΘ πρὸς τὸ ὑπὸ ΒΘΓ, τουτέστι"
@@ -299,7 +299,7 @@ Generated: 2026-09-22T23:20:01.320Z
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-9 / passage[2]** - <del> excluded from reading text: "τὴν"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-9 / passage[2]** - <del> excluded from reading text: "τὴν"
 - **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-9 / passage[2]** - <del> excluded from reading text: "τὴν"
-- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-9 / passage[2]** - <figure> diagram marker (2) present in the source; no legitimately-sourced image found (dead heml.mta.ca URL) - honest marker only, no image bundled.
+- **archimedes-sphere-cylinder / division archimedes-sphere-cylinder-book-2-ch-9 / passage[2]** - <figure> diagram marker (2) present in the source; a real diagram image is shown, sourced from the printed edition's scanned page (see data/archimedes-sphere-cylinder/images/).
 
 ## Errors
 

@@ -1,0 +1,6 @@
+[
+  {
+    "where": "shakespeare-hamlet-en",
+    "note": "A bare \"PROLOGUE.\" line at body offset 3298 was found nested within the Act/Scene structure, not in the one structurally valid position for a top-level PROLOGUE - treated as a speaker cue (a character literally named PROLOGUE) within its enclosing scene, not as a top-level Division, per direct inspection of this passage."
+  }
+]

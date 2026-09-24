@@ -1,0 +1,159 @@
+{
+  "workId": "archimedes-method",
+  "sourceIdentifier": "methodofarchimed00arch",
+  "sourceDescription": "T.L. Heath, The Method of Archimedes, recently discovered by Heiberg (Cambridge University Press, 1912) — reproduces Heiberg's own diagrams/numbering for this palimpsest text; used because Heiberg's own 2nd-edition vol. II (1913, Teubner) is not on archive.org. Propositions 1-13 reproduce Heiberg's own printed diagrams essentially unchanged. Propositions 14 and 15 are different: Heiberg's edition itself has large lacunae/is wholly lost for these two (see per-division notes below), so the diagrams used there are Heath's own 1912 editorial reconstructions (for Prop. 14, explicitly presented as Heath's own preferred alternative to Th. Reinach's 1907 reconstruction; for Prop. 15, credited by Heath to H.G. Zeuthen, Bibliotheca Mathematica VII3 1906-7) — legitimate PD printed diagrams in this same 1912 scholarly edition of the palimpsest text, but not reproductions of anything Heiberg himself printed (since Heiberg had nothing to print there).",
+  "divisions": {
+    "archimedes-method-ch-1": [
+      { "image": "images/ch-1.png", "width": 1100, "height": 1050, "source": "Heath, The Method of Archimedes (1912), p. 16, leaf 20 (after Heiberg)" }
+    ],
+    "archimedes-method-ch-2": [
+      { "image": "images/ch-2.png", "width": 1115, "height": 1055, "source": "Heath, The Method of Archimedes (1912), p. 19, leaf 23 (after Heiberg)" }
+    ],
+    "archimedes-method-ch-3": [
+      { "image": "images/ch-3.png", "width": 920, "height": 1090, "source": "Heath, The Method of Archimedes (1912), p. 22, leaf 26 (after Heiberg)" }
+    ],
+    "archimedes-method-ch-4": [
+      { "image": "images/ch-4.png", "width": 830, "height": 880, "source": "Heath, The Method of Archimedes (1912), p. 24, leaf 28 (after Heiberg)" }
+    ],
+    "archimedes-method-ch-5": [
+      { "image": "images/ch-5.png", "width": 770, "height": 1020, "source": "Heath, The Method of Archimedes (1912), p. 26, leaf 30 (after Heiberg)" }
+    ],
+    "archimedes-method-ch-6": [
+      { "image": "images/ch-6.png", "width": 580, "height": 1010, "source": "Heath, The Method of Archimedes (1912), p. 28, leaf 32 (after Heiberg)" }
+    ],
+    "archimedes-method-ch-7": [
+      { "image": "images/ch-7.png", "width": 1085, "height": 1025, "source": "Heath, The Method of Archimedes (1912), p. 30, leaf 34 (after Heiberg)" }
+    ],
+    "archimedes-method-ch-9": [
+      null
+    ],
+    "archimedes-method-ch-12": [
+      { "image": "images/ch-12.png", "width": 682, "height": 685, "source": "Heath, The Method of Archimedes (1912), p. 39, leaf 43 (after Heiberg)" },
+      { "image": "images/ch-12.png", "width": 682, "height": 685, "source": "Heath, The Method of Archimedes (1912), p. 39, leaf 43 (after Heiberg)" }
+    ],
+    "archimedes-method-ch-13": [
+      { "image": "images/ch-13.png", "width": 680, "height": 715, "source": "Heath, The Method of Archimedes (1912), p. 41, leaf 45 (after Heiberg)" }
+    ],
+    "archimedes-method-ch-14": [
+      { "image": "images/ch-14.png", "width": 1100, "height": 990, "source": "Heath, The Method of Archimedes (1912), p. 45, leaf 49 (Heath's own reconstruction, not Heiberg's)" }
+    ],
+    "archimedes-method-ch-15": [
+      { "image": "images/ch-15.png", "width": 1000, "height": 995, "source": "Heath, The Method of Archimedes (1912), p. 49, leaf 53 (H.G. Zeuthen's reconstruction, per Heath, not Heiberg's)" },
+      { "image": "images/ch-15.png", "width": 1000, "height": 995, "source": "Heath, The Method of Archimedes (1912), p. 49, leaf 53 (H.G. Zeuthen's reconstruction, per Heath, not Heiberg's)" }
+    ]
+  },
+  "markers": [
+    {
+      "division": "archimedes-method-ch-1",
+      "index": 0,
+      "leaf": 20,
+      "printedPage": "16",
+      "image": "images/ch-1.png",
+      "note": "Single diagram illustrating Prop. 1 (quadrature of a parabolic segment via the mechanical method / lever balance construction). Clean, tight crop, threshold 150 (this scan's paper background reads ~196 luminance, above the tool's default 200 cutoff, so a lower threshold was needed on every leaf of this book to avoid flooding the whole crop to solid black)."
+    },
+    {
+      "division": "archimedes-method-ch-2",
+      "index": 0,
+      "leaf": 23,
+      "printedPage": "19",
+      "image": "images/ch-2.png",
+      "note": "Single diagram illustrating Prop. 2 (sphere = 4x cone, via balance of circular cylinder/sphere/cone sections)."
+    },
+    {
+      "division": "archimedes-method-ch-3",
+      "index": 0,
+      "leaf": 26,
+      "printedPage": "22",
+      "image": "images/ch-3.png",
+      "note": "Single diagram illustrating Prop. 3 (spheroid vs. cylinder/cone, ellipse-based figure)."
+    },
+    {
+      "division": "archimedes-method-ch-4",
+      "index": 0,
+      "leaf": 28,
+      "printedPage": "24",
+      "image": "images/ch-4.png",
+      "note": "Single diagram illustrating Prop. 4 (paraboloid segment vs. cone)."
+    },
+    {
+      "division": "archimedes-method-ch-5",
+      "index": 0,
+      "leaf": 30,
+      "printedPage": "26",
+      "image": "images/ch-5.png",
+      "note": "Single diagram illustrating Prop. 5 (centre of gravity of a paraboloid segment)."
+    },
+    {
+      "division": "archimedes-method-ch-6",
+      "index": 0,
+      "leaf": 32,
+      "printedPage": "28",
+      "image": "images/ch-6.png",
+      "note": "Single (composite: small rectangle + circle) diagram illustrating Prop. 6 (centre of gravity of a hemisphere)."
+    },
+    {
+      "division": "archimedes-method-ch-7",
+      "index": 0,
+      "leaf": 34,
+      "printedPage": "30",
+      "image": "images/ch-7.png",
+      "note": "Single diagram illustrating Prop. 7 (spherical segment vs. cone, general ratio)."
+    },
+    {
+      "division": "archimedes-method-ch-9",
+      "index": 0,
+      "leaf": null,
+      "printedPage": "35",
+      "image": null,
+      "note": "Checked leaves 38-39 (pp. 34-35) by eye: Prop. 9's text is purely discursive ('In the same way we can investigate the theorem that... The centre of gravity of any segment of a sphere is on...') with NO diagram printed anywhere in its run. Heath's own bracketed editorial note at the end of Prop. 9 explicitly says the result 'states the same result as that proved in the preceding proposition [8]... It would only require a slight change in the figure' — i.e. the book deliberately reuses Prop. 8's diagram by reference rather than printing a new one for Prop. 9. Genuinely no printed diagram exists for this division; marked null rather than force-fitting Prop. 8's (unrelated app division, no marker of its own per the task's ch-8/ch-10/ch-11 exclusion)."
+    },
+    {
+      "division": "archimedes-method-ch-12",
+      "index": 0,
+      "leaf": 43,
+      "printedPage": "39",
+      "image": "images/ch-12.png",
+      "note": "Prop. 12 (circle-in-square figure with diagonals) prints exactly ONE diagram (leaf 43 / p.39); checked the following leaf (44/p.40) through to the end of the proposition and confirmed no second diagram appears. Both of this division's two <figure> markers therefore repeat the same image file, per this project's repeat-last-entry convention (see e.g. archimedes-plane-equilibrium-book-1-ch-5's precedent)."
+    },
+    {
+      "division": "archimedes-method-ch-12",
+      "index": 1,
+      "leaf": 43,
+      "printedPage": "39",
+      "image": "images/ch-12.png",
+      "note": "Same single printed diagram as marker index 0 (see that note) — Prop. 12 has only one figure in the source."
+    },
+    {
+      "division": "archimedes-method-ch-13",
+      "index": 0,
+      "leaf": 45,
+      "printedPage": "41",
+      "image": "images/ch-13.png",
+      "note": "Single diagram illustrating Prop. 13 (prism/inscribed-cylinder cross-section with auxiliary parabola)."
+    },
+    {
+      "division": "archimedes-method-ch-14",
+      "index": 0,
+      "leaf": 49,
+      "printedPage": "45",
+      "image": "images/ch-14.png",
+      "note": "IMPORTANT CAVEAT: Prop. 14's own ancient proof is fragmentary (large lacunae per Heiberg's transcription) and prints NO diagram of its own on pp.43-44 (leaves 47-48, checked by eye - text and equations only). What follows on pp.45-46 (leaves 49-50) under the heading 'We may supply the missing proof as follows' is Heath's OWN 1912 reconstruction of the lost proof (his footnote: 'It is right to mention that this has already been done by Th. Reinach... but I prefer my own statement of the proof'), illustrated with TWO figures: (1) a 3D prism/cylinder-portion figure with inscribed/circumscribed element-prisms (used here), and (2) a companion 2D auxiliary-parabola rectangles figure on p.46. Since this app's ch-14 division has only ONE <figure> marker, only the first (more comprehensive, explicitly the 'accompanying figure' Heath's text names first) was used; the second companion figure was not bundled. Used with the caveat clearly flagged: this is a real printed diagram from a legitimate 1912 PD scholarly edition of the palimpsest text, but it is Heath's own reconstruction, not a reproduction of anything Heiberg himself printed for this proposition."
+    },
+    {
+      "division": "archimedes-method-ch-15",
+      "index": 0,
+      "leaf": 53,
+      "printedPage": "49",
+      "image": "images/ch-15.png",
+      "note": "IMPORTANT CAVEAT: '[Proposition 15.]' (bracketed by Heath/Heiberg because the heading itself does not survive) is entirely lost in the ancient source - only a mention in the treatise's preface establishes what it must have covered (cubature of the solid common to two cylinders inscribed in a cube). Heath's text: 'Zeuthen has shown how the mechanical method can be applied to this case' (citing H.G. Zeuthen, Bibliotheca Mathematica VII3, 1906-7, pp.356-7), followed by 'In the accompanying figure...' - i.e. the single diagram used here (leaf 53 / p.49) is Zeuthen's own modern reconstruction as presented by Heath, not a reproduction of any diagram Heiberg printed (Heiberg had nothing to print for this lost proposition). Checked the following leaf (54/p.50) through to Q.E.D. and confirmed no second diagram appears - both of ch-15's two <figure> markers repeat this same single image, per the repeat-last-entry convention."
+    },
+    {
+      "division": "archimedes-method-ch-15",
+      "index": 1,
+      "leaf": 53,
+      "printedPage": "49",
+      "image": "images/ch-15.png",
+      "note": "Same single printed diagram as marker index 0 (see that note, including the Zeuthen/Heath reconstruction caveat) - Prop. 15 has only one figure in the source."
+    }
+  ]
+}

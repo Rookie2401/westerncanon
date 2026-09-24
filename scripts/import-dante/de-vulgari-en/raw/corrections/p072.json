@@ -1,0 +1,137 @@
+[
+  {
+    "find": "lUus- Righteousness, Cino of Pistoja on Love, his",
+    "replace": "Righteousness, Cino of Pistoja on Love, his",
+    "note": "leading 'Illus-' is leaked margin caption"
+  },
+  {
+    "find": "trations friend on Righteousness. For Bcrtran says : —",
+    "replace": "friend on Righteousness. For Bertran says : —",
+    "note": "leading 'trations' is leaked margin caption; OCR misread 'Bertran'"
+  },
+  {
+    "find": "* Won pose mudar cun cantar non ex par] a.* ^",
+    "replace": "'Non posc mudar c'un cantar non exparja.' 1",
+    "note": "OCR heavily misread this Occitan quotation and its footnote number"
+  },
+  {
+    "find": "Arnaut: ^IJ'aura amara fah hruoh Irancu-x,",
+    "replace": "Arnaut : 'L'aura amara fals bruols brancuz",
+    "note": "OCR heavily misread this Occitan quotation"
+  },
+  {
+    "find": "clairir.* ^",
+    "replace": "clairir.' 2",
+    "note": "OCR misread closing quote and footnote number"
+  },
+  {
+    "find": "Giraut: *■ Ptr sola-z. reve'iUar",
+    "replace": "Giraut : 'Per solaz reveillar",
+    "note": "OCR heavily misread this Occitan quotation"
+  },
+  {
+    "find": "C9^D 1^^ ^^^^ ^''^P etulormitz* ^",
+    "replace": "[90] que s'es trop endormitz.' 3",
+    "note": "OCR heavily misread bracket number, Occitan quotation, and footnote number"
+  },
+  {
+    "find": "Cino : ' Dl^no sono eo tie mortc,^ ^",
+    "replace": "Cino : 'Digno sono eo de morte.' 4",
+    "note": "OCR heavily misread this Italian quotation and footnote number"
+  },
+  {
+    "find": "His friend : ' DogUn mi recti tiello core ardire*",
+    "replace": "His friend : 'Doglia mi reca nello core ardire.'",
+    "note": "OCR heavily misread this Italian quotation"
+  },
+  {
+    "find": "I do not find, however, that any Itahan has as",
+    "replace": "I do not find, however, that any Italian has as",
+    "note": "OCR misread 'Italian'"
+  },
+  {
+    "find": "34-40. The meaning^ seems to be this : There are",
+    "replace": "34-40. The meaning seems to be this : There are",
+    "note": "OCR misread 'meaning'"
+  },
+  {
+    "find": "certain thinp^s (oI)je:ts of desert) to be ?.waril»-d",
+    "replace": "certain things (objects of desert) to be awarded",
+    "note": "OCR misread 'things'/'objects'/'awarded'"
+  },
+  {
+    "find": "according to tlie dejjree of the worthiness of certain",
+    "replace": "according to the degree of the worthiness of certain",
+    "note": "OCR misread 'the'/'degree'"
+  },
+  {
+    "find": "recipients have the qualification of lieing worthy,",
+    "replace": "recipients have the qualification of being worthy,",
+    "note": "OCR misread 'being'"
+  },
+  {
+    "find": "others that of being worthier, otliers tliat of being",
+    "replace": "others that of being worthier, others that of being",
+    "note": "OCR misread 'others'/'that'"
+  },
+  {
+    "find": "good tilings, the wortliier, to liave the better things,",
+    "replace": "good things, the worthier, to have the better things,",
+    "note": "OCR misread 'things'/'worthier'/'have'"
+  },
+  {
+    "find": "and the worthiest, the best things. We Cio not call",
+    "replace": "and the worthiest, the best things. We do not call",
+    "note": "OCR misread 'do'"
+  },
+  {
+    "find": "one recipient worthier tlian anotlier as being worthy",
+    "replace": "one recipient worthier than another as being worthy",
+    "note": "OCR misread 'than'/'another'"
+  },
+  {
+    "find": "of the s.ime tiling, but ratlier as being worthy of a",
+    "replace": "of the same thing, but rather as being worthy of a",
+    "note": "OCR misread 'same'/'thing'/'rather'"
+  },
+  {
+    "find": "diJJ'crent^ and better tiling. Througliout tliis passage,",
+    "replace": "different, and better thing. Throughout this passage,",
+    "note": "OCR misread 'different,'/'thing.'/'Throughout'/'this'"
+  },
+  {
+    "find": "and a third wortliiest of t!ie snme thing. His pro-",
+    "replace": "and a third worthiest of the same thing. His pro-",
+    "note": "OCR misread 'worthiest'/'the'/'same'"
+  },
+  {
+    "find": "cedure, in short, resembles tiiat of an examiner who",
+    "replace": "cedure, in short, resembles that of an examiner who",
+    "note": "OCR misread 'that'"
+  },
+  {
+    "find": "^ ' I cannot clioose but utter a song.'",
+    "replace": "1 ' I cannot choose but utter a song.'",
+    "note": "OCR misread footnote number and 'choose'"
+  },
+  {
+    "find": "3 'For the awakening of gallantry which is toQ",
+    "replace": "3 'For the awakening of gallantry which is too",
+    "note": "OCR misread 'too'"
+  },
+  {
+    "find": "fast asleep [! thought to labour].'",
+    "replace": "fast asleep [I thought to labour].'",
+    "note": "OCR misread '[I'"
+  },
+  {
+    "find": "^ * Worthy am I of dearli,'",
+    "replace": "4 ' Worthy am I of death.'",
+    "note": "OCR misread footnote number and 'death.'"
+  },
+  {
+    "find": "subject of Arms\nHaving then arrived",
+    "replace": "subject of Arms.\nHaving then arrived",
+    "note": "restored the paragraph-ending full stop after Arms - grammatically required at this paragraph boundary; not detected by OCR (confirmed against the page image, no other reading is possible)"
+  }
+]

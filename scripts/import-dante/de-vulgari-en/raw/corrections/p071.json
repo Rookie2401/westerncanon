@@ -1,0 +1,67 @@
+[
+  {
+    "find": "he is of like nature with plants ; in so far as he Subjects",
+    "replace": "he is of like nature with plants ; in so far as he",
+    "note": "trailing 'Subjects' is leaked margin caption"
+  },
+  {
+    "find": "is aninial he seeks for that which is pleasurable, worthj.",
+    "replace": "is animal he seeks for that which is pleasurable,",
+    "note": "OCR misread 'animal'; trailing 'worthj.' is leaked margin caption"
+  },
+  {
+    "find": "wherein he is of like nature with the brutes ; in ?,,",
+    "replace": "wherein he is of like nature with the brutes ; in",
+    "note": "trailing garbage is leaked margin caption"
+  },
+  {
+    "find": "\nr. ,. .1, ,r I---, iHustnous\nso tar as he is rational he seeks for what is right language",
+    "replace": "\nso far as he is rational he seeks for what is right",
+    "note": "spurious garbage line removed; OCR misread 'far'; trailing 'language' is leaked margin caption"
+  },
+  {
+    "find": "kinds of life that wc appear to carry out what-",
+    "replace": "kinds of life that we appear to carry out what-",
+    "note": "OCR misread 'we'"
+  },
+  {
+    "find": "which arc greatest [603 appear the ones which",
+    "replace": "which are greatest [60] appear the ones which",
+    "note": "OCR misread 'are'; bracket garbled"
+  },
+  {
+    "find": "and first in respect of what is useful. Nov/ in",
+    "replace": "and first in respect of what is useful. Now in",
+    "note": "OCR misread 'Now'"
+  },
+  {
+    "find": "object of aj)petite, and this [703 is love.",
+    "replace": "object of appetite, and this [70] is love.",
+    "note": "OCR misread 'appetite'; bracket garbled"
+  },
+  {
+    "find": "Wherefore these three things, namely, 8^afcty,\\",
+    "replace": "Wherefore these three things, namely, safety,",
+    "note": "OCR misread 'safety,'; trailing stray symbol (printer's brace) removed"
+  },
+  {
+    "find": "love, and virtue, appear to be those capital 1",
+    "replace": "love, and virtue, appear to be those capital",
+    "note": "trailing stray symbol (printer's brace) removed"
+  },
+  {
+    "find": "matters which ought to be treated of supremely, /",
+    "replace": "matters which ought to be treated of supremely,",
+    "note": "trailing stray symbol (printer's brace) removed"
+  },
+  {
+    "find": "namely, Bcrtran dc Born [80]] on Arms,",
+    "replace": "namely, Bertran de Born [80] on Arms,",
+    "note": "OCR misread 'Bertran de'; bracket doubled"
+  },
+  {
+    "find": "Arnaut Daniel on Love, Giraut dc Borneil on",
+    "replace": "Arnaut Daniel on Love, Giraut de Borneil on",
+    "note": "OCR misread 'de'"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "where": "dante-vita-nuova-en / whole work",
+    "note": "Excluded from the reading text (editorial front/back matter, not Dante's or Rossetti's translated text): the publisher's title page, William Michael Rossetti's \"Prefatory Note\" and \"Introduction\", the \"THE SIDDAL EDITION OF D. G. ROSSETTI'S WORKS\" publisher's advertisement following \"Laus Deo.\", and the Gutenberg transcriber's note (\"Minor typographical errors have been corrected without note\" - a change made by Gutenberg's own transcribers to their source scan, disclosed here since this importer cannot recover what those corrections were)."
+  },
+  {
+    "where": "dante-vita-nuova-en / structure",
+    "note": "This edition prints no numbered chapter divisions anywhere in the translated text (confirmed by direct inspection of the full text between \"In that part of the book...\" and \"Laus Deo.\"): unlike Michele Barbi's Italian critical edition (this library's dante-vita-nuova-it, ch-1..ch-42), Rossetti's English runs continuously with no \"I\"/\"II\"/chapter heading of any kind. English Wikisource's own copy of this same 1899 Siddal-edition scan confirms this independently: its own \"Section 1..11\" breakdown is explicitly disclosed there as \"divided arbitrarily to match the accompanying LibriVox recordings. Neither Dante's original Italian text nor the translation by Rossetti is so divided\" - so that scheme is not used here either, to avoid shipping an invented division as if it were the source's own. This work is therefore imported as one flat Division of paragraph/poem-block Passages, in reading order."
+  },
+  {
+    "where": "dante-vita-nuova-en / footnotes",
+    "note": "28 numbered translator footnote(s) (Rossetti's/the editor's commentary, indented \"  [N] ...\" blocks) were removed wholesale from the reading text; their content is not preserved anywhere in this build. Inline \"[N]\" reference markers in the running text were also stripped (count logged below). 30 inline \"[N]\" marker(s) stripped."
+  }
+]

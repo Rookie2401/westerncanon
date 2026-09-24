@@ -1,0 +1,22 @@
+[
+  {"find": "important Icjj^al work was a commentary on the first", "replace": "important legal work was a commentary on the first", "note": "OCR misreading"},
+  {"find": "nine hooks ol Juitinian'h Code. Besides commemorat-", "replace": "nine books of Justinian's Code. Besides commemorat-", "note": "OCR misreadings"},
+  {"find": "ing^ Cino in tliis work, Dante is believed to have ad-", "replace": "ing Cino in this work, Dante is believed to have ad-", "note": "OCR misreadings"},
+  {"find": "dressed an extant Latin letter to him {Epistola IV.,", "replace": "dressed an extant Latin letter to him (Epistola IV.,", "note": "OCR misread bracket"},
+  {"find": "]>. 30<:, in this volume), and also five sonnets, but does", "replace": "p. 305, in this volume), and also five sonnets, but does", "note": "OCR misreadings"},
+  {"find": "not refer to him in tiie Comedy. For some of the", "replace": "not refer to him in the Comedy. For some of the", "note": "OCR misreading"},
+  {"find": "inf<nniatiop jjiven in this note 1 am indebted to the", "replace": "information given in this note I am indebted to the", "note": "OCR misreadings"},
+  {"find": "32. I.e. common to the 'many peoples * by whose", "replace": "32. i.e. common to the 'many peoples' by whose", "note": "OCR misreadings"},
+  {"find": "' common consent ' it was estaljlished (al)ove, 9 : 98).", "replace": "'common consent' it was established (above, 9 : 98).", "note": "OCR misreadings"},
+  {"find": "46. PJi.irsulij 11, 391-43^.", "replace": "46. Pharsalia II. 391-438.", "note": "OCR misreadings"},
+  {"find": "the present pa^siijije.", "replace": "the present passage.", "note": "OCR misreading"},
+  {"find": "[In view of the mnny discordant varieties of the .", "replace": "[In view of the many discordant varieties of the", "note": "OCR misreading; removed stray trailing period"},
+  {"find": "Italian vtrnacuhir, Dante purposes to search for", "replace": "Italian vernacular, Dante purposes to search for", "note": "OCR misreading"},
+  {"find": "a lanp,'ua,i;c fitted to belong to the whole of Italy,", "replace": "a language fitted to belong to the whole of Italy,", "note": "OCR misreading"},
+  {"find": "occupy iha-t position. He first rejects the dialects", "replace": "occupy that position. He first rejects the dialects", "note": "OCR misreading"},
+  {"find": "ISeri^anio, etc., Aqnileia and Istria, Cascnlino,", "replace": "Bergamo, etc., Aquileia and Istria, Casentino,", "note": "OCR misreadings"},
+  {"find": "Prato, and Sardinia. J", "replace": "Prato, and Sardinia.]", "note": "OCR misread closing bracket"},
+  {"find": "As the Italian vernacular has so very many dis- The", "replace": "As the Italian vernacular has so very many dis-", "note": "trailing 'The' is a leftover fragment of the marginal shoulder caption ('The Roman dialect') that the automatic strip missed"},
+  {"find": "cordant varieties, let us hunt after a more fitting Roman", "replace": "cordant varieties, let us hunt after a more fitting", "note": "trailing 'Roman' is a leftover fragment of the marginal shoulder caption that the automatic strip missed"},
+  {"find": "and an illustrious Italian language ; and in order *^iaJect", "replace": "and an illustrious Italian language ; and in order", "note": "trailing garbage is a leftover fragment of the marginal shoulder caption ('dialect') that the automatic strip missed"}
+]

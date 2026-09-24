@@ -1,0 +1,26 @@
+[
+  {
+    "where": "book-1-part-1",
+    "note": "1 paragraph(s) of lead-in prose appeared before this Part's first numbered item; kept as a leading \"intro\" leaf Division so no container mixes children with its own passages."
+  },
+  {
+    "where": "book-2-part-1",
+    "note": "2 paragraph(s) of lead-in prose appeared before this Part's first numbered item; kept as a leading \"intro\" leaf Division so no container mixes children with its own passages."
+  },
+  {
+    "where": "book-2-part-2",
+    "note": "This Part carries no numbered Observation/Proposition/Query markers of its own in the source; its text (pure discursive prose) is held directly on this Division rather than under any leaf item."
+  },
+  {
+    "where": "book-2-part-3",
+    "note": "2 paragraph(s) of lead-in prose appeared before this Part's first numbered item; kept as a leading \"intro\" leaf Division so no container mixes children with its own passages."
+  },
+  {
+    "where": "book-2-part-4",
+    "note": "2 paragraph(s) of lead-in prose appeared before this Part's first numbered item; kept as a leading \"intro\" leaf Division so no container mixes children with its own passages."
+  },
+  {
+    "where": "book-3-part-1",
+    "note": "2 paragraph(s) of lead-in prose appeared before this Part's first numbered item; kept as a leading \"intro\" leaf Division so no container mixes children with its own passages."
+  }
+]
