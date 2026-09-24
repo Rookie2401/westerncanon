@@ -6,6 +6,7 @@ import {
 } from '../state/storage.ts';
 import type { ThemeChoice } from '../state/storage.ts';
 import { TopBar } from '../components/TopBar.tsx';
+import { EDITION, EDITION_NAME, SIBLING_EDITION } from '../library/edition.ts';
 
 const SIZE_LABELS = ['XS', 'S', 'M', 'L', 'XL'];
 const SPACING_LABELS = ['Tight', 'Normal', 'Loose'];
@@ -65,6 +66,24 @@ export function SettingsScreen() {
               </button>
             ))}
           </div>
+        </div>
+
+        <div className="setting">
+          <div className="setting__label">Library edition</div>
+          <p className="setting__note">
+            This is the {EDITION_NAME[EDITION].toLowerCase()}
+            {EDITION === 'en'
+              ? ': every text in English, whether a translation or an English original.'
+              : EDITION === 'original'
+                ? ': every text in the language it was written in (Greek, Latin, Italian), with works written in English kept as written.'
+                : ': every text in every language.'}
+            {SIBLING_EDITION ? (
+              <>
+                {' '}
+                <a href={SIBLING_EDITION.href}>Open the {SIBLING_EDITION.name.toLowerCase()} →</a>
+              </>
+            ) : null}
+          </p>
         </div>
 
         <div className="setting__preview">

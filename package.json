@@ -7,8 +7,7 @@
     "copy-corpus": "node scripts/copy-corpus.mjs",
     "predev": "node scripts/copy-corpus.mjs",
     "dev": "vite",
-    "prebuild": "node scripts/copy-corpus.mjs",
-    "build": "tsc -b && vite build",
+    "build": "tsc -b && node scripts/build-editions.mjs",
     "preview": "vite preview",
     "lint": "eslint .",
     "typecheck": "tsc -b && tsc --noEmit -p tsconfig.scripts.json",
@@ -352,7 +351,9 @@
     "validate:ptolemy": "npm run validate:ptolemy-grc && npm run validate:ptolemy-tetrabiblos-en",
     "import:shakespeare": "tsx scripts/import-shakespeare/index.ts",
     "validate:shakespeare": "tsx scripts/import-shakespeare/validate.ts",
-    "import:dante-de-vulgari-eloquentia-en": "tsx scripts/import-dante/de-vulgari-en/index.ts"
+    "import:dante-de-vulgari-eloquentia-en": "tsx scripts/import-dante/de-vulgari-en/index.ts",
+    "build:en": "tsc -b && node scripts/build-editions.mjs en",
+    "build:original": "tsc -b && node scripts/build-editions.mjs original"
   },
   "dependencies": {
     "clsx": "^2.1.1",

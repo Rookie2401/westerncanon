@@ -7,7 +7,7 @@
 // never regenerates a corpus — data/**/*.json is treated as read-only input.
 // Wired as `predev` + `prebuild` (and runnable directly via `npm run copy-corpus`).
 
-import { cpSync, mkdirSync, readdirSync, statSync } from 'node:fs';
+import { cpSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -615,6 +615,40 @@ const GENERIC_DIRS = [
 ];
 const GENERIC_FILES = ['work.json', 'about.json'];
 
+// --- Editions ----------------------------------------------------------
+// EDITION=en | original | all (default all). Mirrors src/library/edition.ts:
+// the English edition takes every language="en" work; the original-language
+// edition takes every non-English work plus the English ORIGINALS (an
+// English work with no translator). Decided from each data dir's about.json
+// so this build glue needs no TypeScript import; edition.test.ts asserts the
+// two rules agree.
+const EDITION = process.env.EDITION ?? 'all';
+if (!['en', 'original', 'all'].includes(EDITION)) {
+  console.error(`[copy-corpus] EDITION must be en | original | all, got "${EDITION}"`);
+  process.exit(1);
+}
+function dirInEdition(dir) {
+  if (EDITION === 'all') return true;
+  let about;
+  try {
+    about = JSON.parse(readFileSync(join(dataRoot, dir, 'about.json'), 'utf8'));
+  } catch {
+    return true; // not present yet: let copyOne report it
+  }
+  const isEnglish = about.language === 'en';
+  if (EDITION === 'en') return isEnglish;
+  return !isEnglish || !about.translator;
+}
+const summaInEdition = EDITION !== 'en';
+const summaEnInEdition = EDITION !== 'original';
+// Remove anything a previous run left in public/ that this edition does not
+// ship, so Workbox never precaches a stale corpus.
+for (const dir of [SUMMA_DIR, SUMMA_EN_DIR, ...GENERIC_DIRS]) {
+  const keep = dir === SUMMA_DIR ? summaInEdition : dir === SUMMA_EN_DIR ? summaEnInEdition : dirInEdition(dir);
+  if (!keep) rmSync(join(publicRoot, dir), { recursive: true, force: true });
+}
+let skippedByEdition = 0;
+
 let hardFailures = 0;
 let copied = 0;
 let bytes = 0;
@@ -663,21 +697,27 @@ function copyImagesDir(dir) {
   }
 }
 
-mkdirSync(join(publicRoot, SUMMA_DIR), { recursive: true });
-for (const name of SUMMA_FILES) copyOne(SUMMA_DIR, name, true);
-for (const name of SUMMA_EN_FILES) copyOne(SUMMA_EN_DIR, name, false);
+if (summaInEdition) {
+  mkdirSync(join(publicRoot, SUMMA_DIR), { recursive: true });
+  for (const name of SUMMA_FILES) copyOne(SUMMA_DIR, name, true);
+}
+if (summaEnInEdition) for (const name of SUMMA_EN_FILES) copyOne(SUMMA_EN_DIR, name, false);
 for (const dir of GENERIC_DIRS) {
+  if (!dirInEdition(dir)) {
+    skippedByEdition += 1;
+    continue;
+  }
   for (const name of GENERIC_FILES) copyOne(dir, name, false);
   copyImagesDir(dir);
 }
 
-const summaPresent = readdirSync(join(publicRoot, SUMMA_DIR)).filter((f) =>
+const summaPresent = (summaInEdition ? readdirSync(join(publicRoot, SUMMA_DIR)) : []).filter((f) =>
   f.endsWith('.json'),
 );
 console.log(
   `[copy-corpus] ${copied} files copied into public/ ` +
     `(${(bytes / 1024 / 1024).toFixed(1)} MB). ` +
-    `Summa present: ${summaPresent.join(', ')}`,
+    `edition=${EDITION}, ${skippedByEdition} dir(s) not in this edition. Summa present: ${summaPresent.join(', ')}`,
 );
 
 if (hardFailures > 0) process.exit(1);

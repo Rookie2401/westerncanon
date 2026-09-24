@@ -13,12 +13,19 @@
  */
 import { useSyncExternalStore } from 'react';
 
+/**
+ * The original-language edition shares its origin (and so its localStorage)
+ * with the English edition, so its library state lives under its own prefix;
+ * reading preferences (theme, type size) are deliberately shared.
+ */
+const NS = import.meta.env.VITE_EDITION === 'original' ? 'original:' : '';
+
 export const KEYS = {
   prefs: 'summa:prefs',
-  bookmarks: 'library:bookmarks',
-  last: 'library:last',
-  expandedAuthors: 'library:expandedAuthors',
-  expandedGroups: 'library:expandedGroups',
+  bookmarks: `${NS}library:bookmarks`,
+  last: `${NS}library:last`,
+  expandedAuthors: `${NS}library:expandedAuthors`,
+  expandedGroups: `${NS}library:expandedGroups`,
   legacyBookmarks: 'summa:bookmarks',
   legacyLast: 'summa:last',
 } as const;
@@ -100,7 +107,7 @@ function emit(): void {
 function subscribe(cb: () => void): () => void {
   listeners.add(cb);
   const onStorage = (e: StorageEvent) => {
-    if (!e.key || e.key.startsWith('summa:') || e.key.startsWith('library:')) cb();
+    if (!e.key || e.key.startsWith('summa:') || e.key.startsWith('library:') || e.key.startsWith('original:')) cb();
   };
   window.addEventListener('storage', onStorage);
   return () => {

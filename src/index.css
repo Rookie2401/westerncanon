@@ -1462,3 +1462,23 @@ body {
 .result__snippet[lang='grc'] {
   font-family: var(--serif-grc);
 }
+
+/* Library: which edition this site is, and a link to its sibling. */
+.home__edition {
+  margin: 0.35rem 0 0.9rem;
+  text-align: center;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted, #7a6a55);
+}
+.home__edition a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+.setting__note {
+  margin: 0.4rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}

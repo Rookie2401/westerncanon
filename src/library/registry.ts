@@ -5,8 +5,9 @@
  * generic works).
  */
 import type { Author, Work } from './types.ts';
+import { inEdition } from './edition.ts';
 
-export const AUTHORS: Author[] = [
+const ALL_AUTHORS: Author[] = [
   {
     id: 'aristotle',
     displayName: 'Aristotle',
@@ -177,7 +178,7 @@ export const AUTHORS: Author[] = [
   },
 ];
 
-export const WORKS: Work[] = [
+const ALL_WORKS: Work[] = [
   {
     id: 'summa-theologiae',
     authorId: 'thomas-aquinas',
@@ -9840,6 +9841,15 @@ export const WORKS: Work[] = [
     },
   },
 ];
+
+/** The selected edition's works (see edition.ts); the merged 'all' edition is every work. */
+export const WORKS: Work[] = ALL_WORKS.filter((w) => inEdition(w));
+
+/** Authors with at least one work in the selected edition. */
+export const AUTHORS: Author[] = ALL_AUTHORS.filter((a) => WORKS.some((w) => w.authorId === a.id));
+
+/** Every registered work regardless of edition (build/audit tooling only). */
+export const ALL_REGISTERED_WORKS: readonly Work[] = ALL_WORKS;
 
 export function authorById(id: string): Author | undefined {
   return AUTHORS.find((a) => a.id === id);

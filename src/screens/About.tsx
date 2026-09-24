@@ -1,6 +1,7 @@
 import { loadGaps, loadIndex } from '../corpus/corpus.ts';
 import { useResource } from '../ui/useResource.ts';
 import { TopBar } from '../components/TopBar.tsx';
+import { EDITION, EDITION_NAME, SIBLING_EDITION } from '../library/edition.ts';
 
 export function AboutScreen() {
   const { data: gaps } = useResource(loadGaps, 'gaps');
@@ -17,6 +18,15 @@ export function AboutScreen() {
       <main className="page page--narrow">
         <div className="prose">
           <h2>Western Canon</h2>
+          <p>
+            <strong>{EDITION_NAME[EDITION]}.</strong>{' '}
+            {EDITION === 'en'
+              ? 'This site holds every text in English: public-domain translations and works written in English. '
+              : EDITION === 'original'
+                ? 'This site holds every text in the language it was written in (Greek, Latin, Italian), and works written in English as written; translations are left to the sibling edition. '
+                : 'This build holds every text in every language. '}
+            {SIBLING_EDITION ? <a href={SIBLING_EDITION.href}>Open the {SIBLING_EDITION.name.toLowerCase()} →</a> : null}
+          </p>
           <p>
             An offline reader for the classical canon. Homer's{' '}
             <em>Iliad</em> and <em>Odyssey</em>, Hesiod's{' '}

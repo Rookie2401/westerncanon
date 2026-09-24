@@ -6,6 +6,7 @@ import {
   workById,
 } from '../library/registry.ts';
 import type { Work } from '../library/types.ts';
+import { EDITION, EDITION_NAME, SIBLING_EDITION } from '../library/edition.ts';
 import {
   expandedAuthorsInitialized,
   refHref,
@@ -77,6 +78,15 @@ export function Library() {
       </div>
 
       <h1 className="home__title">LIBRARY</h1>
+      <p className="home__edition">
+        <span>{EDITION_NAME[EDITION]}</span>
+        {SIBLING_EDITION ? (
+          <>
+            {' · '}
+            <a href={SIBLING_EDITION.href}>{SIBLING_EDITION.name} →</a>
+          </>
+        ) : null}
+      </p>
       <div className="home__rule" />
 
       {last ? (
