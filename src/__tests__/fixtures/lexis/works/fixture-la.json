@@ -1,0 +1,17 @@
+{
+  "workId": "fixture-la",
+  "lang": "la",
+  "tokens": 4,
+  "recognized": 3,
+  "forms": {
+    "amat": [["la:verb:amo", "verb pres ind act 3 sg", 1]],
+    "amabit": [["la:verb:amo", "verb fut ind act 3 sg", 1]],
+    "puellam": [["la:noun:puella", "noun acc sg f", 1]]
+  },
+  "lexemes": {
+    "la:verb:amo": { "id": "la:verb:amo", "lemma": "amo", "pos": "verb", "gloss": "to love", "src": "lewis-short" },
+    "la:noun:puella": { "id": "la:noun:puella", "lemma": "puella", "pos": "noun", "gloss": "girl", "src": "lewis-short" },
+    "la:verb:volo": { "id": "la:verb:volo", "lemma": "volo", "pos": "verb", "gloss": "to wish", "src": "lewis-short" }
+  },
+  "analysis": "fixture"
+}

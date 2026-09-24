@@ -1,0 +1,12 @@
+{
+  "it:noun:amore": {
+    "id": "it:noun:amore",
+    "lemma": "amore",
+    "pos": "noun",
+    "gloss": "love",
+    "src": "wiktionary",
+    "senses": ["love", "affection"],
+    "dict": "wiktionary",
+    "rank": 1
+  }
+}

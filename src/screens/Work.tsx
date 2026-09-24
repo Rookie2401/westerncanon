@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useMemo, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import clsx from 'clsx';
 import { authorById, workById } from '../library/registry.ts';
@@ -8,12 +8,102 @@ import {
   isConsolidatableGroup,
   loadGenericWork,
 } from '../library/genericCorpus.ts';
-import type { Division } from '../library/types.ts';
+import type { Division, Lang, Passage, WorkProfile } from '../library/types.ts';
 import { useResource } from '../ui/useResource.ts';
 import { Breadcrumbs } from '../components/Breadcrumbs.tsx';
 import { TopBar } from '../components/TopBar.tsx';
 import { Collapsible } from '../components/Collapsible.tsx';
 import { ChevronIcon } from '../components/icons.tsx';
+import { lexisAvailable, loadWorkLexis } from '../lexis/index.ts';
+import { useLexisSettings } from '../lexis/settings.ts';
+import { useStatuses } from '../lexis/vocab.ts';
+import { divisionCoverage, workCoverage } from '../lexis/coverage.ts';
+import type { LexLang } from '../lexis/types.ts';
+
+function flattenPassages(divisions: Division[]): Passage[] {
+  const out: Passage[] = [];
+  const walk = (d: Division) => {
+    out.push(...d.passages);
+    for (const c of d.children) walk(c);
+  };
+  for (const d of divisions) walk(d);
+  return out;
+}
+
+/**
+ * "You know N% of the words in this work" (plan §1, R-UI-owned).
+ *
+ * `workCoverage` (R-CORE) estimates the token percentage by scaling the
+ * bundle's aggregate `tokens`/`recognized` counts, because a bundle carries
+ * no per-form token frequency — its distinct-lemma counts, though, ARE exact
+ * (computed straight from `bundle.forms`' keys). For the Work screen we can
+ * do better on the token percentage too: `loadGenericWork` already gives us
+ * every passage's real text, so summing `divisionCoverage` (an exact,
+ * per-token tally) over all of them yields the true count, not an estimate —
+ * at the cost of re-tokenizing the whole work (a few hundred ms at most even
+ * for the largest works; memoized below so it only happens when the loaded
+ * text or the bundle identity changes, not on every status edit).
+ *
+ * Scoped to `profile: 'generic'` works: that's what `loadGenericWork`
+ * (work.json) serves. The Summa reader (profile 'summa') isn't wired to
+ * language help at all (out of R-UI's file ownership — see final report), so
+ * this line is simply absent there rather than showing an estimate.
+ */
+function LexisCoverageLine({
+  workId,
+  language,
+  profile,
+}: {
+  workId: string;
+  language: Lang;
+  profile: WorkProfile;
+}) {
+  const settings = useLexisSettings();
+  const enabled = profile === 'generic' && lexisAvailable(language) && settings.enabled;
+
+  const { data: bundle } = useResource(
+    () => (enabled ? loadWorkLexis(workId) : Promise.resolve(null)),
+    enabled ? `lexis-work:${workId}` : 'lexis-work:disabled',
+  );
+  const { data: genericWork } = useResource(
+    () => (enabled ? loadGenericWork(workId) : Promise.resolve(null)),
+    enabled ? `lexis-coverage-text:${workId}` : 'lexis-coverage-text:disabled',
+  );
+
+  const lexemeIds = useMemo(() => (bundle ? Object.keys(bundle.lexemes) : []), [bundle]);
+  const statuses = useStatuses(lexemeIds);
+
+  const passages = useMemo(
+    () => (genericWork ? flattenPassages(genericWork.divisions) : []),
+    [genericWork],
+  );
+
+  const tokenCoverage = useMemo(() => {
+    if (!bundle || passages.length === 0) return null;
+    const lang = bundle.lang as LexLang;
+    let tokens = 0;
+    let knownTokens = 0;
+    for (const p of passages) {
+      const cov = divisionCoverage(bundle, p.text, lang, statuses);
+      tokens += cov.tokens;
+      knownTokens += cov.knownTokens;
+    }
+    return { tokens, knownTokens };
+  }, [bundle, passages, statuses]);
+
+  if (!enabled || !bundle || !tokenCoverage) return null;
+
+  // Distinct-lemma counts are already exact in workCoverage (plan §6) — no
+  // need to recompute them from the per-passage pass above.
+  const { lexemes, knownLexemes } = workCoverage(bundle, statuses);
+  const pct = tokenCoverage.tokens > 0 ? Math.round((tokenCoverage.knownTokens / tokenCoverage.tokens) * 100) : 0;
+
+  return (
+    <p className="crumb" style={{ marginTop: '0.4rem' }}>
+      You know {pct}% of the words in this work ({knownLexemes} of {lexemes} lemmas).
+    </p>
+  );
+}
 
 export function WorkScreen() {
   const { workId = '' } = useParams();
@@ -54,6 +144,7 @@ export function WorkScreen() {
           <p className="crumb" style={{ marginTop: '0.4rem' }}>
             {work.meta}
           </p>
+          <LexisCoverageLine workId={work.id} language={work.language} profile={work.profile} />
         </div>
 
         {work.profile === 'summa' ? (

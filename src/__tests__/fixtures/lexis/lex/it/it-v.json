@@ -1,0 +1,12 @@
+{
+  "it:verb:volere": {
+    "id": "it:verb:volere",
+    "lemma": "volere",
+    "pos": "verb",
+    "gloss": "to want",
+    "src": "wiktionary",
+    "senses": ["to want", "to wish"],
+    "dict": "wiktionary",
+    "rank": 2
+  }
+}

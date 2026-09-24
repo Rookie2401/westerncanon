@@ -1,0 +1,13 @@
+{
+  "grc:noun:λόγος": {
+    "id": "grc:noun:λόγος",
+    "lemma": "λόγος",
+    "pos": "noun",
+    "gloss": "word, reason",
+    "src": "lsj",
+    "senses": ["word", "speech", "reason", "account"],
+    "inflection": "λόγου, ὁ",
+    "dict": "lsj",
+    "rank": 1
+  }
+}

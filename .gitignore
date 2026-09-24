@@ -613,3 +613,7 @@ scripts/import-*/raw/pages/
 scripts/import-*/raw/diagrams/
 scripts/import-dante/*/raw/images/
 scripts/import-euclid/raw/heiberg-vol*/
+
+# Lexis raw dataset caches (re-fetchable)
+scripts/lexis/raw/
+public/lexis/

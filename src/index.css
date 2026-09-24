@@ -1482,3 +1482,324 @@ body {
   font-size: 0.95rem;
   line-height: 1.5;
 }
+
+/* ============================================================================
+   Lexis — language help (R-UI package; docs/LEXIS-PLAN.md). Append-only,
+   every class prefixed `lx-`. Highlighting is underline/dot only — never a
+   colour fill — and text-decoration doesn't affect line height, so turning
+   highlighting on/off never shifts the passage layout.
+   ========================================================================== */
+
+/* --- tappable words in reader text -------------------------------------- */
+.lx-w {
+  cursor: pointer;
+  border-radius: 3px;
+  text-decoration-line: none;
+}
+.lx-w:hover,
+.lx-w:focus-visible {
+  background: color-mix(in srgb, var(--ink) 6%, transparent);
+}
+.lx-w--hl {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: var(--accent-soft);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+.lx-w--hl[data-status='known'],
+.lx-w--hl[data-status='mastered'] {
+  text-decoration-style: dotted;
+  text-decoration-color: var(--ink-faint);
+}
+.lx-w--hl[data-status='ignored'] {
+  text-decoration-line: none;
+}
+
+/* --- word card (bottom sheet) ------------------------------------------- */
+.lx-card-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  background: rgba(20, 16, 10, 0.35);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  animation: backdrop-in 0.16s ease-out both;
+}
+.lx-card {
+  width: 100%;
+  max-width: 30rem;
+  max-height: min(82vh, 44rem);
+  overflow-y: auto;
+  background: var(--paper-raised);
+  border: 1px solid var(--rule-strong);
+  border-radius: 14px 14px 0 0;
+  box-shadow: var(--shadow-raised);
+  padding: 1.1rem 1.25rem calc(1.25rem + env(safe-area-inset-bottom, 0px));
+  animation: lx-card-in 0.2s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+@keyframes lx-card-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lx-card {
+    animation-name: backdrop-in; /* fade in place, no rise */
+  }
+}
+.lx-card__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.6rem;
+}
+.lx-card__head-label {
+  font-size: 0.75rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  font-weight: 600;
+}
+.lx-card__surface {
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+}
+.lx-card__surface--grc {
+  font-family: var(--serif-grc);
+}
+.lx-card__unknown {
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+  margin-bottom: 0.8rem;
+}
+.lx-card__lemma {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.lx-card__lemma-text {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--ink);
+}
+.lx-card__lemma-text--grc {
+  font-family: var(--serif-grc);
+  font-style: normal;
+}
+.lx-card__pos {
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+.lx-card__morph {
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  margin: 0.25rem 0 0.5rem;
+}
+.lx-card__gloss {
+  font-size: 1rem;
+  color: var(--ink);
+  margin-bottom: 0.7rem;
+}
+.lx-card__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.7rem 0;
+}
+.lx-chip {
+  padding: 0.35rem 0.7rem;
+  border: 1px solid var(--rule-strong);
+  border-radius: 999px;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  background: var(--paper);
+}
+.lx-chip--on {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fdfaf3;
+}
+:root[data-theme='dark'] .lx-chip--on {
+  color: #16130f;
+}
+.lx-card__actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.9rem;
+}
+.lx-card__section {
+  margin-top: 1rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--rule);
+}
+.lx-card__section-label {
+  display: block;
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-bottom: 0.5rem;
+}
+.lx-card__reading {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.6rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--rule);
+  font-size: 0.92rem;
+}
+.lx-card__reading-lemma {
+  font-style: italic;
+  color: var(--ink);
+}
+.lx-card__reading-morph {
+  color: var(--ink-soft);
+}
+.lx-card__reading-gloss {
+  color: var(--ink-faint);
+}
+.lx-card__senses {
+  margin: 0.3rem 0 0;
+  padding-left: 1.2rem;
+  color: var(--ink);
+  font-size: 0.95rem;
+}
+.lx-card__inflection {
+  margin-top: 0.5rem;
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  font-style: italic;
+}
+.lx-card__loading,
+.lx-card__note {
+  color: var(--ink-faint);
+  font-size: 0.92rem;
+}
+/* The sanitised dictionary article (trusted, build-time HTML — b/i/em/span/
+   div/p/br/sup only per the contract). Sized down from body text so a long
+   LSJ/Lewis & Short article reads as reference material, not running prose. */
+.lx-article {
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.lx-article p {
+  margin: 0 0 0.6rem;
+}
+.lx-card__occurrences,
+.lx-card__history {
+  margin-top: 0.6rem;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+}
+.lx-card__prov {
+  margin-top: 0.6rem;
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+}
+
+/* --- status picker (word card + Vocabulary) ------------------------------ */
+.lx-status {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin: 0.7rem 0;
+}
+.lx-status__dot {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  border: 1px solid var(--rule-strong);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--paper);
+}
+.lx-status__mark {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: transparent;
+}
+.lx-status__mark--on {
+  background: var(--accent);
+}
+.lx-status__name {
+  margin-left: 0.4rem;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+}
+
+/* --- Vocabulary screen ---------------------------------------------------- */
+.lx-vocab-counts {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  margin-bottom: 1.2rem;
+}
+.lx-vocab-counts__lang {
+  padding: 0.7rem 0.8rem;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  background: var(--paper-raised);
+}
+.lx-vocab-counts__lang-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+.lx-vocab-counts__row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.9rem;
+  margin-top: 0.35rem;
+}
+.lx-vocab-counts__stat {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+.lx-vocab-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+.lx-vocab-actions__import {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+.lx-vocab-actions__file-input {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+.lx-vocab-row {
+  align-items: center;
+  flex-wrap: wrap;
+}
+.lx-vocab-row__lemma {
+  min-width: 8rem;
+}
+.lx-vocab-row__lang {
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-right: 0.6rem;
+}

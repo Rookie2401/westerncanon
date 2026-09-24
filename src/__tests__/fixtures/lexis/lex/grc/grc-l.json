@@ -1,0 +1,12 @@
+{
+  "grc:verb:λέγω": {
+    "id": "grc:verb:λέγω",
+    "lemma": "λέγω",
+    "pos": "verb",
+    "gloss": "to say",
+    "src": "lsj",
+    "senses": ["to say", "to speak", "to tell"],
+    "dict": "lsj",
+    "rank": 2
+  }
+}

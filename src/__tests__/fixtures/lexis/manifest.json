@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "built_at": "2026-09-24T00:00:00Z",
+  "languages": {
+    "grc": {
+      "lexemes": 3,
+      "works": 1,
+      "coverage": 1,
+      "sources": [{ "name": "LSJ", "license": "PD", "url": "https://example.test/lsj" }],
+      "lex_shards": { "λο": "grc-lo.json", "λ": "grc-l.json", "_": "grc-misc.json" }
+    },
+    "la": {
+      "lexemes": 3,
+      "works": 1,
+      "coverage": 1,
+      "sources": [{ "name": "Lewis & Short", "license": "PD", "url": "https://example.test/ls" }],
+      "lex_shards": { "am": "la-am.json", "v": "la-v.json", "_": "la-misc.json" }
+    },
+    "it": {
+      "lexemes": 3,
+      "works": 1,
+      "coverage": 1,
+      "sources": [{ "name": "Wiktionary", "license": "CC-BY-SA", "url": "https://example.test/wikt" }],
+      "lex_shards": { "am": "it-am.json", "v": "it-v.json", "_": "it-misc.json" }
+    }
+  },
+  "works": {
+    "fixture-grc": { "file": "fixture-grc.json", "lang": "grc", "tokens": 4, "recognized": 3, "forms": 3 },
+    "fixture-la": { "file": "fixture-la.json", "lang": "la", "tokens": 4, "recognized": 3, "forms": 3 },
+    "fixture-it": { "file": "fixture-it.json", "lang": "it", "tokens": 3, "recognized": 3, "forms": 3 }
+  }
+}

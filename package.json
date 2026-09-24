@@ -353,13 +353,22 @@
     "validate:shakespeare": "tsx scripts/import-shakespeare/validate.ts",
     "import:dante-de-vulgari-eloquentia-en": "tsx scripts/import-dante/de-vulgari-en/index.ts",
     "build:en": "tsc -b && node scripts/build-editions.mjs en",
-    "build:original": "tsc -b && node scripts/build-editions.mjs original"
+    "build:original": "tsc -b && node scripts/build-editions.mjs original",
+    "lexis:fetch-italian": "node scripts/lexis/fetch-italian.mjs",
+    "lexis:build-latin": "node scripts/lexis/build-latin.mjs",
+    "lexis:build-italian": "node scripts/lexis/build-italian.mjs",
+    "lexis:build-greek": "node scripts/lexis/build-greek.mjs",
+    "lexis:build-manifest": "node scripts/lexis/build-manifest.mjs",
+    "lexis:check": "node scripts/lexis/shared/check-bundles.mjs",
+    "lexis:compact": "node scripts/lexis/compact.mjs"
   },
   "dependencies": {
     "clsx": "^2.1.1",
+    "dexie": "^4.4.6",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "react-router-dom": "^7.18.3"
+    "react-router-dom": "^7.18.3",
+    "whitakers-words": "^0.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
@@ -375,6 +384,7 @@
     "fast-xml-parser": "^5.11.1",
     "globals": "^17.11.0",
     "jsdom": "^30.0.1",
+    "sharp": "^0.35.4",
     "tsx": "^4.23.12",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.68.0",

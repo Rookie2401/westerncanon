@@ -7,7 +7,7 @@
 // never regenerates a corpus — data/**/*.json is treated as read-only input.
 // Wired as `predev` + `prebuild` (and runnable directly via `npm run copy-corpus`).
 
-import { cpSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync } from 'node:fs';
+import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -709,6 +709,21 @@ for (const dir of GENERIC_DIRS) {
   }
   for (const name of GENERIC_FILES) copyOne(dir, name, false);
   copyImagesDir(dir);
+}
+
+// Language help (docs/LEXIS-PLAN.md): the original-language edition ships
+// data/lexis (per-work analysis bundles + dictionary shards) as public/lexis;
+// the English edition never gets it. Soft: absent until the lexis build runs.
+{
+  const from = join(dataRoot, 'lexis');
+  const to = join(publicRoot, 'lexis');
+  rmSync(to, { recursive: true, force: true });
+  if (EDITION !== 'en' && existsSync(join(from, 'manifest.json'))) {
+    cpSync(from, to, { recursive: true });
+    console.log('[copy-corpus] lexis: copied data/lexis -> public/lexis');
+  } else if (EDITION !== 'en') {
+    console.warn('[copy-corpus] lexis: data/lexis/manifest.json not present yet - language help data not bundled');
+  }
 }
 
 const summaPresent = (summaInEdition ? readdirSync(join(publicRoot, SUMMA_DIR)) : []).filter((f) =>

@@ -1,0 +1,13 @@
+{
+  "la:verb:volo": {
+    "id": "la:verb:volo",
+    "lemma": "volo",
+    "pos": "verb",
+    "gloss": "to wish, to want",
+    "src": "lewis-short",
+    "senses": ["to wish", "to be willing"],
+    "inflection": "volo, velle, volui",
+    "dict": "lewis-short",
+    "rank": 2
+  }
+}

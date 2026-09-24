@@ -1,0 +1,12 @@
+{
+  "grc:verb:εἰμί": {
+    "id": "grc:verb:εἰμί",
+    "lemma": "εἰμί",
+    "pos": "verb",
+    "gloss": "to be",
+    "src": "lsj",
+    "senses": ["to be", "to exist"],
+    "dict": "lsj",
+    "rank": 3
+  }
+}

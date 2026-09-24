@@ -1,0 +1,13 @@
+{
+  "la:noun:puella": {
+    "id": "la:noun:puella",
+    "lemma": "puella",
+    "pos": "noun",
+    "gloss": "girl",
+    "src": "lewis-short",
+    "senses": ["girl", "maiden"],
+    "inflection": "puella, puellae, f.",
+    "dict": "lewis-short",
+    "rank": 3
+  }
+}

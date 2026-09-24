@@ -1,0 +1,1940 @@
+{
+  "works": {
+    "ad-atticum-selection-la": {
+      "tokens": 41812,
+      "recognized": 41719,
+      "forms": 8591,
+      "recognizedForms": 8508
+    },
+    "ad-brutum-selection-la": {
+      "tokens": 2011,
+      "recognized": 2009,
+      "forms": 1034,
+      "recognizedForms": 1032
+    },
+    "ad-familiares-selection-la": {
+      "tokens": 22494,
+      "recognized": 22425,
+      "forms": 6531,
+      "recognizedForms": 6463
+    },
+    "ad-quintum-fratrem-selection-la": {
+      "tokens": 4555,
+      "recognized": 4553,
+      "forms": 1856,
+      "recognizedForms": 1854
+    },
+    "aeneid-la": {
+      "tokens": 63347,
+      "recognized": 63242,
+      "forms": 16565,
+      "recognizedForms": 16475
+    },
+    "augustine-christian-doctrine-la": {
+      "tokens": 40047,
+      "recognized": 39955,
+      "forms": 9606,
+      "recognizedForms": 9539
+    },
+    "augustine-city-of-god-la": {
+      "tokens": 282361,
+      "recognized": 281152,
+      "forms": 34616,
+      "recognizedForms": 33821
+    },
+    "augustine-confessions-la": {
+      "tokens": 78771,
+      "recognized": 78537,
+      "forms": 15758,
+      "recognizedForms": 15572
+    },
+    "boethius-consolatio-la": {
+      "tokens": 24595,
+      "recognized": 24477,
+      "forms": 8332,
+      "recognizedForms": 8223
+    },
+    "boethius-contra-eutychen-la": {
+      "tokens": 5858,
+      "recognized": 5816,
+      "forms": 1812,
+      "recognizedForms": 1777
+    },
+    "boethius-de-fide-catholica-la": {
+      "tokens": 1928,
+      "recognized": 1922,
+      "forms": 1052,
+      "recognizedForms": 1046
+    },
+    "boethius-de-trinitate-la": {
+      "tokens": 2940,
+      "recognized": 2923,
+      "forms": 950,
+      "recognizedForms": 938
+    },
+    "boethius-quomodo-substantiae-la": {
+      "tokens": 1390,
+      "recognized": 1389,
+      "forms": 425,
+      "recognizedForms": 424
+    },
+    "boethius-utrum-pater-la": {
+      "tokens": 559,
+      "recognized": 555,
+      "forms": 225,
+      "recognizedForms": 221
+    },
+    "brutus-la": {
+      "tokens": 25029,
+      "recognized": 24951,
+      "forms": 6690,
+      "recognizedForms": 6622
+    },
+    "categoriae-la": {
+      "tokens": 9197,
+      "recognized": 9146,
+      "forms": 1408,
+      "recognizedForms": 1378
+    },
+    "dante-de-vulgari-eloquentia-la": {
+      "tokens": 11394,
+      "recognized": 10978,
+      "forms": 3971,
+      "recognizedForms": 3669
+    },
+    "dante-monarchia-la": {
+      "tokens": 19160,
+      "recognized": 19021,
+      "forms": 5046,
+      "recognizedForms": 4940
+    },
+    "de-amicitia-la": {
+      "tokens": 9336,
+      "recognized": 9331,
+      "forms": 3299,
+      "recognizedForms": 3294
+    },
+    "de-bello-civili-la": {
+      "tokens": 32338,
+      "recognized": 32309,
+      "forms": 8526,
+      "recognizedForms": 8503
+    },
+    "de-bello-gallico-la": {
+      "tokens": 51300,
+      "recognized": 51291,
+      "forms": 10940,
+      "recognizedForms": 10934
+    },
+    "de-divinatione-la": {
+      "tokens": 27541,
+      "recognized": 27228,
+      "forms": 8219,
+      "recognizedForms": 7926
+    },
+    "de-finibus-la": {
+      "tokens": 47072,
+      "recognized": 46992,
+      "forms": 9694,
+      "recognizedForms": 9623
+    },
+    "de-interpretatione-la": {
+      "tokens": 5948,
+      "recognized": 5915,
+      "forms": 777,
+      "recognizedForms": 760
+    },
+    "de-legibus-la": {
+      "tokens": 18701,
+      "recognized": 18572,
+      "forms": 6082,
+      "recognizedForms": 5966
+    },
+    "de-natura-deorum-la": {
+      "tokens": 36015,
+      "recognized": 35892,
+      "forms": 9678,
+      "recognizedForms": 9563
+    },
+    "de-officiis-la": {
+      "tokens": 34012,
+      "recognized": 33835,
+      "forms": 8816,
+      "recognizedForms": 8653
+    },
+    "de-oratore-la": {
+      "tokens": 61797,
+      "recognized": 61721,
+      "forms": 12637,
+      "recognizedForms": 12573
+    },
+    "de-republica-la": {
+      "tokens": 22223,
+      "recognized": 22141,
+      "forms": 6897,
+      "recognizedForms": 6820
+    },
+    "de-senectute-la": {
+      "tokens": 8259,
+      "recognized": 8252,
+      "forms": 3316,
+      "recognizedForms": 3309
+    },
+    "in-catilinam-la": {
+      "tokens": 12555,
+      "recognized": 12552,
+      "forms": 4315,
+      "recognizedForms": 4312
+    },
+    "in-verrem-la": {
+      "tokens": 100439,
+      "recognized": 100341,
+      "forms": 16890,
+      "recognizedForms": 16828
+    },
+    "isagoge-la": {
+      "tokens": 5137,
+      "recognized": 5086,
+      "forms": 968,
+      "recognizedForms": 946
+    },
+    "newton-principia-la": {
+      "tokens": 113669,
+      "recognized": 111003,
+      "forms": 11852,
+      "recognizedForms": 11104
+    },
+    "orator-la": {
+      "tokens": 18361,
+      "recognized": 18305,
+      "forms": 5469,
+      "recognizedForms": 5421
+    },
+    "philippics-la": {
+      "tokens": 52571,
+      "recognized": 52561,
+      "forms": 11798,
+      "recognizedForms": 11789
+    },
+    "pro-archia-la": {
+      "tokens": 3117,
+      "recognized": 3117,
+      "forms": 1489,
+      "recognizedForms": 1489
+    },
+    "pro-caelio-la": {
+      "tokens": 8469,
+      "recognized": 8469,
+      "forms": 3322,
+      "recognizedForms": 3322
+    },
+    "pro-ligario-la": {
+      "tokens": 3280,
+      "recognized": 3279,
+      "forms": 1447,
+      "recognizedForms": 1446
+    },
+    "pro-marcello-la": {
+      "tokens": 2767,
+      "recognized": 2767,
+      "forms": 1296,
+      "recognizedForms": 1296
+    },
+    "pro-milone-la": {
+      "tokens": 10515,
+      "recognized": 10512,
+      "forms": 3715,
+      "recognizedForms": 3712
+    },
+    "pro-roscio-amerino-la": {
+      "tokens": 13249,
+      "recognized": 13247,
+      "forms": 4066,
+      "recognizedForms": 4064
+    },
+    "pro-sestio-la": {
+      "tokens": 16786,
+      "recognized": 16743,
+      "forms": 5585,
+      "recognizedForms": 5543
+    },
+    "tusculan-disputations-la": {
+      "tokens": 47043,
+      "recognized": 46333,
+      "forms": 11869,
+      "recognizedForms": 11253
+    },
+    "dante-vita-nuova-it": {
+      "tokens": 18936,
+      "recognized": 17986,
+      "forms": 2954,
+      "recognizedForms": 2395
+    },
+    "aeschylus-agamemnon-grc": {
+      "tokens": 8496,
+      "recognized": 8341,
+      "forms": 4237,
+      "recognizedForms": 4237,
+      "matchedDiorisis": true
+    },
+    "aeschylus-eumenides-grc": {
+      "tokens": 5515,
+      "recognized": 5432,
+      "forms": 2733,
+      "recognizedForms": 2733,
+      "matchedDiorisis": true
+    },
+    "aeschylus-libation-bearers-grc": {
+      "tokens": 5694,
+      "recognized": 5609,
+      "forms": 2944,
+      "recognizedForms": 2944,
+      "matchedDiorisis": true
+    },
+    "aeschylus-persians-grc": {
+      "tokens": 5435,
+      "recognized": 5302,
+      "forms": 2890,
+      "recognizedForms": 2890,
+      "matchedDiorisis": true
+    },
+    "aeschylus-prometheus-bound-grc": {
+      "tokens": 6156,
+      "recognized": 6102,
+      "forms": 3151,
+      "recognizedForms": 3151,
+      "matchedDiorisis": true
+    },
+    "aeschylus-seven-against-thebes-grc": {
+      "tokens": 5342,
+      "recognized": 5202,
+      "forms": 2872,
+      "recognizedForms": 2872,
+      "matchedDiorisis": true
+    },
+    "aeschylus-suppliants-grc": {
+      "tokens": 5215,
+      "recognized": 5092,
+      "forms": 2817,
+      "recognizedForms": 2817,
+      "matchedDiorisis": true
+    },
+    "archimedes-cattle-problem": {
+      "tokens": 694,
+      "recognized": 617,
+      "forms": 256,
+      "recognizedForms": 256,
+      "matchedDiorisis": false
+    },
+    "archimedes-conoids-spheroids": {
+      "tokens": 22410,
+      "recognized": 20019,
+      "forms": 947,
+      "recognizedForms": 947,
+      "matchedDiorisis": false
+    },
+    "archimedes-floating-bodies": {
+      "tokens": 8520,
+      "recognized": 7707,
+      "forms": 627,
+      "recognizedForms": 627,
+      "matchedDiorisis": false
+    },
+    "archimedes-fragments": {
+      "tokens": 1179,
+      "recognized": 1042,
+      "forms": 262,
+      "recognizedForms": 262,
+      "matchedDiorisis": false
+    },
+    "archimedes-liber-assumptorum": {
+      "tokens": 3676,
+      "recognized": 3090,
+      "forms": 323,
+      "recognizedForms": 323,
+      "matchedDiorisis": false
+    },
+    "archimedes-measurement-circle": {
+      "tokens": 1036,
+      "recognized": 831,
+      "forms": 183,
+      "recognizedForms": 183,
+      "matchedDiorisis": false
+    },
+    "archimedes-method": {
+      "tokens": 9745,
+      "recognized": 8772,
+      "forms": 856,
+      "recognizedForms": 856,
+      "matchedDiorisis": false
+    },
+    "archimedes-plane-equilibrium": {
+      "tokens": 8819,
+      "recognized": 7586,
+      "forms": 624,
+      "recognizedForms": 624,
+      "matchedDiorisis": false
+    },
+    "archimedes-quadrature-parabola": {
+      "tokens": 5802,
+      "recognized": 5126,
+      "forms": 554,
+      "recognizedForms": 554,
+      "matchedDiorisis": false
+    },
+    "archimedes-sand-reckoner": {
+      "tokens": 5034,
+      "recognized": 4699,
+      "forms": 710,
+      "recognizedForms": 710,
+      "matchedDiorisis": false
+    },
+    "archimedes-sphere-cylinder": {
+      "tokens": 23553,
+      "recognized": 21316,
+      "forms": 1158,
+      "recognizedForms": 1158,
+      "matchedDiorisis": false
+    },
+    "archimedes-spirals": {
+      "tokens": 14306,
+      "recognized": 12585,
+      "forms": 896,
+      "recognizedForms": 896,
+      "matchedDiorisis": false
+    },
+    "archimedes-stomachion": {
+      "tokens": 438,
+      "recognized": 371,
+      "forms": 173,
+      "recognizedForms": 173,
+      "matchedDiorisis": false
+    },
+    "aristophanes-acharnians-grc": {
+      "tokens": 7720,
+      "recognized": 7572,
+      "forms": 3332,
+      "recognizedForms": 3332,
+      "matchedDiorisis": true
+    },
+    "aristophanes-birds-grc": {
+      "tokens": 11528,
+      "recognized": 11306,
+      "forms": 4413,
+      "recognizedForms": 4413,
+      "matchedDiorisis": true
+    },
+    "aristophanes-clouds-grc": {
+      "tokens": 10408,
+      "recognized": 10289,
+      "forms": 3976,
+      "recognizedForms": 3976,
+      "matchedDiorisis": true
+    },
+    "aristophanes-ecclesiazusae-grc": {
+      "tokens": 8435,
+      "recognized": 8220,
+      "forms": 3134,
+      "recognizedForms": 3134,
+      "matchedDiorisis": true
+    },
+    "aristophanes-frogs-grc": {
+      "tokens": 9974,
+      "recognized": 9797,
+      "forms": 3964,
+      "recognizedForms": 3964,
+      "matchedDiorisis": true
+    },
+    "aristophanes-knights-grc": {
+      "tokens": 9494,
+      "recognized": 9423,
+      "forms": 3805,
+      "recognizedForms": 3805,
+      "matchedDiorisis": true
+    },
+    "aristophanes-lysistrata-grc": {
+      "tokens": 8805,
+      "recognized": 8524,
+      "forms": 3322,
+      "recognizedForms": 3322,
+      "matchedDiorisis": true
+    },
+    "aristophanes-peace-grc": {
+      "tokens": 8678,
+      "recognized": 8508,
+      "forms": 3550,
+      "recognizedForms": 3550,
+      "matchedDiorisis": true
+    },
+    "aristophanes-plutus-grc": {
+      "tokens": 8795,
+      "recognized": 8671,
+      "forms": 3150,
+      "recognizedForms": 3150,
+      "matchedDiorisis": true
+    },
+    "aristophanes-thesmophoriazusae-grc": {
+      "tokens": 7873,
+      "recognized": 7628,
+      "forms": 3196,
+      "recognizedForms": 3196,
+      "matchedDiorisis": true
+    },
+    "aristophanes-wasps-grc": {
+      "tokens": 10368,
+      "recognized": 10203,
+      "forms": 4192,
+      "recognizedForms": 4192,
+      "matchedDiorisis": true
+    },
+    "athenian-constitution-grc": {
+      "tokens": 16619,
+      "recognized": 16481,
+      "forms": 4711,
+      "recognizedForms": 4711,
+      "matchedDiorisis": true
+    },
+    "categoriae-grc": {
+      "tokens": 10316,
+      "recognized": 10043,
+      "forms": 1558,
+      "recognizedForms": 1558,
+      "matchedDiorisis": true
+    },
+    "de-anima-grc": {
+      "tokens": 20876,
+      "recognized": 20704,
+      "forms": 3333,
+      "recognizedForms": 3333,
+      "matchedDiorisis": false
+    },
+    "de-audibilibus-grc": {
+      "tokens": 3492,
+      "recognized": 3400,
+      "forms": 1033,
+      "recognizedForms": 1033,
+      "matchedDiorisis": false
+    },
+    "de-caelo-grc": {
+      "tokens": 29676,
+      "recognized": 29122,
+      "forms": 3716,
+      "recognizedForms": 3716,
+      "matchedDiorisis": false
+    },
+    "de-coloribus-grc": {
+      "tokens": 5002,
+      "recognized": 4837,
+      "forms": 1169,
+      "recognizedForms": 1169,
+      "matchedDiorisis": false
+    },
+    "de-divinatione-per-somnum-grc": {
+      "tokens": 1200,
+      "recognized": 1197,
+      "forms": 532,
+      "recognizedForms": 532,
+      "matchedDiorisis": true
+    },
+    "de-generatione-animalium-grc": {
+      "tokens": 50150,
+      "recognized": 48810,
+      "forms": 6030,
+      "recognizedForms": 6030,
+      "matchedDiorisis": false
+    },
+    "de-generatione-et-corruptione-grc": {
+      "tokens": 16523,
+      "recognized": 16211,
+      "forms": 2442,
+      "recognizedForms": 2442,
+      "matchedDiorisis": false
+    },
+    "de-incessu-animalium-grc": {
+      "tokens": 6360,
+      "recognized": 6222,
+      "forms": 1429,
+      "recognizedForms": 1429,
+      "matchedDiorisis": false
+    },
+    "de-insomniis-grc": {
+      "tokens": 2436,
+      "recognized": 2427,
+      "forms": 859,
+      "recognizedForms": 859,
+      "matchedDiorisis": true
+    },
+    "de-interpretatione-grc": {
+      "tokens": 6244,
+      "recognized": 6106,
+      "forms": 914,
+      "recognizedForms": 914,
+      "matchedDiorisis": true
+    },
+    "de-iuventute-grc": {
+      "tokens": 1845,
+      "recognized": 1844,
+      "forms": 656,
+      "recognizedForms": 656,
+      "matchedDiorisis": true
+    },
+    "de-lineis-insecabilibus-grc": {
+      "tokens": 2959,
+      "recognized": 2915,
+      "forms": 776,
+      "recognizedForms": 776,
+      "matchedDiorisis": false
+    },
+    "de-longitudine-grc": {
+      "tokens": 1789,
+      "recognized": 1786,
+      "forms": 647,
+      "recognizedForms": 647,
+      "matchedDiorisis": true
+    },
+    "de-melisso-xenophane-gorgia-grc": {
+      "tokens": 4873,
+      "recognized": 4781,
+      "forms": 1076,
+      "recognizedForms": 1076,
+      "matchedDiorisis": false
+    },
+    "de-memoria-grc": {
+      "tokens": 2515,
+      "recognized": 2510,
+      "forms": 814,
+      "recognizedForms": 814,
+      "matchedDiorisis": true
+    },
+    "de-mirabilibus-grc": {
+      "tokens": 9180,
+      "recognized": 8790,
+      "forms": 3151,
+      "recognizedForms": 3151,
+      "matchedDiorisis": false
+    },
+    "de-motu-animalium-grc": {
+      "tokens": 4116,
+      "recognized": 4075,
+      "forms": 1149,
+      "recognizedForms": 1149,
+      "matchedDiorisis": false
+    },
+    "de-partibus-animalium-grc": {
+      "tokens": 40550,
+      "recognized": 37983,
+      "forms": 5366,
+      "recognizedForms": 5366,
+      "matchedDiorisis": false
+    },
+    "de-plantis-grc": {
+      "tokens": 12094,
+      "recognized": 11706,
+      "forms": 2596,
+      "recognizedForms": 2596,
+      "matchedDiorisis": false
+    },
+    "de-respiratione-grc": {
+      "tokens": 6110,
+      "recognized": 6084,
+      "forms": 1635,
+      "recognizedForms": 1635,
+      "matchedDiorisis": true
+    },
+    "de-sensu-grc": {
+      "tokens": 7868,
+      "recognized": 7840,
+      "forms": 1871,
+      "recognizedForms": 1871,
+      "matchedDiorisis": true
+    },
+    "de-somno-grc": {
+      "tokens": 2989,
+      "recognized": 2980,
+      "forms": 974,
+      "recognizedForms": 974,
+      "matchedDiorisis": true
+    },
+    "de-spiritu-grc": {
+      "tokens": 3463,
+      "recognized": 3413,
+      "forms": 1021,
+      "recognizedForms": 1021,
+      "matchedDiorisis": false
+    },
+    "de-ventis-grc": {
+      "tokens": 426,
+      "recognized": 375,
+      "forms": 176,
+      "recognizedForms": 176,
+      "matchedDiorisis": false
+    },
+    "economics-grc": {
+      "tokens": 6247,
+      "recognized": 6216,
+      "forms": 2232,
+      "recognizedForms": 2232,
+      "matchedDiorisis": true
+    },
+    "euclid-elements": {
+      "tokens": 150379,
+      "recognized": 131170,
+      "forms": 2257,
+      "recognizedForms": 2257,
+      "matchedDiorisis": true
+    },
+    "eudemian-ethics-grc": {
+      "tokens": 26299,
+      "recognized": 26263,
+      "forms": 4638,
+      "recognizedForms": 4638,
+      "matchedDiorisis": true
+    },
+    "euripides-alcestis-grc": {
+      "tokens": 6930,
+      "recognized": 6662,
+      "forms": 2858,
+      "recognizedForms": 2858,
+      "matchedDiorisis": false
+    },
+    "euripides-andromache-grc": {
+      "tokens": 7632,
+      "recognized": 7291,
+      "forms": 3197,
+      "recognizedForms": 3197,
+      "matchedDiorisis": false
+    },
+    "euripides-bacchae-grc": {
+      "tokens": 8013,
+      "recognized": 7847,
+      "forms": 3646,
+      "recognizedForms": 3646,
+      "matchedDiorisis": true
+    },
+    "euripides-cyclops-grc": {
+      "tokens": 4411,
+      "recognized": 4125,
+      "forms": 2082,
+      "recognizedForms": 2082,
+      "matchedDiorisis": false
+    },
+    "euripides-electra-grc": {
+      "tokens": 8103,
+      "recognized": 7945,
+      "forms": 3641,
+      "recognizedForms": 3641,
+      "matchedDiorisis": true
+    },
+    "euripides-hecuba-grc": {
+      "tokens": 7588,
+      "recognized": 7457,
+      "forms": 3386,
+      "recognizedForms": 3386,
+      "matchedDiorisis": true
+    },
+    "euripides-helen-grc": {
+      "tokens": 10453,
+      "recognized": 10158,
+      "forms": 4269,
+      "recognizedForms": 4269,
+      "matchedDiorisis": true
+    },
+    "euripides-heracleidae-grc": {
+      "tokens": 6473,
+      "recognized": 6230,
+      "forms": 2641,
+      "recognizedForms": 2641,
+      "matchedDiorisis": false
+    },
+    "euripides-heracles-grc": {
+      "tokens": 8246,
+      "recognized": 8113,
+      "forms": 3721,
+      "recognizedForms": 3721,
+      "matchedDiorisis": true
+    },
+    "euripides-hippolytus-grc": {
+      "tokens": 8532,
+      "recognized": 8120,
+      "forms": 3442,
+      "recognizedForms": 3442,
+      "matchedDiorisis": false
+    },
+    "euripides-ion-grc": {
+      "tokens": 9857,
+      "recognized": 9686,
+      "forms": 4105,
+      "recognizedForms": 4105,
+      "matchedDiorisis": true
+    },
+    "euripides-iphigenia-in-aulis-grc": {
+      "tokens": 9897,
+      "recognized": 9734,
+      "forms": 4021,
+      "recognizedForms": 4021,
+      "matchedDiorisis": true
+    },
+    "euripides-iphigenia-in-tauris-grc": {
+      "tokens": 8850,
+      "recognized": 8686,
+      "forms": 3847,
+      "recognizedForms": 3847,
+      "matchedDiorisis": true
+    },
+    "euripides-medea-grc": {
+      "tokens": 8297,
+      "recognized": 7976,
+      "forms": 3297,
+      "recognizedForms": 3297,
+      "matchedDiorisis": false
+    },
+    "euripides-orestes-grc": {
+      "tokens": 10614,
+      "recognized": 10459,
+      "forms": 4245,
+      "recognizedForms": 4245,
+      "matchedDiorisis": true
+    },
+    "euripides-phoenician-women-grc": {
+      "tokens": 10359,
+      "recognized": 10189,
+      "forms": 4442,
+      "recognizedForms": 4442,
+      "matchedDiorisis": true
+    },
+    "euripides-rhesus-grc": {
+      "tokens": 5664,
+      "recognized": 5574,
+      "forms": 2822,
+      "recognizedForms": 2822,
+      "matchedDiorisis": true
+    },
+    "euripides-suppliants-grc": {
+      "tokens": 7361,
+      "recognized": 7265,
+      "forms": 3405,
+      "recognizedForms": 3405,
+      "matchedDiorisis": true
+    },
+    "euripides-trojan-women-grc": {
+      "tokens": 7449,
+      "recognized": 7282,
+      "forms": 3561,
+      "recognizedForms": 3561,
+      "matchedDiorisis": true
+    },
+    "herodotus-histories-grc": {
+      "tokens": 184933,
+      "recognized": 184026,
+      "forms": 28683,
+      "recognizedForms": 28683,
+      "matchedDiorisis": true
+    },
+    "historia-animalium-grc": {
+      "tokens": 94055,
+      "recognized": 91187,
+      "forms": 11705,
+      "recognizedForms": 11705,
+      "matchedDiorisis": false
+    },
+    "iliad-grc": {
+      "tokens": 111868,
+      "recognized": 111533,
+      "forms": 21131,
+      "recognizedForms": 21131,
+      "matchedDiorisis": true
+    },
+    "isagoge-grc": {
+      "tokens": 5583,
+      "recognized": 5298,
+      "forms": 1018,
+      "recognizedForms": 1018,
+      "matchedDiorisis": false
+    },
+    "jewish-antiquities-grc": {
+      "tokens": 311416,
+      "recognized": 305158,
+      "forms": 40637,
+      "recognizedForms": 40637,
+      "matchedDiorisis": true
+    },
+    "jewish-war-grc": {
+      "tokens": 125211,
+      "recognized": 123727,
+      "forms": 23828,
+      "recognizedForms": 23828,
+      "matchedDiorisis": true
+    },
+    "magna-moralia-grc": {
+      "tokens": 23561,
+      "recognized": 22691,
+      "forms": 3512,
+      "recognizedForms": 3512,
+      "matchedDiorisis": false
+    },
+    "mechanica-grc": {
+      "tokens": 8346,
+      "recognized": 7829,
+      "forms": 1619,
+      "recognizedForms": 1619,
+      "matchedDiorisis": false
+    },
+    "meditations-grc": {
+      "tokens": 29231,
+      "recognized": 29120,
+      "forms": 7814,
+      "recognizedForms": 7814,
+      "matchedDiorisis": true
+    },
+    "metaphysics-grc": {
+      "tokens": 78713,
+      "recognized": 78623,
+      "forms": 6820,
+      "recognizedForms": 6820,
+      "matchedDiorisis": true
+    },
+    "meteorologica-grc": {
+      "tokens": 33784,
+      "recognized": 33114,
+      "forms": 5254,
+      "recognizedForms": 5254,
+      "matchedDiorisis": false
+    },
+    "nicomachean-ethics-grc": {
+      "tokens": 56418,
+      "recognized": 56364,
+      "forms": 8464,
+      "recognizedForms": 8464,
+      "matchedDiorisis": true
+    },
+    "odyssey-grc": {
+      "tokens": 87193,
+      "recognized": 86936,
+      "forms": 17226,
+      "recognizedForms": 17226,
+      "matchedDiorisis": true
+    },
+    "physics-grc": {
+      "tokens": 54912,
+      "recognized": 53769,
+      "forms": 4903,
+      "recognizedForms": 4903,
+      "matchedDiorisis": false
+    },
+    "physiognomonica-grc": {
+      "tokens": 5763,
+      "recognized": 5390,
+      "forms": 1576,
+      "recognizedForms": 1576,
+      "matchedDiorisis": false
+    },
+    "plato-alcibiades-1-grc": {
+      "tokens": 11166,
+      "recognized": 10250,
+      "forms": 2676,
+      "recognizedForms": 2676,
+      "matchedDiorisis": true
+    },
+    "plato-alcibiades-2-grc": {
+      "tokens": 4360,
+      "recognized": 4175,
+      "forms": 1461,
+      "recognizedForms": 1461,
+      "matchedDiorisis": true
+    },
+    "plato-apology-grc": {
+      "tokens": 8750,
+      "recognized": 8743,
+      "forms": 2608,
+      "recognizedForms": 2608,
+      "matchedDiorisis": true
+    },
+    "plato-charmides-grc": {
+      "tokens": 8305,
+      "recognized": 8301,
+      "forms": 2124,
+      "recognizedForms": 2124,
+      "matchedDiorisis": true
+    },
+    "plato-cleitophon-grc": {
+      "tokens": 1556,
+      "recognized": 1548,
+      "forms": 742,
+      "recognizedForms": 742,
+      "matchedDiorisis": true
+    },
+    "plato-cratylus-grc": {
+      "tokens": 18906,
+      "recognized": 18069,
+      "forms": 3907,
+      "recognizedForms": 3907,
+      "matchedDiorisis": true
+    },
+    "plato-critias-grc": {
+      "tokens": 4972,
+      "recognized": 4948,
+      "forms": 2056,
+      "recognizedForms": 2056,
+      "matchedDiorisis": true
+    },
+    "plato-crito-grc": {
+      "tokens": 4276,
+      "recognized": 4169,
+      "forms": 1470,
+      "recognizedForms": 1470,
+      "matchedDiorisis": true
+    },
+    "plato-epinomis-grc": {
+      "tokens": 6357,
+      "recognized": 6310,
+      "forms": 2200,
+      "recognizedForms": 2200,
+      "matchedDiorisis": true
+    },
+    "plato-euthydemus-grc": {
+      "tokens": 12550,
+      "recognized": 12450,
+      "forms": 3018,
+      "recognizedForms": 3018,
+      "matchedDiorisis": true
+    },
+    "plato-euthyphro-grc": {
+      "tokens": 5412,
+      "recognized": 5179,
+      "forms": 1479,
+      "recognizedForms": 1479,
+      "matchedDiorisis": true
+    },
+    "plato-gorgias-grc": {
+      "tokens": 27354,
+      "recognized": 26236,
+      "forms": 5279,
+      "recognizedForms": 5279,
+      "matchedDiorisis": true
+    },
+    "plato-greater-hippias-grc": {
+      "tokens": 8805,
+      "recognized": 8443,
+      "forms": 2150,
+      "recognizedForms": 2150,
+      "matchedDiorisis": true
+    },
+    "plato-hipparchus-grc": {
+      "tokens": 2402,
+      "recognized": 2238,
+      "forms": 841,
+      "recognizedForms": 841,
+      "matchedDiorisis": true
+    },
+    "plato-ion-grc": {
+      "tokens": 4025,
+      "recognized": 3845,
+      "forms": 1313,
+      "recognizedForms": 1313,
+      "matchedDiorisis": true
+    },
+    "plato-laches-grc": {
+      "tokens": 7928,
+      "recognized": 7669,
+      "forms": 2247,
+      "recognizedForms": 2247,
+      "matchedDiorisis": true
+    },
+    "plato-laws-grc": {
+      "tokens": 104959,
+      "recognized": 103029,
+      "forms": 17390,
+      "recognizedForms": 17390,
+      "matchedDiorisis": true
+    },
+    "plato-lesser-hippias-grc": {
+      "tokens": 4415,
+      "recognized": 4181,
+      "forms": 1389,
+      "recognizedForms": 1389,
+      "matchedDiorisis": true
+    },
+    "plato-letters-grc": {
+      "tokens": 16965,
+      "recognized": 16944,
+      "forms": 4947,
+      "recognizedForms": 4947,
+      "matchedDiorisis": true
+    },
+    "plato-lovers-grc": {
+      "tokens": 2391,
+      "recognized": 2391,
+      "forms": 933,
+      "recognizedForms": 933,
+      "matchedDiorisis": true
+    },
+    "plato-lysis-grc": {
+      "tokens": 6947,
+      "recognized": 6923,
+      "forms": 1941,
+      "recognizedForms": 1941,
+      "matchedDiorisis": true
+    },
+    "plato-menexenus-grc": {
+      "tokens": 4854,
+      "recognized": 4806,
+      "forms": 1917,
+      "recognizedForms": 1917,
+      "matchedDiorisis": true
+    },
+    "plato-meno-grc": {
+      "tokens": 10273,
+      "recognized": 9750,
+      "forms": 2367,
+      "recognizedForms": 2367,
+      "matchedDiorisis": true
+    },
+    "plato-minos-grc": {
+      "tokens": 3019,
+      "recognized": 2826,
+      "forms": 1028,
+      "recognizedForms": 1028,
+      "matchedDiorisis": true
+    },
+    "plato-parmenides-grc": {
+      "tokens": 15244,
+      "recognized": 15244,
+      "forms": 2042,
+      "recognizedForms": 2042,
+      "matchedDiorisis": true
+    },
+    "plato-phaedo-grc": {
+      "tokens": 22449,
+      "recognized": 22343,
+      "forms": 4877,
+      "recognizedForms": 4877,
+      "matchedDiorisis": true
+    },
+    "plato-phaedrus-grc": {
+      "tokens": 17003,
+      "recognized": 16583,
+      "forms": 5112,
+      "recognizedForms": 5112,
+      "matchedDiorisis": true
+    },
+    "plato-philebus-grc": {
+      "tokens": 18799,
+      "recognized": 17648,
+      "forms": 4047,
+      "recognizedForms": 4047,
+      "matchedDiorisis": true
+    },
+    "plato-protagoras-grc": {
+      "tokens": 17607,
+      "recognized": 17515,
+      "forms": 4166,
+      "recognizedForms": 4166,
+      "matchedDiorisis": true
+    },
+    "plato-republic-grc": {
+      "tokens": 88210,
+      "recognized": 88187,
+      "forms": 15043,
+      "recognizedForms": 15043,
+      "matchedDiorisis": true
+    },
+    "plato-sophist-grc": {
+      "tokens": 17171,
+      "recognized": 15992,
+      "forms": 3820,
+      "recognizedForms": 3820,
+      "matchedDiorisis": true
+    },
+    "plato-statesman-grc": {
+      "tokens": 18291,
+      "recognized": 16947,
+      "forms": 4699,
+      "recognizedForms": 4699,
+      "matchedDiorisis": true
+    },
+    "plato-symposium-grc": {
+      "tokens": 17355,
+      "recognized": 17338,
+      "forms": 4676,
+      "recognizedForms": 4676,
+      "matchedDiorisis": true
+    },
+    "plato-theaetetus-grc": {
+      "tokens": 23524,
+      "recognized": 22484,
+      "forms": 5165,
+      "recognizedForms": 5165,
+      "matchedDiorisis": true
+    },
+    "plato-theages-grc": {
+      "tokens": 3602,
+      "recognized": 3510,
+      "forms": 1252,
+      "recognizedForms": 1252,
+      "matchedDiorisis": true
+    },
+    "plato-timaeus-grc": {
+      "tokens": 23784,
+      "recognized": 23735,
+      "forms": 6398,
+      "recognizedForms": 6398,
+      "matchedDiorisis": true
+    },
+    "plutarch-aemilius-paulus-grc": {
+      "tokens": 9614,
+      "recognized": 9561,
+      "forms": 4069,
+      "recognizedForms": 4069,
+      "matchedDiorisis": true
+    },
+    "plutarch-agesilaus-grc": {
+      "tokens": 10722,
+      "recognized": 10684,
+      "forms": 3984,
+      "recognizedForms": 3984,
+      "matchedDiorisis": true
+    },
+    "plutarch-agis-and-cleomenes-grc": {
+      "tokens": 13414,
+      "recognized": 13317,
+      "forms": 4754,
+      "recognizedForms": 4754,
+      "matchedDiorisis": false
+    },
+    "plutarch-alcibiades-grc": {
+      "tokens": 10042,
+      "recognized": 9998,
+      "forms": 4009,
+      "recognizedForms": 4009,
+      "matchedDiorisis": true
+    },
+    "plutarch-alexander-grc": {
+      "tokens": 19877,
+      "recognized": 19766,
+      "forms": 6995,
+      "recognizedForms": 6995,
+      "matchedDiorisis": true
+    },
+    "plutarch-antony-grc": {
+      "tokens": 18468,
+      "recognized": 18264,
+      "forms": 6521,
+      "recognizedForms": 6521,
+      "matchedDiorisis": true
+    },
+    "plutarch-aratus-grc": {
+      "tokens": 11756,
+      "recognized": 11700,
+      "forms": 4417,
+      "recognizedForms": 4417,
+      "matchedDiorisis": true
+    },
+    "plutarch-aristides-grc": {
+      "tokens": 8142,
+      "recognized": 8116,
+      "forms": 3296,
+      "recognizedForms": 3296,
+      "matchedDiorisis": true
+    },
+    "plutarch-artaxerxes-grc": {
+      "tokens": 7345,
+      "recognized": 7270,
+      "forms": 3009,
+      "recognizedForms": 3009,
+      "matchedDiorisis": true
+    },
+    "plutarch-brutus-grc": {
+      "tokens": 11877,
+      "recognized": 11739,
+      "forms": 4445,
+      "recognizedForms": 4445,
+      "matchedDiorisis": true
+    },
+    "plutarch-caesar-grc": {
+      "tokens": 16007,
+      "recognized": 15882,
+      "forms": 5726,
+      "recognizedForms": 5726,
+      "matchedDiorisis": true
+    },
+    "plutarch-caius-marcius-coriolanus-grc": {
+      "tokens": 9335,
+      "recognized": 9293,
+      "forms": 3692,
+      "recognizedForms": 3692,
+      "matchedDiorisis": true
+    },
+    "plutarch-caius-marius-grc": {
+      "tokens": 12787,
+      "recognized": 12635,
+      "forms": 4890,
+      "recognizedForms": 4890,
+      "matchedDiorisis": true
+    },
+    "plutarch-camillus-grc": {
+      "tokens": 11041,
+      "recognized": 10938,
+      "forms": 4203,
+      "recognizedForms": 4203,
+      "matchedDiorisis": true
+    },
+    "plutarch-cato-the-younger-grc": {
+      "tokens": 16626,
+      "recognized": 16495,
+      "forms": 5596,
+      "recognizedForms": 5596,
+      "matchedDiorisis": true
+    },
+    "plutarch-cicero-grc": {
+      "tokens": 11957,
+      "recognized": 11848,
+      "forms": 4379,
+      "recognizedForms": 4379,
+      "matchedDiorisis": true
+    },
+    "plutarch-cimon-grc": {
+      "tokens": 5846,
+      "recognized": 5817,
+      "forms": 2634,
+      "recognizedForms": 2634,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-agesilaus-and-pompey-grc": {
+      "tokens": 1079,
+      "recognized": 1072,
+      "forms": 652,
+      "recognizedForms": 652,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-agis-and-cleomenes-and-the-gracchi-grc": {
+      "tokens": 974,
+      "recognized": 969,
+      "forms": 586,
+      "recognizedForms": 586,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-alcibiades-and-coriolanus-grc": {
+      "tokens": 1068,
+      "recognized": 1065,
+      "forms": 604,
+      "recognizedForms": 604,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-aristides-and-marcus-cato-grc": {
+      "tokens": 1461,
+      "recognized": 1452,
+      "forms": 846,
+      "recognizedForms": 846,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-demetrius-and-antony-grc": {
+      "tokens": 880,
+      "recognized": 877,
+      "forms": 523,
+      "recognizedForms": 523,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-demosthenes-and-cicero-grc": {
+      "tokens": 976,
+      "recognized": 947,
+      "forms": 571,
+      "recognizedForms": 571,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-dion-and-brutus-grc": {
+      "tokens": 936,
+      "recognized": 935,
+      "forms": 533,
+      "recognizedForms": 533,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-lucullus-and-cimon-grc": {
+      "tokens": 984,
+      "recognized": 971,
+      "forms": 554,
+      "recognizedForms": 554,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-lycurgus-and-numa-grc": {
+      "tokens": 1587,
+      "recognized": 1580,
+      "forms": 884,
+      "recognizedForms": 884,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-lysander-and-sulla-grc": {
+      "tokens": 1233,
+      "recognized": 1230,
+      "forms": 702,
+      "recognizedForms": 702,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-nicias-and-crassus-grc": {
+      "tokens": 1206,
+      "recognized": 1201,
+      "forms": 690,
+      "recognizedForms": 690,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-pelopidas-and-marcellus-grc": {
+      "tokens": 800,
+      "recognized": 797,
+      "forms": 479,
+      "recognizedForms": 479,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-pericles-and-fabius-maximus-grc": {
+      "tokens": 719,
+      "recognized": 717,
+      "forms": 447,
+      "recognizedForms": 447,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-philopoemen-and-titus-grc": {
+      "tokens": 547,
+      "recognized": 545,
+      "forms": 329,
+      "recognizedForms": 329,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-sertorius-and-eumenes-grc": {
+      "tokens": 397,
+      "recognized": 396,
+      "forms": 238,
+      "recognizedForms": 238,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-solon-and-publicola-grc": {
+      "tokens": 940,
+      "recognized": 936,
+      "forms": 559,
+      "recognizedForms": 559,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-theseus-and-romulus-grc": {
+      "tokens": 1156,
+      "recognized": 1152,
+      "forms": 682,
+      "recognizedForms": 682,
+      "matchedDiorisis": true
+    },
+    "plutarch-comparison-of-timoleon-and-aemilius-grc": {
+      "tokens": 478,
+      "recognized": 477,
+      "forms": 324,
+      "recognizedForms": 324,
+      "matchedDiorisis": true
+    },
+    "plutarch-crassus-grc": {
+      "tokens": 10216,
+      "recognized": 10084,
+      "forms": 4098,
+      "recognizedForms": 4098,
+      "matchedDiorisis": true
+    },
+    "plutarch-demetrius-grc": {
+      "tokens": 12290,
+      "recognized": 12214,
+      "forms": 4557,
+      "recognizedForms": 4557,
+      "matchedDiorisis": true
+    },
+    "plutarch-demosthenes-grc": {
+      "tokens": 6820,
+      "recognized": 6795,
+      "forms": 2880,
+      "recognizedForms": 2880,
+      "matchedDiorisis": true
+    },
+    "plutarch-dion-grc": {
+      "tokens": 11765,
+      "recognized": 11741,
+      "forms": 4367,
+      "recognizedForms": 4367,
+      "matchedDiorisis": true
+    },
+    "plutarch-eumenes-grc": {
+      "tokens": 5510,
+      "recognized": 5473,
+      "forms": 2377,
+      "recognizedForms": 2377,
+      "matchedDiorisis": true
+    },
+    "plutarch-fabius-maximus-grc": {
+      "tokens": 7713,
+      "recognized": 7666,
+      "forms": 3148,
+      "recognizedForms": 3148,
+      "matchedDiorisis": true
+    },
+    "plutarch-galba-grc": {
+      "tokens": 6146,
+      "recognized": 6038,
+      "forms": 2625,
+      "recognizedForms": 2625,
+      "matchedDiorisis": true
+    },
+    "plutarch-lucullus-grc": {
+      "tokens": 13327,
+      "recognized": 13051,
+      "forms": 5037,
+      "recognizedForms": 5037,
+      "matchedDiorisis": true
+    },
+    "plutarch-lycurgus-grc": {
+      "tokens": 9391,
+      "recognized": 9356,
+      "forms": 3875,
+      "recognizedForms": 3875,
+      "matchedDiorisis": true
+    },
+    "plutarch-lysander-grc": {
+      "tokens": 8127,
+      "recognized": 8098,
+      "forms": 3411,
+      "recognizedForms": 3411,
+      "matchedDiorisis": true
+    },
+    "plutarch-marcellus-grc": {
+      "tokens": 8423,
+      "recognized": 8351,
+      "forms": 3463,
+      "recognizedForms": 3463,
+      "matchedDiorisis": true
+    },
+    "plutarch-marcus-cato-grc": {
+      "tokens": 8065,
+      "recognized": 8021,
+      "forms": 3368,
+      "recognizedForms": 3368,
+      "matchedDiorisis": true
+    },
+    "plutarch-nicias-grc": {
+      "tokens": 8992,
+      "recognized": 8969,
+      "forms": 3575,
+      "recognizedForms": 3575,
+      "matchedDiorisis": true
+    },
+    "plutarch-numa-grc": {
+      "tokens": 7506,
+      "recognized": 7404,
+      "forms": 3149,
+      "recognizedForms": 3149,
+      "matchedDiorisis": true
+    },
+    "plutarch-otho-grc": {
+      "tokens": 4129,
+      "recognized": 4060,
+      "forms": 1940,
+      "recognizedForms": 1940,
+      "matchedDiorisis": true
+    },
+    "plutarch-pelopidas-grc": {
+      "tokens": 9410,
+      "recognized": 9367,
+      "forms": 3731,
+      "recognizedForms": 3731,
+      "matchedDiorisis": true
+    },
+    "plutarch-pericles-grc": {
+      "tokens": 9941,
+      "recognized": 9906,
+      "forms": 4038,
+      "recognizedForms": 4038,
+      "matchedDiorisis": true
+    },
+    "plutarch-philopoemen-grc": {
+      "tokens": 5686,
+      "recognized": 5666,
+      "forms": 2484,
+      "recognizedForms": 2484,
+      "matchedDiorisis": true
+    },
+    "plutarch-phocion-grc": {
+      "tokens": 8159,
+      "recognized": 8123,
+      "forms": 3312,
+      "recognizedForms": 3312,
+      "matchedDiorisis": true
+    },
+    "plutarch-pompey-grc": {
+      "tokens": 20100,
+      "recognized": 19947,
+      "forms": 6749,
+      "recognizedForms": 6749,
+      "matchedDiorisis": true
+    },
+    "plutarch-publicola-grc": {
+      "tokens": 5843,
+      "recognized": 5713,
+      "forms": 2514,
+      "recognizedForms": 2514,
+      "matchedDiorisis": true
+    },
+    "plutarch-pyrrhus-grc": {
+      "tokens": 10870,
+      "recognized": 10805,
+      "forms": 4123,
+      "recognizedForms": 4123,
+      "matchedDiorisis": true
+    },
+    "plutarch-romulus-grc": {
+      "tokens": 9211,
+      "recognized": 8961,
+      "forms": 3658,
+      "recognizedForms": 3658,
+      "matchedDiorisis": true
+    },
+    "plutarch-sertorius-grc": {
+      "tokens": 6649,
+      "recognized": 6559,
+      "forms": 2919,
+      "recognizedForms": 2919,
+      "matchedDiorisis": true
+    },
+    "plutarch-solon-grc": {
+      "tokens": 8466,
+      "recognized": 8423,
+      "forms": 3546,
+      "recognizedForms": 3546,
+      "matchedDiorisis": true
+    },
+    "plutarch-sulla-grc": {
+      "tokens": 11493,
+      "recognized": 11357,
+      "forms": 4513,
+      "recognizedForms": 4513,
+      "matchedDiorisis": true
+    },
+    "plutarch-themistocles-grc": {
+      "tokens": 7905,
+      "recognized": 7857,
+      "forms": 3314,
+      "recognizedForms": 3314,
+      "matchedDiorisis": true
+    },
+    "plutarch-theseus-grc": {
+      "tokens": 7384,
+      "recognized": 7330,
+      "forms": 3167,
+      "recognizedForms": 3167,
+      "matchedDiorisis": true
+    },
+    "plutarch-tiberius-and-caius-gracchus-grc": {
+      "tokens": 9173,
+      "recognized": 9096,
+      "forms": 3578,
+      "recognizedForms": 3578,
+      "matchedDiorisis": false
+    },
+    "plutarch-timoleon-grc": {
+      "tokens": 9051,
+      "recognized": 9026,
+      "forms": 3629,
+      "recognizedForms": 3629,
+      "matchedDiorisis": true
+    },
+    "plutarch-titus-flamininus-grc": {
+      "tokens": 5817,
+      "recognized": 5781,
+      "forms": 2567,
+      "recognizedForms": 2567,
+      "matchedDiorisis": true
+    },
+    "poetics-grc": {
+      "tokens": 10226,
+      "recognized": 10188,
+      "forms": 2818,
+      "recognizedForms": 2818,
+      "matchedDiorisis": true
+    },
+    "politics-grc": {
+      "tokens": 65535,
+      "recognized": 65449,
+      "forms": 9497,
+      "recognizedForms": 9497,
+      "matchedDiorisis": true
+    },
+    "polybius-histories-grc": {
+      "tokens": 312013,
+      "recognized": 308882,
+      "forms": 34735,
+      "recognizedForms": 34735,
+      "matchedDiorisis": true
+    },
+    "posterior-analytics-grc": {
+      "tokens": 22668,
+      "recognized": 22646,
+      "forms": 2747,
+      "recognizedForms": 2747,
+      "matchedDiorisis": false
+    },
+    "prior-analytics-grc": {
+      "tokens": 37575,
+      "recognized": 37514,
+      "forms": 2412,
+      "recognizedForms": 2412,
+      "matchedDiorisis": true
+    },
+    "problemata-grc": {
+      "tokens": 73881,
+      "recognized": 72005,
+      "forms": 10377,
+      "recognizedForms": 10377,
+      "matchedDiorisis": false
+    },
+    "ptolemy-almagest-grc": {
+      "tokens": 175480,
+      "recognized": 151744,
+      "forms": 6789,
+      "recognizedForms": 6789,
+      "matchedDiorisis": false
+    },
+    "ptolemy-tetrabiblos-grc": {
+      "tokens": 38009,
+      "recognized": 37563,
+      "forms": 7562,
+      "recognizedForms": 7562,
+      "matchedDiorisis": true
+    },
+    "rhetoric-grc": {
+      "tokens": 43183,
+      "recognized": 43103,
+      "forms": 8253,
+      "recognizedForms": 8253,
+      "matchedDiorisis": true
+    },
+    "shield-of-heracles-grc": {
+      "tokens": 3298,
+      "recognized": 3256,
+      "forms": 1877,
+      "recognizedForms": 1877,
+      "matchedDiorisis": true
+    },
+    "sophistical-refutations-grc": {
+      "tokens": 14115,
+      "recognized": 13978,
+      "forms": 2596,
+      "recognizedForms": 2596,
+      "matchedDiorisis": false
+    },
+    "sophocles-ajax-grc": {
+      "tokens": 8225,
+      "recognized": 8134,
+      "forms": 3689,
+      "recognizedForms": 3689,
+      "matchedDiorisis": true
+    },
+    "sophocles-antigone-grc": {
+      "tokens": 7659,
+      "recognized": 7593,
+      "forms": 3549,
+      "recognizedForms": 3549,
+      "matchedDiorisis": true
+    },
+    "sophocles-electra-grc": {
+      "tokens": 9127,
+      "recognized": 9051,
+      "forms": 3707,
+      "recognizedForms": 3707,
+      "matchedDiorisis": true
+    },
+    "sophocles-ichneutae-grc": {
+      "tokens": 2561,
+      "recognized": 1967,
+      "forms": 960,
+      "recognizedForms": 960,
+      "matchedDiorisis": true
+    },
+    "sophocles-oedipus-at-colonus-grc": {
+      "tokens": 10946,
+      "recognized": 10873,
+      "forms": 4289,
+      "recognizedForms": 4289,
+      "matchedDiorisis": true
+    },
+    "sophocles-oedipus-tyrannus-grc": {
+      "tokens": 9748,
+      "recognized": 9681,
+      "forms": 3811,
+      "recognizedForms": 3811,
+      "matchedDiorisis": true
+    },
+    "sophocles-philoctetes-grc": {
+      "tokens": 9246,
+      "recognized": 9198,
+      "forms": 3618,
+      "recognizedForms": 3618,
+      "matchedDiorisis": true
+    },
+    "sophocles-trachiniae-grc": {
+      "tokens": 7568,
+      "recognized": 7499,
+      "forms": 3492,
+      "recognizedForms": 3492,
+      "matchedDiorisis": true
+    },
+    "theogony-grc": {
+      "tokens": 7040,
+      "recognized": 6952,
+      "forms": 3219,
+      "recognizedForms": 3219,
+      "matchedDiorisis": true
+    },
+    "thucydides-history-grc": {
+      "tokens": 150157,
+      "recognized": 149865,
+      "forms": 22340,
+      "recognizedForms": 22340,
+      "matchedDiorisis": true
+    },
+    "topics-grc": {
+      "tokens": 44116,
+      "recognized": 43776,
+      "forms": 4465,
+      "recognizedForms": 4465,
+      "matchedDiorisis": false
+    },
+    "virtues-and-vices-grc": {
+      "tokens": 1498,
+      "recognized": 1494,
+      "forms": 570,
+      "recognizedForms": 570,
+      "matchedDiorisis": true
+    },
+    "works-and-days-grc": {
+      "tokens": 5856,
+      "recognized": 5829,
+      "forms": 2947,
+      "recognizedForms": 2947,
+      "matchedDiorisis": true
+    },
+    "xenophon-agesilaus-grc": {
+      "tokens": 7385,
+      "recognized": 7380,
+      "forms": 2760,
+      "recognizedForms": 2760,
+      "matchedDiorisis": true
+    },
+    "xenophon-anabasis-grc": {
+      "tokens": 57173,
+      "recognized": 57036,
+      "forms": 11165,
+      "recognizedForms": 11165,
+      "matchedDiorisis": true
+    },
+    "xenophon-apology-grc": {
+      "tokens": 2000,
+      "recognized": 2000,
+      "forms": 944,
+      "recognizedForms": 944,
+      "matchedDiorisis": true
+    },
+    "xenophon-cavalry-commander-grc": {
+      "tokens": 5780,
+      "recognized": 5776,
+      "forms": 2045,
+      "recognizedForms": 2045,
+      "matchedDiorisis": true
+    },
+    "xenophon-constitution-of-the-lacedaemonians-grc": {
+      "tokens": 4926,
+      "recognized": 4923,
+      "forms": 1991,
+      "recognizedForms": 1991,
+      "matchedDiorisis": true
+    },
+    "xenophon-cyropaedia-grc": {
+      "tokens": 79288,
+      "recognized": 79240,
+      "forms": 14185,
+      "recognizedForms": 14185,
+      "matchedDiorisis": true
+    },
+    "xenophon-hellenica-grc": {
+      "tokens": 66512,
+      "recognized": 66280,
+      "forms": 12685,
+      "recognizedForms": 12685,
+      "matchedDiorisis": true
+    },
+    "xenophon-hiero-grc": {
+      "tokens": 5969,
+      "recognized": 5967,
+      "forms": 2108,
+      "recognizedForms": 2108,
+      "matchedDiorisis": true
+    },
+    "xenophon-memorabilia-grc": {
+      "tokens": 35824,
+      "recognized": 35806,
+      "forms": 8019,
+      "recognizedForms": 8019,
+      "matchedDiorisis": true
+    },
+    "xenophon-oeconomicus-grc": {
+      "tokens": 17819,
+      "recognized": 17818,
+      "forms": 4654,
+      "recognizedForms": 4654,
+      "matchedDiorisis": true
+    },
+    "xenophon-on-horsemanship-grc": {
+      "tokens": 6983,
+      "recognized": 6980,
+      "forms": 2354,
+      "recognizedForms": 2354,
+      "matchedDiorisis": true
+    },
+    "xenophon-on-hunting-grc": {
+      "tokens": 9144,
+      "recognized": 9130,
+      "forms": 3153,
+      "recognizedForms": 3153,
+      "matchedDiorisis": true
+    },
+    "xenophon-symposium-grc": {
+      "tokens": 9532,
+      "recognized": 9522,
+      "forms": 3103,
+      "recognizedForms": 3103,
+      "matchedDiorisis": true
+    },
+    "xenophon-ways-and-means-grc": {
+      "tokens": 3855,
+      "recognized": 3848,
+      "forms": 1556,
+      "recognizedForms": 1556,
+      "matchedDiorisis": true
+    }
+  },
+  "languages": {
+    "la": {
+      "tokens": 1399948,
+      "recognized": 1392564,
+      "forms": 297430,
+      "recognizedForms": 292951
+    },
+    "it": {
+      "tokens": 18936,
+      "recognized": 17986,
+      "forms": 2954,
+      "recognizedForms": 2395
+    },
+    "grc": {
+      "tokens": 4519216,
+      "recognized": 4409612,
+      "forms": 925181,
+      "recognizedForms": 925181,
+      "lexemes": 68761
+    }
+  },
+  "grc": {
+    "totalTokens": 4519216,
+    "totalRecognized": 4409612,
+    "coverage": 0.9757471207395265,
+    "lexemes": 68761,
+    "builtAt": "2026-09-24T19:01:16.313Z"
+  }
+}

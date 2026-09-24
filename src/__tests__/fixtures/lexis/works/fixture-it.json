@@ -1,0 +1,17 @@
+{
+  "workId": "fixture-it",
+  "lang": "it",
+  "tokens": 3,
+  "recognized": 3,
+  "forms": {
+    "amore": [["it:noun:amore", "noun sg m", 1]],
+    "vuole": [["it:verb:volere", "verb pres ind act 3 sg", 1]],
+    "l'": [["it:art:il", "art sg m", 1]]
+  },
+  "lexemes": {
+    "it:noun:amore": { "id": "it:noun:amore", "lemma": "amore", "pos": "noun", "gloss": "love", "src": "wiktionary" },
+    "it:verb:volere": { "id": "it:verb:volere", "lemma": "volere", "pos": "verb", "gloss": "to want", "src": "wiktionary" },
+    "it:art:il": { "id": "it:art:il", "lemma": "il", "pos": "art", "gloss": "the", "src": "wiktionary" }
+  },
+  "analysis": "fixture"
+}

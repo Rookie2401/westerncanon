@@ -1,0 +1,13 @@
+{
+  "la:verb:amo": {
+    "id": "la:verb:amo",
+    "lemma": "amo",
+    "pos": "verb",
+    "gloss": "to love",
+    "src": "lewis-short",
+    "senses": ["to love", "to be fond of"],
+    "inflection": "amo, amare, amavi, amatum",
+    "dict": "lewis-short",
+    "rank": 1
+  }
+}

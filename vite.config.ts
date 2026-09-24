@@ -44,6 +44,17 @@ export default defineConfig({
       ],
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,woff2,json}'],
+        // The language-help data (original edition only: per-work bundles and
+        // dictionary shards, tens of MB) is fetched on first use and kept by the
+        // runtime cache below, never precached.
+        globIgnores: ['lexis/**'],
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => /\/lexis\//.test(url.pathname),
+            handler: 'StaleWhileRevalidate',
+            options: { cacheName: `lexis-${EDITION}`, expiration: { maxEntries: 800 } },
+          },
+        ],
         // The bundled corpus is ~25 MB total; search-index.json alone is ~12 MB.
         // A one-time precache of the whole corpus is the price of a real offline
         // full-text reader, so raise the per-file cap well above it.

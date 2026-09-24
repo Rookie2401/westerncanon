@@ -12,6 +12,7 @@ import { WorkAboutScreen } from './screens/WorkAbout.tsx';
 import { SearchScreen } from './screens/Search.tsx';
 import { BookmarksScreen } from './screens/Bookmarks.tsx';
 import { SettingsScreen } from './screens/Settings.tsx';
+import { VocabularyScreen } from './screens/Vocabulary.tsx';
 import { AboutScreen } from './screens/About.tsx';
 import { ProoemiumScreen } from './screens/Prooemium.tsx';
 
@@ -60,6 +61,7 @@ function AnimatedRoutes() {
         <Route path="/search" element={<SearchScreen />} />
         <Route path="/bookmarks" element={<BookmarksScreen />} />
         <Route path="/settings" element={<SettingsScreen />} />
+        <Route path="/vocabulary" element={<VocabularyScreen />} />
         <Route path="/about" element={<AboutScreen />} />
         <Route path="*" element={<Library />} />
       </Routes>

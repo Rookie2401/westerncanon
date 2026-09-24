@@ -26,6 +26,34 @@ import {
   useIsBookmarked,
 } from '../state/storage.ts';
 import { BackIcon, BookmarkIcon } from '../components/icons.tsx';
+import { lexisAvailable } from '../lexis/index.ts';
+import { useLexisSettings } from '../lexis/settings.ts';
+import { useLexis } from '../lexis/ui/useLexis.ts';
+import { TokenizedText } from '../lexis/ui/TokenizedText.tsx';
+import type { KnownWord, LexLang, WorkLexis } from '../lexis/types.ts';
+
+/** Everything a passage needs to render its text through TokenizedText
+ *  instead of as plain text — present only when the edition/settings/bundle
+ *  all allow it; PassageList falls back to plain text when it's null. */
+interface LexisCtx {
+  lang: LexLang;
+  bundle: WorkLexis;
+  statuses: Map<string, KnownWord>;
+  highlight: 'none' | 'new' | 'all';
+  morphOnFirstLevel: boolean;
+  divId: string;
+  workId: string;
+}
+
+/** The passages a division contributes to the reader — a leaf's own, or (for
+ *  a consolidated group) every child's, in order. Mirrors exactly what
+ *  ConsolidatedBody/PrelimItem and the plain-leaf branch below actually
+ *  render, so the read-encounter dwell timer covers the words really shown. */
+function allPassages(division: Division): Passage[] {
+  return division.children.length > 0
+    ? division.children.flatMap((c) => c.passages)
+    : division.passages;
+}
 
 /**
  * A passage's text, its anomaly note (if any), and its diagram (if any) — the
@@ -35,15 +63,34 @@ import { BackIcon, BookmarkIcon } from '../components/icons.tsx';
 function PassageList({
   workId,
   passages,
+  lexis,
 }: {
   workId: string;
   passages: Passage[];
+  /** null when language help isn't available/enabled/loaded — text renders
+   *  as plain strings exactly as before. */
+  lexis?: LexisCtx | null;
 }) {
   return (
     <>
       {passages.map((p, i) => (
         <div key={i} className="gr-passage">
-          <p className="gr-passage__text">{p.text}</p>
+          <p className="gr-passage__text">
+            {lexis ? (
+              <TokenizedText
+                text={p.text}
+                lang={lexis.lang}
+                workId={lexis.workId}
+                divId={lexis.divId}
+                bundle={lexis.bundle}
+                statuses={lexis.statuses}
+                highlight={lexis.highlight}
+                morphOnFirstLevel={lexis.morphOnFirstLevel}
+              />
+            ) : (
+              p.text
+            )}
+          </p>
           {p.anomaly ? (
             <p className="gr-passage__anomaly" lang="en">
               {p.anomaly}
@@ -99,12 +146,20 @@ function PassageList({
  * consolidated Preliminaries page — the leaf's own text, laid out with its
  * printed number as a small marginal numeral rather than as a separate page.
  */
-function PrelimItem({ workId, leaf }: { workId: string; leaf: Division }) {
+function PrelimItem({
+  workId,
+  leaf,
+  lexis,
+}: {
+  workId: string;
+  leaf: Division;
+  lexis?: LexisCtx | null;
+}) {
   return (
     <section id={leaf.id} className="prelim-item">
       <span className="prelim-item__num">{leaf.number}</span>
       <div className="prelim-item__body">
-        <PassageList workId={workId} passages={leaf.passages} />
+        <PassageList workId={workId} passages={leaf.passages} lexis={lexis} />
       </div>
     </section>
   );
@@ -120,9 +175,11 @@ function PrelimItem({ workId, leaf }: { workId: string; leaf: Division }) {
 function ConsolidatedBody({
   workId,
   division,
+  lexis,
 }: {
   workId: string;
   division: Division;
+  lexis?: LexisCtx | null;
 }) {
   return (
     <>
@@ -132,7 +189,7 @@ function ConsolidatedBody({
         </h1>
       </header>
       {division.children.map((leaf) => (
-        <PrelimItem key={leaf.id} workId={workId} leaf={leaf} />
+        <PrelimItem key={leaf.id} workId={workId} leaf={leaf} lexis={lexis} />
       ))}
     </>
   );
@@ -198,6 +255,36 @@ export function GenericReader() {
   const division: Division | undefined = data
     ? divisionById(data, divId)
     : undefined;
+
+  // Language help (plan §1): gated on the edition/language AND the reader's
+  // own toggle. `useLexis` is still called unconditionally (hooks can't be
+  // conditional) — it just does nothing when `lexEnabled` is false.
+  const lexisSettings = useLexisSettings();
+  const lexLang = work && lexisAvailable(work.language) ? work.language : null;
+  const lexEnabled = lexLang !== null && lexisSettings.enabled;
+  const lexPassages = useMemo(
+    () => (division ? allPassages(division) : []),
+    [division],
+  );
+  const { bundle: lexBundle, statuses: lexStatuses } = useLexis(
+    workId,
+    divId,
+    lexLang,
+    lexPassages,
+    lexEnabled,
+  );
+  const lexisCtx: LexisCtx | null =
+    lexEnabled && lexLang && lexBundle
+      ? {
+          lang: lexLang,
+          bundle: lexBundle,
+          statuses: lexStatuses,
+          highlight: lexisSettings.highlight,
+          morphOnFirstLevel: lexisSettings.morphOnFirstLevel,
+          divId,
+          workId,
+        }
+      : null;
 
   const libPath = useMemo(() => [divId], [divId]);
   const bmKey = refKey({ workId, path: libPath });
@@ -379,7 +466,7 @@ export function GenericReader() {
         >
           {division.children.length > 0 ? (
             isConsolidatableGroup(division) ? (
-              <ConsolidatedBody workId={workId} division={division} />
+              <ConsolidatedBody workId={workId} division={division} lexis={lexisCtx} />
             ) : (
               <GroupContentsFallback
                 workId={workId}
@@ -419,7 +506,7 @@ export function GenericReader() {
                   (Greek canonical page label / Latin "¶ n" pilcrow) was removed at
                   the user's request; `p.n` / `p.ref` are still carried in the JSON
                   so a marker could return later (e.g. as an optional margin note). */}
-              <PassageList workId={workId} passages={division.passages} />
+              <PassageList workId={workId} passages={division.passages} lexis={lexisCtx} />
             </>
           )}
         </article>

@@ -48,6 +48,17 @@ export function BookmarkIcon({ size = 20, filled = false }: IconProps & { filled
   );
 }
 
+/** Vocabulary: an open dictionary glyph ("Aa" over a rule). */
+export function VocabIcon({ size = 20 }: IconProps) {
+  return (
+    <svg {...base(size)}>
+      <path d="M4 18V6a2 2 0 0 1 2-2h5v14H6a2 2 0 0 0-2 2z" />
+      <path d="M20 18V6a2 2 0 0 0-2-2h-5v14h5a2 2 0 0 1 2 2z" />
+      <path d="M7 9h2M7 12h2M15 9h2M15 12h2" />
+    </svg>
+  );
+}
+
 export function ListIcon({ size = 20 }: IconProps) {
   return (
     <svg {...base(size)}>
