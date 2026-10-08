@@ -1500,18 +1500,24 @@ body {
 .lx-w:focus-visible {
   background: color-mix(in srgb, var(--ink) 6%, transparent);
 }
+/* Status marks follow Sefer/Biblia: a faint DOTTED underline in the accent
+   colour, strongest for a new word and fading as the word is learned; a
+   known, mastered or ignored word carries no mark at all. */
 .lx-w--hl {
   text-decoration-line: underline;
-  text-decoration-style: solid;
-  text-decoration-color: var(--accent-soft);
+  text-decoration-style: dotted;
   text-decoration-thickness: 1px;
-  text-underline-offset: 0.2em;
+  text-underline-offset: 0.22em;
+  text-decoration-color: color-mix(in srgb, var(--accent) 53%, transparent);
+}
+.lx-w--hl[data-status='seen'] {
+  text-decoration-color: color-mix(in srgb, var(--accent) 33%, transparent);
+}
+.lx-w--hl[data-status='recognizing'] {
+  text-decoration-color: color-mix(in srgb, var(--accent) 19%, transparent);
 }
 .lx-w--hl[data-status='known'],
-.lx-w--hl[data-status='mastered'] {
-  text-decoration-style: dotted;
-  text-decoration-color: var(--ink-faint);
-}
+.lx-w--hl[data-status='mastered'],
 .lx-w--hl[data-status='ignored'] {
   text-decoration-line: none;
 }
