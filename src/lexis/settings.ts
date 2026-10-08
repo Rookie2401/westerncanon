@@ -45,6 +45,7 @@ function parse(raw: string | null): LexisSettings {
           : DEFAULT_LEXIS_SETTINGS.autoKnownAfter,
       morphOnFirstLevel:
         typeof p.morphOnFirstLevel === 'boolean' ? p.morphOnFirstLevel : DEFAULT_LEXIS_SETTINGS.morphOnFirstLevel,
+      followPath: typeof p.followPath === 'boolean' ? p.followPath : DEFAULT_LEXIS_SETTINGS.followPath,
     };
   } catch {
     return DEFAULT_LEXIS_SETTINGS;

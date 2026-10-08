@@ -65,6 +65,23 @@ function LanguageHelpSettings() {
       </div>
 
       <div className="setting">
+        <div className="setting__label">Help follows your path</div>
+        <div className="segmented">
+          <button aria-pressed={settings.followPath} onClick={() => setLexisSettings({ followPath: true })}>
+            On
+          </button>
+          <button aria-pressed={!settings.followPath} onClick={() => setLexisSettings({ followPath: false })}>
+            Off
+          </button>
+        </div>
+        <p className="setting__note">
+          On: the stage of the unit you are reading chooses the word marks and what the first tap shows (every word marked at
+          Stage I, only new words at II–III, none from IV); the two settings below are then used only for texts off the path.
+          Off: your choices below apply everywhere. <Link to="/path">Your path →</Link>
+        </p>
+      </div>
+
+      <div className="setting">
         <div className="setting__label">Highlight words</div>
         <div className="segmented">
           {HIGHLIGHT_OPTIONS.map((o) => (

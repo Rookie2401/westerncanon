@@ -22,6 +22,7 @@ import {
   GearIcon,
   BookmarkIcon,
   VocabIcon,
+  PathIcon,
   ChevronIcon,
 } from '../components/icons.tsx';
 import { Collapsible } from '../components/Collapsible.tsx';
@@ -74,9 +75,14 @@ export function Library() {
           <BookmarkIcon />
         </Link>
         {EDITION !== 'en' ? (
-          <Link to="/vocabulary" className="iconbtn" aria-label="Vocabulary">
-            <VocabIcon />
-          </Link>
+          <>
+            <Link to="/path" className="iconbtn" aria-label="Your path">
+              <PathIcon />
+            </Link>
+            <Link to="/vocabulary" className="iconbtn" aria-label="Vocabulary">
+              <VocabIcon />
+            </Link>
+          </>
         ) : null}
         <Link to="/settings" className="iconbtn" aria-label="Reading settings">
           <GearIcon />

@@ -617,3 +617,4 @@ scripts/import-euclid/raw/heiberg-vol*/
 # Lexis raw dataset caches (re-fetchable)
 scripts/lexis/raw/
 public/lexis/
+public/course/

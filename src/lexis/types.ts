@@ -91,6 +91,10 @@ export interface KnownWord {
   first_seen: number;
   last_seen: number;
   updated_at: number;
+  /** distinct days with an unaided encounter (course familiarity estimate); absent on rows from before the course */
+  days?: number;
+  /** time of the latest lookup; absent when never looked up (or from before the course) */
+  last_lookup?: number;
 }
 
 export interface LexisSettings {
@@ -101,6 +105,8 @@ export interface LexisSettings {
   autoKnownAfter: number;
   /** show the morphology phrase on the card's first level */
   morphOnFirstLevel: boolean;
+  /** the stage of the unit being read chooses highlight/morphOnFirstLevel (docs/COURSE-PLAN.md §2.4) */
+  followPath: boolean;
 }
 
 export const DEFAULT_LEXIS_SETTINGS: LexisSettings = {
@@ -108,6 +114,7 @@ export const DEFAULT_LEXIS_SETTINGS: LexisSettings = {
   highlight: 'new',
   autoKnownAfter: 6,
   morphOnFirstLevel: true,
+  followPath: true,
 };
 
 export const WORD_STATUSES: WordStatus[] = ['new', 'seen', 'recognizing', 'known', 'mastered', 'ignored'];

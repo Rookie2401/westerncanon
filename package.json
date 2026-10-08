@@ -360,6 +360,8 @@
     "lexis:build-greek": "node scripts/lexis/build-greek.mjs",
     "lexis:build-manifest": "node scripts/lexis/build-manifest.mjs",
     "lexis:check": "node scripts/lexis/shared/check-bundles.mjs",
+    "course:build": "node scripts/course/build-ladder.mjs && node scripts/course/build-stage0.mjs",
+    "course:check": "node scripts/course/check-ladder.mjs",
     "lexis:compact": "node scripts/lexis/compact.mjs"
   },
   "dependencies": {

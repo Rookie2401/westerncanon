@@ -31,6 +31,10 @@ import { useLexisSettings } from '../lexis/settings.ts';
 import { useLexis } from '../lexis/ui/useLexis.ts';
 import { TokenizedText } from '../lexis/ui/TokenizedText.tsx';
 import type { KnownWord, LexLang, WorkLexis } from '../lexis/types.ts';
+import { courseAvailable, unitOfStop } from '../course/index.ts';
+import { effectiveSettings } from '../course/assistance.ts';
+import { PathBar } from '../course/ui/PathBar.tsx';
+import { useEvidence, useLadder } from '../course/ui/useCourse.ts';
 
 /** Everything a passage needs to render its text through TokenizedText
  *  instead of as plain text — present only when the edition/settings/bundle
@@ -273,14 +277,22 @@ export function GenericReader() {
     lexPassages,
     lexEnabled,
   );
+  // The course (docs/COURSE-PLAN.md): the ladder of this language, the unit
+  // this stop belongs to, and the stage's help profile when "Help follows
+  // your path" is on. Off the English edition every one of these is null.
+  const courseLang = work && courseAvailable(work.language) && lexEnabled ? work.language : null;
+  const { data: ladder } = useLadder(courseLang);
+  const evidence = useEvidence();
+  const onPath = ladder ? unitOfStop(ladder, workId, divId) : null;
+  const helpFor = effectiveSettings(lexisSettings, onPath ? onPath.unit.stage : null);
   const lexisCtx: LexisCtx | null =
     lexEnabled && lexLang && lexBundle
       ? {
           lang: lexLang,
           bundle: lexBundle,
           statuses: lexStatuses,
-          highlight: lexisSettings.highlight,
-          morphOnFirstLevel: lexisSettings.morphOnFirstLevel,
+          highlight: helpFor.highlight,
+          morphOnFirstLevel: helpFor.morphOnFirstLevel,
           divId,
           workId,
         }
@@ -510,6 +522,9 @@ export function GenericReader() {
             </>
           )}
         </article>
+        {ladder && courseLang ? (
+          <PathBar ladder={ladder} evidence={evidence} lang={courseLang} workId={workId} divId={divId} />
+        ) : null}
       </div>
 
       <div className="reader__chrome reader__nav">

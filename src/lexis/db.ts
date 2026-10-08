@@ -17,6 +17,8 @@ export interface LookupRow {
   /** lexeme id */
   key: string;
   workId: string;
+  /** absent on rows from before the course */
+  divId?: string;
   at: number;
 }
 
@@ -25,12 +27,25 @@ export interface ReadRow {
   workId: string;
   divId: string;
   at: number;
+  /** running words of the division (course evidence: lookups per 100 words); absent on rows from before the course */
+  words?: number;
+}
+
+/** An append-only course event (docs/COURSE-PLAN.md §3): the CourseEvent fields plus id and time. */
+export interface EventRowStored {
+  id?: number;
+  type: string;
+  lang: string;
+  at: number;
+  workId?: string;
+  [key: string]: unknown;
 }
 
 export class LexisDb extends Dexie {
   known_words!: Table<KnownWord, number>;
   lookups!: Table<LookupRow, number>;
   reads!: Table<ReadRow, number>;
+  events!: Table<EventRowStored, number>;
 
   constructor() {
     super('westerncanon-lexis');
@@ -38,6 +53,14 @@ export class LexisDb extends Dexie {
       known_words: '++id, &key, lang, status, updated_at',
       lookups: '++id, key, workId, at',
       reads: '++id, [workId+divId], at',
+    });
+    // v2 (course, docs/COURSE-PLAN.md §3): the append-only event log. The
+    // existing tables keep their indexes; new optional fields need no index.
+    this.version(2).stores({
+      known_words: '++id, &key, lang, status, updated_at',
+      lookups: '++id, key, workId, at',
+      reads: '++id, [workId+divId], at',
+      events: '++id, type, lang, workId, at',
     });
   }
 }

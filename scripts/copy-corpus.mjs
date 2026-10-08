@@ -726,6 +726,20 @@ for (const dir of GENERIC_DIRS) {
   }
 }
 
+// The course (docs/COURSE-PLAN.md): ladders and Stage 0 packs, original
+// edition only, small enough to precache. Soft: absent until the course build runs.
+{
+  const from = join(dataRoot, 'course');
+  const to = join(publicRoot, 'course');
+  rmSync(to, { recursive: true, force: true });
+  if (EDITION !== 'en' && existsSync(from)) {
+    cpSync(from, to, { recursive: true });
+    console.log('[copy-corpus] course: copied data/course -> public/course');
+  } else if (EDITION !== 'en') {
+    console.warn('[copy-corpus] course: data/course not present yet - no reading path bundled');
+  }
+}
+
 const summaPresent = (summaInEdition ? readdirSync(join(publicRoot, SUMMA_DIR)) : []).filter((f) =>
   f.endsWith('.json'),
 );

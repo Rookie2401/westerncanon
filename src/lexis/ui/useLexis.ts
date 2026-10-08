@@ -39,16 +39,18 @@ export function useLexis(
     enabled ? `lexis-work:${workId}` : 'lexis-work:disabled',
   );
 
-  const lexemeIds = useMemo(() => {
-    if (!enabled || !lang || !bundle) return [];
+  const { lexemeIds, words } = useMemo(() => {
+    if (!enabled || !lang || !bundle) return { lexemeIds: [] as string[], words: 0 };
     const ids = new Set<string>();
+    let words = 0;
     for (const p of passages) {
       for (const t of wordTokens(p.text, lang)) {
+        words++;
         const top = readingsFor(bundle, t.key, lang)[0];
         if (top) ids.add(top[0]);
       }
     }
-    return [...ids];
+    return { lexemeIds: [...ids], words };
   }, [enabled, lang, bundle, passages]);
 
   const statuses = useStatuses(lexemeIds);
@@ -56,7 +58,7 @@ export function useLexis(
   useEffect(() => {
     if (!enabled || !bundle || lexemeIds.length === 0) return undefined;
     const timer = window.setTimeout(() => {
-      recordRead(lexemeIds, { workId, divId }).catch(() => {
+      recordRead(lexemeIds, { workId, divId, words }).catch(() => {
         // offline storage failure: the next division visit will retry
       });
     }, READ_DWELL_MS);
@@ -64,7 +66,7 @@ export function useLexis(
     // lexemeIds is a derived array (new identity each recompute); its content
     // is what matters for the dwell timer, so key on its joined form.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [enabled, bundle, lexemeIds.join(' '), workId, divId]);
+  }, [enabled, bundle, lexemeIds.join(' '), words, workId, divId]);
 
   return { bundle, statuses };
 }

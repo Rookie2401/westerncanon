@@ -13,8 +13,12 @@ import { SearchScreen } from './screens/Search.tsx';
 import { BookmarksScreen } from './screens/Bookmarks.tsx';
 import { SettingsScreen } from './screens/Settings.tsx';
 import { VocabularyScreen } from './screens/Vocabulary.tsx';
+import { PathScreen } from './screens/Path.tsx';
+import { Stage0Screen } from './screens/Stage0.tsx';
+import { ProgressScreen } from './screens/Progress.tsx';
 import { AboutScreen } from './screens/About.tsx';
 import { ProoemiumScreen } from './screens/Prooemium.tsx';
+import { EDITION } from './library/edition.ts';
 
 /** Keeps <html> in sync with stored prefs and the OS theme (when theme=system). */
 function PrefsEffect() {
@@ -62,6 +66,15 @@ function AnimatedRoutes() {
         <Route path="/bookmarks" element={<BookmarksScreen />} />
         <Route path="/settings" element={<SettingsScreen />} />
         <Route path="/vocabulary" element={<VocabularyScreen />} />
+        {/* The course (docs/COURSE-PLAN.md) exists only where the language help does:
+            in the English edition these paths fall through to the Library. */}
+        {EDITION !== 'en' ? (
+          <>
+            <Route path="/path" element={<PathScreen />} />
+            <Route path="/path/:lang/start" element={<Stage0Screen />} />
+            <Route path="/progress" element={<ProgressScreen />} />
+          </>
+        ) : null}
         <Route path="/about" element={<AboutScreen />} />
         <Route path="*" element={<Library />} />
       </Routes>

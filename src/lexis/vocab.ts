@@ -19,6 +19,11 @@
  *    once per division per calendar day (see `reads` table / `readLog`); once
  *    a lexeme's encounter count reaches `autoKnownAfter` (settings.ts) it is
  *    promoted to 'known' — unless it's already 'known'/'mastered'/'ignored'.
+ *
+ * The course (docs/COURSE-PLAN.md §3) reads the same evidence: every read row
+ * (exposure) and lookup row is also kept in memory (`listReads`,
+ * `listLookups`), and a KnownWord carries `days` (distinct encounter days)
+ * and `last_lookup` for the familiarity estimate.
  */
 import { useEffect, useSyncExternalStore } from 'react';
 import { getDb, markDbUnavailable, type LookupRow, type ReadRow } from './db.ts';
@@ -39,6 +44,9 @@ function now(): number {
 const cache = new Map<string, KnownWord>();
 /** `${workId}::${divId}` -> last-recorded-read timestamp, for the once-per-day dedup. */
 const readLog = new Map<string, number>();
+/** every read / lookup row of the session and (after hydration) the store, in time order */
+const readRows: ReadRow[] = [];
+const lookupRows: LookupRow[] = [];
 
 let version = 0;
 const listeners = new Set<() => void>();
@@ -89,6 +97,13 @@ function ensureHydrated(): Promise<void> {
           const prev = readLog.get(rk);
           if (prev === undefined || r.at > prev) readLog.set(rk, r.at);
         }
+        const stored = new Set(readRows.map((r) => `${r.workId}::${r.divId}::${r.at}`));
+        for (const r of reads) if (!stored.has(`${r.workId}::${r.divId}::${r.at}`)) readRows.push(r);
+        readRows.sort((a, b) => a.at - b.at);
+        const lookups = await db.lookups.toArray();
+        const storedL = new Set(lookupRows.map((r) => `${r.key}::${r.at}`));
+        for (const r of lookups) if (!storedL.has(`${r.key}::${r.at}`)) lookupRows.push(r);
+        lookupRows.sort((a, b) => a.at - b.at);
         if (rows.length || reads.length) notify();
       } catch {
         markDbUnavailable();
@@ -103,6 +118,8 @@ function ensureHydrated(): Promise<void> {
 export function __resetVocab(): void {
   cache.clear();
   readLog.clear();
+  readRows.length = 0;
+  lookupRows.length = 0;
   hydrated = false;
   hydratePromise = null;
   version = 0;
@@ -149,14 +166,15 @@ export async function recordLookup(lexemeId: string, ref: { workId: string; divI
         : curStatus;
   const kw = touch(
     existing
-      ? { ...existing, status, reason: 'lookup', lookups: existing.lookups + 1, updated_at: t, last_seen: t }
-      : newRow(lexemeId, { status, reason: 'lookup', lookups: 1 }),
+      ? { ...existing, status, reason: 'lookup', lookups: existing.lookups + 1, updated_at: t, last_seen: t, last_lookup: t }
+      : newRow(lexemeId, { status, reason: 'lookup', lookups: 1, last_lookup: t }),
   );
   await persist(kw);
+  const row: LookupRow = { key: lexemeId, workId: ref.workId, divId: ref.divId, at: t };
+  lookupRows.push(row);
   const db = getDb();
   if (db) {
     try {
-      const row: LookupRow = { key: lexemeId, workId: ref.workId, at: t };
       await db.lookups.add(row);
     } catch {
       markDbUnavailable();
@@ -164,17 +182,21 @@ export async function recordLookup(lexemeId: string, ref: { workId: string; divI
   }
 }
 
-export async function recordRead(lexemeIds: string[], ref: { workId: string; divId: string }): Promise<void> {
+export async function recordRead(
+  lexemeIds: string[],
+  ref: { workId: string; divId: string; words?: number },
+): Promise<void> {
   await ensureHydrated();
   const t = now();
   const rk = `${ref.workId}::${ref.divId}`;
   const lastAt = readLog.get(rk);
   if (lastAt !== undefined && dayKey(lastAt) === dayKey(t)) return; // already counted today
   readLog.set(rk, t);
+  const row: ReadRow = { workId: ref.workId, divId: ref.divId, at: t, ...(ref.words !== undefined ? { words: ref.words } : {}) };
+  readRows.push(row);
   const db = getDb();
   if (db) {
     try {
-      const row: ReadRow = { workId: ref.workId, divId: ref.divId, at: t };
       await db.reads.add(row);
     } catch {
       markDbUnavailable();
@@ -184,6 +206,8 @@ export async function recordRead(lexemeIds: string[], ref: { workId: string; div
   for (const lexemeId of lexemeIds) {
     const existing = cache.get(lexemeId);
     const encounters = (existing?.encounters ?? 0) + 1;
+    // distinct encounter days: a new day when the last encounter was on another calendar day
+    const days = (existing?.days ?? (existing?.encounters ? 1 : 0)) + (existing && dayKey(existing.last_seen) === dayKey(t) && existing.encounters > 0 ? 0 : 1);
     const curStatus = existing?.status ?? 'new';
     let status: WordStatus = curStatus;
     let reason = existing?.reason ?? 'encounter';
@@ -194,11 +218,23 @@ export async function recordRead(lexemeIds: string[], ref: { workId: string; div
     }
     const kw = touch(
       existing
-        ? { ...existing, status, reason, encounters, updated_at: t, last_seen: t }
-        : newRow(lexemeId, { status, reason, encounters }),
+        ? { ...existing, status, reason, encounters, days, updated_at: t, last_seen: t }
+        : newRow(lexemeId, { status, reason, encounters, days }),
     );
     await persist(kw);
   }
+}
+
+/** Every exposure row (a division the reader dwelt on), oldest first (course evidence). */
+export async function listReads(): Promise<ReadRow[]> {
+  await ensureHydrated();
+  return [...readRows];
+}
+
+/** Every lookup row, oldest first (course evidence). */
+export async function listLookups(): Promise<LookupRow[]> {
+  await ensureHydrated();
+  return [...lookupRows];
 }
 
 /** Bulk "mark the rest as known". Returns how many rows actually changed
@@ -311,6 +347,14 @@ function snapshotFor(keys: string[], sig: string): Map<string, KnownWord> {
   }
   snapshotCache.set(sig, { version, map });
   return map;
+}
+
+/** A counter that changes on every write to the store (course screens re-read the evidence on it). */
+export function useStatusesVersion(): number {
+  useEffect(() => {
+    void ensureHydrated();
+  }, []);
+  return useSyncExternalStore(subscribe, () => version, () => 0);
 }
 
 /** Live view of the given lexeme ids' KnownWord rows; re-renders whenever any

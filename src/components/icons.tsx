@@ -59,6 +59,18 @@ export function VocabIcon({ size = 20 }: IconProps) {
   );
 }
 
+/** Your path: a winding route with three stops. */
+export function PathIcon({ size = 20 }: IconProps) {
+  return (
+    <svg {...base(size)}>
+      <path d="M5 19c0-3 2-4 5-4h4c3 0 5-1 5-4s-2-4-5-4h-4C7 7 5 6 5 4" />
+      <circle cx="5" cy="19" r="1.6" />
+      <circle cx="12" cy="11.5" r="1.6" />
+      <circle cx="19" cy="4" r="1.6" />
+    </svg>
+  );
+}
+
 export function ListIcon({ size = 20 }: IconProps) {
   return (
     <svg {...base(size)}>
